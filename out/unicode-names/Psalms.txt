@@ -12163,10 +12163,10 @@ SPACE
 l,a,ti,m,·,a,h
 SPACE
 τ,i,y,$,·sh,_,me,n.,THIN SPACE
-START b 
+START small 
 HPU PASEQ
-STOP b 
-SPACE
+STOP small 
+THIN SPACE
 α,:_,d,o,n,a,⅄,y
 SPACE
 h,a,γ,q,i,◆,y,⍭,a,h
@@ -15151,10 +15151,10 @@ HPU PASEQ
 STOP b 
 SPACE
 τ,·,w,o,r,i,d,‥,il,m.,THIN SPACE
-START b 
+START small 
 HPU PASEQ
-STOP b 
-SPACE
+STOP small 
+THIN SPACE
 l,i,v,:,α,‥,il,r
 SPACE
 $,·sh,_,◆,x,_,τ
@@ -40822,10 +40822,10 @@ n,_,f,:,$,·sh,i,𝓂,y,HPU SOF PASUQ
 h,_,⍭,·,i,y,l,‥,ti,n,i,y
 SPACE
 m,‥,α,o,y,:,v,_,me,y,THIN SPACE
-START b 
+START small 
 HPU PASEQ
-STOP b 
-SPACE
+STOP small 
+THIN SPACE
 y,:,h,o,w,a,◆,h
 SPACE
 α,‥,l,∵,me,y,k.,a

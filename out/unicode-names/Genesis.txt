@@ -8861,10 +8861,18 @@ w,:,$,·sh,∵,m,:,α,‥,p,v,∵,r,p
 SPACE
 m,∵,⅃,l,∵,k.,:
 SPACE
-START span class=mam-kq-trivial
-⍭,:,v,o,y,i,ƶ,y,m.
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,⍭,v,y,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
 SPACE
-STOP span class=mam-kq-trivial
+START span class=mam-kq-q
+LEFT SQUARE BRACKET
+⍭,:,v,w,o,y,i,ƶ,m.
+RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
+SPACE
 w,·,m,∵,me,l,∵,k.,:
 SPACE
 v,·,∵,ti,l,_,ʕ
@@ -9015,10 +9023,18 @@ SPACE
 SPACE
 w,·,m,∵,⅃,l,∵,k.,:
 SPACE
-START span class=mam-kq-trivial
-⍭,:,v,o,y,i,ƶ,y,m.
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,⍭,v,y,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
 SPACE
-STOP span class=mam-kq-trivial
+START span class=mam-kq-q
+LEFT SQUARE BRACKET
+⍭,:,v,w,o,y,i,ƶ,m.
+RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
+SPACE
 w,·,m,∵,me,l,∵,k.,:
 SPACE
 v,·,∵,ti,l,_,ʕ
