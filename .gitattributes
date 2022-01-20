@@ -1,0 +1,17 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# For any CSV file, force Git to:
+#
+#    1. normalize line endings for this file on checkin
+#    2. convert line endings to CRLF when the file is checked out
+#
+# The main reason we do this is because of the following two facts:
+#
+#    1. We write CSV files using the Python
+#       csv module, which, by default, uses \r\n (CRLF) line terminator
+#       unconditionally, i.e. on all platforms.
+#    2. We want these CSV files we write to match what git checks out
+#       for them in the working dir.
+#
+*.csv text eol=crlf
