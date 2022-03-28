@@ -763,9 +763,7 @@ LEFT PARENTHESIS,h,w,$,r,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-h,_,y,:,$,·sh,_,ti,r
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,h,_,y,:,$,·sh,_,ti,r,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -917,9 +915,7 @@ LEFT PARENTHESIS,w,α,τ,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-w,:,α,_,τ,·,a,me,h
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,w,:,α,_,τ,·,a,me,h,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -1668,9 +1664,7 @@ LEFT PARENTHESIS,ʕ,n,y,y,m.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-ʕ,:_,n,a,w,i,𝓂,y,m.
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,ʕ,:_,n,a,w,i,𝓂,y,m.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 HPU SOF PASUQ
@@ -1780,9 +1774,7 @@ LEFT PARENTHESIS,ʕ,n,w,y,m.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-ʕ,:_,γ,n,i,y,·,i,◆,y,m.
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,ʕ,:_,γ,n,i,y,·,i,◆,y,m.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -2014,9 +2006,7 @@ LEFT PARENTHESIS,w,d,k,h,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-y,i,d,:,k,·,∵,me,h
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,y,i,d,:,k,·,∵,me,h,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -2032,11 +2022,9 @@ LEFT PARENTHESIS,x,l,k,α,y,m.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-x,‥,⅃,l
+LEFT SQUARE BRACKET,x,‥,⅃,l
 SPACE
-k,·,a,α,i,𝓂,y,m.
-RIGHT SQUARE BRACKET
+k,·,a,α,i,𝓂,y,m.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 HPU SOF PASUQ
@@ -2077,9 +2065,7 @@ LEFT PARENTHESIS,ʕ,n,y,y,m.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-ʕ,:_,n,a,w,i,𝓂,y,m.
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,ʕ,:_,n,a,w,i,𝓂,y,m.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 HPU SOF PASUQ
@@ -2235,9 +2221,7 @@ LEFT PARENTHESIS,n,w,d,w,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-n,γ,◆,w,·,d,i,y
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,n,γ,◆,w,·,d,i,y,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -3245,9 +3229,7 @@ LEFT PARENTHESIS,σ,v,v,w,n,y,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-σ,:,v,a,v,⅄,w,·,n,w,·
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,σ,:,v,a,v,⅄,w,·,n,w,·,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -3317,9 +3299,7 @@ LEFT PARENTHESIS,w,⍭,f,y,n,k.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-w,·,𝓂,⍭,:,f,w,·,n,:,k.,a,~
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,w,·,𝓂,⍭,:,f,w,·,n,:,k.,a,~,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -4578,15 +4558,11 @@ SPACE
 m,_,h,HPU MAQAF
 START span class=mam-kq
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-y,·,a,me,g,∵,l
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,y,·,a,me,g,∵,l,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 SPACE
 START span class=mam-kq-k
-LEFT PARENTHESIS
-y,g,y,l
-RIGHT PARENTHESIS
+LEFT PARENTHESIS,y,g,y,l,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 STOP span class=mam-kq
 SPACE
@@ -5920,9 +5896,7 @@ LEFT PARENTHESIS,⍭,r,w,f,h,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-⍭,oa,r,:,f,a,ti,h
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,⍭,oa,r,:,f,a,ti,h,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -6777,9 +6751,7 @@ LEFT PARENTHESIS,m,y,w,r,d,y,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-m,i,y,·,oa,𝓂,r,:,d,i,y,HPU MAQAF
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,m,i,y,·,oa,𝓂,r,:,d,i,y,HPU MAQAF,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 v,𝓂,w,o,r,HPU SOF PASUQ
@@ -9768,9 +9740,7 @@ LEFT PARENTHESIS,r,d,w,f,y,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-r,oa,𝓂,d,:,f,i,y,HPU MAQAF
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,r,oa,𝓂,d,:,f,i,y,HPU MAQAF,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 θ,𝓂,w,o,v,HPU SOF PASUQ
@@ -9809,9 +9779,7 @@ LEFT PARENTHESIS,l,y,d,y,τ,w,n.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-l,i,𝓂,y,d,w,·,τ,◆,w,·,n.
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,l,i,𝓂,y,d,w,·,τ,◆,w,·,n.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -10505,9 +10473,7 @@ LEFT PARENTHESIS,y,α,$,r,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-w,:,α,u,$,·sh,·,_,⅃,r
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,w,:,α,u,$,·sh,·,_,⅃,r,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -12635,9 +12601,7 @@ LEFT PARENTHESIS,w,⍭,y,r,m.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-w,:,de,⍭,w,·,r,a,m.
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,w,:,de,⍭,w,·,r,a,m.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -13121,9 +13085,7 @@ LEFT PARENTHESIS,h,r,v,h,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-h,∵,de,r,∵,v
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,h,∵,de,r,∵,v,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -13840,9 +13802,7 @@ LEFT PARENTHESIS,y,$,w,v,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-y,a,$,·sh,i,⅃,y,v
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,y,a,$,·sh,i,⅃,y,v,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -14105,8 +14065,7 @@ LEFT PARENTHESIS,y,$,y,m,w,τ,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-y,_,$,·sh,·,i,<,y
+LEFT SQUARE BRACKET,y,_,$,·sh,·,i,<,y
 SPACE
 m,a,qa,w,∵,τ,THIN SPACE
 START b 
@@ -14405,9 +14364,7 @@ LEFT PARENTHESIS,y,⍭,f,y,n,w,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-y,i,⍭,:,f,·,◆,w,o,n,w,·
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,y,i,⍭,:,f,·,◆,w,o,n,w,·,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -15129,9 +15086,7 @@ LEFT PARENTHESIS,x,σ,d,w,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-x,_,σ,:,d,·,i,⅃,y
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,x,_,σ,:,d,·,i,⅃,y,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -15223,9 +15178,7 @@ LEFT PARENTHESIS,y,n,w,ʕ,w,n.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-y,:,n,i,y,ʕ,⅃,w,·,n.
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,y,:,n,i,y,ʕ,⅃,w,·,n.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -15403,9 +15356,7 @@ LEFT PARENTHESIS,w,ʕ,n,n,w,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-w,_,ʕ,:_,n,‥,𝓂,n,i,y
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,w,_,ʕ,:_,n,‥,𝓂,n,i,y,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 HPU SOF PASUQ
@@ -16616,15 +16567,11 @@ SPACE
 α,_,l,HPU MAQAF
 START span class=mam-kq
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-y,a,r,ti,w,·,m,w,·
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,y,a,r,ti,w,·,m,w,·,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 SPACE
 START span class=mam-kq-k
-LEFT PARENTHESIS
-y,r,y,m,w
-RIGHT PARENTHESIS
+LEFT PARENTHESIS,y,r,y,m,w,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 STOP span class=mam-kq
 SPACE
@@ -18451,9 +18398,7 @@ LEFT PARENTHESIS,x,y,$,h,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-x,𝓂,w,·,$,·sh,a,h
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,x,𝓂,w,·,$,·sh,a,h,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 HPU SOF PASUQ
@@ -18588,8 +18533,7 @@ LEFT PARENTHESIS,h,r,α,y,τ,n,w,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-h,i,r,:,α,i,y,τ,_,qa,n,i,y,THIN SPACE
+LEFT SQUARE BRACKET,h,i,r,:,α,i,y,τ,_,qa,n,i,y,THIN SPACE
 START b 
 HPU PASEQ
 STOP b 
@@ -18611,9 +18555,7 @@ LEFT PARENTHESIS,τ,x,y,n,w,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-τ,·,:,x,_,y,·,‥,⅄,n,i,y
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,τ,·,:,x,_,y,·,‥,⅄,n,i,y,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -18954,9 +18896,7 @@ LEFT PARENTHESIS,y,n,y,n.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-y,i,n,·,ah,w,o,n.
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,y,i,n,·,ah,w,o,n.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -19053,9 +18993,7 @@ LEFT PARENTHESIS,n,θ,w,y,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-n,a,θ,a,⅃,y,w,·
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,n,a,θ,a,⅃,y,w,·,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -19069,9 +19007,7 @@ LEFT PARENTHESIS,$,f,k,h,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-$,·sh,u,f,·,:,k,me,w,·
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,$,·sh,u,f,·,:,k,me,w,·,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -19181,9 +19117,7 @@ LEFT PARENTHESIS,y,$,y,v,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-y,a,$,·sh,⅃,w,·,v
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,y,a,$,·sh,⅃,w,·,v,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -19277,9 +19211,7 @@ LEFT PARENTHESIS,h,y,α,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-h,⅃,w,·,α
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,h,⅃,w,·,α,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -19557,9 +19489,7 @@ LEFT PARENTHESIS,w,ʕ,τ,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-w,:,de,ʕ,_,τ,·,a,h
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,w,:,de,ʕ,_,τ,·,a,h,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -19652,9 +19582,7 @@ LEFT PARENTHESIS,x,w,q,k.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-x,‥,y,q,:,k.,a,⅃
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,x,‥,y,q,:,k.,a,⅃,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -20225,15 +20153,11 @@ SPACE
 ʕ,_,𝓂,l,HPU MAQAF
 START span class=mam-kq
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-y,:,d,w,·,τ,◆,w,·,n.
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,y,:,d,w,·,τ,◆,w,·,n.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 SPACE
 START span class=mam-kq-k
-LEFT PARENTHESIS
-y,d,y,τ,w,n.
-RIGHT PARENTHESIS
+LEFT PARENTHESIS,y,d,y,τ,w,n.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 STOP span class=mam-kq
 SPACE
@@ -20406,9 +20330,7 @@ LEFT PARENTHESIS,α,z,k,y,r,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-α,∵,z,:,k,·,me,w,o,r
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,α,∵,z,:,k,·,me,w,o,r,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -20545,9 +20467,7 @@ LEFT PARENTHESIS,w,$,v,y,l,y,k.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-w,·,𝓂,de,$,·sh,:,v,i,y,l,:,k.,a
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,w,·,𝓂,de,$,·sh,:,v,i,y,l,:,k.,a,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -21824,9 +21744,7 @@ LEFT PARENTHESIS,v,g,y,y,m.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-v,·,_,g,·,w,o,y,i,⅃,m.
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,v,·,_,g,·,w,o,y,i,⅃,m.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -23067,9 +22985,7 @@ LEFT PARENTHESIS,$,v,w,τ,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-$,·sh,:,v,i,⅃,y,τ
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,$,·sh,:,v,i,⅃,y,τ,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -24240,9 +24156,7 @@ LEFT PARENTHESIS,τ,r,y,m.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-τ,·,a,r,me,w,·,m.
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,τ,·,a,r,me,w,·,m.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -24393,9 +24307,7 @@ LEFT PARENTHESIS,α,$,m,w,r,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-α,∵,$,·sh,:,m,oa,r,HPU MAQAF
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,α,∵,$,·sh,:,m,oa,r,HPU MAQAF,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 l,⅃,w,o
@@ -25460,15 +25372,11 @@ SPACE
 w,:,𝓂,l,o,α,HPU MAQAF
 START span class=mam-kq
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-ʕ,_,w,:,l,a,me,τ,a,h
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,ʕ,_,w,:,l,a,me,τ,a,h,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 SPACE
 START span class=mam-kq-k
-LEFT PARENTHESIS
-ʕ,l,τ,h
-RIGHT PARENTHESIS
+LEFT PARENTHESIS,ʕ,l,τ,h,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 STOP span class=mam-kq
 SPACE
@@ -26871,9 +26779,7 @@ LEFT PARENTHESIS,w,l,α,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-w,:,l,⅃,w,o
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,w,:,l,⅃,w,o,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -27008,9 +26914,7 @@ LEFT PARENTHESIS,m,l,w,$,n,y,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-m,:,l,oa,$,·sh,:,n,i,il,y
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,m,:,l,oa,$,·sh,:,n,i,il,y,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -27435,9 +27339,7 @@ LEFT PARENTHESIS,k,x,w,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-k,·,o,x,i,◆,y
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,k,·,o,x,i,◆,y,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -28596,9 +28498,7 @@ LEFT PARENTHESIS,r,g,l,y,w,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-r,_,g,:,l,⅄,w,o
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,r,_,g,:,l,⅄,w,o,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -28729,15 +28629,11 @@ SPACE
 α,∵,τ,HPU MAQAF
 START span class=mam-kq
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-d,·,:,v,a,r,𝓂,w,o
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,d,·,:,v,a,r,𝓂,w,o,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 SPACE
 START span class=mam-kq-k
-LEFT PARENTHESIS
-d,v,r,y,w
-RIGHT PARENTHESIS
+LEFT PARENTHESIS,d,v,r,y,w,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 STOP span class=mam-kq
 HPU SOF PASUQ
@@ -33443,9 +33339,7 @@ LEFT PARENTHESIS,w,y,d,ʕ,w,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-w,:,γ,y,o,d,:,ʕ,‥,◆,y
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,w,:,γ,y,o,d,:,ʕ,‥,◆,y,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -34298,9 +34192,7 @@ LEFT PARENTHESIS,l,d,v,r,y,k.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-l,i,d,:,v,a,r,:,k.,a,me
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,l,i,d,:,v,a,r,:,k.,a,me,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -34488,9 +34380,7 @@ LEFT PARENTHESIS,w,m,d,v,r,y,k.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-w,·,γ,m,i,d,·,:,v,a,r,:,k.,a,◆
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,w,·,γ,m,i,d,·,:,v,a,r,:,k.,a,◆,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -35103,11 +34993,9 @@ LEFT PARENTHESIS,l,g,α,y,w,n,y,m.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-l,i,g,:,α,‥,me,y
+LEFT SQUARE BRACKET,l,i,g,:,α,‥,me,y
 SPACE
-y,w,o,n,i,𝓂,y,m.
-RIGHT SQUARE BRACKET
+y,w,o,n,i,𝓂,y,m.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 HPU SOF PASUQ
@@ -35399,15 +35287,11 @@ SPACE
 α,∵,τ,HPU MAQAF
 START span class=mam-kq
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-$,·sh,:,v,i,y,τ,‥,⅄,n,w,·
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,$,·sh,:,v,i,y,τ,‥,⅄,n,w,·,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 SPACE
 START span class=mam-kq-k
-LEFT PARENTHESIS
-$,v,w,τ,n,w
-RIGHT PARENTHESIS
+LEFT PARENTHESIS,$,v,w,τ,n,w,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 STOP span class=mam-kq
 SPACE
@@ -35708,9 +35592,7 @@ LEFT PARENTHESIS,l,m,ʕ,n,w,τ,m.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-l,:,m,_,ʕ,:_,n,i,y,τ,a,𝓂,m.
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,l,:,m,_,ʕ,:_,n,i,y,τ,a,𝓂,m.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 HPU SOF PASUQ
@@ -37399,9 +37281,7 @@ LEFT PARENTHESIS,f,l,α,y,h,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-f,·,:,l,i,⅃,y,α,a,𝓂,h
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,f,·,:,l,i,⅃,y,α,a,𝓂,h,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -37572,9 +37452,7 @@ LEFT PARENTHESIS,w,l,α,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-w,:,l,ti,w,o
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,w,:,l,ti,w,o,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -37871,9 +37749,7 @@ LEFT PARENTHESIS,y,k,σ,w,m,w,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-y,:,k,_,σ,·,‥,𝓂,y,m,w,o
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,y,:,k,_,σ,·,‥,𝓂,y,m,w,o,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 HPU SOF PASUQ
@@ -37885,9 +37761,7 @@ LEFT PARENTHESIS,y,m,y,θ,w,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-y,i,m,·,me,w,o,θ,w,·
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,y,i,m,·,me,w,o,θ,w,·,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -37927,9 +37801,7 @@ LEFT PARENTHESIS,y,d,ʕ,τ,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-y,a,d,_,◆,ʕ,:,τ,·,i,y
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,y,a,d,_,◆,ʕ,:,τ,·,i,y,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -38926,9 +38798,7 @@ LEFT PARENTHESIS,w,g,d,l,w,τ,y,k.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET
-w,·,g,:,d,u,l,·,a,τ,:,k.,a,me
-RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,w,·,g,:,d,u,l,·,a,τ,:,k.,a,me,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
