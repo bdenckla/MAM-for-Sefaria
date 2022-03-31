@@ -800,13 +800,11 @@ SPACE
 α,:_,$,·sh,∵,r,HPU MAQAF
 START span class=mam-kq
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,h,‥,⅃,m.
-THIN SPACE
+LEFT SQUARE BRACKET,h,‥,⅃,m.,THIN SPACE
 START small 
 HPU PASEQ
 STOP small 
-THIN SPACE
-f,·,:,r,w,·,⍭,i,ƶ,y,m.,RIGHT SQUARE BRACKET
+THIN SPACE,f,·,:,r,w,·,⍭,i,ƶ,y,m.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 SPACE
 START span class=mam-kq-k

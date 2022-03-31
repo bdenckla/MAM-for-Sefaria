@@ -13876,13 +13876,11 @@ LEFT PARENTHESIS,m,n,h,σ,ʕ,r,h,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,m,i,me,n.
-THIN SPACE
+LEFT SQUARE BRACKET,m,i,me,n.,THIN SPACE
 START small 
 HPU PASEQ
 STOP small 
-THIN SPACE
-h,_,σ,·,:,ʕ,a,r,a,◆,h,RIGHT SQUARE BRACKET
+THIN SPACE,h,_,σ,·,:,ʕ,a,r,a,◆,h,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -14936,13 +14934,11 @@ LEFT PARENTHESIS,m,n,σ,ʕ,r,h,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,m,i,me,n.
-THIN SPACE
+LEFT SQUARE BRACKET,m,i,me,n.,THIN SPACE
 START small 
 HPU PASEQ
 STOP small 
-THIN SPACE
-σ,:,ʕ,a,r,a,◆,h,RIGHT SQUARE BRACKET
+THIN SPACE,σ,:,ʕ,a,r,a,◆,h,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
