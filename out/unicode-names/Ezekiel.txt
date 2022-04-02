@@ -1457,7 +1457,6 @@ START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
 START br 
-SPACE
 w,_,y,:,h,i,me,y
 SPACE
 d,:,v,_,r,HPU MAQAF,y,:,h,o,w,a,ti,h
@@ -6637,8 +6636,8 @@ SPACE
 SPACE
 START span class=mam-kq-trivial
 ʕ,∵,z,:,r,o,⟓,h
-SPACE
 STOP span class=mam-kq-trivial
+SPACE
 w,:,k,oa,l,HPU MAQAF,α,:_,g,_,f,·,a,ti,y,w
 SPACE
 α,:∵,z,a,r,∵,⅃,h
@@ -13327,7 +13326,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,_,α,:_,n,i,⟓,y
 SPACE
 α,i,d,·,a,r,‥,me,$,·sh
@@ -18765,7 +18763,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 k,·,o,<,h
 SPACE
 α,a,m,_,r,p
@@ -23402,8 +23399,8 @@ SPACE
 k,·,oa,l,HPU MAQAF
 START span class=mam-kq-trivial
 ⍭,i,d,:,q,o,τ,a,w,p
-SPACE
 STOP span class=mam-kq-trivial
+SPACE
 l,o,⅃,α
 SPACE
 τ,i,z,·,a,k,_,ƶ,r,:,n,a,h
@@ -23470,8 +23467,8 @@ y,a,m,𝓂,w,·,τ,HPU SOF PASUQ
 k,·,oa,l,HPU MAQAF
 START span class=mam-kq-trivial
 x,_,θ,·,o,α,τ,a,w,p
-SPACE
 STOP span class=mam-kq-trivial
+SPACE
 α,:_,$,·sh,∵,⅃,r
 SPACE
 x,a,θ,a,ƶ,α
@@ -26615,7 +26612,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 k,·,o,h,HPU MAQAF,α,a,m,_,⅃,r,THIN SPACE
 START b 
 HPU PASEQ
@@ -26821,8 +26817,8 @@ y,i,$,·si,:,r,a,α,‥,ti,l
 SPACE
 START span class=mam-kq-trivial
 x,:_,v,‥,r,a,⅄,w
-SPACE
 STOP span class=mam-kq-trivial
+SPACE
 w,·,l,:,q,_,x,p
 SPACE
 ʕ,‥,⅃,⍭.
@@ -26844,8 +26840,9 @@ SPACE
 y,i,$,·si,:,r,a,α,‥,ti,l
 SPACE
 START span class=mam-kq-trivial
-x,:_,v,‥,r,a,𝓂,w,HPU SOF PASUQ
+x,:_,v,‥,r,a,𝓂,w
 STOP span class=mam-kq-trivial
+HPU SOF PASUQ
 
 37:17
 w,:,q,a,r,_,qa,v
@@ -26920,8 +26917,8 @@ y,i,$,·si,:,r,a,α,‥,ti,l
 SPACE
 START span class=mam-kq-trivial
 x,:_,v,‥,r,a,⅄,w
-SPACE
 STOP span class=mam-kq-trivial
+SPACE
 w,:,n,a,τ,_,τ,·,i,y,tq
 SPACE
 α,w,o,τ,a,qa,m.
@@ -29153,8 +29150,8 @@ SPACE
 SPACE
 START span class=mam-kq-trivial
 w,:,α,‥,y,l,a,ti,w
-SPACE
 STOP span class=mam-kq-trivial
+SPACE
 $,·sh,:,τ,·,_,⅃,y,i,m.
 SPACE
 α,_,m,·,⅄,w,o,τ
@@ -29471,8 +29468,8 @@ w,:,α,‥,y,l,a,<,w
 SPACE
 START span class=mam-kq-trivial
 w,:,α,‥,𝓂,l,_,m,·,a,w,p
-SPACE
 STOP span class=mam-kq-trivial
+SPACE
 h,a,y,a,ƶ,h
 SPACE
 k,·,:,m,i,d,·,_,ti,τ
@@ -29498,14 +29495,14 @@ v,·,a,α,_,m,·,a,𝓂,h,HPU SOF PASUQ
 40:22
 START span class=mam-kq-trivial
 w,:,x,_,l,·,w,o,n,a,<,w
-SPACE
 STOP span class=mam-kq-trivial
+SPACE
 w,:,α,‥,𝓂,y,l,_,m,·,a,w,p
 SPACE
 START span class=mam-kq-trivial
 w,:,τ,i,⅃,y,m,o,r,a,ƶ,w
-SPACE
 STOP span class=mam-kq-trivial
+SPACE
 k,·,:,m,i,d,·,_,⅃,τ
 SPACE
 h,_,$,·sh,·,_,ƶ,ʕ,_,r
@@ -29572,8 +29569,8 @@ SPACE
 SPACE
 START span class=mam-kq-trivial
 w,:,α,‥,⅃,y,l,_,m,·,a,ƶ,w
-SPACE
 STOP span class=mam-kq-trivial
+SPACE
 k,·,_,m,·,i,d,·,ti,w,o,τ
 SPACE
 h,a,α,‥,𝓂,l,·,∵,h,HPU SOF PASUQ
@@ -31867,8 +31864,8 @@ SPACE
 w,:,𝓂,k,oa,l,HPU MAQAF
 START span class=mam-kq-trivial
 ⍭,w,·,r,o,τ,a,μ,w
-SPACE
 STOP span class=mam-kq-trivial
+SPACE
 w,:,α,‥,⅃,τ
 SPACE
 k,·,oa,l,HPU MAQAF,x,u,q,·,o,τ,a,y,w,tq
@@ -31876,13 +31873,13 @@ SPACE
 w,:,k,oa,l,HPU MAQAF
 START span class=mam-kq-trivial
 ⍭,qa,w,·,r,o,τ,a,<,w
-SPACE
 STOP span class=mam-kq-trivial
+SPACE
 w,:,k,oa,l,HPU MAQAF
 START span class=mam-kq-trivial
 τ,·,𝓂,w,o,r,o,τ,a,w,p
-SPACE
 STOP span class=mam-kq-trivial
+SPACE
 h,w,o,d,_,⅃,ʕ
 SPACE
 α,w,o,τ,a,ƶ,m.
@@ -32319,8 +32316,9 @@ SPACE
 w,·,m,i,l,:,α,ti,w,·
 SPACE
 START span class=mam-kq-trivial
-y,a,d,a,𝓂,w,HPU SOF PASUQ
+y,a,d,a,𝓂,w
 STOP span class=mam-kq-trivial
+HPU SOF PASUQ
 
 43:27
 w,i,𝓂,y,k,_,l,·,ti,w,·
@@ -32338,7 +32336,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,:,h,a,y,a,h,tq
 SPACE
 v,_,y,·,qa,w,o,m.
@@ -35963,8 +35960,8 @@ x,:_,m,‥,me,$,·sh
 SPACE
 START span class=mam-kq-k
 LEFT PARENTHESIS,x,m,$,RIGHT PARENTHESIS
-SPACE
 STOP span class=mam-kq-k
+SPACE
 m,‥,α,ti,w,o,τ
 SPACE
 w,:,α,_,r,:,v,·,_,⅃,ʕ,_,τ

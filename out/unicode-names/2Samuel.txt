@@ -3860,7 +3860,6 @@ START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
 START br 
-SPACE
 w,_,y,·,o,qa,α,m,∵,r
 SPACE
 y,:,h,o,w,a,<,h
@@ -4625,7 +4624,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,_,τ,·,‥,⍭,‥,G,α
 SPACE
 m,i,y,k,_,<,l
@@ -4837,7 +4835,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,_,𝓂,y,:,h,i,y,p
 SPACE
 d,·,:,v,_,r,HPU MAQAF,y,:,h,o,w,a,ƶ,h
@@ -4866,7 +4863,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 k,·,o,ti,h
 SPACE
 α,a,m,_,⅃,r
@@ -5692,8 +5688,9 @@ y,a,d,ti,w,o
 SPACE
 v,·,i,𝓂,n,:,h,_,r,HPU MAQAF
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,f,·,:,r,a,𝓂,τ,RIGHT SQUARE BRACKET,HPU SOF PASUQ
+LEFT SQUARE BRACKET,f,·,:,r,a,𝓂,τ,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
+HPU SOF PASUQ
 
 8:4
 w,_,y,·,i,l,:,k,·,o,qa,d
@@ -8115,7 +8112,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 k,·,o,h,HPU MAQAF,α,a,m,_,qa,r
 SPACE
 y,:,h,o,w,a,ge,h
@@ -8371,7 +8367,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,_,y,·,o,qa,α,m,∵,r
 SPACE
 n,a,τ,a,ge,n.
@@ -8598,8 +8593,8 @@ w,_,y,:,x,_,l,·,‥,f.,p
 SPACE
 START span class=mam-kq-trivial
 $,·si,i,m,:,l,o,τ,a,ƶ,w
-SPACE
 STOP span class=mam-kq-trivial
+SPACE
 w,_,y,·,a,v,o,me,α
 SPACE
 v,‥,y,τ,HPU MAQAF,y,:,h,o,w,a,ti,h
@@ -10032,8 +10027,8 @@ SPACE
 α,∵,τ,HPU MAQAF
 START span class=mam-kq-trivial
 ʕ,‥,y,n,a,ƶ,w
-SPACE
 STOP span class=mam-kq-trivial
+SPACE
 w,_,y,·,_,◆,r,:,α
 SPACE
 w,:,h,i,n,·,‥,qa,h
@@ -11964,8 +11959,8 @@ k,·,i,⌕,y
 SPACE
 START span class=mam-kq-k
 LEFT PARENTHESIS,α,m.,RIGHT PARENTHESIS
-SPACE
 STOP span class=mam-kq-k
+SPACE
 v,·,i,m,:,q,G,w,o,m.
 SPACE
 α,:_,$,·sh,∵,me,r
@@ -12967,7 +12962,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,:,$,·sh,i,m,:,ʕ,i,μ,y
 SPACE
 h,o,l,‥,k.,:,tq
@@ -13243,8 +13237,8 @@ SPACE
 y,i,$,·sh,:,α,_,l,HPU MAQAF
 START span class=mam-kq-q
 LEFT SQUARE BRACKET,α,i,ti,y,$,·sh,RIGHT SQUARE BRACKET
-SPACE
 STOP span class=mam-kq-q
+SPACE
 v,·,i,d,:,v,_,⅃,r
 SPACE
 h,a,α,:∵,l,o,h,i,⅄,y,m.
@@ -13723,7 +13717,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,_,y,h,o,w,a,⅃,h
 SPACE
 ⍭,i,w,·,a,◆,h
@@ -14356,7 +14349,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 h,_,m,·,∵,p,l,∵,k.,:,p
@@ -15009,8 +15001,8 @@ SPACE
 k,·,i,𝓂,y,HPU MAQAF,ʕ,_,l,HPU MAQAF
 START span class=mam-kq-q
 LEFT SQUARE BRACKET,k,·,‥,me,n.,RIGHT SQUARE BRACKET
-SPACE
 STOP span class=mam-kq-q
+SPACE
 v,·,∵,n.,HPU MAQAF,h,_,m,·,∵,ti,l,∵,k.,:
 SPACE
 m,‥,𝓂,τ,HPU SOF PASUQ
@@ -15256,7 +15248,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,_,y,·,o,◆,α,m,∵,r
 SPACE
 v,·,a,r,w,·,k.,:,p
@@ -15713,7 +15704,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 k,·,i,y,tq
 SPACE
 v,_,y,h,o,w,a,qa,h
@@ -16120,8 +16110,8 @@ h,_,θ,·,ti,w,o,v
 SPACE
 START span class=mam-kq-trivial
 v,·,:,ʕ,‥,y,n,a,⅄,w
-SPACE
 STOP span class=mam-kq-trivial
+SPACE
 w,:,$,·sh,i,m,:,ʕ,i,⅃,y
 SPACE
 v,∵,n.,HPU MAQAF,g,·,‥,r,a,◆,α
@@ -17331,8 +17321,8 @@ l,:,v,u,$,·sh,◆,w,o
 SPACE
 START span class=mam-kq-trivial
 w,:,ʕ,a,l,a,G,w
-SPACE
 STOP span class=mam-kq-trivial
+SPACE
 x,:_,g,me,w,o,r
 SPACE
 x,∵,p,r,∵,v,p
@@ -17553,7 +17543,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 START span class=mam-kq
 START span class=mam-kq-k
 LEFT PARENTHESIS,w,y,q,l,h,w,RIGHT PARENTHESIS
@@ -17962,7 +17951,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 y,:,h,o,w,a,◆,h
@@ -18148,7 +18136,6 @@ START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
 START br 
-SPACE
 w,_,y,·,o,me,α,m,∵,r
 SPACE
 h,_,m,·,∵,ti,l,∵,k.,:
@@ -18805,7 +18792,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 v,·,:,y,w,o,m.,tq
 SPACE
 h,i,⍭,·,i,qa,y,l
@@ -18855,7 +18841,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 m,a,g,i,n,·,i,G,y
 SPACE
 w,:,q,∵,⅃,r,∵,n.
@@ -18873,7 +18858,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 m,o,$,·sh,i,ʕ,i,Ƶ,y
 SPACE
 m,‥,x,a,m,a,ti,σ
@@ -18894,7 +18878,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,·,m,‥,α,o,y,:,v,_,ti,y
 SPACE
 α,i,w,·,a,$,·sh,‥,𝓂,ʕ,_,HPU SOF PASUQ
@@ -18913,7 +18896,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 n,_,x,:_,l,‥,me,y
 SPACE
 v,:,l,i,y,·,_,ti,ʕ,_,l
@@ -18934,7 +18916,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 q,i,d,·,:,m,u,ti,n,i,y
 SPACE
 m,o,me,q,:,$,·sh,‥,y
@@ -18959,7 +18940,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,_,y,·,i,$,·sh,:,m,_,<,ʕ
 SPACE
 m,‥,h,‥,𝓂,y,k,a,l,w,o,p
@@ -18992,7 +18972,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 m,w,o,σ,:,d,me,w,o,τ
 SPACE
 h,_,$,·sh,·,a,m,_,ti,y,i,m.
@@ -19025,7 +19004,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 g,·,∵,x,a,l,i,ti,y,m.
 SPACE
 v,·,a,ʕ,:_,r,me,w,·
@@ -19046,7 +19024,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,_,ʕ,:_,r,a,f,∵,ti,l
 SPACE
 τ,·,_,me,x,_,τ
@@ -19067,7 +19044,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,_,y,·,‥,r,a,ti,α
 SPACE
 ʕ,_,l,HPU MAQAF,k,·,_,n,:,f,‥,y,HPU MAQAF,r,𝓂,w,·,x,_,HPU SOF PASUQ
@@ -19088,7 +19064,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 x,_,𝓂,$,·sh,:,r,_,τ,HPU MAQAF,m,_,ti,y,i,m.
 SPACE
 ʕ,a,v,‥,me,y
@@ -19173,7 +19148,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 v,·,:,g,_,ʕ,:_,r,_,⅃,τ
 SPACE
 y,:,h,o,w,a,ƶ,h
@@ -19198,7 +19172,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 y,_,𝓂,m,:,$,·sh,‥,ti,n,i,y
 SPACE
 m,i,m,·,_,me,y,i,m.
@@ -19219,7 +19192,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 m,i,$,·si,·,o,⅃,n,:,α,_,ƶ,y
 SPACE
 k,·,i,me,y
@@ -19324,8 +19296,8 @@ SPACE
 k,oa,l,HPU MAQAF
 START span class=mam-kq-trivial
 m,i,$,·sh,:,f,·,a,θ,a,ti,w
-SPACE
 STOP span class=mam-kq-trivial
+SPACE
 l,:,n,∵,g,:,d,·,i,⅄,y
 SPACE
 w,:,x,u,q,·,o,τ,a,ti,y,w
@@ -19348,7 +19320,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,a,α,∵,$,·sh,:,τ,·,_,m,·,:,r,a,ti,h
 SPACE
 m,‥,ʕ,:_,w,hhfv,n,i,𝓂,y,HPU SOF PASUQ
@@ -19369,7 +19340,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 k,·,:,v,o,r,i,ti,y
 SPACE
 l,:,n,∵,me,g,∵,d
@@ -19388,7 +19358,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 ʕ,i,m.,HPU MAQAF,g,·,i,v,·,me,w,o,r
 SPACE
 τ,·,a,m,i,ti,y,m.
@@ -19407,7 +19376,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,:,ʕ,i,m.,HPU MAQAF,ʕ,i,q,·,‥,ti,$,·sh
 SPACE
 τ,·,i,τ,·,_,f,·,a,𝓂,l,HPU SOF PASUQ
@@ -19426,7 +19394,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,:,ʕ,‥,y,n,∵,me,y,k.,a
 SPACE
 ʕ,_,l,HPU MAQAF,r,a,m,i,ti,y,m.
@@ -19447,7 +19414,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,_,y,h,o,w,a,ti,h
 SPACE
 y,_,g,·,i,me,y,h,·,_
@@ -19470,7 +19436,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 v,·,‥,α,l,o,h,_,ti,y
 SPACE
 α,:_,d,_,l,·,∵,g,HPU MAQAF,$,·sh,𝓂,w,·,r,HPU SOF PASUQ
@@ -19495,7 +19460,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 m,a,g,‥,⅃,n.
 SPACE
 h,ƶ,w,·,α
@@ -19522,7 +19486,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,·,m,i,me,y
 SPACE
 ⍭,ti,w,·,r
@@ -19545,7 +19508,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,_,y,·,_,τ,·,‥,me,r
 SPACE
 τ,·,a,m,i,ti,y,m.
@@ -19583,7 +19545,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,:,ʕ,_,me,l
 SPACE
 v,·,a,m,o,τ,_,ti,y
@@ -19604,7 +19565,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,:,n,i,x,_,me,τ
 SPACE
 q,∵,$,·sh,∵,τ,HPU MAQAF,n,:,x,w,·,$,·sh,a,ti,h
@@ -19657,7 +19617,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,:,l,o,me,α
 SPACE
 α,a,$,·sh,ti,w,·,v
@@ -19680,7 +19639,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,_,𝓂,y,·,i,f,·,:,l,ti,w,·
 SPACE
 τ,·,_,me,x,_,τ
@@ -19701,7 +19659,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 τ,·,_,k,:,r,i,me,y,ʕ,_
 SPACE
 q,a,m,_,ti,y
@@ -19754,7 +19711,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 k,·,:,θ,i,y,θ,HPU MAQAF,x,w,·,⍭,me,w,o,τ
 SPACE
 α,:_,d,i,q,·,‥,ti,m.
@@ -19781,7 +19737,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 ʕ,_,me,m.
 SPACE
 l,o,α,HPU MAQAF,y,a,d,_,ti,ʕ,:,τ,·,i,y
@@ -19836,7 +19791,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,:,y,a,r,u,Ƶ,m.
 SPACE
 α,:∵,l,o,h,‥,ti,y
@@ -19861,7 +19815,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,·,m,o,r,i,me,y,d
 SPACE
 ʕ,_,m,·,i,ti,y,m.
@@ -19884,7 +19837,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 m,‥,α,i,me,y,$,·sh
 SPACE
 x,:_,m,a,σ,i,ti,y,m.
@@ -19907,7 +19859,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,·,l,:,$,·sh,i,m,:,k.,a,ti
 SPACE
 α,:_,z,_,m,·,‥,𝓂,r,HPU SOF PASUQ
@@ -19938,7 +19889,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 l,:,d,a,w,i,me,d
 SPACE
 w,·,l,:,z,_,r,:,ʕ,ti,w,o
@@ -20190,8 +20140,8 @@ NO-BREAK SPACE
 23:9
 START span class=mam-kq-trivial
 w,:,α,_,x,:_,r,a,⟓,w
-SPACE
 STOP span class=mam-kq-trivial
+SPACE
 α,∵,l,:,ʕ,a,z,a,me,r
 SPACE
 v,·,∵,n.,HPU MAQAF
@@ -20784,7 +20734,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 α,:∵,l,i,y,q,a,ti,α
 SPACE
 h,_,x,:_,r,o,d,i,𝓂,y,HPU SOF PASUQ
@@ -20817,7 +20766,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 ʕ,i,y,r,a,me,α
 SPACE
 v,∵,n.,HPU MAQAF,ʕ,i,q,·,‥,ti,$,·sh
@@ -20833,7 +20781,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 h,_,τ,·,:,q,w,o,ʕ,i,𝓂,y,HPU SOF PASUQ
 NO-BREAK SPACE
 START span class=mam-spi-samekh
@@ -20864,7 +20811,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 m,:,v,u,n,·,_,ti,y
 SPACE
 h,_,x,u,$,·sh,a,τ,i,𝓂,y,HPU SOF PASUQ
@@ -20897,7 +20843,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 m,_,h,:,r,_,ti,y
 SPACE
 h,_,n,·,:,θ,o,f,a,τ,i,𝓂,y,HPU SOF PASUQ
@@ -20932,7 +20877,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 α,i,τ,·,_,y,p
 SPACE
 v,·,∵,n.,HPU MAQAF,r,i,y,v,_,ƶ,y
@@ -20971,7 +20915,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 h,i,d,·,_,ti,y
 SPACE
 m,i,n,·,_,me,x,:_,l,‥,y
@@ -21006,7 +20949,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 ʕ,_,z,:,m,a,ti,w,∵,τ
 SPACE
 h,_,v,·,_,r,:,x,u,m,i,𝓂,y,HPU SOF PASUQ
@@ -21039,7 +20981,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 v,·,:,n,‥,me,y
 SPACE
 y,a,$,·sh,‥,ti,n.
@@ -21074,7 +21015,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 α,:_,x,i,y,α,a,me,m.
 SPACE
 v,·,∵,n.,HPU MAQAF,$,·sh,a,r,a,ti,r
@@ -21111,7 +21051,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 α,:∵,l,i,y,ʕ,a,me,m.
 SPACE
 v,·,∵,n.,HPU MAQAF,α,:_,x,i,y,τ,o,ti,f,∵,l
@@ -21154,7 +21093,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 f,·,_,ʕ,:_,r,_,ti,y
 SPACE
 h,a,α,_,r,:,v,·,i,𝓂,y,HPU SOF PASUQ
@@ -21189,7 +21127,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 v,·,a,n,i,ti,y
 SPACE
 h,_,g,·,a,d,i,𝓂,y,HPU SOF PASUQ
@@ -21222,7 +21159,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 n,_,x,:,r,_,y,p
 SPACE
 h,_,v,·,:,α,‥,⅃,r,o,τ,i,ƶ,y
@@ -21271,7 +21207,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 g,·,a,r,‥,ti,v
 SPACE
 h,_,y,·,i,τ,:,r,i,𝓂,y,HPU SOF PASUQ
@@ -21589,7 +21524,6 @@ START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
 START br 
-SPACE
 w,_,y,·,o,qa,α,m,∵,r
 SPACE
 d,·,a,w,i,ge,d
@@ -21631,7 +21565,6 @@ START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
 START br 
-SPACE
 w,·,d,:,v,_,r,HPU MAQAF,y,:,h,o,w,a,◆,h
 SPACE
 h,a,y,a,h,p
@@ -22056,8 +21989,8 @@ h,_,θ,·,⅃,w,o,v
 SPACE
 START span class=mam-kq-trivial
 v,·,:,ʕ,‥,y,n,a,⅄,w
-SPACE
 STOP span class=mam-kq-trivial
+SPACE
 r,:,α,‥,h,p
 SPACE
 h,_,v,·,a,q,a,⅃,r
@@ -22094,7 +22027,6 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-SPACE
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 α,:_,r,_,p,w,:,n,a,h,p
