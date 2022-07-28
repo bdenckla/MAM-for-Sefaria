@@ -1933,7 +1933,10 @@ SPACE
 l,o,𝓂,α,HPU MAQAF,v,:,r,a,𝓂,ʕ,HPU SOF PASUQ
 
 10:7
-α,a,l,a,<,h
+α,a,l,a,<,h,THIN SPACE
+START b 
+HPU PASEQ
+STOP b 
 SPACE
 f,·,i,⅃,y,h,w,·
 SPACE
@@ -8476,7 +8479,7 @@ $,·sh,i,n,·,‥,𝓂,y,m,w,o,HPU SOF PASUQ
 SPACE
 k,·,_,m,·,a,_ah,h
 SPACE
-τ,·,i,_ol,r,:,α,∵,_me,h
+τ,i,_ol,r,:,α,∵,_me,h
 SPACE
 h,a,$,·sh,i,⅃,y,v,a,h
 SPACE
@@ -13267,7 +13270,7 @@ SPACE
 SPACE
 α,:∵,l,o,h,‥,_me,y
 SPACE
-τ,·,:,$,·sh,w,·,ʕ,a,τ,i,⅄,y
+τ,:,$,·sh,w,·,ʕ,a,τ,i,⅄,y
 SPACE
 τ,·,:,r,_,n,·,‥,_me,n.
 SPACE
@@ -14815,7 +14818,7 @@ m,:,x,u,k,·,a,𝓂,m.,HPU SOF PASUQ
 SPACE
 h,:_,r,oa,σ,HPU MAQAF,$,·sh,i,n,·,‥,_me,y,m,w,o
 SPACE
-v,·,:,f,i,⅄,y,m,w,o
+v,·,:,f,i,⅄,y,m,𝓂,w,o
 SPACE
 m,_,l,:,τ,·,:,ʕ,_me,w,o,τ
 SPACE
@@ -15612,7 +15615,7 @@ l,a,ʕ,_,⅄,d
 SPACE
 l,:,𝓂,$,·sh,_,l,·,:,m,i,_me,y
 SPACE
-n,:,d,a,r,_,◆,y
+n,:,γ,d,a,r,_,◆,y
 SPACE
 y,⅃,w,o,m.,THIN SPACE
 START small 
@@ -17188,7 +17191,7 @@ $,·sh,i,n,:,α,a,⅄,n.
 SPACE
 α,:_,d,o,n,a,_me,y
 SPACE
-v,a,γ,◆,m.
+v,‾,a,γ,◆,m.
 SPACE
 σ,i,y,n,_,_me,y
 SPACE
@@ -22176,7 +22179,7 @@ SPACE
 y,_,ʕ,:_,q,o,𝓂,v,HPU SOF PASUQ
 
 81:6
-ʕ,‥,<,d,w,·,τ,THIN SPACE
+ʕ,‥,d,<,w,·,τ,THIN SPACE
 START b 
 HPU PASEQ
 STOP b 
@@ -22615,7 +22618,7 @@ v,:,𝓂,ʕ,‥,y,n.,HPU MAQAF,d,·,o,⅄,α,r
 SPACE
 h,a,_me,y,w,·
 SPACE
-d,·,o,γ,◆,m,∵,n.
+d,o,◆,γ,m,∵,n.
 SPACE
 l,a,α,:_,d,a,m,a,𝓂,h,HPU SOF PASUQ
 
@@ -24635,7 +24638,7 @@ v,·,a,r,_ti,w,·,k.,:
 SPACE
 y,:,h,o,w,a,_me,h
 SPACE
-l,:,γ,ʕ,w,o,l,a,◆,m.
+l,:,ʕ,w,o,l,a,◆,m.
 SPACE
 α,a,≁,m,‥,_me,n.,THIN SPACE
 START small 
@@ -25273,11 +25276,9 @@ k,·,i,<,y
 SPACE
 h,i,n,·,‥,_yy,h
 SPACE
-α,o,y,:,v,∵,μ,y,k.,a,THIN SPACE
-START small 
-HPU PASEQ
-STOP small 
-THIN SPACE,y,:,𝓂,h,o,w,a,◆,h
+α,o,y,:,v,∵,μ,y,k.,a
+SPACE
+y,:,𝓂,h,o,w,a,◆,h
 SPACE
 k,·,i,𝓂,y,HPU MAQAF,h,i,n,·,‥,⅃,h
 SPACE
@@ -34495,7 +34496,7 @@ h,:_,v,i,y,n,‥,𝓂,n,i,y,HPU SOF PASUQ
 119:170
 τ,·,a,v,⅃,w,o,α
 SPACE
-τ,·,:,x,i,n,·,a,τ,i,⅃,y
+τ,:,x,i,n,·,a,τ,i,⅃,y
 SPACE
 l,:,f,a,n,∵,⅄,y,k.,a
 SPACE
@@ -37056,7 +37057,7 @@ $,·sh,∵,y,·,o,α,x,‥,_sh,z
 SPACE
 w,:,n,i,f,·,‥,_il,ц.
 SPACE
-α,∵,𝓂,τ,HPU MAQAF,ʕ,o,γ,l,a,l,_,◆,y,i,k.,:
+α,∵,𝓂,τ,HPU MAQAF,ʕ,o,l,a,l,_,◆,y,i,k.,:
 SPACE
 α,∵,l,HPU MAQAF,h,_,σ,·,a,𝓂,l,_,ʕ,HPU SOF PASUQ
 NO-BREAK SPACE
