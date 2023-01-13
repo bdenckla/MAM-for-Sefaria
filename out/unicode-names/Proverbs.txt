@@ -2571,7 +2571,7 @@ w,:,l,o,𝓂,α,HPU MAQAF,y,o,γ,α,v,∵,◆,h
 SPACE
 k,·,i,⅃,y
 SPACE
-τ,_,r,:,v,·,∵,h,HPU MAQAF,$,·sh,o,𝓂,x,_,d,HPU SOF PASUQ
+τ,_,r,:,v,·,∵,h,HPU MAQAF,$,·sh,·,o,𝓂,x,_,d,HPU SOF PASUQ
 NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
@@ -3422,9 +3422,7 @@ SPACE
 α,a,d,a,m.,~
 SPACE
 $,·sh,o,m,‥,_ah,ʕ,_,𝓂,_ol
-START span class=mam-implicit-maqaf
-HPU MAQAF
-STOP span class=mam-implicit-maqaf
+SPACE
 l,i,_me,y
 SPACE
 l,i,$,·sh,:,q,o,⅃,d
@@ -10207,9 +10205,7 @@ SPACE
 h,‥,n.,~
 SPACE
 l,o,𝓂,α,HPU MAQAF,y,a,d,_,_ah,ʕ,:,n,_ol,w,·
-START span class=mam-implicit-maqaf
-HPU MAQAF
-STOP span class=mam-implicit-maqaf
+SPACE
 z,∵,_me,h
 SPACE
 h,:_,𝓂,l,o,α,HPU MAQAF,τ,o,≁,k,‥,<,n.
@@ -13118,9 +13114,7 @@ h,𝓂,w,o,n.,HPU SOF PASUQ
 $,·sh,:,α,w,o,l,~
 SPACE
 w,:,ʕ,o,_ah,ц,∵,_ol,r
-START span class=mam-implicit-maqaf
-HPU MAQAF
-STOP span class=mam-implicit-maqaf
+SPACE
 r,a,_me,x,_,m.
 SPACE
 α,∵,_de,r,∵,ц.
@@ -13821,7 +13815,7 @@ SPACE
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
-LEFT PARENTHESIS,h,y,l,k,τ,RIGHT PARENTHESIS
+LEFT PARENTHESIS,h,y,l,k,w,τ,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q

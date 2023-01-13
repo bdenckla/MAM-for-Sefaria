@@ -1134,9 +1134,7 @@ SPACE
 h,_,h,w,·,α,~
 SPACE
 y,i,q,·,a,x,‥,_ah,h,_ol,w,·
-START span class=mam-implicit-maqaf
-HPU MAQAF
-STOP span class=mam-implicit-maqaf
+SPACE
 α,o,_me,f,∵,l
 SPACE
 α,_,l,HPU MAQAF,y,i,_de,x,_,d,·,:
@@ -11481,9 +11479,7 @@ SPACE
 h,_,v,·,w,·,z,i,y,~
 SPACE
 m,i,m,·,i,$,·sh,:,f,·,_,_ah,x,_,_ol,τ
-START span class=mam-implicit-maqaf
-HPU MAQAF
-STOP span class=mam-implicit-maqaf
+SPACE
 r,a,_me,m.
 SPACE
 v,·,:,_de,α,i,y,·,w,o,v
@@ -14460,7 +14456,7 @@ y,:,r,a,x,i,⅃,y,m.
 SPACE
 τ,·,:,m,_,l,·,∵,⅄,α,n,a,h
 SPACE
-w,:,γ,y,a,d,_,◆,ʕ,:,τ,·,a
+w,:,γ,y,a,d,_,ʕ,:,τ,·,a,◆
 SPACE
 ʕ,‥,⅃,τ
 SPACE

@@ -17961,7 +17961,9 @@ w,:,α,∵,l,HPU MAQAF,v,·,‥,⅃,y,τ
 SPACE
 h,_,d,·,a,m,i,ƶ,y,m.
 SPACE
-ʕ,_,l,HPU MAQAF,α,:_,$,·sh,∵,r,HPU MAQAF,h,‥,m,i,_ti,y,τ
+ʕ,_,_me,l
+SPACE
+α,:_,$,·sh,∵,r,HPU MAQAF,h,‥,m,i,_ti,y,τ
 SPACE
 α,∵,τ,HPU MAQAF,h,_,g,·,i,v,:,ʕ,o,n,i,𝓂,y,m.,HPU SOF PASUQ
 
@@ -21441,7 +21443,7 @@ h,_,x,i,w,·,i,_ti,y
 SPACE
 w,:,h,_,𝓂,k,·,:,n,_,ʕ,:_,n,i,⅄,y
 SPACE
-w,_,y,·,‥,ц,:,α,⟓,w,·
+w,_,y,·,‥,_me,ц,:,α,⟓,w,·
 SPACE
 α,∵,l,HPU MAQAF,n,∵,_me,g,∵,v
 SPACE
@@ -21621,9 +21623,7 @@ h,:_,τ,a,v,⅃,w,o,α
 SPACE
 l,:,k.,a,⅃
 SPACE
-$,·sh,∵,v,_,ʕ
-SPACE
-$,·sh,a,n,i,⅃,y,m.,THIN SPACE
+$,·sh,∵,v,_,ʕ,HPU MAQAF,$,·sh,a,n,i,⅃,y,m.,THIN SPACE
 START small 
 HPU PASEQ
 STOP small 
