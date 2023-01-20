@@ -12913,6 +12913,26 @@ SPACE
 ʕ,_,l,HPU MAQAF,k,·,‥,⅃,σ
 SPACE
 y,a,ƶ,h,·
+START sup 
+ASTERISK
+STOP sup 
+START i class=footnote
+LEFT PARENTHESIS,v,k,τ,r
+SPACE
+α,r,m.
+SPACE
+ц,w,v,h
+SPACE
+h,y,h
+SPACE
+k,τ,w,v
+SPACE
+k,·,‥,⅃,σ,:,y,a,ƶ,h,·
+SPACE
+v,τ,y,v,h
+SPACE
+α,x,τ,RIGHT PARENTHESIS
+STOP i class=footnote
 SPACE
 m,i,l,:,x,a,m,a,_me,h
 SPACE
@@ -18608,6 +18628,18 @@ SPACE
 m,i,q,:,$,·sh,a,_G,h
 SPACE
 τ,·,‥,ʕ,a,$,·si,∵,<,h
+START sup 
+ASTERISK
+STOP sup 
+START i class=footnote
+LEFT PARENTHESIS,v,σ,f,r,y
+SPACE
+σ,f,r,d
+SPACE
+w,α,$,k,n,z
+SPACE
+τ,·,‥,y,ʕ,a,$,·si,∵,<,h,RIGHT PARENTHESIS
+STOP i class=footnote
 SPACE
 h,_,m,·,:,n,w,o,r,a,h,_p
 SPACE
@@ -20977,6 +21009,18 @@ SPACE
 α,∵,l,HPU MAQAF,ʕ,‥,_me,v,∵,r
 SPACE
 h,a,α,‥,f,o,_ti,d
+START sup 
+ASTERISK
+STOP sup 
+START i class=footnote
+LEFT PARENTHESIS,v,σ,f,r,y
+SPACE
+σ,f,r,d
+SPACE
+w,α,$,k,n,z
+SPACE
+h,a,α,‥,f,_ti,w,o,d,RIGHT PARENTHESIS
+STOP i class=footnote
 SPACE
 v,·,a,𝓂,y,:,τ,a,h,HPU SOF PASUQ
 
@@ -25615,6 +25659,22 @@ START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
 START br 
+START sup 
+ASTERISK
+STOP sup 
+START i class=footnote
+LEFT PARENTHESIS,σ,f,q
+SPACE
+f,r,$,h
+SPACE
+σ,τ,w,m,h
+SPACE
+v,k,τ,r
+SPACE
+α,r,m.
+SPACE
+ц,w,v,h,RIGHT PARENTHESIS
+STOP i class=footnote
 
 34:1
 w,_,y,·,o,<,α,m,∵,r
@@ -25793,6 +25853,20 @@ START big
 n,o
 STOP big 
 ц,‥,_me,r
+START sup 
+ASTERISK
+STOP sup 
+START i class=footnote
+LEFT PARENTHESIS,v,σ,f,r,y
+SPACE
+τ,y,m,n.
+SPACE
+n,o,ц,‥,_me,r
+SPACE
+v,n,w,HPU GERSHAYIM,n.
+SPACE
+r,g,y,l,h,RIGHT PARENTHESIS
+STOP i class=footnote
 SPACE
 x,∵,_p,σ,∵,d,_p
 SPACE

@@ -244,7 +244,20 @@ SPACE
 SPACE
 n,i,q,·,:,v,_ti,w,·
 SPACE
-v,·,:,$,·sh,‥,m,o,𝓂,τ,HPU SOF PASUQ
+v,·,:,$,·sh,‥,m,o,𝓂,τ
+START sup 
+ASTERISK
+STOP sup 
+START i class=footnote
+LEFT PARENTHESIS,v,σ,f,r,y
+SPACE
+σ,f,r,d
+SPACE
+w,α,$,k,n,z
+SPACE
+v,·,:,$,·sh,‥,m,𝓂,w,o,τ,RIGHT PARENTHESIS
+STOP i class=footnote
+HPU SOF PASUQ
 
 1:18
 w,:,α,‥,_qa,τ
@@ -9431,6 +9444,18 @@ SPACE
 w,·,v,:,r,a,α,$,·sh,‥,⅃,y
 SPACE
 x,oa,d,:,$,·sh,‥,y,k,∵,m.,∴
+START sup 
+ASTERISK
+STOP sup 
+START i class=footnote
+LEFT PARENTHESIS,v,σ,f,r,y
+SPACE
+σ,f,r,d
+SPACE
+w,α,$,k,n,z
+SPACE
+x,oa,d,:,$,·sh,‥,k,∵,m.,∴,RIGHT PARENTHESIS
+STOP i class=footnote
 SPACE
 w,·,τ,:,q,_,ʕ,:,τ,·,∵,⅃,m.
 SPACE
@@ -19159,6 +19184,18 @@ SPACE
 α,∵,l,HPU MAQAF,v,·,i,l,:,ʕ,a,⅃,m.
 SPACE
 v,·,∵,n.,HPU MAQAF,v,·,:,ʕ,o,◆,r
+START sup 
+ASTERISK
+STOP sup 
+START i class=footnote
+LEFT PARENTHESIS,v,σ,f,r,y
+SPACE
+σ,f,r,d
+SPACE
+w,α,$,k,n,z
+SPACE
+v,·,:,ʕ,◆,w,o,r,RIGHT PARENTHESIS
+STOP i class=footnote
 SPACE
 f,·,:,⌕,τ,⌕,w,o,r,a,h
 SPACE
@@ -21728,6 +21765,30 @@ l,·,‥,α,m,o,𝓂,r,HPU SOF PASUQ
 
 25:11
 f,·,i,𝓂,y,n,:,x,a,_qa,σ
+START sup 
+ASTERISK
+STOP sup 
+START i class=footnote
+LEFT PARENTHESIS,v,σ,f,r,y
+SPACE
+σ,f,r,d
+SPACE
+w,α,$,k,n,z
+SPACE
+n,h,w,g
+SPACE
+l,k,τ,w,v
+SPACE
+f,·,i,𝓂
+START small 
+y
+STOP small 
+n,:,x,a,_qa,σ
+SPACE
+v,y,w,HPU GERSHAYIM,d
+SPACE
+z,ʕ,y,r,α,RIGHT PARENTHESIS
+STOP i class=footnote
 SPACE
 v,·,∵,n.,HPU MAQAF,α,∵,l,:,ʕ,a,z,a,_ge,r
 SPACE
@@ -21768,7 +21829,22 @@ l,⟓,w,o
 SPACE
 α,∵,τ,HPU MAQAF,v,·,:,r,i,y,τ,i,_ti,y
 SPACE
-$,·sh,a,l,𝓂,w,o,m.,HPU SOF PASUQ
+$,·sh,a,l,𝓂,w,o,m.
+START sup 
+ASTERISK
+STOP sup 
+START i class=footnote
+LEFT PARENTHESIS,v,σ,f,r,y
+SPACE
+σ,f,r,d
+SPACE
+w,α,$,k,n,z
+SPACE
+w,y,HPU GERSHAYIM,w
+SPACE
+q,θ,y,ʕ,α,RIGHT PARENTHESIS
+STOP i class=footnote
+HPU SOF PASUQ
 
 25:13
 w,:,h,a,<,y,:,τ,a,h

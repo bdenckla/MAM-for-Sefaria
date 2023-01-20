@@ -4387,6 +4387,16 @@ SPACE
 l,:,h,_,$,·sh,:,m,i,y,d,_tq
 SPACE
 w,:,l,_,h,:_,r,o,_qa,g
+START sup 
+ASTERISK
+STOP sup 
+START i class=footnote
+LEFT PARENTHESIS,v,m,g,y,l,w,τ
+SPACE
+α,$,k,n,z
+SPACE
+l,_,h,:_,r,o,_qa,g,RIGHT PARENTHESIS
+STOP i class=footnote
 SPACE
 w,·,l,:,α,_,v,·,‥,_ge,d
 SPACE
@@ -4698,6 +4708,16 @@ SPACE
 l,o,α,HPU MAQAF,ʕ,a,m,_,⅃,d
 SPACE
 l,i,f,:,n,‥,y,h,∵,ƶ,m.
+START sup 
+ASTERISK
+STOP sup 
+START i class=footnote
+LEFT PARENTHESIS,v,m,g,y,l,w,τ
+SPACE
+α,$,k,n,z
+SPACE
+v,·,i,f,:,n,‥,y,h,∵,ƶ,m.,RIGHT PARENTHESIS
+STOP i class=footnote
 SPACE
 k,·,i,𝓂,y,HPU MAQAF,n,a,f,_,_me,l
 SPACE
@@ -4921,6 +4941,24 @@ START small
 HPU PASEQ
 STOP small 
 THIN SPACE,α,:_,r,i,d,_,_ti,y
+START sup 
+ASTERISK
+STOP sup 
+START i class=footnote
+LEFT PARENTHESIS,v,σ,f,r,y,m.
+SPACE
+α,x,r,y,m.
+SPACE
+α,:_,r,i,y,d,_,_ti,y
+SPACE
+w,k,k.
+SPACE
+k,τ,w,v
+SPACE
+v,m,g,y,l,w,τ
+SPACE
+r,v,w,τ,RIGHT PARENTHESIS
+STOP i class=footnote
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
