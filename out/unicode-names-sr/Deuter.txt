@@ -5696,9 +5696,9 @@ START br
 
 6:4
 $,·sh,:,m,_,_ti
-START span class=mam-letter-large
+START big 
 ʕ
-STOP span class=mam-letter-large
+STOP big 
 SPACE
 y,i,$,·si,:,r,a,α,‥,⅄,l
 SPACE
@@ -5711,9 +5711,9 @@ START small
 HPU PASEQ
 STOP small 
 THIN SPACE,α,∵,x,a,𝓂
-START span class=mam-letter-large
+START big 
 d
-STOP span class=mam-letter-large
+STOP big 
 HPU SOF PASUQ
 
 6:5
@@ -23796,9 +23796,9 @@ SPACE
 g,·,a,d,⅄,w,o,l
 SPACE
 w,_,y,·,_,$,·sh,:
-START span class=mam-letter-large
+START big 
 l,i
-STOP span class=mam-letter-large
+STOP big 
 k,‥,⟓,m.
 SPACE
 α,∵,l,HPU MAQAF,α,∵,_me,r,∵,ц.
@@ -25608,9 +25608,9 @@ SPACE
 w,·,f,:,τ,_,l,:,τ,·,o,𝓂,l,HPU SOF PASUQ
 
 32:6
-START span class=mam-letter-large
+START big 
 h,_
-STOP span class=mam-letter-large
+STOP big 
 SPACE
 l,:,y,:,h,o,w,a,h,_p
 SPACE

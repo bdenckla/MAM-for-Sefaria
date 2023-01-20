@@ -7013,9 +7013,9 @@ START span class=mam-letter-small
 f,·,_
 STOP span class=mam-letter-small
 r,:
-START span class=mam-letter-large
+START big 
 f,·,a
-STOP span class=mam-letter-large
+STOP big 
 r,a,_ti,α
 SPACE
 y,:,q,⅃,w,·,m.

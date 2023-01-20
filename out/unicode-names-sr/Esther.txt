@@ -148,9 +148,9 @@ SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,HPU SOF PASUQ
 
 1:6
-START span class=mam-letter-large
+START big 
 x,⅃
-STOP span class=mam-letter-large
+STOP big 
 w,·,r,THIN SPACE
 START b 
 HPU PASEQ
@@ -4934,9 +4934,9 @@ START small
 HPU PASEQ
 STOP small 
 THIN SPACE
-START span class=mam-letter-large
+START big 
 w,_
-STOP span class=mam-letter-large
+STOP big 
 y,:
 START span class=mam-letter-small
 z,a,𝓂
@@ -5663,9 +5663,9 @@ NO-BREAK SPACE
 
 9:29
 w,_,⌕
-START span class=mam-letter-large
+START big 
 τ,·,i
-STOP span class=mam-letter-large
+STOP big 
 k,:,τ,·,o,⌕,v
 SPACE
 α,∵,σ,:,τ,·,‥,_qa,r
