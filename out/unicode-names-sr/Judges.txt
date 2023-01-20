@@ -15808,9 +15808,9 @@ SPACE
 v,·,∵,n.,HPU MAQAF,g,·,‥,r,:,$,·sh,o,_qa,m.
 SPACE
 v,·,∵,n.,HPU MAQAF,m,:
-START span class=mam-letter-hung
+START sup 
 n,_
-STOP span class=mam-letter-hung
+STOP sup 
 $,·sh,·,∵,_ge,h
 SPACE
 h,⅃,w,·,α
@@ -17199,9 +17199,9 @@ w,:,l,o,<,α
 SPACE
 α,a,v,w,·,_p
 SPACE
-START span class=mam-kq-qvk
+START span class=mam-kq-q
 LEFT SQUARE BRACKET,v,·,:,n,‥,⅃,y,RIGHT SQUARE BRACKET
-STOP span class=mam-kq-qvk
+STOP span class=mam-kq-q
 SPACE
 v,i,n,:,y,a,m,i,ƶ,n.
 SPACE

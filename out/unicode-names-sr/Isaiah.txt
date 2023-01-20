@@ -23068,9 +23068,9 @@ SPACE
 n,a,θ,_,_me,ʕ
 SPACE
 α,o,_ti,r,∵
-START span class=mam-letter-small
+START small 
 n.
-STOP span class=mam-letter-small
+STOP small 
 SPACE
 w,:,g,∵,_me,$,·sh,∵,m.
 SPACE
@@ -34369,8 +34369,8 @@ SPACE
 d,‥,r,a,α,_ti,w,o,n.
 SPACE
 l,:,k,oa,l,HPU MAQAF,v,·,a,$,·si,a,𝓂,r,HPU SOF PASUQ
-START br class=mam-br-before-addendum
-START span class=mam-addendum
+START br 
+START small 
 w,h,y,h
 SPACE
 m,d,y
@@ -34398,5 +34398,5 @@ SPACE
 α,m,r
 SPACE
 y,h,w,h
-STOP span class=mam-addendum
+STOP small 
 

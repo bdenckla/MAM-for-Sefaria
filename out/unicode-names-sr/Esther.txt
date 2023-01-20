@@ -4805,9 +4805,9 @@ START small
 HPU PASEQ
 STOP small 
 THIN SPACE,f,·,_,r,:,$,·sh,_,n,:,d,·,a,⟓
-START span class=mam-letter-small
+START small 
 τ,a
-STOP span class=mam-letter-small
+STOP small 
 α
 NO-BREAK SPACE
 NO-BREAK SPACE
@@ -4891,9 +4891,9 @@ START small
 HPU PASEQ
 STOP small 
 THIN SPACE,f,·,_,r,:,m,_,_p
-START span class=mam-letter-small
+START small 
 $,·sh,:
-STOP span class=mam-letter-small
+STOP small 
 τ,·,a,α,_p
 NO-BREAK SPACE
 NO-BREAK SPACE
@@ -4938,9 +4938,9 @@ START big
 w,_
 STOP big 
 y,:
-START span class=mam-letter-small
+START small 
 z,a,𝓂
-STOP span class=mam-letter-small
+STOP small 
 τ,a,α,HPU SOF PASUQ
 NO-BREAK SPACE
 NO-BREAK SPACE

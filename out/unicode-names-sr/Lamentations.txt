@@ -493,9 +493,9 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 1:12
-START span class=mam-letter-small
+START small 
 l,⅃
-STOP span class=mam-letter-small
+STOP small 
 w,o,α
 SPACE
 α,:_,l,‥,y,k,∵,m.,~
@@ -1332,9 +1332,9 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 2:9
-START span class=mam-letter-small
+START small 
 θ,a
-STOP span class=mam-letter-small
+STOP small 
 v,:,ʕ,<,w,·
 SPACE
 v,a,α,a,_p,r,∵,ц.,_p
@@ -2801,9 +2801,9 @@ NO-BREAK SPACE
 
 3:36
 l,:
-START span class=mam-letter-small
+START small 
 ʕ,_
-STOP span class=mam-letter-small
+STOP small 
 w,·,‥,<,τ
 SPACE
 α,a,d,a,m.,_p
@@ -4667,8 +4667,8 @@ SPACE
 ʕ,a,l,‥,_ti,y,n,w,·
 SPACE
 ʕ,_,d,HPU MAQAF,m,:,α,o,𝓂,d,HPU SOF PASUQ
-START br class=mam-br-before-addendum
-START span class=mam-addendum
+START br 
+START small 
 h,$,y,v,n,w
 SPACE
 y,h,w,h
@@ -4682,5 +4682,5 @@ SPACE
 y,m,y,n,w
 SPACE
 k,q,d,m.
-STOP span class=mam-addendum
+STOP small 
 

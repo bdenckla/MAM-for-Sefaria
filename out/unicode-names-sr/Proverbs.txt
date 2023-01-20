@@ -12227,9 +12227,9 @@ START br
 
 28:17
 α,a,_de
-START span class=mam-letter-small
+START small 
 d,a
-STOP span class=mam-letter-small
+STOP small 
 m.
 SPACE
 ʕ,a,$,·sh,u,⅃,q
@@ -13086,9 +13086,9 @@ SPACE
 v,a,n,w,o,τ,~
 SPACE
 h,_,<
-START span class=mam-letter-small
+START small 
 v
-STOP span class=mam-letter-small
+STOP small 
 THIN SPACE
 START b 
 HPU PASEQ

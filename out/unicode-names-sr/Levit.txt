@@ -1,9 +1,9 @@
 unicode_names Levit
 1:1
 w,_,y,·,i,q,:,r,a,_ti
-START span class=mam-letter-small
+START small 
 α
-STOP span class=mam-letter-small
+STOP small 
 SPACE
 α,∵,l,HPU MAQAF,m,o,$,·sh,∵,⅄,h
 SPACE
@@ -3099,9 +3099,9 @@ h,a,ʕ,o,l,a,μ,h
 SPACE
 ʕ,_,l,_tq
 SPACE
-START span class=mam-letter-small
+START small 
 m
-STOP span class=mam-letter-small
+STOP small 
 w,o,q,:,d,a,_qa,h,‾
 SPACE
 ʕ,_,l,HPU MAQAF,h,_,m,·,i,z,:,v,·,‥,<,x,_

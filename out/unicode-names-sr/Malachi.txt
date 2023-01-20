@@ -1677,8 +1677,8 @@ SPACE
 α,∵,τ,HPU MAQAF,h,a,α,a,_ti,r,∵,ц.
 SPACE
 x,‥,𝓂,r,∵,m.,HPU SOF PASUQ
-START br class=mam-br-before-addendum
-START span class=mam-addendum
+START br 
+START small 
 h,n,h
 SPACE
 α,n,k,y
@@ -1704,5 +1704,5 @@ SPACE
 h,g,d,w,l
 SPACE
 w,h,n,w,r,α
-STOP span class=mam-addendum
+STOP small 
 

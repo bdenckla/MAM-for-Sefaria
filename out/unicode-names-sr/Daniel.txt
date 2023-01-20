@@ -7009,9 +7009,9 @@ SPACE
 m,_,l,:,k,·,a,ƶ,α
 SPACE
 v,·,i,$,·sh,:
-START span class=mam-letter-small
+START small 
 f,·,_
-STOP span class=mam-letter-small
+STOP small 
 r,:
 START big 
 f,·,a

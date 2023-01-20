@@ -877,9 +877,9 @@ SPACE
 w,:,h,a,α,a,_ti,r,∵,ц.
 SPACE
 v,·,:
-START span class=mam-letter-small
+START small 
 h,i
-STOP span class=mam-letter-small
+STOP small 
 v,·,a,𝓂,r,:,α,a,⅄,m.
 SPACE
 v,·,:,y,◆,w,o,m.
@@ -14064,9 +14064,9 @@ SPACE
 l,:,$,·si,a,r,a,_ti,h
 SPACE
 w,:,l,i,v,:
-START span class=mam-letter-small
+START small 
 k,·,o
-STOP span class=mam-letter-small
+STOP small 
 τ,a,𝓂,h,·,HPU SOF PASUQ
 
 23:3
@@ -19006,9 +19006,9 @@ r,i,v,:,q,a,h,_p
 SPACE
 α,∵,l,HPU MAQAF,y,i,ц,:,x,a,ƶ,q
 SPACE
-START span class=mam-letter-small
+START small 
 q,_,⅃
-STOP span class=mam-letter-small
+STOP small 
 ц,:,τ,·,i,y
 SPACE
 v,:,x,_,y,·,_,ƶ,y

@@ -5716,8 +5716,8 @@ SPACE
 α,i,m.,HPU MAQAF,θ,_ti,w,o,v
 SPACE
 w,:,α,i,m.,HPU MAQAF,r,a,𝓂,ʕ,HPU SOF PASUQ
-START br class=mam-br-before-addendum
-START span class=mam-addendum
+START br 
+START small 
 σ,w,f.
 SPACE
 d,v,r
@@ -5745,5 +5745,5 @@ SPACE
 k,l
 SPACE
 h,α,d,m.
-STOP span class=mam-addendum
+STOP small 
 

@@ -6075,9 +6075,9 @@ m,:,r,‥,r,a,τ,i,𝓂,y,HPU SOF PASUQ
 y,i,f,:,r,:,ц,‥,⅃,n,i,y
 SPACE
 f,∵,_de,r,∵
-START span class=mam-letter-small
+START small 
 ц.
-STOP span class=mam-letter-small
+STOP small 
 SPACE
 ʕ,_,l,HPU MAQAF,f,·,:,n,‥,y,HPU MAQAF,f,a,⅄,r,∵,ц.
 SPACE
@@ -11931,9 +11931,9 @@ HPU MAQAF
 STOP span class=mam-implicit-maqaf
 f,a,_me,$,·sh,_,ʕ
 SPACE
-START span class=mam-letter-small
+START small 
 x,_,_me
-STOP span class=mam-letter-small
+STOP small 
 f.
 SPACE
 α,a,n,o,k,i,⅄,y
@@ -14054,9 +14054,9 @@ SPACE
 w,:,y,i,n,·,a,ʕ,:_,r,_ti,w,·
 SPACE
 r,:,$,·sh,a
-START span class=mam-letter-hung
+START sup 
 ʕ,i,⅃
-STOP span class=mam-letter-hung
+STOP sup 
 y,m.
 SPACE
 m,i,m,·,∵,𝓂,n,·,a,h,HPU SOF PASUQ
@@ -14078,9 +14078,9 @@ l,:,v,𝓂,w,·,$,·sh,HPU SOF PASUQ
 w,:,y,i,m,·,a,n,_,⅃,ʕ
 SPACE
 m,‥,r,:,$,·sh,a
-START span class=mam-letter-hung
+START sup 
 ʕ,i,⅃
-STOP span class=mam-letter-hung
+STOP sup 
 y,m.
 SPACE
 α,w,o,r,a,⅄,m.
