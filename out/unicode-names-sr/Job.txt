@@ -2631,9 +2631,9 @@ SPACE
 START span class=mam-kq
 START span class=mam-kq-k
 LEFT PARENTHESIS,w
-START span class=mam-letter-small
+START small 
 g
-STOP span class=mam-letter-small
+STOP small 
 y,$,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
@@ -13873,9 +13873,9 @@ STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
 LEFT SQUARE BRACKET,m,i,_me,n.,THIN SPACE
-START span class=mam-lp-paseq
+START small 
 HPU PASEQ
-STOP span class=mam-lp-paseq
+STOP small 
 THIN SPACE,h,_,σ,·,:,ʕ,a,r,a,◆,h,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
@@ -14931,9 +14931,9 @@ STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
 LEFT SQUARE BRACKET,m,i,_me,n.,THIN SPACE
-START span class=mam-lp-paseq
+START small 
 HPU PASEQ
-STOP span class=mam-lp-paseq
+STOP small 
 THIN SPACE,σ,:,ʕ,a,r,a,◆,h,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq

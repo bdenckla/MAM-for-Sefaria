@@ -801,9 +801,9 @@ SPACE
 START span class=mam-kq
 START span class=mam-kq-q
 LEFT SQUARE BRACKET,h,‥,⅃,m.,THIN SPACE
-START span class=mam-lp-paseq
+START small 
 HPU PASEQ
-STOP span class=mam-lp-paseq
+STOP small 
 THIN SPACE,f,·,:,r,w,·,ц,i,ƶ,y,m.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 SPACE
