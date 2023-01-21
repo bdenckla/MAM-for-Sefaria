@@ -25502,43 +25502,120 @@ SPACE
 l,:,m,i,g,:,d,·,_,l,HPU MAQAF,ʕ,‥,𝓂,d,∵,r,HPU SOF PASUQ
 
 35:22
-w,_,y,:,h,i,◆,y
-SPACE
-v,·,i,$,·sh,:,k,·,o,<,n.
-SPACE
-y,i,$,·si,:,r,a,α,‥,l,_p
-SPACE
-v,·,a,α,a,⅃,r,∵,ц.
-SPACE
-h,_,h,i,ƶ,w,α
-SPACE
-w,_,y,·,‥,⅃,l,∵,k.,:
-SPACE
-r,:,α,w,·,v,‥,◆,ƶ,n.
-SPACE
-w,_,y,·,i,$,·sh,:,k,·,_,Ƶ,v,_p
-SPACE
-α,∵,τ,HPU MAQAF,v,·,i,l,:,h,a,_ti,h,_p
-SPACE
-f,·,i,y,l,∵,⅃,g,∵,$,·sh
-SPACE
-α,a,v,i,⅄,ƶ,y,w
-SPACE
-w,_,y,·,i,$,·sh,:,m,_,_ti,ʕ
-SPACE
-y,i,$,·si,:,r,a,α,‥,⅄,CGJ,𝓂,l
-NO-BREAK SPACE
-START span class=mam-spi-pe
-LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
-w,_,y,·,i,𝓂,h,:,y,_me,w,·
-SPACE
-v,:,n,‥,𝓂,y,HPU MAQAF,y,_,ʕ,:_,q,o,_ti,v
-SPACE
-$,·sh,:,n,‥,_me,y,m.
-SPACE
-ʕ,a,$,·si,a,𝓂,r,HPU SOF PASUQ
+cant_dual
+    w,_,y,:,h,i,◆,y
+    SPACE
+    v,·,i,$,·sh,:,k,·,o,<,n.
+    SPACE
+    y,i,$,·si,:,r,a,α,‥,l,_p
+    SPACE
+    v,·,a,α,a,⅃,r,∵,ц.
+    SPACE
+    h,_,h,i,ƶ,w,α
+    SPACE
+    w,_,y,·,‥,⅃,l,∵,k.,:
+    SPACE
+    r,:,α,w,·,v,‥,◆,ƶ,n.
+    SPACE
+    w,_,y,·,i,$,·sh,:,k,·,_,Ƶ,v,_p
+    SPACE
+    α,∵,τ,HPU MAQAF,v,·,i,l,:,h,a,_ti,h,_p
+    SPACE
+    f,·,i,y,l,∵,⅃,g,∵,$,·sh
+    SPACE
+    α,a,v,i,⅄,ƶ,y,w
+    SPACE
+    w,_,y,·,i,$,·sh,:,m,_,_ti,ʕ
+    SPACE
+    y,i,$,·si,:,r,a,α,‥,⅄,CGJ,𝓂,l
+    NO-BREAK SPACE
+    START span class=mam-spi-pe
+    LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+    STOP span class=mam-spi-pe
+    START br 
+    w,_,y,·,i,𝓂,h,:,y,_me,w,·
+    SPACE
+    v,:,n,‥,𝓂,y,HPU MAQAF,y,_,ʕ,:_,q,o,_ti,v
+    SPACE
+    $,·sh,:,n,‥,_me,y,m.
+    SPACE
+    ʕ,a,$,·si,a,𝓂,r,HPU SOF PASUQ
+cant_alef
+    w,_,y,:,h,i,◆,y
+    SPACE
+    v,·,i,$,·sh,:,k,·,o,<,n.
+    SPACE
+    y,i,$,·si,:,r,a,α,‥,l,_p
+    SPACE
+    v,·,a,α,a,⅃,r,∵,ц.
+    SPACE
+    h,_,h,i,ƶ,w,α
+    SPACE
+    w,_,y,·,‥,⅃,l,∵,k.,:
+    SPACE
+    r,:,α,w,·,v,‥,ƶ,n.
+    SPACE
+    w,_,y,·,i,$,·sh,:,k,·,_,Ƶ,v
+    SPACE
+    α,∵,τ,HPU MAQAF,v,·,i,l,:,h,a,_ti,h
+    SPACE
+    f,·,i,y,l,∵,⅃,g,∵,$,·sh
+    SPACE
+    α,a,v,i,⅄,y,w
+    SPACE
+    w,_,y,·,i,$,·sh,:,m,_,_ti,ʕ
+    SPACE
+    y,i,$,·si,:,r,a,α,‥,𝓂,l,HPU SOF PASUQ
+    NO-BREAK SPACE
+    START span class=mam-spi-pe
+    LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+    STOP span class=mam-spi-pe
+    START br 
+    w,_,y,·,i,𝓂,h,:,y,_me,w,·
+    SPACE
+    v,:,n,‥,𝓂,y,HPU MAQAF,y,_,ʕ,:_,q,o,_ti,v
+    SPACE
+    $,·sh,:,n,‥,_me,y,m.
+    SPACE
+    ʕ,a,$,·si,a,𝓂,r,HPU SOF PASUQ
+cant_bet
+    w,_,y,:,h,i,◆,y
+    SPACE
+    v,·,i,$,·sh,:,k,·,o,<,n.
+    SPACE
+    y,i,$,·si,:,r,a,α,‥,l,_p
+    SPACE
+    v,·,a,α,a,⅃,r,∵,ц.
+    SPACE
+    h,_,h,i,ƶ,w,α
+    SPACE
+    w,_,y,·,‥,⅃,l,∵,k.,:
+    SPACE
+    r,:,α,w,·,v,‥,◆,n.
+    SPACE
+    w,_,y,·,i,$,·sh,:,k,·,_,v,_p
+    SPACE
+    α,∵,τ,HPU MAQAF,v,·,i,l,:,h,a,h,_p
+    SPACE
+    f,·,i,y,l,∵,⅃,g,∵,$,·sh
+    SPACE
+    α,a,v,i,ƶ,y,w
+    SPACE
+    w,_,y,·,i,$,·sh,:,m,_,_ti,ʕ
+    SPACE
+    y,i,$,·si,:,r,a,α,‥,⅄,l
+    NO-BREAK SPACE
+    START span class=mam-spi-pe
+    LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+    STOP span class=mam-spi-pe
+    START br 
+    w,_,y,·,i,𝓂,h,:,y,_me,w,·
+    SPACE
+    v,:,n,‥,𝓂,y,HPU MAQAF,y,_,ʕ,:_,q,o,_ti,v
+    SPACE
+    $,·sh,:,n,‥,_me,y,m.
+    SPACE
+    ʕ,a,$,·si,a,𝓂,r,HPU SOF PASUQ
 
 35:23
 v,·,:,n,‥,⅃,y
