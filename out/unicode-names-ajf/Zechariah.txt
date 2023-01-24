@@ -97,15 +97,9 @@ m,i,d,·,_,r,:,k,‥,y,k,∵,⅃,m.
 SPACE
 h,a,r,a,ʕ,i,ƶ,y,m.
 SPACE
-START span class=mam-kq
-START span class=mam-kq-k
 LEFT PARENTHESIS,w,m,ʕ,l,y,l,y,k,m.,RIGHT PARENTHESIS
-STOP span class=mam-kq-k
 SPACE
-START span class=mam-kq-q
 LEFT SQUARE BRACKET,w,·,m,_,𝓂,ʕ,_,l,:,l,‥,y,k,∵,_ti,m.,RIGHT SQUARE BRACKET
-STOP span class=mam-kq-q
-STOP span class=mam-kq
 SPACE
 h,a,𝓂,r,a,ʕ,i,⅄,y,m.
 SPACE
@@ -131,10 +125,7 @@ SPACE
 y,i,𝓂,x,:,y,𝓂,w,·,HPU SOF PASUQ
 
 1:6 in vtrad vtbhs
-α,_,⅃,k.,:,THIN SPACE
-START b 
-HPU PASEQ
-STOP b 
+α,_,⅃,k.,:,HPU PASEQ
 SPACE
 d,·,:,v,a,r,_,⅃,y
 SPACE
@@ -179,11 +170,9 @@ SPACE
 ʕ,a,$,·si,a,_me,h
 SPACE
 α,i,τ,·,a,𝓂,n,w,·,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 1:7 in vtrad vtbhs
 v,·,:,y,w,o,m.,_tq
@@ -221,10 +210,7 @@ SPACE
 l,‥,α,m,o,𝓂,r,HPU SOF PASUQ
 
 1:8 in vtrad vtbhs
-r,a,α,i,⅃,y,τ,i,y,THIN SPACE
-START b 
-HPU PASEQ
-STOP b 
+r,a,α,i,⅃,y,τ,i,y,HPU PASEQ
 SPACE
 h,_,l,·,_,◆,y,:,l,a,h
 SPACE
@@ -472,25 +458,16 @@ y,:,h,o,w,a,⅃,h
 SPACE
 ц,:,v,a,α,⅄,w,o,τ
 SPACE
-START span class=mam-kq
-START span class=mam-kq-k
 LEFT PARENTHESIS,w,q,w,h,RIGHT PARENTHESIS
-STOP span class=mam-kq-k
 SPACE
-START span class=mam-kq-q
 LEFT SQUARE BRACKET,w,:,q,a,_me,w,RIGHT SQUARE BRACKET
-STOP span class=mam-kq-q
-STOP span class=mam-kq
 SPACE
 y,i,n,·,a,θ,∵,_ti,h
 SPACE
 ʕ,_,l,HPU MAQAF,y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,HPU SOF PASUQ
 
 1:17 in vtrad vtbhs
-ʕ,⅃,w,o,d,THIN SPACE
-START b 
-HPU PASEQ
-STOP b 
+ʕ,⅃,w,o,d,HPU PASEQ
 SPACE
 q,:,r,a,⅃,α
 SPACE
@@ -525,11 +502,9 @@ SPACE
 ʕ,_ti,w,o,d
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 2:1 in vtrad vtbhs
 w,a,α,∵,$,·si,·,a,_me,α
@@ -572,11 +547,9 @@ SPACE
 α,∵,τ,HPU MAQAF,y,i,$,·si,:,r,a,α,‥,_ti,l
 SPACE
 w,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 2:3 in vtrad vtbhs
 w,_,y,·,_,r,:,α,‥,⅃,n,i,y
@@ -639,18 +612,9 @@ SPACE
 y,:,h,w,·,d,a,_ti,h
 SPACE
 l,:,z,a,r,w,o,τ,a,𝓂,h,·,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-samekh
+SPACE
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
-STOP span class=mam-spi-samekh
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
+SPACE
 
 2:5 in vtrad vtbhs
 w,a,α,∵,$,·si,·,a,_me,α
@@ -758,11 +722,9 @@ SPACE
 α,∵,𝓂,h,:,y,∵,_me,h
 SPACE
 v,:,τ,w,o,k,a,𝓂,h,·,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 2:10 in vtrad vtbhs
 h,⅃,w,o,y
@@ -801,11 +763,9 @@ SPACE
 y,w,o,$,·sh,∵,_ti,v,∵,τ
 SPACE
 v,·,_,τ,HPU MAQAF,v,·,a,v,∵,𝓂,l,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 2:12 in vtrad vtbhs
 k,·,i,⅃,y
@@ -866,18 +826,9 @@ SPACE
 ц,:,v,a,α,_ti,w,o,τ
 SPACE
 $,·sh,:,l,a,x,a,𝓂,n,i,y,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-samekh
+SPACE
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
-STOP span class=mam-spi-samekh
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
+SPACE
 
 2:14 in vtrad vtbhs
 r,oa,n,·,i,_me,y
@@ -966,11 +917,9 @@ SPACE
 m,i,m,·,:,ʕ,_me,w,o,n.
 SPACE
 q,oa,d,:,$,·sh,𝓂,w,o,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 3:1 in vtrad vtbhs
 w,_,y,·,_,r,:,α,‥,◆,n,i,y
@@ -1170,10 +1119,7 @@ h,a,α,‥,𝓂,l,·,∵,h,HPU SOF PASUQ
 3:8 in vtrad vtbhs
 $,·sh,:,𝓂,m,_,𝓂,ʕ,HPU MAQAF,n,a,_G,α
 SPACE
-y,:,h,w,o,$,·sh,u,⅃,ʕ,_,THIN SPACE
-START b 
-HPU PASEQ
-STOP b 
+y,:,h,w,o,$,·sh,u,⅃,ʕ,_,HPU PASEQ
 SPACE
 h,_,k,·,o,h,‥,⅃,n.
 SPACE
@@ -1202,10 +1148,7 @@ SPACE
 ц,∵,𝓂,m,_,x,HPU SOF PASUQ
 
 3:9 in vtrad vtbhs
-k,·,i,⅃,y,THIN SPACE
-START b 
-HPU PASEQ
-STOP b 
+k,·,i,⅃,y,HPU PASEQ
 SPACE
 h,i,n,·,‥,⅃,h
 SPACE
@@ -1302,21 +1245,11 @@ SPACE
 SPACE
 r,o,α,∵,⅄,h
 SPACE
-START span class=mam-kq
-START span class=mam-kq-k
 LEFT PARENTHESIS,w,y,α,m,r,RIGHT PARENTHESIS
-STOP span class=mam-kq-k
 SPACE
-START span class=mam-kq-q
 LEFT SQUARE BRACKET,w,a,α,o,m,_,μ,r,RIGHT SQUARE BRACKET
-STOP span class=mam-kq-q
-STOP span class=mam-kq
 SPACE
-r,a,α,i,⅃,y,τ,i,y,THIN SPACE
-START small 
-HPU PASEQ
-STOP small 
-THIN SPACE,w,:,h,i,n,·,‥,⅃,h
+r,a,α,i,⅃,y,τ,i,y,HPU PASEQ,HPU PASEQ,w,:,h,i,n,·,‥,⅃,h
 SPACE
 m,:,n,w,o,r,_,τ,_tq
 SPACE
@@ -1466,11 +1399,9 @@ SPACE
 x,‥,_ti,n.
 SPACE
 l,a,𝓂,h,·,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 4:8 in vtrad vtbhs
 w,_,y,:,h,i,_me,y
@@ -1832,18 +1763,9 @@ SPACE
 h,a,ʕ,w,o,f,∵,_ti,r,∵,τ
 SPACE
 α,∵,l,HPU MAQAF,f,·,i,𝓂,y,h,a,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-samekh
+SPACE
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
-STOP span class=mam-spi-samekh
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
+SPACE
 
 5:9 in vtrad vtbhs
 w,a,α,∵,$,·si,·,a,_qa,α
@@ -1921,11 +1843,9 @@ SPACE
 $,·sh,·,a,_ti,m.
 SPACE
 ʕ,_,l,HPU MAQAF,m,:,k,u,n,a,τ,a,𝓂,h,·,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 6:1 in vtrad vtbhs
 w,a,α,a,$,·sh,u,◆,v
@@ -2110,11 +2030,9 @@ SPACE
 v,·,:,α,∵,_me,r,∵,ц.
 SPACE
 ц,a,f,𝓂,w,o,n.,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 6:9 in vtrad vtbhs
 w,_,y,:,h,i,_me,y
@@ -2273,10 +2191,7 @@ SPACE
 y,:,h,o,w,a,𝓂,h,HPU SOF PASUQ
 
 6:15 in vtrad vtbhs
-w,·,r,:,x,w,o,q,i,⅃,y,m.,THIN SPACE
-START b 
-HPU PASEQ
-STOP b 
+w,·,r,:,x,w,o,q,i,⅃,y,m.,HPU PASEQ
 SPACE
 y,a,v,o,◆,α,w,·
 SPACE
@@ -2307,11 +2222,9 @@ SPACE
 y,:,h,o,w,a,_me,h
 SPACE
 α,:∵,l,o,h,‥,y,k,∵,𝓂,m.,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 7:1 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,_p
@@ -2389,18 +2302,9 @@ SPACE
 k,·,_,m,·,∵,_me,h
 SPACE
 $,·sh,a,n,i,𝓂,y,m.,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-samekh
+SPACE
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
-STOP span class=mam-spi-samekh
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
+SPACE
 
 7:4 in vtrad vtbhs
 w,_,y,:,h,i,⟓,y
@@ -2497,11 +2401,9 @@ SPACE
 w,:,h,_,$,·sh,·,:,f,‥,l,a,_ti,h
 SPACE
 y,o,$,·sh,‥,𝓂,v,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 7:8 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,_p
@@ -2667,11 +2569,9 @@ SPACE
 α,∵,𝓂,r,∵,ц.,HPU MAQAF,x,∵,m,:,d,·,a,_ti,h
 SPACE
 l,:,$,·sh,_,m,·,a,𝓂,h,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 8:1 in vtrad vtbhs
 w,_,y,:,h,i,⟓,y
@@ -2785,11 +2685,9 @@ SPACE
 m,:,$,·si,_,x,:_,q,i,_ti,y,m.
 SPACE
 v,·,i,r,:,x,o,𝓂,v,o,τ,∵,𝓂,y,h,a,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 8:6 in vtrad vtbhs
 k,·,o,<,h
@@ -2825,11 +2723,9 @@ SPACE
 y,:,h,o,w,a,_me,h
 SPACE
 ц,:,v,a,α,𝓂,w,o,τ,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 8:7 in vtrad vtbhs
 k,·,o,<,h
@@ -2882,11 +2778,9 @@ SPACE
 v,·,∵,α,:∵,m,∵,_ti,τ
 SPACE
 w,·,v,i,ц,:,d,a,q,a,𝓂,h,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 8:9 in vtrad vtbhs
 k,·,o,𝓂,h,HPU MAQAF,α,a,m,_,r,~
@@ -3058,18 +2952,9 @@ SPACE
 τ,·,∵,x,:∵,z,_,_me,q,:,n,a,h
 SPACE
 y,:,d,‥,y,k,∵,𝓂,m.,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-samekh
+SPACE
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
-STOP span class=mam-spi-samekh
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
+SPACE
 
 8:14 in vtrad vtbhs
 k,·,i,⅃,y
@@ -3155,10 +3040,7 @@ SPACE
 v,·,:,$,·sh,_,ʕ,:_,r,‥,y,k,∵,𝓂,m.,HPU SOF PASUQ
 
 8:17 in vtrad vtbhs
-w,:,α,i,⅃,y,$,·sh,THIN SPACE
-START b 
-HPU PASEQ
-STOP b 
+w,:,α,i,⅃,y,$,·sh,HPU PASEQ
 SPACE
 α,∵,τ,HPU MAQAF,r,a,ʕ,_,⅃,τ
 SPACE
@@ -3183,11 +3065,9 @@ SPACE
 $,·si,a,n,‥,_ti,α,τ,i,y
 SPACE
 n,:,α,u,m.,HPU MAQAF,y,:,h,o,w,a,𝓂,h,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 8:18 in vtrad vtbhs
 w,_,y,:,h,i,⟓,y
@@ -3240,11 +3120,9 @@ SPACE
 w,:,h,_,$,·sh,·,a,l,_ti,w,o,m.
 SPACE
 α,:∵,h,a,𝓂,v,w,·,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 8:20 in vtrad vtbhs
 k,·,o,_me,h
@@ -3324,18 +3202,9 @@ SPACE
 α,∵,τ,HPU MAQAF,f,·,:,n,‥,_me,y
 SPACE
 y,:,h,o,w,a,𝓂,h,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-samekh
+SPACE
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
-STOP span class=mam-spi-samekh
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
+SPACE
 
 8:23 in vtrad vtbhs
 k,·,o,𝓂,h,HPU MAQAF,α,a,m,_,r,~
@@ -3383,11 +3252,9 @@ SPACE
 α,:∵,l,o,h,i,_me,y,m.
 SPACE
 ʕ,i,m,·,a,k,∵,𝓂,m.,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 9:1 in vtrad vtbhs
 m,_,$,·si,·,a,<,α
@@ -3568,18 +3435,9 @@ SPACE
 r,a,α,i,_me,y,τ,i,y
 SPACE
 v,:,ʕ,‥,y,n,a,𝓂,y,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-samekh
+SPACE
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
-STOP span class=mam-spi-samekh
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
+SPACE
 
 9:9 in vtrad vtbhs
 g,·,i,y,l,i,_qa,y
@@ -3873,11 +3731,9 @@ SPACE
 k,·,i,y,HPU MAQAF,α,‥,_me,y,n.
 SPACE
 r,o,ʕ,∵,𝓂,h,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 10:3 in vtrad vtbhs
 ʕ,_,l,HPU MAQAF,h,a,𝓂,r,o,ʕ,i,y,m.,_p
@@ -3963,10 +3819,7 @@ SPACE
 σ,w,·,σ,i,𝓂,y,m.,HPU SOF PASUQ
 
 10:6 in vtrad vtbhs
-w,:,g,i,v,·,_,r,:,τ,·,i,⅃,y,THIN SPACE
-START b 
-HPU PASEQ
-STOP b 
+w,:,g,i,v,·,_,r,:,τ,·,i,⅃,y,HPU PASEQ
 SPACE
 α,∵,τ,HPU MAQAF,v,·,‥,⅃,y,τ
 SPACE
@@ -4127,11 +3980,9 @@ SPACE
 n,:,α,u,_ti,m.
 SPACE
 y,:,h,o,w,a,𝓂,h,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 11:1 in vtrad vtbhs
 f,·,:,τ,_,_me,x
@@ -4173,16 +4024,9 @@ y,a,r,_,_ti,d
 SPACE
 y,_,_me,ʕ,_,r
 SPACE
-START span class=mam-kq
-START span class=mam-kq-k
 LEFT PARENTHESIS,h,v,ц,w,r,RIGHT PARENTHESIS
-STOP span class=mam-kq-k
 SPACE
-START span class=mam-kq-q
-LEFT SQUARE BRACKET,h,_,v,·,a,ц,i,𝓂,y,r,RIGHT SQUARE BRACKET
-STOP span class=mam-kq-q
-STOP span class=mam-kq
-HPU SOF PASUQ
+LEFT SQUARE BRACKET,h,_,v,·,a,ц,i,𝓂,y,r,RIGHT SQUARE BRACKET,HPU SOF PASUQ
 
 11:3 in vtrad vtbhs
 q,_ye,w,o,l
@@ -4210,11 +4054,9 @@ SPACE
 g,·,:,α,_me,w,o,n.
 SPACE
 h,_,y,·,_,r,:,d,·,‥,𝓂,n.,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 11:4 in vtrad vtbhs
 k,·,o,_me,h
@@ -4431,18 +4273,9 @@ SPACE
 d,:,v,_,r,HPU MAQAF,y,:,h,o,w,a,_ti,h
 SPACE
 h,𝓂,w,·,α,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-samekh
+SPACE
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
-STOP span class=mam-spi-samekh
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
+SPACE
 
 11:12 in vtrad vtbhs
 w,a,α,o,m,_,⅃,r
@@ -4457,11 +4290,7 @@ h,a,v,_me,w,·
 SPACE
 $,·si,:,k,a,r,i,_ti,y
 SPACE
-w,:,α,i,m.,HPU MAQAF,l,o,⅃,α,THIN SPACE
-START small 
-HPU PASEQ
-STOP small 
-THIN SPACE,x,:_,d,a,⅄,l,w,·
+w,:,α,i,m.,HPU MAQAF,l,o,⅃,α,HPU PASEQ,HPU PASEQ,x,:_,d,a,⅄,l,w,·
 SPACE
 w,_,y,·,i,$,·sh,:,q,:,l,_me,w,·
 SPACE
@@ -4530,11 +4359,9 @@ SPACE
 w,·,v,‥,_me,y,n.
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 11:15 in vtrad vtbhs
 w,_,y,·,o,_me,α,m,∵,r
@@ -4626,11 +4453,9 @@ SPACE
 k,·,a,h,o,_me,h
 SPACE
 τ,i,k,:,h,∵,𝓂,h,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 12:1 in vtrad vtbhs
 m,_,$,·si,·,a,_me,α
@@ -4902,10 +4727,7 @@ SPACE
 SPACE
 d,·,a,w,i,_ge,y,d
 SPACE
-w,:,ʕ,_,⅃,l,THIN SPACE
-START b 
-HPU PASEQ
-STOP b 
+w,:,ʕ,_,⅃,l,HPU PASEQ
 SPACE
 y,w,o,$,·sh,‥,⅃,v
 SPACE
@@ -5059,10 +4881,7 @@ v,_,y,·,_qa,w,o,m.
 SPACE
 h,_,h,_ge,w,·,α
 SPACE
-n,:,α,u,⅃,m.,THIN SPACE
-START b 
-HPU PASEQ
-STOP b 
+n,:,α,u,⅃,m.,HPU PASEQ
 SPACE
 y,:,h,o,w,a,⅃,h
 SPACE
@@ -5138,10 +4957,7 @@ SPACE
 v,·,:,h,i,n,·,a,𝓂,v,:,α,𝓂,w,o,HPU SOF PASUQ
 
 13:4 in vtrad vtbhs
-w,:,h,a,y,a,⅃,h,THIN SPACE
-START b 
-HPU PASEQ
-STOP b 
+w,:,h,a,y,a,⅃,h,HPU PASEQ
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -5216,11 +5032,9 @@ SPACE
 v,·,‥,_me,y,τ
 SPACE
 m,:,α,_,h,:_,v,a,𝓂,y,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 13:7 in vtrad vtbhs
 x,∵,◆,r,∵,v
@@ -5293,10 +5107,7 @@ k,·,i,v,:,x,o,⅃,n.
 SPACE
 α,∵,τ,HPU MAQAF,h,_,z,·,a,h,a,⅄,v
 SPACE
-h,⅃,w,·,α,THIN SPACE
-START b 
-HPU PASEQ
-STOP b 
+h,⅃,w,·,α,HPU PASEQ
 SPACE
 y,i,q,:,r,a,⅃,α
 SPACE
@@ -5321,11 +5132,9 @@ SPACE
 y,:,h,o,w,a,_me,h
 SPACE
 α,:∵,l,o,h,a,𝓂,y,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-pe
+SPACE
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-pe
-START br 
+SPACE
 
 14:1 in vtrad vtbhs
 h,i,n,·,‥,_me,h
@@ -5343,11 +5152,7 @@ v,·,:,q,i,r,:,v,·,‥,𝓂,k.,:,HPU SOF PASUQ
 14:2 in vtrad vtbhs
 w,:,α,a,σ,_,f,:,τ,·,i,_qa,y
 SPACE
-α,∵,τ,HPU MAQAF,k,·,oa,l,HPU MAQAF,h,_,g,·,w,o,y,i,_me,m.,THIN SPACE
-START small 
-HPU PASEQ
-STOP small 
-THIN SPACE,α,∵,𝓂,l,HPU MAQAF,y,:,r,w,·,$,·sh,a,l,_,≁,CGJ,i,m.,~
+α,∵,τ,HPU MAQAF,k,·,oa,l,HPU MAQAF,h,_,g,·,w,o,y,i,_me,m.,HPU PASEQ,HPU PASEQ,α,∵,𝓂,l,HPU MAQAF,y,:,r,w,·,$,·sh,a,l,_,≁,CGJ,i,m.,~
 SPACE
 l,_,m,·,i,l,:,x,a,m,a,h,∴
 SPACE
@@ -5361,15 +5166,9 @@ h,_,v,·,a,⅃,τ,·,i,ƶ,y,m.
 SPACE
 w,:,h,_,n,·,a,$,·sh,i,_ti,y,m.
 SPACE
-START span class=mam-kq
-START span class=mam-kq-k
 LEFT PARENTHESIS,τ,$,g,l,n,h,RIGHT PARENTHESIS
-STOP span class=mam-kq-k
 SPACE
-START span class=mam-kq-q
 LEFT SQUARE BRACKET,τ,·,i,$,·sh,·,a,k,_,⅄,v,:,n,a,h,RIGHT SQUARE BRACKET
-STOP span class=mam-kq-q
-STOP span class=mam-kq
 SPACE
 w,:,y,a,ц,a,_G,α
 SPACE
@@ -5505,16 +5304,9 @@ SPACE
 SPACE
 y,:,q,a,r,_ti,w,o,τ
 SPACE
-START span class=mam-kq
-START span class=mam-kq-k
 LEFT PARENTHESIS,y,q,f,α,w,n.,RIGHT PARENTHESIS
-STOP span class=mam-kq-k
 SPACE
-START span class=mam-kq-q
-LEFT SQUARE BRACKET,w,:,q,i,f,·,a,α,𝓂,w,o,n.,RIGHT SQUARE BRACKET
-STOP span class=mam-kq-q
-STOP span class=mam-kq
-HPU SOF PASUQ
+LEFT SQUARE BRACKET,w,:,q,i,f,·,a,α,𝓂,w,o,n.,RIGHT SQUARE BRACKET,HPU SOF PASUQ
 
 14:7 in vtrad vtbhs
 w,:,h,a,y,a,⅃,h
@@ -5538,10 +5330,7 @@ SPACE
 y,i,𝓂,h,:,y,∵,h,HPU MAQAF,α,𝓂,w,o,r,HPU SOF PASUQ
 
 14:8 in vtrad vtbhs
-w,:,h,a,y,a,⅃,h,THIN SPACE
-START b 
-HPU PASEQ
-STOP b 
+w,:,h,a,y,a,⅃,h,HPU PASEQ
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -5655,24 +5444,12 @@ SPACE
 y,:,r,w,·,$,·sh,a,l,_,_ti,CGJ,i,m.
 SPACE
 l,a,v,∵,𝓂,θ,_,x,HPU SOF PASUQ
-NO-BREAK SPACE
-START span class=mam-spi-samekh
+SPACE
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
-STOP span class=mam-spi-samekh
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
+SPACE
 
 14:12 in vtrad vtbhs
-w,:,z,o,⅃,α,τ,THIN SPACE
-START b 
-HPU PASEQ
-STOP b 
+w,:,z,o,⅃,α,τ,HPU PASEQ
 SPACE
 τ,·,i,h,:,y,∵,⅃,h
 SPACE
@@ -5692,10 +5469,7 @@ SPACE
 SPACE
 ʕ,_,l,HPU MAQAF,y,:,r,w,·,$,·sh,a,l,a,⅄,CGJ,i,m.
 SPACE
-h,a,m,‥,⅃,q,THIN SPACE
-START b 
-HPU PASEQ
-STOP b 
+h,a,m,‥,⅃,q,HPU PASEQ
 SPACE
 v,·,:,$,·si,a,r,◆,w,o
 SPACE
