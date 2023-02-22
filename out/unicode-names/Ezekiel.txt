@@ -25141,13 +25141,13 @@ HPU PASEQ
 STOP small 
 THIN SPACE
 START span class=mam-kq
-START span class=mam-kq-k
-LEFT PARENTHESIS,$,m,m,h,RIGHT PARENTHESIS
-STOP span class=mam-kq-k
-SPACE
 START span class=mam-kq-q
 LEFT SQUARE BRACKET,$,·sh,a,m,‥,⅄,m,w,·,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
+SPACE
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,m,m,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
 STOP span class=mam-kq
 SPACE
 l,a,(me),n,w,·
