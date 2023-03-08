@@ -2451,7 +2451,7 @@ SPACE
 SPACE
 LEFT PARENTHESIS,w,$,v,y,RIGHT PARENTHESIS
 SPACE
-LEFT SQUARE BRACKET,w,:,$,·sh,u,(me),v,w,·,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,w,:,$,·sh,(me),w,·,v,w,·,RIGHT SQUARE BRACKET
 SPACE
 ʕ,γ,◆,w,o,d
 SPACE
@@ -6941,7 +6941,7 @@ y,a,(de),ʕ,w,·,f.
 SPACE
 w,:,l,o,⅃,α
 SPACE
-y,i,m,:,ц,a,α,u,⅄,h,w,·
+y,i,m,:,ц,a,α,⅄,w,·,h,w,·
 SPACE
 w,:,γ,y,u,d,·,_,◆,d
 SPACE
@@ -8152,9 +8152,7 @@ y,_,ʕ,:_,n,‥,⅄,n,i,y
 SPACE
 w,:,γ,α,a,v,i,◆,y,n,a,h
 SPACE
-m,_,h,HPU MAQAF,y,·,o,(me),α,m,_,r
-SPACE
-l,i,𝓂,y,HPU SOF PASUQ
+m,_,h,HPU MAQAF,y,·,o,(me),α,m,_,r,HPU MAQAF,l,i,𝓂,y,HPU SOF PASUQ
 
 23:6 in vtrad vtbhs
 h,_,v,·,:,r,oa,v,HPU MAQAF,k,·,o,(de),x,_
@@ -9869,7 +9867,7 @@ SPACE
 29:16 in vtrad vtbhs
 α,a,⅃,v
 SPACE
-α,a,(de),n,o,k,i,(me),y
+α,a,(de),n,o,k,i,𝓂,y
 SPACE
 l,a,α,∵,v,:,y,w,o,n,i,⅄,y,m.
 SPACE
@@ -15239,7 +15237,7 @@ v,·,:,ʕ,_,⅃,d
 SPACE
 r,‥,ʕ,‥,⅄,h,w,·
 SPACE
-w,_,(da),y,·,o,σ,∵,f.
+w,_,y,·,o,(da),σ,∵,f.
 SPACE
 y,:,h,o,w,a,⟓,h
 SPACE
