@@ -1,17 +1,17 @@
 unicode_names Hosea
 1:1 in vtrad vtsef
-d,·,:,v,_,r,HPU MAQAF,y,:,h,o,w,a,⅃,h,THIN SPACE
+d,·,:,v,_,r,-,y,:,h,o,w,a,⅃,h,THIN SPACE
 START b 
-HPU PASEQ
+|
 STOP b 
 SPACE
 α,:_,$,·sh,∵,⅃,r
 SPACE
 h,a,y,a,◆,h
 SPACE
-α,∵,l,HPU MAQAF,h,w,o,$,·sh,‥,(p),ʕ,_,(p)
+α,∵,l,-,h,w,o,$,·sh,‥,(p),ʕ,_,(p)
 SPACE
-v,·,∵,n.,HPU MAQAF,v,·,:,α,‥,r,i,ƶ,y
+v,·,∵,n.,-,v,·,:,α,‥,r,i,ƶ,y
 SPACE
 v,·,i,y,m,‥,(qa),y
 SPACE
@@ -31,16 +31,16 @@ w,·,v,i,y,m,‥,⟓,y
 SPACE
 y,a,r,oa,v,:,ʕ,a,(me),m.
 SPACE
-v,·,∵,n.,HPU MAQAF,y,w,o,α,a,(ti),$,·sh
+v,·,∵,n.,-,y,w,o,α,a,(ti),$,·sh
 SPACE
 m,∵,(me),l,∵,k.,:
 SPACE
-y,i,$,·si,:,r,a,α,‥,𝓂,l,HPU SOF PASUQ
+y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 1:2 in vtrad vtsef
 τ,·,:,x,i,l,·,_,(me),τ
 SPACE
-d,·,i,v,·,∵,r,HPU MAQAF,y,:,h,o,w,a,(ti),h
+d,·,i,v,·,∵,r,-,y,:,h,o,w,a,(ti),h
 SPACE
 v,·,:,h,w,o,$,·sh,‥,⅄,ʕ,_
 NO-BREAK SPACE
@@ -52,11 +52,11 @@ w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 y,:,h,o,w,a,(ge),h
 SPACE
-α,∵,l,HPU MAQAF,h,w,o,$,·sh,‥,◆,ʕ,_
+α,∵,l,-,h,w,o,$,·sh,‥,◆,ʕ,_
 SPACE
 l,‥,⅃,k.,:
 SPACE
-q,_,x,HPU MAQAF,l,:,k.,a,(G)
+q,_,x,-,l,:,k.,a,(G)
 SPACE
 α,‥,<,$,·sh,∵,τ
 SPACE
@@ -66,7 +66,7 @@ w,:,y,_,l,:,d,‥,⅃,y
 SPACE
 z,:,n,w,·,n,i,ƶ,y,m.
 SPACE
-k,·,i,𝓂,y,HPU MAQAF,z,a,n,o,<,h
+k,·,i,𝓂,y,-,z,a,n,o,<,h
 SPACE
 τ,i,z,:,n,∵,h,(p)
 SPACE
@@ -74,22 +74,22 @@ h,a,α,a,ƶ,r,∵,ц.
 SPACE
 m,‥,α,_,x,:_,r,‥,(ti),y
 SPACE
-y,:,h,o,w,a,𝓂,h,HPU SOF PASUQ
+y,:,h,o,w,a,𝓂,h,.
 
 1:3 in vtrad vtsef
 w,_,y,·,‥,(p),l,∵,k.,:,(p)
 SPACE
 w,_,y,·,i,q,·,_,ƶ,x
 SPACE
-α,∵,τ,HPU MAQAF,g,·,o,(ti),m,∵,r
+α,∵,τ,-,g,·,o,(ti),m,∵,r
 SPACE
-v,·,_,τ,HPU MAQAF,d,·,i,v,:,l,a,⅄,y,i,m.
+v,·,_,τ,-,d,·,i,v,:,l,a,⅄,y,i,m.
 SPACE
 w,_,τ,·,_,(me),h,_,r
 SPACE
-w,_,τ,·,‥,l,∵,d,HPU MAQAF,l,(ti),w,o
+w,_,τ,·,‥,l,∵,d,-,l,(ti),w,o
 SPACE
-v,·,‥,𝓂,n.,HPU SOF PASUQ
+v,·,‥,𝓂,n.,.
 
 1:4 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -104,17 +104,17 @@ $,·sh,:,m,(ti),w,o
 SPACE
 y,i,z,:,r,:,ʕ,∵,⅄,α,l
 SPACE
-k,·,i,y,HPU MAQAF,ʕ,⅃,w,o,d
+k,·,i,y,-,ʕ,⅃,w,o,d
 SPACE
 m,:,ʕ,_,◆,θ
 SPACE
 w,·,f,a,(qa),q,_,d,:,τ,·,i,(ge),y
 SPACE
-α,∵,τ,HPU MAQAF,d,·,:,m,‥,<,y
+α,∵,τ,-,d,·,:,m,‥,<,y
 SPACE
 y,i,z,:,r,:,ʕ,∵,α,l,(p)
 SPACE
-ʕ,_,l,HPU MAQAF,v,·,‥,⅃,y,τ
+ʕ,_,l,-,v,·,‥,⅃,y,τ
 SPACE
 y,‥,h,ƶ,w,·,α
 SPACE
@@ -124,7 +124,7 @@ m,_,m,:,l,:,k,(ti),w,·,τ
 SPACE
 v,·,‥,(me),y,τ
 SPACE
-y,i,$,·si,:,r,a,α,‥,𝓂,l,HPU SOF PASUQ
+y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 1:5 in vtrad vtsef
 w,:,h,a,y,a,(ti),h
@@ -135,13 +135,13 @@ h,_,h,⅄,w,·,α
 SPACE
 w,:,$,·sh,a,𝓂,v,_,r,:,τ,·,i,y,(p)
 SPACE
-α,∵,τ,HPU MAQAF,q,∵,⅃,$,·sh,∵,τ
+α,∵,τ,-,q,∵,⅃,$,·sh,∵,τ
 SPACE
 y,i,$,·si,:,r,a,α,‥,ƶ,l
 SPACE
 v,·,:,ʕ,‥,(ti),m,∵,q
 SPACE
-y,i,z,:,r,:,ʕ,∵,𝓂,α,l,HPU SOF PASUQ
+y,i,z,:,r,:,ʕ,∵,𝓂,α,l,.
 
 1:6 in vtrad vtsef
 w,_,τ,·,_,<,h,_,r
@@ -174,18 +174,18 @@ SPACE
 SPACE
 α,:_,r,_,x,‥,m.,(p)
 SPACE
-α,∵,τ,HPU MAQAF,v,·,‥,⅃,y,τ
+α,∵,τ,-,v,·,‥,⅃,y,τ
 SPACE
 y,i,$,·si,:,r,a,α,‥,ƶ,l
 SPACE
-k,·,i,𝓂,y,HPU MAQAF,n,a,$,·si,o,(me),α
+k,·,i,𝓂,y,-,n,a,$,·si,o,(me),α
 SPACE
 α,∵,$,·si,·,a,(ti),α
 SPACE
-l,a,h,∵,𝓂,m.,HPU SOF PASUQ
+l,a,h,∵,𝓂,m.,.
 
 1:7 in vtrad vtsef
-w,:,α,∵,τ,HPU MAQAF,v,·,‥,<,y,τ
+w,:,α,∵,τ,-,v,·,‥,<,y,τ
 SPACE
 y,:,h,w,·,d,a,h,(p)
 SPACE
@@ -209,12 +209,12 @@ w,·,v,:,m,i,l,:,x,a,m,a,ƶ,h
 SPACE
 v,·,:,σ,w,·,σ,i,(ti),y,m.
 SPACE
-w,·,v,:,f,a,r,a,$,·sh,i,𝓂,y,m.,HPU SOF PASUQ
+w,·,v,:,f,a,r,a,$,·sh,i,𝓂,y,m.,.
 
 1:8 in vtrad vtsef
 w,_,τ,·,i,g,:,m,o,(ti),l
 SPACE
-α,∵,τ,HPU MAQAF,l,o,⅃,α
+α,∵,τ,-,l,o,⅃,α
 SPACE
 r,u,x,a,⅄,m,a,h
 SPACE
@@ -222,7 +222,7 @@ w,_,τ,·,_,(ti),h,_,r
 SPACE
 w,_,τ,·,‥,(me),l,∵,d
 SPACE
-v,·,‥,𝓂,n.,HPU SOF PASUQ
+v,·,‥,𝓂,n.,.
 
 1:9 in vtrad vtsef
 w,_,y,·,o,Ƶ,α,m,∵,r
@@ -245,9 +245,9 @@ SPACE
 SPACE
 w,:,α,a,n,o,k,i,(ti),y
 SPACE
-l,o,α,HPU MAQAF,α,∵,h,:,y,∵,(me),h
+l,o,α,-,α,∵,h,:,y,∵,(me),h
 SPACE
-l,a,k,∵,𝓂,m.,HPU SOF PASUQ
+l,a,k,∵,𝓂,m.,.
 NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
@@ -259,7 +259,7 @@ w,:,𝓂,⌕,h,a,y,a,⌕,h
 SPACE
 m,i,σ,:,f,·,_,<,r
 SPACE
-v,·,:,n,‥,𝓂,y,HPU MAQAF,y,i,$,·si,:,r,a,α,‥,l,(p)
+v,·,:,n,‥,𝓂,y,-,y,i,$,·si,:,r,a,α,‥,l,(p)
 SPACE
 k,·,:,x,⅃,w,o,l
 SPACE
@@ -267,7 +267,7 @@ h,_,y,·,a,ƶ,m.
 SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
-l,o,𝓂,α,HPU MAQAF,y,i,m,·,_,(ti),d
+l,o,𝓂,α,-,y,i,m,·,_,(ti),d
 SPACE
 w,:,l,o,⅃,α
 SPACE
@@ -277,11 +277,11 @@ w,:,𝓂,⌕,h,a,y,a,⌕,h
 SPACE
 v,·,i,m,:,q,(G),w,o,m.
 SPACE
-α,:_,$,·sh,∵,r,HPU MAQAF,y,‥,α,a,m,‥,<,r
+α,:_,$,·sh,∵,r,-,y,‥,α,a,m,‥,<,r
 SPACE
 l,a,h,∵,m.,(p)
 SPACE
-l,o,α,HPU MAQAF,ʕ,_,m,·,i,⅃,y
+l,o,α,-,ʕ,_,m,·,i,⅃,y
 SPACE
 α,_,τ,·,∵,ƶ,m.
 SPACE
@@ -291,14 +291,14 @@ l,a,h,∵,(ti),m.
 SPACE
 v,·,:,n,‥,(me),y
 SPACE
-α,‥,𝓂,l,HPU MAQAF,x,a,𝓂,y,HPU SOF PASUQ
+α,‥,𝓂,l,-,x,a,𝓂,y,.
 
 2:2 in vtrad vtsef
 w,:,⌕,n,i,q,:,v,·,:,ц,⌕,w,·
 SPACE
-v,·,:,n,‥,𝓂,y,HPU MAQAF,y,:,h,w,·,d,a,<,h
+v,·,:,n,‥,𝓂,y,-,y,:,h,w,·,d,a,<,h
 SPACE
-w,·,v,:,n,‥,𝓂,y,HPU MAQAF,y,i,$,·si,:,r,a,α,‥,l,(p)
+w,·,v,:,n,‥,𝓂,y,-,y,i,$,·si,:,r,a,α,‥,l,(p)
 SPACE
 y,_,x,:,d,·,a,ƶ,w
 SPACE
@@ -312,7 +312,7 @@ SPACE
 SPACE
 w,:,ʕ,a,l,⅃,w,·
 SPACE
-m,i,n.,HPU MAQAF,h,a,α,a,⅄,r,∵,ц.
+m,i,n.,-,h,a,α,a,⅄,r,∵,ц.
 SPACE
 k,·,i,(me),y
 SPACE
@@ -320,7 +320,7 @@ g,a,d,(ti),w,o,l
 SPACE
 y,(me),w,o,m.
 SPACE
-y,i,z,:,r,:,ʕ,∵,𝓂,α,l,HPU SOF PASUQ
+y,i,z,:,r,:,ʕ,∵,𝓂,α,l,.
 
 2:3 in vtrad vtsef
 α,i,m,:,r,(me),w,·
@@ -331,7 +331,7 @@ SPACE
 SPACE
 w,:,l,_,α,:_,x,w,o,τ,‥,y,k,∵,(ti),m.
 SPACE
-r,u,x,a,𝓂,m,a,h,HPU SOF PASUQ
+r,u,x,a,𝓂,m,a,h,.
 
 2:4 in vtrad vtsef
 r,i,<,y,v,w,·
@@ -340,7 +340,7 @@ v,:,α,i,m,·,:,k,∵,m.,(p)
 SPACE
 r,i,ƶ,y,v,w,·
 SPACE
-k,·,i,y,HPU MAQAF,h,i,y,α,(p)
+k,·,i,y,-,h,i,y,α,(p)
 SPACE
 l,o,⅃,α
 SPACE
@@ -362,10 +362,10 @@ w,:,n,_,α,:_,f,w,·,f,∵,(ti),y,h,a
 SPACE
 m,i,v,·,‥,(me),y,n.
 SPACE
-$,·sh,a,d,∵,𝓂,y,h,a,HPU SOF PASUQ
+$,·sh,a,d,∵,𝓂,y,h,a,.
 
 2:5 in vtrad vtsef
-f,·,∵,n.,HPU MAQAF,α,_,f,:,$,·sh,i,y,θ,∵,⅃,n,·,a,h
+f,·,∵,n.,-,α,_,f,:,$,·sh,i,y,θ,∵,⅃,n,·,a,h
 SPACE
 ʕ,:_,r,u,m,·,a,ƶ,h
 SPACE
@@ -387,20 +387,20 @@ SPACE
 SPACE
 w,_,h,:_,m,i,τ,·,i,(ti),y,h,a
 SPACE
-v,·,_,ц,·,a,m,a,𝓂,α,HPU SOF PASUQ
+v,·,_,ц,·,a,m,a,𝓂,α,.
 
 2:6 in vtrad vtsef
-w,:,α,∵,τ,HPU MAQAF,v,·,a,n,∵,(ti),y,h,a
+w,:,α,∵,τ,-,v,·,a,n,∵,(ti),y,h,a
 SPACE
 l,o,⅃,α
 SPACE
 α,:_,r,_,x,‥,⅄,m.
 SPACE
-k,·,i,𝓂,y,HPU MAQAF,v,:,n,‥,(me),y
+k,·,i,𝓂,y,-,v,:,n,‥,(me),y
 SPACE
 z,:,n,w,·,n,i,(ti),y,m.
 SPACE
-h,‥,𝓂,m,·,a,h,HPU SOF PASUQ
+h,‥,𝓂,m,·,a,h,.
 
 2:7 in vtrad vtsef
 k,·,i,<,y
@@ -435,33 +435,33 @@ w,·,f,i,$,·sh,:,τ,·,i,ƶ,y
 SPACE
 $,·sh,_,m,:,n,i,(ti),y
 SPACE
-w,:,$,·sh,i,q,·,w,·,y,a,𝓂,y,HPU SOF PASUQ
+w,:,$,·sh,i,q,·,w,·,y,a,𝓂,y,.
 
 2:8 in vtrad vtsef
 l,a,k,‥,⟓,n.
 SPACE
-h,i,n,:,n,i,y,HPU MAQAF,$,·si,a,(me),k.,:
+h,i,n,:,n,i,y,-,$,·si,a,(me),k.,:
 SPACE
-α,∵,τ,HPU MAQAF,d,·,_,r,:,k,·,‥,(ti),k.,:
+α,∵,τ,-,d,·,_,r,:,k,·,‥,(ti),k.,:
 SPACE
 v,·,_,σ,·,i,y,r,i,⅄,y,m.
 SPACE
 w,:,g,a,𝓂,d,_,r,:,τ,·,i,y,(p)
 SPACE
-α,∵,τ,HPU MAQAF,g,·,:,d,‥,r,a,ƶ,h,·
+α,∵,τ,-,g,·,:,d,‥,r,a,ƶ,h,·
 SPACE
 w,·,n,:,τ,i,y,v,w,o,τ,∵,(ti),y,h,a
 SPACE
 l,o,(me),α
 SPACE
-τ,i,m,:,ц,a,𝓂,α,HPU SOF PASUQ
+τ,i,m,:,ц,a,𝓂,α,.
 
 2:9 in vtrad vtsef
 w,:,r,i,d,·,:,f,a,<,h
 SPACE
-α,∵,τ,HPU MAQAF,m,:,α,_,h,:_,v,∵,(p),y,h,a,(p)
+α,∵,τ,-,m,:,α,_,h,:_,v,∵,(p),y,h,a,(p)
 SPACE
-w,:,l,o,α,HPU MAQAF,τ,_,$,·si,·,i,⅃,y,g
+w,:,l,o,α,-,τ,_,$,·si,·,i,⅃,y,g
 SPACE
 α,o,τ,a,ƶ,m.
 SPACE
@@ -477,7 +477,7 @@ SPACE
 SPACE
 w,:,α,a,$,·sh,(p),w,·,v,a,h,(p)
 SPACE
-α,∵,l,HPU MAQAF,α,i,y,$,·sh,i,⅃,y
+α,∵,l,-,α,i,y,$,·sh,i,⅃,y
 SPACE
 h,a,r,i,α,$,·sh,ƶ,w,o,n.
 SPACE
@@ -489,7 +489,7 @@ l,i,⟓,y
 SPACE
 α,a,(ti),z
 SPACE
-m,‥,ʕ,a,𝓂,τ,·,a,h,HPU SOF PASUQ
+m,‥,ʕ,a,𝓂,τ,·,a,h,.
 
 2:10 in vtrad vtsef
 w,:,h,i,y,α,(p)
@@ -522,7 +522,7 @@ w,:,z,a,h,a,(ti),v
 SPACE
 ʕ,a,$,·si,(me),w,·
 SPACE
-l,_,v,·,a,𝓂,ʕ,_,l,HPU SOF PASUQ
+l,_,v,·,a,𝓂,ʕ,_,l,.
 
 2:11 in vtrad vtsef
 l,a,k,‥,⅃,n.
@@ -547,14 +547,14 @@ w,·,f,i,$,·sh,:,τ,·,i,ƶ,y
 SPACE
 l,:,k,_,σ,·,(ti),w,o,τ
 SPACE
-α,∵,τ,HPU MAQAF,ʕ,∵,r,:,w,a,τ,a,𝓂,h,·,HPU SOF PASUQ
+α,∵,τ,-,ʕ,∵,r,:,w,a,τ,a,𝓂,h,·,.
 
 2:12 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,⟓,h
 SPACE
 α,:_,g,_,l,·,∵,(me),h
 SPACE
-α,∵,τ,HPU MAQAF,n,_,v,:,l,u,τ,a,(ti),h,·
+α,∵,τ,-,n,_,v,:,l,u,τ,a,(ti),h,·
 SPACE
 l,:,ʕ,‥,y,n,‥,⅃,y
 SPACE
@@ -562,14 +562,14 @@ m,:,α,_,h,:_,v,∵,⅄,y,h,a
 SPACE
 w,:,α,i,(ti),y,$,·sh
 SPACE
-l,o,α,HPU MAQAF,y,_,ц,·,i,y,l,∵,(me),n,·,a,h
+l,o,α,-,y,_,ц,·,i,y,l,∵,(me),n,·,a,h
 SPACE
-m,i,y,·,a,d,i,𝓂,y,HPU SOF PASUQ
+m,i,y,·,a,d,i,𝓂,y,.
 
 2:13 in vtrad vtsef
 w,:,h,i,$,·sh,:,v,·,_,τ,·,i,y,(p)
 SPACE
-k,·,oa,l,HPU MAQAF,m,:,$,·si,w,o,$,·si,a,ƶ,h,·
+k,·,oa,l,-,m,:,$,·si,w,o,$,·si,a,ƶ,h,·
 SPACE
 x,_,g,·,a,(ti),h,·
 SPACE
@@ -579,7 +579,7 @@ w,:,$,·sh,_,v,·,_,τ,·,a,⅄,h,·
 SPACE
 w,:,k,o,(ti),l
 SPACE
-m,w,o,ʕ,:_,d,a,𝓂,h,·,HPU SOF PASUQ
+m,w,o,ʕ,:_,d,a,𝓂,h,·,.
 
 2:14 in vtrad vtsef
 w,_,h,:_,$,·sh,i,m,·,o,τ,i,◆,y
@@ -600,7 +600,7 @@ l,i,ƶ,y
 SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
-n,a,τ,:,n,w,·,HPU MAQAF,l,i,(ti),y
+n,a,τ,:,n,w,·,-,l,i,(ti),y
 SPACE
 m,:,α,_,h,:_,v,a,⅄,y
 SPACE
@@ -612,14 +612,14 @@ w,_,α,:_,k,a,l,a,(ti),τ,_,m.
 SPACE
 x,_,y,·,_,(me),τ
 SPACE
-h,_,$,·si,·,a,d,∵,𝓂,h,HPU SOF PASUQ
+h,_,$,·si,·,a,d,∵,𝓂,h,.
 
 2:15 in vtrad vtsef
 w,·,f,a,q,_,d,:,τ,·,i,⅃,y
 SPACE
 ʕ,a,l,∵,◆,y,h,a
 SPACE
-α,∵,τ,HPU MAQAF,y,:,m,‥,<,y
+α,∵,τ,-,y,:,m,‥,<,y
 SPACE
 h,_,v,·,:,ʕ,a,l,i,y,m.,(p)
 SPACE
@@ -645,7 +645,7 @@ w,:,α,o,τ,i,(me),y
 SPACE
 $,·sh,a,k,:,x,a,(ti),h
 SPACE
-n,:,α,u,m.,HPU MAQAF,y,:,h,o,w,a,𝓂,h,HPU SOF PASUQ
+n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -674,18 +674,18 @@ h,_,m,·,i,d,:,v,·,a,⅄,r
 SPACE
 w,:,d,i,v,·,_,r,:,τ,·,i,(ti),y
 SPACE
-ʕ,_,l,HPU MAQAF,l,i,v,·,a,𝓂,h,·,HPU SOF PASUQ
+ʕ,_,l,-,l,i,v,·,a,𝓂,h,·,.
 
 2:17 in vtrad vtsef
 w,:,n,a,τ,_,(qa),τ,·,i,y
 SPACE
 l,a,<,h,·
 SPACE
-α,∵,τ,HPU MAQAF,k,·,:,r,a,m,∵,(p),y,h,a,(p)
+α,∵,τ,-,k,·,:,r,a,m,∵,(p),y,h,a,(p)
 SPACE
 m,i,$,·sh,·,a,ƶ,m.
 SPACE
-w,:,α,∵,τ,HPU MAQAF,ʕ,‥,(me),m,∵,q
+w,:,α,∵,τ,-,ʕ,‥,(me),m,∵,q
 SPACE
 ʕ,a,k,(ti),w,o,r
 SPACE
@@ -705,39 +705,39 @@ w,·,k,:,y,(ti),w,o,m.
 SPACE
 ʕ,:_,l,w,o,τ,a,(me),h,·
 SPACE
-m,‥,α,∵,r,∵,ц.,HPU MAQAF,m,i,ц,:,r,a,𝓂,y,i,m.,HPU SOF PASUQ
+m,‥,α,∵,r,∵,ц.,-,m,i,ц,:,r,a,𝓂,y,i,m.,.
 
 2:18 in vtrad vtsef
 w,:,h,a,y,a,<,h
 SPACE
-v,_,y,·,w,o,m.,HPU MAQAF,h,_,h,w,·,α,(p)
+v,_,y,·,w,o,m.,-,h,_,h,w,·,α,(p)
 SPACE
-n,:,α,u,m.,HPU MAQAF,y,:,h,o,w,a,ƶ,h
+n,:,α,u,m.,-,y,:,h,o,w,a,ƶ,h
 SPACE
 τ,·,i,q,:,r,:,α,i,(ti),y
 SPACE
 α,i,y,$,·sh,i,⅄,y
 SPACE
-w,:,l,o,α,HPU MAQAF,τ,i,q,:,r,:,α,i,y,HPU MAQAF,l,i,(me),y
+w,:,l,o,α,-,τ,i,q,:,r,:,α,i,y,-,l,i,(me),y
 SPACE
 ʕ,(ti),w,o,d
 SPACE
-v,·,_,ʕ,:,l,i,𝓂,y,HPU SOF PASUQ
+v,·,_,ʕ,:,l,i,𝓂,y,.
 
 2:19 in vtrad vtsef
 w,_,h,:_,σ,i,r,o,τ,i,⟓,y
 SPACE
-α,∵,τ,HPU MAQAF,$,·sh,:,m,(me),w,o,τ
+α,∵,τ,-,$,·sh,:,m,(me),w,o,τ
 SPACE
 h,_,v,·,:,ʕ,a,l,i,(ti),y,m.
 SPACE
 m,i,f,·,i,⅄,y,h,a
 SPACE
-w,:,l,o,α,HPU MAQAF,y,i,z,·,a,k,:,r,(me),w,·
+w,:,l,o,α,-,y,i,z,·,a,k,:,r,(me),w,·
 SPACE
 ʕ,(ti),w,o,d
 SPACE
-v,·,i,$,·sh,:,m,a,𝓂,m.,HPU SOF PASUQ
+v,·,i,$,·sh,:,m,a,𝓂,m.,.
 
 2:20 in vtrad vtsef
 w,:,k,a,r,_,τ,·,i,(qa),y
@@ -750,11 +750,11 @@ v,·,_,y,·,⅃,w,o,m.
 SPACE
 h,_,h,ƶ,w,·,α
 SPACE
-ʕ,i,m.,HPU MAQAF,x,_,y,·,_,<,τ
+ʕ,i,m.,-,x,_,y,·,_,<,τ
 SPACE
 h,_,$,·si,·,a,d,∵,h,(p)
 SPACE
-w,:,ʕ,i,m.,HPU MAQAF,ʕ,⅃,w,o,f.
+w,:,ʕ,i,m.,-,ʕ,⅃,w,o,f.
 SPACE
 h,_,$,·sh,·,a,m,_,ƶ,y,i,m.
 SPACE
@@ -770,11 +770,11 @@ w,·,m,i,l,:,x,a,m,a,h,(p)
 SPACE
 α,∵,$,·sh,:,v,·,⅃,w,o,r
 SPACE
-m,i,n.,HPU MAQAF,h,a,α,a,ƶ,r,∵,ц.
+m,i,n.,-,h,a,α,a,ƶ,r,∵,ц.
 SPACE
 w,:,h,i,$,·sh,:,k,·,_,v,:,τ,·,i,(ti),y,m.
 SPACE
-l,a,v,∵,𝓂,θ,_,x,HPU SOF PASUQ
+l,a,v,∵,𝓂,θ,_,x,.
 
 2:21 in vtrad vtsef
 w,:,α,‥,r,_,$,·si,:,τ,·,i,(me),y,k.,:
@@ -793,7 +793,7 @@ w,·,v,:,m,i,$,·sh,:,f,·,a,ƶ,θ
 SPACE
 w,·,v,:,x,∵,(ti),σ,∵,d
 SPACE
-w,·,𝓂,v,:,r,_,x,:_,m,i,𝓂,y,m.,HPU SOF PASUQ
+w,·,𝓂,v,:,r,_,x,:_,m,i,𝓂,y,m.,.
 
 2:22 in vtrad vtsef
 w,:,α,‥,r,_,$,·si,:,τ,·,i,(me),y,k.,:
@@ -804,7 +804,7 @@ v,·,∵,α,:∵,m,w,·,n,a,⅄,h
 SPACE
 w,:,y,a,d,_,(ti),ʕ,_,τ,·,:
 SPACE
-α,∵,τ,HPU MAQAF,y,:,h,o,w,a,𝓂,h,HPU SOF PASUQ
+α,∵,τ,-,y,:,h,o,w,a,𝓂,h,.
 NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
@@ -814,7 +814,7 @@ START br
 2:23 in vtrad vtsef
 w,:,h,a,y,a,⅃,h,THIN SPACE
 START b 
-HPU PASEQ
+|
 STOP b 
 SPACE
 v,·,_,y,·,⅃,w,o,m.
@@ -823,34 +823,34 @@ h,_,h,◆,w,·,α
 SPACE
 α,∵,𝓂,ʕ,:∵,n,∵,h,(p)
 SPACE
-n,:,α,u,m.,HPU MAQAF,y,:,h,o,w,a,ƶ,h
+n,:,α,u,m.,-,y,:,h,o,w,a,ƶ,h
 SPACE
 α,∵,ʕ,:∵,n,∵,(ti),h
 SPACE
-α,∵,τ,HPU MAQAF,h,_,$,·sh,·,a,m,a,⅄,y,i,m.
+α,∵,τ,-,h,_,$,·sh,·,a,m,a,⅄,y,i,m.
 SPACE
 w,:,h,‥,(ti),m.
 SPACE
 y,_,ʕ,:_,n,(me),w,·
 SPACE
-α,∵,τ,HPU MAQAF,h,a,α,a,𝓂,r,∵,ц.,HPU SOF PASUQ
+α,∵,τ,-,h,a,α,a,𝓂,r,∵,ц.,.
 
 2:24 in vtrad vtsef
 w,:,h,a,α,a,⅃,r,∵,ц.
 SPACE
 τ,·,_,ʕ,:_,n,∵,ƶ,h
 SPACE
-α,∵,τ,HPU MAQAF,h,_,d,·,a,g,a,(ti),n.
+α,∵,τ,-,h,_,d,·,a,g,a,(ti),n.
 SPACE
-w,:,α,∵,τ,HPU MAQAF,h,_,τ,·,i,y,r,⅃,w,o,$,·sh
+w,:,α,∵,τ,-,h,_,τ,·,i,y,r,⅃,w,o,$,·sh
 SPACE
-w,:,α,∵,τ,HPU MAQAF,h,_,y,·,i,ц,:,h,a,⅄,r
+w,:,α,∵,τ,-,h,_,y,·,i,ц,:,h,a,⅄,r
 SPACE
 w,:,h,‥,(ti),m.
 SPACE
 y,_,ʕ,:_,n,(me),w,·
 SPACE
-α,∵,𝓂,τ,HPU MAQAF,y,i,z,:,r,:,ʕ,∵,𝓂,α,l,HPU SOF PASUQ
+α,∵,𝓂,τ,-,y,i,z,:,r,:,ʕ,∵,𝓂,α,l,.
 
 2:25 in vtrad vtsef
 w,·,z,:,r,_,ʕ,:,τ,·,i,<,y,h,a
@@ -861,21 +861,21 @@ v,·,a,α,a,ƶ,r,∵,ц.
 SPACE
 w,:,r,i,x,_,m,:,τ,·,i,(ti),y
 SPACE
-α,∵,τ,HPU MAQAF,l,o,⅃,α
+α,∵,τ,-,l,o,⅃,α
 SPACE
 r,u,x,a,⅄,m,a,h
 SPACE
 w,:,α,a,m,_,r,:,τ,·,i,<,y
 SPACE
-l,:,l,o,𝓂,α,HPU MAQAF,ʕ,_,m,·,i,y,(p)
+l,:,l,o,𝓂,α,-,ʕ,_,m,·,i,y,(p)
 SPACE
-ʕ,_,m,·,i,y,HPU MAQAF,α,_,ƶ,τ,·,a,h
+ʕ,_,m,·,i,y,-,α,_,ƶ,τ,·,a,h
 SPACE
 w,:,h,(ti),w,·,α
 SPACE
 y,o,α,m,_,(me),r
 SPACE
-α,:∵,l,o,h,a,𝓂,y,HPU SOF PASUQ
+α,:∵,l,o,h,a,𝓂,y,.
 NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
@@ -893,7 +893,7 @@ SPACE
 SPACE
 l,‥,⅃,k.,:
 SPACE
-α,:∵,𝓂,h,_,v,HPU MAQAF,α,i,$,·sh,·,a,ƶ,h
+α,:∵,𝓂,h,_,v,-,α,i,$,·sh,·,a,ƶ,h
 SPACE
 α,:_,h,u,(me),v,_,τ
 SPACE
@@ -905,7 +905,7 @@ k,·,:,α,_,h,:_,v,_,<,τ
 SPACE
 y,:,h,o,w,a,h,(p)
 SPACE
-α,∵,τ,HPU MAQAF,v,·,:,n,‥,⅃,y
+α,∵,τ,-,v,·,:,n,‥,⅃,y
 SPACE
 y,i,$,·si,:,r,a,α,‥,ƶ,l
 SPACE
@@ -913,7 +913,7 @@ w,:,h,‥,◆,m.
 SPACE
 f,·,o,n,i,y,m.,(p)
 SPACE
-α,∵,l,HPU MAQAF,α,:∵,l,o,h,i,⅃,y,m.
+α,∵,l,-,α,:∵,l,o,h,i,⅃,y,m.
 SPACE
 α,:_,x,‥,r,i,ƶ,y,m.
 SPACE
@@ -921,7 +921,7 @@ w,:,α,o,h,:_,v,‥,(ti),y
 SPACE
 α,:_,$,·sh,i,y,$,·sh,‥,(me),y
 SPACE
-ʕ,:_,n,a,v,i,𝓂,y,m.,HPU SOF PASUQ
+ʕ,:_,n,a,v,i,𝓂,y,m.,.
 
 3:2 in vtrad vtsef
 w,a,α,∵,k,·,:,r,∵,⅃,h,a
@@ -940,7 +940,7 @@ $,·si,:,ʕ,o,r,i,(ti),y,m.
 SPACE
 w,:,l,‥,(me),τ,∵,k.,:
 SPACE
-$,·si,:,ʕ,o,r,i,𝓂,y,m.,HPU SOF PASUQ
+$,·si,:,ʕ,o,r,i,𝓂,y,m.,.
 
 3:3 in vtrad vtsef
 w,a,α,o,m,_,⅃,r
@@ -965,14 +965,14 @@ SPACE
 SPACE
 l,:,α,i,⅄,y,$,·sh
 SPACE
-w,:,g,_,m.,HPU MAQAF,α,:_,n,i,(ti),y
+w,:,g,_,m.,-,α,:_,n,i,(ti),y
 SPACE
-α,‥,l,a,𝓂,y,i,k.,:,HPU SOF PASUQ
+α,‥,l,a,𝓂,y,i,k.,:,.
 
 3:4 in vtrad vtsef
 k,·,i,⅃,y,THIN SPACE
 START b 
-HPU PASEQ
+|
 STOP b 
 SPACE
 y,a,m,i,⅃,y,m.
@@ -1005,7 +1005,7 @@ w,:,α,‥,(me),y,n.
 SPACE
 α,‥,f,(ti),w,o,d
 SPACE
-w,·,τ,:,r,a,f,i,𝓂,y,m.,HPU SOF PASUQ
+w,·,τ,:,r,a,f,i,𝓂,y,m.,.
 
 3:5 in vtrad vtsef
 α,_,x,_,◆,r
@@ -1018,7 +1018,7 @@ y,i,$,·si,:,r,a,α,‥,ƶ,l
 SPACE
 w,·,v,i,q,:,$,·sh,w,·,(p)
 SPACE
-α,∵,τ,HPU MAQAF,y,:,h,o,w,a,⅃,h
+α,∵,τ,-,y,:,h,o,w,a,⅃,h
 SPACE
 α,:∵,l,o,h,‥,y,h,∵,ƶ,m.
 SPACE
@@ -1030,13 +1030,13 @@ m,_,l,:,k,·,a,⅄,m.
 SPACE
 w,·,f,a,x,:_,d,(da),w,·
 SPACE
-α,∵,l,HPU MAQAF,y,:,h,o,w,a,⟓,h
+α,∵,l,-,y,:,h,o,w,a,⟓,h
 SPACE
-w,:,α,∵,l,HPU MAQAF,θ,w,·,v,(ti),w,o
+w,:,α,∵,l,-,θ,w,·,v,(ti),w,o
 SPACE
 v,·,:,α,_,x,:_,r,i,(me),y,τ
 SPACE
-h,_,y,·,a,m,i,𝓂,y,m.,HPU SOF PASUQ
+h,_,y,·,a,m,i,𝓂,y,m.,.
 NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
@@ -1046,7 +1046,7 @@ START br
 4:1 in vtrad vtsef
 $,·sh,i,m,:,ʕ,(me),w,·
 SPACE
-d,:,v,_,r,HPU MAQAF,y,:,h,o,w,a,(ti),h
+d,:,v,_,r,-,y,:,h,o,w,a,(ti),h
 SPACE
 v,·,:,n,‥,⅃,y
 SPACE
@@ -1058,21 +1058,21 @@ r,i,<,y,v
 SPACE
 l,_,𝓂,y,h,o,w,a,h,(p)
 SPACE
-ʕ,i,m.,HPU MAQAF,y,w,o,$,·sh,:,v,‥,⅃,y
+ʕ,i,m.,-,y,w,o,$,·sh,:,v,‥,⅃,y
 SPACE
 h,a,α,a,ƶ,r,∵,ц.
 SPACE
 k,·,i,⌕,y
 SPACE
-α,‥,y,n.,HPU MAQAF,α,:∵,m,∵,(da),τ
+α,‥,y,n.,-,α,:∵,m,∵,(da),τ
 SPACE
-w,:,𝓂,α,‥,y,n.,HPU MAQAF,x,∵,⟓,σ,∵,d
+w,:,𝓂,α,‥,y,n.,-,x,∵,⟓,σ,∵,d
 SPACE
-w,:,α,‥,𝓂,y,n.,HPU MAQAF,d,·,_,(me),ʕ,_,τ
+w,:,α,‥,𝓂,y,n.,-,d,·,_,(me),ʕ,_,τ
 SPACE
 α,:∵,l,o,h,i,(ti),y,m.
 SPACE
-v,·,a,α,a,𝓂,r,∵,ц.,HPU SOF PASUQ
+v,·,a,α,a,𝓂,r,∵,ц.,.
 
 4:2 in vtrad vtsef
 α,a,l,o,⅃,h
@@ -1091,12 +1091,12 @@ w,:,d,a,m,i,(me),y,m.
 SPACE
 v,·,:,d,a,m,i,(ti),y,m.
 SPACE
-n,a,g,a,𝓂,ʕ,w,·,HPU SOF PASUQ
+n,a,g,a,𝓂,ʕ,w,·,.
 
 4:3 in vtrad vtsef
-ʕ,_,l,HPU MAQAF,k,·,‥,⅃,n.,THIN SPACE
+ʕ,_,l,-,k,·,‥,⅃,n.,THIN SPACE
 START b 
-HPU PASEQ
+|
 STOP b 
 SPACE
 τ,·,∵,α,:∵,v,_,⅃,l
@@ -1105,7 +1105,7 @@ h,a,α,a,◆,r,∵,ц.
 SPACE
 w,:,α,u,m,:,l,_,l,(p)
 SPACE
-k,·,oa,l,HPU MAQAF,y,w,o,$,·sh,‥,⅃,v
+k,·,oa,l,-,y,w,o,$,·sh,‥,⅃,v
 SPACE
 v,·,a,ƶ,h,·
 SPACE
@@ -1117,20 +1117,20 @@ w,·,v,:,ʕ,⅃,w,o,f.
 SPACE
 h,_,$,·sh,·,a,m,a,⅄,y,i,m.
 SPACE
-w,:,g,_,m.,HPU MAQAF,d,·,:,g,‥,(me),y
+w,:,g,_,m.,-,d,·,:,g,‥,(me),y
 SPACE
 h,_,y,·,a,(ti),m.
 SPACE
-y,‥,α,a,σ,‥,𝓂,f,w,·,HPU SOF PASUQ
+y,‥,α,a,σ,‥,𝓂,f,w,·,.
 
 4:4 in vtrad vtsef
 α,_,(me),k.,:
 SPACE
 α,i,⟓,y,$,·sh
 SPACE
-α,_,l,HPU MAQAF,y,a,r,‥,(ti),v
+α,_,l,-,y,a,r,‥,(ti),v
 SPACE
-w,:,α,_,l,HPU MAQAF,y,w,o,k,_,⅃,x
+w,:,α,_,l,-,y,w,o,k,_,⅃,x
 SPACE
 α,i,⅄,y,$,·sh
 SPACE
@@ -1138,7 +1138,7 @@ w,:,ʕ,_,m,·,:,k.,a,(ti)
 SPACE
 k,·,i,m,:,r,i,y,v,‥,(me),y
 SPACE
-k,o,h,‥,𝓂,n.,HPU SOF PASUQ
+k,o,h,‥,𝓂,n.,.
 
 4:5 in vtrad vtsef
 w,:,k,a,$,·sh,_,l,:,τ,·,a,⅃
@@ -1147,7 +1147,7 @@ h,_,y,·,ƶ,w,o,m.
 SPACE
 w,:,k,a,$,·sh,_,(da),l
 SPACE
-g,·,_,m.,HPU MAQAF,n,a,v,i,⟓,y,α
+g,·,_,m.,-,n,a,v,i,⟓,y,α
 SPACE
 ʕ,i,m,·,:,k.,a,(ti)
 SPACE
@@ -1155,7 +1155,7 @@ l,a,⅄,y,:,l,a,h
 SPACE
 w,:,d,a,m,i,(ti),y,τ,i,y
 SPACE
-α,i,m,·,∵,𝓂,k.,a,HPU SOF PASUQ
+α,i,m,·,∵,𝓂,k.,a,.
 
 4:6 in vtrad vtsef
 n,i,d,:,m,(me),w,·
@@ -1166,7 +1166,7 @@ m,i,v,·,:,l,i,⅃,y
 SPACE
 h,_,d,·,a,⅄,ʕ,_,τ
 SPACE
-k,·,i,y,HPU MAQAF,α,_,τ,·,a,(G),h
+k,·,i,y,-,α,_,τ,·,a,(G),h
 SPACE
 h,_,d,·,_,⅃,ʕ,_,τ
 SPACE
@@ -1196,20 +1196,20 @@ SPACE
 SPACE
 v,·,a,n,∵,(ti),y,k.,a
 SPACE
-g,·,_,m.,HPU MAQAF,α,a,𝓂,n,i,y,HPU SOF PASUQ
+g,·,_,m.,-,α,a,𝓂,n,i,y,.
 
 4:7 in vtrad vtsef
 k,·,:,r,u,v,·,a,(ti),m.
 SPACE
 k,·,‥,⅃,n.
 SPACE
-x,a,θ,:,α,w,·,HPU MAQAF,l,i,⅄,y
+x,a,θ,:,α,w,·,-,l,i,⅄,y
 SPACE
 k,·,:,v,w,o,d,a,(ti),m.
 SPACE
 v,·,:,q,a,l,(me),w,o,n.
 SPACE
-α,a,m,i,𝓂,y,r,HPU SOF PASUQ
+α,a,m,i,𝓂,y,r,.
 
 4:8 in vtrad vtsef
 x,_,θ,·,_,(me),α,τ
@@ -1218,11 +1218,11 @@ SPACE
 SPACE
 y,o,α,k,‥,⅄,l,w,·
 SPACE
-w,:,α,∵,l,HPU MAQAF,ʕ,:_,w,hhfv,n,a,(ti),m.
+w,:,α,∵,l,-,ʕ,:_,w,hhfv,n,a,(ti),m.
 SPACE
 y,i,$,·si,:,α,(me),w,·
 SPACE
-n,_,f,:,$,·sh,𝓂,w,o,HPU SOF PASUQ
+n,_,f,:,$,·sh,𝓂,w,o,.
 
 4:9 in vtrad vtsef
 w,:,h,a,y,a,(me),h
@@ -1241,7 +1241,7 @@ w,·,m,_,ʕ,:_,l,a,l,a,(ti),y,w
 SPACE
 α,a,$,·sh,i,(me),y,v
 SPACE
-l,𝓂,w,o,HPU SOF PASUQ
+l,𝓂,w,o,.
 
 4:10 in vtrad vtsef
 w,:,α,a,𝓂,k,:,l,w,·,(p)
@@ -1256,11 +1256,11 @@ w,:,l,o,⅃,α
 SPACE
 y,i,f,:,r,o,⅄,ц,w,·
 SPACE
-k,·,i,𝓂,y,HPU MAQAF,α,∵,τ,HPU MAQAF,y,:,h,o,w,a,(me),h
+k,·,i,𝓂,y,-,α,∵,τ,-,y,:,h,o,w,a,(me),h
 SPACE
 ʕ,a,z,:,v,(ti),w,·
 SPACE
-l,i,$,·sh,:,m,o,𝓂,r,HPU SOF PASUQ
+l,i,$,·sh,:,m,o,𝓂,r,.
 
 4:11 in vtrad vtsef
 z,:,n,⟓,w,·,τ
@@ -1269,7 +1269,7 @@ w,:,y,_,(me),y,i,n.
 SPACE
 w,:,τ,i,y,r,(ti),w,o,$,·sh
 SPACE
-y,i,𝓂,q,·,_,𝓂,x,HPU MAQAF,l,‥,𝓂,v,HPU SOF PASUQ
+y,i,𝓂,q,·,_,𝓂,x,-,l,‥,𝓂,v,.
 
 4:12 in vtrad vtsef
 ʕ,_,m,·,i,y,(p)
@@ -1296,16 +1296,16 @@ w,_,y,·,i,z,:,n,(ti),w,·
 SPACE
 m,i,τ,·,_,(me),x,_,τ
 SPACE
-α,:∵,l,o,h,‥,y,h,∵,𝓂,m.,HPU SOF PASUQ
+α,:∵,l,o,h,‥,y,h,∵,𝓂,m.,.
 
 4:13 in vtrad vtsef
-ʕ,_,l,HPU MAQAF,r,a,α,$,·sh,‥,(qa),y
+ʕ,_,l,-,r,a,α,$,·sh,‥,(qa),y
 SPACE
 h,∵,h,a,r,i,(ge),y,m.
 SPACE
 y,:,z,_,v,·,‥,◆,x,w,·
 SPACE
-w,:,ʕ,_,l,HPU MAQAF,h,_,g,·,:,v,a,ʕ,w,o,τ,(p)
+w,:,ʕ,_,l,-,h,_,g,·,:,v,a,ʕ,w,o,τ,(p)
 SPACE
 y,:,q,_,θ,·,‥,ƶ,r,w,·
 SPACE
@@ -1323,7 +1323,7 @@ SPACE
 SPACE
 ц,i,l,·,a,⅄,h,·
 SPACE
-ʕ,_,l,HPU MAQAF,k,·,‥,◆,n.
+ʕ,_,l,-,k,·,‥,◆,n.
 SPACE
 τ,·,i,z,:,n,∵,(p),y,n,a,h,(p)
 SPACE
@@ -1331,63 +1331,63 @@ v,·,:,n,⅃,w,o,τ,‥,y,k,∵,ƶ,m.
 SPACE
 w,:,k,_,l,·,w,o,τ,‥,y,k,∵,(ti),m.
 SPACE
-τ,·,:,n,a,α,_,𝓂,f,:,n,a,h,HPU SOF PASUQ
+τ,·,:,n,a,α,_,𝓂,f,:,n,a,h,.
 
 4:14 in vtrad vtsef
-l,o,α,HPU MAQAF,α,∵,f,:,q,(qa),w,o,d
+l,o,α,-,α,∵,f,:,q,(qa),w,o,d
 SPACE
-ʕ,_,l,HPU MAQAF,v,·,:,n,w,o,τ,‥,y,k,∵,(ge),m.
+ʕ,_,l,-,v,·,:,n,w,o,τ,‥,y,k,∵,(ge),m.
 SPACE
 k,·,i,⅃,y
 SPACE
 τ,i,z,:,n,∵,◆,y,n,a,h
 SPACE
-w,:,ʕ,_,l,HPU MAQAF,k,·,_,l,·,𝓂,w,o,τ,‥,y,k,∵,m.,(p)
+w,:,ʕ,_,l,-,k,·,_,l,·,𝓂,w,o,τ,‥,y,k,∵,m.,(p)
 SPACE
 k,·,i,⅃,y
 SPACE
 τ,:,n,a,α,_,ƶ,f,:,n,a,h
 SPACE
-k,·,i,y,HPU MAQAF,h,‥,m.,(p)
+k,·,i,y,-,h,‥,m.,(p)
 SPACE
-ʕ,i,m.,HPU MAQAF,h,_,z,·,o,n,⅃,w,o,τ
+ʕ,i,m.,-,h,_,z,·,o,n,⅃,w,o,τ
 SPACE
 y,:,f,a,r,‥,ƶ,d,w,·
 SPACE
-w,:,ʕ,i,m.,HPU MAQAF,h,_,q,·,:,d,‥,$,·sh,(ti),w,o,τ
+w,:,ʕ,i,m.,-,h,_,q,·,:,d,‥,$,·sh,(ti),w,o,τ
 SPACE
 y,:,z,_,v,·,‥,⅄,x,w,·
 SPACE
 w,:,ʕ,a,(me),m.
 SPACE
-l,o,𝓂,α,HPU MAQAF,y,a,v,i,(ti),y,n.
+l,o,𝓂,α,-,y,a,v,i,(ti),y,n.
 SPACE
-y,i,l,·,a,v,‥,𝓂,θ,HPU SOF PASUQ
+y,i,l,·,a,v,‥,𝓂,θ,.
 
 4:15 in vtrad vtsef
-α,i,m.,HPU MAQAF,z,o,n,∵,<,h
+α,i,m.,-,z,o,n,∵,<,h
 SPACE
 α,_,τ,·,a,h,(p)
 SPACE
 y,i,$,·si,:,r,a,α,‥,ƶ,l
 SPACE
-α,_,l,HPU MAQAF,y,∵,α,:,$,·sh,_,(ti),m.
+α,_,l,-,y,∵,α,:,$,·sh,_,(ti),m.
 SPACE
 y,:,h,w,·,d,a,⅄,h
 SPACE
-w,:,α,_,l,HPU MAQAF,τ,·,a,v,o,⅃,α,w,·
+w,:,α,_,l,-,τ,·,a,v,o,⅃,α,w,·
 SPACE
 h,_,g,·,i,l,:,g,·,a,◆,l
 SPACE
-w,:,α,_,𝓂,l,HPU MAQAF,τ,·,_,ʕ,:_,l,w,·,(p)
+w,:,α,_,𝓂,l,-,τ,·,_,ʕ,:_,l,w,·,(p)
 SPACE
 v,·,‥,⅃,y,τ
 SPACE
 α,a,ƶ,w,∵,n.
 SPACE
-w,:,α,_,l,HPU MAQAF,τ,·,i,$,·sh,·,a,v,:,ʕ,(ti),w,·
+w,:,α,_,l,-,τ,·,i,$,·sh,·,a,v,:,ʕ,(ti),w,·
 SPACE
-x,_,y,HPU MAQAF,y,:,h,o,w,a,𝓂,h,HPU SOF PASUQ
+x,_,y,-,y,:,h,o,w,a,𝓂,h,.
 
 4:16 in vtrad vtsef
 k,·,i,(ye),y
@@ -1408,7 +1408,7 @@ y,:,h,o,w,a,ƶ,h
 SPACE
 k,·,:,k,∵,(ti),v,∵,$,·si
 SPACE
-v,·,_,m,·,∵,r,:,x,a,𝓂,v,HPU SOF PASUQ
+v,·,_,m,·,∵,r,:,x,a,𝓂,v,.
 
 4:17 in vtrad vtsef
 x,:_,v,(da),w,·,r
@@ -1417,7 +1417,7 @@ SPACE
 SPACE
 α,∵,f,:,r,a,(ti),y,i,m.
 SPACE
-h,_,𝓂,n,·,_,𝓂,x,HPU MAQAF,l,𝓂,w,o,HPU SOF PASUQ
+h,_,𝓂,n,·,_,𝓂,x,-,l,𝓂,w,o,.
 
 4:18 in vtrad vtsef
 σ,a,(ti),r
@@ -1434,7 +1434,7 @@ h,‥,v,⟓,w,·
 SPACE
 q,a,l,(ti),w,o,n.
 SPACE
-m,a,g,i,n,·,∵,𝓂,y,h,a,HPU SOF PASUQ
+m,a,g,i,n,·,∵,𝓂,y,h,a,.
 
 4:19 in vtrad vtsef
 ц,a,r,_,(me),r
@@ -1447,7 +1447,7 @@ v,·,i,k,:,n,a,f,∵,⅄,y,h,a
 SPACE
 w,:,y,‥,v,o,(ti),$,·sh,w,·
 SPACE
-m,i,z,·,i,v,:,x,w,o,τ,a,𝓂,m.,HPU SOF PASUQ
+m,i,z,·,i,v,:,x,w,o,τ,a,𝓂,m.,.
 NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
@@ -1455,13 +1455,13 @@ STOP span class=mam-spi-pe
 START br 
 
 5:1 in vtrad vtsef
-$,·sh,i,m,:,ʕ,w,·,HPU MAQAF,z,o,(qa),α,τ
+$,·sh,i,m,:,ʕ,w,·,-,z,o,(qa),α,τ
 SPACE
 h,_,k,·,o,h,:_,n,i,(ge),y,m.
 SPACE
 w,:,h,_,q,:,$,·sh,i,⅃,y,v,w,·,THIN SPACE
 START b 
-HPU PASEQ
+|
 STOP b 
 SPACE
 v,·,‥,⅃,y,τ
@@ -1480,7 +1480,7 @@ l,a,k,∵,(ti),m.
 SPACE
 h,_,m,·,i,$,·sh,:,f,·,a,⅄,θ
 SPACE
-k,·,i,y,HPU MAQAF,f,_,x,(p)
+k,·,i,y,-,f,_,x,(p)
 SPACE
 h,:∵,y,i,y,τ,∵,⅃,m.
 SPACE
@@ -1490,7 +1490,7 @@ w,:,r,∵,(ti),$,·sh,∵,τ
 SPACE
 f,·,:,r,w,·,$,·si,a,(me),h
 SPACE
-ʕ,_,l,HPU MAQAF,τ,·,a,v,𝓂,w,o,r,HPU SOF PASUQ
+ʕ,_,l,-,τ,·,a,v,𝓂,w,o,r,.
 
 5:2 in vtrad vtsef
 w,:,$,·sh,_,x,:_,θ,a,(me),h
@@ -1503,7 +1503,7 @@ w,_,α,:_,n,i,(ti),y
 SPACE
 m,w,·,σ,a,(me),r
 SPACE
-l,:,k,u,l,·,a,𝓂,m.,HPU SOF PASUQ
+l,:,k,u,l,·,a,𝓂,m.,.
 
 5:3 in vtrad vtsef
 α,:_,n,i,y,(p)
@@ -1514,7 +1514,7 @@ SPACE
 SPACE
 w,:,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
-l,o,α,HPU MAQAF,n,i,k,:,x,_,⅃,d
+l,o,α,-,n,i,k,:,x,_,⅃,d
 SPACE
 m,i,m,·,∵,⅄,n,·,i,y
 SPACE
@@ -1528,7 +1528,7 @@ SPACE
 SPACE
 n,i,θ,:,m,a,(ti),α
 SPACE
-y,i,$,·si,:,r,a,α,‥,𝓂,l,HPU SOF PASUQ
+y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 5:4 in vtrad vtsef
 l,o,<,α
@@ -1539,7 +1539,7 @@ m,_,⅃,ʕ,_,l,:,l,‥,y,h,∵,ƶ,m.
 SPACE
 l,a,$,·sh,(ti),w,·,v
 SPACE
-α,∵,l,HPU MAQAF,α,:∵,l,o,𝓂,h,‥,y,h,∵,⅄,m.
+α,∵,l,-,α,:∵,l,o,𝓂,h,‥,y,h,∵,⅄,m.
 SPACE
 k,·,i,⅃,y
 SPACE
@@ -1549,16 +1549,16 @@ z,:,n,w,·,n,i,y,m.,(p)
 SPACE
 v,·,:,q,i,r,:,v,·,a,ƶ,m.
 SPACE
-w,:,α,∵,τ,HPU MAQAF,y,:,h,o,w,a,(ti),h
+w,:,α,∵,τ,-,y,:,h,o,w,a,(ti),h
 SPACE
 l,o,(me),α
 SPACE
-y,a,d,a,𝓂,ʕ,w,·,HPU SOF PASUQ
+y,a,d,a,𝓂,ʕ,w,·,.
 
 5:5 in vtrad vtsef
 w,:,ʕ,a,n,a,(me),h
 SPACE
-g,:,α,𝓂,w,o,n.,HPU MAQAF,y,i,$,·si,:,r,a,α,‥,(ti),l
+g,:,α,𝓂,w,o,n.,-,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 v,·,:,f,a,n,a,⅄,y,w
 SPACE
@@ -1572,9 +1572,9 @@ v,·,_,ʕ,:_,w,hhfv,n,a,ƶ,m.
 SPACE
 k,·,a,$,·sh,_,(me),l
 SPACE
-g,·,_,m.,HPU MAQAF,y,:,h,w,·,d,a,(ti),h
+g,·,_,m.,-,y,:,h,w,·,d,a,(ti),h
 SPACE
-ʕ,i,m,·,a,𝓂,m.,HPU SOF PASUQ
+ʕ,i,m,·,a,𝓂,m.,.
 
 5:6 in vtrad vtsef
 v,·,:,ц,o,α,n,a,⅃,m.
@@ -1585,7 +1585,7 @@ y,‥,(me),l,:,k,⟓,w,·
 SPACE
 l,:,v,_,q,·,‥,(me),$,·sh
 SPACE
-α,∵,τ,HPU MAQAF,y,:,h,o,w,a,(ti),h
+α,∵,τ,-,y,:,h,o,w,a,(ti),h
 SPACE
 w,:,l,o,⅃,α
 SPACE
@@ -1593,14 +1593,14 @@ y,i,m,:,ц,a,⅄,α,w,·
 SPACE
 x,a,l,_,(ti),ц.
 SPACE
-m,‥,h,∵,𝓂,m.,HPU SOF PASUQ
+m,‥,h,∵,𝓂,m.,.
 
 5:7 in vtrad vtsef
 v,·,_,y,h,o,w,a,⅃,h
 SPACE
 v,·,a,g,a,ƶ,d,w,·
 SPACE
-k,·,i,y,HPU MAQAF,v,a,n,i,(me),y,m.
+k,·,i,y,-,v,a,n,i,(me),y,m.
 SPACE
 z,a,r,i,(ti),y,m.
 SPACE
@@ -1612,7 +1612,7 @@ y,o,α,k,:,l,‥,(me),m.
 SPACE
 x,o,(ti),d,∵,$,·sh
 SPACE
-α,∵,τ,HPU MAQAF,x,∵,l,:,q,‥,y,h,∵,𝓂,m.,HPU SOF PASUQ
+α,∵,τ,-,x,∵,l,:,q,‥,y,h,∵,𝓂,m.,.
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -1645,7 +1645,7 @@ SPACE
 SPACE
 α,_,x,:_,r,∵,(ti),y,k.,a
 SPACE
-v,·,i,n,:,y,a,m,i,𝓂,y,n.,HPU SOF PASUQ
+v,·,i,n,:,y,a,m,i,𝓂,y,n.,.
 
 5:9 in vtrad vtsef
 α,∵,f,:,r,_,(p),y,i,m.,(p)
@@ -1664,7 +1664,7 @@ y,i,$,·si,:,r,a,α,‥,ƶ,l
 SPACE
 h,w,o,d,_,(ti),ʕ,:,τ,·,i,y
 SPACE
-n,∵,α,:∵,m,a,n,a,𝓂,h,HPU SOF PASUQ
+n,∵,α,:∵,m,a,n,a,𝓂,h,.
 
 5:10 in vtrad vtsef
 h,a,y,w,·,(p)
@@ -1683,7 +1683,7 @@ SPACE
 SPACE
 k,·,_,m,·,_,(ti),y,i,m.
 SPACE
-ʕ,∵,v,:,r,a,τ,i,𝓂,y,HPU SOF PASUQ
+ʕ,∵,v,:,r,a,τ,i,𝓂,y,.
 
 5:11 in vtrad vtsef
 ʕ,a,$,·sh,(me),w,·,q
@@ -1700,7 +1700,7 @@ h,w,o,α,i,ƶ,y,l
 SPACE
 h,a,l,_,(ti),k.,:
 SPACE
-α,_,x,:_,r,‥,y,HPU MAQAF,ц,a,𝓂,w,HPU SOF PASUQ
+α,_,x,:_,r,‥,y,-,ц,a,𝓂,w,.
 
 5:12 in vtrad vtsef
 w,_,α,:_,n,i,(me),y
@@ -1713,28 +1713,28 @@ w,:,k,a,r,a,q,a,(ti),v
 SPACE
 l,:,v,‥,(me),y,τ
 SPACE
-y,:,h,w,·,d,a,𝓂,h,HPU SOF PASUQ
+y,:,h,w,·,d,a,𝓂,h,.
 
 5:13 in vtrad vtsef
 w,_,y,·,_,(qa),r,:,α
 SPACE
 α,∵,f,:,r,_,(ge),y,i,m.
 SPACE
-α,∵,τ,HPU MAQAF,x,oa,l,:,y,◆,w,o
+α,∵,τ,-,x,oa,l,:,y,◆,w,o
 SPACE
 w,i,𝓂,y,h,w,·,d,a,h,(p)
 SPACE
-α,∵,τ,HPU MAQAF,m,:,z,o,r,ƶ,w,o
+α,∵,τ,-,m,:,z,o,r,ƶ,w,o
 SPACE
 w,_,y,·,‥,<,l,∵,k.,:
 SPACE
 α,∵,f,:,r,_,(p),y,i,m.,(p)
 SPACE
-α,∵,l,HPU MAQAF,α,_,$,·sh,·,ƶ,w,·,r
+α,∵,l,-,α,_,$,·sh,·,ƶ,w,·,r
 SPACE
 w,_,y,·,i,$,·sh,:,l,_,(ti),x
 SPACE
-α,∵,l,HPU MAQAF,m,∵,⅃,l,∵,k.,:
+α,∵,l,-,m,∵,⅃,l,∵,k.,:
 SPACE
 y,a,r,‥,⅄,v
 SPACE
@@ -1748,11 +1748,11 @@ l,i,r,:,f,·,o,⅃,α
 SPACE
 l,a,k,∵,ƶ,m.
 SPACE
-w,:,l,o,α,HPU MAQAF,y,i,g,:,h,∵,(me),h
+w,:,l,o,α,-,y,i,g,:,h,∵,(me),h
 SPACE
 m,i,k,·,∵,(ti),m.
 SPACE
-m,a,z,𝓂,w,o,r,HPU SOF PASUQ
+m,a,z,𝓂,w,o,r,.
 
 5:14 in vtrad vtsef
 k,·,i,⅃,y
@@ -1781,18 +1781,18 @@ SPACE
 SPACE
 w,:,α,‥,(me),y,n.
 SPACE
-m,_,ц,·,i,𝓂,y,l,HPU SOF PASUQ
+m,_,ц,·,i,𝓂,y,l,.
 
 5:15 in vtrad vtsef
 α,‥,l,‥,<,k.,:
 SPACE
 α,a,$,·sh,(p),w,·,v,a,h,(p)
 SPACE
-α,∵,l,HPU MAQAF,m,:,q,w,o,m,i,ƶ,y
+α,∵,l,-,m,:,q,w,o,m,i,ƶ,y
 SPACE
 ʕ,_,(me),d
 SPACE
-α,:_,$,·sh,∵,𝓂,r,HPU MAQAF,y,∵,α,:,$,·sh,:,m,(ti),w,·
+α,:_,$,·sh,∵,𝓂,r,-,y,∵,α,:,$,·sh,:,m,(ti),w,·
 SPACE
 w,·,v,i,q,:,$,·sh,⅃,w,·
 SPACE
@@ -1802,14 +1802,14 @@ v,·,_,ц,·,_,(me),r
 SPACE
 l,a,h,∵,(ti),m.
 SPACE
-y,:,$,·sh,_,x,:_,r,u,𝓂,n,:,n,i,y,HPU SOF PASUQ
+y,:,$,·sh,_,x,:_,r,u,𝓂,n,:,n,i,y,.
 
 6:1 in vtrad vtsef
 l,:,k,w,·,(p)
 SPACE
 w,:,n,a,$,·sh,⅃,w,·,v,a,h
 SPACE
-α,∵,l,HPU MAQAF,y,:,h,o,w,a,ƶ,h
+α,∵,l,-,y,:,h,o,w,a,ƶ,h
 SPACE
 k,·,i,⟓,y
 SPACE
@@ -1821,7 +1821,7 @@ w,:,y,i,r,:,f,·,a,α,‥,⅄,n,w,·
 SPACE
 y,_,(ti),k.,:
 SPACE
-w,:,y,_,x,:,v,·,:,$,·sh,‥,𝓂,n,w,·,HPU SOF PASUQ
+w,:,y,_,x,:,v,·,:,$,·sh,‥,𝓂,n,w,·,.
 
 6:2 in vtrad vtsef
 y,:,x,_,y,·,‥,(ti),n,w,·
@@ -1836,7 +1836,7 @@ y,:,q,i,m,‥,(ti),n,w,·
 SPACE
 w,:,n,i,x,:,y,∵,(me),h
 SPACE
-l,:,f,a,n,a,𝓂,y,w,HPU SOF PASUQ
+l,:,f,a,n,a,𝓂,y,w,.
 
 6:3 in vtrad vtsef
 w,:,n,‥,d,:,ʕ,a,⅃,h
@@ -1845,7 +1845,7 @@ n,i,r,:,d,·,:,f,a,◆,h
 SPACE
 l,a,d,_,(p),ʕ,_,τ,(p)
 SPACE
-α,∵,τ,HPU MAQAF,y,:,h,o,w,a,ƶ,h
+α,∵,τ,-,y,:,h,o,w,a,ƶ,h
 SPACE
 k,·,:,$,·sh,_,(ti),x,_,r
 SPACE
@@ -1863,33 +1863,33 @@ k,·,:,m,_,l,:,q,(ti),w,o,$,·sh
 SPACE
 y,(me),w,o,r,∵,h
 SPACE
-α,a,𝓂,r,∵,ц.,HPU SOF PASUQ
+α,a,𝓂,r,∵,ц.,.
 
 6:4 in vtrad vtsef
 m,a,<,h
 SPACE
-α,∵,𝓂,ʕ,:∵,$,·si,∵,h,HPU MAQAF,l,·,:,k.,a,(p)
+α,∵,𝓂,ʕ,:∵,$,·si,∵,h,-,l,·,:,k.,a,(p)
 SPACE
 α,∵,f,:,r,_,ƶ,y,i,m.
 SPACE
 m,a,(me),h
 SPACE
-α,∵,ʕ,:∵,$,·si,∵,h,HPU MAQAF,l,·,:,k.,a,(ti)
+α,∵,ʕ,:∵,$,·si,∵,h,-,l,·,:,k.,a,(ti)
 SPACE
 y,:,h,w,·,d,a,⅄,h
 SPACE
 w,:,x,_,σ,:,d,·,:,k,∵,m.,(p)
 SPACE
-k,·,_,ʕ,:_,n,_,n.,HPU MAQAF,v,·,o,ƶ,q,∵,r
+k,·,_,ʕ,:_,n,_,n.,-,v,·,o,ƶ,q,∵,r
 SPACE
 w,:,k,_,θ,·,_,(ti),l
 SPACE
 m,_,$,·sh,:,k,·,i,(me),y,m.
 SPACE
-h,o,l,‥,𝓂,k.,:,HPU SOF PASUQ
+h,o,l,‥,𝓂,k.,:,.
 
 6:5 in vtrad vtsef
-ʕ,_,l,HPU MAQAF,k,·,‥,◆,n.
+ʕ,_,l,-,k,·,‥,◆,n.
 SPACE
 x,a,ц,_,(p),v,:,τ,·,i,y,(p)
 SPACE
@@ -1897,13 +1897,13 @@ v,·,_,n,·,:,v,i,y,α,i,ƶ,y,m.
 SPACE
 h,:_,r,_,g,:,τ,·,i,(ti),y,m.
 SPACE
-v,·,:,α,i,m,:,r,‥,y,HPU MAQAF,f,i,⅄,y
+v,·,:,α,i,m,:,r,‥,y,-,f,i,⅄,y
 SPACE
 w,·,m,i,$,·sh,:,f,·,a,θ,∵,(ti),y,k.,a
 SPACE
 α,(me),w,o,r
 SPACE
-y,‥,ц,‥,𝓂,α,HPU SOF PASUQ
+y,‥,ц,‥,𝓂,α,.
 
 6:6 in vtrad vtsef
 k,·,i,⟓,y
@@ -1912,13 +1912,13 @@ x,∵,(me),σ,∵,d
 SPACE
 x,a,f,_,(ti),ц,:,τ,·,i,y
 SPACE
-w,:,l,o,α,HPU MAQAF,z,a,⅄,v,_,x
+w,:,l,o,α,-,z,a,⅄,v,_,x
 SPACE
 w,:,d,_,(me),ʕ,_,τ
 SPACE
 α,:∵,l,o,h,i,(ti),y,m.
 SPACE
-m,‥,ʕ,o,l,𝓂,w,o,τ,HPU SOF PASUQ
+m,‥,ʕ,o,l,𝓂,w,o,τ,.
 
 6:7 in vtrad vtsef
 w,:,h,‥,Ƶ,m,·,a,h
@@ -1933,7 +1933,7 @@ $,·sh,a,(ti),m.
 SPACE
 v,·,a,(me),g,:,d,w,·
 SPACE
-v,i,𝓂,y,HPU SOF PASUQ
+v,i,𝓂,y,.
 
 6:8 in vtrad vtsef
 g,·,i,l,:,ʕ,a,Ƶ,d
@@ -1946,7 +1946,7 @@ SPACE
 SPACE
 ʕ,:_,q,u,v,·,a,(ti),h
 SPACE
-m,i,d,·,a,𝓂,m.,HPU SOF PASUQ
+m,i,d,·,a,𝓂,m.,.
 
 6:9 in vtrad vtsef
 w,·,k,:,x,_,k,·,‥,(qa),y
@@ -1961,13 +1961,13 @@ k,·,o,h,:_,n,i,ƶ,y,m.
 SPACE
 d,·,∵,(ti),r,∵,k.,:
 SPACE
-y,:,r,_,ц,·,:,x,w,·,HPU MAQAF,$,·sh,∵,⅄,k,:,m,a,h
+y,:,r,_,ц,·,:,x,w,·,-,$,·sh,∵,⅄,k,:,m,a,h
 SPACE
 k,·,i,(me),y
 SPACE
 z,i,m,·,a,(ti),h
 SPACE
-ʕ,a,$,·si,𝓂,w,·,HPU SOF PASUQ
+ʕ,a,$,·si,𝓂,w,·,.
 
 6:10 in vtrad vtsef
 v,·,:,v,‥,y,τ,(p)
@@ -1994,10 +1994,10 @@ l,:,α,∵,f,:,r,_,ƶ,y,i,m.
 SPACE
 n,i,θ,:,m,a,(ti),α
 SPACE
-y,i,$,·si,:,r,a,α,‥,𝓂,l,HPU SOF PASUQ
+y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 6:11 in vtrad vtsef
-g,·,_,m.,HPU MAQAF,y,:,h,w,·,d,a,Ƶ,h
+g,·,_,m.,-,y,:,h,w,·,d,a,Ƶ,h
 SPACE
 $,·sh,a,(me),τ
 SPACE
@@ -2009,7 +2009,7 @@ v,·,:,$,·sh,w,·,v,i,(ti),y
 SPACE
 $,·sh,:,v,(me),w,·,τ
 SPACE
-ʕ,_,m,·,i,𝓂,y,HPU SOF PASUQ
+ʕ,_,m,·,i,𝓂,y,.
 NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
@@ -2045,14 +2045,14 @@ f,·,a,$,·sh,_,(me),θ
 SPACE
 g,·,:,d,(ti),w,·,d
 SPACE
-v,·,_,x,𝓂,w,·,ц.,HPU SOF PASUQ
+v,·,_,x,𝓂,w,·,ц.,.
 
 7:2 in vtrad vtsef
-w,·,v,_,l,HPU MAQAF,y,o,𝓂,α,m,:,r,w,·,(p)
+w,·,v,_,l,-,y,o,𝓂,α,m,:,r,w,·,(p)
 SPACE
 l,i,l,:,v,a,v,a,ƶ,m.
 SPACE
-k,·,oa,l,HPU MAQAF,r,a,ʕ,a,τ,a,(ti),m.
+k,·,oa,l,-,r,a,ʕ,a,τ,a,(ti),m.
 SPACE
 z,a,k,a,⅄,r,:,τ,·,i,y
 SPACE
@@ -2066,16 +2066,16 @@ n,∵,(me),g,∵,d
 SPACE
 f,·,a,n,_,(ti),y
 SPACE
-h,a,y,𝓂,w,·,HPU SOF PASUQ
+h,a,y,𝓂,w,·,.
 
 7:3 in vtrad vtsef
 v,·,:,r,a,ʕ,a,τ,a,(ti),m.
 SPACE
-y,:,$,·si,_,m,·,:,x,w,·,HPU MAQAF,m,∵,⅄,l,∵,k.,:
+y,:,$,·si,_,m,·,:,x,w,·,-,m,∵,⅄,l,∵,k.,:
 SPACE
 w,·,v,:,k,_,x,:_,$,·sh,‥,y,h,∵,(ti),m.
 SPACE
-$,·si,a,r,i,𝓂,y,m.,HPU SOF PASUQ
+$,·si,a,r,i,𝓂,y,m.,.
 
 7:4 in vtrad vtsef
 k,·,u,l,·,a,m.,(p)
@@ -2098,7 +2098,7 @@ m,i,l,·,(me),w,·,$,·sh
 SPACE
 v,·,a,ц,‥,(ti),q
 SPACE
-ʕ,_,d,HPU MAQAF,x,u,m,:,ц,a,τ,𝓂,w,o,HPU SOF PASUQ
+ʕ,_,d,-,x,u,m,:,ц,a,τ,𝓂,w,o,.
 
 7:5 in vtrad vtsef
 y,⅃,w,o,m.
@@ -2117,10 +2117,10 @@ m,a,$,·sh,_,(me),k.,:
 SPACE
 y,a,d,(ti),w,o
 SPACE
-α,∵,τ,HPU MAQAF,l,o,ц,:,ц,i,𝓂,y,m.,HPU SOF PASUQ
+α,∵,τ,-,l,o,ц,:,ц,i,𝓂,y,m.,.
 
 7:6 in vtrad vtsef
-k,·,i,𝓂,y,HPU MAQAF,q,‥,r,:,v,(da),w,·
+k,·,i,𝓂,y,-,q,‥,r,:,v,(da),w,·
 SPACE
 k,_,τ,·,_,n,·,⟓,w,·,r
 SPACE
@@ -2128,7 +2128,7 @@ l,i,v,·,a,(ti),m.
 SPACE
 v,·,:,α,oa,r,:,v,·,a,⅄,m.
 SPACE
-k,·,oa,l,HPU MAQAF,h,_,l,·,_,(p),y,:,l,a,h,(p)
+k,·,oa,l,-,h,_,l,·,_,(p),y,:,l,a,h,(p)
 SPACE
 y,a,$,·sh,‥,⅃,n.
 SPACE
@@ -2142,7 +2142,7 @@ v,o,ʕ,‥,(ti),r
 SPACE
 k,·,:,α,‥,(me),$,·sh
 SPACE
-l,∵,h,a,v,a,𝓂,h,HPU SOF PASUQ
+l,∵,h,a,v,a,𝓂,h,.
 
 7:7 in vtrad vtsef
 k,·,u,l,·,a,<,m.
@@ -2153,17 +2153,17 @@ k,·,_,τ,·,_,n,·,ƶ,w,·,r
 SPACE
 w,:,α,a,k,:,l,(ti),w,·
 SPACE
-α,∵,τ,HPU MAQAF,$,·sh,o,f,:,θ,‥,y,h,∵,⅄,m.
+α,∵,τ,-,$,·sh,o,f,:,θ,‥,y,h,∵,⅄,m.
 SPACE
-k,·,oa,l,HPU MAQAF,m,_,l,:,k,‥,y,h,∵,⅃,m.
+k,·,oa,l,-,m,_,l,:,k,‥,y,h,∵,⅃,m.
 SPACE
 n,a,f,a,ƶ,l,w,·
 SPACE
-α,‥,y,n.,HPU MAQAF,q,o,r,‥,(me),α
+α,‥,y,n.,-,q,o,r,‥,(me),α
 SPACE
 v,a,h,∵,(ti),m.
 SPACE
-α,‥,l,a,𝓂,y,HPU SOF PASUQ
+α,‥,l,a,𝓂,y,.
 
 7:8 in vtrad vtsef
 α,∵,f,:,r,_,Ƶ,y,i,m.
@@ -2182,7 +2182,7 @@ SPACE
 SPACE
 v,·,:,l,i,(me),y
 SPACE
-h,:_,f,w,·,k,a,𝓂,h,HPU SOF PASUQ
+h,:_,f,w,·,k,a,𝓂,h,.
 
 7:9 in vtrad vtsef
 α,a,k,:,l,<,w,·
@@ -2197,7 +2197,7 @@ l,o,⅃,α
 SPACE
 y,a,d,a,⅄,ʕ
 SPACE
-g,·,_,m.,HPU MAQAF,$,·si,‥,y,v,a,h,(p)
+g,·,_,m.,-,$,·si,‥,y,v,a,h,(p)
 SPACE
 z,a,⅃,r,:,q,a,h
 SPACE
@@ -2207,18 +2207,18 @@ w,:,h,(ti),w,·,α
 SPACE
 l,o,(me),α
 SPACE
-y,a,d,a,𝓂,ʕ,HPU SOF PASUQ
+y,a,d,a,𝓂,ʕ,.
 
 7:10 in vtrad vtsef
 w,:,ʕ,a,n,a,(me),h
 SPACE
-g,:,α,𝓂,w,o,n.,HPU MAQAF,y,i,$,·si,:,r,a,α,‥,(ti),l
+g,:,α,𝓂,w,o,n.,-,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 v,·,:,f,a,n,a,⅄,y,w
 SPACE
-w,:,l,o,α,HPU MAQAF,$,·sh,a,(p),v,w,·,(p)
+w,:,l,o,α,-,$,·sh,a,(p),v,w,·,(p)
 SPACE
-α,∵,l,HPU MAQAF,y,:,h,o,w,a,⅃,h
+α,∵,l,-,y,:,h,o,w,a,⅃,h
 SPACE
 α,:∵,l,o,h,‥,y,h,∵,ƶ,m.
 SPACE
@@ -2226,7 +2226,7 @@ w,:,l,o,(me),α
 SPACE
 v,i,q,:,$,·sh,u,(ti),h,w,·
 SPACE
-v,·,:,k,oa,l,HPU MAQAF,z,o,𝓂,α,τ,HPU SOF PASUQ
+v,·,:,k,oa,l,-,z,o,𝓂,α,τ,.
 
 7:11 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
@@ -2247,7 +2247,7 @@ q,a,r,a,(ti),α,w,·
 SPACE
 α,_,$,·sh,·,(me),w,·,r
 SPACE
-h,a,l,a,𝓂,k,w,·,HPU SOF PASUQ
+h,a,l,a,𝓂,k,w,·,.
 
 7:12 in vtrad vtsef
 k,·,_,α,:_,$,·sh,∵,⅃,r
@@ -2270,7 +2270,7 @@ SPACE
 SPACE
 k,·,:,$,·sh,‥,(ti),m,_,ʕ
 SPACE
-l,_,ʕ,:_,d,a,τ,a,𝓂,m.,HPU SOF PASUQ
+l,_,ʕ,:_,d,a,τ,a,𝓂,m.,.
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2289,7 +2289,7 @@ NO-BREAK SPACE
 SPACE
 l,a,h,∵,m.,(p)
 SPACE
-k,·,i,𝓂,y,HPU MAQAF,n,a,d,:,d,⅃,w,·
+k,·,i,𝓂,y,-,n,a,d,:,d,⅃,w,·
 SPACE
 m,i,m,·,∵,ƶ,n,·,i,y
 SPACE
@@ -2297,7 +2297,7 @@ $,·sh,o,(me),d
 SPACE
 l,a,h,∵,(ti),m.
 SPACE
-k,·,i,y,HPU MAQAF,f,a,⅃,$,·sh,:,ʕ,w,·
+k,·,i,y,-,f,a,⅃,$,·sh,:,ʕ,w,·
 SPACE
 v,i,⅄,y
 SPACE
@@ -2311,10 +2311,10 @@ d,·,i,v,·,:,r,(me),w,·
 SPACE
 ʕ,a,l,_,(ti),y
 SPACE
-k,·,:,z,a,v,i,𝓂,y,m.,HPU SOF PASUQ
+k,·,:,z,a,v,i,𝓂,y,m.,.
 
 7:14 in vtrad vtsef
-w,:,l,o,α,HPU MAQAF,z,a,ʕ,:_,q,<,w,·
+w,:,l,o,α,-,z,a,ʕ,:_,q,<,w,·
 SPACE
 α,‥,l,_,y,(p)
 SPACE
@@ -2324,9 +2324,9 @@ k,·,i,(me),y
 SPACE
 y,:,y,‥,l,i,(ti),y,l,w,·
 SPACE
-ʕ,_,l,HPU MAQAF,m,i,$,·sh,:,k,·,:,v,w,o,τ,a,⅄,m.
+ʕ,_,l,-,m,i,$,·sh,:,k,·,:,v,w,o,τ,a,⅄,m.
 SPACE
-ʕ,_,l,HPU MAQAF,d,·,a,g,a,(da),n.
+ʕ,_,l,-,d,·,a,g,a,(da),n.
 SPACE
 w,:,τ,i,y,r,⟓,w,o,$,·sh
 SPACE
@@ -2334,7 +2334,7 @@ y,i,τ,:,g,·,w,o,r,a,(ti),r,w,·
 SPACE
 y,a,σ,(me),w,·,r,w,·
 SPACE
-v,i,𝓂,y,HPU SOF PASUQ
+v,i,𝓂,y,.
 
 7:15 in vtrad vtsef
 w,_,α,:_,n,i,⅃,y
@@ -2347,12 +2347,12 @@ z,:,r,w,o,ʕ,o,τ,a,⅄,m.
 SPACE
 w,:,α,‥,l,_,(ti),y
 SPACE
-y,:,x,_,$,·sh,·,:,v,w,·,HPU MAQAF,r,a,𝓂,ʕ,HPU SOF PASUQ
+y,:,x,_,$,·sh,·,:,v,w,·,-,r,a,𝓂,ʕ,.
 
 7:16 in vtrad vtsef
 y,a,$,·sh,⅃,w,·,v,w,·,THIN SPACE
 START b 
-HPU PASEQ
+|
 STOP b 
 SPACE
 l,o,⅃,α
@@ -2381,16 +2381,16 @@ l,_,ʕ,:,g,·,a,(ti),m.
 SPACE
 v,·,:,α,∵,(me),r,∵,ц.
 SPACE
-m,i,ц,:,r,a,𝓂,y,i,m.,HPU SOF PASUQ
+m,i,ц,:,r,a,𝓂,y,i,m.,.
 
 8:1 in vtrad vtsef
-α,∵,l,HPU MAQAF,x,i,k,·,:,k.,a,⅃
+α,∵,l,-,x,i,k,·,:,k.,a,⅃
 SPACE
 $,·sh,o,f,a,ƶ,r
 SPACE
 k,·,_,n,·,∵,(ti),$,·sh,∵,r
 SPACE
-ʕ,_,l,HPU MAQAF,v,·,‥,⅃,y,τ
+ʕ,_,l,-,v,·,‥,⅃,y,τ
 SPACE
 y,:,h,o,w,a,⅄,h
 SPACE
@@ -2400,9 +2400,9 @@ SPACE
 SPACE
 v,:,r,i,y,τ,i,ƶ,y
 SPACE
-w,:,ʕ,_,l,HPU MAQAF,τ,·,w,o,r,a,τ,i,(ti),y
+w,:,ʕ,_,l,-,τ,·,w,o,r,a,τ,i,(ti),y
 SPACE
-f,·,a,$,·sh,a,𝓂,ʕ,w,·,HPU SOF PASUQ
+f,·,a,$,·sh,a,𝓂,ʕ,w,·,.
 
 8:2 in vtrad vtsef
 l,i,(ti),y
@@ -2413,7 +2413,7 @@ SPACE
 SPACE
 y,:,𝓂,d,_,ʕ,:_,n,(ti),w,·,k.,a
 SPACE
-y,i,$,·si,:,r,a,α,‥,𝓂,l,HPU SOF PASUQ
+y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 8:3 in vtrad vtsef
 z,a,n,_,(me),x
@@ -2424,7 +2424,7 @@ SPACE
 SPACE
 α,w,o,y,‥,(ti),v
 SPACE
-y,i,r,:,d,·,:,f,𝓂,w,o,HPU SOF PASUQ
+y,i,r,:,d,·,:,f,𝓂,w,o,.
 
 8:4 in vtrad vtsef
 h,‥,<,m.
@@ -2453,7 +2453,7 @@ SPACE
 SPACE
 l,:,m,_,(ti),ʕ,_,n.
 SPACE
-y,i,k,·,a,r,‥,𝓂,τ,HPU SOF PASUQ
+y,i,k,·,a,r,‥,𝓂,τ,.
 
 8:5 in vtrad vtsef
 z,a,n,_,x,(p)
@@ -2468,13 +2468,13 @@ SPACE
 SPACE
 v,·,a,⅄,m.
 SPACE
-ʕ,_,d,HPU MAQAF,m,a,τ,_,Ƶ,y
+ʕ,_,d,-,m,a,τ,_,Ƶ,y
 SPACE
 l,o,(me),α
 SPACE
 y,w,·,k,:,l,(ti),w,·
 SPACE
-n,i,q,·,a,y,o,𝓂,n.,HPU SOF PASUQ
+n,i,q,·,a,y,o,𝓂,n.,.
 
 8:6 in vtrad vtsef
 k,·,i,<,y
@@ -2493,13 +2493,13 @@ SPACE
 SPACE
 h,⅄,w,·,α
 SPACE
-k,·,i,𝓂,y,HPU MAQAF,$,·sh,:,v,a,v,i,⅃,y,m.
+k,·,i,𝓂,y,-,$,·sh,:,v,a,v,i,⅃,y,m.
 SPACE
 y,i,𝓂,h,:,y,∵,ƶ,h
 SPACE
 ʕ,‥,(ti),g,∵,l
 SPACE
-$,·sh,o,m,:,r,𝓂,w,o,n.,HPU SOF PASUQ
+$,·sh,o,m,:,r,𝓂,w,o,n.,.
 
 8:7 in vtrad vtsef
 k,·,i,⟓,y
@@ -2514,13 +2514,13 @@ y,i,q,:,ц,o,⅄,r,w,·
 SPACE
 q,a,m,a,⅃,h
 SPACE
-α,‥,𝓂,y,n.,HPU MAQAF,l,◆,w,o
+α,‥,𝓂,y,n.,-,l,◆,w,o
 SPACE
 ц,∵,(ye),m,_,x
 SPACE
 v,·,:,l,i,⅃,y
 SPACE
-y,_,ʕ,:_,$,·si,∵,h,HPU MAQAF,q,·,∵,ƶ,m,_,x
+y,_,ʕ,:_,$,·si,∵,h,-,q,·,∵,ƶ,m,_,x
 SPACE
 α,w,·,l,_,⅃,y
 SPACE
@@ -2528,7 +2528,7 @@ y,_,ʕ,:_,$,·si,∵,ƶ,h
 SPACE
 z,a,r,i,(ti),y,m.
 SPACE
-y,i,v,:,l,a,ʕ,u,𝓂,h,w,·,HPU SOF PASUQ
+y,i,v,:,l,a,ʕ,u,𝓂,h,w,·,.
 
 8:8 in vtrad vtsef
 n,i,v,:,l,_,(ti),ʕ
@@ -2543,12 +2543,12 @@ v,_,g,·,w,o,y,i,ƶ,m.
 SPACE
 k,·,i,k,:,l,i,(ti),y
 SPACE
-α,‥,𝓂,y,n.,HPU MAQAF,x,‥,(me),f,∵,ц.
+α,‥,𝓂,y,n.,-,x,‥,(me),f,∵,ц.
 SPACE
-v,·,𝓂,w,o,HPU SOF PASUQ
+v,·,𝓂,w,o,.
 
 8:9 in vtrad vtsef
-k,·,i,y,HPU MAQAF,h,‥,(p),m,·,a,h,(p)
+k,·,i,y,-,h,‥,(p),m,·,a,h,(p)
 SPACE
 ʕ,a,l,⅃,w,·
 SPACE
@@ -2564,12 +2564,12 @@ SPACE
 SPACE
 h,i,τ,:,n,(me),w,·
 SPACE
-α,:_,h,a,v,i,𝓂,y,m.,HPU SOF PASUQ
+α,:_,h,a,v,i,𝓂,y,m.,.
 
 8:10 in vtrad vtsef
 g,·,_,⟓,m.
 SPACE
-k,·,i,𝓂,y,HPU MAQAF,y,i,τ,:,n,(me),w,·
+k,·,i,𝓂,y,-,y,i,τ,:,n,(me),w,·
 SPACE
 v,_,g,·,w,o,y,i,(ti),m.
 SPACE
@@ -2585,10 +2585,10 @@ m,i,m,·,_,$,·si,·,a,(ti),α
 SPACE
 m,∵,(me),l,∵,k.,:
 SPACE
-$,·si,a,r,i,𝓂,y,m.,HPU SOF PASUQ
+$,·si,a,r,i,𝓂,y,m.,.
 
 8:11 in vtrad vtsef
-k,·,i,y,HPU MAQAF,h,i,r,:,v,·,a,(me),h
+k,·,i,y,-,h,i,r,:,v,·,a,(me),h
 SPACE
 α,∵,f,:,r,_,⟓,y,i,m.
 SPACE
@@ -2596,11 +2596,11 @@ m,i,z,:,v,·,:,x,(ti),w,o,τ
 SPACE
 l,_,x,:_,θ,o,⅄,α
 SPACE
-h,a,y,w,·,HPU MAQAF,l,(me),w,o
+h,a,y,w,·,-,l,(me),w,o
 SPACE
 m,i,z,:,v,·,:,x,(ti),w,o,τ
 SPACE
-l,_,x,:_,θ,o,𝓂,α,HPU SOF PASUQ
+l,_,x,:_,θ,o,𝓂,α,.
 
 8:12 in vtrad vtsef
 START span class=mam-kq
@@ -2609,7 +2609,7 @@ LEFT PARENTHESIS,α,k,τ,w,v,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,α,∵,(qa),k,:,τ,·,oa,v,HPU MAQAF,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,α,∵,(qa),k,:,τ,·,oa,v,-,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 l,ƶ,w,o
@@ -2626,9 +2626,9 @@ STOP span class=mam-kq
 SPACE
 τ,·,w,o,r,a,τ,i,⅄,y
 SPACE
-k,·,:,m,w,o,HPU MAQAF,z,a,(ti),r
+k,·,:,m,w,o,-,z,a,(ti),r
 SPACE
-n,∵,x,:,$,·sh,a,𝓂,v,w,·,HPU SOF PASUQ
+n,∵,x,:,$,·sh,a,𝓂,v,w,·,.
 
 8:13 in vtrad vtsef
 z,i,v,:,x,‥,⅃,y
@@ -2661,14 +2661,14 @@ h,‥,(ti),m,·,a,h
 SPACE
 m,i,ц,:,r,_,(me),y,i,m.
 SPACE
-y,a,$,·sh,𝓂,w,·,v,w,·,HPU SOF PASUQ
+y,a,$,·sh,𝓂,w,·,v,w,·,.
 
 8:14 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,(qa),x
 SPACE
 y,i,$,·si,:,r,a,α,‥,(ge),l
 SPACE
-α,∵,τ,HPU MAQAF,ʕ,o,$,·si,‥,◆,h,w,·
+α,∵,τ,-,ʕ,o,$,·si,‥,◆,h,w,·
 SPACE
 w,_,y,·,i,(p),v,∵,n.,(p)
 SPACE
@@ -2682,13 +2682,13 @@ SPACE
 SPACE
 v,·,:,ц,u,r,⅄,w,o,τ
 SPACE
-w,:,$,·sh,i,l,·,_,x,:,τ,·,i,y,HPU MAQAF,α,‥,⅃,$,·sh
+w,:,$,·sh,i,l,·,_,x,:,τ,·,i,y,-,α,‥,⅃,$,·sh
 SPACE
 v,·,:,ʕ,a,r,a,ƶ,y,w
 SPACE
 w,:,α,a,k,:,l,a,(ti),h
 SPACE
-α,_,r,:,m,:,n,o,τ,∵,𝓂,y,h,a,HPU SOF PASUQ
+α,_,r,:,m,:,n,o,τ,∵,𝓂,y,h,a,.
 NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
@@ -2696,13 +2696,13 @@ STOP span class=mam-spi-pe
 START br 
 
 9:1 in vtrad vtsef
-α,_,l,HPU MAQAF,τ,·,i,$,·si,:,m,_,(qa),x
+α,_,l,-,τ,·,i,$,·si,:,m,_,(qa),x
 SPACE
 y,i,$,·si,:,r,a,α,‥,<,l,THIN SPACE
 START small 
-HPU PASEQ
+|
 STOP small 
-THIN SPACE,α,∵,l,HPU MAQAF,g,·,i,y,l,(p)
+THIN SPACE,α,∵,l,-,g,·,i,y,l,(p)
 SPACE
 k,·,a,ʕ,_,m,·,i,ƶ,y,m.
 SPACE
@@ -2720,9 +2720,9 @@ SPACE
 SPACE
 ʕ,_,(ti),l
 SPACE
-k,·,oa,l,HPU MAQAF,g,·,oa,r,:,n,(me),w,o,τ
+k,·,oa,l,-,g,·,oa,r,:,n,(me),w,o,τ
 SPACE
-d,·,a,g,a,𝓂,n.,HPU SOF PASUQ
+d,·,a,g,a,𝓂,n.,.
 
 9:2 in vtrad vtsef
 g,·,o,(me),r,∵,n.
@@ -2737,7 +2737,7 @@ w,:,τ,i,y,r,(ti),w,o,$,·sh
 SPACE
 y,:,k,_,(me),x,∵,$,·sh
 SPACE
-v,·,a,𝓂,h,·,HPU SOF PASUQ
+v,·,a,𝓂,h,·,.
 
 9:3 in vtrad vtsef
 l,o,(me),α
@@ -2758,20 +2758,20 @@ w,·,v,:,α,_,$,·sh,·,(ti),w,·,r
 SPACE
 θ,a,m,‥,(me),α
 SPACE
-y,o,α,k,‥,𝓂,l,w,·,HPU SOF PASUQ
+y,o,α,k,‥,𝓂,l,w,·,.
 
 9:4 in vtrad vtsef
-l,o,α,HPU MAQAF,y,i,σ,·,:,k,(qa),w,·
+l,o,α,-,y,i,σ,·,:,k,(qa),w,·
 SPACE
 l,_,y,h,o,w,a,(me),h,THIN SPACE
 START small 
-HPU PASEQ
+|
 STOP small 
 THIN SPACE,y,_,≁,y,i,n.,~
 SPACE
 w,:,l,o,⅃,α
 SPACE
-y,∵,ʕ,∵,r,:,v,w,·,HPU MAQAF,l,w,o,∴
+y,∵,ʕ,∵,r,:,v,w,·,-,l,w,o,∴
 SPACE
 z,i,v,:,x,‥,y,h,∵,◆,m.
 SPACE
@@ -2781,11 +2781,11 @@ SPACE
 SPACE
 l,a,h,∵,ƶ,m.
 SPACE
-k,·,oa,l,HPU MAQAF,α,o,k,:,l,a,(ti),y,w
+k,·,oa,l,-,α,o,k,:,l,a,(ti),y,w
 SPACE
 y,i,θ,·,_,m,·,a,⅄,α,w,·
 SPACE
-k,·,i,𝓂,y,HPU MAQAF,l,_,x,:,m,a,⅃,m.
+k,·,i,𝓂,y,-,l,_,x,:,m,a,⅃,m.
 SPACE
 l,:,n,_,f,:,$,·sh,a,ƶ,m.
 SPACE
@@ -2795,10 +2795,10 @@ y,a,v,(ti),w,o,α
 SPACE
 v,·,‥,(me),y,τ
 SPACE
-y,:,h,o,w,a,𝓂,h,HPU SOF PASUQ
+y,:,h,o,w,a,𝓂,h,.
 
 9:5 in vtrad vtsef
-m,_,𝓂,h,HPU MAQAF,τ,·,_,ʕ,:_,$,·si,(ti),w,·
+m,_,𝓂,h,-,τ,·,_,ʕ,:_,$,·si,(ti),w,·
 SPACE
 l,:,y,⅃,w,o,m.
 SPACE
@@ -2806,10 +2806,10 @@ m,w,o,ʕ,‥,⅄,d
 SPACE
 w,·,l,:,y,(ti),w,o,m.
 SPACE
-x,_,g,HPU MAQAF,y,:,h,o,w,a,𝓂,h,HPU SOF PASUQ
+x,_,g,-,y,:,h,o,w,a,𝓂,h,.
 
 9:6 in vtrad vtsef
-k,·,i,𝓂,y,HPU MAQAF,h,i,n,·,‥,<,h
+k,·,i,𝓂,y,-,h,i,n,·,‥,<,h
 SPACE
 h,a,𝓂,l,:,k,w,·,(p)
 SPACE
@@ -2833,12 +2833,12 @@ y,i,𝓂,y,r,a,$,·sh,‥,ƶ,m.
 SPACE
 x,(ti),w,o,x,_
 SPACE
-v,·,:,α,oa,h,:a,l,‥,y,h,∵,𝓂,m.,HPU SOF PASUQ
+v,·,:,α,oa,h,:a,l,‥,y,h,∵,𝓂,m.,.
 
 9:7 in vtrad vtsef
 v,·,a,⅃,α,w,·,THIN SPACE
 START b 
-HPU PASEQ
+|
 STOP b 
 SPACE
 y,:,m,‥,⅃,y
@@ -2873,14 +2873,14 @@ SPACE
 SPACE
 w,:,r,_,v,·,a,(ti),h
 SPACE
-m,_,$,·si,:,θ,‥,m,a,𝓂,h,HPU SOF PASUQ
+m,_,$,·si,:,θ,‥,m,a,𝓂,h,.
 
 9:8 in vtrad vtsef
 ц,o,f,∵,(me),h
 SPACE
 α,∵,f,:,r,_,(ti),y,i,m.
 SPACE
-ʕ,i,m.,HPU MAQAF,α,:∵,l,o,h,a,⅄,y
+ʕ,i,m.,-,α,:∵,l,o,h,a,⅄,y
 SPACE
 n,a,v,i,(G),y,α
 SPACE
@@ -2888,13 +2888,13 @@ f,·,_,<,x
 SPACE
 y,a,q,w,o,$,·sh,(p)
 SPACE
-ʕ,_,l,HPU MAQAF,k,·,oa,l,HPU MAQAF,d,·,:,r,a,k,a,ƶ,y,w
+ʕ,_,l,-,k,·,oa,l,-,d,·,:,r,a,k,a,ƶ,y,w
 SPACE
 m,_,$,·si,:,θ,‥,m,a,(ti),h
 SPACE
 v,·,:,v,‥,(me),y,τ
 SPACE
-α,:∵,l,o,h,a,𝓂,y,w,HPU SOF PASUQ
+α,:∵,l,o,h,a,𝓂,y,w,.
 
 9:9 in vtrad vtsef
 h,∵,ʕ,:,m,i,(me),y,q,w,·
@@ -2911,7 +2911,7 @@ SPACE
 SPACE
 y,i,f,:,q,(ti),w,o,d
 SPACE
-x,_,θ,·,o,α,w,τ,a,𝓂,m.,HPU SOF PASUQ
+x,_,θ,·,o,α,w,τ,a,𝓂,m.,.
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2948,7 +2948,7 @@ h,‥,(ge),m,·,a,h
 SPACE
 v,·,a,⅃,α,w,·
 SPACE
-v,_,𝓂,ʕ,_,l,HPU MAQAF,f,·,:,ʕ,◆,w,o,r
+v,_,𝓂,ʕ,_,l,-,f,·,:,ʕ,◆,w,o,r
 SPACE
 w,_,y,·,i,n,·,a,𝓂,z,:,r,w,·,(p)
 SPACE
@@ -2958,7 +2958,7 @@ w,_,y,·,i,h,:,y,(me),w,·
 SPACE
 $,·sh,i,q,·,w,·,ц,i,(ti),y,m.
 SPACE
-k,·,:,α,oa,h,:a,v,a,𝓂,m.,HPU SOF PASUQ
+k,·,:,α,oa,h,:a,v,a,𝓂,m.,.
 
 9:11 in vtrad vtsef
 α,∵,f,:,r,_,Ƶ,y,i,m.
@@ -2973,31 +2973,31 @@ m,i,l,·,‥,d,a,(me),h
 SPACE
 w,·,m,i,v,·,∵,(ti),θ,∵,n.
 SPACE
-w,·,m,‥,h,‥,r,a,y,𝓂,w,o,n.,HPU SOF PASUQ
+w,·,m,‥,h,‥,r,a,y,𝓂,w,o,n.,.
 
 9:12 in vtrad vtsef
 k,·,i,<,y
 SPACE
-α,i,m.,HPU MAQAF,y,:,g,_,d,·,:,l,w,·,(p)
+α,i,m.,-,y,:,g,_,d,·,:,l,w,·,(p)
 SPACE
-α,∵,τ,HPU MAQAF,v,·,:,n,‥,y,h,∵,ƶ,m.
+α,∵,τ,-,v,·,:,n,‥,y,h,∵,ƶ,m.
 SPACE
 w,:,$,·sh,i,k,·,_,l,:,τ,·,i,(ti),y,m.
 SPACE
 m,‥,α,a,d,a,⅄,m.
 SPACE
-k,·,i,𝓂,y,HPU MAQAF,g,_,m.,HPU MAQAF,α,(me),w,o,y
+k,·,i,𝓂,y,-,g,_,m.,-,α,(me),w,o,y
 SPACE
 l,a,h,∵,(ti),m.
 SPACE
 v,·,:,$,·si,w,·,r,i,(me),y
 SPACE
-m,‥,h,∵,𝓂,m.,HPU SOF PASUQ
+m,‥,h,∵,𝓂,m.,.
 
 9:13 in vtrad vtsef
 α,∵,f,:,r,_,⟓,y,i,m.
 SPACE
-k,·,_,α,:_,$,·sh,∵,r,HPU MAQAF,r,a,α,i,(me),y,τ,i,y
+k,·,_,α,:_,$,·sh,∵,r,-,r,a,α,i,(me),y,τ,i,y
 SPACE
 l,:,ц,(ti),w,o,r
 SPACE
@@ -3009,18 +3009,18 @@ w,:,α,∵,f,:,r,_,Ƶ,y,i,m.
 SPACE
 l,:,h,w,o,ц,i,(me),y,α
 SPACE
-α,∵,l,HPU MAQAF,h,o,r,‥,(ti),g
+α,∵,l,-,h,o,r,‥,(ti),g
 SPACE
-v,·,a,n,a,𝓂,y,w,HPU SOF PASUQ
+v,·,a,n,a,𝓂,y,w,.
 
 9:14 in vtrad vtsef
-τ,·,‥,n.,HPU MAQAF,l,a,h,∵,(me),m.
+τ,·,‥,n.,-,l,a,h,∵,(me),m.
 SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
-m,_,h,HPU MAQAF,τ,·,i,τ,·,‥,⅄,n.
+m,_,h,-,τ,·,i,τ,·,‥,⅄,n.
 SPACE
-τ,·,‥,n.,HPU MAQAF,l,a,h,∵,m.,(p)
+τ,·,‥,n.,-,l,a,h,∵,m.,(p)
 SPACE
 r,∵,⅃,x,∵,m.
 SPACE
@@ -3028,14 +3028,14 @@ m,_,$,·sh,:,k,·,i,ƶ,y,l
 SPACE
 w,:,$,·sh,a,d,_,(ti),y,i,m.
 SPACE
-ц,o,m,:,q,i,𝓂,y,m.,HPU SOF PASUQ
+ц,o,m,:,q,i,𝓂,y,m.,.
 
 9:15 in vtrad vtsef
-k,·,oa,l,HPU MAQAF,r,a,ʕ,a,τ,a,<,m.
+k,·,oa,l,-,r,a,ʕ,a,τ,a,<,m.
 SPACE
 v,·,_,g,·,i,l,:,g,·,a,l,(p)
 SPACE
-k,·,i,y,HPU MAQAF,$,·sh,a,⅃,m.
+k,·,i,y,-,$,·sh,a,⅃,m.
 SPACE
 $,·si,:,n,‥,α,τ,i,ƶ,y,m.
 SPACE
@@ -3055,9 +3055,9 @@ SPACE
 SPACE
 α,_,h,:_,v,a,τ,a,ƶ,m.
 SPACE
-k,·,oa,l,HPU MAQAF,$,·si,a,r,‥,y,h,∵,(ti),m.
+k,·,oa,l,-,$,·si,a,r,‥,y,h,∵,(ti),m.
 SPACE
-σ,o,r,:,r,i,𝓂,y,m.,HPU SOF PASUQ
+σ,o,r,:,r,i,𝓂,y,m.,.
 
 9:16 in vtrad vtsef
 h,u,k,·,a,⅃,h
@@ -3076,7 +3076,7 @@ LEFT PARENTHESIS,v,l,y,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,v,_,𝓂,l,HPU MAQAF,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,v,_,𝓂,l,-,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 y,_,ʕ,:_,$,·si,⅄,w,·,n.
@@ -3091,7 +3091,7 @@ w,:,h,‥,m,_,τ,·,i,(ti),y
 SPACE
 m,_,x,:_,m,_,d,·,‥,(me),y
 SPACE
-v,i,θ,:,n,a,𝓂,m.,HPU SOF PASUQ
+v,i,θ,:,n,a,𝓂,m.,.
 
 9:17 in vtrad vtsef
 y,i,m,:,α,a,σ,‥,⅃,m.
@@ -3110,7 +3110,7 @@ w,:,y,i,𝓂,h,:,y,(me),w,·
 SPACE
 n,o,d,:,d,i,(ti),y,m.
 SPACE
-v,·,_,g,·,w,o,y,i,𝓂,m.,HPU SOF PASUQ
+v,·,_,g,·,w,o,y,i,𝓂,m.,.
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -3133,7 +3133,7 @@ y,i,$,·si,:,r,a,α,‥,ƶ,l
 SPACE
 f,·,:,r,i,(ti),y
 SPACE
-y,:,$,·sh,_,w,·,∵,h,HPU MAQAF,l,·,⅄,w,o
+y,:,$,·sh,_,w,·,∵,h,-,l,·,⅄,w,o
 SPACE
 k,·,:,r,o,⅃,v
 SPACE
@@ -3149,7 +3149,7 @@ l,:,α,_,r,:,ц,ƶ,w,o
 SPACE
 h,‥,y,θ,i,(ti),y,v,w,·
 SPACE
-m,_,ц,·,‥,v,𝓂,w,o,τ,HPU SOF PASUQ
+m,_,ц,·,‥,v,𝓂,w,o,τ,.
 
 10:2 in vtrad vtsef
 x,a,l,_,(me),q
@@ -3168,7 +3168,7 @@ m,i,z,:,v,·,:,x,w,o,τ,a,ƶ,m.
 SPACE
 y,:,$,·sh,o,d,‥,(ti),d
 SPACE
-m,_,ц,·,‥,v,w,o,τ,a,𝓂,m.,HPU SOF PASUQ
+m,_,ц,·,‥,v,w,o,τ,a,𝓂,m.,.
 
 10:3 in vtrad vtsef
 k,·,i,<,y
@@ -3189,11 +3189,11 @@ l,o,<,α
 SPACE
 y,a,r,‥,(p),α,n,w,·,(p)
 SPACE
-α,∵,τ,HPU MAQAF,y,:,h,o,w,a,ƶ,h
+α,∵,τ,-,y,:,h,o,w,a,ƶ,h
 SPACE
 w,:,h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
-m,_,h,HPU MAQAF,y,·,_,ʕ,:_,$,·si,∵,h,HPU MAQAF,l,·,a,𝓂,n,w,·,HPU SOF PASUQ
+m,_,h,-,y,·,_,ʕ,:_,$,·si,∵,h,-,l,·,a,𝓂,n,w,·,.
 
 10:4 in vtrad vtsef
 d,·,i,v,·,:,r,⅃,w,·
@@ -3218,7 +3218,7 @@ SPACE
 SPACE
 τ,·,_,l,:,m,‥,(me),y
 SPACE
-$,·si,a,d,a,𝓂,y,HPU SOF PASUQ
+$,·si,a,d,a,𝓂,y,.
 
 10:5 in vtrad vtsef
 l,:,ʕ,∵,g,:,l,w,o,τ,(p)
@@ -3233,7 +3233,7 @@ $,·sh,:,k,_,⅃,n.
 SPACE
 $,·sh,o,m,:,r,⅄,w,o,n.
 SPACE
-k,·,i,𝓂,y,HPU MAQAF,α,a,v,_,(qa),l
+k,·,i,𝓂,y,-,α,a,v,_,(qa),l
 SPACE
 ʕ,a,l,a,(ge),y,w
 SPACE
@@ -3245,14 +3245,14 @@ SPACE
 SPACE
 y,a,g,i,ƶ,y,l,w,·
 SPACE
-ʕ,_,l,HPU MAQAF,k,·,:,v,w,o,d,(ti),w,o
+ʕ,_,l,-,k,·,:,v,w,o,d,(ti),w,o
 SPACE
-k,·,i,y,HPU MAQAF,g,a,l,a,(me),h
+k,·,i,y,-,g,a,l,a,(me),h
 SPACE
-m,i,m,·,∵,𝓂,n,·,w,·,HPU SOF PASUQ
+m,i,m,·,∵,𝓂,n,·,w,·,.
 
 10:6 in vtrad vtsef
-g,·,_,m.,HPU MAQAF,α,w,o,τ,w,o,(p)
+g,·,_,m.,-,α,w,o,τ,w,o,(p)
 SPACE
 l,:,α,_,$,·sh,·,⅃,w,·,r
 SPACE
@@ -3274,7 +3274,7 @@ w,:,y,‥,v,(me),w,o,$,·sh
 SPACE
 y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
-m,‥,ʕ,:_,ц,a,τ,𝓂,w,o,HPU SOF PASUQ
+m,‥,ʕ,:_,ц,a,τ,𝓂,w,o,.
 
 10:7 in vtrad vtsef
 n,i,d,:,m,∵,(me),h
@@ -3285,7 +3285,7 @@ m,_,l,:,k,·,a,⅄,h,·
 SPACE
 k,·,:,q,∵,(ti),ц,∵,f.
 SPACE
-ʕ,_,l,HPU MAQAF,f,·,:,n,‥,y,HPU MAQAF,m,a,𝓂,y,i,m.,HPU SOF PASUQ
+ʕ,_,l,-,f,·,:,n,‥,y,-,m,a,𝓂,y,i,m.,.
 
 10:8 in vtrad vtsef
 w,:,n,i,$,·sh,:,m,:,d,(G),w,·
@@ -3304,7 +3304,7 @@ w,:,d,_,r,:,d,·,_,ƶ,r
 SPACE
 y,_,ʕ,:_,l,∵,(ti),h
 SPACE
-ʕ,_,l,HPU MAQAF,m,i,z,:,v,·,:,x,w,o,τ,a,⅄,m.
+ʕ,_,l,-,m,i,z,:,v,·,:,x,w,o,τ,a,⅄,m.
 SPACE
 w,:,α,a,m,:,r,<,w,·
 SPACE
@@ -3316,7 +3316,7 @@ w,:,l,_,g,·,:,v,a,ʕ,(ti),w,o,τ
 SPACE
 n,i,f,:,l,(me),w,·
 SPACE
-ʕ,a,l,‥,𝓂,y,n,w,·,HPU SOF PASUQ
+ʕ,a,l,‥,𝓂,y,n,w,·,.
 NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
@@ -3336,15 +3336,15 @@ $,·sh,a,⅃,m.
 SPACE
 ʕ,a,m,a,ƶ,d,w,·
 SPACE
-l,o,α,HPU MAQAF,τ,_,$,·si,·,i,y,g,‥,(da),m.
+l,o,α,-,τ,_,$,·si,·,i,y,g,‥,(da),m.
 SPACE
 v,·,_,g,·,i,v,:,ʕ,a,⟓,h
 SPACE
 m,i,l,:,x,a,m,a,(ti),h
 SPACE
-ʕ,_,l,HPU MAQAF,v,·,:,n,‥,(me),y
+ʕ,_,l,-,v,·,:,n,‥,(me),y
 SPACE
-ʕ,_,𝓂,l,:,w,a,𝓂,h,HPU SOF PASUQ
+ʕ,_,𝓂,l,:,w,a,𝓂,h,.
 
 10:10 in vtrad vtsef
 v,·,:,α,_,w,·,a,τ,i,(ti),y
@@ -3370,7 +3370,7 @@ START span class=mam-kq-q
 LEFT SQUARE BRACKET,ʕ,w,o,n,o,τ,a,𝓂,m.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
-HPU SOF PASUQ
+.
 
 10:11 in vtrad vtsef
 w,:,α,∵,f,:,r,_,(ge),y,i,m.
@@ -3387,7 +3387,7 @@ w,_,α,:_,n,i,⅃,y
 SPACE
 ʕ,a,v,_,ƶ,r,:,τ,·,i,y
 SPACE
-ʕ,_,l,HPU MAQAF,θ,(ti),w,·,v
+ʕ,_,l,-,θ,(ti),w,·,v
 SPACE
 ц,_,w,·,a,α,r,a,⅄,h,·
 SPACE
@@ -3399,9 +3399,9 @@ y,_,x,:_,r,⅃,w,o,$,·sh
 SPACE
 y,:,h,w,·,d,a,ƶ,h
 SPACE
-y,:,$,·si,_,d,·,∵,d,HPU MAQAF,l,(ti),w,o
+y,:,$,·si,_,d,·,∵,d,-,l,(ti),w,o
 SPACE
-y,_,ʕ,:_,q,o,𝓂,v,HPU SOF PASUQ
+y,_,ʕ,:_,q,o,𝓂,v,.
 
 10:12 in vtrad vtsef
 z,i,r,:,ʕ,(qa),w,·
@@ -3412,7 +3412,7 @@ l,i,ц,:,d,a,q,a,h,(p)
 SPACE
 q,i,ц,:,r,⅃,w,·
 SPACE
-l,:,f,i,y,HPU MAQAF,x,∵,ƶ,σ,∵,d
+l,:,f,i,y,-,x,∵,ƶ,σ,∵,d
 SPACE
 n,i,(me),y,r,w,·
 SPACE
@@ -3424,18 +3424,18 @@ w,:,ʕ,‥,τ,(p)
 SPACE
 l,i,d,:,r,⅃,w,o,$,·sh
 SPACE
-α,∵,τ,HPU MAQAF,y,:,h,o,w,a,ƶ,h
+α,∵,τ,-,y,:,h,o,w,a,ƶ,h
 SPACE
-ʕ,_,d,HPU MAQAF,y,a,v,Ƶ,w,o,α
+ʕ,_,d,-,y,a,v,Ƶ,w,o,α
 SPACE
 w,:,y,o,r,∵,(me),h
 SPACE
 ц,∵,(ti),d,∵,q
 SPACE
-l,a,k,∵,𝓂,m.,HPU SOF PASUQ
+l,a,k,∵,𝓂,m.,.
 
 10:13 in vtrad vtsef
-x,:_,r,_,$,·sh,:,τ,·,∵,m.,HPU MAQAF,r,∵,⟓,$,·sh,_,ʕ
+x,:_,r,_,$,·sh,:,τ,·,∵,m.,-,r,∵,⟓,$,·sh,_,ʕ
 SPACE
 ʕ,_,w,:,l,a,(me),τ,a,h
 SPACE
@@ -3443,15 +3443,15 @@ q,:,ц,_,r,:,τ,·,∵,(ti),m.
 SPACE
 α,:_,k,_,l,:,τ,·,∵,⅃,m.
 SPACE
-f,·,:,r,i,y,HPU MAQAF,k,a,⅄,x,_,$,·sh
+f,·,:,r,i,y,-,k,a,⅄,x,_,$,·sh
 SPACE
-k,·,i,y,HPU MAQAF,v,a,θ,_,(me),x,:,τ,·,a
+k,·,i,y,-,v,a,θ,_,(me),x,:,τ,·,a
 SPACE
 v,:,d,_,r,:,k,·,:,k.,a,(ti)
 SPACE
 v,·,:,r,o,(me),v
 SPACE
-g,·,i,v,·,w,o,r,∵,𝓂,y,k.,a,HPU SOF PASUQ
+g,·,i,v,·,w,o,r,∵,𝓂,y,k.,a,.
 
 10:14 in vtrad vtsef
 w,:,q,a,⅃,α,m.
@@ -3460,7 +3460,7 @@ $,·sh,a,α,w,o,n.,~
 SPACE
 v,·,:,ʕ,_,m,·,∵,∴,k.,a,∴
 SPACE
-w,:,k,oa,l,HPU MAQAF,m,i,v,:,ц,a,r,∵,⅃,y,k.,a
+w,:,k,oa,l,-,m,i,v,:,ц,a,r,∵,⅃,y,k.,a
 SPACE
 y,w,·,$,·sh,·,_,ƶ,d
 SPACE
@@ -3478,9 +3478,9 @@ m,i,l,:,x,a,m,a,⅄,h
 SPACE
 α,‥,(me),m.
 SPACE
-ʕ,_,l,HPU MAQAF,v,·,a,n,i,(ti),y,m.
+ʕ,_,l,-,v,·,a,n,i,(ti),y,m.
 SPACE
-r,u,θ,·,a,𝓂,$,·sh,a,h,HPU SOF PASUQ
+r,u,θ,·,a,𝓂,$,·sh,a,h,.
 
 10:15 in vtrad vtsef
 k,·,a,◆,k,a,h
@@ -3489,7 +3489,7 @@ SPACE
 SPACE
 l,a,k,∵,m.,(p)
 SPACE
-v,·,‥,𝓂,y,τ,HPU MAQAF,α,‥,ƶ,l
+v,·,‥,𝓂,y,τ,-,α,‥,ƶ,l
 SPACE
 m,i,f,·,:,n,‥,(ti),y
 SPACE
@@ -3505,7 +3505,7 @@ n,i,d,:,m,a,(ti),h
 SPACE
 m,∵,(me),l,∵,k.,:
 SPACE
-y,i,$,·si,:,r,a,α,‥,𝓂,l,HPU SOF PASUQ
+y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 11:1 in vtrad vtsef
 k,·,i,⟓,y
@@ -3520,7 +3520,7 @@ w,·,m,i,m,·,i,ц,:,r,_,(ti),y,i,m.
 SPACE
 q,a,r,a,(me),α,τ,i,y
 SPACE
-l,i,v,:,n,i,𝓂,y,HPU SOF PASUQ
+l,i,v,:,n,i,𝓂,y,.
 
 11:2 in vtrad vtsef
 q,a,r,:,α,(ti),w,·
@@ -3539,7 +3539,7 @@ y,:,z,_,v,·,‥,ƶ,x,w,·
 SPACE
 w,:,l,_,f,·,:,σ,i,l,i,(ti),y,m.
 SPACE
-y,:,q,_,θ,·,‥,r,𝓂,w,·,n.,HPU SOF PASUQ
+y,:,q,_,θ,·,‥,r,𝓂,w,·,n.,.
 
 11:3 in vtrad vtsef
 w,:,α,a,n,o,k,i,<,y
@@ -3550,7 +3550,7 @@ l,:,α,∵,f,:,r,_,ƶ,y,i,m.
 SPACE
 q,a,x,a,(ti),m.
 SPACE
-ʕ,_,l,HPU MAQAF,z,:,r,w,o,ʕ,o,τ,a,⅄,y,w
+ʕ,_,l,-,z,:,r,w,o,ʕ,o,τ,a,⅄,y,w
 SPACE
 w,:,l,o,(me),α
 SPACE
@@ -3558,7 +3558,7 @@ y,a,d,:,ʕ,(ti),w,·
 SPACE
 k,·,i,(me),y
 SPACE
-r,:,f,a,α,τ,i,𝓂,y,m.,HPU SOF PASUQ
+r,:,f,a,α,τ,i,𝓂,y,m.,.
 
 11:4 in vtrad vtsef
 v,·,:,x,_,v,:,l,‥,(qa),y
@@ -3587,14 +3587,14 @@ w,:,α,_,(me),θ
 SPACE
 α,‥,l,a,(ti),y,w
 SPACE
-α,w,o,k,i,𝓂,y,l,HPU SOF PASUQ
+α,w,o,k,i,𝓂,y,l,.
 
 11:5 in vtrad vtsef
 l,o,<,α
 SPACE
 y,a,$,·sh,w,·,v,(p)
 SPACE
-α,∵,l,HPU MAQAF,α,∵,⅃,r,∵,ц.
+α,∵,l,-,α,∵,⅃,r,∵,ц.
 SPACE
 m,i,ц,:,r,_,ƶ,y,i,m.
 SPACE
@@ -3608,7 +3608,7 @@ k,·,i,(me),y
 SPACE
 m,‥,α,:_,n,(ti),w,·
 SPACE
-l,a,$,·sh,𝓂,w,·,v,HPU SOF PASUQ
+l,a,$,·sh,𝓂,w,·,v,.
 
 11:6 in vtrad vtsef
 w,:,x,a,l,a,(me),h
@@ -3623,7 +3623,7 @@ v,_,d,·,a,(ti),y,w
 SPACE
 w,:,α,a,k,a,⅄,l,a,h
 SPACE
-m,i,𝓂,m,·,o,ʕ,:_,ц,(ti),w,o,τ,‥,y,h,∵,𝓂,m.,HPU SOF PASUQ
+m,i,𝓂,m,·,o,ʕ,:_,ц,(ti),w,o,τ,‥,y,h,∵,𝓂,m.,.
 
 11:7 in vtrad vtsef
 w,:,ʕ,_,m,·,i,(me),y
@@ -3632,7 +3632,7 @@ SPACE
 SPACE
 l,i,m,:,$,·sh,w,·,v,a,τ,i,⅄,y
 SPACE
-w,:,α,∵,l,HPU MAQAF,ʕ,_,l,(p)
+w,:,α,∵,l,-,ʕ,_,l,(p)
 SPACE
 y,i,q,:,r,a,α,u,ƶ,h,w,·
 SPACE
@@ -3640,7 +3640,7 @@ y,_,(ti),x,_,d
 SPACE
 l,o,(me),α
 SPACE
-y,:,r,w,o,m,‥,𝓂,m.,HPU SOF PASUQ
+y,:,r,w,o,m,‥,𝓂,m.,.
 
 11:8 in vtrad vtsef
 α,‥,(G),y,k.,:
@@ -3673,7 +3673,7 @@ y,_,(ti),x,_,d
 SPACE
 n,i,k,:,m,:,r,(me),w,·
 SPACE
-n,i,𝓂,x,w,·,m,a,𝓂,y,HPU SOF PASUQ
+n,i,𝓂,x,w,·,m,a,𝓂,y,.
 
 11:9 in vtrad vtsef
 l,o,<,α
@@ -3698,7 +3698,7 @@ SPACE
 SPACE
 α,a,n,o,k,i,y,(p)
 SPACE
-w,:,l,o,α,HPU MAQAF,α,i,ƶ,y,$,·sh
+w,:,l,o,α,-,α,i,ƶ,y,$,·sh
 SPACE
 v,·,:,q,i,r,:,v,·,:,k.,a,⅃
 SPACE
@@ -3708,7 +3708,7 @@ w,:,l,o,(me),α
 SPACE
 α,a,v,(ti),w,o,α
 SPACE
-v,·,:,ʕ,i,𝓂,y,r,HPU SOF PASUQ
+v,·,:,ʕ,i,𝓂,y,r,.
 
 11:10 in vtrad vtsef
 α,_,x,:_,r,‥,(da),y
@@ -3721,7 +3721,7 @@ k,·,:,α,_,r,:,y,‥,⅃,h
 SPACE
 y,i,$,·sh,:,α,a,⅄,g
 SPACE
-k,·,i,𝓂,y,HPU MAQAF,h,⅃,w,·,α
+k,·,i,𝓂,y,-,h,⅃,w,·,α
 SPACE
 y,i,$,·sh,:,α,_,ƶ,g
 SPACE
@@ -3729,7 +3729,7 @@ w,:,y,∵,x,∵,r,:,d,(me),w,·
 SPACE
 v,a,n,i,(ti),y,m.
 SPACE
-m,i,y,·,a,𝓂,m.,HPU SOF PASUQ
+m,i,y,·,a,𝓂,m.,.
 
 11:11 in vtrad vtsef
 y,∵,x,∵,r,:,d,<,w,·
@@ -3746,9 +3746,9 @@ SPACE
 SPACE
 w,:,h,w,o,$,·sh,_,v,:,τ,·,i,(me),y,m.
 SPACE
-ʕ,_,l,HPU MAQAF,v,·,a,τ,·,‥,y,h,∵,(ti),m.
+ʕ,_,l,-,v,·,a,τ,·,‥,y,h,∵,(ti),m.
 SPACE
-n,:,α,u,m.,HPU MAQAF,y,:,h,o,w,a,𝓂,h,HPU SOF PASUQ
+n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -3781,11 +3781,11 @@ SPACE
 SPACE
 r,a,d,(p)
 SPACE
-ʕ,i,m.,HPU MAQAF,α,‥,ƶ,l
+ʕ,i,m.,-,α,‥,ƶ,l
 SPACE
-w,:,ʕ,i,m.,HPU MAQAF,q,:,d,w,o,$,·sh,i,(ti),y,m.
+w,:,ʕ,i,m.,-,q,:,d,w,o,$,·sh,i,(ti),y,m.
 SPACE
-n,∵,α,:∵,m,a,𝓂,n.,HPU SOF PASUQ
+n,∵,α,:∵,m,a,𝓂,n.,.
 
 12:2 in vtrad vtsef
 α,∵,f,:,r,_,(ge),y,i,m.
@@ -3798,7 +3798,7 @@ w,:,r,o,d,‥,⅃,f.
 SPACE
 q,a,d,i,ƶ,y,m.
 SPACE
-k,·,oa,l,HPU MAQAF,h,_,y,·,Ƶ,w,o,m.
+k,·,oa,l,-,h,_,y,·,Ƶ,w,o,m.
 SPACE
 k,·,a,z,a,(me),v
 SPACE
@@ -3808,7 +3808,7 @@ y,_,r,:,v,·,∵,⅄,h
 SPACE
 w,·,v,:,r,i,y,τ,(p)
 SPACE
-ʕ,i,m.,HPU MAQAF,α,_,$,·sh,·,⅃,w,·,r
+ʕ,i,m.,-,α,_,$,·sh,·,⅃,w,·,r
 SPACE
 y,i,k,:,r,o,ƶ,τ,w,·
 SPACE
@@ -3816,18 +3816,18 @@ w,:,$,·sh,∵,(ti),m,∵,n.
 SPACE
 l,:,m,i,ц,:,r,_,(me),y,i,m.
 SPACE
-y,w,·,v,a,𝓂,l,HPU SOF PASUQ
+y,w,·,v,a,𝓂,l,.
 
 12:3 in vtrad vtsef
 w,:,r,i,(me),y,v
 SPACE
 l,_,y,h,o,w,a,(ti),h
 SPACE
-ʕ,i,m.,HPU MAQAF,y,:,h,w,·,d,a,⅄,h
+ʕ,i,m.,-,y,:,h,w,·,d,a,⅄,h
 SPACE
 w,:,l,i,f,:,q,o,<,d
 SPACE
-ʕ,_,𝓂,l,HPU MAQAF,y,_,ʕ,:_,q,o,v,(p)
+ʕ,_,𝓂,l,-,y,_,ʕ,:_,q,o,v,(p)
 SPACE
 k,·,i,d,:,r,a,k,a,ƶ,y,w
 SPACE
@@ -3835,33 +3835,33 @@ k,·,:,m,_,ʕ,:_,l,a,l,a,(ti),y,w
 SPACE
 y,a,$,·sh,i,(me),y,v
 SPACE
-l,𝓂,w,o,HPU SOF PASUQ
+l,𝓂,w,o,.
 
 12:4 in vtrad vtsef
 v,·,_,v,·,∵,(ti),θ,∵,n.
 SPACE
 ʕ,a,q,_,⅃,v
 SPACE
-α,∵,τ,HPU MAQAF,α,a,x,i,⅄,y,w
+α,∵,τ,-,α,a,x,i,⅄,y,w
 SPACE
 w,·,v,:,α,w,o,n,(ti),w,o
 SPACE
 $,·si,a,r,a,(me),h
 SPACE
-α,∵,τ,HPU MAQAF,α,:∵,l,o,h,i,𝓂,y,m.,HPU SOF PASUQ
+α,∵,τ,-,α,:∵,l,o,h,i,𝓂,y,m.,.
 
 12:5 in vtrad vtsef
 w,_,y,·,a,<,$,·si,_,r
 SPACE
-α,∵,l,HPU MAQAF,m,_,l,:,α,a,k.,:,(p)
+α,∵,l,-,m,_,l,:,α,a,k.,:,(p)
 SPACE
 w,_,y,·,u,k,a,ƶ,l
 SPACE
 v,·,a,k,a,(ti),h
 SPACE
-w,_,y,·,i,τ,:,x,_,n,·,∵,n.,HPU MAQAF,l,⅄,w,o
+w,_,y,·,i,τ,:,x,_,n,·,∵,n.,-,l,⅄,w,o
 SPACE
-v,·,‥,𝓂,y,τ,HPU MAQAF,α,‥,l,(p)
+v,·,‥,𝓂,y,τ,-,α,‥,l,(p)
 SPACE
 y,i,m,:,ц,a,α,∵,ƶ,n,·,w,·
 SPACE
@@ -3869,7 +3869,7 @@ w,:,$,·sh,a,(ti),m.
 SPACE
 y,:,d,_,v,·,‥,(me),r
 SPACE
-ʕ,i,m,·,a,𝓂,n,w,·,HPU SOF PASUQ
+ʕ,i,m,·,a,𝓂,n,w,·,.
 
 12:6 in vtrad vtsef
 w,_,y,h,o,w,a,(ti),h
@@ -3880,7 +3880,7 @@ h,_,ц,·,:,v,a,α,⅄,w,o,τ
 SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
-z,i,k,:,r,𝓂,w,o,HPU SOF PASUQ
+z,i,k,:,r,𝓂,w,o,.
 
 12:7 in vtrad vtsef
 w,:,α,_,τ,·,a,(ti),h
@@ -3897,9 +3897,9 @@ $,·sh,:,m,o,ƶ,r
 SPACE
 w,:,q,_,w,·,‥,(me),h
 SPACE
-α,∵,l,HPU MAQAF,α,:∵,l,o,h,∵,(ti),y,k.,a
+α,∵,l,-,α,:∵,l,o,h,∵,(ti),y,k.,a
 SPACE
-τ,·,a,m,i,𝓂,y,d,HPU SOF PASUQ
+τ,·,a,m,i,𝓂,y,d,.
 
 12:8 in vtrad vtsef
 k,·,:,n,_,◆,ʕ,_,n.
@@ -3912,7 +3912,7 @@ m,i,r,:,m,a,(ti),h
 SPACE
 l,_,ʕ,:_,$,·sh,o,(me),q
 SPACE
-α,a,h,‥,𝓂,v,HPU SOF PASUQ
+α,a,h,‥,𝓂,v,.
 
 12:9 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -3929,15 +3929,15 @@ SPACE
 SPACE
 l,i,⅄,y
 SPACE
-k,·,oa,l,HPU MAQAF,y,:,g,i,y,ʕ,_,Ƶ,y
+k,·,oa,l,-,y,:,g,i,y,ʕ,_,Ƶ,y
 SPACE
 l,o,(me),α
 SPACE
-y,i,m,:,ц,:,α,w,·,HPU MAQAF,l,i,(ti),y
+y,i,m,:,ц,:,α,w,·,-,l,i,(ti),y
 SPACE
 ʕ,a,w,hhfv,(me),n.
 SPACE
-α,:_,$,·sh,∵,r,HPU MAQAF,x,‥,𝓂,θ,:,α,HPU SOF PASUQ
+α,:_,$,·sh,∵,r,-,x,‥,𝓂,θ,:,α,.
 
 12:10 in vtrad vtsef
 w,:,α,a,n,o,k,i,⟓,y
@@ -3958,12 +3958,12 @@ v,oa,α,:a,h,a,l,i,(ti),y,m.
 SPACE
 k,·,i,y,m,‥,(me),y
 SPACE
-m,w,o,ʕ,‥,𝓂,d,HPU SOF PASUQ
+m,w,o,ʕ,‥,𝓂,d,.
 
 12:11 in vtrad vtsef
 w,:,d,i,v,·,_,(p),r,:,τ,·,i,y,(p)
 SPACE
-ʕ,_,l,HPU MAQAF,h,_,n,·,:,v,i,y,α,i,ƶ,y,m.
+ʕ,_,l,-,h,_,n,·,:,v,i,y,α,i,ƶ,y,m.
 SPACE
 w,:,α,a,n,o,k,i,(ti),y
 SPACE
@@ -3975,14 +3975,14 @@ w,·,v,:,y,_,(me),d
 SPACE
 h,_,n,·,:,v,i,y,α,i,(ti),y,m.
 SPACE
-α,:_,d,_,m,·,∵,𝓂,h,HPU SOF PASUQ
+α,:_,d,_,m,·,∵,𝓂,h,.
 
 12:12 in vtrad vtsef
-α,i,m.,HPU MAQAF,g,·,i,l,:,ʕ,a,(me),d
+α,i,m.,-,g,·,i,l,:,ʕ,a,(me),d
 SPACE
 α,a,(p),w,∵,n.,(p)
 SPACE
-α,_,k.,:,HPU MAQAF,$,·sh,a,⅃,w,:,α
+α,_,k.,:,-,$,·sh,a,⅃,w,:,α
 SPACE
 h,a,y,ƶ,w,·
 SPACE
@@ -4002,7 +4002,7 @@ SPACE
 SPACE
 τ,·,_,l,:,m,‥,(me),y
 SPACE
-$,·si,a,d,a,𝓂,y,HPU SOF PASUQ
+$,·si,a,d,a,𝓂,y,.
 
 12:13 in vtrad vtsef
 w,_,y,·,i,v,:,r,_,(me),x
@@ -4021,7 +4021,7 @@ v,·,:,α,i,$,·sh,·,a,ƶ,h
 SPACE
 w,·,v,:,α,i,$,·sh,·,a,(ti),h
 SPACE
-$,·sh,a,m,a,𝓂,r,HPU SOF PASUQ
+$,·sh,a,m,a,𝓂,r,.
 
 12:14 in vtrad vtsef
 w,·,v,:,n,a,v,i,Ƶ,y,α
@@ -4030,13 +4030,13 @@ h,∵,ʕ,:∵,l,a,(da),h
 SPACE
 y,:,h,o,w,a,⟓,h
 SPACE
-α,∵,τ,HPU MAQAF,y,i,$,·si,:,r,a,α,‥,(ti),l
+α,∵,τ,-,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 m,i,m,·,i,ц,:,r,a,⅄,y,i,m.
 SPACE
 w,·,v,:,n,a,v,i,(ti),y,α
 SPACE
-n,i,$,·sh,:,m,a,𝓂,r,HPU SOF PASUQ
+n,i,$,·sh,:,m,a,𝓂,r,.
 
 12:15 in vtrad vtsef
 h,i,k,:,ʕ,i,(me),y,σ
@@ -4057,7 +4057,7 @@ y,a,$,·sh,i,(me),y,v
 SPACE
 l,(ti),w,o
 SPACE
-α,:_,d,o,n,a,𝓂,y,w,HPU SOF PASUQ
+α,:_,d,o,n,a,𝓂,y,w,.
 
 13:1 in vtrad vtsef
 k,·,:,d,_,v,·,‥,<,r
@@ -4076,12 +4076,12 @@ w,_,y,·,∵,α,:,$,·sh,_,(me),m.
 SPACE
 v,·,_,v,·,_,(ti),ʕ,_,l
 SPACE
-w,_,y,·,a,m,o,𝓂,τ,HPU SOF PASUQ
+w,_,y,·,a,m,o,𝓂,τ,.
 
 13:2 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,⅃,h,THIN SPACE
 START b 
-HPU PASEQ
+|
 STOP b 
 SPACE
 y,w,o,σ,i,⅃,f,w,·
@@ -4118,14 +4118,14 @@ SPACE
 SPACE
 ʕ,:_,g,a,l,i,(ti),y,m.
 SPACE
-y,i,$,·sh,·,a,q,𝓂,w,·,n.,HPU SOF PASUQ
+y,i,$,·sh,·,a,q,𝓂,w,·,n.,.
 
 13:3 in vtrad vtsef
 l,a,k,‥,◆,n.
 SPACE
 y,i,𝓂,h,:,y,w,·,(p)
 SPACE
-k,·,_,ʕ,:_,n,_,n.,HPU MAQAF,v,·,o,ƶ,q,∵,r
+k,·,_,ʕ,:_,n,_,n.,-,v,·,o,ƶ,q,∵,r
 SPACE
 w,:,k,_,θ,·,_,(ti),l
 SPACE
@@ -4141,7 +4141,7 @@ m,i,g,·,o,ƶ,r,∵,n.
 SPACE
 w,·,k,:,ʕ,a,$,·sh,a,(ti),n.
 SPACE
-m,‥,α,:_,r,u,v,·,a,𝓂,h,HPU SOF PASUQ
+m,‥,α,:_,r,u,v,·,a,𝓂,h,.
 
 13:4 in vtrad vtsef
 w,:,α,a,n,o,k,i,⟓,y
@@ -4166,7 +4166,7 @@ w,·,m,w,o,$,·sh,i,(me),y,ʕ,_
 SPACE
 α,_,(ti),y,i,n.
 SPACE
-v,·,i,l,:,τ,·,i,𝓂,y,HPU SOF PASUQ
+v,·,i,l,:,τ,·,i,𝓂,y,.
 
 13:5 in vtrad vtsef
 α,:_,n,i,(me),y
@@ -4177,7 +4177,7 @@ v,·,_,m,·,i,d,:,v,·,a,⅄,r
 SPACE
 v,·,:,α,∵,(ti),r,∵,ц.
 SPACE
-τ,·,_,l,:,α,u,v,𝓂,w,o,τ,HPU SOF PASUQ
+τ,·,_,l,:,α,u,v,𝓂,w,o,τ,.
 
 13:6 in vtrad vtsef
 k,·,:,m,_,r,:,ʕ,i,y,τ,a,m.,(p)
@@ -4190,22 +4190,22 @@ w,_,y,·,a,⅃,r,oa,m.
 SPACE
 l,i,v,·,a,⅄,m.
 SPACE
-ʕ,_,l,HPU MAQAF,k,·,‥,(ti),n.
+ʕ,_,l,-,k,·,‥,(ti),n.
 SPACE
-$,·sh,:,k,‥,x,𝓂,w,·,n,i,y,HPU SOF PASUQ
+$,·sh,:,k,‥,x,𝓂,w,·,n,i,y,.
 
 13:7 in vtrad vtsef
 w,a,α,:∵,h,i,(me),y
 SPACE
 l,a,h,∵,(ti),m.
 SPACE
-k,·,:,m,w,o,HPU MAQAF,$,·sh,a,⅄,x,_,l
+k,·,:,m,w,o,-,$,·sh,a,⅄,x,_,l
 SPACE
 k,·,:,n,a,m,‥,(ti),r
 SPACE
-ʕ,_,l,HPU MAQAF,d,·,∵,(me),r,∵,k.,:
+ʕ,_,l,-,d,·,∵,(me),r,∵,k.,:
 SPACE
-α,a,$,·sh,𝓂,w,·,r,HPU SOF PASUQ
+α,a,$,·sh,𝓂,w,·,r,.
 
 13:8 in vtrad vtsef
 α,∵,f,:,g,·,:,$,·sh,‥,m.,(p)
@@ -4230,16 +4230,16 @@ x,_,y,·,_,(me),τ
 SPACE
 h,_,$,·si,·,a,d,∵,(ti),h
 SPACE
-τ,·,:,v,_,q,·,:,ʕ,‥,𝓂,m.,HPU SOF PASUQ
+τ,·,:,v,_,q,·,:,ʕ,‥,𝓂,m.,.
 
 13:9 in vtrad vtsef
 $,·sh,i,x,∵,τ,:,k.,a,(me)
 SPACE
 y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
-k,·,i,y,HPU MAQAF,v,i,(me),y
+k,·,i,y,-,v,i,(me),y
 SPACE
-v,:,ʕ,∵,z,:,r,∵,𝓂,k.,a,HPU SOF PASUQ
+v,:,ʕ,∵,z,:,r,∵,𝓂,k.,a,.
 
 13:10 in vtrad vtsef
 α,:∵,h,i,<,y
@@ -4250,7 +4250,7 @@ SPACE
 SPACE
 w,:,y,w,o,$,·sh,i,y,ʕ,:_,k.,a,(ti)
 SPACE
-v,·,:,k,oa,l,HPU MAQAF,ʕ,a,r,∵,⅄,y,k.,a
+v,·,:,k,oa,l,-,ʕ,a,r,∵,⅄,y,k.,a
 SPACE
 w,:,$,·sh,o,⅃,f,:,θ,∵,ƶ,y,k.,a
 SPACE
@@ -4258,14 +4258,14 @@ SPACE
 SPACE
 α,a,m,_,ƶ,r,:,τ,·,a
 SPACE
-τ,·,:,n,a,h,HPU MAQAF,l,·,i,(ti),y
+τ,·,:,n,a,h,-,l,·,i,(ti),y
 SPACE
 m,∵,(me),l,∵,k.,:
 SPACE
-w,:,$,·si,a,r,i,𝓂,y,m.,HPU SOF PASUQ
+w,:,$,·si,a,r,i,𝓂,y,m.,.
 
 13:11 in vtrad vtsef
-α,∵,𝓂,τ,·,∵,n.,HPU MAQAF,l,:,k.,a,(me)
+α,∵,𝓂,τ,·,∵,n.,-,l,:,k.,a,(me)
 SPACE
 m,∵,(p),l,∵,k.,:,(p)
 SPACE
@@ -4273,7 +4273,7 @@ v,·,:,α,_,f,·,i,ƶ,y
 SPACE
 w,:,α,∵,q,·,_,(ti),x
 SPACE
-v,·,:,ʕ,∵,v,:,r,a,τ,i,𝓂,y,HPU SOF PASUQ
+v,·,:,ʕ,∵,v,:,r,a,τ,i,𝓂,y,.
 NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
@@ -4289,7 +4289,7 @@ SPACE
 SPACE
 ц,:,f,w,·,n,a,(ti),h
 SPACE
-x,_,θ,·,a,α,τ,𝓂,w,o,HPU SOF PASUQ
+x,_,θ,·,a,α,τ,𝓂,w,o,.
 
 13:13 in vtrad vtsef
 x,∵,v,:,l,‥,(me),y
@@ -4300,19 +4300,19 @@ y,a,v,o,⅃,α,w,·
 SPACE
 l,⅄,w,o
 SPACE
-h,w,·,α,HPU MAQAF,v,‥,n.,(p)
+h,w,·,α,-,v,‥,n.,(p)
 SPACE
 l,o,⅃,α
 SPACE
 x,a,k,a,ƶ,m.
 SPACE
-k,·,i,y,HPU MAQAF,ʕ,‥,(me),τ
+k,·,i,y,-,ʕ,‥,(me),τ
 SPACE
-l,o,𝓂,α,HPU MAQAF,y,_,ʕ,:_,m,o,(ti),d
+l,o,𝓂,α,-,y,_,ʕ,:_,m,o,(ti),d
 SPACE
 v,·,:,m,i,$,·sh,:,v,·,_,(me),r
 SPACE
-v,·,a,n,i,𝓂,y,m.,HPU SOF PASUQ
+v,·,a,n,i,𝓂,y,m.,.
 
 13:14 in vtrad vtsef
 m,i,y,·,_,<,d
@@ -4341,7 +4341,7 @@ n,o,(ti),x,_,m.
 SPACE
 y,i,σ,·,a,τ,‥,(me),r
 SPACE
-m,‥,ʕ,‥,y,n,a,𝓂,y,HPU SOF PASUQ
+m,‥,ʕ,‥,y,n,a,𝓂,y,.
 
 13:15 in vtrad vtsef
 k,·,i,⅃,y
@@ -4380,9 +4380,9 @@ y,i,$,·sh,:,σ,∵,ƶ,h
 SPACE
 α,w,o,ц,_,(ti),r
 SPACE
-k,·,oa,l,HPU MAQAF,k,·,:,l,i,(me),y
+k,·,oa,l,-,k,·,:,l,i,(me),y
 SPACE
-x,∵,m,:,d,·,a,𝓂,h,HPU SOF PASUQ
+x,∵,m,:,d,·,a,𝓂,h,.
 
 14:1 in vtrad vtsef
 τ,·,∵,α,:,$,·sh,_,m.,(p)
@@ -4405,7 +4405,7 @@ y,:,r,u,θ,·,a,ƶ,$,·sh,w,·
 SPACE
 w,:,h,a,r,i,y,·,w,o,τ,a,(ti),y,w
 SPACE
-y,:,v,u,q,·,a,𝓂,ʕ,w,·,HPU SOF PASUQ
+y,:,v,u,q,·,a,𝓂,ʕ,w,·,.
 NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
@@ -4427,7 +4427,7 @@ k,·,i,(me),y
 SPACE
 k,a,$,·sh,_,(ti),l,:,τ,·,a
 SPACE
-v,·,_,ʕ,:_,w,hhfv,n,∵,𝓂,k.,a,HPU SOF PASUQ
+v,·,_,ʕ,:_,w,hhfv,n,∵,𝓂,k.,a,.
 
 14:3 in vtrad vtsef
 q,:,x,<,w,·
@@ -4438,41 +4438,41 @@ d,·,:,v,a,r,i,ƶ,y,m.
 SPACE
 w,:,$,·sh,(ti),w,·,v,w,·
 SPACE
-α,∵,l,HPU MAQAF,y,:,h,o,w,a,⅄,h
+α,∵,l,-,y,:,h,o,w,a,⅄,h
 SPACE
 α,i,m,:,r,⅃,w,·
 SPACE
 α,‥,l,a,◆,y,w
 SPACE
-k,·,oa,l,HPU MAQAF,τ,·,i,$,·si,·,a,<,α
+k,·,oa,l,-,τ,·,i,$,·si,·,a,<,α
 SPACE
 ʕ,a,w,hhfv,n.,(p)
 SPACE
-w,:,q,_,x,HPU MAQAF,θ,ƶ,w,o,v
+w,:,q,_,x,-,θ,ƶ,w,o,v
 SPACE
 w,·,𝓂,n,:,$,·sh,_,l,·,:,m,a,(me),h
 SPACE
 f,a,r,i,(ti),y,m.
 SPACE
-$,·si,:,f,a,τ,‥,𝓂,y,n,w,·,HPU SOF PASUQ
+$,·si,:,f,a,τ,‥,𝓂,y,n,w,·,.
 
 14:4 in vtrad vtsef
 α,_,$,·sh,·,⅃,w,·,r,THIN SPACE
 START b 
-HPU PASEQ
+|
 STOP b 
 SPACE
 l,o,⅃,α
 SPACE
 y,w,o,$,·sh,i,y,ʕ,‥,◆,n,w,·
 SPACE
-ʕ,_,l,HPU MAQAF,σ,w,·,σ,(p)
+ʕ,_,l,-,σ,w,·,σ,(p)
 SPACE
 l,o,⅃,α
 SPACE
 n,i,r,:,k,·,a,ƶ,v
 SPACE
-w,:,l,o,α,HPU MAQAF,n,o,(me),α,m,_,r
+w,:,l,o,α,-,n,o,(me),α,m,_,r
 SPACE
 ʕ,⟓,w,o,d
 SPACE
@@ -4482,11 +4482,11 @@ l,:,m,_,ʕ,:_,$,·si,‥,⅃,h
 SPACE
 y,a,d,‥,⅄,y,n,w,·
 SPACE
-α,:_,$,·sh,∵,r,HPU MAQAF,v,·,:,k.,a,(ti)
+α,:_,$,·sh,∵,r,-,v,·,:,k.,a,(ti)
 SPACE
 y,:,r,u,x,_,(me),m.
 SPACE
-y,a,τ,𝓂,w,o,m.,HPU SOF PASUQ
+y,a,τ,𝓂,w,o,m.,.
 
 14:5 in vtrad vtsef
 α,∵,r,:,f,·,a,α,(p)
@@ -4503,7 +4503,7 @@ $,·sh,a,(me),v
 SPACE
 α,_,f,·,i,(ti),y
 SPACE
-m,i,m,·,∵,𝓂,n,·,w,·,HPU SOF PASUQ
+m,i,m,·,∵,𝓂,n,·,w,·,.
 
 14:6 in vtrad vtsef
 α,∵,h,:,y,∵,<,h
@@ -4520,7 +4520,7 @@ w,:,y,_,(me),k.,:
 SPACE
 $,·sh,oa,r,a,$,·sh,a,(ti),y,w
 SPACE
-k,·,_,l,·,:,v,a,n,𝓂,w,o,n.,HPU SOF PASUQ
+k,·,_,l,·,:,v,a,n,𝓂,w,o,n.,.
 
 14:7 in vtrad vtsef
 y,‥,𝓂,l,:,k,w,·,(p)
@@ -4537,7 +4537,7 @@ w,:,r,‥,(me),y,x,_,𝓂
 SPACE
 l,(ti),w,o
 SPACE
-k,·,_,l,·,:,v,a,n,𝓂,w,o,n.,HPU SOF PASUQ
+k,·,_,l,·,:,v,a,n,𝓂,w,o,n.,.
 
 14:8 in vtrad vtsef
 y,a,$,·sh,u,(p),v,w,·,(p)
@@ -4558,12 +4558,12 @@ z,i,k,:,r,(ti),w,o
 SPACE
 k,·,:,y,‥,(me),y,n.
 SPACE
-l,:,v,a,n,𝓂,w,o,n.,HPU SOF PASUQ
+l,:,v,a,n,𝓂,w,o,n.,.
 
 14:9 in vtrad vtsef
 α,∵,f,:,r,_,Ƶ,y,i,m.
 SPACE
-m,_,h,HPU MAQAF,l,·,i,(me),y
+m,_,h,-,l,·,i,(me),y
 SPACE
 ʕ,(ti),w,o,d
 SPACE
@@ -4585,7 +4585,7 @@ m,i,m,·,∵,(ti),n,·,i,y
 SPACE
 f,·,∵,r,:,y,:,k.,a,(me)
 SPACE
-n,i,m,:,ц,a,𝓂,α,HPU SOF PASUQ
+n,i,m,:,ц,a,𝓂,α,.
 
 14:10 in vtrad vtsef
 m,i,<,y
@@ -4600,7 +4600,7 @@ n,a,v,(ti),w,o,n.
 SPACE
 w,:,y,‥,d,a,ʕ,‥,⅄,m.
 SPACE
-k,·,i,𝓂,y,HPU MAQAF,y,:,$,·sh,a,r,i,(G),y,m.
+k,·,i,𝓂,y,-,y,:,$,·sh,a,r,i,(G),y,m.
 SPACE
 d,·,_,r,:,k,‥,⅃,y
 SPACE
@@ -4616,5 +4616,5 @@ w,·,f,o,$,·sh,:,ʕ,i,(ti),y,m.
 SPACE
 y,i,k,·,a,(me),$,·sh,:,l,w,·
 SPACE
-v,a,𝓂,m.,HPU SOF PASUQ
+v,a,𝓂,m.,.
 
