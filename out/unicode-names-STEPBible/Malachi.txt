@@ -1678,7 +1678,7 @@ SPACE
 SPACE
 x,‥,𝓂,r,∵,m.,.
 START mam-br-before-addendum 
-START small 
+START mam-addendum 
 h,n,h
 SPACE
 α,n,k,y
@@ -1704,5 +1704,5 @@ SPACE
 h,g,d,w,l
 SPACE
 w,h,n,w,r,α
-STOP small 
+STOP mam-addendum 
 
