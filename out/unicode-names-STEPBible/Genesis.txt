@@ -2371,7 +2371,7 @@ m,i,n,·,:,$,·si,o,𝓂,α,.
 START mam-note-callout 
 ASTERISK
 STOP mam-note-callout 
-START mam-note class=footnote
+START mam-note 
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 σ,f,r,d
@@ -2379,7 +2379,7 @@ SPACE
 w,α,$,k,n,z
 SPACE
 m,i,n,·,:,$,·si,𝓂,w,o,α,RIGHT PARENTHESIS
-STOP mam-note class=footnote
+STOP mam-note 
 
 4:14 in vtrad vtbhs
 h,‥,n.,(tq)
@@ -2729,7 +2729,7 @@ SPACE
 START mam-note-callout 
 ASTERISK
 STOP mam-note-callout 
-START mam-note class=footnote
+START mam-note 
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
@@ -2742,7 +2742,7 @@ SPACE
 v,σ,m,HPU GERSHAYIM,k.
 SPACE
 g,d,w,l,h,RIGHT PARENTHESIS
-STOP mam-note class=footnote
+STOP mam-note 
 SPACE
 τ,·,w,o,l,:,d,o,(ti),τ
 SPACE
@@ -4334,7 +4334,7 @@ k,·,oa,𝓂,l,-,m,_,ʕ,:,y,:,n,o,τ,(p)
 START mam-note-callout 
 ASTERISK
 STOP mam-note-callout 
-START mam-note class=footnote
+START mam-note 
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 σ,f,r,d
@@ -4342,7 +4342,7 @@ SPACE
 w,α,$,k,n,z
 SPACE
 m,_,ʕ,:,y,:,n,w,o,τ,(p),RIGHT PARENTHESIS
-STOP mam-note class=footnote
+STOP mam-note 
 SPACE
 τ,·,:,h,⅃,w,o,m.
 SPACE
@@ -5841,7 +5841,7 @@ w,_,y,·,i,𝓂,h,:,y,w,·,(p)
 START mam-note-callout 
 ASTERISK
 STOP mam-note-callout 
-START mam-note class=footnote
+START mam-note 
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 σ,f,r,d
@@ -5849,7 +5849,7 @@ SPACE
 w,α,$,k,n,z
 SPACE
 w,_,𝓂,y,:,h,i,y,(p),RIGHT PARENTHESIS
-STOP mam-note class=footnote
+STOP mam-note 
 SPACE
 k,·,oa,l,-,y,:,m,‥,y,-,n,o,ƶ,x,_
 SPACE
@@ -30663,7 +30663,7 @@ f,∵,⟓,r,_,ʕ
 START mam-note-callout 
 ASTERISK
 STOP mam-note-callout 
-START mam-note class=footnote
+START mam-note 
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
@@ -30673,7 +30673,7 @@ SPACE
 v,τ,y,v,h
 SPACE
 α,x,τ,RIGHT PARENTHESIS
-STOP mam-note class=footnote
+STOP mam-note 
 SPACE
 k,·,o,h,‥,(me),n.
 SPACE
@@ -30821,7 +30821,7 @@ f,∵,(ti),r,_,ʕ
 START mam-note-callout 
 ASTERISK
 STOP mam-note-callout 
-START mam-note class=footnote
+START mam-note 
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
@@ -30831,7 +30831,7 @@ SPACE
 v,τ,y,v,h
 SPACE
 α,x,τ,RIGHT PARENTHESIS
-STOP mam-note class=footnote
+STOP mam-note 
 SPACE
 k,·,o,h,‥,(me),n.
 SPACE
@@ -34845,7 +34845,7 @@ f,∵,(ti),r,_,ʕ
 START mam-note-callout 
 ASTERISK
 STOP mam-note-callout 
-START mam-note class=footnote
+START mam-note 
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
@@ -34855,7 +34855,7 @@ SPACE
 v,τ,y,v,h
 SPACE
 α,x,τ,RIGHT PARENTHESIS
-STOP mam-note class=footnote
+STOP mam-note 
 SPACE
 k,·,o,h,‥,⅃,n.
 SPACE

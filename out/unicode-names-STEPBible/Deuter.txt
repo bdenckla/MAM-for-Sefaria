@@ -10286,7 +10286,7 @@ SPACE
 START mam-note-callout 
 ASTERISK
 STOP mam-note-callout 
-START mam-note class=footnote
+START mam-note 
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
@@ -10300,7 +10300,7 @@ SPACE
 v,ц,d,HPU GERSHAYIM,y
 SPACE
 g,d,w,l,h,RIGHT PARENTHESIS
-STOP mam-note class=footnote
+STOP mam-note 
 NO-BREAK SPACE
 START mam-spi-samekh 
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -17662,7 +17662,7 @@ SPACE
 START mam-note-callout 
 ASTERISK
 STOP mam-note-callout 
-START mam-note class=footnote
+START mam-note 
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
@@ -17675,7 +17675,7 @@ SPACE
 v,q,w,HPU GERSHAYIM,f.
 SPACE
 g,d,w,l,h,RIGHT PARENTHESIS
-STOP mam-note class=footnote
+STOP mam-note 
 q,_,n.,-,ц,i,f,·,⅃,w,o,r,THIN SPACE
 START mam-lp-paseq 
 |
@@ -18472,7 +18472,7 @@ f,:,ц,𝓂,w,·,ʕ,_,-,d,·,_,k,·,a,⟓,α
 START mam-note-callout 
 ASTERISK
 STOP mam-note-callout 
-START mam-note class=footnote
+START mam-note 
 LEFT PARENTHESIS,v,r,w,v
 SPACE
 σ,f,r,y
@@ -18480,7 +18480,7 @@ SPACE
 α,$,k,n,z
 SPACE
 d,·,_,k,·,a,⟓,h,RIGHT PARENTHESIS
-STOP mam-note class=footnote
+STOP mam-note 
 SPACE
 w,·,k,:,r,(me),w,·,τ
 SPACE
@@ -21578,7 +21578,7 @@ SPACE
 START mam-note-callout 
 ASTERISK
 STOP mam-note-callout 
-START mam-note class=footnote
+START mam-note 
 LEFT PARENTHESIS,σ,f,q
 SPACE
 f,r,$,h
@@ -21590,7 +21590,7 @@ SPACE
 α,r,m.
 SPACE
 ц,w,v,h,RIGHT PARENTHESIS
-STOP mam-note class=footnote
+STOP mam-note 
 
 27:20 in vtrad vtbhs
 α,a,r,◆,w,·,r
@@ -26299,7 +26299,7 @@ l,:,y,:,h,o,w,a,h,(p)
 START mam-note-callout 
 ASTERISK
 STOP mam-note-callout 
-START mam-note class=footnote
+START mam-note 
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
@@ -26312,7 +26312,7 @@ SPACE
 v,τ,y,v,h
 SPACE
 α,x,τ,RIGHT PARENTHESIS
-STOP mam-note class=footnote
+STOP mam-note 
 SPACE
 τ,·,i,g,:,m,:,l,w,·,-,z,o,ƶ,α,τ
 NO-BREAK SPACE
@@ -28552,7 +28552,7 @@ SPACE
 START mam-note-callout 
 ASTERISK
 STOP mam-note-callout 
-START mam-note class=footnote
+START mam-note 
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
@@ -28565,7 +28565,7 @@ SPACE
 v,α,l,HPU GERSHAYIM,f.
 SPACE
 g,d,w,l,h,RIGHT PARENTHESIS
-STOP mam-note class=footnote
+STOP mam-note 
 SPACE
 y,i,$,·si,:,r,a,α,‥,(ge),l
 SPACE
