@@ -610,7 +610,8 @@
     <text>וַיַּכּ֤וּ הַיְּהוּדִים֙ בְּכׇל־אֹ֣יְבֵיהֶ֔ם מַכַּת־חֶ֥רֶב וְהֶ֖רֶג וְאַבְדָ֑ן וַיַּֽעֲשׂ֥וּ בְשֹׂנְאֵיהֶ֖ם כִּרְצוֹנָֽם׃</text>
   </verse>
   <verse bcv_str="Esth.9.6">
-    <text>וּבְשׁוּשַׁ֣ן הַבִּירָ֗ה הָרְג֤וּ הַיְּהוּדִים֙ וְאַבֵּ֔ד חֲמֵ֥שׁ מֵא֖וֹת אִֽישׁ׃        </text>
+    <text>וּבְשׁוּשַׁ֣ן הַבִּירָ֗ה הָרְג֤וּ הַיְּהוּדִים֙ וְאַבֵּ֔ד חֲמֵ֥שׁ מֵא֖וֹת אִֽישׁ׃</text>
+    <mam-shirah-space />
   </verse>
   <verse bcv_str="Esth.9.7">
     <text>וְאֵ֧ת </text>
@@ -621,30 +622,40 @@
     <mam-letter-small>
       <text>תָ</text>
     </mam-letter-small>
-    <text>א        וְאֵ֥ת </text>
+    <text>א</text>
+    <mam-shirah-space />
+    <text>וְאֵ֥ת </text>
     <mam-lp-paseq>
       <text>׀</text>
     </mam-lp-paseq>
-    <text> דַּֽלְפ֖וֹן        וְאֵ֥ת </text>
+    <text> דַּֽלְפ֖וֹן</text>
+    <mam-shirah-space />
+    <text>וְאֵ֥ת </text>
     <mam-lp-paseq>
       <text>׀</text>
     </mam-lp-paseq>
-    <text> אַסְפָּֽתָא׃        </text>
+    <text> אַסְפָּֽתָא׃</text>
+    <mam-shirah-space />
   </verse>
   <verse bcv_str="Esth.9.8">
     <text>וְאֵ֧ת </text>
     <mam-lp-paseq>
       <text>׀</text>
     </mam-lp-paseq>
-    <text> פּוֹרָ֛תָא        וְאֵ֥ת </text>
+    <text> פּוֹרָ֛תָא</text>
+    <mam-shirah-space />
+    <text>וְאֵ֥ת </text>
     <mam-lp-paseq>
       <text>׀</text>
     </mam-lp-paseq>
-    <text> אֲדַלְיָ֖א        וְאֵ֥ת </text>
+    <text> אֲדַלְיָ֖א</text>
+    <mam-shirah-space />
+    <text>וְאֵ֥ת </text>
     <mam-lp-paseq>
       <text>׀</text>
     </mam-lp-paseq>
-    <text> אֲרִידָֽתָא׃        </text>
+    <text> אֲרִידָֽתָא׃</text>
+    <mam-shirah-space />
   </verse>
   <verse bcv_str="Esth.9.9">
     <text>וְאֵ֤ת </text>
@@ -655,11 +666,15 @@
     <mam-letter-small>
       <text>שְׁ</text>
     </mam-letter-small>
-    <text>תָּא֙        וְאֵ֣ת </text>
+    <text>תָּא֙</text>
+    <mam-shirah-space />
+    <text>וְאֵ֣ת </text>
     <mam-lp-paseq>
       <text>׀</text>
     </mam-lp-paseq>
-    <text> אֲרִיסַ֔י        וְאֵ֥ת </text>
+    <text> אֲרִיסַ֔י</text>
+    <mam-shirah-space />
+    <text>וְאֵ֥ת </text>
     <mam-lp-paseq>
       <text>׀</text>
     </mam-lp-paseq>
@@ -670,7 +685,8 @@
     <mam-note>
       <text>(בספרים אחרים אֲרִידַ֖י וכך כתוב במגילות רבות)</text>
     </mam-note>
-    <text>        וְאֵ֥ת </text>
+    <mam-shirah-space />
+    <text>וְאֵ֥ת </text>
     <mam-lp-paseq>
       <text>׀</text>
     </mam-lp-paseq>
@@ -682,7 +698,8 @@
     <mam-letter-small>
       <text>זָֽ</text>
     </mam-letter-small>
-    <text>תָא׃        </text>
+    <text>תָא׃</text>
+    <mam-shirah-space />
   </verse>
   <verse bcv_str="Esth.9.10">
     <text>עֲ֠שֶׂ֠רֶת בְּנֵ֨י הָמָ֧ן בֶּֽן־הַמְּדָ֛תָא צֹרֵ֥ר הַיְּהוּדִ֖ים הָרָ֑גוּ וּבַ֨בִּזָּ֔ה לֹ֥א שָׁלְח֖וּ אֶת־יָדָֽם׃</text>

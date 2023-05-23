@@ -4643,14 +4643,7 @@ SPACE
 m,‥,α,(ti),w,o,τ
 SPACE
 α,i,𝓂,y,$,·sh,.
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
+START mam-shirah-space 
 
 9:7 in vtrad vtbhs
 w,:,α,‥,(da),τ,THIN SPACE
@@ -4662,40 +4655,19 @@ START mam-letter-small
 τ,a
 STOP mam-letter-small 
 α
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
+START mam-shirah-space 
 w,:,α,‥,(me),τ,THIN SPACE
 START mam-lp-paseq 
 |
 STOP mam-lp-paseq 
 THIN SPACE,d,·,_,𝓂,l,:,f,(ti),w,o,n.
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
+START mam-shirah-space 
 w,:,α,‥,(me),τ,THIN SPACE
 START mam-lp-paseq 
 |
 STOP mam-lp-paseq 
 THIN SPACE,α,_,σ,:,f,·,a,𝓂,τ,a,α,.
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
+START mam-shirah-space 
 
 9:8 in vtrad vtbhs
 w,:,α,‥,(da),τ,THIN SPACE
@@ -4703,40 +4675,19 @@ START mam-lp-paseq
 |
 STOP mam-lp-paseq 
 THIN SPACE,f,·,w,o,r,a,⟓,τ,a,α
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
+START mam-shirah-space 
 w,:,α,‥,(me),τ,THIN SPACE
 START mam-lp-paseq 
 |
 STOP mam-lp-paseq 
 THIN SPACE,α,:_,d,_,l,:,y,a,(ti),α
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
+START mam-shirah-space 
 w,:,α,‥,(me),τ,THIN SPACE
 START mam-lp-paseq 
 |
 STOP mam-lp-paseq 
 THIN SPACE,α,:_,r,i,y,d,a,𝓂,τ,a,α,.
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
+START mam-shirah-space 
 
 9:9 in vtrad vtbhs
 w,:,α,‥,<,τ,THIN SPACE
@@ -4748,27 +4699,13 @@ START mam-letter-small
 $,·sh,:
 STOP mam-letter-small 
 τ,·,a,α,(p)
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
+START mam-shirah-space 
 w,:,α,‥,⅃,τ,THIN SPACE
 START mam-lp-paseq 
 |
 STOP mam-lp-paseq 
 THIN SPACE,α,:_,r,i,y,σ,_,ƶ,y
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
+START mam-shirah-space 
 w,:,α,‥,(me),τ,THIN SPACE
 START mam-lp-paseq 
 |
@@ -4792,14 +4729,7 @@ v,m,g,y,l,w,τ
 SPACE
 r,v,w,τ,RIGHT PARENTHESIS
 STOP mam-note 
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
+START mam-shirah-space 
 w,:,α,‥,(me),τ,THIN SPACE
 START mam-lp-paseq 
 |
@@ -4813,14 +4743,7 @@ START mam-letter-small
 z,a,𝓂
 STOP mam-letter-small 
 τ,a,α,.
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
-NO-BREAK SPACE
+START mam-shirah-space 
 
 9:10 in vtrad vtbhs
 ʕ,:_,⌕,$,·si,∵,⌕,r,∵,τ
