@@ -81,10 +81,8 @@ SPACE
 h,i,τ,:,v,·,w,o,n,a,𝓂,n.,.
 
 1:4 in vtrad vtbhs
-h,⅃,w,o,y,THIN SPACE
+h,⅃,w,o,y
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 g,·,⅃,w,o,y
 SPACE
@@ -720,10 +718,8 @@ SPACE
 w,i,y,r,𝓂,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
 2:2 in vtrad vtbhs
-w,:,h,a,y,a,⅃,h,THIN SPACE
+w,:,h,a,y,a,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 v,·,:,α,_,x,:_,r,i,⅃,y,τ
 SPACE
@@ -760,10 +756,8 @@ r,_,v,·,i,◆,y,m.
 SPACE
 w,:,α,a,𝓂,m,:,r,w,·,(p)
 SPACE
-l,:,k,⅃,w,·,THIN SPACE
+l,:,k,⅃,w,·
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 w,:,n,_,ʕ,:_,l,∵,⅃,h
 SPACE
@@ -1316,11 +1310,9 @@ y,i,$,·si,·,a,α,(tq)
 SPACE
 v,_,y,·,(qa),w,o,m.
 SPACE
-h,_,h,<,w,·,α,THIN SPACE
+h,_,h,<,w,·,α
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,l,‥,α,m,o,r,(p)
+l,‥,α,m,o,r,(p)
 SPACE
 l,o,α,-,α,∵,h,:,y,∵,⅃,h
 SPACE
@@ -1768,10 +1760,8 @@ SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 4:3 in vtrad vtbhs
-w,:,h,a,y,a,⅃,h,THIN SPACE
+w,:,h,a,y,a,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 h,_,n,·,i,$,·sh,:,α,a,⅃,r
 SPACE
@@ -1794,10 +1784,8 @@ SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
 4:4 in vtrad vtbhs
-α,i,⅃,m.,THIN SPACE
+α,i,⅃,m.
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 r,a,x,_,⅃,ц.
 SPACE
@@ -1838,11 +1826,9 @@ h,_,r,-,ц,i,y,·,(ge),w,o,n.
 SPACE
 w,:,ʕ,_,l,-,m,i,q,:,r,a,α,∵,◆,h,a
 SPACE
-ʕ,a,n,a,<,n.,THIN SPACE
+ʕ,a,n,a,<,n.
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,y,w,o,m,a,m.,(p)
+y,w,o,m,a,m.,(p)
 SPACE
 w,:,ʕ,a,$,·sh,a,ƶ,n.
 SPACE
@@ -2316,11 +2302,9 @@ x,_,θ,·,a,α,a,𝓂,h,.
 5:19 in vtrad vtbhs
 h,a,α,o,m,:,r,i,◆,y,m.
 SPACE
-y,:,m,_,h,‥,(da),r,THIN SPACE
+y,:,m,_,h,‥,(da),r
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,y,a,x,i,⟓,y,$,·sh,a,h
+y,a,x,i,⟓,y,$,·sh,a,h
 SPACE
 m,_,ʕ,:_,$,·si,‥,(ti),h,w,·
 SPACE
@@ -2676,11 +2660,9 @@ SPACE
 6:2 in vtrad vtbhs
 $,·si,:,r,a,f,i,(qa),y,m.
 SPACE
-ʕ,o,m,:,d,i,<,y,m.,THIN SPACE
+ʕ,o,m,:,d,i,<,y,m.
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,m,i,m,·,_,(p),ʕ,_,l,(p)
+m,i,m,·,_,(p),ʕ,_,l,(p)
 SPACE
 l,ƶ,w,o
 SPACE
@@ -2694,10 +2676,8 @@ k,·,:,n,a,f,_,(ti),y,i,m.
 SPACE
 l,:,α,∵,x,a,⅄,d
 SPACE
-v,·,i,$,·sh,:,τ,·,_,⅃,y,i,m.,THIN SPACE
+v,·,i,$,·sh,:,τ,·,_,⅃,y,i,m.
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 y,:,k,_,σ,·,∵,⅃,h
 SPACE
@@ -2722,11 +2702,9 @@ SPACE
 SPACE
 w,:,α,a,m,_,ƶ,r
 SPACE
-q,a,d,(da),w,o,$,·sh,THIN SPACE
+q,a,d,(da),w,o,$,·sh
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,q,a,d,⟓,w,o,$,·sh
+q,a,d,⟓,w,o,$,·sh
 SPACE
 q,a,d,(ti),w,o,$,·sh
 SPACE
@@ -3431,10 +3409,8 @@ SPACE
 START mam-spi-pe 
 
 7:18 in vtrad vtbhs
-w,:,h,a,y,a,⅃,h,THIN SPACE
+w,:,h,a,y,a,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -3732,10 +3708,8 @@ SPACE
 SPACE
 w,:,α,i,m,·,i,⅄,y
 SPACE
-y,i,$,·si,·,a,⅃,α,THIN SPACE
+y,i,$,·si,·,a,⅃,α
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 α,∵,τ,-,x,‥,⅃,y,l
 SPACE
@@ -4258,10 +4232,8 @@ SPACE
 $,·sh,a,l,a,𝓂,l,.
 
 9:3 in vtrad vtbhs
-k,·,i,⅃,y,THIN SPACE
+k,·,i,⅃,y
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 α,∵,τ,-,ʕ,o,⅃,l
 SPACE
@@ -4550,10 +4522,8 @@ m,:,v,u,l,·,a,ʕ,i,𝓂,y,m.,.
 SPACE
 ʕ,_,l,-,v,·,_,x,w,·,r,a,(ge),y,w
 SPACE
-l,o,α,-,y,i,$,·si,:,m,_,⅃,x,THIN SPACE
+l,o,α,-,y,i,$,·si,:,m,_,⅃,x
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 α,:_,d,o,n,a,◆,y
 SPACE
@@ -4977,10 +4947,8 @@ k,·,i,⅃,y
 SPACE
 n,:,v,u,n,⅄,w,o,τ,i,y
 SPACE
-w,:,α,a,σ,i,⅃,y,r,THIN SPACE
+w,:,α,a,σ,i,⅃,y,r
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 g,·,:,v,w,·,l,o,⅃,τ
 SPACE
@@ -5007,11 +4975,9 @@ y,𝓂,w,o,$,·sh,:,v,i,𝓂,y,m.,.
 10:14 in vtrad vtbhs
 w,_,τ,·,i,m,:,ц,a,(qa),α
 SPACE
-k,_,q,·,‥,<,n.,THIN SPACE
+k,_,q,·,‥,<,n.
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,y,a,d,i,y,(p)
+y,a,d,i,y,(p)
 SPACE
 l,:,x,‥,⅃,y,l
 SPACE
@@ -5159,10 +5125,8 @@ y,i,k,:,τ,·,:,v,‥,𝓂,m.,.
 START mam-spi-samekh 
 
 10:20 in vtrad vtbhs
-w,:,h,a,y,a,⅃,h,THIN SPACE
+w,:,h,a,y,a,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -5332,10 +5296,8 @@ SPACE
 m,i,ц,:,r,a,𝓂,y,i,m.,.
 
 10:27 in vtrad vtbhs
-w,:,h,a,y,a,⅃,h,THIN SPACE
+w,:,h,a,y,a,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -5726,10 +5688,8 @@ k,·,a,v,𝓂,w,o,d,.
 START mam-spi-pe 
 
 11:11 in vtrad vtbhs
-w,:,h,a,y,a,⅃,h,THIN SPACE
+w,:,h,a,y,a,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -5737,11 +5697,9 @@ h,_,h,◆,w,·,α
 SPACE
 y,w,o,σ,i,(qa),y,f.
 SPACE
-α,:_,d,o,n,a,<,y,THIN SPACE
+α,:_,d,o,n,a,<,y
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,$,·sh,‥,n,i,y,τ,(p)
+$,·sh,‥,n,i,y,τ,(p)
 SPACE
 y,a,d,ƶ,w,o
 SPACE
@@ -6180,10 +6138,8 @@ SPACE
 y,i,m,·,a,𝓂,σ,.
 
 13:8 in vtrad vtbhs
-w,:,𝓂,n,i,v,:,h,a,(sh),l,w,·,THIN SPACE
+w,:,𝓂,n,i,v,:,h,a,(sh),l,w,·
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 ц,i,y,r,i,<,y,m.
 SPACE
@@ -7333,10 +7289,8 @@ SPACE
 SPACE
 $,·sh,:,l,i,$,·sh,i,y,·,a,⅄,h
 SPACE
-k,·,i,⅃,y,THIN SPACE
+k,·,i,⅃,y
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 m,_,ʕ,:_,l,‥,⅃,h
 SPACE
@@ -7990,10 +7944,8 @@ v,·,_,y,·,(qa),w,o,m.
 SPACE
 h,_,h,(ge),w,·,α
 SPACE
-y,i,𝓂,h,:,y,⅃,w,·,THIN SPACE
+y,i,𝓂,h,:,y,⅃,w,·
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 ʕ,a,r,‥,⅃,y
 SPACE
@@ -8188,10 +8140,8 @@ w,·,v,i,k,:,l,‥,y,-,g,o,≁,m,∵,α,~
 SPACE
 ʕ,_,l,-,f,·,:,n,‥,y,-,m,_,∴,y,i,m.,∴
 SPACE
-l,:,k,⅃,w,·,THIN SPACE
+l,:,k,⅃,w,·
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 m,_,l,:,α,a,k,i,⅃,y,m.
 SPACE
@@ -8364,10 +8314,8 @@ m,i,n.,-,h,⅃,w,·,α
 SPACE
 w,a,h,a,⅄,l,:,α,a,h
 SPACE
-g,·,⅃,w,o,y,THIN SPACE
+g,·,⅃,w,o,y
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 q,_,w,-,q,a,⅃,w
 SPACE
@@ -8718,10 +8666,8 @@ m,i,ц,:,r,_,(ti),y,i,m.
 SPACE
 k,·,_,n,·,a,$,·sh,i,⅄,y,m.
 SPACE
-w,:,x,a,r,_,⅃,d,THIN SPACE
+w,:,x,a,r,_,⅃,d
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 w,·,f,a,x,_,◆,d
 SPACE
@@ -9205,17 +9151,13 @@ q,a,$,·sh,a,(ti),h
 SPACE
 h,u,g,·,_,d,-,l,i,⅄,y
 SPACE
-h,_,v,·,w,o,g,‥,<,d,THIN SPACE
+h,_,v,·,w,o,g,‥,<,d
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,v,·,w,o,g,‥,d,(p)
+v,·,w,o,g,‥,d,(p)
 SPACE
-w,:,h,_,$,·sh,·,w,o,d,‥,⅃,d,THIN SPACE
+w,:,h,_,$,·sh,·,w,o,d,‥,⅃,d
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,$,·sh,w,o,d,‥,ƶ,d
+$,·sh,w,o,d,‥,ƶ,d
 SPACE
 ʕ,:_,l,i,<,y
 SPACE
@@ -9348,10 +9290,8 @@ w,_,y,·,i,q,:,r,a,(ti),α
 SPACE
 α,_,r,:,y,‥,⅄,h
 SPACE
-ʕ,_,l,-,m,i,ц,:,f,·,∵,⅃,h,THIN SPACE
+ʕ,_,l,-,m,i,ц,:,f,·,∵,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 α,:_,d,o,n,a,◆,y
 SPACE
@@ -9508,10 +9448,8 @@ x,:_,r,a,v,(ti),w,o,τ
 SPACE
 n,a,d,a,⅄,d,w,·
 SPACE
-m,i,f,·,:,n,‥,⅃,y,THIN SPACE
+m,i,f,·,:,n,‥,⅃,y
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 x,∵,⅃,r,∵,v
 SPACE
@@ -9591,10 +9529,8 @@ SPACE
 l,_,g,·,_,g,·,𝓂,w,o,τ,.
 
 22:2 in vtrad vtbhs
-τ,·,:,$,·sh,u,α,⅃,w,o,τ,THIN SPACE
+τ,·,:,$,·sh,u,α,⅃,w,o,τ
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 m,:,l,‥,α,a,◆,h
 SPACE
@@ -9779,10 +9715,8 @@ SPACE
 h,_,x,w,o,m,a,𝓂,h,.
 
 22:11 in vtrad vtbhs
-w,·,m,i,q,:,w,a,⅃,h,THIN SPACE
+w,·,m,i,q,:,w,a,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 ʕ,:_,$,·si,i,y,τ,∵,◆,m.
 SPACE
@@ -9834,20 +9768,16 @@ SPACE
 $,·si,a,𝓂,q,.
 
 22:13 in vtrad vtbhs
-w,:,h,i,n,·,‥,⅃,h,THIN SPACE
+w,:,h,i,n,·,‥,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 $,·si,a,$,·si,⅃,w,o,n.
 SPACE
 w,:,$,·si,i,m,:,x,a,◆,h
 SPACE
-h,a,r,o,<,g,THIN SPACE
+h,a,r,o,<,g
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,v,·,a,q,a,r,(p)
+v,·,a,q,a,r,(p)
 SPACE
 w,:,$,·sh,a,x,o,⅃,θ
 SPACE
@@ -10097,10 +10027,8 @@ w,:,τ,a,l,(qa),w,·
 SPACE
 ʕ,a,l,a,(ge),y,w
 SPACE
-k,·,o,⅃,l,THIN SPACE
+k,·,o,⅃,l
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 k,·,:,v,⅃,w,o,d
 SPACE
@@ -10169,10 +10097,8 @@ m,_,$,·si,·,a,(ti),α
 SPACE
 ц,o,⅄,r
 SPACE
-h,‥,y,l,i,⅃,y,l,w,·,THIN SPACE
+h,‥,y,l,i,⅃,y,l,w,·
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 α,:a,n,i,y,·,⅃,w,o,τ
 SPACE
@@ -10408,10 +10334,8 @@ SPACE
 l,a,𝓂,k.,:,.
 
 23:13 in vtrad vtbhs
-h,‥,⅃,n.,THIN SPACE
+h,‥,⅃,n.
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 α,∵,⅃,r,∵,ц.
 SPACE
@@ -10526,10 +10450,8 @@ SPACE
 23:17 in vtrad vtbhs
 w,:,h,a,y,a,(G),h
 SPACE
-m,i,q,·,‥,⅃,ц.,THIN SPACE
+m,i,q,·,‥,⅃,ц.
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 $,·sh,i,v,:,ʕ,i,⅃,y,m.
 SPACE
@@ -10646,19 +10568,15 @@ SPACE
 v,𝓂,w,o,.
 
 24:3 in vtrad vtbhs
-h,i,v,·,(da),w,o,q,THIN SPACE
+h,i,v,·,(da),w,o,q
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,τ,·,i,v,·,⟓,w,o,q
+τ,·,i,v,·,⟓,w,o,q
 SPACE
 h,a,α,a,(ti),r,∵,ц.
 SPACE
-w,:,h,i,v,·,⅃,w,o,z,THIN SPACE
+w,:,h,i,v,·,⅃,w,o,z
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,τ,·,i,v,·,o,⅄,z
+τ,·,i,v,·,o,⅄,z
 SPACE
 k,·,i,⅃,y
 SPACE
@@ -11243,11 +11161,9 @@ v,·,a,h,a,⅃,r
 SPACE
 h,_,z,·,∵,ƶ,h
 SPACE
-f,·,:,n,‥,𝓂,y,-,h,_,l,·,(me),w,o,θ,THIN SPACE
+f,·,:,n,‥,𝓂,y,-,h,_,l,·,(me),w,o,θ
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,h,_,l,·,(ti),w,o,θ
+h,_,l,·,(ti),w,o,θ
 SPACE
 ʕ,_,l,-,k,·,oa,l,-,h,a,ʕ,_,m,·,i,⅄,y,m.
 SPACE
@@ -11445,11 +11361,9 @@ SPACE
 SPACE
 τ,·,i,ц,·,o,(ti),r
 SPACE
-$,·sh,a,l,⅃,w,o,m.,THIN SPACE
+$,·sh,a,l,⅃,w,o,m.
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,$,·sh,a,l,⅄,w,o,m.
+$,·sh,a,l,⅄,w,o,m.
 SPACE
 k,·,i,(me),y
 SPACE
@@ -12035,10 +11949,8 @@ h,a,σ,i,⅃,r
 SPACE
 x,_,θ,·,a,α,τ,⅄,w,o
 SPACE
-v,·,:,$,·si,w,·,m,⅃,w,o,THIN SPACE
+v,·,:,$,·si,w,·,m,⅃,w,o
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 k,·,oa,l,-,α,_,v,:,n,‥,⅃,y
 SPACE
@@ -12154,10 +12066,8 @@ y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 START mam-spi-pe 
 
 27:13 in vtrad vtbhs
-w,:,h,a,y,a,⅃,h,THIN SPACE
+w,:,h,a,y,a,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -12465,10 +12375,8 @@ SPACE
 h,_,z,·,∵,𝓂,h,.
 
 28:12 in vtrad vtbhs
-α,:_,$,·sh,∵,⅃,r,THIN SPACE
+α,:_,$,·sh,∵,⅃,r
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -14219,10 +14127,8 @@ SPACE
 w,·,v,_,m,·,i,z,:,r,∵,𝓂,h,.
 
 30:25 in vtrad vtbhs
-w,:,h,a,y,a,⅃,h,THIN SPACE
+w,:,h,a,y,a,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 ʕ,_,l,-,k,·,oa,l,-,h,_,⅃,r
 SPACE
@@ -14614,11 +14520,9 @@ k,·,i,⅃,y
 SPACE
 k,o,⅃,h
 SPACE
-α,a,𝓂,m,_,r,-,y,:,h,o,w,a,⅃,h,THIN SPACE
+α,a,𝓂,m,_,r,-,y,:,h,o,w,a,⅃,h
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,α,‥,l,_,μ,y
+α,‥,l,_,μ,y
 SPACE
 k,·,_,α,:_,$,·sh,∵,⅃,r
 SPACE
@@ -15452,10 +15356,8 @@ r,:,ʕ,a,d,a,(ti),h
 SPACE
 x,:_,n,‥,f,i,⅄,y,m.
 SPACE
-m,i,⅃,y,THIN SPACE
+m,i,⅃,y
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 y,a,g,⅃,w,·,r
 SPACE
@@ -16406,10 +16308,8 @@ w,_,𝓂,y,·,i,τ,:,f,·,:,$,·si,‥,𝓂,m.,.
 36:2 in vtrad vtbhs
 w,_,y,·,i,$,·sh,:,l,_,(me),x
 SPACE
-m,∵,𝓂,l,∵,k.,:,-,α,_,$,·sh,·,⅃,w,·,r,THIN SPACE
+m,∵,𝓂,l,∵,k.,:,-,α,_,$,·sh,·,⅃,w,·,r
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 α,∵,τ,-,r,_,v,:,$,·sh,a,q,‥,(qa),h
 SPACE
@@ -17075,10 +16975,8 @@ SPACE
 SPACE
 α,:_,$,·sh,∵,r,-,ʕ,_,l,-,h,_,v,·,_,(ge),y,i,τ
 SPACE
-w,:,α,‥,⅃,τ,THIN SPACE
+w,:,α,‥,⅃,τ
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 $,·sh,∵,v,:,n,a,⅃,α
 SPACE
@@ -17144,10 +17042,8 @@ y,:,h,o,w,a,(qa),h
 SPACE
 α,:∵,l,o,h,∵,(ge),y,k.,a
 SPACE
-α,‥,⅃,τ,THIN SPACE
+α,‥,⅃,τ
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 d,·,i,v,:,r,‥,⅃,y
 SPACE
@@ -17157,11 +17053,9 @@ SPACE
 SPACE
 $,·sh,:,l,a,x,(qa),w,o
 SPACE
-m,∵,l,∵,k.,:,-,α,_,$,·sh,·,<,w,·,r,THIN SPACE
+m,∵,l,∵,k.,:,-,α,_,$,·sh,·,<,w,·,r
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,α,:_,d,o,n,a,y,w,(p)
+α,:_,d,o,n,a,y,w,(p)
 SPACE
 l,:,x,a,r,‥,f.,(p)
 SPACE
@@ -17215,10 +17109,8 @@ SPACE
 SPACE
 α,∵,l,-,α,:_,d,o,n,‥,y,k,∵,⅄,m.
 SPACE
-k,·,o,⅃,h,THIN SPACE
+k,·,o,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -17355,10 +17247,8 @@ SPACE
 α,_,$,·sh,·,𝓂,w,·,r,.
 
 37:11 in vtrad vtbhs
-h,i,n,·,‥,⅃,h,THIN SPACE
+h,i,n,·,‥,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 α,_,τ,·,a,⅃,h
 SPACE
@@ -17499,11 +17389,9 @@ w,:,α,∵,τ,-,h,a,α,a,𝓂,r,∵,ц.,.
 37:17 in vtrad vtbhs
 h,_,θ,·,‥,(qa),h
 SPACE
-y,:,h,o,w,a,<,h,THIN SPACE
+y,:,h,o,w,a,<,h
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,α,oa,z,:,n,:,k.,a,(p)
+α,oa,z,:,n,:,k.,a,(p)
 SPACE
 w,·,𝓂,$,·sh,:,m,a,ƶ,ʕ
 SPACE
@@ -17690,11 +17578,9 @@ v,·,:,y,_,⅃,d
 SPACE
 ʕ,:_,v,a,d,∵,≁,y,k.,a,~
 SPACE
-x,‥,r,_,⅃,f,:,τ,·,a,THIN SPACE
+x,‥,r,_,⅃,f,:,τ,·,a
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,α,:_,d,o,n,a,y,∴
+α,:_,d,o,n,a,y,∴
 SPACE
 w,_,τ,·,o,◆,α,m,∵,r
 SPACE
@@ -18016,10 +17902,8 @@ SPACE
 START mam-spi-samekh 
 
 37:36 in vtrad vtbhs
-w,_,y,·,‥,ц,‥,⅃,α,THIN SPACE
+w,_,y,·,‥,ц,‥,⅃,α
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 m,_,l,:,α,_,⅃,k.,:
 SPACE
@@ -18073,10 +17957,8 @@ h,(qa),w,·,α
 SPACE
 m,i,𝓂,$,·sh,:,τ,·,_,x,:_,w,∵,(ge),h
 SPACE
-v,·,‥,⅃,y,τ,THIN SPACE
+v,·,‥,⅃,y,τ
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 n,i,σ,:,r,o,⅃,k.,:
 SPACE
@@ -18666,10 +18548,8 @@ w,:,α,∵,τ,-,h,_,z,·,a,h,a,(qa),v
 SPACE
 w,:,α,∵,τ,-,h,_,v,·,:,$,·si,a,m,i,(ge),y,m.
 SPACE
-w,:,α,‥,⅃,τ,THIN SPACE
+w,:,α,‥,⅃,τ
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 h,_,$,·sh,·,∵,⅃,m,∵,n.
 SPACE
@@ -18721,10 +18601,8 @@ SPACE
 SPACE
 m,a,(me),h
 SPACE
-α,a,m,:,r,⅃,w,·,THIN SPACE
+α,a,m,:,r,⅃,w,·
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 h,a,α,:_,n,a,$,·sh,i,⅃,y,m.
 SPACE
@@ -18801,10 +18679,8 @@ y,a,m,i,⅃,y,m.
 SPACE
 v,·,a,α,i,y,m.,∴
 SPACE
-w,:,n,i,$,·si,·,a,⅃,α,THIN SPACE
+w,:,n,i,$,·si,·,a,⅃,α
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 k,·,oa,l,-,α,:_,$,·sh,∵,⅃,r
 SPACE
@@ -19495,11 +19371,9 @@ $,·sh,a,m,_,◆,ʕ,:,τ,·,a
 SPACE
 α,:∵,l,o,h,‥,(qa),y
 SPACE
-ʕ,w,o,l,a,<,m.,THIN SPACE
+ʕ,w,o,l,a,<,m.
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,y,:,h,o,w,a,h,(p)
+y,:,h,o,w,a,h,(p)
 SPACE
 v,·,w,o,r,‥,α,(p)
 SPACE
@@ -20091,10 +19965,8 @@ SPACE
 SPACE
 τ,·,i,q,:,r,∵,⅄,y,n,a,h
 SPACE
-h,a,r,i,α,$,·sh,o,n,⅃,w,o,τ,THIN SPACE
+h,a,r,i,α,$,·sh,o,n,⅃,w,o,τ
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 m,a,⅃,h
 SPACE
@@ -20359,11 +20231,9 @@ START mam-spi-pe
 42:5 in vtrad vtbhs
 k,·,o,h,-,α,a,m,_,(G),r
 SPACE
-h,a,α,‥,⅃,l,THIN SPACE
+h,a,α,‥,⅃,l
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,y,:,h,o,w,a,◆,h
+y,:,h,o,w,a,◆,h
 SPACE
 v,·,w,o,r,‥,<,α
 SPACE
@@ -22527,10 +22397,8 @@ SPACE
 START mam-spi-samekh 
 
 45:14 in vtrad vtbhs
-k,·,o,⅃,h,THIN SPACE
+k,·,o,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -23165,10 +23033,8 @@ SPACE
 START mam-spi-samekh 
 
 47:1 in vtrad vtbhs
-r,:,d,i,⅃,y,THIN SPACE
+r,:,d,i,⅃,y
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 w,·,$,·sh,:,v,i,⅃,y
 SPACE
@@ -23590,10 +23456,8 @@ y,:,h,w,·,d,a,(ti),h
 SPACE
 y,a,ц,a,⅄,α,w,·
 SPACE
-h,_,𝓂,n,·,i,$,·sh,:,v,·,a,ʕ,i,⅃,y,m.,THIN SPACE
+h,_,𝓂,n,·,i,$,·sh,:,v,·,a,ʕ,i,⅃,y,m.
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 v,·,:,$,·sh,‥,⅃,m.
 SPACE
@@ -24185,10 +24049,8 @@ SPACE
 START mam-spi-samekh 
 
 49:5 in vtrad vtbhs
-w,:,ʕ,_,τ,·,a,⅃,h,THIN SPACE
+w,:,ʕ,_,τ,·,a,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -24327,10 +24189,8 @@ w,_,y,·,i,v,:,x,a,r,∵,𝓂,k.,·,a,.
 START mam-spi-samekh 
 
 49:8 in vtrad vtbhs
-k,·,o,⅃,h,THIN SPACE
+k,·,o,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -24624,10 +24484,8 @@ $,·sh,:,k,w,·,l,a,(ti),h
 SPACE
 w,:,g,_,l,:,m,w,·,d,a,⅄,h
 SPACE
-g,·,o,l,a,⅃,h,THIN SPACE
+g,·,o,l,a,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 w,:,σ,w,·,r,a,◆,h
 SPACE
@@ -24738,10 +24596,8 @@ y,i,m,·,a,l,‥,𝓂,θ,.
 START mam-spi-samekh 
 
 49:25 in vtrad vtbhs
-k,·,i,y,-,k,o,⅃,h,THIN SPACE
+k,·,i,y,-,k,o,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -24804,10 +24660,8 @@ y,_,ʕ,:_,q,o,𝓂,v,.
 START mam-spi-samekh 
 
 50:1 in vtrad vtbhs
-k,·,o,⅃,h,THIN SPACE
+k,·,o,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -24941,10 +24795,8 @@ SPACE
 SPACE
 d,·,a,v,a,⅄,r
 SPACE
-y,a,ʕ,i,⅃,y,r,THIN SPACE
+y,a,ʕ,i,⅃,y,r
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 v,·,_,v,·,o,⅃,q,∵,r
 SPACE
@@ -25091,10 +24943,8 @@ v,·,:,q,⅃,w,o,l
 SPACE
 ʕ,_,v,:,d,·,⅄,w,o
 SPACE
-α,:_,$,·sh,∵,⅃,r,THIN SPACE
+α,:_,$,·sh,∵,⅃,r
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 h,a,l,_,⅃,k.,:
 SPACE
@@ -25130,10 +24980,8 @@ m,:,α,_,z,·,:,r,‥,⅃,y
 SPACE
 z,i,y,q,⅄,w,o,τ
 SPACE
-l,:,k,⅃,w,·,THIN SPACE
+l,:,k,⅃,w,·
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 v,·,:,α,⅃,w,·,r
 SPACE
@@ -25787,10 +25635,8 @@ SPACE
 SPACE
 ц,i,y,·,⅄,w,o,n.
 SPACE
-l,i,v,:,$,·sh,i,⅃,y,THIN SPACE
+l,i,v,:,$,·sh,i,⅃,y
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 v,·,i,g,:,d,‥,⅃,y
 SPACE
@@ -26511,10 +26357,8 @@ SPACE
 y,:,h,o,w,a,𝓂,h,.
 
 54:2 in vtrad vtbhs
-h,_,r,:,x,i,⅃,y,v,i,y,THIN SPACE
+h,_,r,:,x,i,⅃,y,v,i,y
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 m,:,q,⅃,w,o,m.
 SPACE
@@ -27341,10 +27185,8 @@ y,a,v,‥,𝓂,$,·sh,.
 START mam-spi-pe 
 
 56:4 in vtrad vtbhs
-k,·,i,y,-,k,o,⅃,h,THIN SPACE
+k,·,i,y,-,k,o,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -28030,11 +27872,9 @@ STOP mam-kq
 SPACE
 $,·si,:,f,a,τ,a,⅄,y,i,m.
 SPACE
-$,·sh,a,l,(qa),w,o,m.,THIN SPACE
+$,·sh,a,l,(qa),w,o,m.
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,$,·sh,a,l,(ge),w,o,m.
+$,·sh,a,l,(ge),w,o,m.
 SPACE
 l,a,r,a,x,(da),w,o,q
 SPACE
@@ -29231,10 +29071,8 @@ SPACE
 α,∵,l,-,α,:_,r,u,v,·,o,τ,‥,y,h,∵,𝓂,m.,.
 
 60:9 in vtrad vtbhs
-k,·,i,y,-,l,i,⅃,y,THIN SPACE
+k,·,i,y,-,l,i,⅃,y
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 α,i,y,·,i,⅃,y,m.
 SPACE
@@ -29685,10 +29523,8 @@ SPACE
 k,·,oa,l,-,α,:_,v,‥,l,i,𝓂,y,m.,.
 
 61:3 in vtrad vtbhs
-l,a,$,·si,⅃,w,·,m.,THIN SPACE
+l,a,$,·si,⅃,w,·,m.
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 l,_,α,:_,v,‥,l,‥,⅃,y
 SPACE
@@ -29945,10 +29781,8 @@ z,‥,r,w,·,ʕ,∵,⅃,y,h,a
 SPACE
 τ,_,ц,:,m,i,⅄,y,x,_
 SPACE
-k,·,‥,⅃,n.,THIN SPACE
+k,·,‥,⅃,n.
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -30287,10 +30121,8 @@ n,∵,ʕ,:∵,z,a,𝓂,v,a,h,.
 START mam-spi-samekh 
 
 63:1 in vtrad vtbhs
-m,i,y,-,z,∵,⅃,h,THIN SPACE
+m,i,y,-,z,∵,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 v,·,a,⅃,α
 SPACE
@@ -30338,10 +30170,8 @@ SPACE
 v,·,:,g,_,𝓂,τ,.
 
 63:3 in vtrad vtbhs
-f,·,w,·,r,a,⅃,h,THIN SPACE
+f,·,w,·,r,a,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 d,·,a,r,_,⅃,k,:,τ,·,i,y
 SPACE
@@ -30430,11 +30260,9 @@ START mam-spi-samekh
 63:7 in vtrad vtbhs
 x,_,𝓂,σ,:,d,‥,(qa),y
 SPACE
-y,:,h,o,w,a,<,h,THIN SPACE
+y,:,h,o,w,a,<,h
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,α,_,z,:,k,·,i,y,r,(p)
+α,_,z,:,k,·,i,y,r,(p)
 SPACE
 τ,·,:,h,i,l,·,o,⅃,τ
 SPACE
@@ -30482,10 +30310,8 @@ SPACE
 l,:,m,w,o,$,·sh,i,𝓂,y,ʕ,_,.
 
 63:9 in vtrad vtbhs
-v,·,:,𝓂,k,oa,l,-,ц,a,r,a,τ,a,⅃,m.,THIN SPACE
+v,·,:,𝓂,k,oa,l,-,ц,a,r,a,τ,a,⅃,m.
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 START mam-kq 
 START mam-kq-k 
@@ -30551,10 +30377,8 @@ m,o,$,·sh,∵,⅃,h
 SPACE
 ʕ,_,m,·,⅄,w,o
 SPACE
-α,_,y,·,‥,⅃,h,THIN SPACE
+α,_,y,·,‥,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 h,_,𝓂,m,·,_,ʕ,:_,l,‥,⅃,m.
 SPACE
@@ -31181,10 +31005,8 @@ x,‥,y,q,a,𝓂,m.,.
 START mam-spi-samekh 
 
 65:8 in vtrad vtbhs
-k,·,o,⅃,h,THIN SPACE
+k,·,o,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -31332,10 +31154,8 @@ START mam-spi-pe
 65:13 in vtrad vtbhs
 l,a,k,‥,(G),n.
 SPACE
-k,·,o,𝓂,h,-,α,a,m,_,⅃,r,THIN SPACE
+k,·,o,𝓂,h,-,α,a,m,_,⅃,r
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -31343,11 +31163,9 @@ y,:∵,h,o,w,i,◆,h
 SPACE
 h,i,n,·,‥,(qa),h
 SPACE
-ʕ,:_,v,a,d,_,<,y,THIN SPACE
+ʕ,:_,v,a,d,_,<,y
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,y,o,α,k,‥,(p),l,w,·,(p)
+y,o,α,k,‥,(p),l,w,·,(p)
 SPACE
 w,:,α,_,τ,·,∵,⅃,m.
 SPACE
@@ -32009,10 +31827,8 @@ k,·,:,v,w,o,d,a,𝓂,h,·,.
 START mam-spi-samekh 
 
 66:12 in vtrad vtbhs
-k,·,i,y,-,k,o,⅃,h,THIN SPACE
+k,·,i,y,-,k,o,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -32196,11 +32012,9 @@ SPACE
 SPACE
 w,:,$,·sh,i,l,·,_,x,:,τ,·,i,⅃,y
 SPACE
-m,‥,h,∵,⅃,m.,THIN SPACE
+m,‥,h,∵,⅃,m.
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,f,·,:,⌕,l,‥,y,θ,i,⌕,y,m.
+f,·,:,⌕,l,‥,y,θ,i,⌕,y,m.
 SPACE
 α,∵,𝓂,l,-,h,_,g,·,w,o,y,i,(G),m.
 SPACE
@@ -32243,15 +32057,11 @@ w,:,h,‥,v,i,⅃,y,α,w,·
 SPACE
 α,∵,τ,-,k,·,oa,l,-,α,:_,x,‥,y,k,∵,⅃,m.
 SPACE
-m,i,k,·,oa,l,-,h,_,g,·,w,o,y,i,⅃,m.,THIN SPACE
+m,i,k,·,oa,l,-,h,_,g,·,w,o,y,i,⅃,m.
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,m,i,n,:,x,a,⅃,h,THIN SPACE
+m,i,n,:,x,a,⅃,h
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,l,_,y,h,o,w,a,μ,h
+l,_,y,h,o,w,a,μ,h
 SPACE
 v,·,_,σ,·,w,·,σ,i,μ,y,m.
 SPACE

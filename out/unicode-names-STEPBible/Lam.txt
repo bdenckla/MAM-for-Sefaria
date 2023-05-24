@@ -1,9 +1,7 @@
 unicode_names Lamentations
 1:1 in vtrad vtbhs
-α,‥,y,k,a,⅃,h,THIN SPACE
+α,‥,y,k,a,⅃,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 y,a,$,·sh,:,v,a,⅃,h
 SPACE
@@ -473,11 +471,9 @@ START mam-spi-samekh
 1:15 in vtrad vtbhs
 σ,i,l,·,a,(qa),h
 SPACE
-k,oa,l,-,α,_,v,·,i,y,r,_,<,y,THIN SPACE
+k,oa,l,-,α,_,v,·,i,y,r,_,<,y
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,α,:_,d,o,n,a,y,(p)
+α,:_,d,o,n,a,y,(p)
 SPACE
 v,·,:,q,i,r,:,v,·,i,ƶ,y
 SPACE
@@ -503,20 +499,16 @@ v,·,_,τ,-,y,:,h,w,·,d,a,𝓂,h,.
 START mam-spi-samekh 
 
 1:16 in vtrad vtbhs
-ʕ,_,l,-,α,‥,⅃,l,·,∵,h,THIN SPACE
+ʕ,_,l,-,α,‥,⅃,l,·,∵,h
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 α,:_,n,i,⅃,y
 SPACE
 v,w,o,k,i,y,·,a,◆,h
 SPACE
-ʕ,‥,y,n,i,<,y,THIN SPACE
+ʕ,‥,y,n,i,<,y
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,ʕ,‥,y,n,i,y,(p)
+ʕ,‥,y,n,i,y,(p)
 SPACE
 y,o,⅃,r,:,d,a,h
 SPACE
@@ -749,11 +741,9 @@ START mam-spi-pe
 SPACE
 y,a,ʕ,i,(qa),y,v
 SPACE
-v,·,:,α,_,f,·,<,w,o,THIN SPACE
+v,·,:,α,_,f,·,<,w,o
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,α,:_,d,o,n,a,y,(p)
+α,:_,d,o,n,a,y,(p)
 SPACE
 α,∵,τ,-,v,·,_,τ,-,ц,i,y,·,ƶ,w,o,n.
 SPACE
@@ -885,11 +875,9 @@ START mam-spi-samekh
 2:5 in vtrad vtbhs
 h,a,y,a,(qa),h
 SPACE
-α,:_,d,o,n,a,<,y,THIN SPACE
+α,:_,d,o,n,a,<,y
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,k,·,:,α,w,o,y,‥,v,(p)
+k,·,:,α,w,o,y,‥,v,(p)
 SPACE
 v,·,i,l,·,_,⅃,ʕ
 SPACE
@@ -925,11 +913,9 @@ m,o,ʕ,:_,d,⅄,w,o
 SPACE
 $,·sh,i,k,·,_,(qa),x
 SPACE
-y,:,h,o,w,a,<,h,THIN SPACE
+y,:,h,o,w,a,<,h
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,v,·,:,ц,i,y,·,w,o,n.,(p)
+v,·,:,ц,i,y,·,w,o,n.,(p)
 SPACE
 m,w,o,ʕ,‥,⅃,d
 SPACE
@@ -947,11 +933,9 @@ START mam-spi-samekh
 2:7 in vtrad vtbhs
 z,a,n,_,(qa),x
 SPACE
-α,:_,d,o,n,a,<,y,THIN SPACE
+α,:_,d,o,n,a,<,y
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,m,i,z,:,v,·,:,x,w,o,(p)
+m,i,z,:,v,·,:,x,w,o,(p)
 SPACE
 n,i,α,‥,⅃,r
 SPACE
@@ -979,11 +963,9 @@ START mam-spi-samekh
 2:8 in vtrad vtbhs
 x,a,$,·sh,_,(qa),v
 SPACE
-y,:,h,o,w,a,<,h,THIN SPACE
+y,:,h,o,w,a,<,h
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,l,:,h,_,$,·sh,:,x,i,y,τ,(p)
+l,:,h,_,$,·sh,:,x,i,y,τ,(p)
 SPACE
 x,w,o,m,_,⅃,τ
 SPACE
@@ -1342,10 +1324,8 @@ v,·,_,τ,-,ʕ,‥,y,n,‥,𝓂,k.,:,.
 START mam-spi-samekh 
 
 2:19 in vtrad vtbhs
-q,⅃,w,·,m,i,y,THIN SPACE
+q,⅃,w,·,m,i,y
 START mam-lp-legarmeih 
-|
-STOP mam-lp-legarmeih 
 SPACE
 r,o,⅃,n,·,i,y
 SPACE
@@ -3205,11 +3185,9 @@ y,a,m,i,𝓂,y,m.,.
 5:21 in vtrad vtbhs
 h,:_,$,·sh,i,y,v,‥,(qa),n,w,·
 SPACE
-y,:,h,o,w,a,<,h,THIN SPACE
+y,:,h,o,w,a,<,h
 START mam-lp-paseq 
-|
-STOP mam-lp-paseq 
-THIN SPACE,α,‥,l,∵,(p),y,k.,a,(p)
+α,‥,l,∵,(p),y,k.,a,(p)
 SPACE
 START mam-kq 
 START mam-kq-k 
