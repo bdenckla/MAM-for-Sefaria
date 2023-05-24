@@ -1414,18 +1414,16 @@
     <mam-spi-samekh />
   </verse>
   <verse bcv_str="Num.10.35">
-    <mam-spi-invnun>
-      <text>׆</text>
-    </mam-spi-invnun>
-    <text> וַיְהִ֛י בִּנְסֹ֥עַ הָאָרֹ֖ן וַיֹּ֣אמֶר מֹשֶׁ֑ה קוּמָ֣ה</text>
+    <mam-spi-invnun />
+    <mam-spi-sam3-nu10-invnun-neighbor />
+    <text>וַיְהִ֛י בִּנְסֹ֥עַ הָאָרֹ֖ן וַיֹּ֣אמֶר מֹשֶׁ֑ה קוּמָ֣ה</text>
     <mam-lp-legarmeih />
     <text> יְהֹוָ֗ה וְיָפֻ֙צוּ֙ אֹֽיְבֶ֔יךָ וְיָנֻ֥סוּ מְשַׂנְאֶ֖יךָ מִפָּנֶֽיךָ׃</text>
   </verse>
   <verse bcv_str="Num.10.36">
-    <text>וּבְנֻחֹ֖ה יֹאמַ֑ר שׁוּבָ֣ה יְהֹוָ֔ה רִֽבְב֖וֹת אַלְפֵ֥י יִשְׂרָאֵֽל׃ </text>
-    <mam-spi-invnun>
-      <text>׆</text>
-    </mam-spi-invnun>
+    <text>וּבְנֻחֹ֖ה יֹאמַ֑ר שׁוּבָ֣ה יְהֹוָ֔ה רִֽבְב֖וֹת אַלְפֵ֥י יִשְׂרָאֵֽל׃</text>
+    <mam-spi-sam3-nu10-invnun-neighbor />
+    <mam-spi-invnun />
     <mam-spi-pe />
   </verse>
   <verse bcv_str="Num.11.1">

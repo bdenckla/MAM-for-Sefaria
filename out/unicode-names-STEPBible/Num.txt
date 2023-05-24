@@ -9495,9 +9495,7 @@ START mam-spi-samekh
 
 10:35 in vtrad vtbhs
 START mam-spi-invnun 
-HPU NUN HAFUKHA
-STOP mam-spi-invnun 
-NO-BREAK SPACE
+START mam-spi-sam3-nu10-invnun-neighbor 
 w,_,y,:,h,i,⟓,y
 SPACE
 v,·,i,n,:,σ,o,(me),ʕ,_
@@ -9537,10 +9535,8 @@ SPACE
 α,_,l,:,f,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-NO-BREAK SPACE
+START mam-spi-sam3-nu10-invnun-neighbor 
 START mam-spi-invnun 
-HPU NUN HAFUKHA
-STOP mam-spi-invnun 
 START mam-spi-pe 
 
 11:1 in vtrad vtbhs
