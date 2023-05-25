@@ -70,7 +70,7 @@ SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
 l,:,h,i,v,·,a,n,𝓂,w,o,τ,.
-START mam-spi-pe2 
+START spi-pe2 
 
 1:3 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,(p)
@@ -149,7 +149,7 @@ SPACE
 α,∵,l,-,ц,:,r,(me),w,o,r
 SPACE
 n,a,q,𝓂,w,·,v,.
-START mam-spi-pe2 
+START spi-pe2 
 
 1:7 in vtrad vtbhs
 k,·,o,(me),h
@@ -181,15 +181,15 @@ h,_,v,·,a,⅄,y,i,τ
 SPACE
 w,:,α,∵,r,:,ц,∵,h,-,v,·,(me),w,o
 SPACE
-START mam-kq 
-START mam-kq-k 
+START kq 
+START kq-k 
 LEFT PARENTHESIS,w,α,k,v,d,RIGHT PARENTHESIS
-STOP mam-kq-k 
+STOP kq-k 
 SPACE
-START mam-kq-q 
+START kq-q 
 LEFT SQUARE BRACKET,w,:,α,∵,k,·,a,v,:,d,a,(ti),h,RIGHT SQUARE BRACKET
-STOP mam-kq-q 
-STOP mam-kq 
+STOP kq-q 
+STOP kq 
 SPACE
 α,a,m,_,(me),r
 SPACE
@@ -287,13 +287,13 @@ SPACE
 k,·,oa,l,-,y,:,g,i,(me),y,ʕ,_
 SPACE
 k,·,_,f,·,a,𝓂,y,i,m.,.
-START mam-spi-pe2 
+START spi-pe2 
 
 1:12 in vtrad vtbhs
 w,_,y,·,i,$,·sh,:,m,_,⅃,ʕ
 SPACE
 z,:,r,u,v,·,a,v,∵,⅃,l
-START mam-lp-paseq 
+START lp-paseq 
 v,·,∵,𝓂,n.,-,$,·sh,_,l,:,τ,·,i,y,α,‥,μ,l
 SPACE
 w,i,y,h,w,o,$,·sh,u,⅃,ʕ,_
@@ -305,7 +305,7 @@ SPACE
 h,_,g,·,a,d,(ge),w,o,l
 SPACE
 w,:,k,o,⅃,l
-START mam-lp-legarmeih 
+START lp-legarmeih 
 SPACE
 $,·sh,:,α,‥,r,i,⅃,y,τ
 SPACE
@@ -406,7 +406,7 @@ SPACE
 ц,:,v,a,α,(ti),w,o,τ
 SPACE
 α,:∵,l,o,h,‥,y,h,∵,𝓂,m.,.
-START mam-spi-pe2 
+START spi-pe2 
 
 1:15 in vtrad vtbhs
 v,·,:,y,(qa),w,o,m.
@@ -514,7 +514,7 @@ SPACE
 x,:_,z,_,⅃,q
 SPACE
 z,:,r,u,v,·,a,v,∵,⅃,l
-START mam-lp-paseq 
+START lp-paseq 
 n,:,α,u,m.,-,y,:,h,o,w,a,μ,h
 SPACE
 w,_,x,:_,z,_,⅃,q
@@ -565,7 +565,7 @@ SPACE
 v,·,:,τ,w,o,k,:,k,∵,⅄,m.
 SPACE
 α,_,l,-,τ,·,i,y,r,a,𝓂,α,w,·,.
-START mam-spi-pe2 
+START spi-pe2 
 
 2:6 in vtrad vtbhs
 k,·,i,⅃,y
@@ -672,7 +672,7 @@ SPACE
 y,:,h,o,w,a,(me),h
 SPACE
 ц,:,v,a,α,𝓂,w,o,τ,.
-START mam-spi-pe2 
+START spi-pe2 
 
 2:10 in vtrad vtbhs
 v,·,:,ʕ,∵,$,·si,:,r,i,<,y,m.
@@ -716,7 +716,7 @@ l,‥,α,m,o,𝓂,r,.
 
 2:12 in vtrad vtbhs
 h,‥,⅃,n.
-START mam-lp-legarmeih 
+START lp-legarmeih 
 SPACE
 y,i,$,·si,·,a,α,-,α,i,(qa),y,$,·sh
 SPACE
@@ -934,13 +934,13 @@ SPACE
 h,_,z,·,∵,(ti),h
 SPACE
 α,:_,v,a,r,‥,𝓂,k.,:,.
-START mam-spi-pe2 
+START spi-pe2 
 
 2:20 in vtrad vtbhs
 w,_,y,:,h,i,(qa),y
 SPACE
 d,:,v,_,r,-,y,:,h,o,w,a,<,h
-START mam-lp-paseq 
+START lp-paseq 
 $,·sh,‥,n,i,y,τ,(p)
 SPACE
 α,∵,l,-,x,_,g,·,_,ƶ,y

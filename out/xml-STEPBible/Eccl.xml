@@ -16,7 +16,7 @@
   </verse>
   <verse bcv_str="Eccl.1.6">
     <text text="הוֹלֵךְ֙ אֶל־דָּר֔וֹם וְסוֹבֵ֖ב אֶל־צָפ֑וֹן סוֹבֵ֤ב" />
-    <mam-lp-paseq />
+    <lp-paseq />
     <text text="סֹבֵב֙ הוֹלֵ֣ךְ הָר֔וּחַ וְעַל־סְבִיבֹתָ֖יו שָׁ֥ב הָרֽוּחַ׃" />
   </verse>
   <verse bcv_str="Eccl.1.7">
@@ -33,14 +33,14 @@
   </verse>
   <verse bcv_str="Eccl.1.11">
     <text text="אֵ֥ין זִכְר֖וֹן לָרִאשֹׁנִ֑ים וְגַ֨ם לָאַחֲרֹנִ֜ים שֶׁיִּהְי֗וּ לֹֽא־יִהְיֶ֤ה לָהֶם֙ זִכָּר֔וֹן עִ֥ם שֶׁיִּהְי֖וּ לָאַחֲרֹנָֽה׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Eccl.1.12">
     <text text="אֲנִ֣י קֹהֶ֗לֶת הָיִ֥יתִי מֶ֛לֶךְ עַל־יִשְׂרָאֵ֖ל בִּירוּשָׁלָֽ͏ִם׃" />
   </verse>
   <verse bcv_str="Eccl.1.13">
     <text text="וְנָתַ֣תִּי אֶת־לִבִּ֗י לִדְר֤וֹשׁ וְלָתוּר֙ בַּֽחׇכְמָ֔ה עַ֛ל כׇּל־אֲשֶׁ֥ר נַעֲשָׂ֖ה תַּ֣חַת הַשָּׁמָ֑יִם ה֣וּא" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" עִנְיַ֣ן רָ֗ע נָתַ֧ן אֱלֹהִ֛ים לִבְנֵ֥י הָאָדָ֖ם לַעֲנ֥וֹת בּֽוֹ׃" />
   </verse>
   <verse bcv_str="Eccl.1.14">
@@ -93,7 +93,7 @@
   </verse>
   <verse bcv_str="Eccl.2.12">
     <text text="וּפָנִ֤יתִֽי אֲנִי֙ לִרְא֣וֹת חׇכְמָ֔ה וְהוֹלֵל֖וֹת וְסִכְל֑וּת כִּ֣י" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" מֶ֣ה הָאָדָ֗ם שֶׁיָּבוֹא֙ אַחֲרֵ֣י הַמֶּ֔לֶךְ אֵ֥ת אֲשֶׁר־כְּבָ֖ר עָשֽׂוּהוּ׃" />
   </verse>
   <verse bcv_str="Eccl.2.13">
@@ -140,77 +140,77 @@
   </verse>
   <verse bcv_str="Eccl.3.1">
     <text text="לַכֹּ֖ל זְמָ֑ן וְעֵ֥ת לְכׇל־חֵ֖פֶץ תַּ֥חַת הַשָּׁמָֽיִם׃" />
-    <mam-spi-samekh2 />
+    <spi-samekh2 />
   </verse>
   <verse bcv_str="Eccl.3.2">
     <text text="עֵ֥ת לָלֶ֖דֶת" />
-    <mam-shirah-space />
+    <shirah-space />
     <text text="וְעֵ֣ת לָמ֑וּת" />
-    <mam-shirah-space />
+    <shirah-space />
     <text text="עֵ֣ת לָטַ֔עַת" />
-    <mam-shirah-space />
+    <shirah-space />
     <text text="וְעֵ֖ת לַעֲק֥וֹר נָטֽוּעַ׃" />
-    <mam-shirah-space />
+    <shirah-space />
   </verse>
   <verse bcv_str="Eccl.3.3">
     <text text="עֵ֤ת לַהֲרוֹג֙" />
-    <mam-shirah-space />
+    <shirah-space />
     <text text="וְעֵ֣ת לִרְפּ֔וֹא" />
-    <mam-shirah-space />
+    <shirah-space />
     <text text="עֵ֥ת לִפְר֖וֹץ" />
-    <mam-shirah-space />
+    <shirah-space />
     <text text="וְעֵ֥ת לִבְנֽוֹת׃" />
-    <mam-shirah-space />
+    <shirah-space />
   </verse>
   <verse bcv_str="Eccl.3.4">
     <text text="עֵ֤ת לִבְכּוֹת֙" />
-    <mam-shirah-space />
+    <shirah-space />
     <text text="וְעֵ֣ת לִשְׂח֔וֹק" />
-    <mam-shirah-space />
+    <shirah-space />
     <text text="עֵ֥ת סְפ֖וֹד" />
-    <mam-shirah-space />
+    <shirah-space />
     <text text="וְעֵ֥ת רְקֽוֹד׃" />
-    <mam-shirah-space />
+    <shirah-space />
   </verse>
   <verse bcv_str="Eccl.3.5">
     <text text="עֵ֚ת לְהַשְׁלִ֣יךְ אֲבָנִ֔ים" />
-    <mam-shirah-space />
+    <shirah-space />
     <text text="וְעֵ֖ת כְּנ֣וֹס אֲבָנִ֑ים" />
-    <mam-shirah-space />
+    <shirah-space />
     <text text="עֵ֣ת לַחֲב֔וֹק" />
-    <mam-shirah-space />
+    <shirah-space />
     <text text="וְעֵ֖ת לִרְחֹ֥ק מֵחַבֵּֽק׃" />
-    <mam-shirah-space />
+    <shirah-space />
   </verse>
   <verse bcv_str="Eccl.3.6">
     <text text="עֵ֤ת לְבַקֵּשׁ֙" />
-    <mam-shirah-space />
+    <shirah-space />
     <text text="וְעֵ֣ת לְאַבֵּ֔ד" />
-    <mam-shirah-space />
+    <shirah-space />
     <text text="עֵ֥ת לִשְׁמ֖וֹר" />
-    <mam-shirah-space />
+    <shirah-space />
     <text text="וְעֵ֥ת לְהַשְׁלִֽיךְ׃" />
-    <mam-shirah-space />
+    <shirah-space />
   </verse>
   <verse bcv_str="Eccl.3.7">
     <text text="עֵ֤ת לִקְר֙וֹעַ֙" />
-    <mam-shirah-space />
+    <shirah-space />
     <text text="וְעֵ֣ת לִתְפּ֔וֹר" />
-    <mam-shirah-space />
+    <shirah-space />
     <text text="עֵ֥ת לַחֲשׁ֖וֹת" />
-    <mam-shirah-space />
+    <shirah-space />
     <text text="וְעֵ֥ת לְדַבֵּֽר׃" />
-    <mam-shirah-space />
+    <shirah-space />
   </verse>
   <verse bcv_str="Eccl.3.8">
     <text text="עֵ֤ת לֶֽאֱהֹב֙" />
-    <mam-shirah-space />
+    <shirah-space />
     <text text="וְעֵ֣ת לִשְׂנֹ֔א" />
-    <mam-shirah-space />
+    <shirah-space />
     <text text="עֵ֥ת מִלְחָמָ֖ה" />
-    <mam-shirah-space />
+    <shirah-space />
     <text text="וְעֵ֥ת שָׁלֽוֹם׃" />
-    <mam-spi-samekh2 />
+    <spi-samekh2 />
   </verse>
   <verse bcv_str="Eccl.3.9">
     <text text="מַה־יִּתְרוֹן֙ הָֽעוֹשֶׂ֔ה בַּאֲשֶׁ֖ר ה֥וּא עָמֵֽל׃" />
@@ -256,7 +256,7 @@
   </verse>
   <verse bcv_str="Eccl.4.1">
     <text text="וְשַׁ֣בְתִּֽי אֲנִ֗י וָאֶרְאֶה֙ אֶת־כׇּל־הָ֣עֲשֻׁקִ֔ים אֲשֶׁ֥ר נַעֲשִׂ֖ים תַּ֣חַת הַשָּׁ֑מֶשׁ וְהִנֵּ֣ה" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" דִּמְעַ֣ת הָעֲשֻׁקִ֗ים וְאֵ֤ין לָהֶם֙ מְנַחֵ֔ם וּמִיַּ֤ד עֹֽשְׁקֵיהֶם֙ כֹּ֔חַ וְאֵ֥ין לָהֶ֖ם מְנַחֵֽם׃" />
   </verse>
   <verse bcv_str="Eccl.4.2">
@@ -279,17 +279,17 @@
   </verse>
   <verse bcv_str="Eccl.4.8">
     <text text="יֵ֣שׁ אֶחָד֩ וְאֵ֨ין שֵׁנִ֜י גַּ֣ם בֵּ֧ן וָאָ֣ח אֵֽין־ל֗וֹ וְאֵ֥ין קֵץ֙ לְכׇל־עֲמָל֔וֹ גַּם־" />
-    <mam-kq>
-      <mam-kq-q>
+    <kq>
+      <kq-q>
         <text text="[עֵינ֖וֹ]" />
-      </mam-kq-q>
+      </kq-q>
       <text text=" " />
-      <mam-kq-k>
+      <kq-k>
         <text text="(עיניו)" />
-      </mam-kq-k>
-    </mam-kq>
+      </kq-k>
+    </kq>
     <text text=" לֹא־תִשְׂבַּ֣ע עֹ֑שֶׁר וּלְמִ֣י" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" אֲנִ֣י עָמֵ֗ל וּמְחַסֵּ֤ר אֶת־נַפְשִׁי֙ מִטּוֹבָ֔ה גַּם־זֶ֥ה הֶ֛בֶל וְעִנְיַ֥ן רָ֖ע הֽוּא׃" />
   </verse>
   <verse bcv_str="Eccl.4.9">
@@ -318,15 +318,15 @@
   </verse>
   <verse bcv_str="Eccl.4.17">
     <text text="שְׁמֹ֣ר " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(רגליך)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[רַגְלְךָ֗]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" כַּאֲשֶׁ֤ר תֵּלֵךְ֙ אֶל־בֵּ֣ית הָאֱלֹהִ֔ים וְקָר֣וֹב לִשְׁמֹ֔עַ מִתֵּ֥ת הַכְּסִילִ֖ים זָ֑בַח כִּֽי־אֵינָ֥ם יוֹדְעִ֖ים לַעֲשׂ֥וֹת רָֽע׃" />
   </verse>
   <verse bcv_str="Eccl.5.1">
@@ -352,15 +352,15 @@
   </verse>
   <verse bcv_str="Eccl.5.8">
     <text text="וְיִתְר֥וֹן אֶ֖רֶץ בַּכֹּ֣ל " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(היא)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[ה֑וּא]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" מֶ֥לֶךְ לְשָׂדֶ֖ה נֶעֱבָֽד׃" />
   </verse>
   <verse bcv_str="Eccl.5.9">
@@ -368,15 +368,15 @@
   </verse>
   <verse bcv_str="Eccl.5.10">
     <text text="בִּרְבוֹת֙ הַטּוֹבָ֔ה רַבּ֖וּ אוֹכְלֶ֑יהָ וּמַה־כִּשְׁרוֹן֙ לִבְעָלֶ֔יהָ כִּ֖י אִם־" />
-    <mam-kq>
-      <mam-kq-q>
+    <kq>
+      <kq-q>
         <text text="[רְא֥וּת]" />
-      </mam-kq-q>
+      </kq-q>
       <text text=" " />
-      <mam-kq-k>
+      <kq-k>
         <text text="(ראית)" />
-      </mam-kq-k>
-    </mam-kq>
+      </kq-k>
+    </kq>
     <text text=" עֵינָֽיו׃" />
   </verse>
   <verse bcv_str="Eccl.5.11">
@@ -399,11 +399,11 @@
   </verse>
   <verse bcv_str="Eccl.5.17">
     <text text="הִנֵּ֞ה אֲשֶׁר־רָאִ֣יתִי אָ֗נִי ט֣וֹב אֲשֶׁר־יָפֶ֣ה לֶֽאֱכוֹל־וְ֠לִשְׁתּ֠וֹת וְלִרְא֨וֹת טוֹבָ֜ה בְּכׇל־עֲמָל֣וֹ" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" שֶׁיַּעֲמֹ֣ל תַּֽחַת־הַשֶּׁ֗מֶשׁ מִסְפַּ֧ר יְמֵי־" />
-    <mam-kq-trivial>
+    <kq-trivial>
       <text text="חַיָּ֛ו" />
-    </mam-kq-trivial>
+    </kq-trivial>
     <text text=" אֲשֶׁר־נָֽתַן־ל֥וֹ הָאֱלֹהִ֖ים כִּי־ה֥וּא חֶלְקֽוֹ׃" />
   </verse>
   <verse bcv_str="Eccl.5.18">
@@ -417,12 +417,12 @@
   </verse>
   <verse bcv_str="Eccl.6.2">
     <text text="אִ֣ישׁ אֲשֶׁ֣ר יִתֶּן־ל֣וֹ הָאֱלֹהִ֡ים עֹ֩שֶׁר֩ וּנְכָסִ֨ים וְכָב֜וֹד וְֽאֵינֶ֨נּוּ חָסֵ֥ר לְנַפְשׁ֣וֹ" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" מִכֹּ֣ל אֲשֶׁר־יִתְאַוֶּ֗ה וְלֹֽא־יַשְׁלִיטֶ֤נּוּ הָֽאֱלֹהִים֙ לֶאֱכֹ֣ל מִמֶּ֔נּוּ כִּ֛י אִ֥ישׁ נׇכְרִ֖י יֹֽאכְלֶ֑נּוּ זֶ֥ה הֶ֛בֶל וׇחֳלִ֥י רָ֖ע הֽוּא׃" />
   </verse>
   <verse bcv_str="Eccl.6.3">
     <text text="אִם־יוֹלִ֣יד אִ֣ישׁ מֵאָ֡ה וְשָׁנִים֩ רַבּ֨וֹת יִֽחְיֶ֜ה וְרַ֣ב" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" שֶׁיִּהְי֣וּ יְמֵֽי־שָׁנָ֗יו וְנַפְשׁוֹ֙ לֹא־תִשְׂבַּ֣ע מִן־הַטּוֹבָ֔ה וְגַם־קְבוּרָ֖ה לֹא־הָ֣יְתָה לּ֑וֹ אָמַ֕רְתִּי ט֥וֹב מִמֶּ֖נּוּ הַנָּֽפֶל׃" />
   </verse>
   <verse bcv_str="Eccl.6.4">
@@ -445,15 +445,15 @@
   </verse>
   <verse bcv_str="Eccl.6.10">
     <text text="מַה־שֶּֽׁהָיָ֗ה כְּבָר֙ נִקְרָ֣א שְׁמ֔וֹ וְנוֹדָ֖ע אֲשֶׁר־ה֣וּא אָדָ֑ם וְלֹא־יוּכַ֣ל לָדִ֔ין עִ֥ם " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(שהתקיף)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[שֶׁתַּקִּ֖יף]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" מִמֶּֽנּוּ׃" />
   </verse>
   <verse bcv_str="Eccl.6.11">
@@ -463,9 +463,9 @@
     <text text="כִּ֣י מִֽי־יוֹדֵ֩עַ֩ מַה־טּ֨וֹב לָֽאָדָ֜ם בַּֽחַיִּ֗ים מִסְפַּ֛ר יְמֵי־חַיֵּ֥י הֶבְל֖וֹ וְיַעֲשֵׂ֣ם כַּצֵּ֑ל אֲשֶׁר֙ מִֽי־יַגִּ֣יד לָֽאָדָ֔ם מַה־יִּהְיֶ֥ה אַחֲרָ֖יו תַּ֥חַת הַשָּֽׁמֶשׁ׃" />
   </verse>
   <verse bcv_str="Eccl.7.1">
-    <mam-letter-large>
+    <letter-large>
       <text text="ט֥" />
-    </mam-letter-large>
+    </letter-large>
     <text text="וֹב שֵׁ֖ם מִשֶּׁ֣מֶן ט֑וֹב וְי֣וֹם הַמָּ֔וֶת מִיּ֖וֹם הִוָּלְדֽוֹ׃" />
   </verse>
   <verse bcv_str="Eccl.7.2">
@@ -530,15 +530,15 @@
   </verse>
   <verse bcv_str="Eccl.7.22">
     <text text="כִּ֛י גַּם־פְּעָמִ֥ים רַבּ֖וֹת יָדַ֣ע לִבֶּ֑ךָ אֲשֶׁ֥ר גַּם־" />
-    <mam-kq>
-      <mam-kq-q>
+    <kq>
+      <kq-q>
         <text text="[אַתָּ֖ה]" />
-      </mam-kq-q>
+      </kq-q>
       <text text=" " />
-      <mam-kq-k>
+      <kq-k>
         <text text="(את)" />
-      </mam-kq-k>
-    </mam-kq>
+      </kq-k>
+    </kq>
     <text text=" קִלַּ֥לְתָּ אֲחֵרִֽים׃" />
   </verse>
   <verse bcv_str="Eccl.7.23">
@@ -546,7 +546,7 @@
   </verse>
   <verse bcv_str="Eccl.7.24">
     <text text="רָח֖וֹק מַה־שֶּׁהָיָ֑ה וְעָמֹ֥ק" />
-    <mam-lp-paseq />
+    <lp-paseq />
     <text text="עָמֹ֖ק מִ֥י יִמְצָאֶֽנּוּ׃" />
   </verse>
   <verse bcv_str="Eccl.7.25">
@@ -605,7 +605,7 @@
   </verse>
   <verse bcv_str="Eccl.8.14">
     <text text="יֶשׁ־הֶ֘בֶל֮ אֲשֶׁ֣ר נַעֲשָׂ֣ה עַל־הָאָ֒רֶץ֒ אֲשֶׁ֣ר" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" יֵ֣שׁ צַדִּיקִ֗ים אֲשֶׁ֨ר מַגִּ֤יעַ אֲלֵהֶם֙ כְּמַעֲשֵׂ֣ה הָרְשָׁעִ֔ים וְיֵ֣שׁ רְשָׁעִ֔ים שֶׁמַּגִּ֥יעַ אֲלֵהֶ֖ם כְּמַעֲשֵׂ֣ה הַצַּדִּיקִ֑ים אָמַ֕רְתִּי שֶׁגַּם־זֶ֖ה הָֽבֶל׃" />
   </verse>
   <verse bcv_str="Eccl.8.15">
@@ -625,20 +625,20 @@
   </verse>
   <verse bcv_str="Eccl.9.3">
     <text text="זֶ֣ה" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" רָ֗ע בְּכֹ֤ל אֲשֶֽׁר־נַעֲשָׂה֙ תַּ֣חַת הַשֶּׁ֔מֶשׁ כִּֽי־מִקְרֶ֥ה אֶחָ֖ד לַכֹּ֑ל וְגַ֣ם לֵ֣ב בְּֽנֵי־הָ֠אָדָ֠ם מָלֵא־רָ֨ע וְהוֹלֵל֤וֹת בִּלְבָבָם֙ בְּחַיֵּיהֶ֔ם וְאַחֲרָ֖יו אֶל־הַמֵּתִֽים׃" />
   </verse>
   <verse bcv_str="Eccl.9.4">
     <text text="כִּי־מִי֙ אֲשֶׁ֣ר " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(יבחר)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[יְחֻבַּ֔ר]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" אֶ֥ל כׇּל־הַחַיִּ֖ים יֵ֣שׁ בִּטָּח֑וֹן כִּֽי־לְכֶ֤לֶב חַי֙ ה֣וּא ט֔וֹב מִן־הָאַרְיֵ֖ה הַמֵּֽת׃" />
   </verse>
   <verse bcv_str="Eccl.9.5">
@@ -691,15 +691,15 @@
   </verse>
   <verse bcv_str="Eccl.10.3">
     <text text="וְגַם־בַּדֶּ֛רֶךְ " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(כשהסכל)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[כְּשֶׁסָּכָ֥ל]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" הֹלֵ֖ךְ לִבּ֣וֹ חָסֵ֑ר וְאָמַ֥ר לַכֹּ֖ל סָכָ֥ל הֽוּא׃" />
   </verse>
   <verse bcv_str="Eccl.10.4">
@@ -722,9 +722,9 @@
   </verse>
   <verse bcv_str="Eccl.10.10">
     <text text="אִם־קֵהָ֣ה הַבַּרְזֶ֗ל וְהוּא֙ לֹא־פָנִ֣ים קִלְקַ֔ל וַחֲיָלִ֖ים יְגַבֵּ֑ר וְיִתְר֥וֹן " />
-    <mam-kq-trivial>
+    <kq-trivial>
       <text text="הַכְשֵׁ֖יר" />
-    </mam-kq-trivial>
+    </kq-trivial>
     <text text=" חׇכְמָֽה׃" />
   </verse>
   <verse bcv_str="Eccl.10.11">
@@ -756,15 +756,15 @@
   </verse>
   <verse bcv_str="Eccl.10.20">
     <text text="גַּ֣ם בְּמַדָּֽעֲךָ֗ מֶ֚לֶךְ אַל־תְּקַלֵּ֔ל וּבְחַדְרֵי֙ מִשְׁכָּ֣בְךָ֔ אַל־תְּקַלֵּ֖ל עָשִׁ֑יר כִּ֣י ע֤וֹף הַשָּׁמַ֙יִם֙ יוֹלִ֣יךְ אֶת־הַקּ֔וֹל וּבַ֥עַל " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(הכנפים)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[כְּנָפַ֖יִם]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" יַגֵּ֥יד דָּבָֽר׃" />
   </verse>
   <verse bcv_str="Eccl.11.1">
@@ -814,15 +814,15 @@
   </verse>
   <verse bcv_str="Eccl.12.6">
     <text text="עַ֣ד אֲשֶׁ֤ר לֹֽא־" />
-    <mam-kq>
-      <mam-kq-q>
+    <kq>
+      <kq-q>
         <text text="[יֵרָתֵק֙]" />
-      </mam-kq-q>
+      </kq-q>
       <text text=" " />
-      <mam-kq-k>
+      <kq-k>
         <text text="(ירחק)" />
-      </mam-kq-k>
-    </mam-kq>
+      </kq-k>
+    </kq>
     <text text=" חֶ֣בֶל הַכֶּ֔סֶף וְתָר֖וּץ גֻּלַּ֣ת הַזָּהָ֑ב וְתִשָּׁ֤בֶר כַּד֙ עַל־הַמַּבּ֔וּעַ וְנָרֹ֥ץ הַגַּלְגַּ֖ל אֶל־הַבּֽוֹר׃" />
   </verse>
   <verse bcv_str="Eccl.12.7">
@@ -844,16 +844,16 @@
     <text text="וְיֹתֵ֥ר מֵהֵ֖מָּה בְּנִ֣י הִזָּהֵ֑ר עֲשׂ֨וֹת סְפָרִ֤ים הַרְבֵּה֙ אֵ֣ין קֵ֔ץ וְלַ֥הַג הַרְבֵּ֖ה יְגִעַ֥ת בָּשָֽׂר׃" />
   </verse>
   <verse bcv_str="Eccl.12.13">
-    <mam-letter-large>
+    <letter-large>
       <text text="ס֥" />
-    </mam-letter-large>
+    </letter-large>
     <text text="וֹף דָּבָ֖ר הַכֹּ֣ל נִשְׁמָ֑ע אֶת־הָאֱלֹהִ֤ים יְרָא֙ וְאֶת־מִצְוֺתָ֣יו שְׁמ֔וֹר כִּי־זֶ֖ה כׇּל־הָאָדָֽם׃" />
   </verse>
   <verse bcv_str="Eccl.12.14">
     <text text="כִּ֚י אֶת־כׇּל־מַֽעֲשֶׂ֔ה הָאֱלֹהִ֛ים יָבִ֥א בְמִשְׁפָּ֖ט עַ֣ל כׇּל־נֶעְלָ֑ם אִם־ט֖וֹב וְאִם־רָֽע׃" />
-    <mam-br-before-addendum />
-    <mam-addendum>
+    <br-before-addendum />
+    <addendum>
       <text text="סוף דבר הכל נשמע את האלהים ירא ואת מצותיו שמור כי זה כל האדם" />
-    </mam-addendum>
+    </addendum>
   </verse>
 </book39>

@@ -48,15 +48,15 @@ SPACE
 SPACE
 α,_,f,·,_,(p),y,i,m.,(p)
 SPACE
-START mam-kq 
-START mam-kq-k 
+START kq 
+START kq-k 
 LEFT PARENTHESIS,w,g,d,w,l,RIGHT PARENTHESIS
-STOP mam-kq-k 
+STOP kq-k 
 SPACE
-START mam-kq-q 
+START kq-q 
 LEFT SQUARE BRACKET,w,·,g,:,d,oa,l,-,RIGHT SQUARE BRACKET
-STOP mam-kq-q 
-STOP mam-kq 
+STOP kq-q 
+STOP kq 
 k,·,o,ƶ,x,_
 SPACE
 w,:,n,_,q,·,‥,(ti),h
@@ -68,9 +68,9 @@ SPACE
 y,:,h,o,w,a,◆,h
 SPACE
 v,·,:
-START mam-letter-small 
+START letter-small 
 σ
-STOP mam-letter-small 
+STOP letter-small 
 w,·,f,a,<,h
 SPACE
 w,·,v,i,$,·si,:,ʕ,a,r,a,h,(p)
@@ -240,11 +240,11 @@ SPACE
 y,o,ʕ,‥,(ti),ц.
 SPACE
 v,·,:,l,i,y,·,a,𝓂,ʕ,_,l,.
-START mam-spi-samekh2 
+START spi-samekh2 
 
 1:12 in vtrad vtbhs
 k,·,o,⅃,h
-START mam-lp-legarmeih 
+START lp-legarmeih 
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -313,7 +313,7 @@ SPACE
 k,·,i,(me),y
 SPACE
 q,_,l,·,𝓂,w,o,τ,a,.
-START mam-spi-pe2 
+START spi-pe2 
 
 2:1 in vtrad vtbhs
 h,i,n,·,‥,(qa),h
@@ -346,15 +346,15 @@ y,w,o,σ,i,(me),y,f.
 SPACE
 ʕ,⟓,w,o,d
 SPACE
-START mam-kq 
-START mam-kq-k 
+START kq 
+START kq-k 
 LEFT PARENTHESIS,l,ʕ,v,w,r,RIGHT PARENTHESIS
-STOP mam-kq-k 
+STOP kq-k 
 SPACE
-START mam-kq-q 
+START kq-q 
 LEFT SQUARE BRACKET,l,_,ʕ,:_,v,oa,r,-,RIGHT SQUARE BRACKET
-STOP mam-kq-q 
-STOP mam-kq 
+STOP kq-q 
+STOP kq 
 v,·,a,(me),k.,:
 SPACE
 v,·,:,l,i,y,·,_,(ti),ʕ,_,l
@@ -460,15 +460,15 @@ SPACE
 SPACE
 y,i,k,·,a,$,·sh,:,l,(ti),w,·
 SPACE
-START mam-kq 
-START mam-kq-k 
+START kq 
+START kq-k 
 LEFT PARENTHESIS,v,h,l,k,w,τ,m.,RIGHT PARENTHESIS
-STOP mam-kq-k 
+STOP kq-k 
 SPACE
-START mam-kq-q 
+START kq-q 
 LEFT SQUARE BRACKET,v,·,_,h,:_,l,i,y,k,a,τ,a,⅄,m.,RIGHT SQUARE BRACKET
-STOP mam-kq-q 
-STOP mam-kq 
+STOP kq-q 
+STOP kq 
 SPACE
 y,:,m,_,𝓂,h,:_,r,w,·,(p)
 SPACE
@@ -667,7 +667,7 @@ SPACE
 q,(me),w,o,l
 SPACE
 m,_,l,:,α,a,k,‥,𝓂,k,‥,h,.
-START mam-spi-pe2 
+START spi-pe2 
 
 3:1 in vtrad vtbhs
 h,(ti),w,o,y
@@ -736,15 +736,15 @@ q,‥,(p),ц,∵,h,(p)
 SPACE
 l,_,g,·,:,w,i,y,·,a,ƶ,h
 SPACE
-START mam-kq 
-START mam-kq-k 
+START kq 
+START kq-k 
 LEFT PARENTHESIS,y,k,$,l,w,RIGHT PARENTHESIS
-STOP mam-kq-k 
+STOP kq-k 
 SPACE
-START mam-kq-q 
+START kq-q 
 LEFT SQUARE BRACKET,w,:,k,a,$,·sh,:,l,(ti),w,·,RIGHT SQUARE BRACKET
-STOP mam-kq-q 
-STOP mam-kq 
+STOP kq-q 
+STOP kq 
 SPACE
 v,·,i,g,:,w,i,y,·,a,τ,a,𝓂,m.,.
 
@@ -1099,7 +1099,7 @@ SPACE
 m,_,k,·,a,τ,∵,⅄,k.,a
 SPACE
 k,·,o,⅃,l
-START mam-lp-legarmeih 
+START lp-legarmeih 
 SPACE
 $,·sh,o,m,:,ʕ,‥,⅃,y
 SPACE

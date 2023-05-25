@@ -1,8 +1,8 @@
 <book39 versification-tradition="BHS">
   <verse bcv_str="Prov.1.1">
-    <mam-letter-large>
+    <letter-large>
       <text text="מִ֭" />
-    </mam-letter-large>
+    </letter-large>
     <text text="שְׁלֵי שְׁלֹמֹ֣ה בֶן־דָּוִ֑ד מֶ֝֗לֶךְ יִשְׂרָאֵֽל׃" />
   </verse>
   <verse bcv_str="Prov.1.2">
@@ -22,14 +22,14 @@
   </verse>
   <verse bcv_str="Prov.1.7">
     <text text="יִרְאַ֣ת יְ֭הֹוָה רֵאשִׁ֣ית דָּ֑עַת חׇכְמָ֥ה וּ֝מוּסָ֗ר אֱוִילִ֥ים בָּֽזוּ׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.1.8">
     <text text="שְׁמַ֣ע בְּ֭נִי מוּסַ֣ר אָבִ֑יךָ וְאַל־תִּ֝טֹּ֗שׁ תּוֹרַ֥ת אִמֶּֽךָ׃" />
   </verse>
   <verse bcv_str="Prov.1.9">
     <text text="כִּ֤י" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" לִוְיַ֤ת חֵ֓ן הֵ֬ם לְרֹאשֶׁ֑ךָ וַ֝עֲנָקִ֗ים לְגַרְגְּרֹתֶֽךָ׃" />
   </verse>
   <verse bcv_str="Prov.1.10">
@@ -61,7 +61,7 @@
   </verse>
   <verse bcv_str="Prov.1.19">
     <text text="כֵּ֗ן אׇ֭רְחוֹת כׇּל־בֹּ֣צֵֽעַ בָּ֑צַע אֶת־נֶ֖פֶשׁ בְּעָלָ֣יו יִקָּֽח׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.1.20">
     <text text="חׇ֭כְמוֹת בַּח֣וּץ תָּרֹ֑נָּה בָּ֝רְחֹב֗וֹת תִּתֵּ֥ן קוֹלָֽהּ׃" />
@@ -71,11 +71,11 @@
   </verse>
   <verse bcv_str="Prov.1.22">
     <text text="עַד־מָתַ֣י" />
-    <mam-lp-paseq />
+    <lp-paseq />
     <text text="פְּתָיִם֮ תְּֽאֵהֲב֫וּ" />
-    <mam-implicit-maqaf>
+    <implicit-maqaf>
       <text text="־" />
-    </mam-implicit-maqaf>
+    </implicit-maqaf>
     <text text="פֶ֥תִי וְלֵצִ֗ים לָ֭צוֹן חָמְד֣וּ לָהֶ֑ם וּ֝כְסִילִ֗ים יִשְׂנְאוּ־דָֽעַת׃" />
   </verse>
   <verse bcv_str="Prov.1.23">
@@ -92,17 +92,17 @@
   </verse>
   <verse bcv_str="Prov.1.27">
     <text text="בְּבֹ֤א " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(כשאוה)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[כְשׁוֹאָ֨ה" />
-        <mam-lp-legarmeih />
+        <lp-legarmeih />
         <text text="]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" פַּחְדְּכֶ֗ם וְֽ֭אֵידְכֶם כְּסוּפָ֣ה יֶאֱתֶ֑ה בְּבֹ֥א עֲ֝לֵיכֶ֗ם צָרָ֥ה וְצוּקָֽה׃" />
   </verse>
   <verse bcv_str="Prov.1.28">
@@ -122,7 +122,7 @@
   </verse>
   <verse bcv_str="Prov.1.33">
     <text text="וְשֹׁמֵ֣עַֽ לִ֭י יִשְׁכׇּן־בֶּ֑טַח וְ֝שַׁאֲנַ֗ן מִפַּ֥חַד רָעָֽה׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.2.1">
     <text text="בְּ֭נִי אִם־תִּקַּ֣ח אֲמָרָ֑י וּ֝מִצְוֺתַ֗י תִּצְפֹּ֥ן אִתָּֽךְ׃" />
@@ -143,15 +143,15 @@
     <text text="כִּֽי־יְ֭הֹוָה יִתֵּ֣ן חׇכְמָ֑ה מִ֝פִּ֗יו דַּ֣עַת וּתְבוּנָֽה׃" />
   </verse>
   <verse bcv_str="Prov.2.7">
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(וצפן)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[יִצְפֹּ֣ן]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" לַ֭יְשָׁרִים תּוּשִׁיָּ֑ה מָ֝גֵ֗ן לְהֹ֣לְכֵי תֹֽם׃" />
   </verse>
   <verse bcv_str="Prov.2.8">
@@ -198,7 +198,7 @@
   </verse>
   <verse bcv_str="Prov.2.22">
     <text text="וּ֭רְשָׁעִים מֵאֶ֣רֶץ יִכָּרֵ֑תוּ וּ֝בוֹגְדִ֗ים יִסְּח֥וּ מִמֶּֽנָּה׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.3.1">
     <text text="בְּ֭נִי תּוֹרָתִ֣י אַל־תִּשְׁכָּ֑ח וּ֝מִצְוֺתַ֗י יִצֹּ֥ר לִבֶּֽךָ׃" />
@@ -229,16 +229,16 @@
   </verse>
   <verse bcv_str="Prov.3.10">
     <text text="וְיִמָּלְא֣וּ אֲסָמֶ֣יךָ שָׂבָ֑ע וְ֝תִיר֗וֹשׁ יְקָבֶ֥יךָ יִפְרֹֽצוּ׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.3.11">
     <text text="מוּסַ֣ר יְ֭הֹוָה בְּנִ֣י אַל־תִּמְאָ֑ס וְאַל־תָּ֝קֹ֗ץ בְּתוֹכַחְתּֽוֹ׃" />
   </verse>
   <verse bcv_str="Prov.3.12">
     <text text="כִּ֤י אֶ֥ת" />
-    <mam-implicit-maqaf>
+    <implicit-maqaf>
       <text text="־" />
-    </mam-implicit-maqaf>
+    </implicit-maqaf>
     <text text="אֲשֶׁ֣ר יֶאֱהַ֣ב יְהֹוָ֣ה יוֹכִ֑יחַ וּ֝כְאָ֗ב אֶת־בֵּ֥ן יִרְצֶֽה׃" />
   </verse>
   <verse bcv_str="Prov.3.13">
@@ -249,15 +249,15 @@
   </verse>
   <verse bcv_str="Prov.3.15">
     <text text="יְקָ֣רָה הִ֭יא " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(מפניים)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[מִפְּנִינִ֑ים]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" וְכׇל־חֲ֝פָצֶ֗יךָ לֹ֣א יִֽשְׁווּ־בָֽהּ׃" />
   </verse>
   <verse bcv_str="Prov.3.16">
@@ -268,7 +268,7 @@
   </verse>
   <verse bcv_str="Prov.3.18">
     <text text="עֵץ־חַיִּ֣ים הִ֭יא לַמַּחֲזִיקִ֣ים בָּ֑הּ וְֽתֹמְכֶ֥יהָ מְאֻשָּֽׁר׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.3.19">
     <text text="יְֽהֹוָ֗ה בְּחׇכְמָ֥ה יָסַד־אָ֑רֶץ כּוֹנֵ֥ן שָׁ֝מַ֗יִם בִּתְבוּנָֽה׃" />
@@ -296,30 +296,30 @@
   </verse>
   <verse bcv_str="Prov.3.27">
     <text text="אַל־תִּמְנַע־ט֥וֹב מִבְּעָלָ֑יו בִּֽהְי֨וֹת לְאֵ֖ל " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(ידיך)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[יָדְךָ֣]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" לַעֲשֽׂוֹת׃" />
   </verse>
   <verse bcv_str="Prov.3.28">
     <text text="אַל־תֹּ֘אמַ֤ר " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(לרעיך)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[לְרֵעֲךָ֨" />
-        <mam-lp-legarmeih />
+        <lp-legarmeih />
         <text text="]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" לֵ֣ךְ וָ֭שׁוּב וּמָחָ֥ר אֶתֵּ֗ן וְיֵ֣שׁ אִתָּֽךְ׃" />
   </verse>
   <verse bcv_str="Prov.3.29">
@@ -327,15 +327,15 @@
   </verse>
   <verse bcv_str="Prov.3.30">
     <text text="אַל־" />
-    <mam-kq>
-      <mam-kq-q>
+    <kq>
+      <kq-q>
         <text text="[תָּרִ֣יב]" />
-      </mam-kq-q>
+      </kq-q>
       <text text=" " />
-      <mam-kq-k>
+      <kq-k>
         <text text="(תרוב)" />
-      </mam-kq-k>
-    </mam-kq>
+      </kq-k>
+    </kq>
     <text text=" עִם־אָדָ֣ם חִנָּ֑ם אִם־לֹ֖א גְמָלְךָ֣ רָעָֽה׃" />
   </verse>
   <verse bcv_str="Prov.3.31">
@@ -349,20 +349,20 @@
   </verse>
   <verse bcv_str="Prov.3.34">
     <text text="אִם־לַלֵּצִ֥ים הֽוּא־יָלִ֑יץ " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(ולעניים)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וְ֝לַעֲנָוִ֗ים]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" יִתֶּן־חֵֽן׃" />
   </verse>
   <verse bcv_str="Prov.3.35">
     <text text="כָּ֭בוֹד חֲכָמִ֣ים יִנְחָ֑לוּ וּ֝כְסִילִ֗ים מֵרִ֥ים קָלֽוֹן׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.4.1">
     <text text="שִׁמְע֣וּ בָ֭נִים מ֣וּסַר אָ֑ב וְ֝הַקְשִׁ֗יבוּ לָדַ֥עַת בִּינָֽה׃" />
@@ -411,15 +411,15 @@
   </verse>
   <verse bcv_str="Prov.4.16">
     <text text="כִּ֤י לֹ֣א יִֽ֭שְׁנוּ אִם־לֹ֣א יָרֵ֑עוּ וְֽנִגְזְלָ֥ה שְׁ֝נָתָ֗ם אִם־לֹ֥א " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(יכשולו)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[יַכְשִֽׁילוּ]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text="׃" />
   </verse>
   <verse bcv_str="Prov.4.17">
@@ -430,7 +430,7 @@
   </verse>
   <verse bcv_str="Prov.4.19">
     <text text="דֶּ֣רֶךְ רְ֭שָׁעִים כָּאֲפֵלָ֑ה לֹ֥א יָ֝דְע֗וּ בַּמֶּ֥ה יִכָּשֵֽׁלוּ׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.4.20">
     <text text="בְּ֭נִי לִדְבָרַ֣י הַקְשִׁ֑יבָה לַ֝אֲמָרַ֗י הַט־אׇזְנֶֽךָ׃" />
@@ -455,7 +455,7 @@
   </verse>
   <verse bcv_str="Prov.4.27">
     <text text="אַֽל־תֵּט־יָמִ֥ין וּשְׂמֹ֑אול הָסֵ֖ר רַגְלְךָ֣ מֵרָֽע׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.5.1">
     <text text="בְּ֭נִי לְחׇכְמָתִ֣י הַקְשִׁ֑יבָה לִ֝תְבוּנָתִ֗י הַט־אׇזְנֶֽךָ׃" />
@@ -474,7 +474,7 @@
   </verse>
   <verse bcv_str="Prov.5.6">
     <text text="אֹ֣רַח חַ֭יִּים פֶּן־תְּפַלֵּ֑ס נָע֥וּ מַ֝עְגְּלֹתֶ֗יהָ לֹ֣א תֵדָֽע׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.5.7">
     <text text="וְעַתָּ֣ה בָ֭נִים שִׁמְעוּ־לִ֑י וְאַל־תָּ֝ס֗וּרוּ מֵאִמְרֵי־פִֽי׃" />
@@ -520,7 +520,7 @@
   </verse>
   <verse bcv_str="Prov.5.21">
     <text text="כִּ֤י נֹ֨כַח" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" עֵינֵ֣י יְ֭הֹוָה דַּרְכֵי־אִ֑ישׁ וְֽכׇל־מַעְגְּלֹתָ֥יו מְפַלֵּֽס׃" />
   </verse>
   <verse bcv_str="Prov.5.22">
@@ -528,7 +528,7 @@
   </verse>
   <verse bcv_str="Prov.5.23">
     <text text="ה֗וּא יָ֭מוּת בְּאֵ֣ין מוּסָ֑ר וּבְרֹ֖ב אִוַּלְתּ֣וֹ יִשְׁגֶּֽה׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.6.1">
     <text text="בְּ֭נִי אִם־עָרַ֣בְתָּ לְרֵעֶ֑ךָ תָּקַ֖עְתָּ לַזָּ֣ר כַּפֶּֽיךָ׃" />
@@ -538,7 +538,7 @@
   </verse>
   <verse bcv_str="Prov.6.3">
     <text text="עֲשֵׂ֨ה זֹ֥את אֵפ֪וֹא" />
-    <mam-lp-paseq />
+    <lp-paseq />
     <text text="בְּנִ֡י וְֽהִנָּצֵ֗ל כִּ֘י בָ֤אתָ בְכַף־רֵעֶ֑ךָ לֵ֥ךְ הִ֝תְרַפֵּ֗ס וּרְהַ֥ב רֵעֶֽיךָ׃" />
   </verse>
   <verse bcv_str="Prov.6.4">
@@ -546,7 +546,7 @@
   </verse>
   <verse bcv_str="Prov.6.5">
     <text text="הִ֭נָּצֵל כִּצְבִ֣י מִיָּ֑ד וּ֝כְצִפּ֗וֹר מִיַּ֥ד יָקֽוּשׁ׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.6.6">
     <text text="לֵֽךְ־אֶל־נְמָלָ֥ה עָצֵ֑ל רְאֵ֖ה דְרָכֶ֣יהָ וַחֲכָֽם׃" />
@@ -559,62 +559,62 @@
   </verse>
   <verse bcv_str="Prov.6.9">
     <text text="עַד־מָתַ֖י עָצֵ֥ל" />
-    <mam-lp-paseq />
+    <lp-paseq />
     <text text="תִּשְׁכָּ֑ב מָ֝תַ֗י תָּק֥וּם מִשְּׁנָתֶֽךָ׃" />
   </verse>
   <verse bcv_str="Prov.6.10">
     <text text="מְעַ֣ט שֵׁ֭נוֹת מְעַ֣ט תְּנוּמ֑וֹת מְעַ֓ט" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" חִבֻּ֖ק יָדַ֣יִם לִשְׁכָּֽב׃" />
   </verse>
   <verse bcv_str="Prov.6.11">
     <text text="וּבָֽא־כִמְהַלֵּ֥ךְ רֵאשֶׁ֑ךָ וּ֝מַחְסֹרְךָ֗ כְּאִ֣ישׁ מָגֵֽן׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.6.12">
     <text text="אָדָ֣ם בְּ֭לִיַּעַל אִ֣ישׁ אָ֑וֶן ה֝וֹלֵ֗ךְ עִקְּשׁ֥וּת פֶּֽה׃" />
   </verse>
   <verse bcv_str="Prov.6.13">
     <text text="קֹרֵ֣ץ " />
-    <mam-kq-trivial>
+    <kq-trivial>
       <text text="בְּ֭עֵינָו" />
-    </mam-kq-trivial>
+    </kq-trivial>
     <text text=" מֹלֵ֣ל " />
-    <mam-kq-trivial>
+    <kq-trivial>
       <text text="בְּרַגְלָ֑ו" />
-    </mam-kq-trivial>
+    </kq-trivial>
     <text text=" מֹ֝רֶ֗ה בְּאֶצְבְּעֹתָֽיו׃" />
   </verse>
   <verse bcv_str="Prov.6.14">
     <text text="תַּ֥הְפֻּכ֨וֹת" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" בְּלִבּ֗וֹ חֹרֵ֣שׁ רָ֣ע בְּכׇל־עֵ֑ת " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(מדנים)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[מִדְיָנִ֥ים]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" יְשַׁלֵּֽחַ׃" />
   </verse>
   <verse bcv_str="Prov.6.15">
     <text text="עַל־כֵּ֗ן פִּ֭תְאֹם יָב֣וֹא אֵיד֑וֹ פֶּ֥תַע יִ֝שָּׁבֵ֗ר וְאֵ֣ין מַרְפֵּֽא׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.6.16">
     <text text="שֶׁשׁ־הֵ֭נָּה שָׂנֵ֣א יְהֹוָ֑ה וְ֝שֶׁ֗בַע " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(תועבות)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[תּוֹעֲבַ֥ת]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" נַפְשֽׁוֹ׃" />
   </verse>
   <verse bcv_str="Prov.6.17">
@@ -625,7 +625,7 @@
   </verse>
   <verse bcv_str="Prov.6.19">
     <text text="יָפִ֣יחַ כְּ֭זָבִים עֵ֣ד שָׁ֑קֶר וּמְשַׁלֵּ֥חַ מְ֝דָנִ֗ים בֵּ֣ין אַחִֽים׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.6.20">
     <text text="נְצֹ֣ר בְּ֭נִי מִצְוַ֣ת אָבִ֑יךָ וְאַל־תִּ֝טֹּ֗שׁ תּוֹרַ֥ת אִמֶּֽךָ׃" />
@@ -635,7 +635,7 @@
   </verse>
   <verse bcv_str="Prov.6.22">
     <text text="בְּהִתְהַלֶּכְךָ֨" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" תַּנְחֶ֬ה אֹתָ֗ךְ בְּֽ֭שׇׁכְבְּךָ תִּשְׁמֹ֣ר עָלֶ֑יךָ וַ֝הֲקִיצ֗וֹתָ הִ֣יא תְשִׂיחֶֽךָ׃" />
   </verse>
   <verse bcv_str="Prov.6.23">
@@ -649,11 +649,11 @@
   </verse>
   <verse bcv_str="Prov.6.26">
     <text text="כִּ֤י בְעַד־אִשָּׁ֥ה זוֹנָ֗ה עַֽד־כִּכַּ֫ר" />
-    <mam-implicit-maqaf>
+    <implicit-maqaf>
       <text text="־" />
-    </mam-implicit-maqaf>
+    </implicit-maqaf>
     <text text="לָ֥חֶם וְאֵ֥שֶׁת אִ֑ישׁ נֶ֖פֶשׁ יְקָרָ֣ה תָצֽוּד׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.6.27">
     <text text="הֲיַחְתֶּ֤ה אִ֓ישׁ אֵ֬שׁ בְּחֵיק֑וֹ וּ֝בְגָדָ֗יו לֹ֣א תִשָּׂרַֽפְנָה׃" />
@@ -681,7 +681,7 @@
   </verse>
   <verse bcv_str="Prov.6.35">
     <text text="לֹֽא־יִ֭שָּׂא פְּנֵ֣י כׇל־כֹּ֑פֶר וְלֹֽא־יֹ֝אבֶ֗ה כִּ֣י תַרְבֶּה־שֹּֽׁחַד׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.7.1">
     <text text="בְּ֭נִי שְׁמֹ֣ר אֲמָרָ֑י וּ֝מִצְוֺתַ֗י תִּצְפֹּ֥ן אִתָּֽךְ׃" />
@@ -718,7 +718,7 @@
   </verse>
   <verse bcv_str="Prov.7.12">
     <text text="פַּ֤עַם" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" בַּח֗וּץ פַּ֥עַם בָּרְחֹב֑וֹת וְאֵ֖צֶל כׇּל־פִּנָּ֣ה תֶאֱרֹֽב׃" />
   </verse>
   <verse bcv_str="Prov.7.13">
@@ -765,7 +765,7 @@
   </verse>
   <verse bcv_str="Prov.7.27">
     <text text="דַּרְכֵ֣י שְׁא֣וֹל בֵּיתָ֑הּ יֹ֝רְד֗וֹת אֶל־חַדְרֵי־מָֽוֶת׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.8.1">
     <text text="הֲלֹֽא־חׇכְמָ֥ה תִקְרָ֑א וּ֝תְבוּנָ֗ה תִּתֵּ֥ן קוֹלָֽהּ׃" />
@@ -805,11 +805,11 @@
   </verse>
   <verse bcv_str="Prov.8.13">
     <text text="יִ֥רְאַ֣ת יְהֹוָה֮ שְֽׂנֹ֫את" />
-    <mam-implicit-maqaf>
+    <implicit-maqaf>
       <text text="־" />
-    </mam-implicit-maqaf>
+    </implicit-maqaf>
     <text text="רָ֥ע גֵּ֘אָ֤ה וְגָא֨וֹן" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" וְדֶ֣רֶךְ רָ֭ע וּפִ֨י תַהְפֻּכ֬וֹת שָׂנֵֽאתִי׃" />
   </verse>
   <verse bcv_str="Prov.8.14">
@@ -823,15 +823,15 @@
   </verse>
   <verse bcv_str="Prov.8.17">
     <text text="אֲ֭נִי " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(אהביה)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[אֹהֲבַ֣י]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" אֵהָ֑ב וּ֝מְשַׁחֲרַ֗י יִמְצָאֻֽנְנִי׃" />
   </verse>
   <verse bcv_str="Prov.8.18">
@@ -845,7 +845,7 @@
   </verse>
   <verse bcv_str="Prov.8.21">
     <text text="לְהַנְחִ֖יל אֹהֲבַ֥י" />
-    <mam-lp-paseq />
+    <lp-paseq />
     <text text="יֵ֑שׁ וְאֹצְרֹ֖תֵיהֶ֣ם אֲמַלֵּֽא׃" />
   </verse>
   <verse bcv_str="Prov.8.22">
@@ -871,17 +871,17 @@
   </verse>
   <verse bcv_str="Prov.8.29">
     <text text="בְּשׂ֘וּמ֤וֹ לַיָּ֨ם" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" חֻקּ֗וֹ וּ֭מַיִם לֹ֣א יַֽעַבְרוּ־פִ֑יו בְּ֝חוּק֗וֹ מ֣וֹסְדֵי אָֽרֶץ׃" />
   </verse>
   <verse bcv_str="Prov.8.30">
     <text text="וָאֶהְיֶ֥ה אֶצְל֗וֹ אָ֫מ֥וֹן וָאֶהְיֶ֣ה שַׁ֭עֲשׁוּעִים י֤וֹם" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" י֑וֹם מְשַׂחֶ֖קֶת לְפָנָ֣יו בְּכׇל־עֵֽת׃" />
   </verse>
   <verse bcv_str="Prov.8.31">
     <text text="מְ֭שַׂחֶקֶת בְּתֵבֵ֣ל אַרְצ֑וֹ וְ֝שַׁעֲשֻׁעַ֗י אֶת־בְּנֵ֥י אָדָֽם׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.8.32">
     <text text="וְעַתָּ֣ה בָ֭נִים שִׁמְעוּ־לִ֑י וְ֝אַשְׁרֵ֗י דְּרָכַ֥י יִשְׁמֹֽרוּ׃" />
@@ -891,20 +891,20 @@
   </verse>
   <verse bcv_str="Prov.8.34">
     <text text="אַ֥שְֽׁרֵי אָדָם֮ שֹׁמֵ֢עַֽ֫ לִ֥י לִשְׁקֹ֣ד עַל־דַּ֭לְתֹתַי י֤וֹם" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" י֑וֹם לִ֝שְׁמֹ֗ר מְזוּזֹ֥ת פְּתָחָֽי׃" />
   </verse>
   <verse bcv_str="Prov.8.35">
     <text text="כִּ֣י מֹ֭צְאִי " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(מצאי)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[מָצָ֣א]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" חַיִּ֑ים וַיָּ֥פֶק רָ֝צ֗וֹן מֵיְהֹוָֽה׃" />
   </verse>
   <verse bcv_str="Prov.8.36">
@@ -930,7 +930,7 @@
   </verse>
   <verse bcv_str="Prov.9.7">
     <text text="יֹ֤סֵ֨ר" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" לֵ֗ץ לֹקֵ֣חַֽ ל֣וֹ קָל֑וֹן וּמוֹכִ֖יחַ לְרָשָׁ֣ע מוּמֽוֹ׃" />
   </verse>
   <verse bcv_str="Prov.9.8">
@@ -965,7 +965,7 @@
   </verse>
   <verse bcv_str="Prov.9.18">
     <text text="וְֽלֹא־יָ֭דַע כִּֽי־רְפָאִ֣ים שָׁ֑ם בְּעִמְקֵ֖י שְׁא֣וֹל קְרֻאֶֽיהָ׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.10.1">
     <text text="מִשְׁלֵ֗י שְׁלֹ֫מֹ֥ה בֵּ֣ן חָ֭כָם יְשַׂמַּח־אָ֑ב וּבֵ֥ן כְּ֝סִ֗יל תּוּגַ֥ת אִמּֽוֹ׃" />
@@ -1044,7 +1044,7 @@
   </verse>
   <verse bcv_str="Prov.10.26">
     <text text="כַּחֹ֤מֶץ" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" לַשִּׁנַּ֗יִם וְכֶעָשָׁ֥ן לָעֵינָ֑יִם כֵּ֥ן הֶ֝עָצֵ֗ל לְשֹׁלְחָֽיו׃" />
   </verse>
   <verse bcv_str="Prov.10.27">
@@ -1073,15 +1073,15 @@
   </verse>
   <verse bcv_str="Prov.11.3">
     <text text="תֻּמַּ֣ת יְשָׁרִ֣ים תַּנְחֵ֑ם וְסֶ֖לֶף בֹּגְדִ֣ים " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(ושדם)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[יְשָׁדֵּֽם]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text="׃" />
   </verse>
   <verse bcv_str="Prov.11.4">
@@ -1209,15 +1209,15 @@
   </verse>
   <verse bcv_str="Prov.12.14">
     <text text="מִפְּרִ֣י פִי־אִ֭ישׁ יִשְׂבַּע־ט֑וֹב וּגְמ֥וּל יְדֵי־אָ֝דָ֗ם " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(ישוב)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[יָשִׁ֥יב]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" לֽוֹ׃" />
   </verse>
   <verse bcv_str="Prov.12.15">
@@ -1320,25 +1320,25 @@
     <text text="תַּאֲוָ֣ה נִ֭הְיָה תֶּעֱרַ֣ב לְנָ֑פֶשׁ וְתוֹעֲבַ֥ת כְּ֝סִילִ֗ים ס֣וּר מֵרָֽע׃" />
   </verse>
   <verse bcv_str="Prov.13.20">
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(הלוך)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[הוֹלֵ֣ךְ]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" אֶת־חֲכָמִ֣ים " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(וחכם)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[יֶחְכָּ֑ם]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" וְרֹעֶ֖ה כְסִילִ֣ים יֵרֽוֹעַ׃" />
   </verse>
   <verse bcv_str="Prov.13.21">
@@ -1418,15 +1418,15 @@
   </verse>
   <verse bcv_str="Prov.14.21">
     <text text="בׇּז־לְרֵעֵ֥הוּ חוֹטֵ֑א וּמְחוֹנֵ֖ן " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(עניים)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[עֲנָוִ֣ים]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" אַשְׁרָֽיו׃" />
   </verse>
   <verse bcv_str="Prov.14.22">
@@ -1512,15 +1512,15 @@
   </verse>
   <verse bcv_str="Prov.15.14">
     <text text="לֵ֣ב נָ֭בוֹן יְבַקֶּשׁ־דָּ֑עַת " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(ופני)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וּפִ֥י]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" כְ֝סִילִ֗ים יִרְעֶ֥ה אִוֶּֽלֶת׃" />
   </verse>
   <verse bcv_str="Prov.15.15">
@@ -1555,7 +1555,7 @@
   </verse>
   <verse bcv_str="Prov.15.25">
     <text text="בֵּ֣ית גֵּ֭אִים יִסַּ֥ח" />
-    <mam-lp-paseq />
+    <lp-paseq />
     <text text="יְהֹוָ֑ה וְ֝יַצֵּ֗ב גְּב֣וּל אַלְמָנָֽה׃" />
   </verse>
   <verse bcv_str="Prov.15.26">
@@ -1611,12 +1611,12 @@
   </verse>
   <verse bcv_str="Prov.16.10">
     <text text="קֶ֤סֶם" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" עַֽל־שִׂפְתֵי־מֶ֑לֶךְ בְּ֝מִשְׁפָּ֗ט לֹ֣א יִמְעַל־פִּֽיו׃" />
   </verse>
   <verse bcv_str="Prov.16.11">
     <text text="פֶּ֤לֶס" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" וּמֹאזְנֵ֣י מִ֭שְׁפָּט לַיהֹוָ֑ה מַ֝עֲשֵׂ֗הוּ כׇּל־אַבְנֵי־כִֽיס׃" />
   </verse>
   <verse bcv_str="Prov.16.12">
@@ -1642,15 +1642,15 @@
   </verse>
   <verse bcv_str="Prov.16.19">
     <text text="ט֣וֹב שְׁפַל־ר֭וּחַ אֶת־" />
-    <mam-kq>
-      <mam-kq-q>
+    <kq>
+      <kq-q>
         <text text="[עֲנָוִ֑ים]" />
-      </mam-kq-q>
+      </kq-q>
       <text text=" " />
-      <mam-kq-k>
+      <kq-k>
         <text text="(עניים)" />
-      </mam-kq-k>
-    </mam-kq>
+      </kq-k>
+    </kq>
     <text text=" מֵחַלֵּ֥ק שָׁ֝לָ֗ל אֶת־גֵּאִֽים׃" />
   </verse>
   <verse bcv_str="Prov.16.20">
@@ -1676,15 +1676,15 @@
   </verse>
   <verse bcv_str="Prov.16.27">
     <text text="אִ֣ישׁ בְּ֭לִיַּעַל כֹּרֶ֣ה רָעָ֑ה וְעַל־" />
-    <mam-kq>
-      <mam-kq-q>
+    <kq>
+      <kq-q>
         <text text="[שְׂ֝פָת֗וֹ]" />
-      </mam-kq-q>
+      </kq-q>
       <text text=" " />
-      <mam-kq-k>
+      <kq-k>
         <text text="(שפתיו)" />
-      </mam-kq-k>
-    </mam-kq>
+      </kq-k>
+    </kq>
     <text text=" כְּאֵ֣שׁ צָרָֽבֶת׃" />
   </verse>
   <verse bcv_str="Prov.16.28">
@@ -1743,15 +1743,15 @@
   </verse>
   <verse bcv_str="Prov.17.13">
     <text text="מֵשִׁ֣יב רָ֭עָה תַּ֣חַת טוֹבָ֑ה לֹא־" />
-    <mam-kq>
-      <mam-kq-q>
+    <kq>
+      <kq-q>
         <text text="[תָמ֥וּשׁ]" />
-      </mam-kq-q>
+      </kq-q>
       <text text=" " />
-      <mam-kq-k>
+      <kq-k>
         <text text="(תמיש)" />
-      </mam-kq-k>
-    </mam-kq>
+      </kq-k>
+    </kq>
     <text text=" רָ֝עָ֗ה מִבֵּיתֽוֹ׃" />
   </verse>
   <verse bcv_str="Prov.17.14">
@@ -1795,15 +1795,15 @@
   </verse>
   <verse bcv_str="Prov.17.27">
     <text text="חוֹשֵׂ֣ךְ אֲ֭מָרָיו יוֹדֵ֣עַ דָּ֑עַת " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(וקר)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[יְקַר־]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text="ר֝֗וּחַ אִ֣ישׁ תְּבוּנָֽה׃" />
   </verse>
   <verse bcv_str="Prov.17.28">
@@ -1859,15 +1859,15 @@
   </verse>
   <verse bcv_str="Prov.18.17">
     <text text="צַדִּ֣יק הָרִאשׁ֣וֹן בְּרִיב֑וֹ " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(יבא)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וּבָֽא־]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text="רֵ֝עֵ֗הוּ וַחֲקָרֽוֹ׃" />
   </verse>
   <verse bcv_str="Prov.18.18">
@@ -1875,15 +1875,15 @@
   </verse>
   <verse bcv_str="Prov.18.19">
     <text text="אָ֗ח נִפְשָׁ֥ע מִקִּרְיַת־עֹ֑ז " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(ומדונים)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וּ֝מִדְיָנִ֗ים]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" כִּבְרִ֥יחַ אַרְמֽוֹן׃" />
   </verse>
   <verse bcv_str="Prov.18.20">
@@ -1921,21 +1921,21 @@
   </verse>
   <verse bcv_str="Prov.19.7">
     <text text="כׇּ֥ל" />
-    <mam-implicit-maqaf>
+    <implicit-maqaf>
       <text text="־" />
-    </mam-implicit-maqaf>
+    </implicit-maqaf>
     <text text="אֲחֵי־רָ֨שׁ" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" שְֽׂנֵאֻ֗הוּ אַ֤ף כִּ֣י מְ֭רֵעֵהוּ רָחֲק֣וּ מִמֶּ֑נּוּ מְרַדֵּ֖ף אֲמָרִ֣ים " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(לא)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[לוֹ־]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text="הֵֽמָּה׃" />
   </verse>
   <verse bcv_str="Prov.19.8">
@@ -1943,11 +1943,11 @@
   </verse>
   <verse bcv_str="Prov.19.9">
     <text text="עֵ֣ד שְׁ֭קָרִים לֹ֣א יִנָּקֶ֑ה וְיָפִ֖יחַ כְּזָבִ֣ים יֹאבֵֽד׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.19.10">
     <text text="לֹא־נָאוֶ֣ה לִכְסִ֣יל תַּעֲנ֑וּג אַ֝֗ף כִּֽי־לְעֶ֤בֶד" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" מְשֹׁ֬ל בְּשָׂרִֽים׃" />
   </verse>
   <verse bcv_str="Prov.19.11">
@@ -1967,15 +1967,15 @@
   </verse>
   <verse bcv_str="Prov.19.16">
     <text text="שֹׁמֵ֣ר מִ֭צְוָה שֹׁמֵ֣ר נַפְשׁ֑וֹ בּוֹזֵ֖ה דְרָכָ֣יו " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(יומת)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[יָמֽוּת]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text="׃" />
   </verse>
   <verse bcv_str="Prov.19.17">
@@ -1985,15 +1985,15 @@
     <text text="יַסֵּ֣ר בִּ֭נְךָ כִּֽי־יֵ֣שׁ תִּקְוָ֑ה וְאֶל־הֲ֝מִית֗וֹ אַל־תִּשָּׂ֥א נַפְשֶֽׁךָ׃" />
   </verse>
   <verse bcv_str="Prov.19.19">
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(גרל)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[גְּֽדׇל־]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text="חֵ֭מָה נֹ֣שֵׂא עֹ֑נֶשׁ כִּ֥י אִם־תַּ֝צִּ֗יל וְע֣וֹד תּוֹסִֽף׃" />
   </verse>
   <verse bcv_str="Prov.19.20">
@@ -2037,15 +2037,15 @@
   </verse>
   <verse bcv_str="Prov.20.4">
     <text text="מֵ֭חֹרֶף עָצֵ֣ל לֹא־יַחֲרֹ֑שׁ " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(ישאל)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וְשָׁאַ֖ל]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" בַּקָּצִ֣יר וָאָֽיִן׃" />
   </verse>
   <verse bcv_str="Prov.20.5">
@@ -2083,15 +2083,15 @@
   </verse>
   <verse bcv_str="Prov.20.16">
     <text text="לְֽקַח־בִּ֭גְדוֹ כִּי־עָ֣רַב זָ֑ר וּבְעַ֖ד " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(נכרים)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[נׇכְרִיָּ֣ה]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" חַבְלֵֽהוּ׃" />
   </verse>
   <verse bcv_str="Prov.20.17">
@@ -2105,28 +2105,28 @@
   </verse>
   <verse bcv_str="Prov.20.20">
     <text text="מְ֭קַלֵּל אָבִ֣יו וְאִמּ֑וֹ יִֽדְעַ֥ךְ נֵ֝ר֗וֹ " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(באישון)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[בֶּאֱשׁ֥וּן]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" חֹֽשֶׁךְ׃" />
   </verse>
   <verse bcv_str="Prov.20.21">
     <text text="נַ֭חֲלָה " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(מבחלת)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[מְבֹהֶ֣לֶת]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" בָּרִאשׁוֹנָ֑ה וְ֝אַחֲרִיתָ֗הּ לֹ֣א תְבֹרָֽךְ׃" />
   </verse>
   <verse bcv_str="Prov.20.22">
@@ -2155,15 +2155,15 @@
   </verse>
   <verse bcv_str="Prov.20.30">
     <text text="חַבֻּר֣וֹת פֶּ֭צַע " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(תמריק)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[תַּמְר֣וּק]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" בְּרָ֑ע וּ֝מַכּ֗וֹת חַדְרֵי־בָֽטֶן׃" />
   </verse>
   <verse bcv_str="Prov.21.1">
@@ -2222,20 +2222,20 @@
   </verse>
   <verse bcv_str="Prov.21.19">
     <text text="ט֗וֹב שֶׁ֥בֶת בְּאֶֽרֶץ־מִדְבָּ֑ר מֵאֵ֖שֶׁת " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(מדונים)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[מִדְיָנִ֣ים]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" וָכָֽעַס׃" />
   </verse>
   <verse bcv_str="Prov.21.20">
     <text text="אוֹצָ֤ר" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" נֶחְמָ֣ד וָ֭שֶׁמֶן בִּנְוֵ֣ה חָכָ֑ם וּכְסִ֖יל אָדָ֣ם יְבַלְּעֶֽנּוּ׃" />
   </verse>
   <verse bcv_str="Prov.21.21">
@@ -2264,22 +2264,22 @@
   </verse>
   <verse bcv_str="Prov.21.29">
     <text text="הֵעֵ֬ז אִ֣ישׁ רָשָׁ֣ע בְּפָנָ֑יו וְ֝יָשָׁ֗ר ה֤וּא" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(יכין דרכיו)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[יָבִ֬ין דַּרְכּֽוֹ]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text="׃" />
   </verse>
   <verse bcv_str="Prov.21.30">
     <text text="אֵ֣ין חׇ֭כְמָה וְאֵ֣ין תְּבוּנָ֑ה וְאֵ֥ין עֵ֝צָ֗ה לְנֶ֣גֶד יְהֹוָֽה׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.21.31">
     <text text="ס֗וּס מ֭וּכָן לְי֣וֹם מִלְחָמָ֑ה וְ֝לַיהֹוָ֗ה הַתְּשׁוּעָֽה׃" />
@@ -2292,17 +2292,17 @@
   </verse>
   <verse bcv_str="Prov.22.3">
     <text text="עָר֤וּם" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" רָאָ֣ה רָעָ֣ה " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(ויסתר)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וְנִסְתָּ֑ר]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" וּ֝פְתָיִ֗ים עָבְר֥וּ וְֽנֶעֱנָֽשׁוּ׃" />
   </verse>
   <verse bcv_str="Prov.22.4">
@@ -2319,15 +2319,15 @@
   </verse>
   <verse bcv_str="Prov.22.8">
     <text text="זוֹרֵ֣עַ עַ֭וְלָה " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(יקצור)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[יִקְצׇר־]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text="אָ֑וֶן וְשֵׁ֖בֶט עֶבְרָת֣וֹ יִכְלֶֽה׃" />
   </verse>
   <verse bcv_str="Prov.22.9">
@@ -2338,15 +2338,15 @@
   </verse>
   <verse bcv_str="Prov.22.11">
     <text text="אֹהֵ֥ב " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(טהור)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[טְהׇר־]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text="לֵ֑ב חֵ֥ן שְׂ֝פָתָ֗יו רֵעֵ֥הוּ מֶֽלֶךְ׃" />
   </verse>
   <verse bcv_str="Prov.22.12">
@@ -2357,15 +2357,15 @@
   </verse>
   <verse bcv_str="Prov.22.14">
     <text text="שׁוּחָ֣ה עֲ֭מֻקָּה פִּ֣י זָר֑וֹת זְע֥וּם יְ֝הֹוָ֗ה " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(יפול)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[יִפׇּל־]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text="שָֽׁם׃" />
   </verse>
   <verse bcv_str="Prov.22.15">
@@ -2385,15 +2385,15 @@
   </verse>
   <verse bcv_str="Prov.22.20">
     <text text="הֲלֹ֤א כָתַ֣בְתִּֽי לְ֭ךָ " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(שלשום)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[שָׁלִישִׁ֑ים]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" בְּמֹ֖עֵצ֣וֹת וָדָֽעַת׃" />
   </verse>
   <verse bcv_str="Prov.22.21">
@@ -2410,9 +2410,9 @@
   </verse>
   <verse bcv_str="Prov.22.25">
     <text text="פֶּן־תֶּאֱלַ֥ף " />
-    <mam-kq-trivial>
+    <kq-trivial>
       <text text="אֹרְחֹתָ֑ו" />
-    </mam-kq-trivial>
+    </kq-trivial>
     <text text=" וְלָקַחְתָּ֖ מוֹקֵ֣שׁ לְנַפְשֶֽׁךָ׃" />
   </verse>
   <verse bcv_str="Prov.22.26">
@@ -2426,9 +2426,9 @@
   </verse>
   <verse bcv_str="Prov.22.29">
     <text text="חָזִ֡יתָ אִ֤ישׁ" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" מָ֘הִ֤יר בִּמְלַאכְתּ֗וֹ לִֽפְנֵי־מְלָכִ֥ים יִתְיַצָּ֑ב בַּל־יִ֝תְיַצֵּ֗ב לִפְנֵ֥י חֲשֻׁכִּֽים׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.23.1">
     <text text="כִּֽי־תֵ֭שֵׁב לִלְח֣וֹם אֶת־מוֹשֵׁ֑ל בִּ֥ין תָּ֝בִ֗ין אֶת־אֲשֶׁ֥ר לְפָנֶֽיךָ׃" />
@@ -2443,34 +2443,34 @@
     <text text="אַל־תִּיגַ֥ע לְֽהַעֲשִׁ֑יר מִֽבִּינָתְךָ֥ חֲדָֽל׃" />
   </verse>
   <verse bcv_str="Prov.23.5">
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(התעוף)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[הֲתָ֤עִיף]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" עֵינֶ֥יךָ בּ֗וֹ וְֽאֵ֫ינֶ֥נּוּ כִּ֤י עָשֹׂ֣ה יַעֲשֶׂה־לּ֣וֹ כְנָפַ֑יִם כְּ֝נֶ֗שֶׁר " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(ועיף)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[יָע֥וּף]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" הַשָּׁמָֽיִם׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.23.6">
     <text text="אַל־תִּלְחַ֗ם אֶת־לֶ֭חֶם רַ֣ע עָ֑יִן וְאַל־תִּ֝תְאָ֗ו לְמַטְעַמֹּתָֽיו׃" />
   </verse>
   <verse bcv_str="Prov.23.7">
     <text text="כִּ֤י" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" כְּמ֥וֹ שָׁעַ֥ר בְּנַפְשׁ֗וֹ כֶּ֫ן־ה֥וּא אֱכ֣וֹל וּ֭שְׁתֵה יֹ֣אמַר לָ֑ךְ וְ֝לִבּ֗וֹ בַּל־עִמָּֽךְ׃" />
   </verse>
   <verse bcv_str="Prov.23.8">
@@ -2522,35 +2522,35 @@
     <text text="אֱמֶ֣ת קְ֭נֵה וְאַל־תִּמְכֹּ֑ר חׇכְמָ֖ה וּמוּסָ֣ר וּבִינָֽה׃" />
   </verse>
   <verse bcv_str="Prov.23.24">
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(גול)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[גִּ֣יל]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" יָ֭גִיל אֲבִ֣י צַדִּ֑יק " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(יולד)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וְיוֹלֵ֥ד]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" חָ֝כָ֗ם " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(וישמח)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[יִשְׂמַח־]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text="בּֽוֹ׃" />
   </verse>
   <verse bcv_str="Prov.23.25">
@@ -2558,15 +2558,15 @@
   </verse>
   <verse bcv_str="Prov.23.26">
     <text text="תְּנָה־בְנִ֣י לִבְּךָ֣ לִ֑י וְ֝עֵינֶ֗יךָ דְּרָכַ֥י " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(תרצנה)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[תִּצֹּֽרְנָה]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text="׃" />
   </verse>
   <verse bcv_str="Prov.23.27">
@@ -2577,17 +2577,17 @@
   </verse>
   <verse bcv_str="Prov.23.29">
     <text text="לְמִ֨י א֥וֹי לְמִ֢י אֲב֡וֹי לְמִ֤י " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(מדונים)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[מִדְיָנִ֨ים" />
-        <mam-lp-legarmeih />
+        <lp-legarmeih />
         <text text="]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" לְמִ֥י שִׂ֗יחַ לְ֭מִי פְּצָעִ֣ים חִנָּ֑ם לְ֝מִ֗י חַכְלִל֥וּת עֵינָֽיִם׃" />
   </verse>
   <verse bcv_str="Prov.23.30">
@@ -2595,15 +2595,15 @@
   </verse>
   <verse bcv_str="Prov.23.31">
     <text text="אַל־תֵּ֥רֶא יַּיִן֮ כִּ֤י יִתְאַ֫דָּ֥ם כִּֽי־יִתֵּ֣ן " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(בכיס)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[בַּכּ֣וֹס]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" עֵינ֑וֹ יִ֝תְהַלֵּ֗ךְ בְּמֵֽישָׁרִֽים׃" />
   </verse>
   <verse bcv_str="Prov.23.32">
@@ -2653,7 +2653,7 @@
   </verse>
   <verse bcv_str="Prov.24.12">
     <text text="כִּֽי־תֹאמַ֗ר הֵן֮ לֹֽא־יָדַ֢עְנ֫וּ זֶ֥ה הֲֽלֹא־תֹ֘כֵ֤ן לִבּ֨וֹת" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" הֽוּא־יָבִ֗ין וְנֹצֵ֣ר נַ֭פְשְׁךָ ה֣וּא יֵדָ֑ע וְהֵשִׁ֖יב לְאָדָ֣ם כְּפׇעֳלֽוֹ׃" />
   </verse>
   <verse bcv_str="Prov.24.13">
@@ -2661,29 +2661,29 @@
   </verse>
   <verse bcv_str="Prov.24.14">
     <text text="כֵּ֤ן" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" דְּעֶ֥ה חׇכְמָ֗ה לְנַ֫פְשֶׁ֥ךָ אִם־מָ֭צָאתָ וְיֵ֣שׁ אַחֲרִ֑ית וְ֝תִקְוָתְךָ֗ לֹ֣א תִכָּרֵֽת׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.24.15">
     <text text="אַל־תֶּאֱרֹ֣ב רָ֭שָׁע לִנְוֵ֣ה צַדִּ֑יק אַֽל־תְּשַׁדֵּ֥ד רִבְצֽוֹ׃" />
   </verse>
   <verse bcv_str="Prov.24.16">
     <text text="כִּ֤י שֶׁ֨בַע" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" יִפּ֣וֹל צַדִּ֣יק וָקָ֑ם וּ֝רְשָׁעִ֗ים יִכָּשְׁל֥וּ בְרָעָֽה׃" />
   </verse>
   <verse bcv_str="Prov.24.17">
     <text text="בִּנְפֹ֣ל " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(אויביך)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[א֭וֹיִבְךָ]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" אַל־תִּשְׂמָ֑ח וּ֝בִכָּשְׁל֗וֹ אַל־יָגֵ֥ל לִבֶּֽךָ׃" />
   </verse>
   <verse bcv_str="Prov.24.18">
@@ -2694,7 +2694,7 @@
   </verse>
   <verse bcv_str="Prov.24.20">
     <text text="כִּ֤י" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" לֹא־תִהְיֶ֣ה אַחֲרִ֣ית לָרָ֑ע נֵ֖ר רְשָׁעִ֣ים יִדְעָֽךְ׃" />
   </verse>
   <verse bcv_str="Prov.24.21">
@@ -2702,14 +2702,14 @@
   </verse>
   <verse bcv_str="Prov.24.22">
     <text text="כִּֽי־פִ֭תְאֹם יָק֣וּם אֵידָ֑ם וּפִ֥יד שְׁ֝נֵיהֶ֗ם מִ֣י יוֹדֵֽעַ׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.24.23">
     <text text="גַּם־אֵ֥לֶּה לַחֲכָמִ֑ים הַֽכֵּר־פָּנִ֖ים בְּמִשְׁפָּ֣ט בַּל־טֽוֹב׃" />
   </verse>
   <verse bcv_str="Prov.24.24">
     <text text="אֹ֤מֵ֨ר" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" לְרָשָׁע֮ צַדִּ֢יק אָ֥֫תָּה יִקְּבֻ֥הוּ עַמִּ֑ים יִזְעָמ֥וּהוּ לְאֻמִּֽים׃" />
   </verse>
   <verse bcv_str="Prov.24.25">
@@ -2720,23 +2720,23 @@
   </verse>
   <verse bcv_str="Prov.24.27">
     <text text="הָ֘כֵ֤ן בַּח֨וּץ" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" מְלַאכְתֶּ֗ךָ וְעַתְּדָ֣הּ בַּשָּׂדֶ֣ה לָ֑ךְ אַ֝חַ֗ר וּבָנִ֥יתָ בֵיתֶֽךָ׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.24.28">
     <text text="אַל־תְּהִ֣י עֵד־חִנָּ֣ם בְּרֵעֶ֑ךָ וַ֝הֲפִתִּ֗יתָ בִּשְׂפָתֶֽיךָ׃" />
   </verse>
   <verse bcv_str="Prov.24.29">
     <text text="אַל־תֹּאמַ֗ר כַּאֲשֶׁ֣ר עָֽשָׂה־לִ֭י כֵּ֤ן אֶעֱשֶׂה־לּ֑וֹ אָשִׁ֖יב לָאִ֣ישׁ כְּפׇעֳלֽוֹ׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.24.30">
     <text text="עַל־שְׂדֵ֣ה אִישׁ־עָצֵ֣ל עָבַ֑רְתִּי וְעַל־כֶּ֝֗רֶם אָדָ֥ם חֲסַר־לֵֽב׃" />
   </verse>
   <verse bcv_str="Prov.24.31">
     <text text="וְהִנֵּ֨ה עָ֘לָ֤ה כֻלּ֨וֹ" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" קִמְּשֹׂנִ֗ים כָּסּ֣וּ פָנָ֣יו חֲרֻלִּ֑ים וְגֶ֖דֶר אֲבָנָ֣יו נֶהֱרָֽסָה׃" />
   </verse>
   <verse bcv_str="Prov.24.32">
@@ -2744,16 +2744,16 @@
   </verse>
   <verse bcv_str="Prov.24.33">
     <text text="מְעַ֣ט שֵׁ֭נוֹת מְעַ֣ט תְּנוּמ֑וֹת מְעַ֓ט" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" חִבֻּ֖ק יָדַ֣יִם לִשְׁכָּֽב׃" />
   </verse>
   <verse bcv_str="Prov.24.34">
     <text text="וּבָֽא־מִתְהַלֵּ֥ךְ רֵישֶׁ֑ךָ וּ֝מַחְסֹרֶ֗יךָ כְּאִ֣ישׁ מָגֵֽן׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.25.1">
     <text text="גַּם־אֵ֭לֶּה מִשְׁלֵ֣י שְׁלֹמֹ֑ה אֲשֶׁ֥ר הֶ֝עְתִּ֗יקוּ אַנְשֵׁ֤י" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" חִזְקִיָּ֬ה מֶלֶךְ־יְהוּדָֽה׃" />
   </verse>
   <verse bcv_str="Prov.25.2">
@@ -2773,9 +2773,9 @@
   </verse>
   <verse bcv_str="Prov.25.7">
     <text text="כִּ֤י ט֥וֹב אֲמׇר־לְךָ֗ עֲֽלֵ֫ה" />
-    <mam-implicit-maqaf>
+    <implicit-maqaf>
       <text text="־" />
-    </mam-implicit-maqaf>
+    </implicit-maqaf>
     <text text="הֵ֥נָּה מֵ֭הַשְׁפִּ֣ילְךָ לִפְנֵ֣י נָדִ֑יב אֲשֶׁ֖ר רָא֣וּ עֵינֶֽיךָ׃" />
   </verse>
   <verse bcv_str="Prov.25.8">
@@ -2795,9 +2795,9 @@
   </verse>
   <verse bcv_str="Prov.25.13">
     <text text="כְּצִנַּת־שֶׁ֨לֶג" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" בְּי֬וֹם קָצִ֗יר צִ֣יר נֶ֭אֱמָן לְשֹׁלְחָ֑יו וְנֶ֖פֶשׁ אֲדֹנָ֣יו יָשִֽׁיב׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.25.14">
     <text text="נְשִׂיאִ֣ים וְ֭רוּחַ וְגֶ֣שֶׁם אָ֑יִן אִ֥ישׁ מִ֝תְהַלֵּ֗ל בְּמַתַּת־שָֽׁקֶר׃" />
@@ -2819,9 +2819,9 @@
   </verse>
   <verse bcv_str="Prov.25.20">
     <text text="מַ֥עֲדֶה־בֶּ֨גֶד" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" בְּי֣וֹם קָ֭רָה חֹ֣מֶץ עַל־נָ֑תֶר וְשָׁ֥ר בַּ֝שִּׁרִ֗ים עַ֣ל לֶב־רָֽע׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.25.21">
     <text text="אִם־רָעֵ֣ב שֹׂ֭נַאֲךָ הַאֲכִלֵ֣הוּ לָ֑חֶם וְאִם־צָ֝מֵ֗א הַשְׁקֵ֥הוּ מָֽיִם׃" />
@@ -2834,15 +2834,15 @@
   </verse>
   <verse bcv_str="Prov.25.24">
     <text text="ט֗וֹב שֶׁ֥בֶת עַל־פִּנַּת־גָּ֑ג מֵאֵ֥שֶׁת " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(מדונים)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[מִ֝דְיָנִ֗ים]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" וּבֵ֥ית חָֽבֶר׃" />
   </verse>
   <verse bcv_str="Prov.25.25">
@@ -2859,20 +2859,20 @@
   </verse>
   <verse bcv_str="Prov.26.1">
     <text text="כַּשֶּׁ֤לֶג" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" בַּקַּ֗יִץ וְכַמָּטָ֥ר בַּקָּצִ֑יר כֵּ֤ן לֹֽא־נָאוֶ֖ה לִכְסִ֣יל כָּבֽוֹד׃" />
   </verse>
   <verse bcv_str="Prov.26.2">
     <text text="כַּצִּפּ֣וֹר לָ֭נוּד כַּדְּר֣וֹר לָע֑וּף כֵּ֥ן קִֽלְלַ֥ת חִ֝נָּ֗ם " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(לא)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[ל֣וֹ]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" תָבֹֽא׃" />
   </verse>
   <verse bcv_str="Prov.26.3">
@@ -2931,17 +2931,17 @@
   </verse>
   <verse bcv_str="Prov.26.21">
     <text text="פֶּחָ֣ם לְ֭גֶחָלִים וְעֵצִ֣ים לְאֵ֑שׁ וְאִ֥ישׁ " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(מדונים)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[מִ֝דְיָנִ֗ים]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" לְחַרְחַר־רִֽיב׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.26.22">
     <text text="דִּבְרֵ֣י נִ֭רְגָּן כְּמִֽתְלַהֲמִ֑ים וְ֝הֵ֗ם יָרְד֥וּ חַדְרֵי־בָֽטֶן׃" />
@@ -2950,9 +2950,9 @@
     <text text="כֶּ֣סֶף סִ֭יגִים מְצֻפֶּ֣ה עַל־חָ֑רֶשׂ שְׂפָתַ֖יִם דֹּלְקִ֣ים וְלֶב־רָֽע׃" />
   </verse>
   <verse bcv_str="Prov.26.24">
-    <mam-kq-trivial>
+    <kq-trivial>
       <text text="בִּ֭שְׂפָתָו" />
-    </mam-kq-trivial>
+    </kq-trivial>
     <text text=" יִנָּכֵ֣ר שׂוֹנֵ֑א וּ֝בְקִרְבּ֗וֹ יָשִׁ֥ית מִרְמָֽה׃" />
   </verse>
   <verse bcv_str="Prov.26.25">
@@ -2996,15 +2996,15 @@
   </verse>
   <verse bcv_str="Prov.27.10">
     <text text="רֵ֥עֲךָ֨ " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(ורעה)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וְרֵ֪עַ]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" אָבִ֡יךָ אַֽל־תַּעֲזֹ֗ב וּבֵ֥ית אָחִ֗יךָ אַל־תָּ֭בוֹא בְּי֣וֹם אֵידֶ֑ךָ ט֥וֹב שָׁכֵ֥ן קָ֝ר֗וֹב מֵאָ֥ח רָחֽוֹק׃" />
   </verse>
   <verse bcv_str="Prov.27.11">
@@ -3012,7 +3012,7 @@
   </verse>
   <verse bcv_str="Prov.27.12">
     <text text="עָר֤וּם" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" רָאָ֣ה רָעָ֣ה נִסְתָּ֑ר פְּ֝תָאיִ֗ם עָבְר֥וּ נֶעֱנָֽשׁוּ׃" />
   </verse>
   <verse bcv_str="Prov.27.13">
@@ -3020,20 +3020,20 @@
   </verse>
   <verse bcv_str="Prov.27.14">
     <text text="מְבָ֘רֵ֤ךְ רֵעֵ֨הוּ" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" בְּק֣וֹל גָּ֭דוֹל בַּבֹּ֣קֶר הַשְׁכֵּ֑ים קְ֝לָלָ֗ה תֵּחָ֥שֶׁב לֽוֹ׃" />
   </verse>
   <verse bcv_str="Prov.27.15">
     <text text="דֶּ֣לֶף ט֭וֹרֵד בְּי֣וֹם סַגְרִ֑יר וְאֵ֥שֶׁת " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(מדונים)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[מִ֝דְיָנִ֗ים]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" נִשְׁתָּוָֽה׃" />
   </verse>
   <verse bcv_str="Prov.27.16">
@@ -3056,24 +3056,24 @@
   </verse>
   <verse bcv_str="Prov.27.22">
     <text text="אִ֥ם תִּכְתּֽוֹשׁ־אֶת־הָאֱוִ֨יל" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" בַּ֥מַּכְתֵּ֡שׁ בְּת֣וֹךְ הָ֭רִיפוֹת בַּעֱלִ֑י לֹא־תָס֥וּר מֵ֝עָלָ֗יו אִוַּלְתּֽוֹ׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.27.23">
     <text text="יָדֹ֣עַ תֵּ֭דַע פְּנֵ֣י צֹאנֶ֑ךָ שִׁ֥ית לִ֝בְּךָ֗ לַעֲדָרִֽים׃" />
   </verse>
   <verse bcv_str="Prov.27.24">
     <text text="כִּ֤י לֹ֣א לְעוֹלָ֣ם חֹ֑סֶן וְאִם־נֵ֝֗זֶר לְד֣וֹר " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(דור)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וָדֽוֹר]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text="׃" />
   </verse>
   <verse bcv_str="Prov.27.25">
@@ -3084,7 +3084,7 @@
   </verse>
   <verse bcv_str="Prov.27.27">
     <text text="וְדֵ֤י" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" חֲלֵ֬ב עִזִּ֗ים לְֽ֭לַחְמְךָ לְלֶ֣חֶם בֵּיתֶ֑ךָ וְ֝חַיִּ֗ים לְנַעֲרוֹתֶֽיךָ׃" />
   </verse>
   <verse bcv_str="Prov.28.1">
@@ -3098,7 +3098,7 @@
   </verse>
   <verse bcv_str="Prov.28.4">
     <text text="עֹזְבֵ֣י ת֭וֹרָה יְהַלְל֣וּ רָשָׁ֑ע וְשֹׁמְרֵ֥י ת֝וֹרָ֗ה יִתְגָּ֥רוּ בָֽם׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.28.5">
     <text text="אַנְשֵׁי־רָ֭ע לֹא־יָבִ֣ינוּ מִשְׁפָּ֑ט וּמְבַקְשֵׁ֥י יְ֝הֹוָ֗ה יָבִ֥ינוּ כֹֽל׃" />
@@ -3111,15 +3111,15 @@
   </verse>
   <verse bcv_str="Prov.28.8">
     <text text="מַרְבֶּ֣ה ה֭וֹנוֹ בְּנֶ֣שֶׁךְ " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(ובתרבית)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וְתַרְבִּ֑ית]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" לְחוֹנֵ֖ן דַּלִּ֣ים יִקְבְּצֶֽנּוּ׃" />
   </verse>
   <verse bcv_str="Prov.28.9">
@@ -3127,9 +3127,9 @@
   </verse>
   <verse bcv_str="Prov.28.10">
     <text text="מַשְׁגֶּ֤ה יְשָׁרִ֨ים" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" בְּדֶ֥רֶךְ רָ֗ע בִּשְׁחוּת֥וֹ הֽוּא־יִפּ֑וֹל וּ֝תְמִימִ֗ים יִנְחֲלוּ־טֽוֹב׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.28.11">
     <text text="חָכָ֣ם בְּ֭עֵינָיו אִ֣ישׁ עָשִׁ֑יר וְדַ֖ל מֵבִ֣ין יַחְקְרֶֽנּוּ׃" />
@@ -3148,23 +3148,23 @@
   </verse>
   <verse bcv_str="Prov.28.16">
     <text text="נָגִ֗יד חֲסַ֣ר תְּ֭בוּנוֹת וְרַ֥ב מַעֲשַׁקּ֑וֹת " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(שנאי)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[שֹׂ֥נֵא]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" בֶ֝֗צַע יַאֲרִ֥יךְ יָמִֽים׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.28.17">
     <text text="אָ֭" />
-    <mam-letter-small>
+    <letter-small>
       <text text="דָ" />
-    </mam-letter-small>
+    </letter-small>
     <text text="ם עָשֻׁ֣ק בְּדַם־נָ֑פֶשׁ עַד־בּ֥וֹר יָ֝נ֗וּס אַל־יִתְמְכוּ־בֽוֹ׃" />
   </verse>
   <verse bcv_str="Prov.28.18">
@@ -3187,7 +3187,7 @@
   </verse>
   <verse bcv_str="Prov.28.24">
     <text text="גּוֹזֵ֤ל" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" אָ֘בִ֤יו וְאִמּ֗וֹ וְאֹמֵ֥ר אֵֽין־פָּ֑שַׁע חָבֵ֥ר ה֝֗וּא לְאִ֣ישׁ מַשְׁחִֽית׃" />
   </verse>
   <verse bcv_str="Prov.28.25">
@@ -3252,7 +3252,7 @@
   </verse>
   <verse bcv_str="Prov.29.17">
     <text text="יַסֵּ֣ר בִּ֭נְךָ וִינִיחֶ֑ךָ וְיִתֵּ֖ן מַעֲדַנִּ֣ים לְנַפְשֶֽׁךָ׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.29.18">
     <text text="בְּאֵ֣ין חָ֭זוֹן יִפָּ֣רַֽע עָ֑ם וְשֹׁמֵ֖ר תּוֹרָ֣ה אַשְׁרֵֽהוּ׃" />
@@ -3283,11 +3283,11 @@
   </verse>
   <verse bcv_str="Prov.29.27">
     <text text="תּוֹעֲבַ֣ת צַ֭דִּיקִים אִ֣ישׁ עָ֑וֶל וְתוֹעֲבַ֖ת רָשָׁ֣ע יְשַׁר־דָּֽרֶךְ׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.30.1">
     <text text="דִּבְרֵ֤י" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" אָג֥וּר בִּן־יָקֶ֗ה הַמַּ֫שָּׂ֥א נְאֻ֣ם הַ֭גֶּבֶר לְאִֽיתִיאֵ֑ל לְאִ֖יתִיאֵ֣ל וְאֻכָֽל׃" />
   </verse>
   <verse bcv_str="Prov.30.2">
@@ -3298,11 +3298,11 @@
   </verse>
   <verse bcv_str="Prov.30.4">
     <text text="מִ֤י עָלָֽה־שָׁמַ֨יִם" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" וַיֵּרַ֡ד מִ֤י אָֽסַף־ר֨וּחַ" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" בְּחׇפְנָ֡יו מִ֤י צָֽרַר־מַ֨יִם" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" בַּשִּׂמְלָ֗ה מִ֭י הֵקִ֣ים כׇּל־אַפְסֵי־אָ֑רֶץ מַה־שְּׁמ֥וֹ וּמַֽה־שֶּׁם־בְּ֝נ֗וֹ כִּ֣י תֵדָֽע׃" />
   </verse>
   <verse bcv_str="Prov.30.5">
@@ -3310,21 +3310,21 @@
   </verse>
   <verse bcv_str="Prov.30.6">
     <text text="אַל־תּ֥וֹסְףְּ עַל־דְּבָרָ֑יו פֶּן־יוֹכִ֖יחַ בְּךָ֣ וְנִכְזָֽבְתָּ׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.30.7">
     <text text="שְׁ֭תַּיִם שָׁאַ֣לְתִּי מֵאִתָּ֑ךְ אַל־תִּמְנַ֥ע מִ֝מֶּ֗נִּי בְּטֶ֣רֶם אָמֽוּת׃" />
   </verse>
   <verse bcv_str="Prov.30.8">
     <text text="שָׁ֤וְא" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" וּֽדְבַר־כָּזָ֡ב הַרְחֵ֬ק מִמֶּ֗נִּי רֵ֣אשׁ וָ֭עֹשֶׁר אַל־תִּֽתֶּן־לִ֑י הַ֝טְרִיפֵ֗נִי לֶ֣חֶם חֻקִּֽי׃" />
   </verse>
   <verse bcv_str="Prov.30.9">
     <text text="פֶּ֥ן אֶשְׂבַּ֨ע" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" וְכִחַשְׁתִּי֮ וְאָמַ֗רְתִּי מִ֥י יְ֫הֹוָ֥ה וּפֶֽן־אִוָּרֵ֥שׁ וְגָנַ֑בְתִּי וְ֝תָפַ֗שְׂתִּי שֵׁ֣ם אֱלֹהָֽי׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.30.10">
     <text text="אַל־תַּלְשֵׁ֣ן עֶ֭בֶד אֶל־אֲדֹנָ֑ו פֶּֽן־יְקַלֶּלְךָ֥ וְאָשָֽׁמְתָּ׃" />
@@ -3340,18 +3340,18 @@
   </verse>
   <verse bcv_str="Prov.30.14">
     <text text="דּ֤וֹר" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" חֲרָב֣וֹת שִׁנָּיו֮ וּֽמַאֲכָל֢וֹת מְֽתַלְּעֹ֫תָ֥יו לֶאֱכֹ֣ל עֲנִיִּ֣ים מֵאֶ֑רֶץ וְ֝אֶבְיוֹנִ֗ים מֵאָדָֽם׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.30.15">
     <text text="לַ֥עֲלוּקָ֨ה" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" שְׁתֵּ֥י בָנוֹת֮ הַ֤" />
-    <mam-letter-small>
+    <letter-small>
       <text text="ב" />
-    </mam-letter-small>
-    <mam-lp-legarmeih />
+    </letter-small>
+    <lp-legarmeih />
     <text text=" הַ֥֫ב שָׁל֣וֹשׁ הֵ֭נָּה לֹ֣א תִשְׂבַּ֑עְנָה אַ֝רְבַּ֗ע לֹא־אָ֥מְרוּ הֽוֹן׃" />
   </verse>
   <verse bcv_str="Prov.30.16">
@@ -3359,33 +3359,33 @@
   </verse>
   <verse bcv_str="Prov.30.17">
     <text text="עַ֤יִן" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" תִּ֥לְעַ֣ג לְאָב֮ וְתָבֻ֢ז לִֽיקְּהַ֫ת־אֵ֥ם יִקְּר֥וּהָ עֹֽרְבֵי־נַ֑חַל וְֽיֹאכְל֥וּהָ בְנֵי־נָֽשֶׁר׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.30.18">
     <text text="שְׁלֹשָׁ֣ה הֵ֭מָּה נִפְלְא֣וּ מִמֶּ֑נִּי " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(וארבע)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וְ֝אַרְבָּעָ֗ה]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" לֹ֣א יְדַעְתִּֽים׃" />
   </verse>
   <verse bcv_str="Prov.30.19">
     <text text="דֶּ֤רֶךְ הַנֶּ֨שֶׁר" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" בַּשָּׁמַיִם֮ דֶּ֥רֶךְ נָחָ֗שׁ עֲלֵ֫י־צ֥וּר דֶּֽרֶךְ־אֳנִיָּ֥ה בְלֶב־יָ֑ם וְדֶ֖רֶךְ גֶּ֣בֶר בְּעַלְמָֽה׃" />
   </verse>
   <verse bcv_str="Prov.30.20">
     <text text="כֵּ֤ן" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" דֶּ֥רֶךְ אִשָּׁ֗ה מְנָ֫אָ֥פֶת אָ֭כְלָה וּמָ֣חֲתָה פִ֑יהָ וְ֝אָמְרָ֗ה לֹא־פָעַ֥לְתִּי אָֽוֶן׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.30.21">
     <text text="תַּ֣חַת שָׁ֭לוֹשׁ רָ֣גְזָה אֶ֑רֶץ וְתַ֥חַת אַ֝רְבַּ֗ע לֹא־תוּכַ֥ל שְׂאֵֽת׃" />
@@ -3395,7 +3395,7 @@
   </verse>
   <verse bcv_str="Prov.30.23">
     <text text="תַּ֣חַת שְׂ֭נוּאָה כִּ֣י תִבָּעֵ֑ל וְ֝שִׁפְחָ֗ה כִּֽי־תִירַ֥שׁ גְּבִרְתָּֽהּ׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.30.24">
     <text text="אַרְבָּ֣עָה הֵ֭ם קְטַנֵּי־אָ֑רֶץ וְ֝הֵ֗מָּה חֲכָמִ֥ים מְחֻכָּמִֽים׃" />
@@ -3411,7 +3411,7 @@
   </verse>
   <verse bcv_str="Prov.30.28">
     <text text="שְׂ֭מָמִית בְּיָדַ֣יִם תְּתַפֵּ֑שׂ וְ֝הִ֗יא בְּהֵ֣יכְלֵי מֶֽלֶךְ׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.30.29">
     <text text="שְׁלֹשָׁ֣ה הֵ֭מָּה מֵיטִ֣יבֵי צָ֑עַד וְ֝אַרְבָּעָ֗ה מֵיטִ֥בֵי לָֽכֶת׃" />
@@ -3427,7 +3427,7 @@
   </verse>
   <verse bcv_str="Prov.30.33">
     <text text="כִּ֤י מִ֪יץ חָלָ֡ב י֘וֹצִ֤יא חֶמְאָ֗ה וּֽמִיץ־אַ֭ף י֣וֹצִיא דָ֑ם וּמִ֥יץ אַ֝פַּ֗יִם י֣וֹצִיא רִֽיב׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.31.1">
     <text text="דִּ֭בְרֵי לְמוּאֵ֣ל מֶ֑לֶךְ מַ֝שָּׂ֗א אֲֽשֶׁר־יִסְּרַ֥תּוּ אִמּֽוֹ׃" />
@@ -3440,17 +3440,17 @@
   </verse>
   <verse bcv_str="Prov.31.4">
     <text text="אַ֤ל לַֽמְלָכִ֨ים" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" לְֽמוֹאֵ֗ל אַ֣ל לַֽמְלָכִ֣ים שְׁתוֹ־יָ֑יִן וּ֝לְרוֹזְנִ֗ים " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(או)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[אֵ֣י]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" שֵׁכָֽר׃" />
   </verse>
   <verse bcv_str="Prov.31.5">
@@ -3461,14 +3461,14 @@
   </verse>
   <verse bcv_str="Prov.31.7">
     <text text="יִ֭שְׁתֶּה וְיִשְׁכַּ֣ח רִישׁ֑וֹ וַ֝עֲמָל֗וֹ לֹ֣א יִזְכׇּר־עֽוֹד׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.31.8">
     <text text="פְּתַח־פִּ֥יךָ לְאִלֵּ֑ם אֶל־דִּ֝֗ין כׇּל־בְּנֵ֥י חֲלֽוֹף׃" />
   </verse>
   <verse bcv_str="Prov.31.9">
     <text text="פְּתַח־פִּ֥יךָ שְׁפׇט־צֶ֑דֶק וְ֝דִ֗ין עָנִ֥י וְאֶבְיֽוֹן׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Prov.31.10">
     <text text="אֵֽשֶׁת־חַ֭יִל מִ֣י יִמְצָ֑א וְרָחֹ֖ק מִפְּנִינִ֣ים מִכְרָֽהּ׃" />
@@ -3487,20 +3487,20 @@
   </verse>
   <verse bcv_str="Prov.31.15">
     <text text="וַתָּ֤קׇם" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" בְּע֬וֹד לַ֗יְלָה וַתִּתֵּ֣ן טֶ֣רֶף לְבֵיתָ֑הּ וְ֝חֹ֗ק לְנַעֲרֹתֶֽיהָ׃" />
   </verse>
   <verse bcv_str="Prov.31.16">
     <text text="זָֽמְמָ֣ה שָׂ֭דֶה וַתִּקָּחֵ֑הוּ מִפְּרִ֥י כַ֝פֶּ֗יהָ " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(נטע)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[נָ֣טְעָה]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" כָּֽרֶם׃" />
   </verse>
   <verse bcv_str="Prov.31.17">
@@ -3508,15 +3508,15 @@
   </verse>
   <verse bcv_str="Prov.31.18">
     <text text="טָ֭עֲמָה כִּי־ט֣וֹב סַחְרָ֑הּ לֹא־יִכְבֶּ֖ה " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(בליל)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[בַלַּ֣יְלָה]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" נֵרָֽהּ׃" />
   </verse>
   <verse bcv_str="Prov.31.19">
@@ -3545,15 +3545,15 @@
   </verse>
   <verse bcv_str="Prov.31.27">
     <text text="צ֭וֹפִיָּה " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(הילכות)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[הֲלִיכ֣וֹת]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" בֵּיתָ֑הּ וְלֶ֥חֶם עַ֝צְל֗וּת לֹ֣א תֹאכֵֽל׃" />
   </verse>
   <verse bcv_str="Prov.31.28">

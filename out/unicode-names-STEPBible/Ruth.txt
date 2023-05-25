@@ -54,7 +54,7 @@ SPACE
 w,:,$,·sh,‥,(me),m.
 SPACE
 $,·sh,:,n,‥,𝓂,y,-,v,a,n,a,⅃,y,w
-START mam-lp-legarmeih 
+START lp-legarmeih 
 SPACE
 m,_,x,:,l,<,w,o,n.
 SPACE
@@ -216,15 +216,15 @@ l,:,v,‥,⅃,y,τ
 SPACE
 α,i,m,·,a,⅄,h,·
 SPACE
-START mam-kq 
-START mam-kq-k 
+START kq 
+START kq-k 
 LEFT PARENTHESIS,y,ʕ,$,h,RIGHT PARENTHESIS
-STOP mam-kq-k 
+STOP kq-k 
 SPACE
-START mam-kq-q 
+START kq-q 
 LEFT SQUARE BRACKET,y,_,⅃,ʕ,_,$,·si,RIGHT SQUARE BRACKET
-STOP mam-kq-q 
-STOP mam-kq 
+STOP kq-q 
+STOP kq 
 SPACE
 y,:,h,o,w,a,<,h
 SPACE
@@ -342,7 +342,7 @@ v,a,n,i,𝓂,y,m.,.
 
 1:13 in vtrad vtbhs
 h,:_,l,a,h,‥,⅃,n.
-START mam-lp-legarmeih 
+START lp-legarmeih 
 SPACE
 τ,·,:,$,·si,_,v,·,‥,◆,r,:,n,a,h
 SPACE
@@ -628,15 +628,15 @@ $,·si,:,ʕ,o,r,i,𝓂,y,m.,.
 2:1 in vtrad vtbhs
 w,·,𝓂,l,:,n,oa,ʕ,:a,m,i,(G),y
 SPACE
-START mam-kq 
-START mam-kq-k 
+START kq 
+START kq-k 
 LEFT PARENTHESIS,m,y,d,ʕ,RIGHT PARENTHESIS
-STOP mam-kq-k 
+STOP kq-k 
 SPACE
-START mam-kq-q 
+START kq-q 
 LEFT SQUARE BRACKET,m,w,o,d,a,⅃,ʕ,RIGHT SQUARE BRACKET
-STOP mam-kq-q 
-STOP mam-kq 
+STOP kq-q 
+STOP kq 
 SPACE
 l,:,α,i,y,$,·sh,a,◆,h,·
 SPACE
@@ -1241,7 +1241,7 @@ SPACE
 h,_,m,·,w,o,α,:_,v,i,y,·,a,⅄,h
 SPACE
 g,·,_,⅃,m.
-START mam-lp-legarmeih 
+START lp-legarmeih 
 SPACE
 k,·,i,y,-,α,a,m,_,⅃,r
 SPACE
@@ -1359,33 +1359,33 @@ h,_,l,·,a,𝓂,y,:,l,a,h,.
 
 3:3 in vtrad vtbhs
 w,:,r,a,x,_,⅃,ц,:,τ,·,:
-START mam-lp-legarmeih 
+START lp-legarmeih 
 SPACE
 w,a,σ,_,◆,k,:,τ,·,:
 SPACE
 w,:,$,·si,_,(da),m,:,τ,·,:
 SPACE
-START mam-kq 
-START mam-kq-k 
+START kq 
+START kq-k 
 LEFT PARENTHESIS,$,m,l,τ,k.,RIGHT PARENTHESIS
-STOP mam-kq-k 
+STOP kq-k 
 SPACE
-START mam-kq-q 
+START kq-q 
 LEFT SQUARE BRACKET,$,·si,i,m,:,l,o,τ,_,⟓,y,i,k.,:,RIGHT SQUARE BRACKET
-STOP mam-kq-q 
-STOP mam-kq 
+STOP kq-q 
+STOP kq 
 SPACE
 ʕ,a,l,_,(ti),y,i,k.,:
 SPACE
-START mam-kq 
-START mam-kq-k 
+START kq 
+START kq-k 
 LEFT PARENTHESIS,w,y,r,d,τ,y,RIGHT PARENTHESIS
-STOP mam-kq-k 
+STOP kq-k 
 SPACE
-START mam-kq-q 
+START kq-q 
 LEFT SQUARE BRACKET,w,:,y,a,r,_,⅃,d,:,τ,·,:,RIGHT SQUARE BRACKET
-STOP mam-kq-q 
-STOP mam-kq 
+STOP kq-q 
+STOP kq 
 SPACE
 h,_,g,·,o,⅄,r,∵,n.
 SPACE
@@ -1420,15 +1420,15 @@ w,:,g,i,l,·,i,(me),y,τ
 SPACE
 m,_,r,:,g,·,:,l,o,τ,a,(ti),y,w
 SPACE
-START mam-kq 
-START mam-kq-k 
+START kq 
+START kq-k 
 LEFT PARENTHESIS,w,$,k,v,τ,y,RIGHT PARENTHESIS
-STOP mam-kq-k 
+STOP kq-k 
 SPACE
-START mam-kq-q 
+START kq-q 
 LEFT SQUARE BRACKET,w,:,$,·sh,a,k,a,⅄,v,:,τ,·,:,RIGHT SQUARE BRACKET
-STOP mam-kq-q 
-STOP mam-kq 
+STOP kq-q 
+STOP kq 
 SPACE
 w,:,h,w,·,α,(p)
 SPACE
@@ -1451,9 +1451,9 @@ k,·,o,⟓,l
 SPACE
 α,:_,$,·sh,∵,r,-,τ,·,o,α,m,:,r,i,(me),y
 SPACE
-START mam-kq-qvk 
+START kq-qvk 
 LEFT SQUARE BRACKET,α,‥,l,_,(ti),y,RIGHT SQUARE BRACKET
-STOP mam-kq-qvk 
+STOP kq-qvk 
 SPACE
 α,∵,𝓂,ʕ,:∵,$,·si,∵,𝓂,h,.
 
@@ -1612,9 +1612,9 @@ SPACE
 SPACE
 k,·,i,(me),y
 SPACE
-START mam-kq-kvq 
+START kq-kvq 
 LEFT PARENTHESIS,α,m.,RIGHT PARENTHESIS
-STOP mam-kq-kvq 
+STOP kq-kvq 
 SPACE
 g,o,α,‥,(ti),l
 SPACE
@@ -1632,11 +1632,11 @@ m,i,m,·,∵,𝓂,n,·,i,y,.
 
 3:13 in vtrad vtbhs
 l,i,⅃,y
-START mam-letter-large 
+START letter-large 
 n,i
-STOP mam-letter-large 
+STOP letter-large 
 y
-START mam-lp-legarmeih 
+START lp-legarmeih 
 SPACE
 h,_,l,·,_,◆,y,:,l,a,h
 SPACE
@@ -1675,15 +1675,15 @@ SPACE
 SPACE
 w,_,τ,·,a,Ƶ,q,oa,m.
 SPACE
-START mam-kq 
-START mam-kq-k 
+START kq 
+START kq-k 
 LEFT PARENTHESIS,v,θ,r,w,m.,RIGHT PARENTHESIS
-STOP mam-kq-k 
+STOP kq-k 
 SPACE
-START mam-kq-q 
+START kq-q 
 LEFT SQUARE BRACKET,v,·,:,θ,∵,⟓,r,∵,m.,RIGHT SQUARE BRACKET
-STOP mam-kq-q 
-STOP mam-kq 
+STOP kq-q 
+STOP kq 
 SPACE
 y,_,k,·,i,(me),y,r
 SPACE
@@ -1764,9 +1764,9 @@ k,·,i,(ye),y
 SPACE
 α,a,m,_,⅃,r
 SPACE
-START mam-kq-qvk 
+START kq-qvk 
 LEFT SQUARE BRACKET,α,‥,l,_,ƶ,y,RIGHT SQUARE BRACKET
-STOP mam-kq-qvk 
+STOP kq-qvk 
 SPACE
 α,_,l,-,τ,·,a,v,(me),w,o,α,i,y
 SPACE
@@ -1919,15 +1919,15 @@ h,_,g,·,i,⅃,y,d,a,h
 SPACE
 l,·,i,◆,y
 SPACE
-START mam-kq 
-START mam-kq-k 
+START kq 
+START kq-k 
 LEFT PARENTHESIS,w,α,d,ʕ,RIGHT PARENTHESIS
-STOP mam-kq-k 
+STOP kq-k 
 SPACE
-START mam-kq-q 
+START kq-q 
 LEFT SQUARE BRACKET,w,:,α,‥,𝓂,d,:,ʕ,a,h,(p),RIGHT SQUARE BRACKET
-STOP mam-kq-q 
-STOP mam-kq 
+STOP kq-q 
+STOP kq 
 SPACE
 k,·,i,⅃,y
 SPACE
@@ -1968,15 +1968,15 @@ h,_,m,·,w,o,α,:_,v,i,y,·,a,<,h
 SPACE
 α,‥,𝓂,$,·sh,∵,τ,-,h,_,m,·,‥,τ,(p)
 SPACE
-START mam-kq 
-START mam-kq-k 
+START kq 
+START kq-k 
 LEFT PARENTHESIS,q,n,y,τ,y,RIGHT PARENTHESIS
-STOP mam-kq-k 
+STOP kq-k 
 SPACE
-START mam-kq-q 
+START kq-q 
 LEFT SQUARE BRACKET,q,a,n,i,ƶ,y,τ,a,RIGHT SQUARE BRACKET
-STOP mam-kq-q 
-STOP mam-kq 
+STOP kq-q 
+STOP kq 
 SPACE
 l,:,h,a,q,i,(me),y,m.
 SPACE
@@ -1993,15 +1993,15 @@ l,o,<,α
 SPACE
 α,w,·,k,_,l,(p)
 SPACE
-START mam-kq 
-START mam-kq-k 
+START kq 
+START kq-k 
 LEFT PARENTHESIS,l,g,α,w,l,RIGHT PARENTHESIS
-STOP mam-kq-k 
+STOP kq-k 
 SPACE
-START mam-kq-q 
+START kq-q 
 LEFT SQUARE BRACKET,l,i,g,:,α,oa,l,-,RIGHT SQUARE BRACKET
-STOP mam-kq-q 
-STOP mam-kq 
+STOP kq-q 
+STOP kq 
 l,i,ƶ,y
 SPACE
 f,·,∵,n.,-,α,_,$,·sh,:,x,i,(ti),y,τ
@@ -2162,7 +2162,7 @@ SPACE
 α,∵,l,-,v,·,‥,y,τ,∵,◆,k.,a
 SPACE
 k,·,:,r,a,x,‥,<,l
-START mam-lp-paseq 
+START lp-paseq 
 w,·,k,:,l,‥,α,a,h,(p)
 SPACE
 α,:_,$,·sh,∵,(qa),r
@@ -2344,7 +2344,7 @@ SPACE
 α,:_,v,i,(me),y
 SPACE
 d,a,w,i,𝓂,d,.
-START mam-spi-pe2 
+START spi-pe2 
 
 4:18 in vtrad vtbhs
 w,:,α,‥,(p),l,·,∵,h,(p)

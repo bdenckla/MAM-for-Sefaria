@@ -4,7 +4,7 @@
   </verse>
   <verse bcv_str="Ruth.1.2">
     <text text="וְשֵׁ֣ם הָאִ֣ישׁ אֱֽלִימֶ֡לֶךְ וְשֵׁם֩ אִשְׁתּ֨וֹ נׇעֳמִ֜י וְשֵׁ֥ם שְׁנֵֽי־בָנָ֣יו" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" מַחְל֤וֹן וְכִלְיוֹן֙ אֶפְרָתִ֔ים מִבֵּ֥ית לֶ֖חֶם יְהוּדָ֑ה וַיָּבֹ֥אוּ שְׂדֵֽי־מוֹאָ֖ב וַיִּֽהְיוּ־שָֽׁם׃" />
   </verse>
   <verse bcv_str="Ruth.1.3">
@@ -24,15 +24,15 @@
   </verse>
   <verse bcv_str="Ruth.1.8">
     <text text="וַתֹּ֤אמֶר נׇעֳמִי֙ לִשְׁתֵּ֣י כַלֹּתֶ֔יהָ לֵ֣כְנָה שֹּׁ֔בְנָה אִשָּׁ֖ה לְבֵ֣ית אִמָּ֑הּ " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(יעשה)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[יַ֣עַשׂ]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" יְהֹוָ֤ה עִמָּכֶם֙ חֶ֔סֶד כַּאֲשֶׁ֧ר עֲשִׂיתֶ֛ם עִם־הַמֵּתִ֖ים וְעִמָּדִֽי׃" />
   </verse>
   <verse bcv_str="Ruth.1.9">
@@ -49,7 +49,7 @@
   </verse>
   <verse bcv_str="Ruth.1.13">
     <text text="הֲלָהֵ֣ן" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" תְּשַׂבֵּ֗רְנָה עַ֚ד אֲשֶׁ֣ר יִגְדָּ֔לוּ הֲלָהֵן֙ תֵּֽעָגֵ֔נָה לְבִלְתִּ֖י הֱי֣וֹת לְאִ֑ישׁ אַ֣ל בְּנֹתַ֗י כִּֽי־מַר־לִ֤י מְאֹד֙ מִכֶּ֔ם כִּֽי־יָצְאָ֥ה בִ֖י יַד־יְהֹוָֽה׃" />
   </verse>
   <verse bcv_str="Ruth.1.14">
@@ -81,15 +81,15 @@
   </verse>
   <verse bcv_str="Ruth.2.1">
     <text text="וּֽלְנׇעֳמִ֞י " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(מידע)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[מוֹדָ֣ע]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" לְאִישָׁ֗הּ אִ֚ישׁ גִּבּ֣וֹר חַ֔יִל מִמִּשְׁפַּ֖חַת אֱלִימֶ֑לֶךְ וּשְׁמ֖וֹ בֹּֽעַז׃" />
   </verse>
   <verse bcv_str="Ruth.2.2">
@@ -151,7 +151,7 @@
   </verse>
   <verse bcv_str="Ruth.2.21">
     <text text="וַתֹּ֖אמֶר ר֣וּת הַמּוֹאֲבִיָּ֑ה גַּ֣ם" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" כִּי־אָמַ֣ר אֵלַ֗י עִם־הַנְּעָרִ֤ים אֲשֶׁר־לִי֙ תִּדְבָּקִ֔ין עַ֣ד אִם־כִּלּ֔וּ אֵ֥ת כׇּל־הַקָּצִ֖יר אֲשֶׁר־לִֽי׃" />
   </verse>
   <verse bcv_str="Ruth.2.22">
@@ -168,47 +168,47 @@
   </verse>
   <verse bcv_str="Ruth.3.3">
     <text text="וְרָחַ֣צְתְּ" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" וָסַ֗כְתְּ וְשַׂ֧מְתְּ " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(שמלתך)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[שִׂמְלֹתַ֛יִךְ]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" עָלַ֖יִךְ " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(וירדתי)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וְיָרַ֣דְתְּ]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" הַגֹּ֑רֶן אַל־תִּוָּדְעִ֣י לָאִ֔ישׁ עַ֥ד כַּלֹּת֖וֹ לֶאֱכֹ֥ל וְלִשְׁתּֽוֹת׃" />
   </verse>
   <verse bcv_str="Ruth.3.4">
     <text text="וִיהִ֣י בְשׇׁכְב֗וֹ וְיָדַ֙עַתְּ֙ אֶת־הַמָּקוֹם֙ אֲשֶׁ֣ר יִשְׁכַּב־שָׁ֔ם וּבָ֛את וְגִלִּ֥ית מַרְגְּלֹתָ֖יו " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(ושכבתי)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וְשָׁכָ֑בְתְּ]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" וְהוּא֙ יַגִּ֣יד לָ֔ךְ אֵ֖ת אֲשֶׁ֥ר תַּעֲשִֽׂין׃" />
   </verse>
   <verse bcv_str="Ruth.3.5">
     <text text="וַתֹּ֖אמֶר אֵלֶ֑יהָ כֹּ֛ל אֲשֶׁר־תֹּאמְרִ֥י " />
-    <mam-kq-qvk>
+    <kq-qvk>
       <text text="[אֵלַ֖י]" />
-    </mam-kq-qvk>
+    </kq-qvk>
     <text text=" אֶֽעֱשֶֽׂה׃" />
   </verse>
   <verse bcv_str="Ruth.3.6">
@@ -231,31 +231,31 @@
   </verse>
   <verse bcv_str="Ruth.3.12">
     <text text="וְעַתָּה֙ כִּ֣י אׇמְנָ֔ם כִּ֥י " />
-    <mam-kq-kvq>
+    <kq-kvq>
       <text text="(אם)" />
-    </mam-kq-kvq>
+    </kq-kvq>
     <text text=" גֹאֵ֖ל אָנֹ֑כִי וְגַ֛ם יֵ֥שׁ גֹּאֵ֖ל קָר֥וֹב מִמֶּֽנִּי׃" />
   </verse>
   <verse bcv_str="Ruth.3.13">
     <text text="לִ֣י" />
-    <mam-letter-large>
+    <letter-large>
       <text text="נִ" />
-    </mam-letter-large>
+    </letter-large>
     <text text="י" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" הַלַּ֗יְלָה וְהָיָ֤ה בַבֹּ֙קֶר֙ אִם־יִגְאָלֵ֥ךְ טוֹב֙ יִגְאָ֔ל וְאִם־לֹ֨א יַחְפֹּ֧ץ לְגׇאֳלֵ֛ךְ וּגְאַלְתִּ֥יךְ אָנֹ֖כִי חַי־יְהֹוָ֑ה שִׁכְבִ֖י עַד־הַבֹּֽקֶר׃" />
   </verse>
   <verse bcv_str="Ruth.3.14">
     <text text="וַתִּשְׁכַּ֤ב מַרְגְּלוֹתָו֙ עַד־הַבֹּ֔קֶר וַתָּ֕קׇם " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(בטרום)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[בְּטֶ֛רֶם]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" יַכִּ֥יר אִ֖ישׁ אֶת־רֵעֵ֑הוּ וַיֹּ֙אמֶר֙ אַל־יִוָּדַ֔ע כִּי־בָ֥אָה הָאִשָּׁ֖ה הַגֹּֽרֶן׃" />
   </verse>
   <verse bcv_str="Ruth.3.15">
@@ -266,9 +266,9 @@
   </verse>
   <verse bcv_str="Ruth.3.17">
     <text text="וַתֹּ֕אמֶר שֵׁשׁ־הַשְּׂעֹרִ֥ים הָאֵ֖לֶּה נָ֣תַן לִ֑י כִּ֚י אָמַ֣ר " />
-    <mam-kq-qvk>
+    <kq-qvk>
       <text text="[אֵלַ֔י]" />
-    </mam-kq-qvk>
+    </kq-qvk>
     <text text=" אַל־תָּב֥וֹאִי רֵיקָ֖ם אֶל־חֲמוֹתֵֽךְ׃" />
   </verse>
   <verse bcv_str="Ruth.3.18">
@@ -285,41 +285,41 @@
   </verse>
   <verse bcv_str="Ruth.4.4">
     <text text="וַאֲנִ֨י אָמַ֜רְתִּי אֶגְלֶ֧ה אׇזְנְךָ֣ לֵאמֹ֗ר קְ֠נֵ֠ה נֶ֥גֶד הַיֹּשְׁבִים֮ וְנֶ֣גֶד זִקְנֵ֣י עַמִּי֒ אִם־תִּגְאַל֙ גְּאָ֔ל וְאִם־לֹ֨א יִגְאַ֜ל הַגִּ֣ידָה לִּ֗י " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(ואדע)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וְאֵֽדְעָה֙]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" כִּ֣י אֵ֤ין זוּלָֽתְךָ֙ לִגְא֔וֹל וְאָנֹכִ֖י אַחֲרֶ֑יךָ וַיֹּ֖אמֶר אָנֹכִ֥י אֶגְאָֽל׃" />
   </verse>
   <verse bcv_str="Ruth.4.5">
     <text text="וַיֹּ֣אמֶר בֹּ֔עַז בְּיוֹם־קְנוֹתְךָ֥ הַשָּׂדֶ֖ה מִיַּ֣ד נׇעֳמִ֑י וּ֠מֵאֵ֠ת ר֣וּת הַמּוֹאֲבִיָּ֤ה אֵֽשֶׁת־הַמֵּת֙ " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(קניתי)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[קָנִ֔יתָ]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" לְהָקִ֥ים שֵׁם־הַמֵּ֖ת עַל־נַחֲלָתֽוֹ׃" />
   </verse>
   <verse bcv_str="Ruth.4.6">
     <text text="וַיֹּ֣אמֶר הַגֹּאֵ֗ל לֹ֤א אוּכַל֙ " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(לגאול)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[לִגְאׇל־]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text="לִ֔י פֶּן־אַשְׁחִ֖ית אֶת־נַחֲלָתִ֑י גְּאַל־לְךָ֤ אַתָּה֙ אֶת־גְּאֻלָּתִ֔י כִּ֥י לֹא־אוּכַ֖ל לִגְאֹֽל׃" />
   </verse>
   <verse bcv_str="Ruth.4.7">
@@ -336,7 +336,7 @@
   </verse>
   <verse bcv_str="Ruth.4.11">
     <text text="וַיֹּ֨אמְר֜וּ כׇּל־הָעָ֧ם אֲשֶׁר־בַּשַּׁ֛עַר וְהַזְּקֵנִ֖ים עֵדִ֑ים יִתֵּן֩ יְהֹוָ֨ה אֶֽת־הָאִשָּׁ֜ה הַבָּאָ֣ה אֶל־בֵּיתֶ֗ךָ כְּרָחֵ֤ל" />
-    <mam-lp-paseq />
+    <lp-paseq />
     <text text="וּכְלֵאָה֙ אֲשֶׁ֨ר בָּנ֤וּ שְׁתֵּיהֶם֙ אֶת־בֵּ֣ית יִשְׂרָאֵ֔ל וַעֲשֵׂה־חַ֣יִל בְּאֶפְרָ֔תָה וּקְרָא־שֵׁ֖ם בְּבֵ֥ית לָֽחֶם׃" />
   </verse>
   <verse bcv_str="Ruth.4.12">
@@ -356,7 +356,7 @@
   </verse>
   <verse bcv_str="Ruth.4.17">
     <text text="וַתִּקְרֶ֩אנָה֩ ל֨וֹ הַשְּׁכֵנ֥וֹת שֵׁם֙ לֵאמֹ֔ר יֻלַּד־בֵּ֖ן לְנׇעֳמִ֑י וַתִּקְרֶ֤אנָֽה שְׁמוֹ֙ עוֹבֵ֔ד ה֥וּא אֲבִֽי־יִשַׁ֖י אֲבִ֥י דָוִֽד׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Ruth.4.18">
     <text text="וְאֵ֙לֶּה֙ תּוֹלְד֣וֹת פָּ֔רֶץ פֶּ֖רֶץ הוֹלִ֥יד אֶת־חֶצְרֽוֹן׃" />

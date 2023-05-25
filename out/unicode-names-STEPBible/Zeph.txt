@@ -1,7 +1,7 @@
 unicode_names Tsefaniah
 1:1 in vtrad vtbhs
 d,·,:,v,_,r,-,y,:,h,o,w,a,⅃,h
-START mam-lp-legarmeih 
+START lp-legarmeih 
 SPACE
 α,:_,$,·sh,∵,⅃,r
 SPACE
@@ -260,7 +260,7 @@ SPACE
 k,·,oa,l,-,n,:,θ,i,(me),y,l,‥,y
 SPACE
 k,a,𝓂,σ,∵,f.,.
-START mam-spi-samekh2 
+START spi-samekh2 
 
 1:12 in vtrad vtbhs
 w,:,h,a,y,a,h,(p)
@@ -462,7 +462,7 @@ SPACE
 k,·,oa,l,-,y,o,$,·sh,:,v,‥,(ti),y
 SPACE
 h,a,α,a,𝓂,r,∵,ц.,.
-START mam-spi-samekh2 
+START spi-samekh2 
 
 2:1 in vtrad vtbhs
 h,i,𝓂,τ,:,q,w,o,$,·sh,:,$,·sh,(ti),w,·
@@ -489,7 +489,7 @@ SPACE
 y,⅄,w,o,m.
 SPACE
 v,·,:,θ,∵,⅃,r,∵,m.
-START mam-lp-legarmeih 
+START lp-legarmeih 
 SPACE
 l,o,α,-,y,a,v,⅃,w,o,α
 SPACE
@@ -560,7 +560,7 @@ SPACE
 w,:,ʕ,∵,q,:,r,(ti),w,o,n.
 SPACE
 τ,·,‥,ʕ,a,q,‥,𝓂,r,.
-START mam-spi-samekh2 
+START spi-samekh2 
 
 2:5 in vtrad vtbhs
 h,◆,w,o,y
@@ -641,15 +641,15 @@ SPACE
 SPACE
 w,:,$,·sh,a,(me),v
 SPACE
-START mam-kq 
-START mam-kq-k 
+START kq 
+START kq-k 
 LEFT PARENTHESIS,$,v,w,τ,m.,RIGHT PARENTHESIS
-STOP mam-kq-k 
+STOP kq-k 
 SPACE
-START mam-kq-q 
+START kq-q 
 LEFT SQUARE BRACKET,$,·sh,:,v,i,y,τ,a,𝓂,m.,RIGHT SQUARE BRACKET
-STOP mam-kq-q 
-STOP mam-kq 
+STOP kq-q 
+STOP kq 
 .
 
 2:8 in vtrad vtbhs
@@ -861,7 +861,7 @@ SPACE
 ʕ,⅄,w,o,d
 SPACE
 α,‥,⅃,y,k.,:
-START mam-lp-legarmeih 
+START lp-legarmeih 
 SPACE
 h,a,y,:,τ,a,⅃,h
 SPACE
@@ -882,7 +882,7 @@ SPACE
 y,a,n,i,(me),y,ʕ,_
 SPACE
 y,a,d,𝓂,w,o,.
-START mam-spi-pe2 
+START spi-pe2 
 
 3:1 in vtrad vtbhs
 h,(me),w,o,y
@@ -1154,7 +1154,7 @@ SPACE
 v,·,i,⅄,y
 SPACE
 k,·,i,y,-,α,a,⅃,z
-START mam-lp-legarmeih 
+START lp-legarmeih 
 SPACE
 α,a,σ,i,⅃,y,r
 SPACE
@@ -1221,7 +1221,7 @@ SPACE
 w,:,α,‥,(me),y,n.
 SPACE
 m,_,x,:_,r,i,𝓂,y,d,.
-START mam-spi-pe2 
+START spi-pe2 
 
 3:14 in vtrad vtbhs
 r,oa,n,·,i,y,(p)
@@ -1256,7 +1256,7 @@ SPACE
 m,∵,⅃,l,∵,k.,:
 SPACE
 y,i,$,·si,:,r,a,α,‥,<,l
-START mam-lp-paseq 
+START lp-paseq 
 y,:,h,o,w,a,h,(p)
 SPACE
 v,·,:,q,i,r,:,v,·,‥,ƶ,k.,:
@@ -1266,7 +1266,7 @@ SPACE
 r,a,(ti),ʕ
 SPACE
 ʕ,𝓂,w,o,d,.
-START mam-spi-pe2 
+START spi-pe2 
 
 3:16 in vtrad vtbhs
 v,·,_,y,·,⅃,w,o,m.

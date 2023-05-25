@@ -1,7 +1,7 @@
 <book39 versification-tradition="BHS">
   <verse bcv_str="Job.1.1">
     <text text="אִ֛ישׁ הָיָ֥ה בְאֶֽרֶץ־ע֖וּץ אִיּ֣וֹב שְׁמ֑וֹ וְהָיָ֣ה" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" הָאִ֣ישׁ הַה֗וּא תָּ֧ם וְיָשָׁ֛ר וִירֵ֥א אֱלֹהִ֖ים וְסָ֥ר מֵרָֽע׃" />
   </verse>
   <verse bcv_str="Job.1.2">
@@ -15,7 +15,7 @@
   </verse>
   <verse bcv_str="Job.1.5">
     <text text="וַיְהִ֡י כִּ֣י הִקִּ֩יפוּ֩ יְמֵ֨י הַמִּשְׁתֶּ֜ה וַיִּשְׁלַ֧ח אִיּ֣וֹב וַֽיְקַדְּשֵׁ֗ם וְהִשְׁכִּ֣ים בַּבֹּ֘קֶר֮ וְהֶעֱלָ֣ה עֹלוֹת֮ מִסְפַּ֣ר כֻּלָּם֒ כִּ֚י אָמַ֣ר אִיּ֔וֹב אוּלַי֙ חָטְא֣וּ בָנַ֔י וּבֵרְכ֥וּ אֱלֹהִ֖ים בִּלְבָבָ֑ם כָּ֛כָה יַעֲשֶׂ֥ה אִיּ֖וֹב כׇּל־הַיָּמִֽים׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.1.6">
     <text text="וַיְהִ֣י הַיּ֔וֹם וַיָּבֹ֙אוּ֙ בְּנֵ֣י הָאֱלֹהִ֔ים לְהִתְיַצֵּ֖ב עַל־יְהֹוָ֑ה וַיָּב֥וֹא גַֽם־הַשָּׂטָ֖ן בְּתוֹכָֽם׃" />
@@ -31,15 +31,15 @@
   </verse>
   <verse bcv_str="Job.1.10">
     <text text="הֲלֹֽא־" />
-    <mam-kq>
-      <mam-kq-q>
+    <kq>
+      <kq-q>
         <text text="[אַ֠תָּ֠ה]" />
-      </mam-kq-q>
+      </kq-q>
       <text text=" " />
-      <mam-kq-k>
+      <kq-k>
         <text text="(את)" />
-      </mam-kq-k>
-    </mam-kq>
+      </kq-k>
+    </kq>
     <text text=" שַׂ֣כְתָּ בַעֲד֧וֹ וּבְעַד־בֵּית֛וֹ וּבְעַ֥ד כׇּל־אֲשֶׁר־ל֖וֹ מִסָּבִ֑יב מַעֲשֵׂ֤ה יָדָיו֙ בֵּרַ֔כְתָּ וּמִקְנֵ֖הוּ פָּרַ֥ץ בָּאָֽרֶץ׃" />
   </verse>
   <verse bcv_str="Job.1.11">
@@ -59,14 +59,14 @@
   </verse>
   <verse bcv_str="Job.1.16">
     <text text="ע֣וֹד" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" זֶ֣ה מְדַבֵּ֗ר וְזֶה֮ בָּ֣א וַיֹּאמַר֒ אֵ֣שׁ אֱלֹהִ֗ים נָֽפְלָה֙ מִן־הַשָּׁמַ֔יִם וַתִּבְעַ֥ר בַּצֹּ֛אן וּבַנְּעָרִ֖ים וַתֹּֽאכְלֵ֑ם וָאִמָּ֨לְטָ֧ה רַק־אֲנִ֛י לְבַדִּ֖י לְהַגִּ֥יד לָֽךְ׃" />
   </verse>
   <verse bcv_str="Job.1.17">
     <text text="ע֣וֹד" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" זֶ֣ה מְדַבֵּ֗ר וְזֶה֮ בָּ֣א וַיֹּאמַר֒ כַּשְׂדִּ֞ים שָׂ֣מוּ" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" שְׁלֹשָׁ֣ה רָאשִׁ֗ים וַֽיִּפְשְׁט֤וּ עַל־הַגְּמַלִּים֙ וַיִּקָּח֔וּם וְאֶת־הַנְּעָרִ֖ים הִכּ֣וּ לְפִי־חָ֑רֶב וָאִמָּ֨לְטָ֧ה רַק־אֲנִ֛י לְבַדִּ֖י לְהַגִּ֥יד לָֽךְ׃" />
   </verse>
   <verse bcv_str="Job.1.18">
@@ -74,7 +74,7 @@
   </verse>
   <verse bcv_str="Job.1.19">
     <text text="וְהִנֵּה֩ ר֨וּחַ גְּדוֹלָ֜ה בָּ֣אָה" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" מֵעֵ֣בֶר הַמִּדְבָּ֗ר וַיִּגַּע֙ בְּאַרְבַּע֙ פִּנּ֣וֹת הַבַּ֔יִת וַיִּפֹּ֥ל עַל־הַנְּעָרִ֖ים וַיָּמ֑וּתוּ וָאִמָּ֨לְטָ֧ה רַק־אֲנִ֛י לְבַדִּ֖י לְהַגִּ֥יד לָֽךְ׃" />
   </verse>
   <verse bcv_str="Job.1.20">
@@ -85,7 +85,7 @@
   </verse>
   <verse bcv_str="Job.1.22">
     <text text="בְּכׇל־זֹ֖את לֹא־חָטָ֣א אִיּ֑וֹב וְלֹא־נָתַ֥ן תִּפְלָ֖ה לֵאלֹהִֽים׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.2.1">
     <text text="וַיְהִ֣י הַיּ֔וֹם וַיָּבֹ֙אוּ֙ בְּנֵ֣י הָאֱלֹהִ֔ים לְהִתְיַצֵּ֖ב עַל־יְהֹוָ֑ה וַיָּב֤וֹא גַֽם־הַשָּׂטָן֙ בְּתֹכָ֔ם לְהִתְיַצֵּ֖ב עַל־יְהֹוָֽה׃" />
@@ -107,15 +107,15 @@
   </verse>
   <verse bcv_str="Job.2.7">
     <text text="וַיֵּצֵא֙ הַשָּׂטָ֔ן מֵאֵ֖ת פְּנֵ֣י יְהֹוָ֑ה וַיַּ֤ךְ אֶת־אִיּוֹב֙ בִּשְׁחִ֣ין רָ֔ע מִכַּ֥ף רַגְל֖וֹ " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(עד)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וְעַ֥ד]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" קׇדְקֳדֽוֹ׃" />
   </verse>
   <verse bcv_str="Job.2.8">
@@ -126,11 +126,11 @@
   </verse>
   <verse bcv_str="Job.2.10">
     <text text="וַיֹּ֣אמֶר אֵלֶ֗יהָ כְּדַבֵּ֞ר אַחַ֤ת הַנְּבָלוֹת֙ תְּדַבֵּ֔רִי גַּ֣ם אֶת־הַטּ֗וֹב נְקַבֵּל֙ מֵאֵ֣ת הָאֱלֹהִ֔ים וְאֶת־הָרָ֖ע לֹ֣א נְקַבֵּ֑ל בְּכׇל־זֹ֛את לֹא־חָטָ֥א אִיּ֖וֹב בִּשְׂפָתָֽיו׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.2.11">
     <text text="וַֽיִּשְׁמְע֞וּ שְׁלֹ֣שֶׁת" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" רֵעֵ֣י אִיּ֗וֹב אֵ֣ת כׇּל־הָרָעָ֣ה הַזֹּאת֮ הַבָּ֣אָה עָלָיו֒ וַיָּבֹ֙אוּ֙ אִ֣ישׁ מִמְּקֹמ֔וֹ אֱלִיפַ֤ז הַתֵּֽימָנִי֙ וּבִלְדַּ֣ד הַשּׁוּחִ֔י וְצוֹפַ֖ר הַנַּֽעֲמָתִ֑י וַיִּוָּעֲד֣וּ יַחְדָּ֔ו לָב֥וֹא לָנֽוּד־ל֖וֹ וּֽלְנַחֲמֽוֹ׃" />
   </verse>
   <verse bcv_str="Job.2.12">
@@ -141,7 +141,7 @@
   </verse>
   <verse bcv_str="Job.3.1">
     <text text="אַֽחֲרֵי־כֵ֗ן פָּתַ֤ח אִיּוֹב֙ אֶת־פִּ֔יהוּ וַיְקַלֵּ֖ל אֶת־יוֹמֽוֹ׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.3.2">
     <text text="וַיַּ֥עַן אִיּ֗וֹב וַיֹּאמַֽר׃" />
@@ -151,9 +151,9 @@
   </verse>
   <verse bcv_str="Job.3.4">
     <text text="הַיּ֥וֹם הַה֗וּא יְֽהִ֫י" />
-    <mam-implicit-maqaf>
+    <implicit-maqaf>
       <text text="־" />
-    </mam-implicit-maqaf>
+    </implicit-maqaf>
     <text text="חֹ֥שֶׁךְ אַֽל־יִדְרְשֵׁ֣הוּ אֱל֣וֹהַּ מִמַּ֑עַל וְאַל־תּוֹפַ֖ע עָלָ֣יו נְהָרָֽה׃" />
   </verse>
   <verse bcv_str="Job.3.5">
@@ -182,7 +182,7 @@
   </verse>
   <verse bcv_str="Job.3.13">
     <text text="כִּֽי־עַ֭תָּה שָׁכַ֣בְתִּי וְאֶשְׁק֑וֹט יָ֝שַׁ֗נְתִּי אָ֤ז" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" יָנ֬וּחַֽ לִֽי׃" />
   </verse>
   <verse bcv_str="Job.3.14">
@@ -223,9 +223,9 @@
   </verse>
   <verse bcv_str="Job.3.26">
     <text text="לֹ֤א שָׁלַ֨וְתִּי" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" וְלֹ֖א שָׁקַ֥טְתִּי וְֽלֹא־נָ֗חְתִּי וַיָּ֥בֹא רֹֽגֶז׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.4.1">
     <text text="וַ֭יַּעַן אֱלִיפַ֥ז הַֽתֵּימָנִ֗י וַיֹּאמַֽר׃" />
@@ -241,7 +241,7 @@
   </verse>
   <verse bcv_str="Job.4.5">
     <text text="כִּ֤י עַתָּ֨ה" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" תָּב֣וֹא אֵלֶ֣יךָ וַתֵּ֑לֶא תִּגַּ֥ע עָ֝דֶ֗יךָ וַתִּבָּהֵֽל׃" />
   </verse>
   <verse bcv_str="Job.4.6">
@@ -276,7 +276,7 @@
   </verse>
   <verse bcv_str="Job.4.16">
     <text text="יַעֲמֹ֤ד" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" וְֽלֹא־אַכִּ֬יר מַרְאֵ֗הוּ תְּ֭מוּנָה לְנֶ֣גֶד עֵינָ֑י דְּמָמָ֖ה וָק֣וֹל אֶשְׁמָֽע׃" />
   </verse>
   <verse bcv_str="Job.4.17">
@@ -287,7 +287,7 @@
   </verse>
   <verse bcv_str="Job.4.19">
     <text text="אַ֤ף" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" שֹׁכְנֵ֬י בָֽתֵּי־חֹ֗מֶר אֲשֶׁר־בֶּעָפָ֥ר יְסוֹדָ֑ם יְ֝דַכְּא֗וּם לִפְנֵי־עָֽשׁ׃" />
   </verse>
   <verse bcv_str="Job.4.20">
@@ -310,12 +310,12 @@
   </verse>
   <verse bcv_str="Job.5.5">
     <text text="אֲשֶׁ֤ר קְצִיר֨וֹ" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" רָ֘עֵ֤ב יֹאכֵ֗ל וְאֶֽל־מִצִּנִּ֥ים יִקָּחֵ֑הוּ וְשָׁאַ֖ף צַמִּ֣ים חֵילָֽם׃" />
   </verse>
   <verse bcv_str="Job.5.6">
     <text text="כִּ֤י" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" לֹא־יֵצֵ֣א מֵעָפָ֣ר אָ֑וֶן וּ֝מֵאֲדָמָ֗ה לֹא־יִצְמַ֥ח עָמָֽל׃" />
   </verse>
   <verse bcv_str="Job.5.7">
@@ -353,14 +353,14 @@
   </verse>
   <verse bcv_str="Job.5.18">
     <text text="כִּ֤י ה֣וּא יַכְאִ֣יב וְיֶחְבָּ֑שׁ יִ֝מְחַ֗ץ " />
-    <mam-kq-trivial>
+    <kq-trivial>
       <text text="וְיָדָ֥ו" />
-    </mam-kq-trivial>
+    </kq-trivial>
     <text text=" תִּרְפֶּֽינָה׃" />
   </verse>
   <verse bcv_str="Job.5.19">
     <text text="בְּשֵׁ֣שׁ צָ֭רוֹת יַצִּילֶ֑ךָּ וּבְשֶׁ֓בַע" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" לֹֽא־יִגַּ֖ע בְּךָ֣ רָֽע׃" />
   </verse>
   <verse bcv_str="Job.5.20">
@@ -386,22 +386,22 @@
   </verse>
   <verse bcv_str="Job.5.27">
     <text text="הִנֵּה־זֹ֭את חֲקַרְנ֥וּהָ כֶּֽן־הִ֑יא שְׁ֝מָעֶ֗נָּה וְאַתָּ֥ה דַֽע־לָֽךְ׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.6.1">
     <text text="וַיַּ֥עַן אִיּ֗וֹב וַיֹּאמַֽר׃" />
   </verse>
   <verse bcv_str="Job.6.2">
     <text text="ל֗וּ שָׁק֣וֹל יִשָּׁקֵ֣ל כַּעְשִׂ֑י " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(והיתי)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וְ֝הַוָּתִ֗י]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" בְּֽמֹאזְנַ֥יִם יִשְׂאוּ־יָֽחַד׃" />
   </verse>
   <verse bcv_str="Job.6.3">
@@ -427,7 +427,7 @@
   </verse>
   <verse bcv_str="Job.6.10">
     <text text="וּ֥תְהִי־ע֨וֹד" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" נֶ֘חָ֤מָתִ֗י וַאֲסַלְּדָ֣ה בְ֭חִילָה לֹ֣א יַחְמ֑וֹל כִּי־לֹ֥א כִ֝חַ֗דְתִּי אִמְרֵ֥י קָדֽוֹשׁ׃" />
   </verse>
   <verse bcv_str="Job.6.11">
@@ -486,15 +486,15 @@
   </verse>
   <verse bcv_str="Job.6.29">
     <text text="שֽׁוּבוּ־נָ֭א אַל־תְּהִ֣י עַוְלָ֑ה " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(ושבי)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וְשׁ֥וּבוּ]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" ע֝֗וֹד צִדְקִי־בָֽהּ׃" />
   </verse>
   <verse bcv_str="Job.6.30">
@@ -502,15 +502,15 @@
   </verse>
   <verse bcv_str="Job.7.1">
     <text text="הֲלֹֽא־צָבָ֣א לֶֽאֱנ֣וֹשׁ " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(על)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[עֲלֵי־]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text="אָ֑רֶץ וְכִימֵ֖י שָׂכִ֣יר יָמָֽיו׃" />
   </verse>
   <verse bcv_str="Job.7.2">
@@ -524,19 +524,19 @@
   </verse>
   <verse bcv_str="Job.7.5">
     <text text="לָ֘בַ֤שׁ בְּשָׂרִ֣י רִ֭מָּה " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(ו" />
-        <mam-letter-small>
+        <letter-small>
           <text text="ג" />
-        </mam-letter-small>
+        </letter-small>
         <text text="יש)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וְג֣וּשׁ]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" עָפָ֑ר עוֹרִ֥י רָ֝גַ֗ע וַיִּמָּאֵֽס׃" />
   </verse>
   <verse bcv_str="Job.7.6">
@@ -556,9 +556,9 @@
   </verse>
   <verse bcv_str="Job.7.11">
     <text text="גַּם־אֲנִי֮ לֹ֤א אֶחֱשׇׂ֫ךְ" />
-    <mam-implicit-maqaf>
+    <implicit-maqaf>
       <text text="־" />
-    </mam-implicit-maqaf>
+    </implicit-maqaf>
     <text text="פִּ֥י אֲֽ֭דַבְּרָה בְּצַ֣ר רוּחִ֑י אָ֝שִׂ֗יחָה בְּמַ֣ר נַפְשִֽׁי׃" />
   </verse>
   <verse bcv_str="Job.7.12">
@@ -587,14 +587,14 @@
   </verse>
   <verse bcv_str="Job.7.20">
     <text text="חָטָ֡אתִי מָ֤ה אֶפְעַ֨ל" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" לָךְ֮ נֹצֵ֢ר הָ֫אָדָ֥ם לָ֤מָה שַׂמְתַּ֣נִי לְמִפְגָּ֣ע לָ֑ךְ וָאֶהְיֶ֖ה עָלַ֣י לְמַשָּֽׂא׃" />
   </verse>
   <verse bcv_str="Job.7.21">
     <text text="וּמֶ֤ה" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" לֹֽא־תִשָּׂ֣א פִשְׁעִי֮ וְתַעֲבִ֢יר אֶת־עֲוֺ֫נִ֥י כִּֽי־עַ֭תָּה לֶעָפָ֣ר אֶשְׁכָּ֑ב וְשִׁ֖חַרְתַּ֣נִי וְאֵינֶֽנִּי׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.8.1">
     <text text="וַ֭יַּעַן בִּלְדַּ֥ד הַשּׁוּחִ֗י וַיֹּאמַֽר׃" />
@@ -661,7 +661,7 @@
   </verse>
   <verse bcv_str="Job.8.22">
     <text text="שֹׂנְאֶ֥יךָ יִלְבְּשׁוּ־בֹ֑שֶׁת וְאֹ֖הֶל רְשָׁעִ֣ים אֵינֶֽנּוּ׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.9.1">
     <text text="וַיַּ֥עַן אִיּ֗וֹב וַיֹּאמַֽר׃" />
@@ -734,7 +734,7 @@
   </verse>
   <verse bcv_str="Job.9.24">
     <text text="אֶ֤רֶץ" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" נִתְּנָ֬ה בְֽיַד־רָשָׁ֗ע פְּנֵֽי־שֹׁפְטֶ֥יהָ יְכַסֶּ֑ה אִם־לֹ֖א אֵפ֣וֹא מִי־הֽוּא׃" />
   </verse>
   <verse bcv_str="Job.9.25">
@@ -754,15 +754,15 @@
   </verse>
   <verse bcv_str="Job.9.30">
     <text text="אִם־הִתְרָחַ֥צְתִּי " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(במו)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[בְמֵי־]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text="שָׁ֑לֶג וַ֝הֲזִכּ֗וֹתִי בְּבֹ֣ר כַּפָּֽי׃" />
   </verse>
   <verse bcv_str="Job.9.31">
@@ -776,9 +776,9 @@
   </verse>
   <verse bcv_str="Job.9.34">
     <text text="יָסֵ֣ר מֵעָלַ֣י שִׁבְ" />
-    <mam-letter-large>
+    <letter-large>
       <text text="ט֑" />
-    </mam-letter-large>
+    </letter-large>
     <text text="וֹ וְ֝אֵמָת֗וֹ אַֽל־תְּבַעֲתַֽנִּי׃" />
   </verse>
   <verse bcv_str="Job.9.35">
@@ -792,7 +792,7 @@
   </verse>
   <verse bcv_str="Job.10.3">
     <text text="הֲט֤וֹב לְךָ֨" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" כִּֽי־תַעֲשֹׁ֗ק כִּֽי־תִ֭מְאַס יְגִ֣יעַ כַּפֶּ֑יךָ וְעַל־עֲצַ֖ת רְשָׁעִ֣ים הוֹפָֽעְתָּ׃" />
   </verse>
   <verse bcv_str="Job.10.4">
@@ -836,7 +836,7 @@
   </verse>
   <verse bcv_str="Job.10.17">
     <text text="תְּחַדֵּ֬שׁ עֵדֶ֨יךָ" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" נֶגְדִּ֗י וְתֶ֣רֶב כַּ֭עַשְׂךָ עִמָּדִ֑י חֲלִיפ֖וֹת וְצָבָ֣א עִמִּֽי׃" />
   </verse>
   <verse bcv_str="Job.10.18">
@@ -847,25 +847,25 @@
   </verse>
   <verse bcv_str="Job.10.20">
     <text text="הֲלֹֽא־מְעַ֣ט יָמַ֣י " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(יחדל)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וַחֲדָ֑ל]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(ישית)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וְשִׁ֥ית]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" מִ֝מֶּ֗נִּי וְאַבְלִ֥יגָה מְּעָֽט׃" />
   </verse>
   <verse bcv_str="Job.10.21">
@@ -873,9 +873,9 @@
   </verse>
   <verse bcv_str="Job.10.22">
     <text text="אֶ֤רֶץ עֵפָ֨תָה" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" כְּמ֥וֹ אֹ֗פֶל צַ֭לְמָוֶת וְלֹ֥א סְדָרִ֗ים וַתֹּ֥פַע כְּמוֹ־אֹֽפֶל׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.11.1">
     <text text="וַ֭יַּעַן צֹפַ֥ר הַֽנַּעֲמָתִ֗י וַיֹּאמַֽר׃" />
@@ -894,7 +894,7 @@
   </verse>
   <verse bcv_str="Job.11.6">
     <text text="וְיַגֶּד־לְךָ֨" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" תַּ֥עֲלֻמ֣וֹת חׇכְמָה֮ כִּֽי־כִפְלַ֢יִם לְֽת֫וּשִׁיָּ֥ה וְדַ֡ע כִּֽי־יַשֶּׁ֥ה לְךָ֥ אֱ֝ל֗וֹהַּ מֵעֲוֺנֶֽךָ׃" />
   </verse>
   <verse bcv_str="Job.11.7">
@@ -923,7 +923,7 @@
   </verse>
   <verse bcv_str="Job.11.15">
     <text text="כִּי־אָ֤ז" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" תִּשָּׂ֣א פָנֶ֣יךָ מִמּ֑וּם וְהָיִ֥יתָ מֻ֝צָ֗ק וְלֹ֣א תִירָֽא׃" />
   </verse>
   <verse bcv_str="Job.11.16">
@@ -940,7 +940,7 @@
   </verse>
   <verse bcv_str="Job.11.20">
     <text text="וְעֵינֵ֥י רְשָׁעִ֗ים תִּ֫כְלֶ֥ינָה וּ֭מָנוֹס אָבַ֣ד מִנְהֶ֑ם וְ֝תִקְוָתָ֗ם מַֽפַּֽח־נָֽפֶשׁ׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.12.1">
     <text text="וַיַּ֥עַן אִיּ֗וֹב וַיֹּאמַֽר׃" />
@@ -950,12 +950,12 @@
   </verse>
   <verse bcv_str="Job.12.3">
     <text text="גַּם־לִ֤י לֵבָ֨ב" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" כְּֽמוֹכֶ֗ם לֹא־נֹפֵ֣ל אָנֹכִ֣י מִכֶּ֑ם וְאֶת־מִי־אֵ֥ין כְּמוֹ־אֵֽלֶּה׃" />
   </verse>
   <verse bcv_str="Job.12.4">
     <text text="שְׂחֹ֤ק לְרֵעֵ֨הוּ" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" אֶהְיֶ֗ה קֹרֵ֣א לֶ֭אֱלוֹהַּ וַֽיַּעֲנֵ֑הוּ שְׂ֝ח֗וֹק צַדִּ֥יק תָּמִֽים׃" />
   </verse>
   <verse bcv_str="Job.12.5">
@@ -963,7 +963,7 @@
   </verse>
   <verse bcv_str="Job.12.6">
     <text text="יִשְׁלָ֤יוּ אֹהָלִ֨ים" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" לְשֹׁ֥דְדִ֗ים וּֽ֭בַטֻּחוֹת לְמַרְגִּ֣יזֵי אֵ֑ל לַאֲשֶׁ֤ר הֵבִ֖יא אֱל֣וֹהַּ בְּיָדֽוֹ׃" />
   </verse>
   <verse bcv_str="Job.12.7">
@@ -1064,20 +1064,20 @@
   </verse>
   <verse bcv_str="Job.13.14">
     <text text="עַל־מָ֤ה" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" אֶשָּׂ֣א בְשָׂרִ֣י בְשִׁנָּ֑י וְ֝נַפְשִׁ֗י אָשִׂ֥ים בְּכַפִּֽי׃" />
   </verse>
   <verse bcv_str="Job.13.15">
     <text text="הֵ֣ן יִ֭קְטְלֵנִי " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(לא)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[ל֣וֹ]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" אֲיַחֵ֑ל אַךְ־דְּ֝רָכַ֗י אֶל־פָּנָ֥יו אוֹכִֽיחַ׃" />
   </verse>
   <verse bcv_str="Job.13.16">
@@ -1115,7 +1115,7 @@
   </verse>
   <verse bcv_str="Job.13.27">
     <text text="וְתָ֘שֵׂ֤ם בַּסַּ֨ד" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" רַגְלַ֗י וְתִשְׁמ֥וֹר כׇּל־אׇרְחוֹתָ֑י עַל־שׇׁרְשֵׁ֥י רַ֝גְלַ֗י תִּתְחַקֶּֽה׃" />
   </verse>
   <verse bcv_str="Job.13.28">
@@ -1135,7 +1135,7 @@
   </verse>
   <verse bcv_str="Job.14.5">
     <text text="אִ֥ם חֲרוּצִ֨ים" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" יָמָ֗יו מִֽסְפַּר־חֳדָשָׁ֥יו אִתָּ֑ךְ חֻקָּ֥ו עָ֝שִׂ֗יתָ וְלֹ֣א יַעֲבֹֽר׃" />
   </verse>
   <verse bcv_str="Job.14.6">
@@ -1161,7 +1161,7 @@
   </verse>
   <verse bcv_str="Job.14.13">
     <text text="מִ֤י יִתֵּ֨ן" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" בִּשְׁא֬וֹל תַּצְפִּנֵ֗נִי תַּ֭סְתִּירֵנִי עַד־שׁ֣וּב אַפֶּ֑ךָ תָּ֤שִֽׁית לִ֖י חֹ֣ק וְתִזְכְּרֵֽנִי׃" />
   </verse>
   <verse bcv_str="Job.14.14">
@@ -1181,7 +1181,7 @@
   </verse>
   <verse bcv_str="Job.14.19">
     <text text="אֲבָנִ֤ים" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" שָׁ֥חֲקוּ מַ֗יִם תִּשְׁטֹֽף־סְפִיחֶ֥יהָ עֲפַר־אָ֑רֶץ וְתִקְוַ֖ת אֱנ֣וֹשׁ הֶֽאֱבַֽדְתָּ׃" />
   </verse>
   <verse bcv_str="Job.14.20">
@@ -1192,7 +1192,7 @@
   </verse>
   <verse bcv_str="Job.14.22">
     <text text="אַךְ־בְּ֭שָׂרוֹ עָלָ֣יו יִכְאָ֑ב וְ֝נַפְשׁ֗וֹ עָלָ֥יו תֶּאֱבָֽל׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.15.1">
     <text text="וַ֭יַּעַן אֱלִיפַ֥ז הַֽתֵּימָנִ֗י וַיֹּאמַֽר׃" />
@@ -1259,25 +1259,25 @@
   </verse>
   <verse bcv_str="Job.15.22">
     <text text="לֹא־יַאֲמִ֣ין שׁ֭וּב מִנִּי־חֹ֑שֶׁךְ " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(וצפו)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וְצָפ֖וּי]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" ה֣וּא אֱלֵי־חָֽרֶב׃" />
   </verse>
   <verse bcv_str="Job.15.23">
     <text text="נֹ֘דֵ֤ד ה֣וּא לַלֶּ֣חֶם אַיֵּ֑ה יָדַ֓ע" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" כִּי־נָכ֖וֹן בְּיָד֣וֹ יֽוֹם־חֹֽשֶׁךְ׃" />
   </verse>
   <verse bcv_str="Job.15.24">
     <text text="יְֽ֭בַעֲתֻהוּ צַ֣ר וּמְצוּקָ֑ה תִּ֝תְקְפֵ֗הוּ כְּמֶ֤לֶךְ" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" עָתִ֬יד לַכִּידֽוֹר׃" />
   </verse>
   <verse bcv_str="Job.15.25">
@@ -1291,7 +1291,7 @@
   </verse>
   <verse bcv_str="Job.15.28">
     <text text="וַיִּשְׁכּ֤וֹן" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" עָ֘רִ֤ים נִכְחָד֗וֹת בָּ֭תִּים לֹא־יֵ֣שְׁבוּ לָ֑מוֹ אֲשֶׁ֖ר הִתְעַתְּד֣וּ לְגַלִּֽים׃" />
   </verse>
   <verse bcv_str="Job.15.29">
@@ -1299,7 +1299,7 @@
   </verse>
   <verse bcv_str="Job.15.30">
     <text text="לֹֽא־יָס֨וּר" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" מִנִּי־חֹ֗שֶׁךְ יֹ֭נַקְתּוֹ תְּיַבֵּ֣שׁ שַׁלְהָ֑בֶת וְ֝יָס֗וּר בְּר֣וּחַ פִּֽיו׃" />
   </verse>
   <verse bcv_str="Job.15.31">
@@ -1316,7 +1316,7 @@
   </verse>
   <verse bcv_str="Job.15.35">
     <text text="הָרֹ֣ה עָ֭מָל וְיָ֣לֹֽד אָ֑וֶן וּ֝בִטְנָ֗ם תָּכִ֥ין מִרְמָֽה׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.16.1">
     <text text="וַיַּ֥עַן אִיּ֗וֹב וַיֹּאמַֽר׃" />
@@ -1329,7 +1329,7 @@
   </verse>
   <verse bcv_str="Job.16.4">
     <text text="גַּ֤ם" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" אָנֹכִי֮ כָּכֶ֢ם אֲדַ֫בֵּ֥רָה ל֤וּ יֵ֪שׁ נַפְשְׁכֶ֡ם תַּ֤חַת נַפְשִׁ֗י אַחְבִּ֣ירָה עֲלֵיכֶ֣ם בְּמִלִּ֑ים וְאָנִ֥יעָה עֲ֝לֵיכֶ֗ם בְּמ֣וֹ רֹאשִֽׁי׃" />
   </verse>
   <verse bcv_str="Job.16.5">
@@ -1346,14 +1346,14 @@
   </verse>
   <verse bcv_str="Job.16.9">
     <text text="אַפּ֤וֹ טָרַ֨ף" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" וַֽיִּשְׂטְמֵ֗נִי חָרַ֣ק עָלַ֣י בְּשִׁנָּ֑יו צָרִ֓י" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" יִלְטֹ֖שׁ עֵינָ֣יו לִֽי׃" />
   </verse>
   <verse bcv_str="Job.16.10">
     <text text="פָּעֲר֬וּ עָלַ֨י" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" בְּפִיהֶ֗ם בְּ֭חֶרְפָּה הִכּ֣וּ לְחָיָ֑י יַ֝֗חַד עָלַ֥י יִתְמַלָּאֽוּן׃" />
   </verse>
   <verse bcv_str="Job.16.11">
@@ -1361,19 +1361,19 @@
   </verse>
   <verse bcv_str="Job.16.12">
     <text text="שָׁ֘לֵ֤ו הָיִ֨יתִי" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" וַֽיְפַרְפְּרֵ֗נִי וְאָחַ֣ז בְּ֭עׇרְפִּי וַֽיְפַצְפְּצֵ֑נִי וַיְקִימֵ֥נִי ל֝֗וֹ לְמַטָּרָֽה׃" />
   </verse>
   <verse bcv_str="Job.16.13">
     <text text="יָ֘סֹ֤בּוּ עָלַ֨י" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" רַבָּ֗יו יְפַלַּ֣ח כִּ֭לְיוֹתַי וְלֹ֣א יַחְמֹ֑ל יִשְׁפֹּ֥ךְ לָ֝אָ֗רֶץ מְרֵרָתִֽי׃" />
   </verse>
   <verse bcv_str="Job.16.14">
     <text text="יִפְרְצֵ֣נִי פֶ֭רֶ" />
-    <mam-letter-small>
+    <letter-small>
       <text text="ץ" />
-    </mam-letter-small>
+    </letter-small>
     <text text=" עַל־פְּנֵי־פָ֑רֶץ יָרֻ֖ץ עָלַ֣י כְּגִבּֽוֹר׃" />
   </verse>
   <verse bcv_str="Job.16.15">
@@ -1381,15 +1381,15 @@
   </verse>
   <verse bcv_str="Job.16.16">
     <text text="פָּנַ֣י " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(חמרמרה)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[חֳ֭מַרְמְרוּ]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" מִנִּי־בֶ֑כִי וְעַ֖ל עַפְעַפַּ֣י צַלְמָֽוֶת׃" />
   </verse>
   <verse bcv_str="Job.16.17">
@@ -1457,14 +1457,14 @@
   </verse>
   <verse bcv_str="Job.17.16">
     <text text="בַּדֵּ֣י שְׁאֹ֣ל תֵּרַ֑דְנָה אִם־יַ֖חַד עַל־עָפָ֣ר נָֽחַת׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.18.1">
     <text text="וַ֭יַּעַן בִּלְדַּ֥ד הַשֻּׁחִ֗י וַיֹּאמַֽר׃" />
   </verse>
   <verse bcv_str="Job.18.2">
     <text text="עַד־אָ֤נָה" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" תְּשִׂימ֣וּן קִנְצֵ֣י לְמִלִּ֑ין תָּ֝בִ֗ינוּ וְאַחַ֥ר נְדַבֵּֽר׃" />
   </verse>
   <verse bcv_str="Job.18.3">
@@ -1523,7 +1523,7 @@
   </verse>
   <verse bcv_str="Job.18.21">
     <text text="אַךְ־אֵ֭לֶּה מִשְׁכְּנ֣וֹת עַוָּ֑ל וְ֝זֶ֗ה מְק֣וֹם לֹֽא־יָדַֽע־אֵֽל׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.19.1">
     <text text="וַיַּ֥עַן אִיּ֗וֹב וַיֹּאמַֽר׃" />
@@ -1560,7 +1560,7 @@
   </verse>
   <verse bcv_str="Job.19.12">
     <text text="יַ֤חַד" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" יָ֘בֹ֤אוּ גְדוּדָ֗יו וַיָּסֹ֣לּוּ עָלַ֣י דַּרְכָּ֑ם וַיַּחֲנ֖וּ סָבִ֣יב לְאׇהֳלִֽי׃" />
   </verse>
   <verse bcv_str="Job.19.13">
@@ -1607,7 +1607,7 @@
   </verse>
   <verse bcv_str="Job.19.27">
     <text text="אֲשֶׁ֤ר אֲנִ֨י" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" אֶחֱזֶה־לִּ֗י וְעֵינַ֣י רָא֣וּ וְלֹא־זָ֑ר כָּל֖וּ כִלְיֹתַ֣י בְּחֵקִֽי׃" />
   </verse>
   <verse bcv_str="Job.19.28">
@@ -1615,19 +1615,19 @@
   </verse>
   <verse bcv_str="Job.19.29">
     <text text="גּ֤וּרוּ לָכֶ֨ם" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" מִפְּנֵי־חֶ֗רֶב כִּֽי־חֵ֭מָה עֲוֺנ֣וֹת חָ֑רֶב לְמַ֖עַן תֵּדְע֣וּן " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(שדין)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[שַׁדּֽוּן]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text="׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.20.1">
     <text text="וַ֭יַּעַן צֹפַ֥ר הַֽנַּעֲמָתִ֗י וַיֹּאמַֽר׃" />
@@ -1661,9 +1661,9 @@
   </verse>
   <verse bcv_str="Job.20.11">
     <text text="עַ֭צְמוֹתָיו מָלְא֣וּ " />
-    <mam-kq-trivial>
+    <kq-trivial>
       <text text="עֲלוּמָ֑ו" />
-    </mam-kq-trivial>
+    </kq-trivial>
     <text text=" וְ֝עִמּ֗וֹ עַל־עָפָ֥ר תִּשְׁכָּֽב׃" />
   </verse>
   <verse bcv_str="Job.20.12">
@@ -1692,7 +1692,7 @@
   </verse>
   <verse bcv_str="Job.20.20">
     <text text="כִּ֤י" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" לֹא־יָדַ֣ע שָׁלֵ֣ו בְּבִטְנ֑וֹ בַּ֝חֲמוּד֗וֹ לֹ֣א יְמַלֵּֽט׃" />
   </verse>
   <verse bcv_str="Job.20.21">
@@ -1703,7 +1703,7 @@
   </verse>
   <verse bcv_str="Job.20.23">
     <text text="יְהִ֤י" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" לְמַלֵּ֬א בִטְנ֗וֹ יְֽשַׁלַּח־בּ֭וֹ חֲר֣וֹן אַפּ֑וֹ וְיַמְטֵ֥ר עָ֝לֵ֗ימוֹ בִּלְחוּמֽוֹ׃" />
   </verse>
   <verse bcv_str="Job.20.24">
@@ -1723,9 +1723,9 @@
   </verse>
   <verse bcv_str="Job.20.29">
     <text text="זֶ֤ה" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" חֵלֶק־אָדָ֣ם רָ֭שָׁע מֵאֱלֹהִ֑ים וְנַחֲלַ֖ת אִמְר֣וֹ מֵאֵֽל׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.21.1">
     <text text="וַיַּ֥עַן אִיּ֗וֹב וַיֹּאמַֽר׃" />
@@ -1764,15 +1764,15 @@
     <text text="יִ֭שְׂאוּ כְּתֹ֣ף וְכִנּ֑וֹר וְ֝יִשְׂמְח֗וּ לְק֣וֹל עוּגָֽב׃" />
   </verse>
   <verse bcv_str="Job.21.13">
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(יבלו)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[יְכַלּ֣וּ]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" בַטּ֣וֹב יְמֵיהֶ֑ם וּ֝בְרֶ֗גַע שְׁא֣וֹל יֵחָֽתּוּ׃" />
   </verse>
   <verse bcv_str="Job.21.14">
@@ -1786,7 +1786,7 @@
   </verse>
   <verse bcv_str="Job.21.17">
     <text text="כַּמָּ֤ה" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" נֵר־רְשָׁ֘עִ֤ים יִדְעָ֗ךְ וְיָבֹ֣א עָלֵ֣ימוֹ אֵידָ֑ם חֲ֝בָלִ֗ים יְחַלֵּ֥ק בְּאַפּֽוֹ׃" />
   </verse>
   <verse bcv_str="Job.21.18">
@@ -1797,9 +1797,9 @@
   </verse>
   <verse bcv_str="Job.21.20">
     <text text="יִרְא֣וּ " />
-    <mam-kq-trivial>
+    <kq-trivial>
       <text text="עֵינָ֣ו" />
-    </mam-kq-trivial>
+    </kq-trivial>
     <text text=" כִּיד֑וֹ וּמֵחֲמַ֖ת שַׁדַּ֣י יִשְׁתֶּֽה׃" />
   </verse>
   <verse bcv_str="Job.21.21">
@@ -1825,7 +1825,7 @@
   </verse>
   <verse bcv_str="Job.21.28">
     <text text="כִּ֤י תֹאמְר֗וּ אַיֵּ֥ה בֵית־נָדִ֑יב וְ֝אַיֵּ֗ה אֹ֤הֶל" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" מִשְׁכְּנ֬וֹת רְשָׁעִֽים׃" />
   </verse>
   <verse bcv_str="Job.21.29">
@@ -1842,14 +1842,14 @@
   </verse>
   <verse bcv_str="Job.21.33">
     <text text="מָֽתְקוּ־ל֗וֹ רִגְבֵ֫י" />
-    <mam-implicit-maqaf>
+    <implicit-maqaf>
       <text text="־" />
-    </mam-implicit-maqaf>
+    </implicit-maqaf>
     <text text="נָ֥חַל וְ֭אַחֲרָיו כׇּל־אָדָ֣ם יִמְשׁ֑וֹךְ וּ֝לְפָנָ֗יו אֵ֣ין מִסְפָּֽר׃" />
   </verse>
   <verse bcv_str="Job.21.34">
     <text text="וְ֭אֵיךְ תְּנַחֲמ֣וּנִי הָ֑בֶל וּ֝תְשׁ֥וּבֹתֵיכֶ֗ם נִשְׁאַר־מָֽעַל׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.22.1">
     <text text="וַ֭יַּעַן אֱלִיפַ֥ז הַֽתֵּמָנִ֗י וַיֹּאמַֽר׃" />
@@ -1940,7 +1940,7 @@
   </verse>
   <verse bcv_str="Job.22.30">
     <text text="יְמַלֵּ֥ט אִֽי־נָקִ֑י וְ֝נִמְלַ֗ט בְּבֹ֣ר כַּפֶּֽיךָ׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.23.1">
     <text text="וַיַּ֥עַן אִיּ֗וֹב וַיֹּאמַֽר׃" />
@@ -1995,9 +1995,9 @@
   </verse>
   <verse bcv_str="Job.24.1">
     <text text="מַדּ֗וּעַ מִ֭שַּׁדַּי לֹא־נִצְפְּנ֣וּ עִתִּ֑ים " />
-    <mam-kq-trivial>
+    <kq-trivial>
       <text text="וְ֝יֹדְעָ֗ו" />
-    </mam-kq-trivial>
+    </kq-trivial>
     <text text=" לֹא־חָ֥זוּ יָמָֽיו׃" />
   </verse>
   <verse bcv_str="Job.24.2">
@@ -2011,20 +2011,20 @@
   </verse>
   <verse bcv_str="Job.24.5">
     <text text="הֵ֤ן פְּרָאִ֨ים" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" בַּ֥מִּדְבָּ֗ר יָצְא֣וּ בְּ֭פׇעֳלָם מְשַׁחֲרֵ֣י לַטָּ֑רֶף עֲרָבָ֥ה ל֥וֹ לֶ֝֗חֶם לַנְּעָרִֽים׃" />
   </verse>
   <verse bcv_str="Job.24.6">
     <text text="בַּ֭שָּׂדֶה בְּלִיל֣וֹ " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(יקצירו)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[יִקְצ֑וֹרוּ]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" וְכֶ֖רֶם רָשָׁ֣ע יְלַקֵּֽשׁוּ׃" />
   </verse>
   <verse bcv_str="Job.24.7">
@@ -2044,16 +2044,16 @@
   </verse>
   <verse bcv_str="Job.24.12">
     <text text="מֵ֘עִ֤יר מְתִ֨ים" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" יִנְאָ֗קוּ וְנֶֽפֶשׁ־חֲלָלִ֥ים תְּשַׁוֵּ֑עַ וֶ֝אֱל֗וֹהַּ לֹֽא־יָשִׂ֥ים תִּפְלָֽה׃" />
   </verse>
   <verse bcv_str="Job.24.13">
     <text text="הֵ֤מָּה" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" הָיוּ֮ בְּֽמֹרְדֵ֫י" />
-    <mam-implicit-maqaf>
+    <implicit-maqaf>
       <text text="־" />
-    </mam-implicit-maqaf>
+    </implicit-maqaf>
     <text text="א֥וֹר לֹא־הִכִּ֥ירוּ דְרָכָ֑יו וְלֹ֥א יָ֝שְׁב֗וּ בִּנְתִיבֹתָֽיו׃" />
   </verse>
   <verse bcv_str="Job.24.14">
@@ -2061,7 +2061,7 @@
   </verse>
   <verse bcv_str="Job.24.15">
     <text text="וְעֵ֤ין נֹאֵ֨ף" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" שָׁ֤מְרָֽה נֶ֣שֶׁף לֵ֭אמֹר לֹא־תְשׁוּרֵ֣נִי עָ֑יִן וְסֵ֖תֶר פָּנִ֣ים יָשִֽׂים׃" />
   </verse>
   <verse bcv_str="Job.24.16">
@@ -2069,12 +2069,12 @@
   </verse>
   <verse bcv_str="Job.24.17">
     <text text="כִּ֤י יַחְדָּ֨ו" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" בֹּ֣קֶר לָ֣מוֹ צַלְמָ֑וֶת כִּֽי־יַ֝כִּ֗יר בַּלְה֥וֹת צַלְמָֽוֶת׃" />
   </verse>
   <verse bcv_str="Job.24.18">
     <text text="קַל־ה֤וּא" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" עַל־פְּנֵי־מַ֗יִם תְּקֻלַּ֣ל חֶלְקָתָ֣ם בָּאָ֑רֶץ לֹא־יִ֝פְנֶ֗ה דֶּ֣רֶךְ כְּרָמִֽים׃" />
   </verse>
   <verse bcv_str="Job.24.19">
@@ -2082,7 +2082,7 @@
   </verse>
   <verse bcv_str="Job.24.20">
     <text text="יִשְׁכָּ֘חֵ֤הוּ רֶ֨חֶם" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" מְתָ֘ק֤וֹ רִמָּ֗ה ע֥וֹד לֹֽא־יִזָּכֵ֑ר וַתִּשָּׁבֵ֖ר כָּעֵ֣ץ עַוְלָֽה׃" />
   </verse>
   <verse bcv_str="Job.24.21">
@@ -2096,12 +2096,12 @@
   </verse>
   <verse bcv_str="Job.24.24">
     <text text="ר֤וֹמּוּ מְּעַ֨ט" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" וְֽאֵינֶ֗נּוּ וְֽהֻמְּכ֗וּ כַּכֹּ֥ל יִקָּפְצ֑וּן וּכְרֹ֖אשׁ שִׁבֹּ֣לֶת יִמָּֽלוּ׃" />
   </verse>
   <verse bcv_str="Job.24.25">
     <text text="וְאִם־לֹ֣א אֵ֭פוֹ מִ֣י יַכְזִיבֵ֑נִי וְיָשֵׂ֥ם לְ֝אַ֗ל מִלָּתִֽי׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.25.1">
     <text text="וַ֭יַּעַן בִּלְדַּ֥ד הַשֻּׁחִ֗י וַיֹּאמַֽר׃" />
@@ -2120,7 +2120,7 @@
   </verse>
   <verse bcv_str="Job.25.6">
     <text text="אַ֭ף כִּֽי־אֱנ֣וֹשׁ רִמָּ֑ה וּבֶן־אָ֝דָ֗ם תּוֹלֵעָֽה׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.26.1">
     <text text="וַיַּ֥עַן אִיּ֗וֹב וַיֹּאמַֽר׃" />
@@ -2157,15 +2157,15 @@
   </verse>
   <verse bcv_str="Job.26.12">
     <text text="בְּ֭כֹחוֹ רָגַ֣ע הַיָּ֑ם " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(ובתובנתו)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וּ֝בִתְבוּנָת֗וֹ]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" מָ֣חַץ רָֽהַב׃" />
   </verse>
   <verse bcv_str="Job.26.13">
@@ -2173,13 +2173,13 @@
   </verse>
   <verse bcv_str="Job.26.14">
     <text text="הֶן־אֵ֤לֶּה" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" קְצ֬וֹת דְּרָכָ֗ו וּמַה־שֵּׁ֣מֶץ דָּ֭בָר נִשְׁמַע־בּ֑וֹ וְרַ֥עַם " />
-    <mam-kq-trivial>
+    <kq-trivial>
       <text text="גְּ֝בוּרֹתָ֗ו" />
-    </mam-kq-trivial>
+    </kq-trivial>
     <text text=" מִ֣י יִתְבּוֹנָֽן׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.27.1">
     <text text="וַיֹּ֣סֶף אִ֭יּוֹב שְׂאֵ֥ת מְשָׁל֗וֹ וַיֹּאמַֽר׃" />
@@ -2207,7 +2207,7 @@
   </verse>
   <verse bcv_str="Job.27.9">
     <text text="הֲֽ֭צַעֲקָתוֹ יִשְׁמַ֥ע" />
-    <mam-lp-paseq />
+    <lp-paseq />
     <text text="אֵ֑ל כִּֽי־תָב֖וֹא עָלָ֣יו צָרָֽה׃" />
   </verse>
   <verse bcv_str="Job.27.10">
@@ -2221,18 +2221,18 @@
   </verse>
   <verse bcv_str="Job.27.13">
     <text text="זֶ֤ה" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" חֵלֶק־אָדָ֖ם רָשָׁ֥ע" />
-    <mam-lp-paseq />
+    <lp-paseq />
     <text text="עִם־אֵ֑ל וְֽנַחֲלַ֥ת עָ֝רִיצִ֗ים מִשַּׁדַּ֥י יִקָּֽחוּ׃" />
   </verse>
   <verse bcv_str="Job.27.14">
     <text text="אִם־יִרְבּ֣וּ בָנָ֣יו לְמוֹ־חָ֑רֶב וְ֝צֶאֱצָאָ֗יו לֹ֣א יִשְׂבְּעוּ־לָֽחֶם׃" />
   </verse>
   <verse bcv_str="Job.27.15">
-    <mam-kq-trivial>
+    <kq-trivial>
       <text text="שְׂ֭רִידָו" />
-    </mam-kq-trivial>
+    </kq-trivial>
     <text text=" בַּמָּ֣וֶת יִקָּבֵ֑רוּ וְ֝אַלְמְנֹתָ֗יו לֹ֣א תִבְכֶּֽינָה׃" />
   </verse>
   <verse bcv_str="Job.27.16">
@@ -2267,12 +2267,12 @@
   </verse>
   <verse bcv_str="Job.28.3">
     <text text="קֵ֤ץ" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" שָׂ֤ם לַחֹ֗שֶׁךְ וּֽלְכׇל־תַּ֭כְלִית ה֣וּא חוֹקֵ֑ר אֶ֖בֶן אֹ֣פֶל וְצַלְמָֽוֶת׃" />
   </verse>
   <verse bcv_str="Job.28.4">
     <text text="פָּ֤רַץ נַ֨חַל" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" מֵֽעִם־גָּ֗ר הַֽנִּשְׁכָּחִ֥ים מִנִּי־רָ֑גֶל דַּ֖לּוּ מֵאֱנ֣וֹשׁ נָֽעוּ׃" />
   </verse>
   <verse bcv_str="Job.28.5">
@@ -2295,7 +2295,7 @@
   </verse>
   <verse bcv_str="Job.28.11">
     <text text="מִ֭בְּכִי נְהָר֣וֹת חִבֵּ֑שׁ וְ֝תַעֲלֻמָ֗הּ יֹ֣צִא אֽוֹר׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.28.12">
     <text text="וְֽ֭הַחׇכְמָה מֵאַ֣יִן תִּמָּצֵ֑א וְאֵ֥י זֶ֝֗ה מְק֣וֹם בִּינָֽה׃" />
@@ -2347,9 +2347,9 @@
   </verse>
   <verse bcv_str="Job.28.28">
     <text text="וַיֹּ֤אמֶר" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" לָאָדָ֗ם הֵ֤ן יִרְאַ֣ת אֲ֭דֹנָי הִ֣יא חׇכְמָ֑ה וְס֖וּר מֵרָ֣ע בִּינָֽה׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.29.1">
     <text text="וַיֹּ֣סֶף אִ֭יּוֹב שְׂאֵ֥ת מְשָׁל֗וֹ וַיֹּאמַֽר׃" />
@@ -2428,7 +2428,7 @@
   </verse>
   <verse bcv_str="Job.30.1">
     <text text="וְעַתָּ֤ה" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" שָׂ֥חֲק֣וּ עָלַי֮ צְעִירִ֥ים מִמֶּ֗נִּי לְיָ֫מִ֥ים אֲשֶׁר־מָאַ֥סְתִּי אֲבוֹתָ֑ם לָ֝שִׁ֗ית עִם־כַּלְבֵ֥י צֹאנִֽי׃" />
   </verse>
   <verse bcv_str="Job.30.2">
@@ -2460,15 +2460,15 @@
   </verse>
   <verse bcv_str="Job.30.11">
     <text text="כִּֽי־" />
-    <mam-kq>
-      <mam-kq-q>
+    <kq>
+      <kq-q>
         <text text="[יִתְרִ֣י]" />
-      </mam-kq-q>
+      </kq-q>
       <text text=" " />
-      <mam-kq-k>
+      <kq-k>
         <text text="(יתרו)" />
-      </mam-kq-k>
-    </mam-kq>
+      </kq-k>
+    </kq>
     <text text=" פִ֭תַּח וַיְעַנֵּ֑נִי וְ֝רֶ֗סֶן מִפָּנַ֥י שִׁלֵּֽחוּ׃" />
   </verse>
   <verse bcv_str="Job.30.12">
@@ -2503,15 +2503,15 @@
   </verse>
   <verse bcv_str="Job.30.22">
     <text text="תִּשָּׂאֵ֣נִי אֶל־ר֭וּחַ תַּרְכִּיבֵ֑נִי וּ֝תְמֹגְגֵ֗נִי " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(תשוה)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[תּוּשִׁיָּֽה]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text="׃" />
   </verse>
   <verse bcv_str="Job.30.23">
@@ -2546,7 +2546,7 @@
   </verse>
   <verse bcv_str="Job.31.2">
     <text text="וּמֶ֤ה" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" חֵ֣לֶק אֱל֣וֹהַּ מִמָּ֑עַל וְֽנַחֲלַ֥ת שַׁ֝דַּ֗י מִמְּרֹמִֽים׃" />
   </verse>
   <verse bcv_str="Job.31.3">
@@ -2575,25 +2575,25 @@
   </verse>
   <verse bcv_str="Job.31.11">
     <text text="כִּי־" />
-    <mam-kq>
-      <mam-kq-q>
+    <kq>
+      <kq-q>
         <text text="[הִ֥יא]" />
-      </mam-kq-q>
+      </kq-q>
       <text text=" " />
-      <mam-kq-k>
+      <kq-k>
         <text text="(הוא)" />
-      </mam-kq-k>
-    </mam-kq>
+      </kq-k>
+    </kq>
     <text text=" זִמָּ֑ה " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(והיא)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וְ֝ה֗וּא]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" עָוֺ֥ן פְּלִילִֽים׃" />
   </verse>
   <verse bcv_str="Job.31.12">
@@ -2622,9 +2622,9 @@
   </verse>
   <verse bcv_str="Job.31.20">
     <text text="אִם־לֹ֣א בֵרְכ֣וּנִי " />
-    <mam-kq-trivial>
+    <kq-trivial>
       <text text="חֲלָצָ֑ו" />
-    </mam-kq-trivial>
+    </kq-trivial>
     <text text=" וּמִגֵּ֥ז כְּ֝בָשַׂ֗י יִתְחַמָּֽם׃" />
   </verse>
   <verse bcv_str="Job.31.21">
@@ -2668,12 +2668,12 @@
   </verse>
   <verse bcv_str="Job.31.34">
     <text text="כִּ֤י אֶעֱר֨וֹץ" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" הָ֘מ֤וֹן רַבָּ֗ה וּבוּז־מִשְׁפָּח֥וֹת יְחִתֵּ֑נִי וָ֝אֶדֹּ֗ם לֹא־אֵ֥צֵא פָֽתַח׃" />
   </verse>
   <verse bcv_str="Job.31.35">
     <text text="מִ֤י יִתֶּן־לִ֨י" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" שֹׁ֘מֵ֤עַֽ לִ֗י הֶן־תָּ֭וִי שַׁדַּ֣י יַעֲנֵ֑נִי וְסֵ֥פֶר כָּ֝תַ֗ב אִ֣ישׁ רִיבִֽי׃" />
   </verse>
   <verse bcv_str="Job.31.36">
@@ -2690,17 +2690,17 @@
   </verse>
   <verse bcv_str="Job.31.40">
     <text text="תַּ֤חַת חִטָּ֨ה" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" יֵ֥צֵא ח֗וֹחַ וְתַֽחַת־שְׂעֹרָ֥ה בׇאְשָׁ֑ה תַּ֝֗מּוּ דִּבְרֵ֥י אִיּֽוֹב׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.32.1">
     <text text="וַֽיִּשְׁבְּת֡וּ שְׁלֹ֤שֶׁת הָאֲנָשִׁ֣ים הָ֭אֵלֶּה מֵעֲנ֣וֹת אֶת־אִיּ֑וֹב כִּ֤י ה֖וּא צַדִּ֣יק בְּעֵינָֽיו׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.32.2">
     <text text="וַיִּ֤חַר אַ֨ף" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" אֱלִיה֣וּא בֶן־בַּרַכְאֵ֣ל הַבּוּזִי֮ מִמִּשְׁפַּ֢חַ֫ת רָ֥ם בְּ֭אִיּוֹב חָרָ֣ה אַפּ֑וֹ עַֽל־צַדְּק֥וֹ נַ֝פְשׁ֗וֹ מֵאֱלֹהִֽים׃" />
   </verse>
   <verse bcv_str="Job.32.3">
@@ -2711,13 +2711,13 @@
   </verse>
   <verse bcv_str="Job.32.5">
     <text text="וַיַּ֤רְא אֱלִיה֗וּא כִּ֘י אֵ֤ין מַֽעֲנֶ֗ה בְּ֭פִי שְׁלֹ֥שֶׁת הָֽאֲנָשִׁ֗ים וַיִּ֥חַר אַפּֽוֹ׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.32.6">
     <text text="וַיַּ֤עַן" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" אֱלִיה֖וּא בֶן־בַּרַכְאֵ֥ל הַבּוּזִ֗י וַיֹּ֫אמַ֥ר צָ֘עִ֤יר אֲנִ֣י לְ֭יָמִים וְאַתֶּ֣ם יְשִׁישִׁ֑ים עַל־כֵּ֖ן זָחַ֥לְתִּי וָאִירָ֓א" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" מֵחַוֺּ֖ת דֵּעִ֣י אֶתְכֶֽם׃" />
   </verse>
   <verse bcv_str="Job.32.7">
@@ -2734,7 +2734,7 @@
   </verse>
   <verse bcv_str="Job.32.11">
     <text text="הֵ֤ן הוֹחַ֨לְתִּי" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" לְֽדִבְרֵיכֶ֗ם אָ֭זִין עַד־תְּב֥וּנֹֽתֵיכֶ֑ם עַֽד־תַּחְקְר֥וּן מִלִּֽין׃" />
   </verse>
   <verse bcv_str="Job.32.12">
@@ -2796,13 +2796,13 @@
   </verse>
   <verse bcv_str="Job.33.9">
     <text text="זַ֥ךְ אֲנִ֗י בְּֽלִ֫י" />
-    <mam-implicit-maqaf>
+    <implicit-maqaf>
       <text text="־" />
-    </mam-implicit-maqaf>
+    </implicit-maqaf>
     <text text="פָ֥שַׁע " />
-    <mam-letter-small>
+    <letter-small>
       <text text="חַ֥" />
-    </mam-letter-small>
+    </letter-small>
     <text text="ף אָנֹכִ֑י וְלֹ֖א עָוֺ֣ן לִֽי׃" />
   </verse>
   <verse bcv_str="Job.33.10">
@@ -2822,7 +2822,7 @@
   </verse>
   <verse bcv_str="Job.33.15">
     <text text="בַּחֲל֤וֹם" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" חֶזְי֬וֹן לַ֗יְלָה בִּנְפֹ֣ל תַּ֭רְדֵּמָה עַל־אֲנָשִׁ֑ים בִּ֝תְנוּמ֗וֹת עֲלֵ֣י מִשְׁכָּֽב׃" />
   </verse>
   <verse bcv_str="Job.33.16">
@@ -2836,15 +2836,15 @@
   </verse>
   <verse bcv_str="Job.33.19">
     <text text="וְהוּכַ֣ח בְּ֭מַכְאוֹב עַל־מִשְׁכָּב֑וֹ " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(וריב)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וְר֖וֹב]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" עֲצָמָ֣יו אֵתָֽן׃" />
   </verse>
   <verse bcv_str="Job.33.20">
@@ -2852,15 +2852,15 @@
   </verse>
   <verse bcv_str="Job.33.21">
     <text text="יִ֣כֶל בְּשָׂר֣וֹ מֵרֹ֑אִי " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(ושפי)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וְשֻׁפּ֥וּ]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" עַ֝צְמֹתָ֗יו לֹ֣א רֻאּֽוּ׃" />
   </verse>
   <verse bcv_str="Job.33.22">
@@ -2868,7 +2868,7 @@
   </verse>
   <verse bcv_str="Job.33.23">
     <text text="אִם־יֵ֤שׁ עָלָ֨יו" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" מַלְאָ֗ךְ מֵלִ֗יץ אֶחָ֥ד מִנִּי־אָ֑לֶף לְהַגִּ֖יד לְאָדָ֣ם יׇשְׁרֽוֹ׃" />
   </verse>
   <verse bcv_str="Job.33.24">
@@ -2879,35 +2879,35 @@
   </verse>
   <verse bcv_str="Job.33.26">
     <text text="יֶעְתַּ֤ר אֶל־אֱל֨וֹהַּ" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" וַיִּרְצֵ֗הוּ וַיַּ֣רְא פָּ֭נָיו בִּתְרוּעָ֑ה וַיָּ֥שֶׁב לֶ֝אֱנ֗וֹשׁ צִדְקָתֽוֹ׃" />
   </verse>
   <verse bcv_str="Job.33.27">
     <text text="יָשֹׁ֤ר" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" עַל־אֲנָשִׁ֗ים וַיֹּ֗אמֶר חָ֭טָאתִי וְיָשָׁ֥ר הֶעֱוֵ֗יתִי וְלֹא־שָׁ֥וָה לִֽי׃" />
   </verse>
   <verse bcv_str="Job.33.28">
     <text text="פָּדָ֣ה " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(נפשי)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[נַ֭פְשׁוֹ]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" מֵעֲבֹ֣ר בַּשָּׁ֑חַת " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(וחיתי)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וְ֝חַיָּת֗וֹ]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" בָּא֥וֹר תִּרְאֶֽה׃" />
   </verse>
   <verse bcv_str="Job.33.29">
@@ -2924,7 +2924,7 @@
   </verse>
   <verse bcv_str="Job.33.33">
     <text text="אִם־אַ֭יִן אַתָּ֥ה שְֽׁמַֽע־לִ֑י הַ֝חֲרֵ֗שׁ וַאֲאַלֶּפְךָ֥ חׇכְמָֽה׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.34.1">
     <text text="וַיַּ֥עַן אֱלִיה֗וּא וַיֹּאמַֽר׃" />
@@ -2955,11 +2955,11 @@
   </verse>
   <verse bcv_str="Job.34.10">
     <text text="לָכֵ֤ן" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" אַ֥נְשֵׁ֥י לֵבָ֗ב שִׁמְע֫וּ" />
-    <mam-implicit-maqaf>
+    <implicit-maqaf>
       <text text="־" />
-    </mam-implicit-maqaf>
+    </implicit-maqaf>
     <text text="לִ֥י חָלִ֖לָה לָאֵ֥ל מֵרֶ֗שַׁע וְשַׁדַּ֥י מֵעָֽוֶל׃" />
   </verse>
   <verse bcv_str="Job.34.11">
@@ -2988,12 +2988,12 @@
   </verse>
   <verse bcv_str="Job.34.19">
     <text text="אֲשֶׁ֤ר לֹֽא־נָשָׂ֨א" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" פְּנֵ֥י שָׂרִ֗ים וְלֹ֣א נִכַּר־שׁ֭וֹעַ לִפְנֵי־דָ֑ל כִּֽי־מַעֲשֵׂ֖ה יָדָ֣יו כֻּלָּֽם׃" />
   </verse>
   <verse bcv_str="Job.34.20">
     <text text="רֶ֤גַע" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" יָמֻתוּ֮ וַחֲצ֢וֹת לָ֥֫יְלָה יְגֹעֲשׁ֣וּ עָ֣ם וְיַעֲבֹ֑רוּ וְיָסִ֥ירוּ אַ֝בִּ֗יר לֹ֣א בְיָֽד׃" />
   </verse>
   <verse bcv_str="Job.34.21">
@@ -3022,7 +3022,7 @@
   </verse>
   <verse bcv_str="Job.34.29">
     <text text="וְה֤וּא יַשְׁקִ֨ט" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" וּמִ֥י יַרְשִׁ֗עַ וְיַסְתֵּ֣ר פָּ֭נִים וּמִ֣י יְשׁוּרֶ֑נּוּ וְעַל־גּ֖וֹי וְעַל־אָדָ֣ם יָֽחַד׃" />
   </verse>
   <verse bcv_str="Job.34.30">
@@ -3036,7 +3036,7 @@
   </verse>
   <verse bcv_str="Job.34.33">
     <text text="הֲֽמֵעִמְּךָ֬ יְשַׁלְּמֶ֨נָּה" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" כִּֽי־מָאַ֗סְתָּ כִּֽי־אַתָּ֣ה תִבְחַ֣ר וְלֹא־אָ֑נִי וּֽמַה־יָּדַ֥עְתָּ דַבֵּֽר׃" />
   </verse>
   <verse bcv_str="Job.34.34">
@@ -3050,7 +3050,7 @@
   </verse>
   <verse bcv_str="Job.34.37">
     <text text="כִּ֥י יֹ֘סִ֤יף עַֽל־חַטָּאת֣וֹ פֶ֭שַׁע בֵּינֵ֣ינוּ יִשְׂפּ֑וֹק וְיֶ֖רֶב אֲמָרָ֣יו לָאֵֽל׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.35.1">
     <text text="וַיַּ֥עַן אֱלִיה֗וּ וַיֹּאמַֽר׃" />
@@ -3090,7 +3090,7 @@
   </verse>
   <verse bcv_str="Job.35.13">
     <text text="אַךְ־שָׁ֭וְא לֹא־יִשְׁמַ֥ע" />
-    <mam-lp-paseq />
+    <lp-paseq />
     <text text="אֵ֑ל וְ֝שַׁדַּ֗י לֹ֣א יְשׁוּרֶֽנָּה׃" />
   </verse>
   <verse bcv_str="Job.35.14">
@@ -3101,7 +3101,7 @@
   </verse>
   <verse bcv_str="Job.35.16">
     <text text="וְ֭אִיּוֹב הֶ֣בֶל יִפְצֶה־פִּ֑יהוּ בִּבְלִי־דַ֝֗עַת מִלִּ֥ין יַכְבִּֽר׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.36.1">
     <text text="וַיֹּ֥סֶף אֱלִיה֗וּא וַיֹּאמַֽר׃" />
@@ -3150,7 +3150,7 @@
   </verse>
   <verse bcv_str="Job.36.16">
     <text text="וְאַ֤ף הֲסִֽיתְךָ֨" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" מִפִּי־צָ֗ר רַ֭חַב לֹא־מוּצָ֣ק תַּחְתֶּ֑יהָ וְנַ֥חַת שֻׁ֝לְחָנְךָ֗ מָ֣לֵא דָֽשֶׁן׃" />
   </verse>
   <verse bcv_str="Job.36.17">
@@ -3188,7 +3188,7 @@
   </verse>
   <verse bcv_str="Job.36.28">
     <text text="אֲשֶֽׁר־יִזְּל֥וּ שְׁחָקִ֑ים יִ֝רְעֲפ֗וּ עֲלֵ֤י" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" אָדָ֬ם רָֽב׃" />
   </verse>
   <verse bcv_str="Job.36.29">
@@ -3217,7 +3217,7 @@
   </verse>
   <verse bcv_str="Job.37.4">
     <text text="אַחֲרָ֤יו" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" יִשְׁאַג־ק֗וֹל יַ֭רְעֵם בְּק֣וֹל גְּאוֹנ֑וֹ וְלֹ֥א יְ֝עַקְּבֵ֗ם כִּֽי־יִשָּׁמַ֥ע קוֹלֽוֹ׃" />
   </verse>
   <verse bcv_str="Job.37.5">
@@ -3225,11 +3225,11 @@
   </verse>
   <verse bcv_str="Job.37.6">
     <text text="כִּ֤י לַשֶּׁ֨לֶג" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" יֹאמַ֗ר הֱוֵ֫א" />
-    <mam-implicit-maqaf>
+    <implicit-maqaf>
       <text text="־" />
-    </mam-implicit-maqaf>
+    </implicit-maqaf>
     <text text="אָ֥רֶץ וְגֶ֥שֶׁם מָטָ֑ר וְ֝גֶ֗שֶׁם מִטְר֥וֹת עֻזּֽוֹ׃" />
   </verse>
   <verse bcv_str="Job.37.7">
@@ -3249,13 +3249,13 @@
   </verse>
   <verse bcv_str="Job.37.12">
     <text text="וְה֤וּא מְסִבּ֨וֹת" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" מִתְהַפֵּ֣ךְ " />
-    <mam-kq-trivial>
+    <kq-trivial>
       <text text="בְּתַחְבּוּלֹתָ֣ו" />
-    </mam-kq-trivial>
+    </kq-trivial>
     <text text=" לְפׇעֳלָ֑ם כֹּ֖ל אֲשֶׁ֥ר יְצַוֵּ֓ם" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" עַל־פְּנֵ֖י תֵבֵ֣ל אָֽרְצָה׃" />
   </verse>
   <verse bcv_str="Job.37.13">
@@ -3263,7 +3263,7 @@
   </verse>
   <verse bcv_str="Job.37.14">
     <text text="הַאֲזִ֣ינָה זֹּ֣את אִיּ֑וֹב עֲ֝מֹ֗ד וְהִתְבּוֹנֵ֤ן" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" נִפְלְא֬וֹת אֵֽל׃" />
   </verse>
   <verse bcv_str="Job.37.15">
@@ -3286,7 +3286,7 @@
   </verse>
   <verse bcv_str="Job.37.21">
     <text text="וְעַתָּ֤ה" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" לֹ֘א רָ֤אוּ א֗וֹר בָּהִ֣יר ה֭וּא בַּשְּׁחָקִ֑ים וְר֥וּחַ עָ֝בְרָ֗ה וַֽתְּטַהֲרֵֽם׃" />
   </verse>
   <verse bcv_str="Job.37.22">
@@ -3297,26 +3297,26 @@
   </verse>
   <verse bcv_str="Job.37.24">
     <text text="לָ֭כֵן יְרֵא֣וּהוּ אֲנָשִׁ֑ים לֹֽא־יִ֝רְאֶ֗ה כׇּל־חַכְמֵי־לֵֽב׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.38.1">
     <text text="וַיַּֽעַן־יְהֹוָ֣ה אֶת־אִ֭יּוֹב " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(מנהסערה)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[מִ֥ן" />
-        <mam-lp-paseq />
+        <lp-paseq />
         <text text="הַסְּעָרָ֗ה]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" וַיֹּאמַֽר׃" />
   </verse>
   <verse bcv_str="Job.38.2">
     <text text="מִ֤י זֶ֨ה" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" מַחְשִׁ֖יךְ עֵצָ֥ה בְמִלִּ֗ין בְּֽלִי־דָֽעַת׃" />
   </verse>
   <verse bcv_str="Job.38.3">
@@ -3348,22 +3348,22 @@
   </verse>
   <verse bcv_str="Job.38.12">
     <text text="הֲֽ֭מִיָּמֶיךָ צִוִּ֣יתָ בֹּ֑קֶר " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(ידעתה שחר)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[יִדַּ֖עְתָּ הַשַּׁ֣חַר]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" מְקֹמֽוֹ׃" />
   </verse>
   <verse bcv_str="Job.38.13">
     <text text="לֶ֭אֱחֹז בְּכַנְפ֣וֹת הָאָ֑רֶץ וְיִנָּעֲר֖וּ רְשָׁ" />
-    <mam-letter-hung>
+    <letter-hung>
       <text text="עִ֣" />
-    </mam-letter-hung>
+    </letter-hung>
     <text text="ים מִמֶּֽנָּה׃" />
   </verse>
   <verse bcv_str="Job.38.14">
@@ -3371,9 +3371,9 @@
   </verse>
   <verse bcv_str="Job.38.15">
     <text text="וְיִמָּנַ֣ע מֵרְשָׁ" />
-    <mam-letter-hung>
+    <letter-hung>
       <text text="עִ֣" />
-    </mam-letter-hung>
+    </letter-hung>
     <text text="ים אוֹרָ֑ם וּזְר֥וֹעַ רָ֝מָ֗ה תִּשָּׁבֵֽר׃" />
   </verse>
   <verse bcv_str="Job.38.16">
@@ -3453,9 +3453,9 @@
   </verse>
   <verse bcv_str="Job.38.41">
     <text text="מִ֤י יָכִ֥ין לָעֹרֵ֗ב צֵ֫יד֥וֹ כִּֽי־" />
-    <mam-kq-trivial>
+    <kq-trivial>
       <text text="יְ֭לָדָו" />
-    </mam-kq-trivial>
+    </kq-trivial>
     <text text=" אֶל־אֵ֣ל יְשַׁוֵּ֑עוּ יִ֝תְע֗וּ לִבְלִי־אֹֽכֶל׃" />
   </verse>
   <verse bcv_str="Job.39.1">
@@ -3493,15 +3493,15 @@
   </verse>
   <verse bcv_str="Job.39.12">
     <text text="הֲתַאֲמִ֣ין בּ֭וֹ כִּֽי־" />
-    <mam-kq>
-      <mam-kq-q>
+    <kq>
+      <kq-q>
         <text text="[יָשִׁ֣יב]" />
-      </mam-kq-q>
+      </kq-q>
       <text text=" " />
-      <mam-kq-k>
+      <kq-k>
         <text text="(ישוב)" />
-      </mam-kq-k>
-    </mam-kq>
+      </kq-k>
+    </kq>
     <text text=" זַרְעֶ֑ךָ וְֽגׇרְנְךָ֥ יֶאֱסֹֽף׃" />
   </verse>
   <verse bcv_str="Job.39.13">
@@ -3521,7 +3521,7 @@
   </verse>
   <verse bcv_str="Job.39.18">
     <text text="כָּ֭עֵת בַּמָּר֣וֹם תַּמְרִ֑יא תִּֽשְׂחַ֥ק לַ֝סּ֗וּס וּלְרֹכְבֽוֹ׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.39.19">
     <text text="הֲתִתֵּ֣ן לַסּ֣וּס גְּבוּרָ֑ה הֲתַלְבִּ֖ישׁ צַוָּאר֣וֹ רַעְמָֽה׃" />
@@ -3543,14 +3543,14 @@
   </verse>
   <verse bcv_str="Job.39.25">
     <text text="בְּדֵ֤י שֹׁפָ֨ר" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" יֹ֘אמַ֤ר הֶאָ֗ח וּֽ֭מֵרָחוֹק יָרִ֣יחַ מִלְחָמָ֑ה רַ֥עַם שָׂ֝רִ֗ים וּתְרוּעָֽה׃" />
   </verse>
   <verse bcv_str="Job.39.26">
     <text text="הֲֽ֭מִבִּינָ֣תְךָ יַאֲבֶר־נֵ֑ץ יִפְרֹ֖שׂ " />
-    <mam-kq-trivial>
+    <kq-trivial>
       <text text="כְּנָפָ֣ו" />
-    </mam-kq-trivial>
+    </kq-trivial>
     <text text=" לְתֵימָֽן׃" />
   </verse>
   <verse bcv_str="Job.39.27">
@@ -3564,14 +3564,14 @@
   </verse>
   <verse bcv_str="Job.39.30">
     <text text="וְאֶפְרֹחָ֥ו יְעַלְעוּ־דָ֑ם וּבַאֲשֶׁ֥ר חֲ֝לָלִ֗ים שָׁ֣ם הֽוּא׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.40.1">
     <text text="וַיַּ֖עַן יְהֹוָ֥ה אֶת־אִיּ֗וֹב וַיֹּאמַֽר׃" />
   </verse>
   <verse bcv_str="Job.40.2">
     <text text="הֲ֭רֹב עִם־שַׁדַּ֣י יִסּ֑וֹר מוֹכִ֖יחַ אֱל֣וֹהַּ יַעֲנֶֽנָּה׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.40.3">
     <text text="וַיַּ֖עַן אִיּ֥וֹב אֶת־יְהֹוָ֗ה וַיֹּאמַֽר׃" />
@@ -3581,21 +3581,21 @@
   </verse>
   <verse bcv_str="Job.40.5">
     <text text="אַחַ֣ת דִּ֭בַּרְתִּי וְלֹ֣א אֶעֱנֶ֑ה וּ֝שְׁתַּ֗יִם וְלֹ֣א אוֹסִֽיף׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.40.6">
     <text text="וַיַּעַן־יְהֹוָ֣ה אֶת־אִ֭יּוֹב " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(מנסערה)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[מִ֥ן" />
-        <mam-lp-paseq />
+        <lp-paseq />
         <text text="סְעָרָ֗ה]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" וַיֹּאמַֽר׃" />
   </verse>
   <verse bcv_str="Job.40.7">
@@ -3606,7 +3606,7 @@
   </verse>
   <verse bcv_str="Job.40.9">
     <text text="וְאִם־זְר֖וֹעַ כָּאֵ֥ל" />
-    <mam-lp-paseq />
+    <lp-paseq />
     <text text="לָ֑ךְ וּ֝בְק֗וֹל כָּמֹ֥הוּ תַרְעֵֽם׃" />
   </verse>
   <verse bcv_str="Job.40.10">
@@ -3632,9 +3632,9 @@
   </verse>
   <verse bcv_str="Job.40.17">
     <text text="יַחְפֹּ֣ץ זְנָב֣וֹ כְמוֹ־אָ֑רֶז גִּידֵ֖י " />
-    <mam-kq-trivial>
+    <kq-trivial>
       <text text="פַחֲדָ֣ו" />
-    </mam-kq-trivial>
+    </kq-trivial>
     <text text=" יְשֹׂרָֽגוּ׃" />
   </verse>
   <verse bcv_str="Job.40.18">
@@ -3654,7 +3654,7 @@
   </verse>
   <verse bcv_str="Job.40.23">
     <text text="הֵ֤ן יַעֲשֹׁ֣ק נָ֭הָר לֹ֣א יַחְפּ֑וֹז יִבְטַ֓ח" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" כִּֽי־יָגִ֖יחַ יַרְדֵּ֣ן אֶל־פִּֽיהוּ׃" />
   </verse>
   <verse bcv_str="Job.40.24">
@@ -3694,15 +3694,15 @@
     <text text="מִ֣י הִ֭קְדִּימַנִי וַאֲשַׁלֵּ֑ם תַּ֖חַת כׇּל־הַשָּׁמַ֣יִם לִי־הֽוּא׃" />
   </verse>
   <verse bcv_str="Job.41.4">
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(לא)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[לוֹ־]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text="אַחֲרִ֥ישׁ בַּדָּ֑יו וּדְבַר־גְּ֝בוּר֗וֹת וְחִ֣ין עֶרְכּֽוֹ׃" />
   </verse>
   <verse bcv_str="Job.41.5">
@@ -3770,30 +3770,30 @@
   </verse>
   <verse bcv_str="Job.41.26">
     <text text="אֵֽת־כׇּל־גָּבֹ֥הַּ יִרְאֶ֑ה ה֝֗וּא מֶ֣לֶךְ עַל־כׇּל־בְּנֵי־שָֽׁחַץ׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.42.1">
     <text text="וַיַּ֖עַן אִיּ֥וֹב אֶת־יְהֹוָ֗ה וַיֹּאמַֽר׃" />
   </verse>
   <verse bcv_str="Job.42.2">
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(ידעת)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[יָ֭דַעְתִּי]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" כִּי־כֹ֣ל תּוּכָ֑ל וְלֹֽא־יִבָּצֵ֖ר מִמְּךָ֣ מְזִמָּֽה׃" />
   </verse>
   <verse bcv_str="Job.42.3">
     <text text="מִ֤י זֶ֨ה" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" מַעְלִ֥ים עֵצָ֗ה בְּֽלִ֫י" />
-    <mam-implicit-maqaf>
+    <implicit-maqaf>
       <text text="־" />
-    </mam-implicit-maqaf>
+    </implicit-maqaf>
     <text text="דָ֥עַת לָכֵ֣ן הִ֭גַּדְתִּי וְלֹ֣א אָבִ֑ין נִפְלָא֥וֹת מִ֝מֶּ֗נִּי וְלֹ֣א אֵדָֽע׃" />
   </verse>
   <verse bcv_str="Job.42.4">
@@ -3804,15 +3804,15 @@
   </verse>
   <verse bcv_str="Job.42.6">
     <text text="עַל־כֵּ֭ן אֶמְאַ֣ס וְנִחַ֑מְתִּי עַל־עָפָ֥ר וָאֵֽפֶר׃" />
-    <mam-spi-pe2 />
+    <spi-pe2 />
   </verse>
   <verse bcv_str="Job.42.7">
     <text text="וַיְהִ֗י אַחַ֨ר דִּבֶּ֧ר יְהֹוָ֛ה אֶת־הַדְּבָרִ֥ים הָאֵ֖לֶּה אֶל־אִיּ֑וֹב וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־אֱלִיפַ֣ז הַתֵּימָנִ֗י חָרָ֨ה אַפִּ֤י בְךָ֙ וּבִשְׁנֵ֣י רֵעֶ֔יךָ כִּ֠י לֹ֣א דִבַּרְתֶּ֥ם אֵלַ֛י נְכוֹנָ֖ה כְּעַבְדִּ֥י אִיּֽוֹב׃" />
-    <mam-spi-samekh2 />
+    <spi-samekh2 />
   </verse>
   <verse bcv_str="Job.42.8">
     <text text="וְעַתָּ֡ה קְחוּ־לָכֶ֣ם שִׁבְעָֽה־פָרִים֩ וְשִׁבְעָ֨ה אֵילִ֜ים וּלְכ֣וּ" />
-    <mam-lp-legarmeih />
+    <lp-legarmeih />
     <text text=" אֶל־עַבְדִּ֣י אִיּ֗וֹב וְהַעֲלִיתֶ֤ם עוֹלָה֙ בַּעַדְכֶ֔ם וְאִיּ֣וֹב עַבְדִּ֔י יִתְפַּלֵּ֖ל עֲלֵיכֶ֑ם כִּ֧י אִם־פָּנָ֣יו אֶשָּׂ֗א לְבִלְתִּ֞י עֲשׂ֤וֹת עִמָּכֶם֙ נְבָלָ֔ה כִּ֠י לֹ֣א דִבַּרְתֶּ֥ם אֵלַ֛י נְכוֹנָ֖ה כְּעַבְדִּ֥י אִיּֽוֹב׃" />
   </verse>
   <verse bcv_str="Job.42.9">
@@ -3820,15 +3820,15 @@
   </verse>
   <verse bcv_str="Job.42.10">
     <text text="וַיהֹוָ֗ה שָׁ֚ב אֶת־" />
-    <mam-kq>
-      <mam-kq-q>
+    <kq>
+      <kq-q>
         <text text="[שְׁב֣וּת]" />
-      </mam-kq-q>
+      </kq-q>
       <text text=" " />
-      <mam-kq-k>
+      <kq-k>
         <text text="(שבית)" />
-      </mam-kq-k>
-    </mam-kq>
+      </kq-k>
+    </kq>
     <text text=" אִיּ֔וֹב בְּהִֽתְפַּֽלְל֖וֹ בְּעַ֣ד רֵעֵ֑הוּ וַיֹּ֧סֶף יְהֹוָ֛ה אֶת־כׇּל־אֲשֶׁ֥ר לְאִיּ֖וֹב לְמִשְׁנֶֽה׃" />
   </verse>
   <verse bcv_str="Job.42.11">
@@ -3848,15 +3848,15 @@
   </verse>
   <verse bcv_str="Job.42.16">
     <text text="וַיְחִ֤י אִיּוֹב֙ אַחֲרֵי־זֹ֔את מֵאָ֥ה וְאַרְבָּעִ֖ים שָׁנָ֑ה " />
-    <mam-kq>
-      <mam-kq-k>
+    <kq>
+      <kq-k>
         <text text="(וירא)" />
-      </mam-kq-k>
+      </kq-k>
       <text text=" " />
-      <mam-kq-q>
+      <kq-q>
         <text text="[וַיִּרְאֶ֗ה]" />
-      </mam-kq-q>
-    </mam-kq>
+      </kq-q>
+    </kq>
     <text text=" אֶת־בָּנָיו֙ וְאֶת־בְּנֵ֣י בָנָ֔יו אַרְבָּעָ֖ה דֹּרֽוֹת׃" />
   </verse>
   <verse bcv_str="Job.42.17">

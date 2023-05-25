@@ -146,7 +146,7 @@ SPACE
 m,w,o,r,a,α,i,(ge),y
 SPACE
 α,a,m,_,⅃,r
-START mam-lp-legarmeih 
+START lp-legarmeih 
 SPACE
 y,:,h,o,w,a,⅃,h
 SPACE
@@ -394,7 +394,7 @@ SPACE
 α,a,m,_,(me),r
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START mam-spi-samekh2 
+START spi-samekh2 
 
 1:14 in vtrad vtbhs
 w,:,α,a,r,⅃,w,·,r
@@ -545,7 +545,7 @@ SPACE
 
 2:5 in vtrad vtbhs
 v,·,:,r,i,y,τ,i,⅃,y
-START mam-lp-legarmeih 
+START lp-legarmeih 
 SPACE
 h,a,y,:,τ,a,⅃,h
 SPACE
@@ -672,7 +672,7 @@ SPACE
 f,·,a,n,i,(ti),y,m.
 SPACE
 v,·,_,τ,·,w,o,r,a,𝓂,h,.
-START mam-spi-pe2 
+START spi-pe2 
 
 2:10 in vtrad vtbhs
 h,:_,l,(qa),w,o,α
@@ -719,7 +719,7 @@ SPACE
 w,·,v,i,y,r,w,·,$,·sh,a,l,a,⅄,CGJ,i,m.
 SPACE
 k,·,i,⅃,y
-START mam-lp-legarmeih 
+START lp-legarmeih 
 SPACE
 x,i,l,·,‥,⅃,l
 SPACE
@@ -765,7 +765,7 @@ SPACE
 l,_,y,h,o,w,a,(ti),h
 SPACE
 ц,:,v,a,α,𝓂,w,o,τ,.
-START mam-spi-pe2 
+START spi-pe2 
 
 2:13 in vtrad vtbhs
 w,:,z,o,α,τ,(p)
@@ -814,7 +814,7 @@ SPACE
 v,·,‥,y,n,:,k.,a,(ge)
 SPACE
 w,·,v,‥,⅃,y,n.
-START mam-lp-legarmeih 
+START lp-legarmeih 
 SPACE
 α,‥,⅃,$,·sh,∵,τ
 SPACE
@@ -899,7 +899,7 @@ SPACE
 w,:,l,o,(me),α
 SPACE
 τ,i,v,:,g,·,o,𝓂,d,w,·,.
-START mam-spi-pe2 
+START spi-pe2 
 
 2:17 in vtrad vtbhs
 h,w,o,g,_,ʕ,:,τ,·,∵,<,m.
@@ -921,7 +921,7 @@ SPACE
 r,a,(ge),ʕ
 SPACE
 θ,⅃,w,o,v
-START mam-lp-legarmeih 
+START lp-legarmeih 
 SPACE
 v,·,:,ʕ,‥,y,n,‥,⅃,y
 SPACE
@@ -959,7 +959,7 @@ SPACE
 α,∵,l,-,h,‥,y,k,a,l,(ge),w,o
 SPACE
 h,a,α,a,d,⅃,w,o,n.
-START mam-lp-legarmeih 
+START lp-legarmeih 
 SPACE
 α,:_,$,·sh,∵,r,-,α,_,τ,·,∵,⅃,m.
 SPACE
@@ -1064,7 +1064,7 @@ SPACE
 l,_,m,·,i,$,·sh,:,f,·,a,θ,∴
 SPACE
 w,:,h,a,y,i,⅃,y,τ,i,y
-START mam-lp-legarmeih 
+START lp-legarmeih 
 SPACE
 ʕ,‥,⅃,d
 SPACE
@@ -1288,7 +1288,7 @@ SPACE
 y,:,h,o,w,a,(me),h
 SPACE
 ц,:,v,a,α,𝓂,w,o,τ,.
-START mam-spi-pe2 
+START spi-pe2 
 
 3:13 in vtrad vtbhs
 x,a,z,:,q,(me),w,·
@@ -1453,7 +1453,7 @@ SPACE
 l,o,(me),α
 SPACE
 ʕ,:_,v,a,d,𝓂,w,o,.
-START mam-spi-pe2 
+START spi-pe2 
 
 3:19 in vtrad vtbhs
 k,·,i,𝓂,y,-,h,i,n,·,‥,<,h
@@ -1553,12 +1553,12 @@ SPACE
 y,:,h,o,w,a,(me),h
 SPACE
 ц,:,v,a,α,𝓂,w,o,τ,.
-START mam-spi-pe2 
+START spi-pe2 
 
 3:22 in vtrad vtbhs
-START mam-letter-large 
+START letter-large 
 z,i
-STOP mam-letter-large 
+STOP letter-large 
 k,:,r,Ƶ,w,·
 SPACE
 τ,·,w,o,r,_,(ti),τ
@@ -1628,8 +1628,8 @@ SPACE
 α,∵,τ,-,h,a,α,a,(ti),r,∵,ц.
 SPACE
 x,‥,𝓂,r,∵,m.,.
-START mam-br-before-addendum 
-START mam-addendum 
+START br-before-addendum 
+START addendum 
 h,n,h
 SPACE
 α,n,k,y
@@ -1655,5 +1655,5 @@ SPACE
 h,g,d,w,l
 SPACE
 w,h,n,w,r,α
-STOP mam-addendum 
+STOP addendum 
 
