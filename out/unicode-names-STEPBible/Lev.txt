@@ -2955,9 +2955,6 @@ START letter-small
 m
 STOP letter-small 
 w,o,q,:,d,a,(qa),h,‾
-START note-callout 
-ASTERISK
-STOP note-callout 
 START note 
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -3982,9 +3979,6 @@ h,_,h,i,(ti),w,α
 SPACE
 m,‥,ʕ,_,m,·,∵,𝓂,y,h,a,.
 START spi-pe2 
-START note-callout 
-ASTERISK
-STOP note-callout 
 START note 
 LEFT PARENTHESIS,α,y,n.
 SPACE
@@ -4103,9 +4097,6 @@ h,_,h,i,(ti),w,α
 SPACE
 m,‥,𝓂,ʕ,_,m,·,∵,𝓂,y,h,a,.
 START spi-pe2 
-START note-callout 
-ASTERISK
-STOP note-callout 
 START note 
 LEFT PARENTHESIS,α,y,n.
 SPACE

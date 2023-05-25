@@ -4191,9 +4191,6 @@ SPACE
 l,:,h,_,$,·sh,:,m,i,y,d,(tq)
 SPACE
 w,:,l,_,h,:_,r,o,(qa),g
-START note-callout 
-ASTERISK
-STOP note-callout 
 START note 
 LEFT PARENTHESIS,v,m,g,y,l,w,τ
 SPACE
@@ -4499,9 +4496,6 @@ SPACE
 l,o,α,-,ʕ,a,m,_,⅃,d
 SPACE
 l,i,f,:,n,‥,y,h,∵,ƶ,m.
-START note-callout 
-ASTERISK
-STOP note-callout 
 START note 
 LEFT PARENTHESIS,v,m,g,y,l,w,τ
 SPACE
@@ -4651,9 +4645,6 @@ START shirah-space
 w,:,α,‥,(me),τ
 START lp-paseq 
 α,:_,r,i,d,_,(ti),y
-START note-callout 
-ASTERISK
-STOP note-callout 
 START note 
 LEFT PARENTHESIS,v,σ,f,r,y,m.
 SPACE
