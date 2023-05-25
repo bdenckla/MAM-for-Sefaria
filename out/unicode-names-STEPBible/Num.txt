@@ -9495,7 +9495,7 @@ START mam-spi-samekh
 
 10:35 in vtrad vtbhs
 START mam-spi-invnun 
-START mam-spi-sam3-nu10-invnun-neighbor 
+START mam-spi-samekh3 class=nu10-invnun-neighbor
 w,_,y,:,h,i,⟓,y
 SPACE
 v,·,i,n,:,σ,o,(me),ʕ,_
@@ -9535,7 +9535,7 @@ SPACE
 α,_,l,:,f,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START mam-spi-sam3-nu10-invnun-neighbor 
+START mam-spi-samekh3 class=nu10-invnun-neighbor
 START mam-spi-invnun 
 START mam-spi-pe 
 

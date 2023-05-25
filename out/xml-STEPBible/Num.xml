@@ -1415,14 +1415,14 @@
   </verse>
   <verse bcv_str="Num.10.35">
     <mam-spi-invnun />
-    <mam-spi-sam3-nu10-invnun-neighbor />
+    <mam-spi-samekh3 class="nu10-invnun-neighbor" />
     <text text="וַיְהִ֛י בִּנְסֹ֥עַ הָאָרֹ֖ן וַיֹּ֣אמֶר מֹשֶׁ֑ה קוּמָ֣ה" />
     <mam-lp-legarmeih />
     <text text=" יְהֹוָ֗ה וְיָפֻ֙צוּ֙ אֹֽיְבֶ֔יךָ וְיָנֻ֥סוּ מְשַׂנְאֶ֖יךָ מִפָּנֶֽיךָ׃" />
   </verse>
   <verse bcv_str="Num.10.36">
     <text text="וּבְנֻחֹ֖ה יֹאמַ֑ר שׁוּבָ֣ה יְהֹוָ֔ה רִֽבְב֖וֹת אַלְפֵ֥י יִשְׂרָאֵֽל׃" />
-    <mam-spi-sam3-nu10-invnun-neighbor />
+    <mam-spi-samekh3 class="nu10-invnun-neighbor" />
     <mam-spi-invnun />
     <mam-spi-pe />
   </verse>
