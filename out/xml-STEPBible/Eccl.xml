@@ -33,7 +33,7 @@
   </verse>
   <verse bcv_str="Eccl.1.11">
     <text text="אֵ֥ין זִכְר֖וֹן לָרִאשֹׁנִ֑ים וְגַ֨ם לָאַחֲרֹנִ֜ים שֶׁיִּהְי֗וּ לֹֽא־יִהְיֶ֤ה לָהֶם֙ זִכָּר֔וֹן עִ֥ם שֶׁיִּהְי֖וּ לָאַחֲרֹנָֽה׃" />
-    <mam-spi-pe />
+    <mam-spi-pe2 />
   </verse>
   <verse bcv_str="Eccl.1.12">
     <text text="אֲנִ֣י קֹהֶ֗לֶת הָיִ֥יתִי מֶ֛לֶךְ עַל־יִשְׂרָאֵ֖ל בִּירוּשָׁלָֽ͏ִם׃" />
@@ -140,7 +140,7 @@
   </verse>
   <verse bcv_str="Eccl.3.1">
     <text text="לַכֹּ֖ל זְמָ֑ן וְעֵ֥ת לְכׇל־חֵ֖פֶץ תַּ֥חַת הַשָּׁמָֽיִם׃" />
-    <mam-spi-samekh />
+    <mam-spi-samekh2 />
   </verse>
   <verse bcv_str="Eccl.3.2">
     <text text="עֵ֥ת לָלֶ֖דֶת" />
@@ -210,7 +210,7 @@
     <text text="עֵ֥ת מִלְחָמָ֖ה" />
     <mam-shirah-space />
     <text text="וְעֵ֥ת שָׁלֽוֹם׃" />
-    <mam-spi-samekh />
+    <mam-spi-samekh2 />
   </verse>
   <verse bcv_str="Eccl.3.9">
     <text text="מַה־יִּתְרוֹן֙ הָֽעוֹשֶׂ֔ה בַּאֲשֶׁ֖ר ה֥וּא עָמֵֽל׃" />

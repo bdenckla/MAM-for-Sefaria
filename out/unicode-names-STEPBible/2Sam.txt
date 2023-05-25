@@ -337,7 +337,7 @@ SPACE
 n,a,f,:,l,(ti),w,·
 SPACE
 v,·,∵,x,a,𝓂,r,∵,v,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 1:13 in vtrad vtbhs
 w,_,y,·,o,⅃,α,m,∵,r
@@ -444,7 +444,7 @@ SPACE
 α,∵,τ,-,m,:,$,·sh,i,(me),y,x,_
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 1:17 in vtrad vtbhs
 w,_,y,:,q,o,n,‥,⅃,n.
@@ -684,7 +684,7 @@ SPACE
 k,·,:,l,‥,(me),y
 SPACE
 m,i,l,:,x,a,m,a,𝓂,h,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 2:1 in vtrad vtbhs
 w,_,y,:,h,i,⅃,y
@@ -805,7 +805,7 @@ SPACE
 q,a,v,:,r,(ti),w,·
 SPACE
 α,∵,τ,-,$,·sh,a,α,𝓂,w,·,l,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 2:5 in vtrad vtbhs
 w,_,y,·,i,$,·sh,:,l,_,<,x
@@ -904,7 +904,7 @@ SPACE
 l,:,m,∵,(ti),l,∵,k.,:
 SPACE
 ʕ,:_,l,‥,y,h,∵,𝓂,m.,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 2:8 in vtrad vtbhs
 w,:,α,_,v,:,n,‥,⅃,r
@@ -945,7 +945,7 @@ SPACE
 w,:,ʕ,_,l,-,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 k,·,u,l,·,o,𝓂,h,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 2:10 in vtrad vtbhs
 v,·,∵,n.,-,α,_,r,:,v,·,a,ʕ,i,(qa),y,m.
@@ -1006,7 +1006,7 @@ SPACE
 w,:,$,·sh,i,$,·sh,·,a,(me),h
 SPACE
 x,:a,d,a,$,·sh,i,𝓂,y,m.,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 2:12 in vtrad vtbhs
 w,_,y,·,‥,ц,‥,α,(p)
@@ -1636,7 +1636,7 @@ SPACE
 h,o,l,:,k,i,(me),y,m.
 SPACE
 w,:,d,_,l,·,i,𝓂,y,m.,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 3:2 in vtrad vtbhs
 START mam-kq 
@@ -1729,7 +1729,7 @@ SPACE
 l,:,d,a,w,i,(ti),d
 SPACE
 v,·,:,x,∵,v,:,r,𝓂,w,o,n.,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 3:6 in vtrad vtbhs
 w,_,y,:,h,i,◆,y
@@ -1836,7 +1836,7 @@ SPACE
 h,a,α,i,$,·sh,·,a,(ti),h
 SPACE
 h,_,y,·,𝓂,w,o,m.,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 3:9 in vtrad vtbhs
 k,·,o,𝓂,h,-,y,_,ʕ,:_,$,·si,∵,<,h
@@ -1904,7 +1904,7 @@ SPACE
 m,i,y,·,i,r,:,α,a,τ,(ti),w,o
 SPACE
 α,o,τ,𝓂,w,o,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 3:12 in vtrad vtbhs
 w,_,y,·,i,$,·sh,:,l,_,x,(tq)
@@ -1990,7 +1990,7 @@ SPACE
 l,i,r,:,α,(me),w,o,τ
 SPACE
 α,∵,τ,-,f,·,a,n,a,𝓂,y,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 3:14 in vtrad vtbhs
 w,_,y,·,i,$,·sh,:,l,_,<,x
@@ -2526,7 +2526,7 @@ SPACE
 v,·,:,g,i,v,:,ʕ,(ti),w,o,n.
 SPACE
 v,·,_,m,·,i,l,:,x,a,m,a,𝓂,h,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 3:31 in vtrad vtbhs
 w,_,y,·,o,(tq),α,m,∵,r,(tq)
@@ -2585,7 +2585,7 @@ SPACE
 w,_,y,·,i,v,:,k,·,(ti),w,·
 SPACE
 k,·,oa,l,-,h,a,ʕ,a,𝓂,m.,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 3:33 in vtrad vtbhs
 w,_,y,:,q,o,n,‥,(me),n.
@@ -2721,7 +2721,7 @@ SPACE
 α,∵,τ,-,α,_,v,:,n,‥,(me),r
 SPACE
 v,·,∵,n.,-,n,‥,𝓂,r,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 3:38 in vtrad vtbhs
 w,_,y,·,o,(me),α,m,∵,r
@@ -2778,7 +2778,7 @@ SPACE
 h,a,r,a,ʕ,a,(ti),h
 SPACE
 k,·,:,r,a,ʕ,a,τ,𝓂,w,o,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 4:1 in vtrad vtbhs
 w,_,y,·,i,$,·sh,:,m,_,⅃,ʕ
@@ -2858,7 +2858,7 @@ SPACE
 h,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 4:4 in vtrad vtbhs
 w,:,l,i,y,h,𝓂,w,o,n,a,τ,a,n.,(p)
@@ -3173,7 +3173,7 @@ SPACE
 v,:,q,∵,v,∵,r,-,α,_,v,:,n,‥,(ti),r
 SPACE
 v,·,:,x,∵,v,:,r,𝓂,w,o,n.,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 5:1 in vtrad vtbhs
 w,_,y,·,a,v,o,(ge),α,w,·
@@ -3287,7 +3287,7 @@ SPACE
 l,:,m,∵,(ti),l,∵,k.,:
 SPACE
 ʕ,_,l,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 5:4 in vtrad vtbhs
 v,·,∵,n.,-,$,·sh,:,l,o,$,·sh,i,(me),y,m.
@@ -3481,7 +3481,7 @@ SPACE
 ц,:,v,a,α,(ti),w,o,τ
 SPACE
 ʕ,i,m,·,𝓂,w,o,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 5:11 in vtrad vtbhs
 w,_,⌕,y,·,i,$,·sh,:,l,_,⌕,x
@@ -3536,7 +3536,7 @@ SPACE
 ʕ,_,m,·,(me),w,o
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 5:13 in vtrad vtbhs
 w,_,y,·,i,q,·,_,x,(tq)
@@ -3601,7 +3601,7 @@ SPACE
 w,:,α,∵,l,:,y,a,d,a,(ti),ʕ
 SPACE
 w,∵,α,:∵,l,i,y,f,a,𝓂,l,∵,θ,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 5:17 in vtrad vtbhs
 w,_,y,·,i,$,·sh,:,m,:,ʕ,⅃,w,·
@@ -3659,7 +3659,7 @@ SPACE
 h,:_,τ,i,τ,·,:,n,‥,(ti),m.
 SPACE
 v,·,:,y,a,d,i,⅄,y
-START mam-spi-pe 
+START mam-spi-pe3 
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 y,:,h,o,w,a,<,h
@@ -3727,7 +3727,7 @@ SPACE
 d,·,a,w,i,(ti),d
 SPACE
 w,_,α,:_,n,a,$,·sh,a,𝓂,y,w,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 5:22 in vtrad vtbhs
 w,_,y,·,o,σ,i,(me),f,w,·
@@ -3832,7 +3832,7 @@ SPACE
 ʕ,_,d,-,v,·,o,α,:_,k.,a,(me)
 SPACE
 g,a,𝓂,z,∵,r,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 6:1 in vtrad vtbhs
 w,_,y,·,o,(qa),σ,∵,f.
@@ -4398,7 +4398,7 @@ SPACE
 l,:,v,a,r,‥,⅃,k.,:
 SPACE
 α,∵,τ,-,v,·,‥,y,τ,⅄,w,o
-START mam-spi-samekh 
+START mam-spi-samekh2 
 w,_,τ,·,‥,ц,‥,(G),α
 SPACE
 m,i,y,k,_,<,l
@@ -4515,7 +4515,7 @@ SPACE
 y,(me),w,o,m.
 SPACE
 m,w,o,τ,a,𝓂,h,·,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 7:1 in vtrad vtbhs
 w,_,y,:,h,i,Ƶ,y
@@ -4594,7 +4594,7 @@ SPACE
 v,·,_,l,·,_,⅃,y,:,l,a,h
 SPACE
 h,_,h,⅄,w,·,α
-START mam-spi-samekh 
+START mam-spi-samekh2 
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 d,·,:,v,_,r,-,y,:,h,o,w,a,ƶ,h
@@ -4611,7 +4611,7 @@ SPACE
 α,∵,l,-,ʕ,_,v,:,d,·,i,⅃,y
 SPACE
 α,∵,l,-,d,·,a,w,i,ƶ,d
-START mam-spi-samekh 
+START mam-spi-samekh3 
 k,·,o,(ti),h
 SPACE
 α,a,m,_,⅃,r
@@ -4960,7 +4960,7 @@ SPACE
 n,a,τ,a,(ti),n.
 SPACE
 α,∵,l,-,d,·,a,w,i,𝓂,d,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 7:18 in vtrad vtbhs
 w,_,y,·,a,v,o,α,(p)
@@ -5168,7 +5168,7 @@ SPACE
 l,a,h,∵,(ti),m.
 SPACE
 l,‥,α,l,o,h,i,𝓂,y,m.,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 7:25 in vtrad vtbhs
 w,:,ʕ,_,τ,·,a,h,(p)
@@ -5323,7 +5323,7 @@ SPACE
 v,·,‥,𝓂,y,τ,-,ʕ,_,v,:,d,·,:,k.,a,(ti)
 SPACE
 l,:,ʕ,w,o,l,a,𝓂,m.,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 8:1 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,(p)
@@ -5556,7 +5556,7 @@ SPACE
 h,_,r,:,v,·,‥,(me),h
 SPACE
 m,:,α,o,𝓂,d,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 8:9 in vtrad vtbhs
 w,_,y,·,i,$,·sh,:,m,_,Ƶ,ʕ
@@ -5791,7 +5791,7 @@ SPACE
 k,·,o,h,:_,n,i,(me),y,m.
 SPACE
 h,a,y,𝓂,w,·,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 9:1 in vtrad vtbhs
 w,_,y,·,o,⅃,α,m,∵,r
@@ -6187,7 +6187,7 @@ SPACE
 $,·sh,:,τ,·,‥,(me),y
 SPACE
 r,_,g,:,l,a,𝓂,y,w,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 10:1 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,(p)
@@ -6661,7 +6661,7 @@ SPACE
 h,:_,d,_,d,:,ʕ,∵,(ti),z,∵,r
 SPACE
 l,i,f,:,n,‥,y,h,∵,𝓂,m.,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 10:17 in vtrad vtbhs
 w,_,y,·,u,g,·,_,⅃,d
@@ -6765,7 +6765,7 @@ SPACE
 α,∵,τ,-,v,·,:,n,‥,(me),y
 SPACE
 ʕ,_,m,·,𝓂,w,o,n.,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 11:1 in vtrad vtbhs
 w,_,y,:,h,i,y,(tq)
@@ -6808,7 +6808,7 @@ SPACE
 y,w,o,$,·sh,‥,(me),v
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 11:2 in vtrad vtbhs
 w,_,y,:,h,i,⅃,y
@@ -7212,7 +7212,7 @@ SPACE
 w,:,n,i,k,·,a,(me),h
 SPACE
 w,a,m,‥,𝓂,τ,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 11:16 in vtrad vtbhs
 w,_,y,:,h,i,Ƶ,y
@@ -7446,7 +7446,7 @@ SPACE
 h,_,x,i,τ,·,i,(ti),y
 SPACE
 m,‥,𝓂,τ,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 11:25 in vtrad vtbhs
 w,_,y,·,o,(qa),α,m,∵,r
@@ -7536,7 +7536,7 @@ SPACE
 v,·,:,ʕ,‥,y,n,‥,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 12:1 in vtrad vtbhs
 w,_,y,·,i,$,·sh,:,l,_,(da),x
@@ -7715,7 +7715,7 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 l,o,α,-,x,a,m,a,𝓂,l,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 12:7 in vtrad vtbhs
 w,_,y,·,o,(da),α,m,∵,r
@@ -7727,7 +7727,7 @@ SPACE
 α,_,τ,·,a,⅃,h
 SPACE
 h,a,α,i,⅄,y,$,·sh
-START mam-spi-samekh 
+START mam-spi-samekh3 
 k,·,o,h,-,α,a,m,_,(qa),r
 SPACE
 y,:,h,o,w,a,(ge),h
@@ -7869,7 +7869,7 @@ SPACE
 l,:,k.,a,(ti)
 SPACE
 l,:,α,i,$,·sh,·,a,𝓂,h,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 12:11 in vtrad vtbhs
 k,·,o,⅃,h
@@ -7933,7 +7933,7 @@ SPACE
 w,:,n,∵,(me),g,∵,d
 SPACE
 h,_,$,·sh,·,a,𝓂,m,∵,$,·sh,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 12:13 in vtrad vtbhs
 w,_,y,·,o,<,α,m,∵,r
@@ -7945,7 +7945,7 @@ SPACE
 x,a,θ,a,(ti),α,τ,i,y
 SPACE
 l,_,y,h,o,w,a,⅄,h
-START mam-spi-samekh 
+START mam-spi-samekh2 
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 n,a,τ,a,(ge),n.
@@ -8357,7 +8357,7 @@ SPACE
 v,·,_,ʕ,:_,v,(ti),w,·,r
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 12:26 in vtrad vtbhs
 w,_,y,·,i,l,·,a,⅃,x,∵,m.
@@ -8526,7 +8526,7 @@ SPACE
 w,:,k,oa,l,-,h,a,ʕ,a,(ti),m.
 SPACE
 y,:,r,𝓂,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 13:1 in vtrad vtbhs
 w,_,y,:,h,i,⅃,y
@@ -9203,7 +9203,7 @@ SPACE
 τ,·,a,m,a,(me),r
 SPACE
 α,:_,x,o,τ,𝓂,w,o,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 13:23 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,(p)
@@ -9329,7 +9329,7 @@ SPACE
 k,·,oa,l,-,v,·,:,n,‥,(me),y
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 13:28 in vtrad vtbhs
 w,_,y,:,ц,_,w,(tq)
@@ -9438,7 +9438,7 @@ SPACE
 m,‥,h,∵,(ti),m.
 SPACE
 α,∵,x,a,𝓂,d,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 13:31 in vtrad vtbhs
 w,_,y,·,a,(da),q,oa,m.
@@ -9460,7 +9460,7 @@ SPACE
 q,:,r,u,ʕ,‥,(me),y
 SPACE
 v,:,g,a,d,i,𝓂,y,m.,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 13:32 in vtrad vtbhs
 w,_,y,·,_,μ,ʕ,_,n.
@@ -9540,7 +9540,7 @@ SPACE
 l,:,v,_,d,·,(ti),w,o
 SPACE
 m,‥,𝓂,τ,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 13:34 in vtrad vtbhs
 w,_,y,·,i,v,:,r,_,(ti),x
@@ -9688,7 +9688,7 @@ SPACE
 ʕ,_,l,-,α,_,m,:,n,(ti),w,o,n.
 SPACE
 k,·,i,y,-,m,‥,𝓂,τ,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 14:1 in vtrad vtbhs
 w,_,y,·,‥,(ti),d,_,ʕ
@@ -9789,7 +9789,7 @@ SPACE
 h,w,o,$,·sh,i,(me),ʕ,a,h
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 14:5 in vtrad vtbhs
 w,_,y,·,o,𝓂,α,m,∵,r,-,l,a,(me),h,·
@@ -9901,7 +9901,7 @@ SPACE
 ʕ,_,l,-,f,·,:,n,‥,(me),y
 SPACE
 h,a,α,:_,d,a,m,a,𝓂,h,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 14:8 in vtrad vtbhs
 w,_,y,·,o,(da),α,m,∵,r
@@ -9946,7 +9946,7 @@ SPACE
 w,:,k,i,σ,:,α,(ti),w,o
 SPACE
 n,a,q,i,𝓂,y,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 14:10 in vtrad vtbhs
 w,_,y,·,o,(ti),α,m,∵,r
@@ -10032,7 +10032,7 @@ SPACE
 w,_,y,·,o,(ti),α,m,∵,r
 SPACE
 d,·,_,v,·,‥,𝓂,r,i,y,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 14:13 in vtrad vtbhs
 w,_,τ,·,o,(p),α,m,∵,r,(p)
@@ -10207,7 +10207,7 @@ SPACE
 y,:,h,i,(me),y
 SPACE
 ʕ,i,m,·,a,𝓂,k.,:,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 14:18 in vtrad vtbhs
 w,_,y,·,_,⅃,ʕ,_,n.
@@ -10340,7 +10340,7 @@ SPACE
 α,∵,𝓂,τ,-,k,·,oa,l,-,α,:_,$,·sh,∵,(me),r
 SPACE
 v,·,a,α,a,𝓂,r,∵,ц.,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 14:21 in vtrad vtbhs
 w,_,y,·,o,<,α,m,∵,r
@@ -10431,7 +10431,7 @@ SPACE
 α,∵,τ,-,α,_,v,:,$,·sh,a,l,(ti),w,o,m.
 SPACE
 y,:,r,𝓂,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 14:24 in vtrad vtbhs
 w,_,y,·,o,<,α,m,∵,r
@@ -10461,7 +10461,7 @@ SPACE
 l,o,(me),α
 SPACE
 r,a,α,a,𝓂,h,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 14:25 in vtrad vtbhs
 w,·,k,:,α,_,v,:,$,·sh,a,l,◆,w,o,m.
@@ -10553,7 +10553,7 @@ SPACE
 y,:,f,_,(me),τ
 SPACE
 m,_,r,:,α,∵,𝓂,h,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 14:28 in vtrad vtbhs
 w,_,y,·,‥,(da),$,·sh,∵,v
@@ -10647,7 +10647,7 @@ SPACE
 α,∵,τ,-,h,_,x,∵,l,:,q,a,(ti),h
 SPACE
 v,·,a,α,‥,𝓂,$,·sh,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 14:31 in vtrad vtbhs
 w,_,y,·,a,⅃,q,oa,m.
@@ -10765,7 +10765,7 @@ SPACE
 h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
 l,:,α,_,v,:,$,·sh,a,l,𝓂,w,o,m.,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 15:1 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,(p)
@@ -10932,7 +10932,7 @@ SPACE
 α,_,n,:,$,·sh,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 15:7 in vtrad vtbhs
 w,_,y,:,h,i,Ƶ,y
@@ -11013,7 +11013,7 @@ SPACE
 w,_,y,·,‥,(me),l,∵,k.,:
 SPACE
 x,∵,v,:,r,𝓂,w,o,n,a,h,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 15:10 in vtrad vtbhs
 w,_,y,·,i,$,·sh,:,l,_,<,x
@@ -11251,7 +11251,7 @@ SPACE
 ʕ,_,l,-,f,·,:,n,‥,(me),y
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 15:19 in vtrad vtbhs
 w,_,y,·,o,<,α,m,∵,r
@@ -11462,7 +11462,7 @@ SPACE
 l,_,ʕ,:_,v,(me),w,o,r
 SPACE
 m,i,n.,-,h,a,ʕ,i,𝓂,y,r,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 15:25 in vtrad vtbhs
 w,_,y,·,o,<,α,m,∵,r
@@ -11517,7 +11517,7 @@ SPACE
 θ,(me),w,o,v
 SPACE
 v,·,:,ʕ,‥,y,n,a,𝓂,y,w,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 15:27 in vtrad vtbhs
 w,_,y,·,o,<,α,m,∵,r
@@ -11836,7 +11836,7 @@ SPACE
 y,a,v,(ti),w,o,α
 SPACE
 y,:,r,𝓂,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 16:1 in vtrad vtbhs
 w,:,d,a,w,i,◆,d
@@ -12143,7 +12143,7 @@ SPACE
 w,:,α,a,σ,i,(me),y,r,a,h
 SPACE
 α,∵,τ,-,r,o,α,$,·sh,𝓂,w,o,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 16:10 in vtrad vtbhs
 w,_,y,·,o,⅃,α,m,∵,r
@@ -12199,7 +12199,7 @@ SPACE
 ʕ,a,$,·si,i,(me),y,τ,a,h
 SPACE
 k,·,‥,𝓂,n.,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 16:11 in vtrad vtbhs
 w,_,y,·,o,(qa),α,m,∵,r
@@ -12281,7 +12281,7 @@ SPACE
 w,_,α,:_,n,a,$,·sh,a,(ti),y,w
 SPACE
 v,·,_,d,·,a,⅄,r,∵,k.,:
-START mam-spi-samekh 
+START mam-spi-samekh3 
 w,:,$,·sh,i,m,:,ʕ,i,μ,y
 SPACE
 h,o,l,‥,k.,:,(tq)
@@ -12305,7 +12305,7 @@ SPACE
 w,:,ʕ,i,f,·,_,(ti),r
 SPACE
 v,·,∵,ʕ,a,f,a,𝓂,r,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 16:14 in vtrad vtbhs
 w,_,y,·,a,v,o,(me),α
@@ -12456,7 +12456,7 @@ SPACE
 α,∵,h,:,y,∵,(me),h
 SPACE
 l,:,f,a,n,∵,𝓂,y,k.,a,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 16:20 in vtrad vtbhs
 w,_,y,·,o,(me),α,m,∵,r
@@ -12566,7 +12566,7 @@ SPACE
 g,·,_,(me),m.
 SPACE
 l,:,α,_,v,:,$,·sh,a,l,o,𝓂,m.,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 17:1 in vtrad vtbhs
 w,_,y,·,o,(me),α,m,∵,r
@@ -12661,7 +12661,7 @@ SPACE
 k,·,oa,l,-,z,i,q,:,n,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 17:5 in vtrad vtbhs
 w,_,y,·,o,(p),α,m,∵,r,(p)
@@ -12716,7 +12716,7 @@ SPACE
 α,_,τ,·,a,(me),h
 SPACE
 d,_,v,·,‥,𝓂,r,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 17:7 in vtrad vtbhs
 w,_,y,·,o,(me),α,m,∵,r
@@ -12958,7 +12958,7 @@ SPACE
 $,·sh,a,(ti),m.
 SPACE
 g,·,_,m.,-,ц,:,r,𝓂,w,o,r,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 17:14 in vtrad vtbhs
 w,_,y,·,o,<,α,m,∵,r
@@ -12980,7 +12980,7 @@ SPACE
 m,‥,ʕ,:_,ц,_,(ti),τ
 SPACE
 α,:_,x,i,y,τ,o,⅄,f,∵,l
-START mam-spi-samekh 
+START mam-spi-samekh2 
 w,_,y,h,o,w,a,⅃,h
 SPACE
 ц,i,w,·,a,◆,h
@@ -13002,7 +13002,7 @@ SPACE
 α,∵,l,-,α,_,v,:,$,·sh,a,l,(ti),w,o,m.
 SPACE
 α,∵,τ,-,h,a,r,a,ʕ,a,𝓂,h,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 17:15 in vtrad vtbhs
 w,_,y,·,o,⅃,α,m,∵,r
@@ -13216,7 +13216,7 @@ SPACE
 w,_,y,·,a,$,·sh,u,(ti),v,w,·
 SPACE
 y,:,r,𝓂,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 17:21 in vtrad vtbhs
 w,_,y,:,h,i,⅃,y
@@ -13327,7 +13327,7 @@ SPACE
 v,·,:,q,∵,(me),v,∵,r
 SPACE
 α,a,v,i,𝓂,y,w,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 17:24 in vtrad vtbhs
 w,:,d,a,w,i,(ti),d
@@ -13397,7 +13397,7 @@ SPACE
 α,∵,(ti),r,∵,ц.
 SPACE
 h,_,g,·,i,l,:,ʕ,a,𝓂,d,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 17:27 in vtrad vtbhs
 w,_,y,:,h,i,Ƶ,y
@@ -13487,7 +13487,7 @@ SPACE
 w,:,ц,a,m,‥,(ti),α
 SPACE
 v,·,_,m,·,i,d,:,v,·,a,𝓂,r,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 18:1 in vtrad vtbhs
 w,_,y,·,i,f,:,q,o,⅃,d
@@ -13542,7 +13542,7 @@ SPACE
 α,i,τ,·,_,⅃,y
 SPACE
 h,_,g,·,i,τ,·,i,⅄,y
-START mam-spi-samekh 
+START mam-spi-samekh3 
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 h,_,m,·,∵,(p),l,∵,k.,:,(p)
@@ -13614,7 +13614,7 @@ LEFT SQUARE BRACKET,l,_,ʕ,:,z,𝓂,w,o,r,RIGHT SQUARE BRACKET
 STOP mam-kq-q 
 STOP mam-kq 
 .
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 18:4 in vtrad vtbhs
 w,_,y,·,o,<,α,m,∵,r
@@ -14112,7 +14112,7 @@ SPACE
 h,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 18:19 in vtrad vtbhs
 w,_,α,:_,x,i,y,m,_,<,ʕ,_,ц.
@@ -14408,7 +14408,7 @@ SPACE
 l,:,α,_,f,·,a,(ti),y,w
 SPACE
 α,a,⅄,r,:,ц,a,h
-START mam-spi-samekh 
+START mam-spi-samekh3 
 w,_,y,·,o,◆,α,m,∵,r
 SPACE
 v,·,a,r,w,·,k.,:,(p)
@@ -14430,7 +14430,7 @@ SPACE
 v,·,_,α,d,o,n,i,(me),y
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 18:29 in vtrad vtbhs
 w,_,y,·,o,⅃,α,m,∵,r
@@ -14512,7 +14512,7 @@ SPACE
 k,·,oa,l,-,h,_,q,·,a,m,i,(me),y,m.
 SPACE
 ʕ,a,l,∵,𝓂,y,k.,a,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 18:32 in vtrad vtbhs
 w,_,y,·,o,<,α,m,∵,r
@@ -14548,7 +14548,7 @@ SPACE
 ʕ,a,l,∵,(ti),y,k.,a
 SPACE
 l,:,r,a,ʕ,a,𝓂,h,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 19:1 in vtrad vtbhs
 w,_,y,·,i,r,:,g,·,_,⅃,z
@@ -14687,7 +14687,7 @@ SPACE
 v,·,:,n,i,(me),y
 SPACE
 v,:,n,i,𝓂,y,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 19:6 in vtrad vtbhs
 w,_,y,·,a,v,o,(me),α
@@ -14803,7 +14803,7 @@ SPACE
 ʕ,_,l,-,l,‥,⅃,v
 SPACE
 ʕ,:_,v,a,d,∵,⅄,y,k.,a
-START mam-spi-samekh 
+START mam-spi-samekh2 
 k,·,i,y,(tq)
 SPACE
 v,_,y,h,o,w,a,(qa),h
@@ -14837,7 +14837,7 @@ SPACE
 m,i,n,·,:,ʕ,u,r,∵,(ti),y,k.,a
 SPACE
 ʕ,_,d,-,ʕ,a,𝓂,τ,·,a,h,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 19:9 in vtrad vtbhs
 w,_,y,·,a,(me),q,oa,m.
@@ -14877,7 +14877,7 @@ SPACE
 α,i,(me),y,$,·sh
 SPACE
 l,:,α,o,h,a,l,a,𝓂,y,w,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 19:10 in vtrad vtbhs
 w,_,y,:,h,i,<,y
@@ -14943,7 +14943,7 @@ SPACE
 l,:,h,a,$,·sh,i,(me),y,v
 SPACE
 α,∵,τ,-,h,_,m,·,∵,𝓂,l,∵,k.,:,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 19:12 in vtrad vtbhs
 w,:,h,_,m,·,∵,⅃,l,∵,k.,:
@@ -15256,7 +15256,7 @@ SPACE
 α,:_,d,o,n,i,(me),y
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 19:22 in vtrad vtbhs
 w,_,y,·,_,(qa),ʕ,_,n.
@@ -15284,7 +15284,7 @@ SPACE
 α,∵,τ,-,m,:,$,·sh,i,(me),y,x,_
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 19:23 in vtrad vtbhs
 w,_,y,·,o,⅃,α,m,∵,r
@@ -15343,7 +15343,7 @@ SPACE
 l,(ti),w,o
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 19:25 in vtrad vtbhs
 w,·,m,:,f,i,v,o,(p),$,·sh,∵,τ,(p)
@@ -15501,7 +15501,7 @@ SPACE
 ʕ,(ti),w,o,d
 SPACE
 α,∵,l,-,h,_,m,·,∵,𝓂,l,∵,k.,:,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 19:30 in vtrad vtbhs
 w,_,y,·,o,<,α,m,∵,r
@@ -15552,7 +15552,7 @@ SPACE
 v,·,:,$,·sh,a,l,(ti),w,o,m.
 SPACE
 α,∵,l,-,v,·,‥,y,τ,𝓂,w,o,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 19:32 in vtrad vtbhs
 w,·,v,_,r,:,z,i,l,·,_,y,(p)
@@ -15762,7 +15762,7 @@ SPACE
 α,:_,$,·sh,∵,r,-,θ,(ti),w,o,v
 SPACE
 v,·,:,ʕ,‥,y,n,∵,𝓂,y,k.,a,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 19:39 in vtrad vtbhs
 w,_,y,·,o,⅃,α,m,∵,r
@@ -15813,7 +15813,7 @@ SPACE
 w,_,y,·,a,(ti),$,·sh,oa,v
 SPACE
 l,i,m,:,q,o,m,𝓂,w,o,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 19:41 in vtrad vtbhs
 w,_,y,·,_,ʕ,:_,v,o,<,r
@@ -15890,7 +15890,7 @@ SPACE
 d,a,w,i,(ti),d
 SPACE
 ʕ,i,m,·,𝓂,w,o,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 19:43 in vtrad vtbhs
 w,_,y,·,_,(tq),ʕ,_,n.,(tq)
@@ -15932,7 +15932,7 @@ SPACE
 n,i,$,·si,·,a,(ti),α
 SPACE
 l,a,𝓂,n,w,·,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 19:44 in vtrad vtbhs
 w,_,y,·,_,⅃,ʕ,_,n.
@@ -15984,7 +15984,7 @@ SPACE
 α,i,(me),y,$,·sh
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 20:1 in vtrad vtbhs
 w,:,$,·sh,a,(qa),m.
@@ -16106,7 +16106,7 @@ SPACE
 α,_,l,:,m,:,n,(me),w,·,τ
 SPACE
 x,_,y,·,𝓂,w,·,τ,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 20:4 in vtrad vtbhs
 w,_,y,·,o,<,α,m,∵,r
@@ -16153,7 +16153,7 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 y,:,ʕ,a,d,𝓂,w,o,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 20:6 in vtrad vtbhs
 w,_,y,·,o,<,α,m,∵,r
@@ -16270,7 +16270,7 @@ SPACE
 y,a,ц,a,(ti),α
 SPACE
 w,_,τ,·,i,f,·,o,𝓂,l,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 20:9 in vtrad vtbhs
 w,_,y,·,o,<,α,m,∵,r
@@ -16450,7 +16450,7 @@ SPACE
 m,_,ʕ,:_,k,a,(ti),h
 SPACE
 w,:,k,oa,l,-,h,_,v,·,‥,r,i,⅄,y,m.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 START mam-kq 
 START mam-kq-k 
 LEFT PARENTHESIS,w,y,q,l,h,w,RIGHT PARENTHESIS
@@ -16609,7 +16609,7 @@ SPACE
 n,_,x,:_,l,_,(me),τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 20:20 in vtrad vtbhs
 w,_,y,·,_,(me),ʕ,_,n.
@@ -16723,7 +16723,7 @@ SPACE
 y,:,r,w,·,$,·sh,a,l,_,(ti),CGJ,i,m.
 SPACE
 α,∵,l,-,h,_,m,·,∵,𝓂,l,∵,k.,:,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 20:23 in vtrad vtbhs
 w,:,y,w,o,α,a,Ƶ,v
@@ -16793,7 +16793,7 @@ SPACE
 k,o,h,‥,(ti),n.
 SPACE
 l,:,d,a,w,i,𝓂,d,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 21:1 in vtrad vtbhs
 w,_,y,:,h,i,⅃,y
@@ -16821,7 +16821,7 @@ SPACE
 α,∵,τ,-,f,·,:,n,‥,⅃,y
 SPACE
 y,:,h,o,w,a,⅄,h
-START mam-spi-samekh 
+START mam-spi-samekh2 
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 y,:,h,o,w,a,◆,h
@@ -17004,7 +17004,7 @@ SPACE
 v,·,:,x,i,⅃,y,r
 SPACE
 y,:,h,o,w,a,⅄,h
-START mam-spi-pe 
+START mam-spi-pe3 
 w,_,y,·,o,(me),α,m,∵,r
 SPACE
 h,_,m,·,∵,(ti),l,∵,k.,:
@@ -17332,7 +17332,7 @@ SPACE
 l,a,α,a,(ti),r,∵,ц.
 SPACE
 α,_,x,:_,r,‥,y,-,k,‥,𝓂,n.,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 21:15 in vtrad vtbhs
 w,_,τ,·,:,h,i,y,-,ʕ,(da),w,o,d
@@ -17441,7 +17441,7 @@ SPACE
 α,∵,τ,-,n,‥,(me),r
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 21:18 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,(p)
@@ -17471,7 +17471,7 @@ SPACE
 v,·,i,y,l,i,d,‥,(me),y
 SPACE
 h,a,𝓂,r,a,f,a,𝓂,h,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 21:19 in vtrad vtbhs
 w,_,τ,·,:,h,i,y,-,ʕ,(da),w,o,d
@@ -17511,7 +17511,7 @@ SPACE
 k,·,i,m,:,n,(ti),w,o,r
 SPACE
 α,o,r,:,g,i,𝓂,y,m.,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 21:20 in vtrad vtbhs
 w,_,τ,·,:,h,i,y,-,ʕ,(me),w,o,d
@@ -17601,7 +17601,7 @@ SPACE
 w,·,v,:,y,_,(me),d
 SPACE
 ʕ,:_,v,a,d,a,𝓂,y,w,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 22:1 in vtrad vtbhs
 w,_,y,:,d,_,v,·,‥,<,r
@@ -18396,7 +18396,7 @@ SPACE
 w,·,l,:,z,_,r,:,ʕ,(ti),w,o
 SPACE
 ʕ,_,d,-,ʕ,w,o,l,a,𝓂,m.,.
-START mam-spi-pe 
+START mam-spi-pe3 
 
 23:1 in vtrad vtbhs
 w,:,α,‥,⟓,l,·,∵,h
@@ -18560,7 +18560,7 @@ SPACE
 y,i,$,·si,·,a,𝓂,r,:,f,(ti),w,·
 SPACE
 v,·,_,$,·sh,·,a,𝓂,v,∵,τ,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 23:8 in vtrad vtbhs
 α,‥,⟓,l,·,∵,h
@@ -18616,7 +18616,7 @@ LEFT SQUARE BRACKET,α,∵,x,a,𝓂,τ,RIGHT SQUARE BRACKET
 STOP mam-kq-q 
 STOP mam-kq 
 .
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 23:9 in vtrad vtbhs
 START mam-kq-trivial 
@@ -18707,7 +18707,7 @@ SPACE
 α,_,x,:_,r,a,(ti),y,w
 SPACE
 α,_,k.,:,-,l,:,f,_,$,·sh,·,‥,𝓂,θ,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 23:11 in vtrad vtbhs
 w,:,α,_,x,:_,r,a,⟓,y,w
@@ -18760,7 +18760,7 @@ SPACE
 τ,·,:,$,·sh,w,·,ʕ,a,(me),h
 SPACE
 g,:,d,w,o,l,a,𝓂,h,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 23:13 in vtrad vtbhs
 w,_,y,·,‥,𝓂,r,:,d,(qa),w,·
@@ -18836,7 +18836,7 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 v,·,_,$,·sh,·,a,𝓂,ʕ,_,r,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 23:16 in vtrad vtbhs
 w,_,y,·,i,v,:,q,:,ʕ,w,·,(tq)
@@ -18911,7 +18911,7 @@ SPACE
 $,·sh,:,l,o,(ti),$,·sh,∵,τ
 SPACE
 h,_,g,·,i,v,·,o,r,i,𝓂,y,m.,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 23:18 in vtrad vtbhs
 w,_,𝓂,α,:_,v,i,y,$,·sh,_,(G),y
@@ -18969,7 +18969,7 @@ SPACE
 w,:,ʕ,_,d,-,h,_,$,·sh,·,:,l,o,$,·sh,a,(ti),h
 SPACE
 l,o,α,-,v,a,𝓂,α,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 23:20 in vtrad vtbhs
 w,·,v,:,n,a,y,a,(qa),h,w,·
@@ -19100,7 +19100,7 @@ SPACE
 d,a,w,i,(ti),d
 SPACE
 α,∵,l,-,m,i,$,·sh,:,m,_,ʕ,:,τ,·,𝓂,w,o,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 23:24 in vtrad vtbhs
 ʕ,:_,$,·si,a,h,α,‥,(me),l
@@ -19116,49 +19116,49 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 l,a,𝓂,x,∵,m.,.
-START mam-spi-samekh 
+START mam-spi-samekh3 
 
 23:25 in vtrad vtbhs
 $,·sh,_,m,·,a,h,(p)
 SPACE
 h,_,x,:_,r,o,d,i,ƶ,y
-START mam-spi-samekh 
+START mam-spi-samekh3 
 α,:∵,l,i,y,q,a,(ti),α
 SPACE
 h,_,x,:_,r,o,d,i,𝓂,y,.
-START mam-spi-samekh 
+START mam-spi-samekh3 
 
 23:26 in vtrad vtbhs
 x,∵,(ye),l,∵,ц.
 SPACE
 h,_,f,·,_,l,:,θ,i,ƶ,y
-START mam-spi-samekh 
+START mam-spi-samekh3 
 ʕ,i,y,r,a,(me),α
 SPACE
 v,∵,n.,-,ʕ,i,q,·,‥,(ti),$,·sh
-START mam-spi-samekh 
+START mam-spi-samekh3 
 h,_,τ,·,:,q,w,o,ʕ,i,𝓂,y,.
-START mam-spi-samekh 
+START mam-spi-samekh3 
 
 23:27 in vtrad vtbhs
 α,:_,v,i,y,ʕ,∵,(p),z,∵,r,(p)
 SPACE
 h,a,ʕ,_,n,·,:,τ,o,τ,i,ƶ,y
-START mam-spi-samekh 
+START mam-spi-samekh3 
 m,:,v,u,n,·,_,(ti),y
 SPACE
 h,_,x,u,$,·sh,a,τ,i,𝓂,y,.
-START mam-spi-samekh 
+START mam-spi-samekh3 
 
 23:28 in vtrad vtbhs
 ц,_,l,:,m,w,o,n.,(p)
 SPACE
 h,a,α,:_,x,o,x,i,ƶ,y
-START mam-spi-samekh 
+START mam-spi-samekh3 
 m,_,h,:,r,_,(ti),y
 SPACE
 h,_,n,·,:,θ,o,f,a,τ,i,𝓂,y,.
-START mam-spi-samekh 
+START mam-spi-samekh3 
 
 23:29 in vtrad vtbhs
 x,‥,(me),l,∵,v
@@ -19166,7 +19166,7 @@ SPACE
 v,·,∵,𝓂,n.,-,v,·,_,ʕ,:_,n,a,(ti),h
 SPACE
 h,_,n,·,:,θ,o,f,a,τ,i,⅄,y
-START mam-spi-samekh 
+START mam-spi-samekh3 
 α,i,τ,·,_,y,(p)
 SPACE
 v,·,∵,n.,-,r,i,y,v,_,ƶ,y
@@ -19176,53 +19176,53 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 v,i,n,:,y,a,m,i,𝓂,n.,.
-START mam-spi-samekh 
+START mam-spi-samekh3 
 
 23:30 in vtrad vtbhs
 v,·,:,n,a,y,a,(p),h,w,·,(p)
 SPACE
 f,·,i,r,:,ʕ,a,⅃,τ,o,n,i,ƶ,y
-START mam-spi-samekh 
+START mam-spi-samekh3 
 h,i,d,·,_,(ti),y
 SPACE
 m,i,n,·,_,(me),x,:_,l,‥,y
 SPACE
 g,a,𝓂,ʕ,_,$,·sh,.
-START mam-spi-samekh 
+START mam-spi-samekh3 
 
 23:31 in vtrad vtbhs
 α,:_,v,i,𝓂,y,-,ʕ,_,l,:,v,w,o,n.,(p)
 SPACE
 h,a,ʕ,_,r,:,v,a,τ,i,ƶ,y
-START mam-spi-samekh 
+START mam-spi-samekh3 
 ʕ,_,z,:,m,a,(ti),w,∵,τ
 SPACE
 h,_,v,·,_,r,:,x,u,m,i,𝓂,y,.
-START mam-spi-samekh 
+START mam-spi-samekh3 
 
 23:32 in vtrad vtbhs
 α,∵,l,:,y,_,x,:,v,·,a,α,(p)
 SPACE
 h,_,$,·sh,·,_,⅃,ʕ,_,l,:,v,o,n,i,ƶ,y
-START mam-spi-samekh 
+START mam-spi-samekh3 
 v,·,:,n,‥,(me),y
 SPACE
 y,a,$,·sh,‥,(ti),n.
 SPACE
 y,:,h,w,o,n,a,τ,a,𝓂,n.,.
-START mam-spi-samekh 
+START mam-spi-samekh3 
 
 23:33 in vtrad vtbhs
 $,·sh,_,m,·,a,h,(p)
 SPACE
 h,_,h,:_,r,a,r,i,ƶ,y
-START mam-spi-samekh 
+START mam-spi-samekh3 
 α,:_,x,i,y,α,a,(me),m.
 SPACE
 v,·,∵,n.,-,$,·sh,a,r,a,(ti),r
 SPACE
 h,a,α,r,a,r,i,𝓂,y,.
-START mam-spi-samekh 
+START mam-spi-samekh3 
 
 23:34 in vtrad vtbhs
 α,:∵,l,i,y,f,∵,(me),l,∵,θ
@@ -19230,13 +19230,13 @@ SPACE
 v,·,∵,n.,-,α,:_,x,_,σ,:,v,·,_,(ti),y
 SPACE
 v,·,∵,n.,-,h,_,m,·,_,ʕ,:_,k,a,τ,i,⅄,y
-START mam-spi-samekh 
+START mam-spi-samekh3 
 α,:∵,l,i,y,ʕ,a,(me),m.
 SPACE
 v,·,∵,n.,-,α,:_,x,i,y,τ,o,(ti),f,∵,l
 SPACE
 h,_,g,·,i,l,o,n,i,𝓂,y,.
-START mam-spi-samekh 
+START mam-spi-samekh3 
 
 23:35 in vtrad vtbhs
 START mam-kq 
@@ -19250,11 +19250,11 @@ STOP mam-kq-q
 STOP mam-kq 
 SPACE
 h,_,𝓂,k,·,_,r,:,m,:,l,i,ƶ,y
-START mam-spi-samekh 
+START mam-spi-samekh3 
 f,·,_,ʕ,:_,r,_,(ti),y
 SPACE
 h,a,α,_,r,:,v,·,i,𝓂,y,.
-START mam-spi-samekh 
+START mam-spi-samekh3 
 
 23:36 in vtrad vtbhs
 y,i,g,:,α,a,<,l
@@ -19262,17 +19262,17 @@ SPACE
 v,·,∵,n.,-,n,a,τ,a,n.,(p)
 SPACE
 m,i,ц,·,o,v,a,ƶ,h
-START mam-spi-samekh 
+START mam-spi-samekh3 
 v,·,a,n,i,(ti),y
 SPACE
 h,_,g,·,a,d,i,𝓂,y,.
-START mam-spi-samekh 
+START mam-spi-samekh3 
 
 23:37 in vtrad vtbhs
 ц,∵,(ti),l,∵,q
 SPACE
 h,a,ʕ,_,m,·,o,n,i,⅄,y
-START mam-spi-samekh 
+START mam-spi-samekh3 
 n,_,x,:,r,_,y,(p)
 SPACE
 h,_,v,·,:,α,‥,⅃,r,o,τ,i,ƶ,y
@@ -19292,17 +19292,17 @@ SPACE
 y,w,o,α,a,(me),v
 SPACE
 v,·,∵,n.,-,ц,:,r,u,y,a,𝓂,h,.
-START mam-spi-samekh 
+START mam-spi-samekh3 
 
 23:38 in vtrad vtbhs
 ʕ,i,y,r,a,α,(p)
 SPACE
 h,_,y,·,i,τ,:,r,i,ƶ,y
-START mam-spi-samekh 
+START mam-spi-samekh3 
 g,·,a,r,‥,(ti),v
 SPACE
 h,_,y,·,i,τ,:,r,i,𝓂,y,.
-START mam-spi-samekh 
+START mam-spi-samekh3 
 
 23:39 in vtrad vtbhs
 α,w,·,r,i,y,·,a,h,(p)
@@ -19314,7 +19314,7 @@ SPACE
 $,·sh,:,l,o,$,·sh,i,(me),y,m.
 SPACE
 w,:,$,·sh,i,v,:,ʕ,a,𝓂,h,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 24:1 in vtrad vtbhs
 w,_,y,·,o,(p),σ,∵,f.,(p)
@@ -19376,7 +19376,7 @@ SPACE
 m,i,σ,:,f,·,_,(me),r
 SPACE
 h,a,ʕ,a,𝓂,m.,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 24:3 in vtrad vtbhs
 w,_,y,·,o,(qa),α,m,∵,r
@@ -19581,7 +19581,7 @@ SPACE
 σ,a,f,_,⅃,r
 SPACE
 α,∵,τ,-,h,a,ʕ,a,⅄,m.
-START mam-spi-pe 
+START mam-spi-pe3 
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 d,·,a,w,i,(ge),d
@@ -19618,7 +19618,7 @@ SPACE
 d,·,a,w,i,(ti),d
 SPACE
 v,·,_,v,·,o,⅄,q,∵,r
-START mam-spi-pe 
+START mam-spi-pe2 
 w,·,d,:,v,_,r,-,y,:,h,o,w,a,◆,h
 SPACE
 h,a,y,a,h,(p)
@@ -19714,7 +19714,7 @@ SPACE
 $,·sh,o,l,:,x,i,(ti),y
 SPACE
 d,·,a,v,a,𝓂,r,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 24:14 in vtrad vtbhs
 w,_,y,·,o,(da),α,m,∵,r
@@ -19822,7 +19822,7 @@ STOP mam-kq-q
 STOP mam-kq 
 SPACE
 h,_,y,:,v,u,σ,i,𝓂,y,.
-START mam-spi-samekh 
+START mam-spi-samekh2 
 
 24:17 in vtrad vtbhs
 w,_,y,·,o,(tq),α,m,∵,r,(tq)
@@ -19872,7 +19872,7 @@ SPACE
 w,·,v,:,v,‥,(me),y,τ
 SPACE
 α,a,v,i,𝓂,y,.
-START mam-spi-pe 
+START mam-spi-pe2 
 
 24:18 in vtrad vtbhs
 w,_,y,·,a,v,o,α,-,g,a,(me),d
@@ -20031,7 +20031,7 @@ SPACE
 h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
 l,_,m,·,∵,⅄,l,∵,k.,:
-START mam-spi-samekh 
+START mam-spi-samekh2 
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 α,:_,r,_,(p),w,:,n,a,h,(p)
