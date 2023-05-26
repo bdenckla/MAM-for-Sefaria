@@ -46,9 +46,9 @@
     </verse>
     <verse osisID="Nah.1.11">
       <text text="מִמֵּ֣ךְ יָצָ֔א חֹשֵׁ֥ב עַל־יְהֹוָ֖ה רָעָ֑ה יֹעֵ֖ץ בְּלִיָּֽעַל׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Nah.1.12">
       <spi-samekh2-after />
       <text text="כֹּ֣ה" />
@@ -60,10 +60,10 @@
     </verse>
     <verse osisID="Nah.1.14">
       <text text="וְצִוָּ֤ה עָלֶ֙יךָ֙ יְהֹוָ֔ה לֹא־יִזָּרַ֥ע מִשִּׁמְךָ֖ ע֑וֹד מִבֵּ֨ית אֱלֹהֶ֜יךָ אַכְרִ֨ית פֶּ֧סֶל וּמַסֵּכָ֛ה אָשִׂ֥ים קִבְרֶ֖ךָ כִּ֥י קַלּֽוֹתָ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Nah.2">
     <verse osisID="Nah.2.1">
       <spi-pe2-after />
@@ -127,10 +127,10 @@
     </verse>
     <verse osisID="Nah.2.14">
       <text text="הִנְנִ֣י אֵלַ֗יִךְ נְאֻם֙ יְהֹוָ֣ה צְבָא֔וֹת וְהִבְעַרְתִּ֤י בֶעָשָׁן֙ רִכְבָּ֔הּ וּכְפִירַ֖יִךְ תֹּ֣אכַל חָ֑רֶב וְהִכְרַתִּ֤י מֵאֶ֙רֶץ֙ טַרְפֵּ֔ךְ וְלֹא־יִשָּׁמַ֥ע ע֖וֹד ק֥וֹל מַלְאָכֵֽכֵה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Nah.3">
     <verse osisID="Nah.3.1">
       <spi-pe2-after />

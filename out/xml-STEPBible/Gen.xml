@@ -19,9 +19,9 @@
       <text text="וַיִּקְרָ֨א אֱלֹהִ֤ים" />
       <lp-paseq />
       <text text="לָאוֹר֙ י֔וֹם וְלַחֹ֖שֶׁךְ קָ֣רָא לָ֑יְלָה וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם אֶחָֽד׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.1.6">
       <spi-pe2-after />
       <text text="וַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּת֣וֹךְ הַמָּ֑יִם וִיהִ֣י מַבְדִּ֔יל בֵּ֥ין מַ֖יִם לָמָֽיִם׃" />
@@ -31,9 +31,9 @@
     </verse>
     <verse osisID="Gen.1.8">
       <text text="וַיִּקְרָ֧א אֱלֹהִ֛ים לָֽרָקִ֖יעַ שָׁמָ֑יִם וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם שֵׁנִֽי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.1.9">
       <spi-pe2-after />
       <text text="וַיֹּ֣אמֶר אֱלֹהִ֗ים יִקָּו֨וּ הַמַּ֜יִם מִתַּ֤חַת הַשָּׁמַ֙יִם֙ אֶל־מָק֣וֹם אֶחָ֔ד וְתֵרָאֶ֖ה הַיַּבָּשָׁ֑ה וַֽיְהִי־כֵֽן׃" />
@@ -51,9 +51,9 @@
     </verse>
     <verse osisID="Gen.1.13">
       <text text="וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם שְׁלִישִֽׁי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.1.14">
       <spi-pe2-after />
       <text text="וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים׃" />
@@ -72,9 +72,9 @@
     </verse>
     <verse osisID="Gen.1.19">
       <text text="וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם רְבִיעִֽי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.1.20">
       <spi-pe2-after />
       <text text="וַיֹּ֣אמֶר אֱלֹהִ֔ים יִשְׁרְצ֣וּ הַמַּ֔יִם שֶׁ֖רֶץ נֶ֣פֶשׁ חַיָּ֑ה וְעוֹף֙ יְעוֹפֵ֣ף עַל־הָאָ֔רֶץ עַל־פְּנֵ֖י רְקִ֥יעַ הַשָּׁמָֽיִם׃" />
@@ -89,9 +89,9 @@
     </verse>
     <verse osisID="Gen.1.23">
       <text text="וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם חֲמִישִֽׁי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.1.24">
       <spi-pe2-after />
       <text text="וַיֹּ֣אמֶר אֱלֹהִ֗ים תּוֹצֵ֨א הָאָ֜רֶץ נֶ֤פֶשׁ חַיָּה֙ לְמִינָ֔הּ בְּהֵמָ֥ה וָרֶ֛מֶשׂ וְחַֽיְתוֹ־אֶ֖רֶץ לְמִינָ֑הּ וַֽיְהִי־כֵֽן׃" />
@@ -122,10 +122,10 @@
     </verse>
     <verse osisID="Gen.1.31">
       <text text="וַיַּ֤רְא אֱלֹהִים֙ אֶת־כׇּל־אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה־ט֖וֹב מְאֹ֑ד וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם הַשִּׁשִּֽׁי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Gen.2">
     <verse osisID="Gen.2.1">
       <spi-pe2-after />
@@ -136,9 +136,9 @@
     </verse>
     <verse osisID="Gen.2.3">
       <text text="וַיְבָ֤רֶךְ אֱלֹהִים֙ אֶת־י֣וֹם הַשְּׁבִיעִ֔י וַיְקַדֵּ֖שׁ אֹת֑וֹ כִּ֣י ב֤וֹ שָׁבַת֙ מִכׇּל־מְלַאכְתּ֔וֹ אֲשֶׁר־בָּרָ֥א אֱלֹהִ֖ים לַעֲשֽׂוֹת׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.2.4">
       <spi-pe2-after />
       <text text="אֵ֣לֶּה תוֹלְד֧וֹת הַשָּׁמַ֛יִם וְהָאָ֖רֶץ בְּ" />
@@ -266,15 +266,15 @@
       <text text="וְאֵיבָ֣ה" />
       <lp-legarmeih />
       <text text=" אָשִׁ֗ית בֵּֽינְךָ֙ וּבֵ֣ין הָֽאִשָּׁ֔ה וּבֵ֥ין זַרְעֲךָ֖ וּבֵ֣ין זַרְעָ֑הּ ה֚וּא יְשׁוּפְךָ֣ רֹ֔אשׁ וְאַתָּ֖ה תְּשׁוּפֶ֥נּוּ עָקֵֽב׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.3.16">
       <spi-samekh2-after />
       <text text="אֶֽל־הָאִשָּׁ֣ה אָמַ֗ר הַרְבָּ֤ה אַרְבֶּה֙ עִצְּבוֹנֵ֣ךְ וְהֵֽרֹנֵ֔ךְ בְּעֶ֖צֶב תֵּֽלְדִ֣י בָנִ֑ים וְאֶל־אִישֵׁךְ֙ תְּשׁ֣וּקָתֵ֔ךְ וְה֖וּא יִמְשׇׁל־בָּֽךְ׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.3.17">
       <spi-samekh2-after />
       <text text="וּלְאָדָ֣ם אָמַ֗ר כִּֽי־שָׁמַ֘עְתָּ֮ לְק֣וֹל אִשְׁתֶּ֒ךָ֒ וַתֹּ֙אכַל֙ מִן־הָעֵ֔ץ אֲשֶׁ֤ר צִוִּיתִ֙יךָ֙ לֵאמֹ֔ר לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ אֲרוּרָ֤ה הָֽאֲדָמָה֙ בַּֽעֲבוּרֶ֔ךָ בְּעִצָּבוֹן֙ תֹּֽאכְלֶ֔נָּה כֹּ֖ל יְמֵ֥י חַיֶּֽיךָ׃" />
@@ -290,9 +290,9 @@
     </verse>
     <verse osisID="Gen.3.21">
       <text text="וַיַּ֩עַשׂ֩ יְהֹוָ֨ה אֱלֹהִ֜ים לְאָדָ֧ם וּלְאִשְׁתּ֛וֹ כׇּתְנ֥וֹת ע֖וֹר וַיַּלְבִּשֵֽׁם׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.3.22">
       <spi-pe2-after />
       <text text="וַיֹּ֣אמֶר" />
@@ -306,10 +306,10 @@
     </verse>
     <verse osisID="Gen.3.24">
       <text text="וַיְגָ֖רֶשׁ אֶת־הָֽאָדָ֑ם וַיַּשְׁכֵּן֩ מִקֶּ֨דֶם לְגַן־עֵ֜דֶן אֶת־הַכְּרֻבִ֗ים וְאֵ֨ת לַ֤הַט הַחֶ֙רֶב֙ הַמִּתְהַפֶּ֔כֶת לִשְׁמֹ֕ר אֶת־דֶּ֖רֶךְ עֵ֥ץ הַֽחַיִּֽים׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
   </chapter>
-  <spi-samekh2-mid />
+  <spi-samekh2 />
   <chapter osisID="Gen.4">
     <verse osisID="Gen.4.1">
       <spi-samekh2-after />
@@ -392,10 +392,10 @@
     </verse>
     <verse osisID="Gen.4.26">
       <text text="וּלְשֵׁ֤ת גַּם־הוּא֙ יֻלַּד־בֵּ֔ן וַיִּקְרָ֥א אֶת־שְׁמ֖וֹ אֱנ֑וֹשׁ אָ֣ז הוּחַ֔ל לִקְרֹ֖א בְּשֵׁ֥ם יְהֹוָֽה׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
   </chapter>
-  <spi-samekh2-mid />
+  <spi-samekh2 />
   <chapter osisID="Gen.5">
     <verse osisID="Gen.5.1">
       <spi-samekh2-after />
@@ -420,9 +420,9 @@
     </verse>
     <verse osisID="Gen.5.5">
       <text text="וַיִּֽהְי֞וּ כׇּל־יְמֵ֤י אָדָם֙ אֲשֶׁר־חַ֔י תְּשַׁ֤ע מֵאוֹת֙ שָׁנָ֔ה וּשְׁלֹשִׁ֖ים שָׁנָ֑ה וַיָּמֹֽת׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.5.6">
       <spi-samekh2-after />
       <text text="וַֽיְחִי־שֵׁ֕ת חָמֵ֥שׁ שָׁנִ֖ים וּמְאַ֣ת שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־אֱנֽוֹשׁ׃" />
@@ -432,9 +432,9 @@
     </verse>
     <verse osisID="Gen.5.8">
       <text text="וַיִּֽהְיוּ֙ כׇּל־יְמֵי־שֵׁ֔ת שְׁתֵּ֤ים עֶשְׂרֵה֙ שָׁנָ֔ה וּתְשַׁ֥ע מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.5.9">
       <spi-samekh2-after />
       <text text="וַֽיְחִ֥י אֱנ֖וֹשׁ תִּשְׁעִ֣ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־קֵינָֽן׃" />
@@ -444,9 +444,9 @@
     </verse>
     <verse osisID="Gen.5.11">
       <text text="וַיִּֽהְיוּ֙ כׇּל־יְמֵ֣י אֱנ֔וֹשׁ חָמֵ֣שׁ שָׁנִ֔ים וּתְשַׁ֥ע מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.5.12">
       <spi-samekh2-after />
       <text text="וַֽיְחִ֥י קֵינָ֖ן שִׁבְעִ֣ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־מַֽהֲלַלְאֵֽל׃" />
@@ -456,9 +456,9 @@
     </verse>
     <verse osisID="Gen.5.14">
       <text text="וַיִּֽהְיוּ֙ כׇּל־יְמֵ֣י קֵינָ֔ן עֶ֣שֶׂר שָׁנִ֔ים וּתְשַׁ֥ע מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.5.15">
       <spi-samekh2-after />
       <text text="וַֽיְחִ֣י מַֽהֲלַלְאֵ֔ל חָמֵ֥שׁ שָׁנִ֖ים וְשִׁשִּׁ֣ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־יָֽרֶד׃" />
@@ -468,9 +468,9 @@
     </verse>
     <verse osisID="Gen.5.17">
       <text text="וַיִּהְיוּ֙ כׇּל־יְמֵ֣י מַהֲלַלְאֵ֔ל חָמֵ֤שׁ וְתִשְׁעִים֙ שָׁנָ֔ה וּשְׁמֹנֶ֥ה מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.5.18">
       <spi-samekh2-after />
       <text text="וַֽיְחִי־יֶ֕רֶד שְׁתַּ֧יִם וְשִׁשִּׁ֛ים שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־חֲנֽוֹךְ׃" />
@@ -480,9 +480,9 @@
     </verse>
     <verse osisID="Gen.5.20">
       <text text="וַיִּֽהְיוּ֙ כׇּל־יְמֵי־יֶ֔רֶד שְׁתַּ֤יִם וְשִׁשִּׁים֙ שָׁנָ֔ה וּתְשַׁ֥ע מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.5.21">
       <spi-samekh2-after />
       <text text="וַיְחִ֣י חֲנ֔וֹךְ חָמֵ֥שׁ וְשִׁשִּׁ֖ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־מְתוּשָֽׁלַח׃" />
@@ -495,9 +495,9 @@
     </verse>
     <verse osisID="Gen.5.24">
       <text text="וַיִּתְהַלֵּ֥ךְ חֲנ֖וֹךְ אֶת־הָֽאֱלֹהִ֑ים וְאֵינֶ֕נּוּ כִּֽי־לָקַ֥ח אֹת֖וֹ אֱלֹהִֽים׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.5.25">
       <spi-samekh2-after />
       <text text="וַיְחִ֣י מְתוּשֶׁ֔לַח שֶׁ֧בַע וּשְׁמֹנִ֛ים שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־לָֽמֶךְ׃" />
@@ -507,9 +507,9 @@
     </verse>
     <verse osisID="Gen.5.27">
       <text text="וַיִּהְיוּ֙ כׇּל־יְמֵ֣י מְתוּשֶׁ֔לַח תֵּ֤שַׁע וְשִׁשִּׁים֙ שָׁנָ֔ה וּתְשַׁ֥ע מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.5.28">
       <spi-samekh2-after />
       <text text="וַֽיְחִי־לֶ֕מֶךְ שְׁתַּ֧יִם וּשְׁמֹנִ֛ים שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה וַיּ֖וֹלֶד בֵּֽן׃" />
@@ -522,9 +522,9 @@
     </verse>
     <verse osisID="Gen.5.31">
       <text text="וַֽיְהִי֙ כׇּל־יְמֵי־לֶ֔מֶךְ שֶׁ֤בַע וְשִׁבְעִים֙ שָׁנָ֔ה וּשְׁבַ֥ע מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.5.32">
       <spi-samekh2-after />
       <text text="וַֽיְהִי־נֹ֕חַ בֶּן־חֲמֵ֥שׁ מֵא֖וֹת שָׁנָ֑ה וַיּ֣וֹלֶד נֹ֔חַ אֶת־שֵׁ֖ם אֶת־חָ֥ם וְאֶת־יָֽפֶת׃" />
@@ -542,9 +542,9 @@
     </verse>
     <verse osisID="Gen.6.4">
       <text text="הַנְּפִלִ֞ים הָי֣וּ בָאָ֘רֶץ֮ בַּיָּמִ֣ים הָהֵם֒ וְגַ֣ם אַֽחֲרֵי־כֵ֗ן אֲשֶׁ֨ר יָבֹ֜אוּ בְּנֵ֤י הָֽאֱלֹהִים֙ אֶל־בְּנ֣וֹת הָֽאָדָ֔ם וְיָלְד֖וּ לָהֶ֑ם הֵ֧מָּה הַגִּבֹּרִ֛ים אֲשֶׁ֥ר מֵעוֹלָ֖ם אַנְשֵׁ֥י הַשֵּֽׁם׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.6.5">
       <spi-pe2-after />
       <text text="וַיַּ֣רְא יְהֹוָ֔ה כִּ֥י רַבָּ֛ה רָעַ֥ת הָאָדָ֖ם בָּאָ֑רֶץ וְכׇל־יֵ֙צֶר֙ מַחְשְׁבֹ֣ת לִבּ֔וֹ רַ֥ק רַ֖ע כׇּל־הַיּֽוֹם׃" />
@@ -557,9 +557,9 @@
     </verse>
     <verse osisID="Gen.6.8">
       <text text="וְנֹ֕חַ מָ֥צָא חֵ֖ן בְּעֵינֵ֥י יְהֹוָֽה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.6.9">
       <spi-pe2-after />
       <text text="אֵ֚לֶּה תּוֹלְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת־הָֽאֱלֹהִ֖ים הִֽתְהַלֶּךְ־נֹֽחַ׃" />
@@ -572,9 +572,9 @@
     </verse>
     <verse osisID="Gen.6.12">
       <text text="וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָאָ֖רֶץ וְהִנֵּ֣ה נִשְׁחָ֑תָה כִּֽי־הִשְׁחִ֧ית כׇּל־בָּשָׂ֛ר אֶת־דַּרְכּ֖וֹ עַל־הָאָֽרֶץ׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.6.13">
       <spi-samekh2-after />
       <text text="וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כׇּל־בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי־מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת־הָאָֽרֶץ׃" />
@@ -737,9 +737,9 @@
     </verse>
     <verse osisID="Gen.8.14">
       <text text="וּבַחֹ֙דֶשׁ֙ הַשֵּׁנִ֔י בְּשִׁבְעָ֧ה וְעֶשְׂרִ֛ים י֖וֹם לַחֹ֑דֶשׁ יָבְשָׁ֖ה הָאָֽרֶץ׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.8.15">
       <spi-samekh2-after />
       <text text="וַיְדַבֵּ֥ר אֱלֹהִ֖ים אֶל־נֹ֥חַ לֵאמֹֽר׃" />
@@ -799,9 +799,9 @@
     </verse>
     <verse osisID="Gen.9.7">
       <text text="וְאַתֶּ֖ם פְּר֣וּ וּרְב֑וּ שִׁרְצ֥וּ בָאָ֖רֶץ וּרְבוּ־בָֽהּ׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.9.8">
       <spi-samekh2-after />
       <text text="וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל־נֹ֔חַ וְאֶל־בָּנָ֥יו אִתּ֖וֹ לֵאמֹֽר׃" />
@@ -832,9 +832,9 @@
     </verse>
     <verse osisID="Gen.9.17">
       <text text="וַיֹּ֥אמֶר אֱלֹהִ֖ים אֶל־נֹ֑חַ זֹ֤את אֽוֹת־הַבְּרִית֙ אֲשֶׁ֣ר הֲקִמֹ֔תִי בֵּינִ֕י וּבֵ֥ין כׇּל־בָּשָׂ֖ר אֲשֶׁ֥ר עַל־הָאָֽרֶץ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.9.18">
       <spi-pe2-after />
       <text text="וַיִּֽהְי֣וּ בְנֵי־נֹ֗חַ הַיֹּֽצְאִים֙ מִן־הַתֵּבָ֔ה שֵׁ֖ם וְחָ֣ם וָיָ֑פֶת וְחָ֕ם ה֖וּא אֲבִ֥י כְנָֽעַן׃" />
@@ -875,10 +875,10 @@
         <text text="(בספרי ספרד ואשכנז וַֽיְהִי֙)" />
       </note>
       <text text=" כׇּל־יְמֵי־נֹ֔חַ תְּשַׁ֤ע מֵאוֹת֙ שָׁנָ֔ה וַחֲמִשִּׁ֖ים שָׁנָ֑ה וַיָּמֹֽת׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Gen.10">
     <verse osisID="Gen.10.1">
       <spi-pe2-after />
@@ -922,9 +922,9 @@
     </verse>
     <verse osisID="Gen.10.14">
       <text text="וְֽאֶת־פַּתְרֻסִ֞ים וְאֶת־כַּסְלֻחִ֗ים אֲשֶׁ֨ר יָצְא֥וּ מִשָּׁ֛ם פְּלִשְׁתִּ֖ים וְאֶת־כַּפְתֹּרִֽים׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.10.15">
       <spi-samekh2-after />
       <text text="וּכְנַ֗עַן יָלַ֛ד אֶת־צִידֹ֥ן בְּכֹר֖וֹ וְאֶת־חֵֽת׃" />
@@ -943,9 +943,9 @@
     </verse>
     <verse osisID="Gen.10.20">
       <text text="אֵ֣לֶּה בְנֵי־חָ֔ם לְמִשְׁפְּחֹתָ֖ם לִלְשֹֽׁנֹתָ֑ם בְּאַרְצֹתָ֖ם בְּגוֹיֵהֶֽם׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.10.21">
       <spi-samekh2-after />
       <text text="וּלְשֵׁ֥ם יֻלַּ֖ד גַּם־ה֑וּא אֲבִי֙ כׇּל־בְּנֵי־עֵ֔בֶר אֲחִ֖י יֶ֥פֶת הַגָּדֽוֹל׃" />
@@ -982,10 +982,10 @@
     </verse>
     <verse osisID="Gen.10.32">
       <text text="אֵ֣לֶּה מִשְׁפְּחֹ֧ת בְּנֵי־נֹ֛חַ לְתוֹלְדֹתָ֖ם בְּגוֹיֵהֶ֑ם וּמֵאֵ֜לֶּה נִפְרְד֧וּ הַגּוֹיִ֛ם בָּאָ֖רֶץ אַחַ֥ר הַמַּבּֽוּל׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Gen.11">
     <verse osisID="Gen.11.1">
       <spi-pe2-after />
@@ -1016,81 +1016,81 @@
     </verse>
     <verse osisID="Gen.11.9">
       <text text="עַל־כֵּ֞ן קָרָ֤א שְׁמָהּ֙ בָּבֶ֔ל כִּי־שָׁ֛ם בָּלַ֥ל יְהֹוָ֖ה שְׂפַ֣ת כׇּל־הָאָ֑רֶץ וּמִשָּׁם֙ הֱפִיצָ֣ם יְהֹוָ֔ה עַל־פְּנֵ֖י כׇּל־הָאָֽרֶץ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.11.10">
       <spi-pe2-after />
       <text text="אֵ֚לֶּה תּוֹלְדֹ֣ת שֵׁ֔ם שֵׁ֚ם בֶּן־מְאַ֣ת שָׁנָ֔ה וַיּ֖וֹלֶד אֶת־אַרְפַּכְשָׁ֑ד שְׁנָתַ֖יִם אַחַ֥ר הַמַּבּֽוּל׃" />
     </verse>
     <verse osisID="Gen.11.11">
       <text text="וַֽיְחִי־שֵׁ֗ם אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־אַרְפַּכְשָׁ֔ד חֲמֵ֥שׁ מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.11.12">
       <spi-samekh2-after />
       <text text="וְאַרְפַּכְשַׁ֣ד חַ֔י חָמֵ֥שׁ וּשְׁלֹשִׁ֖ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־שָֽׁלַח׃" />
     </verse>
     <verse osisID="Gen.11.13">
       <text text="וַֽיְחִ֣י אַרְפַּכְשַׁ֗ד אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־שֶׁ֔לַח שָׁלֹ֣שׁ שָׁנִ֔ים וְאַרְבַּ֥ע מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.11.14">
       <spi-samekh2-after />
       <text text="וְשֶׁ֥לַח חַ֖י שְׁלֹשִׁ֣ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־עֵֽבֶר׃" />
     </verse>
     <verse osisID="Gen.11.15">
       <text text="וַֽיְחִי־שֶׁ֗לַח אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־עֵ֔בֶר שָׁלֹ֣שׁ שָׁנִ֔ים וְאַרְבַּ֥ע מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.11.16">
       <spi-samekh2-after />
       <text text="וַֽיְחִי־עֵ֕בֶר אַרְבַּ֥ע וּשְׁלֹשִׁ֖ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־פָּֽלֶג׃" />
     </verse>
     <verse osisID="Gen.11.17">
       <text text="וַֽיְחִי־עֵ֗בֶר אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־פֶּ֔לֶג שְׁלֹשִׁ֣ים שָׁנָ֔ה וְאַרְבַּ֥ע מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.11.18">
       <spi-samekh2-after />
       <text text="וַֽיְחִי־פֶ֖לֶג שְׁלֹשִׁ֣ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־רְעֽוּ׃" />
     </verse>
     <verse osisID="Gen.11.19">
       <text text="וַֽיְחִי־פֶ֗לֶג אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־רְע֔וּ תֵּ֥שַׁע שָׁנִ֖ים וּמָאתַ֣יִם שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.11.20">
       <spi-samekh2-after />
       <text text="וַיְחִ֣י רְע֔וּ שְׁתַּ֥יִם וּשְׁלֹשִׁ֖ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־שְׂרֽוּג׃" />
     </verse>
     <verse osisID="Gen.11.21">
       <text text="וַיְחִ֣י רְע֗וּ אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־שְׂר֔וּג שֶׁ֥בַע שָׁנִ֖ים וּמָאתַ֣יִם שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.11.22">
       <spi-samekh2-after />
       <text text="וַיְחִ֥י שְׂר֖וּג שְׁלֹשִׁ֣ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־נָחֽוֹר׃" />
     </verse>
     <verse osisID="Gen.11.23">
       <text text="וַיְחִ֣י שְׂר֗וּג אַחֲרֵ֛י הוֹלִיד֥וֹ אֶת־נָח֖וֹר מָאתַ֣יִם שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.11.24">
       <spi-samekh2-after />
       <text text="וַיְחִ֣י נָח֔וֹר תֵּ֥שַׁע וְעֶשְׂרִ֖ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־תָּֽרַח׃" />
     </verse>
     <verse osisID="Gen.11.25">
       <text text="וַיְחִ֣י נָח֗וֹר אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־תֶּ֔רַח תְּשַֽׁע־עֶשְׂרֵ֥ה שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.11.26">
       <spi-samekh2-after />
       <text text="וַֽיְחִי־תֶ֖רַח שִׁבְעִ֣ים שָׁנָ֑ה וַיּ֙וֹלֶד֙ אֶת־אַבְרָ֔ם אֶת־נָח֖וֹר וְאֶת־הָרָֽן׃" />
@@ -1112,10 +1112,10 @@
     </verse>
     <verse osisID="Gen.11.32">
       <text text="וַיִּהְי֣וּ יְמֵי־תֶ֔רַח חָמֵ֥שׁ שָׁנִ֖ים וּמָאתַ֣יִם שָׁנָ֑ה וַיָּ֥מׇת תֶּ֖רַח בְּחָרָֽן׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Gen.12">
     <verse osisID="Gen.12.1">
       <spi-pe2-after />
@@ -1144,9 +1144,9 @@
     </verse>
     <verse osisID="Gen.12.9">
       <text text="וַיִּסַּ֣ע אַבְרָ֔ם הָל֥וֹךְ וְנָס֖וֹעַ הַנֶּֽגְבָּה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.12.10">
       <spi-pe2-after />
       <text text="וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨רֶד אַבְרָ֤ם מִצְרַ֙יְמָה֙ לָג֣וּר שָׁ֔ם כִּֽי־כָבֵ֥ד הָרָעָ֖ב בָּאָֽרֶץ׃" />
@@ -1246,10 +1246,10 @@
     </verse>
     <verse osisID="Gen.13.18">
       <text text="וַיֶּאֱהַ֣ל אַבְרָ֗ם וַיָּבֹ֛א וַיֵּ֛שֶׁב בְּאֵלֹנֵ֥י מַמְרֵ֖א אֲשֶׁ֣ר בְּחֶבְר֑וֹן וַיִּֽבֶן־שָׁ֥ם מִזְבֵּ֖חַ לַֽיהֹוָֽה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Gen.14">
     <verse osisID="Gen.14.1">
       <spi-pe2-after />
@@ -1347,10 +1347,10 @@
     </verse>
     <verse osisID="Gen.14.24">
       <text text="בִּלְעָדַ֗י רַ֚ק אֲשֶׁ֣ר אָֽכְל֣וּ הַנְּעָרִ֔ים וְחֵ֙לֶק֙ הָֽאֲנָשִׁ֔ים אֲשֶׁ֥ר הָלְכ֖וּ אִתִּ֑י עָנֵר֙ אֶשְׁכֹּ֣ל וּמַמְרֵ֔א הֵ֖ם יִקְח֥וּ חֶלְקָֽם׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
   </chapter>
-  <spi-samekh2-mid />
+  <spi-samekh2 />
   <chapter osisID="Gen.15">
     <verse osisID="Gen.15.1">
       <spi-samekh2-after />
@@ -1419,10 +1419,10 @@
     </verse>
     <verse osisID="Gen.15.21">
       <text text="וְאֶת־הָֽאֱמֹרִי֙ וְאֶת־הַֽכְּנַעֲנִ֔י וְאֶת־הַגִּרְגָּשִׁ֖י וְאֶת־הַיְבוּסִֽי׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
   </chapter>
-  <spi-samekh2-mid />
+  <spi-samekh2 />
   <chapter osisID="Gen.16">
     <verse osisID="Gen.16.1">
       <spi-samekh2-after />
@@ -1472,10 +1472,10 @@
     </verse>
     <verse osisID="Gen.16.16">
       <text text="וְאַבְרָ֕ם בֶּן־שְׁמֹנִ֥ים שָׁנָ֖ה וְשֵׁ֣שׁ שָׁנִ֑ים בְּלֶֽדֶת־הָגָ֥ר אֶת־יִשְׁמָעֵ֖אל לְאַבְרָֽם׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
   </chapter>
-  <spi-samekh2-mid />
+  <spi-samekh2 />
   <chapter osisID="Gen.17">
     <verse osisID="Gen.17.1">
       <spi-samekh2-after />
@@ -1525,9 +1525,9 @@
       <text text="וְעָרֵ֣ל" />
       <lp-legarmeih />
       <text text=" זָכָ֗ר אֲשֶׁ֤ר לֹֽא־יִמּוֹל֙ אֶת־בְּשַׂ֣ר עׇרְלָת֔וֹ וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵעַמֶּ֑יהָ אֶת־בְּרִיתִ֖י הֵפַֽר׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.17.15">
       <spi-samekh2-after />
       <text text="וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל־אַבְרָהָ֔ם שָׂרַ֣י אִשְׁתְּךָ֔ לֹא־תִקְרָ֥א אֶת־שְׁמָ֖הּ שָׂרָ֑י כִּ֥י שָׂרָ֖ה שְׁמָֽהּ׃" />
@@ -1569,10 +1569,10 @@
     </verse>
     <verse osisID="Gen.17.27">
       <text text="וְכׇל־אַנְשֵׁ֤י בֵיתוֹ֙ יְלִ֣יד בָּ֔יִת וּמִקְנַת־כֶּ֖סֶף מֵאֵ֣ת בֶּן־נֵכָ֑ר נִמֹּ֖לוּ אִתּֽוֹ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Gen.18">
     <verse osisID="Gen.18.1">
       <spi-pe2-after />
@@ -1807,10 +1807,10 @@
     </verse>
     <verse osisID="Gen.19.38">
       <text text="וְהַצְּעִירָ֤ה גַם־הִוא֙ יָ֣לְדָה בֵּ֔ן וַתִּקְרָ֥א שְׁמ֖וֹ בֶּן־עַמִּ֑י ה֛וּא אֲבִ֥י בְנֵֽי־עַמּ֖וֹן עַד־הַיּֽוֹם׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
   </chapter>
-  <spi-samekh2-mid />
+  <spi-samekh2 />
   <chapter osisID="Gen.20">
     <verse osisID="Gen.20.1">
       <spi-samekh2-after />
@@ -1866,10 +1866,10 @@
     </verse>
     <verse osisID="Gen.20.18">
       <text text="כִּֽי־עָצֹ֤ר עָצַר֙ יְהֹוָ֔ה בְּעַ֥ד כׇּל־רֶ֖חֶם לְבֵ֣ית אֲבִימֶ֑לֶךְ עַל־דְּבַ֥ר שָׂרָ֖ה אֵ֥שֶׁת אַבְרָהָֽם׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
   </chapter>
-  <spi-samekh2-mid />
+  <spi-samekh2 />
   <chapter osisID="Gen.21">
     <verse osisID="Gen.21.1">
       <spi-samekh2-after />
@@ -1938,9 +1938,9 @@
     </verse>
     <verse osisID="Gen.21.21">
       <text text="וַיֵּ֖שֶׁב בְּמִדְבַּ֣ר פָּארָ֑ן וַתִּֽקַּֽח־ל֥וֹ אִמּ֛וֹ אִשָּׁ֖ה מֵאֶ֥רֶץ מִצְרָֽיִם׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.21.22">
       <spi-pe2-after />
       <text text="וַֽיְהִי֙ בָּעֵ֣ת הַהִ֔וא וַיֹּ֣אמֶר אֲבִימֶ֗לֶךְ וּפִיכֹל֙ שַׂר־צְבָא֔וֹ אֶל־אַבְרָהָ֖ם לֵאמֹ֑ר אֱלֹהִ֣ים עִמְּךָ֔ בְּכֹ֥ל אֲשֶׁר־אַתָּ֖ה עֹשֶֽׂה׃" />
@@ -1980,10 +1980,10 @@
     </verse>
     <verse osisID="Gen.21.34">
       <text text="וַיָּ֧גׇר אַבְרָהָ֛ם בְּאֶ֥רֶץ פְּלִשְׁתִּ֖ים יָמִ֥ים רַבִּֽים׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Gen.22">
     <verse osisID="Gen.22.1">
       <spi-pe2-after />
@@ -2048,9 +2048,9 @@
     </verse>
     <verse osisID="Gen.22.19">
       <text text="וַיָּ֤שׇׁב אַבְרָהָם֙ אֶל־נְעָרָ֔יו וַיָּקֻ֛מוּ וַיֵּלְכ֥וּ יַחְדָּ֖ו אֶל־בְּאֵ֣ר שָׁ֑בַע וַיֵּ֥שֶׁב אַבְרָהָ֖ם בִּבְאֵ֥ר שָֽׁבַע׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.22.20">
       <spi-pe2-after />
       <text text="וַיְהִ֗י אַחֲרֵי֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה וַיֻּגַּ֥ד לְאַבְרָהָ֖ם לֵאמֹ֑ר הִ֠נֵּ֠ה יָלְדָ֨ה מִלְכָּ֥ה גַם־הִ֛וא בָּנִ֖ים לְנָח֥וֹר אָחִֽיךָ׃" />
@@ -2066,10 +2066,10 @@
     </verse>
     <verse osisID="Gen.22.24">
       <text text="וּפִֽילַגְשׁ֖וֹ וּשְׁמָ֣הּ רְאוּמָ֑ה וַתֵּ֤לֶד גַּם־הִוא֙ אֶת־טֶ֣בַח וְאֶת־גַּ֔חַם וְאֶת־תַּ֖חַשׁ וְאֶֽת־מַעֲכָֽה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Gen.23">
     <verse osisID="Gen.23.1">
       <spi-pe2-after />
@@ -2139,10 +2139,10 @@
     </verse>
     <verse osisID="Gen.23.20">
       <text text="וַיָּ֨קׇם הַשָּׂדֶ֜ה וְהַמְּעָרָ֧ה אֲשֶׁר־בּ֛וֹ לְאַבְרָהָ֖ם לַאֲחֻזַּת־קָ֑בֶר מֵאֵ֖ת בְּנֵי־חֵֽת׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
   </chapter>
-  <spi-samekh2-mid />
+  <spi-samekh2 />
   <chapter osisID="Gen.24">
     <verse osisID="Gen.24.1">
       <spi-samekh2-after />
@@ -2360,10 +2360,10 @@
     </verse>
     <verse osisID="Gen.24.67">
       <text text="וַיְבִאֶ֣הָ יִצְחָ֗ק הָאֹ֙הֱלָה֙ שָׂרָ֣ה אִמּ֔וֹ וַיִּקַּ֧ח אֶת־רִבְקָ֛ה וַתְּהִי־ל֥וֹ לְאִשָּׁ֖ה וַיֶּאֱהָבֶ֑הָ וַיִּנָּחֵ֥ם יִצְחָ֖ק אַחֲרֵ֥י אִמּֽוֹ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Gen.25">
     <verse osisID="Gen.25.1">
       <spi-pe2-after />
@@ -2398,9 +2398,9 @@
     </verse>
     <verse osisID="Gen.25.11">
       <text text="וַיְהִ֗י אַחֲרֵי֙ מ֣וֹת אַבְרָהָ֔ם וַיְבָ֥רֶךְ אֱלֹהִ֖ים אֶת־יִצְחָ֣ק בְּנ֑וֹ וַיֵּ֣שֶׁב יִצְחָ֔ק עִם־בְּאֵ֥ר לַחַ֖י רֹאִֽי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.25.12">
       <spi-pe2-after />
       <text text="וְאֵ֛לֶּה תֹּלְדֹ֥ת יִשְׁמָעֵ֖אל בֶּן־אַבְרָהָ֑ם אֲשֶׁ֨ר יָלְדָ֜ה הָגָ֧ר הַמִּצְרִ֛ית שִׁפְחַ֥ת שָׂרָ֖ה לְאַבְרָהָֽם׃" />
@@ -2422,9 +2422,9 @@
     </verse>
     <verse osisID="Gen.25.18">
       <text text="וַיִּשְׁכְּנ֨וּ מֵֽחֲוִילָ֜ה עַד־שׁ֗וּר אֲשֶׁר֙ עַל־פְּנֵ֣י מִצְרַ֔יִם בֹּאֲכָ֖ה אַשּׁ֑וּרָה עַל־פְּנֵ֥י כׇל־אֶחָ֖יו נָפָֽל׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.25.19">
       <spi-pe2-after />
       <text text="וְאֵ֛לֶּה תּוֹלְדֹ֥ת יִצְחָ֖ק בֶּן־אַבְרָהָ֑ם אַבְרָהָ֖ם הוֹלִ֥יד אֶת־יִצְחָֽק׃" />
@@ -2483,10 +2483,10 @@
     </verse>
     <verse osisID="Gen.25.34">
       <text text="וְיַעֲקֹ֞ב נָתַ֣ן לְעֵשָׂ֗ו לֶ֚חֶם וּנְזִ֣יד עֲדָשִׁ֔ים וַיֹּ֣אכַל וַיֵּ֔שְׁתְּ וַיָּ֖קׇם וַיֵּלַ֑ךְ וַיִּ֥בֶז עֵשָׂ֖ו אֶת־הַבְּכֹרָֽה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Gen.26">
     <verse osisID="Gen.26.1">
       <spi-pe2-after />
@@ -2593,19 +2593,19 @@
     </verse>
     <verse osisID="Gen.26.33">
       <text text="וַיִּקְרָ֥א אֹתָ֖הּ שִׁבְעָ֑ה עַל־כֵּ֤ן שֵׁם־הָעִיר֙ בְּאֵ֣ר שֶׁ֔בַע עַ֖ד הַיּ֥וֹם הַזֶּֽה׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.26.34">
       <spi-samekh2-after />
       <text text="וַיְהִ֤י עֵשָׂו֙ בֶּן־אַרְבָּעִ֣ים שָׁנָ֔ה וַיִּקַּ֤ח אִשָּׁה֙ אֶת־יְהוּדִ֔ית בַּת־בְּאֵרִ֖י הַֽחִתִּ֑י וְאֶת־בָּ֣שְׂמַ֔ת בַּת־אֵילֹ֖ן הַֽחִתִּֽי׃" />
     </verse>
     <verse osisID="Gen.26.35">
       <text text="וַתִּהְיֶ֖יןָ מֹ֣רַת ר֑וּחַ לְיִצְחָ֖ק וּלְרִבְקָֽה׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
   </chapter>
-  <spi-samekh2-mid />
+  <spi-samekh2 />
   <chapter osisID="Gen.27">
     <verse osisID="Gen.27.1">
       <spi-samekh2-after />
@@ -2802,9 +2802,9 @@
       <text text="וַיֵּ֥לֶךְ עֵשָׂ֖ו אֶל־יִשְׁמָעֵ֑אל וַיִּקַּ֡ח אֶֽת־מָחֲלַ֣ת" />
       <lp-legarmeih />
       <text text=" בַּת־יִשְׁמָעֵ֨אל בֶּן־אַבְרָהָ֜ם אֲח֧וֹת נְבָי֛וֹת עַל־נָשָׁ֖יו ל֥וֹ לְאִשָּֽׁה׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.28.10">
       <spi-samekh2-after />
       <text text="וַיֵּצֵ֥א יַעֲקֹ֖ב מִבְּאֵ֣ר שָׁ֑בַע וַיֵּ֖לֶךְ חָרָֽנָה׃" />
@@ -3283,9 +3283,9 @@
     </verse>
     <verse osisID="Gen.32.3">
       <text text="וַיֹּ֤אמֶר יַעֲקֹב֙ כַּאֲשֶׁ֣ר רָאָ֔ם מַחֲנֵ֥ה אֱלֹהִ֖ים זֶ֑ה וַיִּקְרָ֛א שֵֽׁם־הַמָּק֥וֹם הַה֖וּא מַֽחֲנָֽיִם׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.32.4">
       <spi-pe2-after />
       <text text="וַיִּשְׁלַ֨ח יַעֲקֹ֤ב מַלְאָכִים֙ לְפָנָ֔יו אֶל־עֵשָׂ֖ו אָחִ֑יו אַ֥רְצָה שֵׂעִ֖יר שְׂדֵ֥ה אֱדֽוֹם׃" />
@@ -3431,9 +3431,9 @@
     </verse>
     <verse osisID="Gen.33.17">
       <text text="וְיַעֲקֹב֙ נָסַ֣ע סֻכֹּ֔תָה וַיִּ֥בֶן ל֖וֹ בָּ֑יִת וּלְמִקְנֵ֙הוּ֙ עָשָׂ֣ה סֻכֹּ֔ת עַל־כֵּ֛ן קָרָ֥א שֵׁם־הַמָּק֖וֹם סֻכּֽוֹת׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.33.18">
       <spi-samekh2-after />
       <text text="וַיָּבֹא֩ יַעֲקֹ֨ב שָׁלֵ֜ם עִ֣יר שְׁכֶ֗ם אֲשֶׁר֙ בְּאֶ֣רֶץ כְּנַ֔עַן בְּבֹא֖וֹ מִפַּדַּ֣ן אֲרָ֑ם וַיִּ֖חַן אֶת־פְּנֵ֥י הָעִֽיר׃" />
@@ -3443,10 +3443,10 @@
     </verse>
     <verse osisID="Gen.33.20">
       <text text="וַיַּצֶּב־שָׁ֖ם מִזְבֵּ֑חַ וַיִּ֨קְרָא־ל֔וֹ אֵ֖ל אֱלֹהֵ֥י יִשְׂרָאֵֽל׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
   </chapter>
-  <spi-samekh2-mid />
+  <spi-samekh2 />
   <chapter osisID="Gen.34">
     <verse osisID="Gen.34.1">
       <spi-samekh2-after />
@@ -3541,10 +3541,10 @@
     </verse>
     <verse osisID="Gen.34.31">
       <text text="וַיֹּאמְר֑וּ הַכְזוֹנָ֕ה יַעֲשֶׂ֖ה אֶת־אֲחוֹתֵֽנוּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Gen.35">
     <verse osisID="Gen.35.1">
       <spi-pe2-after />
@@ -3572,9 +3572,9 @@
     </verse>
     <verse osisID="Gen.35.8">
       <text text="וַתָּ֤מׇת דְּבֹרָה֙ מֵינֶ֣קֶת רִבְקָ֔ה וַתִּקָּבֵ֛ר מִתַּ֥חַת לְבֵֽית־אֵ֖ל תַּ֣חַת הָֽאַלּ֑וֹן וַיִּקְרָ֥א שְׁמ֖וֹ אַלּ֥וֹן בָּכֽוּת׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.35.9">
       <spi-pe2-after />
       <text text="וַיֵּרָ֨א אֱלֹהִ֤ים אֶֽל־יַעֲקֹב֙ ע֔וֹד בְּבֹא֖וֹ מִפַּדַּ֣ן אֲרָ֑ם וַיְבָ֖רֶךְ אֹתֽוֹ׃" />
@@ -3640,10 +3640,10 @@
     </verse>
     <verse osisID="Gen.35.29">
       <text text="וַיִּגְוַ֨ע יִצְחָ֤ק וַיָּ֙מׇת֙ וַיֵּאָ֣סֶף אֶל־עַמָּ֔יו זָקֵ֖ן וּשְׂבַ֣ע יָמִ֑ים וַיִּקְבְּר֣וּ אֹת֔וֹ עֵשָׂ֥ו וְיַעֲקֹ֖ב בָּנָֽיו׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Gen.36">
     <verse osisID="Gen.36.1">
       <spi-pe2-after />
@@ -3724,9 +3724,9 @@
     </verse>
     <verse osisID="Gen.36.19">
       <text text="אֵ֧לֶּה בְנֵי־עֵשָׂ֛ו וְאֵ֥לֶּה אַלּוּפֵיהֶ֖ם ה֥וּא אֱדֽוֹם׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.36.20">
       <spi-samekh2-after />
       <text text="אֵ֤לֶּה בְנֵֽי־שֵׂעִיר֙ הַחֹרִ֔י יֹשְׁבֵ֖י הָאָ֑רֶץ לוֹטָ֥ן וְשׁוֹבָ֖ל וְצִבְע֥וֹן וַעֲנָֽה׃" />
@@ -3760,9 +3760,9 @@
     </verse>
     <verse osisID="Gen.36.30">
       <text text="אַלּ֥וּף דִּשֹׁ֛ן אַלּ֥וּף אֵ֖צֶר אַלּ֣וּף דִּישָׁ֑ן אֵ֣לֶּה אַלּוּפֵ֧י הַחֹרִ֛י לְאַלֻּפֵיהֶ֖ם בְּאֶ֥רֶץ שֵׂעִֽיר׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.36.31">
       <spi-pe2-after />
       <text text="וְאֵ֙לֶּה֙ הַמְּלָכִ֔ים אֲשֶׁ֥ר מָלְכ֖וּ בְּאֶ֣רֶץ אֱד֑וֹם לִפְנֵ֥י מְלׇךְ־מֶ֖לֶךְ לִבְנֵ֥י יִשְׂרָאֵֽל׃" />
@@ -3804,10 +3804,10 @@
       <text text="אַלּ֥וּף מַגְדִּיאֵ֖ל אַלּ֣וּף עִירָ֑ם אֵ֣לֶּה" />
       <lp-legarmeih />
       <text text=" אַלּוּפֵ֣י אֱד֗וֹם לְמֹֽשְׁבֹתָם֙ בְּאֶ֣רֶץ אֲחֻזָּתָ֔ם ה֥וּא עֵשָׂ֖ו אֲבִ֥י אֱדֽוֹם׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Gen.37">
     <verse osisID="Gen.37.1">
       <spi-pe2-after />
@@ -3923,10 +3923,10 @@
     </verse>
     <verse osisID="Gen.37.36">
       <text text="וְהַ֨מְּדָנִ֔ים מָכְר֥וּ אֹת֖וֹ אֶל־מִצְרָ֑יִם לְפֽוֹטִיפַר֙ סְרִ֣יס פַּרְעֹ֔ה שַׂ֖ר הַטַּבָּחִֽים׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Gen.38">
     <verse osisID="Gen.38.1">
       <spi-pe2-after />
@@ -4022,10 +4022,10 @@
     </verse>
     <verse osisID="Gen.38.30">
       <text text="וְאַחַר֙ יָצָ֣א אָחִ֔יו אֲשֶׁ֥ר עַל־יָד֖וֹ הַשָּׁנִ֑י וַיִּקְרָ֥א שְׁמ֖וֹ זָֽרַח׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
   </chapter>
-  <spi-samekh2-mid />
+  <spi-samekh2 />
   <chapter osisID="Gen.39">
     <verse osisID="Gen.39.1">
       <spi-samekh2-after />
@@ -4112,10 +4112,10 @@
       <text text="אֵ֣ין" />
       <lp-legarmeih />
       <text text=" שַׂ֣ר בֵּית־הַסֹּ֗הַר רֹאֶ֤ה אֶֽת־כׇּל־מְא֙וּמָה֙ בְּיָד֔וֹ בַּאֲשֶׁ֥ר יְהֹוָ֖ה אִתּ֑וֹ וַֽאֲשֶׁר־ה֥וּא עֹשֶׂ֖ה יְהֹוָ֥ה מַצְלִֽיחַ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Gen.40">
     <verse osisID="Gen.40.1">
       <spi-pe2-after />
@@ -4194,10 +4194,10 @@
     </verse>
     <verse osisID="Gen.40.23">
       <text text="וְלֹֽא־זָכַ֧ר שַֽׂר־הַמַּשְׁקִ֛ים אֶת־יוֹסֵ֖ף וַיִּשְׁכָּחֵֽהוּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Gen.41">
     <verse osisID="Gen.41.1">
       <spi-pe2-after />
@@ -4675,9 +4675,9 @@
     </verse>
     <verse osisID="Gen.44.17">
       <text text="וַיֹּ֕אמֶר חָלִ֣ילָה לִּ֔י מֵעֲשׂ֖וֹת זֹ֑את הָאִ֡ישׁ אֲשֶׁר֩ נִמְצָ֨א הַגָּבִ֜יעַ בְּיָד֗וֹ ה֚וּא יִהְיֶה־לִּ֣י עָ֔בֶד וְאַתֶּ֕ם עֲל֥וּ לְשָׁל֖וֹם אֶל־אֲבִיכֶֽם׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.44.18">
       <spi-samekh2-after />
       <text text="וַיִּגַּ֨שׁ אֵלָ֜יו יְהוּדָ֗ה וַיֹּ֘אמֶר֮ בִּ֣י אֲדֹנִי֒ יְדַבֶּר־נָ֨א עַבְדְּךָ֤ דָבָר֙ בְּאׇזְנֵ֣י אֲדֹנִ֔י וְאַל־יִ֥חַר אַפְּךָ֖ בְּעַבְדֶּ֑ךָ כִּ֥י כָמ֖וֹךָ כְּפַרְעֹֽה׃" />
@@ -4844,9 +4844,9 @@
     </verse>
     <verse osisID="Gen.46.7">
       <text text="בָּנָ֞יו וּבְנֵ֤י בָנָיו֙ אִתּ֔וֹ בְּנֹתָ֛יו וּבְנ֥וֹת בָּנָ֖יו וְכׇל־זַרְע֑וֹ הֵבִ֥יא אִתּ֖וֹ מִצְרָֽיְמָה׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.46.8">
       <spi-samekh2-after />
       <text text="וְאֵ֨לֶּה שְׁמ֧וֹת בְּנֵֽי־יִשְׂרָאֵ֛ל הַבָּאִ֥ים מִצְרַ֖יְמָה יַעֲקֹ֣ב וּבָנָ֑יו בְּכֹ֥ר יַעֲקֹ֖ב רְאוּבֵֽן׃" />
@@ -4913,9 +4913,9 @@
     </verse>
     <verse osisID="Gen.46.27">
       <text text="וּבְנֵ֥י יוֹסֵ֛ף אֲשֶׁר־יֻלַּד־ל֥וֹ בְמִצְרַ֖יִם נֶ֣פֶשׁ שְׁנָ֑יִם כׇּל־הַנֶּ֧פֶשׁ לְבֵֽית־יַעֲקֹ֛ב הַבָּ֥אָה מִצְרַ֖יְמָה שִׁבְעִֽים׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.46.28">
       <spi-samekh2-after />
       <text text="וְאֶת־יְהוּדָ֞ה שָׁלַ֤ח לְפָנָיו֙ אֶל־יוֹסֵ֔ף לְהוֹרֹ֥ת לְפָנָ֖יו גֹּ֑שְׁנָה וַיָּבֹ֖אוּ אַ֥רְצָה גֹּֽשֶׁן׃" />
@@ -5034,10 +5034,10 @@
     </verse>
     <verse osisID="Gen.47.31">
       <text text="וַיֹּ֗אמֶר הִשָּֽׁבְעָה֙ לִ֔י וַיִּשָּׁבַ֖ע ל֑וֹ וַיִּשְׁתַּ֥חוּ יִשְׂרָאֵ֖ל עַל־רֹ֥אשׁ הַמִּטָּֽה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Gen.48">
     <verse osisID="Gen.48.1">
       <spi-pe2-after />
@@ -5107,10 +5107,10 @@
     </verse>
     <verse osisID="Gen.48.22">
       <text text="וַאֲנִ֞י נָתַ֧תִּֽי לְךָ֛ שְׁכֶ֥ם אַחַ֖ד עַל־אַחֶ֑יךָ אֲשֶׁ֤ר לָקַ֙חְתִּי֙ מִיַּ֣ד הָֽאֱמֹרִ֔י בְּחַרְבִּ֖י וּבְקַשְׁתִּֽי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Gen.49">
     <verse osisID="Gen.49.1">
       <spi-pe2-after />
@@ -5124,9 +5124,9 @@
     </verse>
     <verse osisID="Gen.49.4">
       <text text="פַּ֤חַז כַּמַּ֙יִם֙ אַל־תּוֹתַ֔ר כִּ֥י עָלִ֖יתָ מִשְׁכְּבֵ֣י אָבִ֑יךָ אָ֥ז חִלַּ֖לְתָּ יְצוּעִ֥י עָלָֽה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.49.5">
       <spi-pe2-after />
       <text text="שִׁמְע֥וֹן וְלֵוִ֖י אַחִ֑ים כְּלֵ֥י חָמָ֖ס מְכֵרֹתֵיהֶֽם׃" />
@@ -5136,9 +5136,9 @@
     </verse>
     <verse osisID="Gen.49.7">
       <text text="אָר֤וּר אַפָּם֙ כִּ֣י עָ֔ז וְעֶבְרָתָ֖ם כִּ֣י קָשָׁ֑תָה אֲחַלְּקֵ֣ם בְּיַעֲקֹ֔ב וַאֲפִיצֵ֖ם בְּיִשְׂרָאֵֽל׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.49.8">
       <spi-pe2-after />
       <text text="יְהוּדָ֗ה אַתָּה֙ יוֹד֣וּךָ אַחֶ֔יךָ יָדְךָ֖ בְּעֹ֣רֶף אֹיְבֶ֑יךָ יִשְׁתַּחֲו֥וּ לְךָ֖ בְּנֵ֥י אָבִֽיךָ׃" />
@@ -5166,24 +5166,24 @@
     </verse>
     <verse osisID="Gen.49.12">
       <text text="חַכְלִילִ֥י עֵינַ֖יִם מִיָּ֑יִן וּלְבֶן־שִׁנַּ֖יִם מֵחָלָֽב׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.49.13">
       <spi-pe2-after />
       <text text="זְבוּלֻ֕ן לְח֥וֹף יַמִּ֖ים יִשְׁכֹּ֑ן וְהוּא֙ לְח֣וֹף אֳנִיֹּ֔ת וְיַרְכָת֖וֹ עַל־צִידֹֽן׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.49.14">
       <spi-pe2-after />
       <text text="יִשָּׂשכָ֖ר חֲמֹ֣ר גָּ֑רֶם רֹבֵ֖ץ בֵּ֥ין הַֽמִּשְׁפְּתָֽיִם׃" />
     </verse>
     <verse osisID="Gen.49.15">
       <text text="וַיַּ֤רְא מְנֻחָה֙ כִּ֣י ט֔וֹב וְאֶת־הָאָ֖רֶץ כִּ֣י נָעֵ֑מָה וַיֵּ֤ט שִׁכְמוֹ֙ לִסְבֹּ֔ל וַיְהִ֖י לְמַס־עֹבֵֽד׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.49.16">
       <spi-samekh2-after />
       <text text="דָּ֖ן יָדִ֣ין עַמּ֑וֹ כְּאַחַ֖ד שִׁבְטֵ֥י יִשְׂרָאֵֽל׃" />
@@ -5193,27 +5193,27 @@
     </verse>
     <verse osisID="Gen.49.18">
       <text text="לִישׁוּעָֽתְךָ֖ קִוִּ֥יתִי יְהֹוָֽה׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.49.19">
       <spi-samekh2-after />
       <text text="גָּ֖ד גְּד֣וּד יְגוּדֶ֑נּוּ וְה֖וּא יָגֻ֥ד עָקֵֽב׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.49.20">
       <spi-samekh2-after />
       <text text="מֵאָשֵׁ֖ר שְׁמֵנָ֣ה לַחְמ֑וֹ וְה֥וּא יִתֵּ֖ן מַֽעֲדַנֵּי־מֶֽלֶךְ׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.49.21">
       <spi-samekh2-after />
       <text text="נַפְתָּלִ֖י אַיָּלָ֣ה שְׁלֻחָ֑ה הַנֹּתֵ֖ן אִמְרֵי־שָֽׁפֶר׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Gen.49.22">
       <spi-samekh2-after />
       <text text="בֵּ֤ן פֹּרָת֙ יוֹסֵ֔ף בֵּ֥ן פֹּרָ֖ת עֲלֵי־עָ֑יִן בָּנ֕וֹת צָעֲדָ֖ה עֲלֵי־שֽׁוּר׃" />
@@ -5229,9 +5229,9 @@
     </verse>
     <verse osisID="Gen.49.26">
       <text text="בִּרְכֹ֣ת אָבִ֗יךָ גָּֽבְרוּ֙ עַל־בִּרְכֹ֣ת הוֹרַ֔י עַֽד־תַּאֲוַ֖ת גִּבְעֹ֣ת עוֹלָ֑ם תִּֽהְיֶ֙יןָ֙ לְרֹ֣אשׁ יוֹסֵ֔ף וּלְקׇדְקֹ֖ד נְזִ֥יר אֶחָֽיו׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Gen.49.27">
       <spi-pe2-after />
       <text text="בִּנְיָמִין֙ זְאֵ֣ב יִטְרָ֔ף בַּבֹּ֖קֶר יֹ֣אכַל עַ֑ד וְלָעֶ֖רֶב יְחַלֵּ֥ק שָׁלָֽל׃" />

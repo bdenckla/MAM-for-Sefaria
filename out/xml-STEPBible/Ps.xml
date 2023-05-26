@@ -25,10 +25,10 @@
     </verse>
     <verse osisID="Ps.1.6">
       <text text="כִּֽי־יוֹדֵ֣עַ יְ֭הֹוָה דֶּ֣רֶךְ צַדִּיקִ֑ים וְדֶ֖רֶךְ רְשָׁעִ֣ים תֹּאבֵֽד׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.2">
     <verse osisID="Ps.2.1">
       <spi-pe2-after />
@@ -72,10 +72,10 @@
       <text text="נַשְּׁקוּ־בַ֡ר פֶּן־יֶאֱנַ֤ף" />
       <lp-legarmeih />
       <text text=" וְתֹ֬אבְדוּ דֶ֗רֶךְ כִּֽי־יִבְעַ֣ר כִּמְעַ֣ט אַפּ֑וֹ אַ֝שְׁרֵ֗י כׇּל־ח֥וֹסֵי בֽוֹ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.3">
     <verse osisID="Ps.3.1">
       <spi-pe2-after />
@@ -108,10 +108,10 @@
     </verse>
     <verse osisID="Ps.3.9">
       <text text="לַֽיהֹוָ֥ה הַיְשׁוּעָ֑ה עַֽל־עַמְּךָ֖ בִרְכָתֶ֣ךָ סֶּֽלָה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.4">
     <verse osisID="Ps.4.1">
       <spi-pe2-after />
@@ -142,10 +142,10 @@
     </verse>
     <verse osisID="Ps.4.9">
       <text text="בְּשָׁל֣וֹם יַחְדָּו֮ אֶשְׁכְּבָ֢ה וְאִ֫ישָׁ֥ן כִּֽי־אַתָּ֣ה יְהֹוָ֣ה לְבָדָ֑ד לָ֝בֶ֗טַח תּֽוֹשִׁיבֵֽנִי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.5">
     <verse osisID="Ps.5.1">
       <spi-pe2-after />
@@ -210,10 +210,10 @@
     </verse>
     <verse osisID="Ps.5.13">
       <text text="כִּֽי־אַתָּה֮ תְּבָרֵ֢ךְ צַ֫דִּ֥יק יְהֹוָ֑ה כַּ֝צִּנָּ֗ה רָצ֥וֹן תַּעְטְרֶֽנּוּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.6">
     <verse osisID="Ps.6.1">
       <spi-pe2-after />
@@ -264,10 +264,10 @@
       <text text="יֵבֹ֤שׁוּ" />
       <lp-legarmeih />
       <text text=" וְיִבָּהֲל֣וּ מְ֭אֹד כׇּל־אֹיְבָ֑י יָ֝שֻׁ֗בוּ יֵבֹ֥שׁוּ רָֽגַע׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.7">
     <verse osisID="Ps.7.1">
       <spi-pe2-after />
@@ -331,10 +331,10 @@
     </verse>
     <verse osisID="Ps.7.18">
       <text text="אוֹדֶ֣ה יְהֹוָ֣ה כְּצִדְק֑וֹ וַ֝אֲזַמְּרָ֗ה שֵֽׁם־יְהֹוָ֥ה עֶלְיֽוֹן׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.8">
     <verse osisID="Ps.8.1">
       <spi-pe2-after />
@@ -368,10 +368,10 @@
     </verse>
     <verse osisID="Ps.8.10">
       <text text="יְהֹוָ֥ה אֲדֹנֵ֑ינוּ מָה־אַדִּ֥יר שִׁ֝מְךָ֗ בְּכׇל־הָאָֽרֶץ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.9">
     <verse osisID="Ps.9.1">
       <spi-pe2-after />
@@ -462,10 +462,10 @@
       <text text="שִׁ֘יתָ֤ה יְהֹוָ֨ה" />
       <lp-legarmeih />
       <text text=" מוֹרָ֗ה לָ֫הֶ֥ם יֵדְע֥וּ גוֹיִ֑ם אֱנ֖וֹשׁ הֵ֣מָּה סֶּֽלָה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.10">
     <verse osisID="Ps.10.1">
       <spi-pe2-after />
@@ -575,10 +575,10 @@
     </verse>
     <verse osisID="Ps.10.18">
       <text text="לִשְׁפֹּ֥ט יָת֗וֹם וָ֫דָ֥ךְ בַּל־יוֹסִ֥יף ע֑וֹד לַעֲרֹ֥ץ אֱ֝נ֗וֹשׁ מִן־הָאָֽרֶץ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.11">
     <verse osisID="Ps.11.1">
       <spi-pe2-after />
@@ -615,10 +615,10 @@
     </verse>
     <verse osisID="Ps.11.7">
       <text text="כִּֽי־צַדִּ֣יק יְ֭הֹוָה צְדָק֣וֹת אָהֵ֑ב יָ֝שָׁ֗ר יֶחֱז֥וּ פָנֵֽימוֹ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.12">
     <verse osisID="Ps.12.1">
       <spi-pe2-after />
@@ -653,10 +653,10 @@
     </verse>
     <verse osisID="Ps.12.9">
       <text text="סָבִ֗יב רְשָׁעִ֥ים יִתְהַלָּכ֑וּן כְּרֻ֥ם זֻ֝לּ֗וּת לִבְנֵ֥י אָדָֽם׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.13">
     <verse osisID="Ps.13.1">
       <spi-pe2-after />
@@ -682,10 +682,10 @@
       <text text="וַאֲנִ֤י" />
       <lp-legarmeih />
       <text text=" בְּחַסְדְּךָ֣ בָטַחְתִּי֮ יָ֤גֵ֥ל לִבִּ֗י בִּֽישׁוּעָ֫תֶ֥ךָ אָשִׁ֥ירָה לַֽיהֹוָ֑ה כִּ֖י גָמַ֣ל עָלָֽי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.14">
     <verse osisID="Ps.14.1">
       <spi-pe2-after />
@@ -710,10 +710,10 @@
     </verse>
     <verse osisID="Ps.14.7">
       <text text="מִ֥י יִתֵּ֣ן מִצִּיּוֹן֮ יְשׁוּעַ֢ת יִשְׂרָ֫אֵ֥ל בְּשׁ֣וּב יְ֭הֹוָה שְׁב֣וּת עַמּ֑וֹ יָגֵ֥ל יַ֝עֲקֹ֗ב יִשְׂמַ֥ח יִשְׂרָאֵֽל׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.15">
     <verse osisID="Ps.15.1">
       <spi-pe2-after />
@@ -736,10 +736,10 @@
       <text text="כַּסְפּ֤וֹ" />
       <lp-legarmeih />
       <text text=" לֹא־נָתַ֣ן בְּנֶשֶׁךְ֮ וְשֹׁ֥חַד עַל־נָקִ֗י לֹ֥א לָ֫קָ֥ח עֹֽשֵׂה־אֵ֑לֶּה לֹ֖א יִמּ֣וֹט לְעוֹלָֽם׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.16">
     <verse osisID="Ps.16.1">
       <spi-pe2-after />
@@ -778,10 +778,10 @@
     </verse>
     <verse osisID="Ps.16.11">
       <text text="תּֽוֹדִיעֵנִי֮ אֹ֤רַח חַ֫יִּ֥ים שֹׂ֣בַע שְׂ֭מָחוֹת אֶת־פָּנֶ֑יךָ נְעִמ֖וֹת בִּימִינְךָ֣ נֶֽצַח׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.17">
     <verse osisID="Ps.17.1">
       <spi-pe2-after />
@@ -854,10 +854,10 @@
     </verse>
     <verse osisID="Ps.17.15">
       <text text="אֲנִ֗י בְּ֭צֶדֶק אֶחֱזֶ֣ה פָנֶ֑יךָ אֶשְׂבְּעָ֥ה בְ֝הָקִ֗יץ תְּמוּנָתֶֽךָ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.18">
     <verse osisID="Ps.18.1">
       <spi-pe2-after />
@@ -1043,10 +1043,10 @@
       <text text=" יְשׁוּע֢וֹת מַ֫לְכּ֥וֹ וְעֹ֤שֶׂה חֶ֨סֶד" />
       <lp-legarmeih />
       <text text=" לִמְשִׁיח֗וֹ לְדָוִ֥ד וּלְזַרְע֗וֹ עַד־עוֹלָֽם׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.19">
     <verse osisID="Ps.19.1">
       <spi-pe2-after />
@@ -1103,10 +1103,10 @@
       <text text="יִ֥הְיֽוּ־לְרָצ֨וֹן" />
       <lp-legarmeih />
       <text text=" אִמְרֵי־פִ֡י וְהֶגְי֣וֹן לִבִּ֣י לְפָנֶ֑יךָ יְ֝הֹוָ֗ה צוּרִ֥י וְגֹאֲלִֽי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.20">
     <verse osisID="Ps.20.1">
       <spi-pe2-after />
@@ -1146,10 +1146,10 @@
     </verse>
     <verse osisID="Ps.20.10">
       <text text="יְהֹוָ֥ה הוֹשִׁ֑יעָה הַ֝מֶּ֗לֶךְ יַעֲנֵ֥נוּ בְיוֹם־קׇרְאֵֽנוּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.21">
     <verse osisID="Ps.21.1">
       <spi-pe2-after />
@@ -1207,10 +1207,10 @@
     </verse>
     <verse osisID="Ps.21.14">
       <text text="ר֣וּמָה יְהֹוָ֣ה בְּעֻזֶּ֑ךָ נָשִׁ֥ירָה וּֽ֝נְזַמְּרָ֗ה גְּבוּרָתֶֽךָ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.22">
     <verse osisID="Ps.22.1">
       <spi-pe2-after />
@@ -1318,10 +1318,10 @@
     </verse>
     <verse osisID="Ps.22.32">
       <text text="יָ֭בֹאוּ וְיַגִּ֣ידוּ צִדְקָת֑וֹ לְעַ֥ם נ֝וֹלָ֗ד כִּ֣י עָשָֽׂה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.23">
     <verse osisID="Ps.23.1">
       <spi-pe2-after />
@@ -1345,10 +1345,10 @@
       <text text="אַ֤ךְ" />
       <lp-legarmeih />
       <text text=" ט֤וֹב וָחֶ֣סֶד יִ֭רְדְּפוּנִי כׇּל־יְמֵ֣י חַיָּ֑י וְשַׁבְתִּ֥י בְּבֵית־יְ֝הֹוָ֗ה לְאֹ֣רֶךְ יָמִֽים׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.24">
     <verse osisID="Ps.24.1">
       <spi-pe2-after />
@@ -1386,10 +1386,10 @@
     </verse>
     <verse osisID="Ps.24.10">
       <text text="מִ֤י ה֣וּא זֶה֮ מֶ֤לֶךְ הַכָּ֫ב֥וֹד יְהֹוָ֥ה צְבָא֑וֹת ה֤וּא מֶ֖לֶךְ הַכָּב֣וֹד סֶֽלָה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.25">
     <verse osisID="Ps.25.1">
       <spi-pe2-after />
@@ -1461,10 +1461,10 @@
     </verse>
     <verse osisID="Ps.25.22">
       <text text="פְּדֵ֣ה אֱ֭לֹהִים אֶת־יִשְׂרָאֵ֑ל מִ֝כֹּ֗ל צָרוֹתָֽיו׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.26">
     <verse osisID="Ps.26.1">
       <spi-pe2-after />
@@ -1514,10 +1514,10 @@
     </verse>
     <verse osisID="Ps.26.12">
       <text text="רַ֭גְלִי עָמְדָ֣ה בְמִישׁ֑וֹר בְּ֝מַקְהֵלִ֗ים אֲבָרֵ֥ךְ יְהֹוָֽה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.27">
     <verse osisID="Ps.27.1">
       <spi-pe2-after />
@@ -1577,10 +1577,10 @@
     </verse>
     <verse osisID="Ps.27.14">
       <text text="קַוֵּ֗ה אֶל־יְ֫הֹוָ֥ה חֲ֭זַק וְיַאֲמֵ֣ץ לִבֶּ֑ךָ וְ֝קַוֵּ֗ה אֶל־יְהֹוָֽה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.28">
     <verse osisID="Ps.28.1">
       <spi-pe2-after />
@@ -1615,10 +1615,10 @@
       <text text="הוֹשִׁ֤יעָה" />
       <lp-legarmeih />
       <text text=" אֶת־עַמֶּ֗ךָ וּבָרֵ֥ךְ אֶת־נַחֲלָתֶ֑ךָ וּֽרְעֵ֥ם וְ֝נַשְּׂאֵ֗ם עַד־הָעוֹלָֽם׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.29">
     <verse osisID="Ps.29.1">
       <spi-pe2-after />
@@ -1657,10 +1657,10 @@
       <text text="יְֽהֹוָ֗ה עֹ֭ז לְעַמּ֣וֹ יִתֵּ֑ן יְהֹוָ֓ה" />
       <lp-legarmeih />
       <text text=" יְבָרֵ֖ךְ אֶת־עַמּ֣וֹ בַשָּׁלֽוֹם׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.30">
     <verse osisID="Ps.30.1">
       <spi-pe2-after />
@@ -1719,10 +1719,10 @@
       <text text="לְמַ֤עַן" />
       <lp-legarmeih />
       <text text=" יְזַמֶּרְךָ֣ כָ֭בוֹד וְלֹ֣א יִדֹּ֑ם יְהֹוָ֥ה אֱ֝לֹהַ֗י לְעוֹלָ֥ם אוֹדֶֽךָּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.31">
     <verse osisID="Ps.31.1">
       <spi-pe2-after />
@@ -1819,10 +1819,10 @@
     </verse>
     <verse osisID="Ps.31.25">
       <text text="חִ֭זְקוּ וְיַאֲמֵ֣ץ לְבַבְכֶ֑ם כׇּל־הַ֝מְיַחֲלִ֗ים לַֽיהֹוָֽה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.32">
     <verse osisID="Ps.32.1">
       <spi-pe2-after />
@@ -1867,10 +1867,10 @@
     </verse>
     <verse osisID="Ps.32.11">
       <text text="שִׂמְח֬וּ בַיהֹוָ֣ה וְ֭גִילוּ צַדִּיקִ֑ים וְ֝הַרְנִ֗ינוּ כׇּל־יִשְׁרֵי־לֵֽב׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.33">
     <verse osisID="Ps.33.1">
       <spi-pe2-after />
@@ -1940,10 +1940,10 @@
     </verse>
     <verse osisID="Ps.33.22">
       <text text="יְהִי־חַסְדְּךָ֣ יְהֹוָ֣ה עָלֵ֑ינוּ כַּ֝אֲשֶׁ֗ר יִחַ֥לְנוּ לָֽךְ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.34">
     <verse osisID="Ps.34.1">
       <spi-pe2-after />
@@ -2014,10 +2014,10 @@
     </verse>
     <verse osisID="Ps.34.23">
       <text text="פֹּדֶ֣ה יְ֭הֹוָה נֶ֣פֶשׁ עֲבָדָ֑יו וְלֹ֥א יֶ֝אְשְׁמ֗וּ כׇּֽל־הַחֹסִ֥ים בּֽוֹ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.35">
     <verse osisID="Ps.35.1">
       <spi-pe2-after />
@@ -2115,10 +2115,10 @@
     </verse>
     <verse osisID="Ps.35.28">
       <text text="וּ֭לְשׁוֹנִי תֶּהְגֶּ֣ה צִדְקֶ֑ךָ כׇּל־הַ֝יּ֗וֹם תְּהִלָּתֶֽךָ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.36">
     <verse osisID="Ps.36.1">
       <spi-pe2-after />
@@ -2165,10 +2165,10 @@
     </verse>
     <verse osisID="Ps.36.13">
       <text text="שָׁ֣ם נָ֭פְלוּ פֹּ֣עֲלֵי אָ֑וֶן דֹּ֝ח֗וּ וְלֹא־יָ֥כְלוּ קֽוּם׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.37">
     <verse osisID="Ps.37.1">
       <spi-pe2-after />
@@ -2304,10 +2304,10 @@
     </verse>
     <verse osisID="Ps.37.40">
       <text text="וַ֥יַּעְזְרֵ֥ם יְהֹוָ֗ה וַֽיְפַ֫לְּטֵ֥ם יְפַלְּטֵ֣ם מֵ֭רְשָׁעִים וְיוֹשִׁיעֵ֑ם כִּי־חָ֥סוּ בֽוֹ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.38">
     <verse osisID="Ps.38.1">
       <spi-pe2-after />
@@ -2392,10 +2392,10 @@
     </verse>
     <verse osisID="Ps.38.23">
       <text text="ח֥וּשָׁה לְעֶזְרָתִ֑י אֲ֝דֹנָ֗י תְּשׁוּעָתִֽי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.39">
     <verse osisID="Ps.39.1">
       <spi-pe2-after />
@@ -2463,10 +2463,10 @@
     </verse>
     <verse osisID="Ps.39.14">
       <text text="הָשַׁ֣ע מִמֶּ֣נִּי וְאַבְלִ֑יגָה בְּטֶ֖רֶם אֵלֵ֣ךְ וְאֵינֶֽנִּי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.40">
     <verse osisID="Ps.40.1">
       <spi-pe2-after />
@@ -2550,10 +2550,10 @@
       <text text=" עָנִ֣י וְאֶבְיוֹן֮ אֲדֹנָ֢י יַחֲשׇׁ֫ב" />
       <implicit-maqaf />
       <text text="לִ֥י עֶזְרָתִ֣י וּמְפַלְטִ֣י אַ֑תָּה אֱ֝לֹהַ֗י אַל־תְּאַחַֽר׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.41">
     <verse osisID="Ps.41.1">
       <spi-pe2-after />
@@ -2677,10 +2677,10 @@
       <text text="מַה־תִּשְׁתּ֬וֹחֲחִ֨י" />
       <lp-legarmeih />
       <text text=" נַפְשִׁי֮ וּֽמַה־תֶּהֱמִ֢י עָ֫לָ֥י הוֹחִ֣ילִי לֵ֭אלֹהִים כִּי־ע֣וֹד אוֹדֶ֑נּוּ יְשׁוּעֹ֥ת פָּ֝נַ֗י וֵאלֹהָֽי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.43">
     <verse osisID="Ps.43.1">
       <spi-pe2-after />
@@ -2705,10 +2705,10 @@
       <text text="מַה־תִּשְׁתּ֬וֹחֲחִ֨י" />
       <lp-legarmeih />
       <text text=" נַפְשִׁי֮ וּֽמַה־תֶּהֱמִ֢י עָ֫לָ֥י הוֹחִ֣ילִי לֵ֭אלֹהִים כִּי־ע֣וֹד אוֹדֶ֑נּוּ יְשׁוּעֹ֥ת פָּ֝נַ֗י וֵאלֹהָֽי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.44">
     <verse osisID="Ps.44.1">
       <spi-pe2-after />
@@ -2803,10 +2803,10 @@
     </verse>
     <verse osisID="Ps.44.27">
       <text text="ק֭וּמָֽה עֶזְרָ֣תָה לָּ֑נוּ וּ֝פְדֵ֗נוּ לְמַ֣עַן חַסְדֶּֽךָ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.45">
     <verse osisID="Ps.45.1">
       <spi-pe2-after />
@@ -2874,10 +2874,10 @@
     </verse>
     <verse osisID="Ps.45.18">
       <text text="אַזְכִּ֣ירָה שִׁ֭מְךָ בְּכׇל־דֹּ֣ר וָדֹ֑ר עַל־כֵּ֥ן עַמִּ֥ים יְ֝הוֹד֗וּךָ לְעֹלָ֥ם וָעֶֽד׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.46">
     <verse osisID="Ps.46.1">
       <spi-pe2-after />
@@ -2915,10 +2915,10 @@
     </verse>
     <verse osisID="Ps.46.12">
       <text text="יְהֹוָ֣ה צְבָא֣וֹת עִמָּ֑נוּ מִשְׂגָּֽב־לָ֨נוּ אֱלֹהֵ֖י יַעֲקֹ֣ב סֶֽלָה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.47">
     <verse osisID="Ps.47.1">
       <spi-pe2-after />
@@ -2958,10 +2958,10 @@
       <text text="נְדִ֘יבֵ֤י עַמִּ֨ים" />
       <lp-legarmeih />
       <text text=" נֶאֱסָ֗פוּ עַם֮ אֱלֹהֵ֢י אַבְרָ֫הָ֥ם כִּ֣י לֵ֭אלֹהִים מָֽגִנֵּי־אֶ֗רֶץ מְאֹ֣ד נַֽעֲלָֽה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.48">
     <verse osisID="Ps.48.1">
       <spi-pe2-after />
@@ -3016,10 +3016,10 @@
       <text text="כִּ֤י זֶ֨ה" />
       <lp-legarmeih />
       <text text=" אֱלֹהִ֣ים אֱ֭לֹהֵינוּ עוֹלָ֣ם וָעֶ֑ד ה֖וּא יְנַהֲגֵ֣נוּ עַל־מֽוּת׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.49">
     <verse osisID="Ps.49.1">
       <spi-pe2-after />
@@ -3106,10 +3106,10 @@
     </verse>
     <verse osisID="Ps.49.21">
       <text text="אָדָ֣ם בִּ֭יקָר וְלֹ֣א יָבִ֑ין נִמְשַׁ֖ל כַּבְּהֵמ֣וֹת נִדְמֽוּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.50">
     <verse osisID="Ps.50.1">
       <spi-pe2-after />
@@ -3190,10 +3190,10 @@
     </verse>
     <verse osisID="Ps.50.23">
       <text text="זֹבֵ֥חַ תּוֹדָ֗ה יְֽכַ֫בְּדָ֥נְנִי וְשָׂ֥ם דֶּ֑רֶךְ אַ֝רְאֶ֗נּוּ בְּיֵ֣שַׁע אֱלֹהִֽים׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.51">
     <verse osisID="Ps.51.1">
       <spi-pe2-after />
@@ -3273,10 +3273,10 @@
     </verse>
     <verse osisID="Ps.51.21">
       <text text="אָ֤ז תַּחְפֹּ֣ץ זִבְחֵי־צֶ֭דֶק עוֹלָ֣ה וְכָלִ֑יל אָ֤ז יַעֲל֖וּ עַל־מִזְבַּחֲךָ֣ פָרִֽים׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.52">
     <verse osisID="Ps.52.1">
       <spi-pe2-after />
@@ -3317,10 +3317,10 @@
     </verse>
     <verse osisID="Ps.52.11">
       <text text="אוֹדְךָ֣ לְ֭עוֹלָם כִּ֣י עָשִׂ֑יתָ וַאֲקַוֶּ֥ה שִׁמְךָ֥ כִי־ט֝֗וֹב נֶ֣גֶד חֲסִידֶֽיךָ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.53">
     <verse osisID="Ps.53.1">
       <spi-pe2-after />
@@ -3345,10 +3345,10 @@
     </verse>
     <verse osisID="Ps.53.7">
       <text text="מִ֥י יִתֵּ֣ן מִצִּיּוֹן֮ יְשֻׁע֢וֹת יִשְׂרָ֫אֵ֥ל בְּשׁ֣וּב אֱ֭לֹהִים שְׁב֣וּת עַמּ֑וֹ יָגֵ֥ל יַ֝עֲקֹ֗ב יִשְׂמַ֥ח יִשְׂרָאֵֽל׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.54">
     <verse osisID="Ps.54.1">
       <spi-pe2-after />
@@ -3388,10 +3388,10 @@
     </verse>
     <verse osisID="Ps.54.9">
       <text text="כִּ֣י מִכׇּל־צָ֭רָה הִצִּילָ֑נִי וּ֝בְאֹיְבַ֗י רָאֲתָ֥ה עֵינִֽי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.55">
     <verse osisID="Ps.55.1">
       <spi-pe2-after />
@@ -3488,10 +3488,10 @@
       <text text=" תּוֹרִדֵ֬ם" />
       <lp-paseq />
       <text text="לִבְאֵ֬ר שַׁ֗חַת אַנְשֵׁ֤י דָמִ֣ים וּ֭מִרְמָה לֹא־יֶחֱצ֣וּ יְמֵיהֶ֑ם וַ֝אֲנִ֗י אֶבְטַח־בָּֽךְ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.56">
     <verse osisID="Ps.56.1">
       <spi-pe2-after />
@@ -3551,10 +3551,10 @@
     </verse>
     <verse osisID="Ps.56.14">
       <text text="כִּ֤י הִצַּ֪לְתָּ נַפְשִׁ֡י מִמָּוֶת֮ הֲלֹ֥א רַגְלַ֗י מִ֫דֶּ֥חִי לְ֭הִֽתְהַלֵּךְ לִפְנֵ֣י אֱלֹהִ֑ים בְּ֝א֗וֹר הַחַיִּֽים׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.57">
     <verse osisID="Ps.57.1">
       <spi-pe2-after />
@@ -3602,10 +3602,10 @@
     </verse>
     <verse osisID="Ps.57.12">
       <text text="ר֣וּמָה עַל־שָׁמַ֣יִם אֱלֹהִ֑ים עַ֖ל כׇּל־הָאָ֣רֶץ כְּבוֹדֶֽךָ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.58">
     <verse osisID="Ps.58.1">
       <spi-pe2-after />
@@ -3651,10 +3651,10 @@
     </verse>
     <verse osisID="Ps.58.12">
       <text text="וְיֹאמַ֣ר אָ֭דָם אַךְ־פְּרִ֣י לַצַּדִּ֑יק אַ֥ךְ יֵשׁ־אֱ֝לֹהִ֗ים שֹׁפְטִ֥ים בָּאָֽרֶץ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.59">
     <verse osisID="Ps.59.1">
       <spi-pe2-after />
@@ -3740,10 +3740,10 @@
     </verse>
     <verse osisID="Ps.59.18">
       <text text="עֻ֭זִּי אֵלֶ֣יךָ אֲזַמֵּ֑רָה כִּֽי־אֱלֹהִ֥ים מִ֝שְׂגַּבִּ֗י אֱלֹהֵ֥י חַסְדִּֽי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.60">
     <verse osisID="Ps.60.1">
       <spi-pe2-after />
@@ -3807,10 +3807,10 @@
     </verse>
     <verse osisID="Ps.60.14">
       <text text="בֵּאלֹהִ֥ים נַֽעֲשֶׂה־חָ֑יִל וְ֝ה֗וּא יָב֥וּס צָרֵֽינוּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.61">
     <verse osisID="Ps.61.1">
       <spi-pe2-after />
@@ -3845,10 +3845,10 @@
       <text text="כֵּ֤ן אֲזַמְּרָ֣ה שִׁמְךָ֣ לָעַ֑ד לְֽשַׁלְּמִ֥י נְ֝דָרַ֗י י֣וֹם" />
       <lp-paseq />
       <text text="יֽוֹם׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.62">
     <verse osisID="Ps.62.1">
       <spi-pe2-after />
@@ -3903,10 +3903,10 @@
     </verse>
     <verse osisID="Ps.62.13">
       <text text="וּלְךָֽ־אֲדֹנָ֥י חָ֑סֶד כִּֽי־אַתָּ֨ה תְשַׁלֵּ֖ם לְאִ֣ישׁ כְּֽמַעֲשֵֽׂהוּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.63">
     <verse osisID="Ps.63.1">
       <spi-pe2-after />
@@ -3948,10 +3948,10 @@
     </verse>
     <verse osisID="Ps.63.12">
       <text text="וְהַמֶּלֶךְ֮ יִשְׂמַ֢ח בֵּאלֹ֫הִ֥ים יִ֭תְהַלֵּל כׇּל־הַנִּשְׁבָּ֣ע בּ֑וֹ כִּ֥י יִ֝סָּכֵ֗ר פִּ֣י דוֹבְרֵי־שָֽׁקֶר׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.64">
     <verse osisID="Ps.64.1">
       <spi-pe2-after />
@@ -3988,10 +3988,10 @@
     </verse>
     <verse osisID="Ps.64.11">
       <text text="יִשְׂמַ֬ח צַדִּ֣יק בַּ֭יהֹוָה וְחָ֣סָה ב֑וֹ וְ֝יִתְהַלְל֗וּ כׇּל־יִשְׁרֵי־לֵֽב׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.65">
     <verse osisID="Ps.65.1">
       <spi-pe2-after />
@@ -4045,10 +4045,10 @@
       <text text="לָבְשׁ֬וּ כָרִ֨ים" />
       <lp-legarmeih />
       <text text=" הַצֹּ֗אן וַעֲמָקִ֥ים יַֽעַטְפוּ־בָ֑ר יִ֝תְרוֹעֲע֗וּ אַף־יָשִֽׁירוּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.66">
     <verse osisID="Ps.66.1">
       <spi-pe2-after />
@@ -4132,10 +4132,10 @@
     </verse>
     <verse osisID="Ps.66.20">
       <text text="בָּר֥וּךְ אֱלֹהִ֑ים אֲשֶׁ֥ר לֹֽא־הֵסִ֘יר תְּפִלָּתִ֥י וְ֝חַסְדּ֗וֹ מֵאִתִּֽי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.67">
     <verse osisID="Ps.67.1">
       <spi-pe2-after />
@@ -4167,10 +4167,10 @@
     </verse>
     <verse osisID="Ps.67.8">
       <text text="יְבָרְכֵ֥נוּ אֱלֹהִ֑ים וְיִֽירְא֥וּ א֝וֹת֗וֹ כׇּל־אַפְסֵי־אָֽרֶץ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.68">
     <verse osisID="Ps.68.1">
       <spi-pe2-after />
@@ -4306,10 +4306,10 @@
       <text text="נ֤וֹרָ֥א אֱלֹהִ֗ים מִֽמִּקְדָּ֫שֶׁ֥יךָ אֵ֤ל יִשְׂרָאֵ֗ל ה֤וּא נֹתֵ֨ן" />
       <lp-legarmeih />
       <text text=" עֹ֖ז וְתַעֲצֻמ֥וֹת לָעָ֗ם בָּר֥וּךְ אֱלֹהִֽים׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.69">
     <verse osisID="Ps.69.1">
       <spi-pe2-after />
@@ -4438,10 +4438,10 @@
     </verse>
     <verse osisID="Ps.69.37">
       <text text="וְזֶ֣רַע עֲ֭בָדָיו יִנְחָל֑וּהָ וְאֹהֲבֵ֥י שְׁ֝מ֗וֹ יִשְׁכְּנוּ־בָֽהּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.70">
     <verse osisID="Ps.70.1">
       <spi-pe2-after />
@@ -4467,10 +4467,10 @@
       <text text="וַאֲנִ֤י" />
       <lp-legarmeih />
       <text text=" עָנִ֣י וְאֶבְיוֹן֮ אֱלֹהִ֢ים ח֫וּשָׁה־לִּ֥י עֶזְרִ֣י וּמְפַלְטִ֣י אַ֑תָּה יְ֝הֹוָ֗ה אַל־תְּאַחַֽר׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.71">
     <verse osisID="Ps.71.1">
       <spi-pe2-after />
@@ -4588,10 +4588,10 @@
     </verse>
     <verse osisID="Ps.71.24">
       <text text="גַּם־לְשׁוֹנִ֗י כׇּל־הַ֭יּוֹם תֶּהְגֶּ֣ה צִדְקָתֶ֑ךָ כִּי־בֹ֥שׁוּ כִֽי־חָ֝פְר֗וּ מְבַקְשֵׁ֥י רָעָתִֽי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.72">
     <verse osisID="Ps.72.1">
       <spi-pe2-after />
@@ -4815,10 +4815,10 @@
       <text text="ט֥וֹב שַׁתִּ֤י" />
       <lp-legarmeih />
       <text text=" בַּאדֹנָ֣י יֱהֹוִ֣ה מַחְסִ֑י לְ֝סַפֵּ֗ר כׇּל־מַלְאֲכוֹתֶֽיךָ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.74">
     <verse osisID="Ps.74.1">
       <spi-pe2-after />
@@ -4914,10 +4914,10 @@
     </verse>
     <verse osisID="Ps.74.23">
       <text text="אַל־תִּ֭שְׁכַּח ק֣וֹל צֹרְרֶ֑יךָ שְׁא֥וֹן קָ֝מֶ֗יךָ עֹלֶ֥ה תָמִֽיד׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.75">
     <verse osisID="Ps.75.1">
       <spi-pe2-after />
@@ -4956,10 +4956,10 @@
     </verse>
     <verse osisID="Ps.75.11">
       <text text="וְכׇל־קַרְנֵ֣י רְשָׁעִ֣ים אֲגַדֵּ֑עַ תְּ֝רוֹמַ֗מְנָה קַֽרְנ֥וֹת צַדִּֽיק׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.76">
     <verse osisID="Ps.76.1">
       <spi-pe2-after />
@@ -5004,10 +5004,10 @@
     </verse>
     <verse osisID="Ps.76.13">
       <text text="יִ֭בְצֹר ר֣וּחַ נְגִידִ֑ים נ֝וֹרָ֗א לְמַלְכֵי־אָֽרֶץ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.77">
     <verse osisID="Ps.77.1">
       <spi-pe2-after />
@@ -5113,10 +5113,10 @@
     </verse>
     <verse osisID="Ps.77.21">
       <text text="נָחִ֣יתָ כַצֹּ֣אן עַמֶּ֑ךָ בְּֽיַד־מֹשֶׁ֥ה וְאַהֲרֹֽן׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.78">
     <verse osisID="Ps.78.1">
       <spi-pe2-after />
@@ -5356,10 +5356,10 @@
     </verse>
     <verse osisID="Ps.78.72">
       <text text="וַ֭יִּרְעֵם כְּתֹ֣ם לְבָב֑וֹ וּבִתְבוּנ֖וֹת כַּפָּ֣יו יַנְחֵֽם׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.79">
     <verse osisID="Ps.79.1">
       <spi-pe2-after />
@@ -5420,10 +5420,10 @@
       <text text="וַאֲנַ֤חְנוּ עַמְּךָ֨" />
       <lp-legarmeih />
       <text text=" וְצֹ֥אן מַרְעִיתֶךָ֮ נ֤וֹדֶ֥ה לְּךָ֗ לְע֫וֹלָ֥ם לְד֥וֹר וָדֹ֑ר נְ֝סַפֵּ֗ר תְּהִלָּתֶֽךָ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.80">
     <verse osisID="Ps.80.1">
       <spi-pe2-after />
@@ -5499,10 +5499,10 @@
     </verse>
     <verse osisID="Ps.80.20">
       <text text="יְ֘הֹוָ֤ה אֱלֹהִ֣ים צְבָא֣וֹת הֲשִׁיבֵ֑נוּ הָאֵ֥ר פָּ֝נֶ֗יךָ וְנִוָּשֵֽׁעָה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.81">
     <verse osisID="Ps.81.1">
       <spi-pe2-after />
@@ -5561,10 +5561,10 @@
     </verse>
     <verse osisID="Ps.81.17">
       <text text="וַֽ֭יַּאֲכִילֵהוּ מֵחֵ֣לֶב חִטָּ֑ה וּ֝מִצּ֗וּר דְּבַ֣שׁ אַשְׂבִּיעֶֽךָ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.82">
     <verse osisID="Ps.82.1">
       <spi-pe2-after />
@@ -5592,10 +5592,10 @@
     </verse>
     <verse osisID="Ps.82.8">
       <text text="קוּמָ֣ה אֱ֭לֹהִים שׇׁפְטָ֣ה הָאָ֑רֶץ כִּֽי־אַתָּ֥ה תִ֝נְחַ֗ל בְּכׇל־הַגּוֹיִֽם׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.83">
     <verse osisID="Ps.83.1">
       <spi-pe2-after />
@@ -5654,10 +5654,10 @@
     </verse>
     <verse osisID="Ps.83.19">
       <text text="וְֽיֵדְע֗וּ כִּֽי־אַתָּ֬ה שִׁמְךָ֣ יְהֹוָ֣ה לְבַדֶּ֑ךָ עֶ֝לְי֗וֹן עַל־כׇּל־הָאָֽרֶץ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.84">
     <verse osisID="Ps.84.1">
       <spi-pe2-after />
@@ -5710,10 +5710,10 @@
     </verse>
     <verse osisID="Ps.84.13">
       <text text="יְהֹוָ֥ה צְבָא֑וֹת אַֽשְׁרֵ֥י אָ֝דָ֗ם בֹּטֵ֥חַ בָּֽךְ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.85">
     <verse osisID="Ps.85.1">
       <spi-pe2-after />
@@ -5773,10 +5773,10 @@
     </verse>
     <verse osisID="Ps.85.14">
       <text text="צֶ֭דֶק לְפָנָ֣יו יְהַלֵּ֑ךְ וְיָשֵׂ֖ם לְדֶ֣רֶךְ פְּעָמָֽיו׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.86">
     <verse osisID="Ps.86.1">
       <spi-pe2-after />
@@ -5841,10 +5841,10 @@
     </verse>
     <verse osisID="Ps.86.17">
       <text text="עֲשֵֽׂה־עִמִּ֥י א֗וֹת לְט֫וֹבָ֥ה וְיִרְא֣וּ שֹׂנְאַ֣י וְיֵבֹ֑שׁוּ כִּֽי־אַתָּ֥ה יְ֝הֹוָ֗ה עֲזַרְתַּ֥נִי וְנִחַמְתָּֽנִי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.87">
     <verse osisID="Ps.87.1">
       <spi-pe2-after />
@@ -5871,10 +5871,10 @@
     </verse>
     <verse osisID="Ps.87.7">
       <text text="וְשָׁרִ֥ים כְּחֹלְלִ֑ים כׇּֽל־מַעְיָנַ֥י בָּֽךְ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.88">
     <verse osisID="Ps.88.1">
       <spi-pe2-after />
@@ -5943,10 +5943,10 @@
     </verse>
     <verse osisID="Ps.88.19">
       <text text="הִרְחַ֣קְתָּ מִ֭מֶּנִּי אֹהֵ֣ב וָרֵ֑עַ מְֽיֻדָּעַ֥י מַחְשָֽׁךְ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.89">
     <verse osisID="Ps.89.1">
       <spi-pe2-after />
@@ -6205,10 +6205,10 @@
       <text text="וִיהִ֤י" />
       <lp-legarmeih />
       <text text=" נֹ֤עַם אֲדֹנָ֥י אֱלֹהֵ֗ינוּ עָ֫לֵ֥ינוּ וּמַעֲשֵׂ֣ה יָ֭דֵינוּ כּוֹנְנָ֥ה עָלֵ֑ינוּ וּֽמַעֲשֵׂ֥ה יָ֝דֵ֗ינוּ כּוֹנְנֵֽהוּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.91">
     <verse osisID="Ps.91.1">
       <spi-pe2-after />
@@ -6264,10 +6264,10 @@
     </verse>
     <verse osisID="Ps.91.16">
       <text text="אֹ֣רֶךְ יָ֭מִים אַשְׂבִּיעֵ֑הוּ וְ֝אַרְאֵ֗הוּ בִּישׁוּעָתִֽי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.92">
     <verse osisID="Ps.92.1">
       <spi-pe2-after />
@@ -6329,10 +6329,10 @@
         </kq-k>
       </kq>
       <text text=" בּֽוֹ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.93">
     <verse osisID="Ps.93.1">
       <spi-pe2-after />
@@ -6355,10 +6355,10 @@
       <text text="עֵֽדֹתֶ֨יךָ" />
       <lp-legarmeih />
       <text text=" נֶאֶמְנ֬וּ מְאֹ֗ד לְבֵיתְךָ֥ נַאֲוָה־קֹ֑דֶשׁ יְ֝הֹוָ֗ה לְאֹ֣רֶךְ יָמִֽים׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.94">
     <verse osisID="Ps.94.1">
       <spi-pe2-after />
@@ -6439,10 +6439,10 @@
       <text text="וַיָּ֤שֶׁב עֲלֵיהֶ֨ם" />
       <lp-legarmeih />
       <text text=" אֶת־אוֹנָ֗ם וּבְרָעָתָ֥ם יַצְמִיתֵ֑ם יַ֝צְמִיתֵ֗ם יְהֹוָ֥ה אֱלֹהֵֽינוּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.95">
     <verse osisID="Ps.95.1">
       <spi-pe2-after />
@@ -6479,10 +6479,10 @@
     </verse>
     <verse osisID="Ps.95.11">
       <text text="אֲשֶׁר־נִשְׁבַּ֥עְתִּי בְאַפִּ֑י אִם־יְ֝בֹא֗וּן אֶל־מְנוּחָתִֽי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.96">
     <verse osisID="Ps.96.1">
       <spi-pe2-after />
@@ -6529,10 +6529,10 @@
       <text text="לִפְנֵ֤י יְהֹוָ֨ה" />
       <lp-legarmeih />
       <text text=" כִּ֬י בָ֗א כִּ֥י בָא֮ לִשְׁפֹּ֢ט הָ֫אָ֥רֶץ יִשְׁפֹּֽט־תֵּבֵ֥ל בְּצֶ֑דֶק וְ֝עַמִּ֗ים בֶּאֱמוּנָתֽוֹ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.97">
     <verse osisID="Ps.97.1">
       <spi-pe2-after />
@@ -6576,10 +6576,10 @@
     </verse>
     <verse osisID="Ps.97.12">
       <text text="שִׂמְח֣וּ צַ֭דִּיקִים בַּיהֹוָ֑ה וְ֝הוֹד֗וּ לְזֵ֣כֶר קׇדְשֽׁוֹ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.98">
     <verse osisID="Ps.98.1">
       <spi-pe2-after />
@@ -6614,10 +6614,10 @@
     </verse>
     <verse osisID="Ps.98.9">
       <text text="לִ֥פְֽנֵי יְהֹוָ֗ה כִּ֥י בָא֮ לִשְׁפֹּ֢ט הָ֫אָ֥רֶץ יִשְׁפֹּֽט־תֵּבֵ֥ל בְּצֶ֑דֶק וְ֝עַמִּ֗ים בְּמֵישָׁרִֽים׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.99">
     <verse osisID="Ps.99.1">
       <spi-pe2-after />
@@ -6650,10 +6650,10 @@
     </verse>
     <verse osisID="Ps.99.9">
       <text text="רוֹמְמ֡וּ יְ֘הֹוָ֤ה אֱלֹהֵ֗ינוּ וְֽ֭הִשְׁתַּחֲווּ לְהַ֣ר קׇדְשׁ֑וֹ כִּי־קָ֝ד֗וֹשׁ יְהֹוָ֥ה אֱלֹהֵֽינוּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.100">
     <verse osisID="Ps.100.1">
       <spi-pe2-after />
@@ -6682,10 +6682,10 @@
     </verse>
     <verse osisID="Ps.100.5">
       <text text="כִּי־ט֣וֹב יְ֭הֹוָה לְעוֹלָ֣ם חַסְדּ֑וֹ וְעַד־דֹּ֥ר וָ֝דֹ֗ר אֱמוּנָתֽוֹ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.101">
     <verse osisID="Ps.101.1">
       <spi-pe2-after />
@@ -6730,10 +6730,10 @@
     </verse>
     <verse osisID="Ps.101.8">
       <text text="לַבְּקָרִ֗ים אַצְמִ֥ית כׇּל־רִשְׁעֵי־אָ֑רֶץ לְהַכְרִ֥ית מֵעִיר־יְ֝הֹוָ֗ה כׇּל־פֹּ֥עֲלֵי אָֽוֶן׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.102">
     <verse osisID="Ps.102.1">
       <spi-pe2-after />
@@ -6840,10 +6840,10 @@
     </verse>
     <verse osisID="Ps.102.29">
       <text text="בְּנֵֽי־עֲבָדֶ֥יךָ יִשְׁכּ֑וֹנוּ וְ֝זַרְעָ֗ם לְפָנֶ֥יךָ יִכּֽוֹן׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.103">
     <verse osisID="Ps.103.1">
       <spi-pe2-after />
@@ -6917,10 +6917,10 @@
       <text text="בָּרְכ֤וּ יְהֹוָ֨ה" />
       <lp-legarmeih />
       <text text=" כׇּֽל־מַעֲשָׂ֗יו בְּכׇל־מְקֹמ֥וֹת מֶמְשַׁלְתּ֑וֹ בָּרְכִ֥י נַ֝פְשִׁ֗י אֶת־יְהֹוָֽה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.104">
     <verse osisID="Ps.104.1">
       <spi-pe2-after />
@@ -7041,10 +7041,10 @@
       <text text=" מִן־הָאָ֡רֶץ וּרְשָׁעִ֤ים" />
       <lp-legarmeih />
       <text text=" ע֤וֹד אֵינָ֗ם בָּרְכִ֣י נַ֭פְשִׁי אֶת־יְהֹוָ֗ה הַֽלְלוּ־יָֽהּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.105">
     <verse osisID="Ps.105.1">
       <spi-pe2-after />
@@ -7205,10 +7205,10 @@
       <text text="בַּעֲב֤וּר" />
       <lp-legarmeih />
       <text text=" יִשְׁמְר֣וּ חֻ֭קָּיו וְתוֹרֹתָ֥יו יִנְצֹ֗רוּ הַֽלְלוּ־יָֽהּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.106">
     <verse osisID="Ps.106.1">
       <spi-pe2-after />
@@ -7508,10 +7508,10 @@
     </verse>
     <verse osisID="Ps.107.43">
       <text text="מִי־חָכָ֥ם וְיִשְׁמׇר־אֵ֑לֶּה וְ֝יִתְבּוֹנְנ֗וּ חַֽסְדֵ֥י יְהֹוָֽה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.108">
     <verse osisID="Ps.108.1">
       <spi-pe2-after />
@@ -7563,10 +7563,10 @@
     </verse>
     <verse osisID="Ps.108.14">
       <text text="בֵּאלֹהִ֥ים נַעֲשֶׂה־חָ֑יִל וְ֝ה֗וּא יָב֥וּס צָרֵֽינוּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.109">
     <verse osisID="Ps.109.1">
       <spi-pe2-after />
@@ -7671,10 +7671,10 @@
     </verse>
     <verse osisID="Ps.109.31">
       <text text="כִּֽי־יַ֭עֲמֹד לִימִ֣ין אֶבְי֑וֹן לְ֝הוֹשִׁ֗יעַ מִשֹּׁפְטֵ֥י נַפְשֽׁוֹ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.110">
     <verse osisID="Ps.110.1">
       <spi-pe2-after />
@@ -7701,10 +7701,10 @@
     </verse>
     <verse osisID="Ps.110.7">
       <text text="מִ֭נַּחַל בַּדֶּ֣רֶךְ יִשְׁתֶּ֑ה עַל־כֵּ֝֗ן יָרִ֥ים רֹֽאשׁ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.111">
     <verse osisID="Ps.111.1">
       <spi-pe2-after />
@@ -7744,10 +7744,10 @@
       <text text="רֵ֘אשִׁ֤ית חׇכְמָ֨ה" />
       <lp-legarmeih />
       <text text=" יִרְאַ֬ת יְהֹוָ֗ה שֵׂ֣כֶל ט֭וֹב לְכׇל־עֹֽשֵׂיהֶ֑ם תְּ֝הִלָּת֗וֹ עֹמֶ֥דֶת לָעַֽד׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.112">
     <verse osisID="Ps.112.1">
       <spi-pe2-after />
@@ -7787,10 +7787,10 @@
       <text text="רָ֘שָׁ֤ע יִרְאֶ֨ה" />
       <lp-legarmeih />
       <text text=" וְכָעָ֗ס שִׁנָּ֣יו יַחֲרֹ֣ק וְנָמָ֑ס תַּאֲוַ֖ת רְשָׁעִ֣ים תֹּאבֵֽד׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.113">
     <verse osisID="Ps.113.1">
       <spi-pe2-after />
@@ -7827,10 +7827,10 @@
       <text text="מֽוֹשִׁיבִ֨י" />
       <lp-legarmeih />
       <text text=" עֲקֶ֬רֶת הַבַּ֗יִת אֵֽם־הַבָּנִ֥ים שְׂמֵחָ֗ה הַֽלְלוּ־יָֽהּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.114">
     <verse osisID="Ps.114.1">
       <spi-pe2-after />
@@ -7916,10 +7916,10 @@
       <text text="וַאֲנַ֤חְנוּ" />
       <lp-legarmeih />
       <text text=" נְבָ֘רֵ֤ךְ יָ֗הּ מֵעַתָּ֥ה וְעַד־עוֹלָ֗ם הַֽלְלוּ־יָֽהּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.116">
     <verse osisID="Ps.116.1">
       <spi-pe2-after />
@@ -7984,10 +7984,10 @@
       <text text="בְּחַצְר֤וֹת" />
       <lp-legarmeih />
       <text text=" בֵּ֤ית יְהֹוָ֗ה בְּֽת֘וֹכֵ֤כִי יְֽרוּשָׁלָ֗͏ִם הַֽלְלוּ־יָֽהּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.117">
     <verse osisID="Ps.117.1">
       <spi-pe2-after />
@@ -7997,10 +7997,10 @@
       <text text="כִּ֥י גָ֘בַ֤ר עָלֵ֨ינוּ" />
       <lp-legarmeih />
       <text text=" חַסְדּ֗וֹ וֶאֱמֶת־יְהֹוָ֥ה לְעוֹלָ֗ם הַֽלְלוּ־יָֽהּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.118">
     <verse osisID="Ps.118.1">
       <spi-pe2-after />
@@ -8093,10 +8093,10 @@
     </verse>
     <verse osisID="Ps.118.29">
       <text text="הוֹד֣וּ לַיהֹוָ֣ה כִּי־ט֑וֹב כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.119">
     <verse osisID="Ps.119.1">
       <spi-pe2-after />
@@ -8122,9 +8122,9 @@
     </verse>
     <verse osisID="Ps.119.8">
       <text text="אֶת־חֻקֶּ֥יךָ אֶשְׁמֹ֑ר אַֽל־תַּעַזְבֵ֥נִי עַד־מְאֹֽד׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Ps.119.9">
       <spi-pe2-after />
       <text text="בַּמֶּ֣ה יְזַכֶּה־נַּ֭עַר אֶת־אׇרְח֑וֹ לִ֝שְׁמֹ֗ר כִּדְבָרֶֽךָ׃" />
@@ -8149,9 +8149,9 @@
     </verse>
     <verse osisID="Ps.119.16">
       <text text="בְּחֻקֹּתֶ֥יךָ אֶֽשְׁתַּעֲשָׁ֑ע לֹ֖א אֶשְׁכַּ֣ח דְּבָרֶֽךָ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Ps.119.17">
       <spi-pe2-after />
       <text text="גְּמֹ֖ל עַל־עַבְדְּךָ֥ אֶחְיֶ֗ה וְאֶשְׁמְרָ֥ה דְבָרֶֽךָ׃" />
@@ -8176,9 +8176,9 @@
     </verse>
     <verse osisID="Ps.119.24">
       <text text="גַּֽם־עֵ֭דֹתֶיךָ שַׁעֲשֻׁעָ֗י אַנְשֵׁ֥י עֲצָתִֽי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Ps.119.25">
       <spi-pe2-after />
       <text text="דָּבְקָ֣ה לֶעָפָ֣ר נַפְשִׁ֑י חַ֝יֵּ֗נִי כִּדְבָרֶֽךָ׃" />
@@ -8203,9 +8203,9 @@
     </verse>
     <verse osisID="Ps.119.32">
       <text text="דֶּֽרֶךְ־מִצְוֺתֶ֥יךָ אָר֑וּץ כִּ֖י תַרְחִ֣יב לִבִּֽי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Ps.119.33">
       <spi-pe2-after />
       <text text="הוֹרֵ֣נִי יְ֭הֹוָה דֶּ֥רֶךְ חֻקֶּ֗יךָ וְאֶצְּרֶ֥נָּה עֵֽקֶב׃" />
@@ -8230,9 +8230,9 @@
     </verse>
     <verse osisID="Ps.119.40">
       <text text="הִ֭נֵּה תָּאַ֣בְתִּי לְפִקֻּדֶ֑יךָ בְּצִדְקָתְךָ֥ חַיֵּֽנִי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Ps.119.41">
       <spi-pe2-after />
       <text text="וִיבֹאֻ֣נִי חֲסָדֶ֣ךָ יְהֹוָ֑ה תְּ֝שׁ֥וּעָתְךָ֗ כְּאִמְרָתֶֽךָ׃" />
@@ -8257,9 +8257,9 @@
     </verse>
     <verse osisID="Ps.119.48">
       <text text="וְאֶשָּֽׂא־כַפַּ֗י אֶֽל־מִ֭צְוֺתֶיךָ אֲשֶׁ֥ר אָהָ֗בְתִּי וְאָשִׂ֥יחָה בְחֻקֶּֽיךָ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Ps.119.49">
       <spi-pe2-after />
       <text text="זְכֹר־דָּבָ֥ר לְעַבְדֶּ֑ךָ עַ֝֗ל אֲשֶׁ֣ר יִֽחַלְתָּֽנִי׃" />
@@ -8286,9 +8286,9 @@
     </verse>
     <verse osisID="Ps.119.56">
       <text text="זֹ֥את הָיְתָה־לִּ֑י כִּ֖י פִקֻּדֶ֣יךָ נָצָֽרְתִּי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Ps.119.57">
       <spi-pe2-after />
       <text text="חֶלְקִ֖י יְהֹוָ֥ה אָמַ֗רְתִּי לִשְׁמֹ֥ר דְּבָרֶֽיךָ׃" />
@@ -8313,9 +8313,9 @@
     </verse>
     <verse osisID="Ps.119.64">
       <text text="חַסְדְּךָ֣ יְ֭הֹוָה מָלְאָ֥ה הָאָ֗רֶץ חֻקֶּ֥יךָ לַמְּדֵֽנִי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Ps.119.65">
       <spi-pe2-after />
       <text text="ט֭וֹב עָשִׂ֣יתָ עִֽם־עַבְדְּךָ֑ יְ֝הֹוָ֗ה כִּדְבָרֶֽךָ׃" />
@@ -8342,9 +8342,9 @@
     </verse>
     <verse osisID="Ps.119.72">
       <text text="טֽוֹב־לִ֥י תוֹרַת־פִּ֑יךָ מֵ֝אַלְפֵ֗י זָהָ֥ב וָכָֽסֶף׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Ps.119.73">
       <spi-pe2-after />
       <text text="יָדֶ֣יךָ עָ֭שׂוּנִי וַֽיְכוֹנְנ֑וּנִי הֲ֝בִינֵ֗נִי וְאֶלְמְדָ֥ה מִצְוֺתֶֽיךָ׃" />
@@ -8379,9 +8379,9 @@
     </verse>
     <verse osisID="Ps.119.80">
       <text text="יְהִי־לִבִּ֣י תָמִ֣ים בְּחֻקֶּ֑יךָ לְ֝מַ֗עַן לֹ֣א אֵבֽוֹשׁ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Ps.119.81">
       <spi-pe2-after />
       <text text="כָּלְתָ֣ה לִתְשׁוּעָתְךָ֣ נַפְשִׁ֑י לִדְבָרְךָ֥ יִחָֽלְתִּי׃" />
@@ -8406,9 +8406,9 @@
     </verse>
     <verse osisID="Ps.119.88">
       <text text="כְּחַסְדְּךָ֥ חַיֵּ֑נִי וְ֝אֶשְׁמְרָ֗ה עֵד֥וּת פִּֽיךָ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Ps.119.89">
       <spi-pe2-after />
       <text text="לְעוֹלָ֥ם יְהֹוָ֑ה דְּ֝בָרְךָ֗ נִצָּ֥ב בַּשָּׁמָֽיִם׃" />
@@ -8433,9 +8433,9 @@
     </verse>
     <verse osisID="Ps.119.96">
       <text text="לְֽכׇל־תִּ֭כְלָה רָאִ֣יתִי קֵ֑ץ רְחָבָ֖ה מִצְוָתְךָ֣ מְאֹֽד׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Ps.119.97">
       <spi-pe2-after />
       <text text="מָה־אָהַ֥בְתִּי תוֹרָתֶ֑ךָ כׇּל־הַ֝יּ֗וֹם הִ֣יא שִׂיחָתִֽי׃" />
@@ -8462,9 +8462,9 @@
       <text text="מִפִּקּוּדֶ֥יךָ אֶתְבּוֹנָ֑ן עַל־כֵּ֝֗ן שָׂנֵ֤אתִי" />
       <lp-legarmeih />
       <text text=" כׇּל־אֹ֬רַח שָֽׁקֶר׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Ps.119.105">
       <spi-pe2-after />
       <text text="נֵר־לְרַגְלִ֥י דְבָרֶ֑ךָ וְ֝א֗וֹר לִנְתִיבָתִֽי׃" />
@@ -8489,9 +8489,9 @@
     </verse>
     <verse osisID="Ps.119.112">
       <text text="נָטִ֣יתִי לִ֭בִּי לַעֲשׂ֥וֹת חֻקֶּ֗יךָ לְעוֹלָ֥ם עֵֽקֶב׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Ps.119.113">
       <spi-pe2-after />
       <text text="סֵעֲפִ֥ים שָׂנֵ֑אתִי וְֽתוֹרָתְךָ֥ אָהָֽבְתִּי׃" />
@@ -8516,9 +8516,9 @@
     </verse>
     <verse osisID="Ps.119.120">
       <text text="סָמַ֣ר מִפַּחְדְּךָ֣ בְשָׂרִ֑י וּֽמִמִּשְׁפָּטֶ֥יךָ יָרֵֽאתִי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Ps.119.121">
       <spi-pe2-after />
       <text text="עָ֭שִׂיתִי מִשְׁפָּ֣ט וָצֶ֑דֶק בַּל־תַּ֝נִּיחֵ֗נִי לְעֹשְׁקָֽי׃" />
@@ -8545,9 +8545,9 @@
       <text text="עַל־כֵּ֤ן" />
       <lp-legarmeih />
       <text text=" כׇּל־פִּקּ֣וּדֵי כֹ֣ל יִשָּׁ֑רְתִּי כׇּל־אֹ֖רַח שֶׁ֣קֶר שָׂנֵֽאתִי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Ps.119.129">
       <spi-pe2-after />
       <text text="פְּלָא֥וֹת עֵדְוֺתֶ֑יךָ עַל־כֵּ֝֗ן נְצָרָ֥תַם נַפְשִֽׁי׃" />
@@ -8572,9 +8572,9 @@
     </verse>
     <verse osisID="Ps.119.136">
       <text text="פַּלְגֵי־מַ֭יִם יָרְד֣וּ עֵינָ֑י עַ֝֗ל לֹא־שָׁמְר֥וּ תֽוֹרָתֶֽךָ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Ps.119.137">
       <spi-pe2-after />
       <text text="צַדִּ֣יק אַתָּ֣ה יְהֹוָ֑ה וְ֝יָשָׁ֗ר מִשְׁפָּטֶֽיךָ׃" />
@@ -8599,9 +8599,9 @@
     </verse>
     <verse osisID="Ps.119.144">
       <text text="צֶ֖דֶק עֵדְוֺתֶ֥יךָ לְעוֹלָ֗ם הֲבִינֵ֥נִי וְאֶחְיֶֽה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Ps.119.145">
       <spi-pe2-after />
       <text text="קָרָ֣אתִי בְכׇל־לֵ֭ב עֲנֵ֥נִי יְהֹוָ֗ה חֻקֶּ֥יךָ אֶצֹּֽרָה׃" />
@@ -8636,9 +8636,9 @@
     </verse>
     <verse osisID="Ps.119.152">
       <text text="קֶ֣דֶם יָ֭דַעְתִּי מֵעֵדֹתֶ֑יךָ כִּ֖י לְעוֹלָ֣ם יְסַדְתָּֽם׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Ps.119.153">
       <spi-pe2-after />
       <text text="רְאֵה־עׇנְיִ֥י וְחַלְּצֵ֑נִי כִּי־ת֥֝וֹרָתְךָ֗ לֹ֣א שָׁכָֽחְתִּי׃" />
@@ -8665,9 +8665,9 @@
     </verse>
     <verse osisID="Ps.119.160">
       <text text="רֹאשׁ־דְּבָרְךָ֥ אֱמֶ֑ת וּ֝לְעוֹלָ֗ם כׇּל־מִשְׁפַּ֥ט צִדְקֶֽךָ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Ps.119.161">
       <spi-pe2-after />
       <text text="שָׂ֭רִים רְדָפ֣וּנִי חִנָּ֑ם " />
@@ -8702,9 +8702,9 @@
     </verse>
     <verse osisID="Ps.119.168">
       <text text="שָׁמַ֣רְתִּי פִ֭קּוּדֶיךָ וְעֵדֹתֶ֑יךָ כִּ֖י כׇל־דְּרָכַ֣י נֶגְדֶּֽךָ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Ps.119.169">
       <spi-pe2-after />
       <text text="תִּקְרַ֤ב רִנָּתִ֣י לְפָנֶ֣יךָ יְהֹוָ֑ה כִּדְבָרְךָ֥ הֲבִינֵֽנִי׃" />
@@ -8729,10 +8729,10 @@
     </verse>
     <verse osisID="Ps.119.176">
       <text text="תָּעִ֗יתִי כְּשֶׂ֣ה אֹ֭בֵד בַּקֵּ֣שׁ עַבְדֶּ֑ךָ כִּ֥י מִ֝צְוֺתֶ֗יךָ לֹ֣א שָׁכָֽחְתִּי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.120">
     <verse osisID="Ps.120.1">
       <spi-pe2-after />
@@ -8755,10 +8755,10 @@
     </verse>
     <verse osisID="Ps.120.7">
       <text text="אֲֽנִי־שָׁ֭לוֹם וְכִ֣י אֲדַבֵּ֑ר הֵ֝֗מָּה לַמִּלְחָמָֽה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.121">
     <verse osisID="Ps.121.1">
       <spi-pe2-after />
@@ -8784,10 +8784,10 @@
     </verse>
     <verse osisID="Ps.121.8">
       <text text="יְֽהֹוָ֗ה יִשְׁמׇר־צֵאתְךָ֥ וּבוֹאֶ֑ךָ מֵ֝עַתָּ֗ה וְעַד־עוֹלָֽם׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.122">
     <verse osisID="Ps.122.1">
       <spi-pe2-after />
@@ -8818,10 +8818,10 @@
     </verse>
     <verse osisID="Ps.122.9">
       <text text="לְ֭מַעַן בֵּית־יְהֹוָ֣ה אֱלֹהֵ֑ינוּ אֲבַקְשָׁ֖ה ט֣וֹב לָֽךְ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.123">
     <verse osisID="Ps.123.1">
       <spi-pe2-after />
@@ -8845,10 +8845,10 @@
         </kq-q>
       </kq>
       <text text="׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.124">
     <verse osisID="Ps.124.1">
       <spi-pe2-after />
@@ -8874,10 +8874,10 @@
     </verse>
     <verse osisID="Ps.124.8">
       <text text="עֶ֭זְרֵנוּ בְּשֵׁ֣ם יְהֹוָ֑ה עֹ֝שֵׂ֗ה שָׁמַ֥יִם וָאָֽרֶץ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.125">
     <verse osisID="Ps.125.1">
       <spi-pe2-after />
@@ -8894,10 +8894,10 @@
     </verse>
     <verse osisID="Ps.125.5">
       <text text="וְהַמַּטִּ֤ים עֲֽקַלְקַלּוֹתָ֗ם יוֹלִיכֵ֣ם יְ֭הֹוָה אֶת־פֹּעֲלֵ֣י הָאָ֑וֶן שָׁ֝ל֗וֹם עַל־יִשְׂרָאֵֽל׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.126">
     <verse osisID="Ps.126.1">
       <spi-pe2-after />
@@ -8929,10 +8929,10 @@
       <text text="הָ֘ל֤וֹךְ יֵלֵ֨ךְ" />
       <lp-legarmeih />
       <text text=" וּבָכֹה֮ נֹשֵׂ֢א מֶשֶׁךְ־הַ֫זָּ֥רַע בֹּא־יָבֹ֥א בְרִנָּ֑ה נֹ֝שֵׂ֗א אֲלֻמֹּתָֽיו׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.127">
     <verse osisID="Ps.127.1">
       <spi-pe2-after />
@@ -8953,10 +8953,10 @@
     </verse>
     <verse osisID="Ps.127.5">
       <text text="אַשְׁרֵ֤י הַגֶּ֗בֶר אֲשֶׁ֤ר מִלֵּ֥א אֶת־אַשְׁפָּת֗וֹ מֵ֫הֶ֥ם לֹֽא־יֵבֹ֑שׁוּ כִּֽי־יְדַבְּר֖וּ אֶת־אוֹיְבִ֣ים בַּשָּֽׁעַר׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.128">
     <verse osisID="Ps.128.1">
       <spi-pe2-after />
@@ -8978,10 +8978,10 @@
     </verse>
     <verse osisID="Ps.128.6">
       <text text="וּרְאֵֽה־בָנִ֥ים לְבָנֶ֑יךָ שָׁ֝ל֗וֹם עַל־יִשְׂרָאֵֽל׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.129">
     <verse osisID="Ps.129.1">
       <spi-pe2-after />
@@ -9019,10 +9019,10 @@
       <text text="וְלֹ֤א אָמְר֨וּ" />
       <lp-legarmeih />
       <text text=" הָעֹבְרִ֗ים בִּרְכַּֽת־יְהֹוָ֥ה אֲלֵיכֶ֑ם בֵּרַ֥כְנוּ אֶ֝תְכֶ֗ם בְּשֵׁ֣ם יְהֹוָֽה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.130">
     <verse osisID="Ps.130.1">
       <spi-pe2-after />
@@ -9048,10 +9048,10 @@
     </verse>
     <verse osisID="Ps.130.8">
       <text text="וְ֭הוּא יִפְדֶּ֣ה אֶת־יִשְׂרָאֵ֑ל מִ֝כֹּ֗ל עֲוֺנֹתָֽיו׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.131">
     <verse osisID="Ps.131.1">
       <spi-pe2-after />
@@ -9068,10 +9068,10 @@
     </verse>
     <verse osisID="Ps.131.3">
       <text text="יַחֵ֣ל יִ֭שְׂרָאֵל אֶל־יְהֹוָ֑ה מֵ֝עַתָּ֗ה וְעַד־עוֹלָֽם׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.132">
     <verse osisID="Ps.132.1">
       <spi-pe2-after />
@@ -9131,10 +9131,10 @@
     </verse>
     <verse osisID="Ps.132.18">
       <text text="א֭וֹיְבָיו אַלְבִּ֣ישׁ בֹּ֑שֶׁת וְ֝עָלָ֗יו יָצִ֥יץ נִזְרֽוֹ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.133">
     <verse osisID="Ps.133.1">
       <spi-pe2-after />
@@ -9149,10 +9149,10 @@
       <text text="כְּטַל־חֶרְמ֗וֹן שֶׁיֹּרֵד֮ עַל־הַרְרֵ֢י צִ֫יּ֥וֹן כִּ֤י שָׁ֨ם" />
       <lp-legarmeih />
       <text text=" צִוָּ֣ה יְ֭הֹוָה אֶת־הַבְּרָכָ֑ה חַ֝יִּ֗ים עַד־הָעוֹלָֽם׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.134">
     <verse osisID="Ps.134.1">
       <spi-pe2-after />
@@ -9165,10 +9165,10 @@
     </verse>
     <verse osisID="Ps.134.3">
       <text text="יְבָרֶכְךָ֣ יְ֭הֹוָה מִצִּיּ֑וֹן עֹ֝שֵׂ֗ה שָׁמַ֥יִם וָאָֽרֶץ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.135">
     <verse osisID="Ps.135.1">
       <spi-pe2-after />
@@ -9243,10 +9243,10 @@
       <text text="בָּ֘ר֤וּךְ יְהֹוָ֨ה" />
       <lp-legarmeih />
       <text text=" מִצִּיּ֗וֹן שֹׁ֘כֵ֤ן יְֽרוּשָׁלָ֗͏ִם הַֽלְלוּ־יָֽהּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.136">
     <verse osisID="Ps.136.1">
       <spi-pe2-after />
@@ -9326,10 +9326,10 @@
     </verse>
     <verse osisID="Ps.136.26">
       <text text="ה֭וֹדוּ לְאֵ֣ל הַשָּׁמָ֑יִם כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.137">
     <verse osisID="Ps.137.1">
       <spi-pe2-after />
@@ -9368,10 +9368,10 @@
       <text text="אַשְׁרֵ֤י" />
       <lp-legarmeih />
       <text text=" שֶׁיֹּאחֵ֓ז וְנִפֵּ֬ץ אֶֽת־עֹלָלַ֗יִךְ אֶל־הַסָּֽלַע׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.138">
     <verse osisID="Ps.138.1">
       <spi-pe2-after />
@@ -9401,10 +9401,10 @@
     </verse>
     <verse osisID="Ps.138.8">
       <text text="יְהֹוָה֮ יִגְמֹ֢ר בַּ֫עֲדִ֥י יְ֭הֹוָה חַסְדְּךָ֣ לְעוֹלָ֑ם מַעֲשֵׂ֖י יָדֶ֣יךָ אַל־תֶּֽרֶף׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.139">
     <verse osisID="Ps.139.1">
       <spi-pe2-after />
@@ -9503,10 +9503,10 @@
     </verse>
     <verse osisID="Ps.139.24">
       <text text="וּרְאֵ֗ה אִם־דֶּֽרֶךְ־עֹ֥צֶב בִּ֑י וּ֝נְחֵ֗נִי בְּדֶ֣רֶךְ עוֹלָֽם׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.140">
     <verse osisID="Ps.140.1">
       <spi-pe2-after />
@@ -9582,10 +9582,10 @@
     </verse>
     <verse osisID="Ps.140.14">
       <text text="אַ֣ךְ צַ֭דִּיקִים יוֹד֣וּ לִשְׁמֶ֑ךָ יֵשְׁב֥וּ יְ֝שָׁרִ֗ים אֶת־פָּנֶֽיךָ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.141">
     <verse osisID="Ps.141.1">
       <spi-pe2-after />
@@ -9625,10 +9625,10 @@
     </verse>
     <verse osisID="Ps.141.10">
       <text text="יִפְּל֣וּ בְמַכְמֹרָ֣יו רְשָׁעִ֑ים יַ֥חַד אָ֝נֹכִ֗י עַֽד־אֶעֱבֽוֹר׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.142">
     <verse osisID="Ps.142.1">
       <spi-pe2-after />
@@ -9662,10 +9662,10 @@
       <text text="ה֘וֹצִ֤יאָה מִמַּסְגֵּ֨ר" />
       <lp-legarmeih />
       <text text=" נַפְשִׁי֮ לְהוֹד֢וֹת אֶת־שְׁ֫מֶ֥ךָ בִּ֭י יַכְתִּ֣רוּ צַדִּיקִ֑ים כִּ֖י תִגְמֹ֣ל עָלָֽי׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.143">
     <verse osisID="Ps.143.1">
       <spi-pe2-after />
@@ -9721,10 +9721,10 @@
     </verse>
     <verse osisID="Ps.143.12">
       <text text="וּֽבְחַסְדְּךָ֮ תַּצְמִ֢ית אֹ֫יְבָ֥י וְֽ֭הַאֲבַדְתָּ כׇּל־צֹרְרֵ֣י נַפְשִׁ֑י כִּ֝֗י אֲנִ֣י עַבְדֶּֽךָ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.144">
     <verse osisID="Ps.144.1">
       <spi-pe2-after />
@@ -9781,10 +9781,10 @@
     </verse>
     <verse osisID="Ps.144.15">
       <text text="אַשְׁרֵ֣י הָ֭עָם שֶׁכָּ֣כָה לּ֑וֹ אַֽשְׁרֵ֥י הָ֝עָ֗ם שֱׁיְהֹוָ֥ה אֱלֹהָֽיו׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.145">
     <verse osisID="Ps.145.1">
       <spi-pe2-after />
@@ -9863,10 +9863,10 @@
       <text text="תְּהִלַּ֥ת יְהֹוָ֗ה יְֽדַבֶּ֫ר" />
       <implicit-maqaf />
       <text text="פִּ֥י וִיבָרֵ֣ךְ כׇּל־בָּ֭שָׂר שֵׁ֥ם קׇדְשׁ֗וֹ לְעוֹלָ֥ם וָעֶֽד׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.146">
     <verse osisID="Ps.146.1">
       <spi-pe2-after />
@@ -9910,10 +9910,10 @@
       <text text="יִמְלֹ֤ךְ יְהֹוָ֨ה" />
       <lp-legarmeih />
       <text text=" לְעוֹלָ֗ם אֱלֹהַ֣יִךְ צִ֭יּוֹן לְדֹ֥ר וָדֹ֗ר הַֽלְלוּ־יָֽהּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.147">
     <verse osisID="Ps.147.1">
       <spi-pe2-after />
@@ -9987,10 +9987,10 @@
       <text text="לֹ֘א עָ֤שָׂה כֵ֨ן" />
       <lp-legarmeih />
       <text text=" לְכׇל־גּ֗וֹי וּמִשְׁפָּטִ֥ים בַּל־יְדָע֗וּם הַֽלְלוּ־יָֽהּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.148">
     <verse osisID="Ps.148.1">
       <spi-pe2-after />
@@ -10048,10 +10048,10 @@
       <text text="וַיָּ֤רֶם קֶ֨רֶן" />
       <lp-legarmeih />
       <text text=" לְעַמּ֡וֹ תְּהִלָּ֤ה לְֽכׇל־חֲסִידָ֗יו לִבְנֵ֣י יִ֭שְׂרָאֵל עַ֥ם קְרֹב֗וֹ הַֽלְלוּ־יָֽהּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.149">
     <verse osisID="Ps.149.1">
       <spi-pe2-after />
@@ -10086,10 +10086,10 @@
       <text text="לַעֲשׂ֤וֹת בָּהֶ֨ם" />
       <lp-legarmeih />
       <text text=" מִשְׁפָּ֬ט כָּת֗וּב הָדָ֣ר ה֭וּא לְכׇל־חֲסִידָ֗יו הַֽלְלוּ־יָֽהּ׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2-mid />
+  <spi-pe2 />
   <chapter osisID="Ps.150">
     <verse osisID="Ps.150.1">
       <spi-pe2-after />

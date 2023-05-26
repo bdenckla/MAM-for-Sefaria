@@ -34,9 +34,9 @@
     </verse>
     <verse osisID="Eccl.1.11">
       <text text="אֵ֥ין זִכְר֖וֹן לָרִאשֹׁנִ֑ים וְגַ֨ם לָאַחֲרֹנִ֜ים שֶׁיִּהְי֗וּ לֹֽא־יִהְיֶ֤ה לָהֶם֙ זִכָּר֔וֹן עִ֥ם שֶׁיִּהְי֖וּ לָאַחֲרֹנָֽה׃" />
-      <spi-pe2 />
+      <spi-pe2-before />
     </verse>
-    <spi-pe2-mid />
+    <spi-pe2 />
     <verse osisID="Eccl.1.12">
       <spi-pe2-after />
       <text text="אֲנִ֣י קֹהֶ֗לֶת הָיִ֥יתִי מֶ֛לֶךְ עַל־יִשְׂרָאֵ֖ל בִּירוּשָׁלָֽ͏ִם׃" />
@@ -147,9 +147,9 @@
   <chapter osisID="Eccl.3">
     <verse osisID="Eccl.3.1">
       <text text="לַכֹּ֖ל זְמָ֑ן וְעֵ֥ת לְכׇל־חֵ֖פֶץ תַּ֥חַת הַשָּׁמָֽיִם׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Eccl.3.2">
       <spi-samekh2-after />
       <text text="עֵ֥ת לָלֶ֖דֶת" />
@@ -219,9 +219,9 @@
       <text text="עֵ֥ת מִלְחָמָ֖ה" />
       <shirah-space />
       <text text="וְעֵ֥ת שָׁלֽוֹם׃" />
-      <spi-samekh2 />
+      <spi-samekh2-before />
     </verse>
-    <spi-samekh2-mid />
+    <spi-samekh2 />
     <verse osisID="Eccl.3.9">
       <spi-samekh2-after />
       <text text="מַה־יִּתְרוֹן֙ הָֽעוֹשֶׂ֔ה בַּאֲשֶׁ֖ר ה֥וּא עָמֵֽל׃" />
