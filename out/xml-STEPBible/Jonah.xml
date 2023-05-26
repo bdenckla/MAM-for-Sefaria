@@ -85,6 +85,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Jonah.2.11">
+      <spi-pe2-after />
       <text text="וַיֹּ֥אמֶר יְהֹוָ֖ה לַדָּ֑ג וַיָּקֵ֥א אֶת־יוֹנָ֖ה אֶל־הַיַּבָּשָֽׁה׃" />
       <spi-samekh2 />
     </verse>
@@ -92,6 +93,7 @@
   <spi-samekh2-mid />
   <chapter osisID="Jonah.3">
     <verse osisID="Jonah.3.1">
+      <spi-samekh2-after />
       <text text="וַיְהִ֧י דְבַר־יְהֹוָ֛ה אֶל־יוֹנָ֖ה שֵׁנִ֥ית לֵאמֹֽר׃" />
     </verse>
     <verse osisID="Jonah.3.2">
@@ -135,6 +137,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Jonah.4.4">
+      <spi-pe2-after />
       <text text="וַיֹּ֣אמֶר יְהֹוָ֔ה הַהֵיטֵ֖ב חָ֥רָה לָֽךְ׃" />
     </verse>
     <verse osisID="Jonah.4.5">

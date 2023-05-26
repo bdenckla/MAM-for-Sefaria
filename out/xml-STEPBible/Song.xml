@@ -18,6 +18,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Song.1.5">
+      <spi-pe2-after />
       <text text="שְׁחוֹרָ֤ה אֲנִי֙ וְֽנָאוָ֔ה בְּנ֖וֹת יְרוּשָׁלָ֑͏ִם כְּאׇהֳלֵ֣י קֵדָ֔ר כִּירִיע֖וֹת שְׁלֹמֹֽה׃" />
     </verse>
     <verse osisID="Song.1.6">
@@ -32,6 +33,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Song.1.9">
+      <spi-pe2-after />
       <text text="לְסֻֽסָתִי֙ בְּרִכְבֵ֣י פַרְעֹ֔ה דִּמִּיתִ֖יךְ רַעְיָתִֽי׃" />
     </verse>
     <verse osisID="Song.1.10">
@@ -56,6 +58,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Song.1.15">
+      <spi-samekh2-after />
       <text text="הִנָּ֤ךְ יָפָה֙ רַעְיָתִ֔י הִנָּ֥ךְ יָפָ֖ה עֵינַ֥יִךְ יוֹנִֽים׃" />
     </verse>
     <verse osisID="Song.1.16">
@@ -102,6 +105,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Song.2.8">
+      <spi-samekh2-after />
       <text text="ק֣וֹל דּוֹדִ֔י הִנֵּה־זֶ֖ה בָּ֑א מְדַלֵּג֙ עַל־הֶ֣הָרִ֔ים מְקַפֵּ֖ץ עַל־הַגְּבָעֽוֹת׃" />
     </verse>
     <verse osisID="Song.2.9">
@@ -134,11 +138,13 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Song.2.14">
+      <spi-samekh2-after />
       <text text="יוֹנָתִ֞י בְּחַגְוֵ֣י הַסֶּ֗לַע בְּסֵ֙תֶר֙ הַמַּדְרֵגָ֔ה הַרְאִ֙ינִי֙ אֶת־מַרְאַ֔יִךְ הַשְׁמִיעִ֖נִי אֶת־קוֹלֵ֑ךְ כִּי־קוֹלֵ֥ךְ עָרֵ֖ב וּמַרְאֵ֥יךְ נָאוֶֽה׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Song.2.15">
+      <spi-samekh2-after />
       <text text="אֶֽחֱזוּ־לָ֙נוּ֙ שֻֽׁעָלִ֔ים שֻׁעָלִ֥ים קְטַנִּ֖ים מְחַבְּלִ֣ים כְּרָמִ֑ים וּכְרָמֵ֖ינוּ סְמָדַֽר׃" />
     </verse>
     <verse osisID="Song.2.16">
@@ -152,6 +158,7 @@
   <spi-samekh2-mid />
   <chapter osisID="Song.3">
     <verse osisID="Song.3.1">
+      <spi-samekh2-after />
       <text text="עַל־מִשְׁכָּבִי֙ בַּלֵּיל֔וֹת בִּקַּ֕שְׁתִּי אֵ֥ת שֶֽׁאָהֲבָ֖ה נַפְשִׁ֑י בִּקַּשְׁתִּ֖יו וְלֹ֥א מְצָאתִֽיו׃" />
     </verse>
     <verse osisID="Song.3.2">
@@ -171,6 +178,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Song.3.6">
+      <spi-samekh2-after />
       <text text="מִ֣י זֹ֗את עֹלָה֙ מִן־הַמִּדְבָּ֔ר כְּתִֽימְר֖וֹת עָשָׁ֑ן מְקֻטֶּ֤רֶת מֹר֙ וּלְבוֹנָ֔ה מִכֹּ֖ל אַבְקַ֥ת רוֹכֵֽל׃" />
     </verse>
     <verse osisID="Song.3.7">
@@ -182,6 +190,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Song.3.9">
+      <spi-samekh2-after />
       <text text="אַפִּרְי֗וֹן עָ֤שָׂה לוֹ֙ הַמֶּ֣לֶךְ שְׁלֹמֹ֔ה מֵעֲצֵ֖י הַלְּבָנֽוֹן׃" />
     </verse>
     <verse osisID="Song.3.10">
@@ -197,6 +206,7 @@
   <spi-samekh2-mid />
   <chapter osisID="Song.4">
     <verse osisID="Song.4.1">
+      <spi-samekh2-after />
       <text text="הִנָּ֨ךְ יָפָ֤ה רַעְיָתִי֙ הִנָּ֣ךְ יָפָ֔ה עֵינַ֣יִךְ יוֹנִ֔ים מִבַּ֖עַד לְצַמָּתֵ֑ךְ שַׂעְרֵךְ֙ כְּעֵ֣דֶר הָֽעִזִּ֔ים שֶׁגָּלְשׁ֖וּ מֵהַ֥ר גִּלְעָֽד׃" />
     </verse>
     <verse osisID="Song.4.2">
@@ -220,6 +230,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Song.4.8">
+      <spi-samekh2-after />
       <text text="אִתִּ֤י מִלְּבָנוֹן֙ כַּלָּ֔ה אִתִּ֖י מִלְּבָנ֣וֹן תָּב֑וֹאִי תָּשׁ֣וּרִי" />
       <lp-legarmeih />
       <text text=" מֵרֹ֣אשׁ אֲמָנָ֗ה מֵרֹ֤אשׁ שְׂנִיר֙ וְחֶרְמ֔וֹן מִמְּעֹנ֣וֹת אֲרָי֔וֹת מֵֽהַרְרֵ֖י נְמֵרִֽים׃" />
@@ -270,6 +281,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Song.5.2">
+      <spi-samekh2-after />
       <text text="אֲנִ֥י יְשֵׁנָ֖ה וְלִבִּ֣י עֵ֑ר ק֣וֹל" />
       <lp-legarmeih />
       <text text=" דּוֹדִ֣י דוֹפֵ֗ק פִּתְחִי־לִ֞י אֲחֹתִ֤י רַעְיָתִי֙ יוֹנָתִ֣י תַמָּתִ֔י שֶׁרֹּאשִׁי֙ נִמְלָא־טָ֔ל קְוֻצּוֹתַ֖י רְסִ֥יסֵי לָֽיְלָה׃" />
@@ -330,6 +342,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Song.6.4">
+      <spi-samekh2-after />
       <text text="יָפָ֨ה אַ֤תְּ רַעְיָתִי֙ כְּתִרְצָ֔ה נָאוָ֖ה כִּירוּשָׁלָ֑͏ִם אֲיֻמָּ֖ה כַּנִּדְגָּלֽוֹת׃" />
     </verse>
     <verse osisID="Song.6.5">
@@ -350,11 +363,13 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Song.6.10">
+      <spi-samekh2-after />
       <text text="מִי־זֹ֥את הַנִּשְׁקָפָ֖ה כְּמוֹ־שָׁ֑חַר יָפָ֣ה כַלְּבָנָ֗ה בָּרָה֙ כַּֽחַמָּ֔ה אֲיֻמָּ֖ה כַּנִּדְגָּלֽוֹת׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Song.6.11">
+      <spi-samekh2-after />
       <text text="אֶל־גִּנַּ֤ת אֱגוֹז֙ יָרַ֔דְתִּי לִרְא֖וֹת בְּאִבֵּ֣י הַנָּ֑חַל לִרְאוֹת֙ הֲפָֽרְחָ֣ה הַגֶּ֔פֶן הֵנֵ֖צוּ הָרִמֹּנִֽים׃" />
     </verse>
     <verse osisID="Song.6.12">
@@ -398,6 +413,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Song.7.12">
+      <spi-samekh2-after />
       <text text="לְכָ֤ה דוֹדִי֙ נֵצֵ֣א הַשָּׂדֶ֔ה נָלִ֖ינָה בַּכְּפָרִֽים׃" />
     </verse>
     <verse osisID="Song.7.13">
@@ -425,6 +441,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Song.8.5">
+      <spi-samekh2-after />
       <text text="מִ֣י זֹ֗את עֹלָה֙ מִן־הַמִּדְבָּ֔ר מִתְרַפֶּ֖קֶת עַל־דּוֹדָ֑הּ תַּ֤חַת הַתַּפּ֙וּחַ֙ עֽוֹרַרְתִּ֔יךָ שָׁ֚מָּה חִבְּלַ֣תְךָ אִמֶּ֔ךָ שָׁ֖מָּה חִבְּלָ֥ה יְלָדַֽתְךָ׃" />
     </verse>
     <verse osisID="Song.8.6">
@@ -436,6 +453,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Song.8.8">
+      <spi-samekh2-after />
       <text text="אָח֥וֹת לָ֙נוּ֙ קְטַנָּ֔ה וְשָׁדַ֖יִם אֵ֣ין לָ֑הּ מַֽה־נַּעֲשֶׂה֙ לַאֲחֹתֵ֔נוּ בַּיּ֖וֹם שֶׁיְּדֻבַּר־בָּֽהּ׃" />
     </verse>
     <verse osisID="Song.8.9">
@@ -447,6 +465,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Song.8.11">
+      <spi-pe2-after />
       <text text="כֶּ֣רֶם הָיָ֤ה לִשְׁלֹמֹה֙ בְּבַ֣עַל הָמ֔וֹן נָתַ֥ן אֶת־הַכֶּ֖רֶם לַנֹּטְרִ֑ים אִ֛ישׁ יָבִ֥א בְּפִרְי֖וֹ אֶ֥לֶף כָּֽסֶף׃" />
     </verse>
     <verse osisID="Song.8.12">

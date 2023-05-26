@@ -24,6 +24,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.1.8">
+      <spi-pe2-after />
       <text text="וַיָּ֥קׇם מֶֽלֶךְ־חָדָ֖שׁ עַל־מִצְרָ֑יִם אֲשֶׁ֥ר לֹֽא־יָדַ֖ע אֶת־יוֹסֵֽף׃" />
     </verse>
     <verse osisID="Exod.1.9">
@@ -73,6 +74,7 @@
   <spi-pe2-mid />
   <chapter osisID="Exod.2">
     <verse osisID="Exod.2.1">
+      <spi-pe2-after />
       <text text="וַיֵּ֥לֶךְ אִ֖ישׁ מִבֵּ֣ית לֵוִ֑י וַיִּקַּ֖ח אֶת־בַּת־לֵוִֽי׃" />
     </verse>
     <verse osisID="Exod.2.2">
@@ -143,6 +145,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.2.23">
+      <spi-pe2-after />
       <text text="וַיְהִי֩ בַיָּמִ֨ים הָֽרַבִּ֜ים הָהֵ֗ם וַיָּ֙מׇת֙ מֶ֣לֶךְ מִצְרַ֔יִם וַיֵּאָנְח֧וּ בְנֵֽי־יִשְׂרָאֵ֛ל מִן־הָעֲבֹדָ֖ה וַיִּזְעָ֑קוּ וַתַּ֧עַל שַׁוְעָתָ֛ם אֶל־הָאֱלֹהִ֖ים מִן־הָעֲבֹדָֽה׃" />
     </verse>
     <verse osisID="Exod.2.24">
@@ -156,6 +159,7 @@
   <spi-samekh2-mid />
   <chapter osisID="Exod.3">
     <verse osisID="Exod.3.1">
+      <spi-samekh2-after />
       <text text="וּמֹשֶׁ֗ה הָיָ֥ה רֹעֶ֛ה אֶת־צֹ֛אן יִתְר֥וֹ חֹתְנ֖וֹ כֹּהֵ֣ן מִדְיָ֑ן וַיִּנְהַ֤ג אֶת־הַצֹּאן֙ אַחַ֣ר הַמִּדְבָּ֔ר וַיָּבֹ֛א אֶל־הַ֥ר הָאֱלֹהִ֖ים חֹרֵֽבָה׃" />
     </verse>
     <verse osisID="Exod.3.2">
@@ -289,6 +293,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.4.18">
+      <spi-pe2-after />
       <text text="וַיֵּ֨לֶךְ מֹשֶׁ֜ה וַיָּ֣שׇׁב" />
       <lp-legarmeih />
       <text text=" אֶל־יֶ֣תֶר חֹֽתְנ֗וֹ וַיֹּ֤אמֶר לוֹ֙ אֵ֣לְכָה נָּ֗א וְאָשׁ֙וּבָה֙ אֶל־אַחַ֣י אֲשֶׁר־בְּמִצְרַ֔יִם וְאֶרְאֶ֖ה הַעוֹדָ֣ם חַיִּ֑ים וַיֹּ֧אמֶר יִתְר֛וֹ לְמֹשֶׁ֖ה לֵ֥ךְ לְשָׁלֽוֹם׃" />
@@ -320,6 +325,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.4.27">
+      <spi-pe2-after />
       <text text="וַיֹּ֤אמֶר יְהֹוָה֙ אֶֽל־אַהֲרֹ֔ן לֵ֛ךְ לִקְרַ֥את מֹשֶׁ֖ה הַמִּדְבָּ֑רָה וַיֵּ֗לֶךְ וַֽיִּפְגְּשֵׁ֛הוּ בְּהַ֥ר הָאֱלֹהִ֖ים וַיִּשַּׁק־לֽוֹ׃" />
     </verse>
     <verse osisID="Exod.4.28">
@@ -413,6 +419,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.6.2">
+      <spi-samekh2-after />
       <text text="וַיְדַבֵּ֥ר אֱלֹהִ֖ים אֶל־מֹשֶׁ֑ה וַיֹּ֥אמֶר אֵלָ֖יו אֲנִ֥י יְהֹוָֽה׃" />
     </verse>
     <verse osisID="Exod.6.3">
@@ -441,6 +448,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.6.10">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Exod.6.11">
@@ -452,11 +460,13 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.6.13">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֣ר יְהֹוָה֮ אֶל־מֹשֶׁ֣ה וְאֶֽל־אַהֲרֹן֒ וַיְצַוֵּם֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאֶל־פַּרְעֹ֖ה מֶ֣לֶךְ מִצְרָ֑יִם לְהוֹצִ֥יא אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל מֵאֶ֥רֶץ מִצְרָֽיִם׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.6.14">
+      <spi-samekh2-after />
       <text text="אֵ֖לֶּה רָאשֵׁ֣י בֵית־אֲבֹתָ֑ם בְּנֵ֨י רְאוּבֵ֜ן בְּכֹ֣ר יִשְׂרָאֵ֗ל חֲנ֤וֹךְ וּפַלּוּא֙ חֶצְרֹ֣ן וְכַרְמִ֔י אֵ֖לֶּה מִשְׁפְּחֹ֥ת רְאוּבֵֽן׃" />
     </verse>
     <verse osisID="Exod.6.15">
@@ -504,6 +514,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.6.29">
+      <spi-samekh2-after />
       <text text="וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֥ה לֵּאמֹ֖ר אֲנִ֣י יְהֹוָ֑ה דַּבֵּ֗ר אֶל־פַּרְעֹה֙ מֶ֣לֶךְ מִצְרַ֔יִם אֵ֛ת כׇּל־אֲשֶׁ֥ר אֲנִ֖י דֹּבֵ֥ר אֵלֶֽיךָ׃" />
     </verse>
     <verse osisID="Exod.6.30">
@@ -514,6 +525,7 @@
   <spi-pe2-mid />
   <chapter osisID="Exod.7">
     <verse osisID="Exod.7.1">
+      <spi-pe2-after />
       <text text="וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה רְאֵ֛ה נְתַתִּ֥יךָ אֱלֹהִ֖ים לְפַרְעֹ֑ה וְאַהֲרֹ֥ן אָחִ֖יךָ יִהְיֶ֥ה נְבִיאֶֽךָ׃" />
     </verse>
     <verse osisID="Exod.7.2">
@@ -537,6 +549,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.7.8">
+      <spi-pe2-after />
       <text text="וַיֹּ֣אמֶר יְהֹוָ֔ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃" />
     </verse>
     <verse osisID="Exod.7.9">
@@ -557,6 +570,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.7.14">
+      <spi-samekh2-after />
       <text text="וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה כָּבֵ֖ד לֵ֣ב פַּרְעֹ֑ה מֵאֵ֖ן לְשַׁלַּ֥ח הָעָֽם׃" />
     </verse>
     <verse osisID="Exod.7.15">
@@ -576,6 +590,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.7.19">
+      <spi-samekh2-after />
       <text text="וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה אֱמֹ֣ר אֶֽל־אַהֲרֹ֡ן קַ֣ח מַטְּךָ֣ וּנְטֵֽה־יָדְךָ֩ עַל־מֵימֵ֨י מִצְרַ֜יִם עַֽל־נַהֲרֹתָ֣ם" />
       <lp-legarmeih />
       <text text=" עַל־יְאֹרֵיהֶ֣ם וְעַל־אַגְמֵיהֶ֗ם וְעַ֛ל כׇּל־מִקְוֵ֥ה מֵימֵיהֶ֖ם וְיִֽהְיוּ־דָ֑ם וְהָ֤יָה דָם֙ בְּכׇל־אֶ֣רֶץ מִצְרַ֔יִם וּבָעֵצִ֖ים וּבָאֲבָנִֽים׃" />
@@ -603,6 +618,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.7.26">
+      <spi-pe2-after />
       <text text="וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה בֹּ֖א אֶל־פַּרְעֹ֑ה וְאָמַרְתָּ֣ אֵלָ֗יו כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה שַׁלַּ֥ח אֶת־עַמִּ֖י וְיַֽעַבְדֻֽנִי׃" />
     </verse>
     <verse osisID="Exod.7.27">
@@ -654,6 +670,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.8.12">
+      <spi-samekh2-after />
       <text text="וַיֹּ֣אמֶר יְהֹוָה֮ אֶל־מֹשֶׁה֒ אֱמֹר֙ אֶֽל־אַהֲרֹ֔ן נְטֵ֣ה אֶֽת־מַטְּךָ֔ וְהַ֖ךְ אֶת־עֲפַ֣ר הָאָ֑רֶץ וְהָיָ֥ה לְכִנִּ֖ם בְּכׇל־אֶ֥רֶץ מִצְרָֽיִם׃" />
     </verse>
     <verse osisID="Exod.8.13">
@@ -668,6 +685,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.8.16">
+      <spi-samekh2-after />
       <text text="וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה הַשְׁכֵּ֤ם בַּבֹּ֙קֶר֙ וְהִתְיַצֵּב֙ לִפְנֵ֣י פַרְעֹ֔ה הִנֵּ֖ה יוֹצֵ֣א הַמָּ֑יְמָה וְאָמַרְתָּ֣ אֵלָ֗יו כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה שַׁלַּ֥ח עַמִּ֖י וְיַֽעַבְדֻֽנִי׃" />
     </verse>
     <verse osisID="Exod.8.17">
@@ -711,6 +729,7 @@
   <spi-pe2-mid />
   <chapter osisID="Exod.9">
     <verse osisID="Exod.9.1">
+      <spi-pe2-after />
       <text text="וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה בֹּ֖א אֶל־פַּרְעֹ֑ה וְדִבַּרְתָּ֣ אֵלָ֗יו כֹּֽה־אָמַ֤ר יְהֹוָה֙ אֱלֹהֵ֣י הָֽעִבְרִ֔ים שַׁלַּ֥ח אֶת־עַמִּ֖י וְיַֽעַבְדֻֽנִי׃" />
     </verse>
     <verse osisID="Exod.9.2">
@@ -734,6 +753,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.9.8">
+      <spi-pe2-after />
       <text text="וַיֹּ֣אמֶר יְהֹוָה֮ אֶל־מֹשֶׁ֣ה וְאֶֽל־אַהֲרֹן֒ קְח֤וּ לָכֶם֙ מְלֹ֣א חׇפְנֵיכֶ֔ם פִּ֖יחַ כִּבְשָׁ֑ן וּזְרָק֥וֹ מֹשֶׁ֛ה הַשָּׁמַ֖יְמָה לְעֵינֵ֥י פַרְעֹֽה׃" />
     </verse>
     <verse osisID="Exod.9.9">
@@ -751,6 +771,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.9.13">
+      <spi-samekh2-after />
       <text text="וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה הַשְׁכֵּ֣ם בַּבֹּ֔קֶר וְהִתְיַצֵּ֖ב לִפְנֵ֣י פַרְעֹ֑ה וְאָמַרְתָּ֣ אֵלָ֗יו כֹּֽה־אָמַ֤ר יְהֹוָה֙ אֱלֹהֵ֣י הָֽעִבְרִ֔ים שַׁלַּ֥ח אֶת־עַמִּ֖י וְיַֽעַבְדֻֽנִי׃" />
     </verse>
     <verse osisID="Exod.9.14">
@@ -782,6 +803,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.9.22">
+      <spi-pe2-after />
       <text text="וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה נְטֵ֤ה אֶת־יָֽדְךָ֙ עַל־הַשָּׁמַ֔יִם וִיהִ֥י בָרָ֖ד בְּכׇל־אֶ֣רֶץ מִצְרָ֑יִם עַל־הָאָדָ֣ם וְעַל־הַבְּהֵמָ֗ה וְעַ֛ל כׇּל־עֵ֥שֶׂב הַשָּׂדֶ֖ה בְּאֶ֥רֶץ מִצְרָֽיִם׃" />
     </verse>
     <verse osisID="Exod.9.23">
@@ -828,6 +850,7 @@
   <spi-pe2-mid />
   <chapter osisID="Exod.10">
     <verse osisID="Exod.10.1">
+      <spi-pe2-after />
       <text text="וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה בֹּ֖א אֶל־פַּרְעֹ֑ה כִּֽי־אֲנִ֞י הִכְבַּ֤דְתִּי אֶת־לִבּוֹ֙ וְאֶת־לֵ֣ב עֲבָדָ֔יו לְמַ֗עַן שִׁתִ֛י אֹתֹתַ֥י אֵ֖לֶּה בְּקִרְבּֽוֹ׃" />
     </verse>
     <verse osisID="Exod.10.2">
@@ -865,6 +888,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.10.12">
+      <spi-samekh2-after />
       <text text="וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה נְטֵ֨ה יָדְךָ֜ עַל־אֶ֤רֶץ מִצְרַ֙יִם֙ בָּֽאַרְבֶּ֔ה וְיַ֖עַל עַל־אֶ֣רֶץ מִצְרָ֑יִם וְיֹאכַל֙ אֶת־כׇּל־עֵ֣שֶׂב הָאָ֔רֶץ אֵ֛ת כׇּל־אֲשֶׁ֥ר הִשְׁאִ֖יר הַבָּרָֽד׃" />
     </verse>
     <verse osisID="Exod.10.13">
@@ -894,6 +918,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.10.21">
+      <spi-pe2-after />
       <text text="וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה נְטֵ֤ה יָֽדְךָ֙ עַל־הַשָּׁמַ֔יִם וִ֥יהִי חֹ֖שֶׁךְ עַל־אֶ֣רֶץ מִצְרָ֑יִם וְיָמֵ֖שׁ חֹֽשֶׁךְ׃" />
     </verse>
     <verse osisID="Exod.10.22">
@@ -925,6 +950,7 @@
   <spi-pe2-mid />
   <chapter osisID="Exod.11">
     <verse osisID="Exod.11.1">
+      <spi-pe2-after />
       <text text="וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה ע֣וֹד נֶ֤גַע אֶחָד֙ אָבִ֤יא עַל־פַּרְעֹה֙ וְעַל־מִצְרַ֔יִם אַֽחֲרֵי־כֵ֕ן יְשַׁלַּ֥ח אֶתְכֶ֖ם מִזֶּ֑ה כְּשַׁ֨לְּח֔וֹ כָּלָ֕ה גָּרֵ֛שׁ יְגָרֵ֥שׁ אֶתְכֶ֖ם מִזֶּֽה׃" />
     </verse>
     <verse osisID="Exod.11.2">
@@ -940,6 +966,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.11.4">
+      <spi-samekh2-after />
       <text text="וַיֹּ֣אמֶר מֹשֶׁ֔ה כֹּ֖ה אָמַ֣ר יְהֹוָ֑ה כַּחֲצֹ֣ת הַלַּ֔יְלָה אֲנִ֥י יוֹצֵ֖א בְּת֥וֹךְ מִצְרָֽיִם׃" />
     </verse>
     <verse osisID="Exod.11.5">
@@ -959,6 +986,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.11.9">
+      <spi-samekh2-after />
       <text text="וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה לֹא־יִשְׁמַ֥ע אֲלֵיכֶ֖ם פַּרְעֹ֑ה לְמַ֛עַן רְב֥וֹת מוֹפְתַ֖י בְּאֶ֥רֶץ מִצְרָֽיִם׃" />
     </verse>
     <verse osisID="Exod.11.10">
@@ -969,6 +997,7 @@
   <spi-samekh2-mid />
   <chapter osisID="Exod.12">
     <verse osisID="Exod.12.1">
+      <spi-samekh2-after />
       <text text="וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֣ה וְאֶֽל־אַהֲרֹ֔ן בְּאֶ֥רֶץ מִצְרַ֖יִם לֵאמֹֽר׃" />
     </verse>
     <verse osisID="Exod.12.2">
@@ -1035,6 +1064,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.12.21">
+      <spi-pe2-after />
       <text text="וַיִּקְרָ֥א מֹשֶׁ֛ה לְכׇל־זִקְנֵ֥י יִשְׂרָאֵ֖ל וַיֹּ֣אמֶר אֲלֵהֶ֑ם מִֽשְׁכ֗וּ וּקְח֨וּ לָכֶ֥ם צֹ֛אן לְמִשְׁפְּחֹתֵיכֶ֖ם וְשַׁחֲט֥וּ הַפָּֽסַח׃" />
     </verse>
     <verse osisID="Exod.12.22">
@@ -1061,6 +1091,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.12.29">
+      <spi-samekh2-after />
       <text text="וַיְהִ֣י" />
       <lp-legarmeih />
       <text text=" בַּחֲצִ֣י הַלַּ֗יְלָה וַֽיהֹוָה֮ הִכָּ֣ה כׇל־בְּכוֹר֮ בְּאֶ֣רֶץ מִצְרַ֒יִם֒ מִבְּכֹ֤ר פַּרְעֹה֙ הַיֹּשֵׁ֣ב עַל־כִּסְא֔וֹ עַ֚ד בְּכ֣וֹר הַשְּׁבִ֔י אֲשֶׁ֖ר בְּבֵ֣ית הַבּ֑וֹר וְכֹ֖ל בְּכ֥וֹר בְּהֵמָֽה׃" />
@@ -1089,6 +1120,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.12.37">
+      <spi-pe2-after />
       <text text="וַיִּסְע֧וּ בְנֵֽי־יִשְׂרָאֵ֛ל מֵרַעְמְסֵ֖ס סֻכֹּ֑תָה כְּשֵׁשׁ־מֵא֨וֹת אֶ֧לֶף רַגְלִ֛י הַגְּבָרִ֖ים לְבַ֥ד מִטָּֽף׃" />
     </verse>
     <verse osisID="Exod.12.38">
@@ -1109,6 +1141,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.12.43">
+      <spi-pe2-after />
       <text text="וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֣ה וְאַהֲרֹ֔ן זֹ֖את חֻקַּ֣ת הַפָּ֑סַח כׇּל־בֶּן־נֵכָ֖ר לֹא־יֹ֥אכַל בּֽוֹ׃" />
     </verse>
     <verse osisID="Exod.12.44">
@@ -1135,6 +1168,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.12.51">
+      <spi-samekh2-after />
       <text text="וַיְהִ֕י בְּעֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה הוֹצִ֨יא יְהֹוָ֜ה אֶת־בְּנֵ֧י יִשְׂרָאֵ֛ל מֵאֶ֥רֶץ מִצְרַ֖יִם עַל־צִבְאֹתָֽם׃" />
       <spi-pe2 />
     </verse>
@@ -1142,6 +1176,7 @@
   <spi-pe2-mid />
   <chapter osisID="Exod.13">
     <verse osisID="Exod.13.1">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Exod.13.2">
@@ -1174,6 +1209,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.13.11">
+      <spi-pe2-after />
       <text text="וְהָיָ֞ה כִּֽי־יְבִאֲךָ֤ יְהֹוָה֙ אֶל־אֶ֣רֶץ הַֽכְּנַעֲנִ֔י כַּאֲשֶׁ֛ר נִשְׁבַּ֥ע לְךָ֖ וְלַֽאֲבֹתֶ֑יךָ וּנְתָנָ֖הּ לָֽךְ׃" />
     </verse>
     <verse osisID="Exod.13.12">
@@ -1196,6 +1232,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.13.17">
+      <spi-samekh2-after />
       <text text="וַיְהִ֗י בְּשַׁלַּ֣ח פַּרְעֹה֮ אֶת־הָעָם֒ וְלֹא־נָחָ֣ם אֱלֹהִ֗ים דֶּ֚רֶךְ אֶ֣רֶץ פְּלִשְׁתִּ֔ים כִּ֥י קָר֖וֹב ה֑וּא כִּ֣י" />
       <lp-legarmeih />
       <text text=" אָמַ֣ר אֱלֹהִ֗ים פֶּֽן־יִנָּחֵ֥ם הָעָ֛ם בִּרְאֹתָ֥ם מִלְחָמָ֖ה וְשָׁ֥בוּ מִצְרָֽיְמָה׃" />
@@ -1222,6 +1259,7 @@
   <spi-pe2-mid />
   <chapter osisID="Exod.14">
     <verse osisID="Exod.14.1">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Exod.14.2">
@@ -1268,6 +1306,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.14.15">
+      <spi-pe2-after />
       <text text="וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה מַה־תִּצְעַ֖ק אֵלָ֑י דַּבֵּ֥ר אֶל־בְּנֵי־יִשְׂרָאֵ֖ל וְיִסָּֽעוּ׃" />
     </verse>
     <verse osisID="Exod.14.16">
@@ -1307,6 +1346,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.14.26">
+      <spi-pe2-after />
       <text text="וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה נְטֵ֥ה אֶת־יָדְךָ֖ עַל־הַיָּ֑ם וְיָשֻׁ֤בוּ הַמַּ֙יִם֙ עַל־מִצְרַ֔יִם עַל־רִכְבּ֖וֹ וְעַל־פָּרָשָֽׁיו׃" />
     </verse>
     <verse osisID="Exod.14.27">
@@ -1329,6 +1369,7 @@
   <spi-pe2-mid />
   <chapter osisID="Exod.15">
     <verse osisID="Exod.15.1">
+      <spi-pe2-after />
       <text text="אָ֣ז יָשִֽׁיר־מֹשֶׁה֩ וּבְנֵ֨י יִשְׂרָאֵ֜ל אֶת־הַשִּׁירָ֤ה הַזֹּאת֙ לַֽיהֹוָ֔ה וַיֹּאמְר֖וּ לֵאמֹ֑ר" />
       <shirah-space />
       <text text="אָשִׁ֤ירָה לַֽיהֹוָה֙ כִּֽי־גָאֹ֣ה גָּאָ֔ה" />
@@ -1458,6 +1499,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.15.20">
+      <spi-pe2-after />
       <text text="וַתִּקַּח֩ מִרְיָ֨ם הַנְּבִיאָ֜ה אֲח֧וֹת אַהֲרֹ֛ן אֶת־הַתֹּ֖ף בְּיָדָ֑הּ וַתֵּצֶ֤אןָ כׇֽל־הַנָּשִׁים֙ אַחֲרֶ֔יהָ בְּתֻפִּ֖ים וּבִמְחֹלֹֽת׃" />
     </verse>
     <verse osisID="Exod.15.21">
@@ -1466,6 +1508,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.15.22">
+      <spi-samekh2-after />
       <text text="וַיַּסַּ֨ע מֹשֶׁ֤ה אֶת־יִשְׂרָאֵל֙ מִיַּם־ס֔וּף וַיֵּצְא֖וּ אֶל־מִדְבַּר־שׁ֑וּר וַיֵּלְכ֧וּ שְׁלֹֽשֶׁת־יָמִ֛ים בַּמִּדְבָּ֖ר וְלֹא־מָ֥צְאוּ מָֽיִם׃" />
     </verse>
     <verse osisID="Exod.15.23">
@@ -1485,6 +1528,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.15.27">
+      <spi-samekh2-after />
       <text text="וַיָּבֹ֣אוּ אֵילִ֔מָה וְשָׁ֗ם שְׁתֵּ֥ים עֶשְׂרֵ֛ה עֵינֹ֥ת מַ֖יִם וְשִׁבְעִ֣ים תְּמָרִ֑ים וַיַּחֲנוּ־שָׁ֖ם עַל־הַמָּֽיִם׃" />
     </verse>
   </chapter>
@@ -1510,6 +1554,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.16.4">
+      <spi-samekh2-after />
       <text text="וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה הִנְנִ֨י מַמְטִ֥יר לָכֶ֛ם לֶ֖חֶם מִן־הַשָּׁמָ֑יִם וְיָצָ֨א הָעָ֤ם וְלָֽקְטוּ֙ דְּבַר־י֣וֹם בְּיוֹמ֔וֹ לְמַ֧עַן אֲנַסֶּ֛נּוּ הֲיֵלֵ֥ךְ בְּתוֹרָתִ֖י אִם־לֹֽא׃" />
     </verse>
     <verse osisID="Exod.16.5">
@@ -1545,6 +1590,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.16.11">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Exod.16.12">
@@ -1600,6 +1646,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.16.28">
+      <spi-samekh2-after />
       <text text="וַיֹּ֥אמֶר יְהֹוָ֖ה אֶל־מֹשֶׁ֑ה עַד־אָ֙נָה֙ מֵֽאַנְתֶּ֔ם לִשְׁמֹ֥ר מִצְוֺתַ֖י וְתוֹרֹתָֽי׃" />
     </verse>
     <verse osisID="Exod.16.29">
@@ -1635,6 +1682,7 @@
   <spi-pe2-mid />
   <chapter osisID="Exod.17">
     <verse osisID="Exod.17.1">
+      <spi-pe2-after />
       <text text="וַ֠יִּסְע֠וּ כׇּל־עֲדַ֨ת בְּנֵֽי־יִשְׂרָאֵ֧ל מִמִּדְבַּר־סִ֛ין לְמַסְעֵיהֶ֖ם עַל־פִּ֣י יְהֹוָ֑ה וַֽיַּחֲנוּ֙ בִּרְפִידִ֔ים וְאֵ֥ין מַ֖יִם לִשְׁתֹּ֥ת הָעָֽם׃" />
     </verse>
     <verse osisID="Exod.17.2">
@@ -1662,6 +1710,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.17.8">
+      <spi-pe2-after />
       <text text="וַיָּבֹ֖א עֲמָלֵ֑ק וַיִּלָּ֥חֶם עִם־יִשְׂרָאֵ֖ל בִּרְפִידִֽם׃" />
     </verse>
     <verse osisID="Exod.17.9">
@@ -1682,6 +1731,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.17.14">
+      <spi-pe2-after />
       <text text="וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה כְּתֹ֨ב זֹ֤את זִכָּרוֹן֙ בַּסֵּ֔פֶר וְשִׂ֖ים בְּאׇזְנֵ֣י יְהוֹשֻׁ֑עַ כִּֽי־מָחֹ֤ה אֶמְחֶה֙ אֶת־זֵ֣כֶר עֲמָלֵ֔ק מִתַּ֖חַת הַשָּׁמָֽיִם׃" />
     </verse>
     <verse osisID="Exod.17.15">
@@ -1701,6 +1751,7 @@
   <spi-pe2-mid />
   <chapter osisID="Exod.18">
     <verse osisID="Exod.18.1">
+      <spi-pe2-after />
       <text text="וַיִּשְׁמַ֞ע יִתְר֨וֹ כֹהֵ֤ן מִדְיָן֙ חֹתֵ֣ן מֹשֶׁ֔ה אֵת֩ כׇּל־אֲשֶׁ֨ר עָשָׂ֤ה אֱלֹהִים֙ לְמֹשֶׁ֔ה וּלְיִשְׂרָאֵ֖ל עַמּ֑וֹ כִּֽי־הוֹצִ֧יא יְהֹוָ֛ה אֶת־יִשְׂרָאֵ֖ל מִמִּצְרָֽיִם׃" />
     </verse>
     <verse osisID="Exod.18.2">
@@ -1788,6 +1839,7 @@
   <spi-pe2-mid />
   <chapter osisID="Exod.19">
     <verse osisID="Exod.19.1">
+      <spi-pe2-after />
       <text text="בַּחֹ֙דֶשׁ֙ הַשְּׁלִישִׁ֔י לְצֵ֥את בְּנֵי־יִשְׂרָאֵ֖ל מֵאֶ֣רֶץ מִצְרָ֑יִם בַּיּ֣וֹם הַזֶּ֔ה בָּ֖אוּ מִדְבַּ֥ר סִינָֽי׃" />
     </verse>
     <verse osisID="Exod.19.2">
@@ -1869,11 +1921,13 @@
   <spi-samekh2-mid />
   <chapter osisID="Exod.20">
     <verse osisID="Exod.20.1">
+      <spi-samekh2-after />
       <text text="וַיְדַבֵּ֣ר אֱלֹהִ֔ים אֵ֛ת כׇּל־הַדְּבָרִ֥ים הָאֵ֖לֶּה לֵאמֹֽר׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.20.2">
+      <spi-samekh2-after />
       <text text="אָֽנֹכִ֖י֙ יְהֹוָ֣ה אֱלֹהֶ֑֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣֥ית עֲבָדִ֑͏ֽים׃" />
     </verse>
     <verse osisID="Exod.20.3">
@@ -1897,11 +1951,13 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.20.7">
+      <spi-samekh2-after />
       <text text="לֹ֥א תִשָּׂ֛א אֶת־שֵֽׁם־יְהֹוָ֥ה אֱלֹהֶ֖יךָ לַשָּׁ֑וְא כִּ֣י לֹ֤א יְנַקֶּה֙ יְהֹוָ֔ה אֵ֛ת אֲשֶׁר־יִשָּׂ֥א אֶת־שְׁמ֖וֹ לַשָּֽׁוְא׃" />
       <spi-pe2 />
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.20.8">
+      <spi-pe2-after />
       <text text="זָכ֛וֹר֩ אֶת־י֥֨וֹם הַשַּׁבָּ֖֜ת לְקַדְּשֽׁ֗וֹ׃" />
     </verse>
     <verse osisID="Exod.20.9">
@@ -1920,31 +1976,37 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.20.12">
+      <spi-samekh2-after />
       <text text="כַּבֵּ֥ד אֶת־אָבִ֖יךָ וְאֶת־אִמֶּ֑ךָ לְמַ֙עַן֙ יַאֲרִכ֣וּן יָמֶ֔יךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.20.13">
+      <spi-samekh2-after />
       <text text="לֹ֥֖א תִּֿרְצָ֖͏ֽח׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.20.14">
+      <spi-samekh2-after />
       <text text="לֹ֣֖א תִּֿנְאָ֑͏ֽף׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.20.15">
+      <spi-samekh2-after />
       <text text="לֹ֣֖א תִּֿגְנֹֽ֔ב׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.20.16">
+      <spi-samekh2-after />
       <text text="לֹֽא־תַעֲנֶ֥ה בְרֵעֲךָ֖ עֵ֥ד שָֽׁקֶר׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.20.17">
+      <spi-samekh2-after />
       <text text="לֹ֥א תַחְמֹ֖ד בֵּ֣ית רֵעֶ֑ךָ" />
       <spi-samekh3 />
       <text text="לֹֽא־תַחְמֹ֞ד אֵ֣שֶׁת רֵעֶ֗ךָ וְעַבְדּ֤וֹ וַאֲמָתוֹ֙ וְשׁוֹר֣וֹ וַחֲמֹר֔וֹ וְכֹ֖ל אֲשֶׁ֥ר לְרֵעֶֽךָ׃" />
@@ -1952,6 +2014,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.20.18">
+      <spi-pe2-after />
       <text text="וְכׇל־הָעָם֩ רֹאִ֨ים אֶת־הַקּוֹלֹ֜ת וְאֶת־הַלַּפִּידִ֗ם וְאֵת֙ ק֣וֹל הַשֹּׁפָ֔ר וְאֶת־הָהָ֖ר עָשֵׁ֑ן וַיַּ֤רְא הָעָם֙ וַיָּנֻ֔עוּ וַיַּֽעַמְד֖וּ מֵֽרָחֹֽק׃" />
     </verse>
     <verse osisID="Exod.20.19">
@@ -1966,6 +2029,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.20.22">
+      <spi-samekh2-after />
       <text text="וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה כֹּ֥ה תֹאמַ֖ר אֶל־בְּנֵ֣י יִשְׂרָאֵ֑ל אַתֶּ֣ם רְאִיתֶ֔ם כִּ֚י מִן־הַשָּׁמַ֔יִם דִּבַּ֖רְתִּי עִמָּכֶֽם׃" />
     </verse>
     <verse osisID="Exod.20.23">
@@ -1985,6 +2049,7 @@
   <spi-pe2-mid />
   <chapter osisID="Exod.21">
     <verse osisID="Exod.21.1">
+      <spi-pe2-after />
       <text text="וְאֵ֙לֶּה֙ הַמִּשְׁפָּטִ֔ים אֲשֶׁ֥ר תָּשִׂ֖ים לִפְנֵיהֶֽם׃" />
     </verse>
     <verse osisID="Exod.21.2">
@@ -2005,6 +2070,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.21.7">
+      <spi-samekh2-after />
       <text text="וְכִֽי־יִמְכֹּ֥ר אִ֛ישׁ אֶת־בִּתּ֖וֹ לְאָמָ֑ה לֹ֥א תֵצֵ֖א כְּצֵ֥את הָעֲבָדִֽים׃" />
     </verse>
     <verse osisID="Exod.21.8">
@@ -2032,6 +2098,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.21.12">
+      <spi-samekh2-after />
       <text text="מַכֵּ֥ה אִ֛ישׁ וָמֵ֖ת מ֥וֹת יוּמָֽת׃" />
     </verse>
     <verse osisID="Exod.21.13">
@@ -2040,26 +2107,31 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.21.14">
+      <spi-samekh2-after />
       <text text="וְכִֽי־יָזִ֥ד אִ֛ישׁ עַל־רֵעֵ֖הוּ לְהׇרְג֣וֹ בְעׇרְמָ֑ה מֵעִ֣ם מִזְבְּחִ֔י תִּקָּחֶ֖נּוּ לָמֽוּת׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.21.15">
+      <spi-samekh2-after />
       <text text="וּמַכֵּ֥ה אָבִ֛יו וְאִמּ֖וֹ מ֥וֹת יוּמָֽת׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.21.16">
+      <spi-samekh2-after />
       <text text="וְגֹנֵ֨ב אִ֧ישׁ וּמְכָר֛וֹ וְנִמְצָ֥א בְיָד֖וֹ מ֥וֹת יוּמָֽת׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.21.17">
+      <spi-samekh2-after />
       <text text="וּמְקַלֵּ֥ל אָבִ֛יו וְאִמּ֖וֹ מ֥וֹת יוּמָֽת׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.21.18">
+      <spi-samekh2-after />
       <text text="וְכִֽי־יְרִיבֻ֣ן אֲנָשִׁ֔ים וְהִכָּה־אִישׁ֙ אֶת־רֵעֵ֔הוּ בְּאֶ֖בֶן א֣וֹ בְאֶגְרֹ֑ף וְלֹ֥א יָמ֖וּת וְנָפַ֥ל לְמִשְׁכָּֽב׃" />
     </verse>
     <verse osisID="Exod.21.19">
@@ -2068,6 +2140,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.21.20">
+      <spi-samekh2-after />
       <text text="וְכִֽי־יַכֶּה֩ אִ֨ישׁ אֶת־עַבְדּ֜וֹ א֤וֹ אֶת־אֲמָתוֹ֙ בַּשֵּׁ֔בֶט וּמֵ֖ת תַּ֣חַת יָד֑וֹ נָקֹ֖ם יִנָּקֵֽם׃" />
     </verse>
     <verse osisID="Exod.21.21">
@@ -2076,6 +2149,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.21.22">
+      <spi-samekh2-after />
       <text text="וְכִֽי־יִנָּצ֣וּ אֲנָשִׁ֗ים וְנָ֨גְפ֜וּ אִשָּׁ֤ה הָרָה֙ וְיָצְא֣וּ יְלָדֶ֔יהָ וְלֹ֥א יִהְיֶ֖ה אָס֑וֹן עָנ֣וֹשׁ יֵעָנֵ֗שׁ כַּֽאֲשֶׁ֨ר יָשִׁ֤ית עָלָיו֙ בַּ֣עַל הָֽאִשָּׁ֔ה וְנָתַ֖ן בִּפְלִלִֽים׃" />
     </verse>
     <verse osisID="Exod.21.23">
@@ -2090,6 +2164,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.21.26">
+      <spi-samekh2-after />
       <text text="וְכִֽי־יַכֶּ֨ה אִ֜ישׁ אֶת־עֵ֥ין עַבְדּ֛וֹ אֽוֹ־אֶת־עֵ֥ין אֲמָת֖וֹ וְשִֽׁחֲתָ֑הּ לַֽחׇפְשִׁ֥י יְשַׁלְּחֶ֖נּוּ תַּ֥חַת עֵינֽוֹ׃" />
     </verse>
     <verse osisID="Exod.21.27">
@@ -2098,6 +2173,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.21.28">
+      <spi-pe2-after />
       <text text="וְכִֽי־יִגַּ֨ח שׁ֥וֹר אֶת־אִ֛ישׁ א֥וֹ אֶת־אִשָּׁ֖ה וָמֵ֑ת סָק֨וֹל יִסָּקֵ֜ל הַשּׁ֗וֹר וְלֹ֤א יֵאָכֵל֙ אֶת־בְּשָׂר֔וֹ וּבַ֥עַל הַשּׁ֖וֹר נָקִֽי׃" />
     </verse>
     <verse osisID="Exod.21.29">
@@ -2117,6 +2193,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.21.33">
+      <spi-samekh2-after />
       <text text="וְכִֽי־יִפְתַּ֨ח אִ֜ישׁ בּ֗וֹר א֠וֹ כִּֽי־יִכְרֶ֥ה אִ֛ישׁ בֹּ֖ר וְלֹ֣א יְכַסֶּ֑נּוּ וְנָֽפַל־שָׁ֥מָּה שּׁ֖וֹר א֥וֹ חֲמֽוֹר׃" />
     </verse>
     <verse osisID="Exod.21.34">
@@ -2125,6 +2202,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.21.35">
+      <spi-samekh2-after />
       <text text="וְכִֽי־יִגֹּ֧ף שֽׁוֹר־אִ֛ישׁ אֶת־שׁ֥וֹר רֵעֵ֖הוּ וָמֵ֑ת וּמָ֨כְר֜וּ אֶת־הַשּׁ֤וֹר הַחַי֙ וְחָצ֣וּ אֶת־כַּסְפּ֔וֹ וְגַ֥ם אֶת־הַמֵּ֖ת יֶֽחֱצֽוּן׃" />
     </verse>
     <verse osisID="Exod.21.36">
@@ -2133,6 +2211,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.21.37">
+      <spi-samekh2-after />
       <text text="כִּ֤י יִגְנֹֽב־אִישׁ֙ שׁ֣וֹר אוֹ־שֶׂ֔ה וּטְבָח֖וֹ א֣וֹ מְכָר֑וֹ חֲמִשָּׁ֣ה בָקָ֗ר יְשַׁלֵּם֙ תַּ֣חַת הַשּׁ֔וֹר וְאַרְבַּע־צֹ֖אן תַּ֥חַת הַשֶּֽׂה׃" />
     </verse>
   </chapter>
@@ -2149,6 +2228,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.22.4">
+      <spi-samekh2-after />
       <text text="כִּ֤י יַבְעֶר־אִישׁ֙ שָׂדֶ֣ה אוֹ־כֶ֔רֶם וְשִׁלַּח֙ אֶת־" />
       <kq-trivial>
         <text text="בְּעִירֹ֔ה" />
@@ -2158,11 +2238,13 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.22.5">
+      <spi-samekh2-after />
       <text text="כִּֽי־תֵצֵ֨א אֵ֜שׁ וּמָצְאָ֤ה קֹצִים֙ וְנֶאֱכַ֣ל גָּדִ֔ישׁ א֥וֹ הַקָּמָ֖ה א֣וֹ הַשָּׂדֶ֑ה שַׁלֵּ֣ם יְשַׁלֵּ֔ם הַמַּבְעִ֖ר אֶת־הַבְּעֵרָֽה׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.22.6">
+      <spi-samekh2-after />
       <text text="כִּֽי־יִתֵּן֩ אִ֨ישׁ אֶל־רֵעֵ֜הוּ כֶּ֤סֶף אֽוֹ־כֵלִים֙ לִשְׁמֹ֔ר וְגֻנַּ֖ב מִבֵּ֣ית הָאִ֑ישׁ אִם־יִמָּצֵ֥א הַגַּנָּ֖ב יְשַׁלֵּ֥ם שְׁנָֽיִם׃" />
     </verse>
     <verse osisID="Exod.22.7">
@@ -2174,6 +2256,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.22.9">
+      <spi-samekh2-after />
       <text text="כִּֽי־יִתֵּן֩ אִ֨ישׁ אֶל־רֵעֵ֜הוּ חֲמ֨וֹר אוֹ־שׁ֥וֹר אוֹ־שֶׂ֛ה וְכׇל־בְּהֵמָ֖ה לִשְׁמֹ֑ר וּמֵ֛ת אוֹ־נִשְׁבַּ֥ר אוֹ־נִשְׁבָּ֖ה אֵ֥ין רֹאֶֽה׃" />
     </verse>
     <verse osisID="Exod.22.10">
@@ -2188,6 +2271,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.22.13">
+      <spi-pe2-after />
       <text text="וְכִֽי־יִשְׁאַ֥ל אִ֛ישׁ מֵעִ֥ם רֵעֵ֖הוּ וְנִשְׁבַּ֣ר אוֹ־מֵ֑ת בְּעָלָ֥יו אֵין־עִמּ֖וֹ שַׁלֵּ֥ם יְשַׁלֵּֽם׃" />
     </verse>
     <verse osisID="Exod.22.14">
@@ -2196,6 +2280,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.22.15">
+      <spi-samekh2-after />
       <text text="וְכִֽי־יְפַתֶּ֣ה אִ֗ישׁ בְּתוּלָ֛ה אֲשֶׁ֥ר לֹא־אֹרָ֖שָׂה וְשָׁכַ֣ב עִמָּ֑הּ מָהֹ֛ר יִמְהָרֶ֥נָּה לּ֖וֹ לְאִשָּֽׁה׃" />
     </verse>
     <verse osisID="Exod.22.16">
@@ -2204,6 +2289,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.22.17">
+      <spi-samekh2-after />
       <text text="מְכַשֵּׁפָ֖ה לֹ֥א תְחַיֶּֽה׃" />
     </verse>
     <verse osisID="Exod.22.18">
@@ -2212,6 +2298,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.22.19">
+      <spi-samekh2-after />
       <text text="זֹבֵ֥חַ לָאֱלֹהִ֖ים יׇֽחֳרָ֑ם בִּלְתִּ֥י לַיהֹוָ֖ה לְבַדּֽוֹ׃" />
     </verse>
     <verse osisID="Exod.22.20">
@@ -2229,6 +2316,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.22.24">
+      <spi-pe2-after />
       <text text="אִם־כֶּ֣סֶף" />
       <lp-legarmeih />
       <text text=" תַּלְוֶ֣ה אֶת־עַמִּ֗י אֶת־הֶֽעָנִי֙ עִמָּ֔ךְ לֹא־תִהְיֶ֥ה ל֖וֹ כְּנֹשֶׁ֑ה לֹֽא־תְשִׂימ֥וּן עָלָ֖יו נֶֽשֶׁךְ׃" />
@@ -2246,6 +2334,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.22.27">
+      <spi-samekh2-after />
       <text text="אֱלֹהִ֖ים לֹ֣א תְקַלֵּ֑ל וְנָשִׂ֥יא בְעַמְּךָ֖ לֹ֥א תָאֹֽר׃" />
     </verse>
     <verse osisID="Exod.22.28">
@@ -2262,6 +2351,7 @@
   <spi-samekh2-mid />
   <chapter osisID="Exod.23">
     <verse osisID="Exod.23.1">
+      <spi-samekh2-after />
       <text text="לֹ֥א תִשָּׂ֖א שֵׁ֣מַע שָׁ֑וְא אַל־תָּ֤שֶׁת יָֽדְךָ֙ עִם־רָשָׁ֔ע לִהְיֹ֖ת עֵ֥ד חָמָֽס׃" />
     </verse>
     <verse osisID="Exod.23.2">
@@ -2273,16 +2363,19 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.23.4">
+      <spi-samekh2-after />
       <text text="כִּ֣י תִפְגַּ֞ע שׁ֧וֹר אֹֽיִבְךָ֛ א֥וֹ חֲמֹר֖וֹ תֹּעֶ֑ה הָשֵׁ֥ב תְּשִׁיבֶ֖נּוּ לֽוֹ׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.23.5">
+      <spi-samekh2-after />
       <text text="כִּֽי־תִרְאֶ֞ה חֲמ֣וֹר שֹׂנַאֲךָ֗ רֹבֵץ֙ תַּ֣חַת מַשָּׂא֔וֹ וְחָדַלְתָּ֖ מֵעֲזֹ֣ב ל֑וֹ עָזֹ֥ב תַּעֲזֹ֖ב עִמּֽוֹ׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.23.6">
+      <spi-samekh2-after />
       <text text="לֹ֥א תַטֶּ֛ה מִשְׁפַּ֥ט אֶבְיֹנְךָ֖ בְּרִיבֽוֹ׃" />
     </verse>
     <verse osisID="Exod.23.7">
@@ -2329,6 +2422,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.23.20">
+      <spi-pe2-after />
       <text text="הִנֵּ֨ה אָנֹכִ֜י שֹׁלֵ֤חַ מַלְאָךְ֙ לְפָנֶ֔יךָ לִשְׁמׇרְךָ֖ בַּדָּ֑רֶךְ וְלַהֲבִ֣יאֲךָ֔ אֶל־הַמָּק֖וֹם אֲשֶׁ֥ר הֲכִנֹֽתִי׃" />
     </verse>
     <verse osisID="Exod.23.21">
@@ -2349,6 +2443,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.23.26">
+      <spi-samekh2-after />
       <text text="לֹ֥א תִהְיֶ֛ה מְשַׁכֵּלָ֥ה וַעֲקָרָ֖ה בְּאַרְצֶ֑ךָ אֶת־מִסְפַּ֥ר יָמֶ֖יךָ אֲמַלֵּֽא׃" />
     </verse>
     <verse osisID="Exod.23.27">
@@ -2379,6 +2474,7 @@
   <spi-pe2-mid />
   <chapter osisID="Exod.24">
     <verse osisID="Exod.24.1">
+      <spi-pe2-after />
       <text text="וְאֶל־מֹשֶׁ֨ה אָמַ֜ר עֲלֵ֣ה אֶל־יְהֹוָ֗ה אַתָּה֙ וְאַהֲרֹן֙ נָדָ֣ב וַאֲבִיה֔וּא וְשִׁבְעִ֖ים מִזִּקְנֵ֣י יִשְׂרָאֵ֑ל וְהִשְׁתַּחֲוִיתֶ֖ם מֵרָחֹֽק׃" />
     </verse>
     <verse osisID="Exod.24.2">
@@ -2414,6 +2510,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.24.12">
+      <spi-samekh2-after />
       <text text="וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה עֲלֵ֥ה אֵלַ֛י הָהָ֖רָה וֶהְיֵה־שָׁ֑ם וְאֶתְּנָ֨ה לְךָ֜ אֶת־לֻחֹ֣ת הָאֶ֗בֶן וְהַתּוֹרָה֙ וְהַמִּצְוָ֔ה אֲשֶׁ֥ר כָּתַ֖בְתִּי לְהוֹרֹתָֽם׃" />
     </verse>
     <verse osisID="Exod.24.13">
@@ -2439,6 +2536,7 @@
   <spi-pe2-mid />
   <chapter osisID="Exod.25">
     <verse osisID="Exod.25.1">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Exod.25.2">
@@ -2468,6 +2566,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.25.10">
+      <spi-samekh2-after />
       <text text="וְעָשׂ֥וּ אֲר֖וֹן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֨יִם וָחֵ֜צִי אׇרְכּ֗וֹ וְאַמָּ֤ה וָחֵ֙צִי֙ רׇחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ׃" />
     </verse>
     <verse osisID="Exod.25.11">
@@ -2509,6 +2608,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.25.23">
+      <spi-pe2-after />
       <text text="וְעָשִׂ֥יתָ שֻׁלְחָ֖ן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֤יִם אׇרְכּוֹ֙ וְאַמָּ֣ה רׇחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ׃" />
     </verse>
     <verse osisID="Exod.25.24">
@@ -2535,6 +2635,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.25.31">
+      <spi-pe2-after />
       <text text="וְעָשִׂ֥יתָ מְנֹרַ֖ת זָהָ֣ב טָה֑וֹר מִקְשָׁ֞ה תֵּעָשֶׂ֤ה" />
       <note>
         <text text="(בספרי ספרד ואשכנז תֵּיעָשֶׂ֤ה)" />
@@ -2575,6 +2676,7 @@
   <spi-samekh2-mid />
   <chapter osisID="Exod.26">
     <verse osisID="Exod.26.1">
+      <spi-samekh2-after />
       <text text="וְאֶת־הַמִּשְׁכָּ֥ן תַּעֲשֶׂ֖ה עֶ֣שֶׂר יְרִיעֹ֑ת שֵׁ֣שׁ מׇשְׁזָ֗ר וּתְכֵ֤לֶת וְאַרְגָּמָן֙ וְתֹלַ֣עַת שָׁנִ֔י כְּרֻבִ֛ים מַעֲשֵׂ֥ה חֹשֵׁ֖ב תַּעֲשֶׂ֥ה אֹתָֽם׃" />
     </verse>
     <verse osisID="Exod.26.2">
@@ -2623,6 +2725,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.26.15">
+      <spi-pe2-after />
       <text text="וְעָשִׂ֥יתָ אֶת־הַקְּרָשִׁ֖ים לַמִּשְׁכָּ֑ן עֲצֵ֥י שִׁטִּ֖ים עֹמְדִֽים׃" />
     </verse>
     <verse osisID="Exod.26.16">
@@ -2673,6 +2776,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.26.31">
+      <spi-samekh2-after />
       <text text="וְעָשִׂ֣יתָ פָרֹ֗כֶת תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מׇשְׁזָ֑ר מַעֲשֵׂ֥ה חֹשֵׁ֛ב יַעֲשֶׂ֥ה אֹתָ֖הּ כְּרֻבִֽים׃" />
     </verse>
     <verse osisID="Exod.26.32">
@@ -2698,6 +2802,7 @@
   <spi-samekh2-mid />
   <chapter osisID="Exod.27">
     <verse osisID="Exod.27.1">
+      <spi-samekh2-after />
       <text text="וְעָשִׂ֥יתָ אֶת־הַמִּזְבֵּ֖חַ עֲצֵ֣י שִׁטִּ֑ים חָמֵשׁ֩ אַמּ֨וֹת אֹ֜רֶךְ וְחָמֵ֧שׁ אַמּ֣וֹת רֹ֗חַב רָב֤וּעַ יִהְיֶה֙ הַמִּזְבֵּ֔חַ וְשָׁלֹ֥שׁ אַמּ֖וֹת קֹמָתֽוֹ׃" />
     </verse>
     <verse osisID="Exod.27.2">
@@ -2724,6 +2829,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.27.9">
+      <spi-samekh2-after />
       <text text="וְעָשִׂ֕יתָ אֵ֖ת חֲצַ֣ר הַמִּשְׁכָּ֑ן לִפְאַ֣ת נֶֽגֶב־תֵּ֠ימָ֠נָה קְלָעִ֨ים לֶחָצֵ֜ר שֵׁ֣שׁ מׇשְׁזָ֗ר מֵאָ֤ה בָֽאַמָּה֙ אֹ֔רֶךְ לַפֵּאָ֖ה הָאֶחָֽת׃" />
     </verse>
     <verse osisID="Exod.27.10">
@@ -2767,6 +2873,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.27.20">
+      <spi-samekh2-after />
       <text text="וְאַתָּ֞ה תְּצַוֶּ֣ה" />
       <lp-legarmeih />
       <text text=" אֶת־בְּנֵ֣י יִשְׂרָאֵ֗ל וְיִקְח֨וּ אֵלֶ֜יךָ שֶׁ֣מֶן זַ֥יִת זָ֛ךְ כָּתִ֖ית לַמָּא֑וֹר לְהַעֲלֹ֥ת נֵ֖ר תָּמִֽיד׃" />
@@ -2779,6 +2886,7 @@
   <spi-samekh2-mid />
   <chapter osisID="Exod.28">
     <verse osisID="Exod.28.1">
+      <spi-samekh2-after />
       <text text="וְאַתָּ֡ה הַקְרֵ֣ב אֵלֶ֩יךָ֩ אֶת־אַהֲרֹ֨ן אָחִ֜יךָ וְאֶת־בָּנָ֣יו אִתּ֗וֹ מִתּ֛וֹךְ בְּנֵ֥י יִשְׂרָאֵ֖ל לְכַהֲנוֹ־לִ֑י אַהֲרֹ֕ן נָדָ֧ב וַאֲבִיה֛וּא אֶלְעָזָ֥ר וְאִיתָמָ֖ר בְּנֵ֥י אַהֲרֹֽן׃" />
     </verse>
     <verse osisID="Exod.28.2">
@@ -2796,6 +2904,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.28.6">
+      <spi-pe2-after />
       <text text="וְעָשׂ֖וּ אֶת־הָאֵפֹ֑ד זָ֠הָ֠ב תְּכֵ֨לֶת וְאַרְגָּמָ֜ן תּוֹלַ֧עַת שָׁנִ֛י וְשֵׁ֥שׁ מׇשְׁזָ֖ר מַעֲשֵׂ֥ה חֹשֵֽׁב׃" />
     </verse>
     <verse osisID="Exod.28.7">
@@ -2819,6 +2928,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.28.13">
+      <spi-samekh2-after />
       <text text="וְעָשִׂ֥יתָ מִשְׁבְּצֹ֖ת זָהָֽב׃" />
     </verse>
     <verse osisID="Exod.28.14">
@@ -2827,6 +2937,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.28.15">
+      <spi-samekh2-after />
       <text text="וְעָשִׂ֜יתָ חֹ֤שֶׁן מִשְׁפָּט֙ מַעֲשֵׂ֣ה חֹשֵׁ֔ב כְּמַעֲשֵׂ֥ה אֵפֹ֖ד תַּעֲשֶׂ֑נּוּ זָ֠הָ֠ב תְּכֵ֨לֶת וְאַרְגָּמָ֜ן וְתוֹלַ֧עַת שָׁנִ֛י וְשֵׁ֥שׁ מׇשְׁזָ֖ר תַּעֲשֶׂ֥ה אֹתֽוֹ׃" />
     </verse>
     <verse osisID="Exod.28.16">
@@ -2885,6 +2996,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.28.31">
+      <spi-samekh2-after />
       <text text="וְעָשִׂ֛יתָ אֶת־מְעִ֥יל הָאֵפ֖וֹד כְּלִ֥יל תְּכֵֽלֶת׃" />
     </verse>
     <verse osisID="Exod.28.32">
@@ -2902,6 +3014,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.28.36">
+      <spi-samekh2-after />
       <text text="וְעָשִׂ֥יתָ צִּ֖יץ זָהָ֣ב טָה֑וֹר וּפִתַּחְתָּ֤ עָלָיו֙ פִּתּוּחֵ֣י חֹתָ֔ם קֹ֖דֶשׁ לַֽיהֹוָֽה׃" />
     </verse>
     <verse osisID="Exod.28.37">
@@ -2932,6 +3045,7 @@
   <spi-samekh2-mid />
   <chapter osisID="Exod.29">
     <verse osisID="Exod.29.1">
+      <spi-samekh2-after />
       <text text="וְזֶ֨ה הַדָּבָ֜ר אֲשֶֽׁר־תַּעֲשֶׂ֥ה לָהֶ֛ם לְקַדֵּ֥שׁ אֹתָ֖ם לְכַהֵ֣ן לִ֑י לְ֠קַ֠ח פַּ֣ר אֶחָ֧ד בֶּן־בָּקָ֛ר וְאֵילִ֥ם שְׁנַ֖יִם תְּמִימִֽם׃" />
     </verse>
     <verse osisID="Exod.29.2">
@@ -3051,6 +3165,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.29.38">
+      <spi-samekh2-after />
       <text text="וְזֶ֕ה אֲשֶׁ֥ר תַּעֲשֶׂ֖ה עַל־הַמִּזְבֵּ֑חַ כְּבָשִׂ֧ים בְּנֵֽי־שָׁנָ֛ה שְׁנַ֥יִם לַיּ֖וֹם תָּמִֽיד׃" />
     </verse>
     <verse osisID="Exod.29.39">
@@ -3082,6 +3197,7 @@
   <spi-pe2-mid />
   <chapter osisID="Exod.30">
     <verse osisID="Exod.30.1">
+      <spi-pe2-after />
       <text text="וְעָשִׂ֥יתָ מִזְבֵּ֖חַ מִקְטַ֣ר קְטֹ֑רֶת עֲצֵ֥י שִׁטִּ֖ים תַּעֲשֶׂ֥ה אֹתֽוֹ׃" />
     </verse>
     <verse osisID="Exod.30.2">
@@ -3116,6 +3232,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.30.11">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Exod.30.12">
@@ -3138,6 +3255,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.30.17">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Exod.30.18">
@@ -3155,6 +3273,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.30.22">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Exod.30.23">
@@ -3193,6 +3312,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.30.34">
+      <spi-samekh2-after />
       <text text="וַיֹּ֩אמֶר֩ יְהֹוָ֨ה אֶל־מֹשֶׁ֜ה קַח־לְךָ֣ סַמִּ֗ים נָטָ֤ף" />
       <lp-paseq />
       <text text="וּשְׁחֵ֙לֶת֙ וְחֶלְבְּנָ֔ה סַמִּ֖ים וּלְבֹנָ֣ה זַכָּ֑ה בַּ֥ד בְּבַ֖ד יִהְיֶֽה׃" />
@@ -3214,6 +3334,7 @@
   <spi-samekh2-mid />
   <chapter osisID="Exod.31">
     <verse osisID="Exod.31.1">
+      <spi-samekh2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Exod.31.2">
@@ -3251,6 +3372,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.31.12">
+      <spi-pe2-after />
       <text text="וַיֹּ֥אמֶר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Exod.31.13">
@@ -3271,6 +3393,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.31.18">
+      <spi-samekh2-after />
       <text text="וַיִּתֵּ֣ן אֶל־מֹשֶׁ֗ה כְּכַלֹּתוֹ֙ לְדַבֵּ֤ר אִתּוֹ֙ בְּהַ֣ר סִינַ֔י שְׁנֵ֖י לֻחֹ֣ת הָעֵדֻ֑ת לֻחֹ֣ת אֶ֔בֶן כְּתֻבִ֖ים בְּאֶצְבַּ֥ע אֱלֹהִֽים׃" />
     </verse>
   </chapter>
@@ -3300,6 +3423,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.32.7">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֑ה לֶךְ־רֵ֕ד כִּ֚י שִׁחֵ֣ת עַמְּךָ֔ אֲשֶׁ֥ר הֶעֱלֵ֖יתָ מֵאֶ֥רֶץ מִצְרָֽיִם׃" />
     </verse>
     <verse osisID="Exod.32.8">
@@ -3326,6 +3450,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.32.15">
+      <spi-pe2-after />
       <text text="וַיִּ֜פֶן וַיֵּ֤רֶד מֹשֶׁה֙ מִן־הָהָ֔ר וּשְׁנֵ֛י לֻחֹ֥ת הָעֵדֻ֖ת בְּיָד֑וֹ לֻחֹ֗ת כְּתֻבִים֙ מִשְּׁנֵ֣י עֶבְרֵיהֶ֔ם מִזֶּ֥ה וּמִזֶּ֖ה הֵ֥ם כְּתֻבִֽים׃" />
     </verse>
     <verse osisID="Exod.32.16">
@@ -3401,6 +3526,7 @@
   <spi-samekh2-mid />
   <chapter osisID="Exod.33">
     <verse osisID="Exod.33.1">
+      <spi-samekh2-after />
       <text text="וַיְדַבֵּ֨ר יְהֹוָ֤ה אֶל־מֹשֶׁה֙ לֵ֣ךְ עֲלֵ֣ה מִזֶּ֔ה אַתָּ֣ה וְהָעָ֔ם אֲשֶׁ֥ר הֶֽעֱלִ֖יתָ מֵאֶ֣רֶץ מִצְרָ֑יִם אֶל־הָאָ֗רֶץ אֲשֶׁ֣ר נִ֠שְׁבַּ֠עְתִּי לְאַבְרָהָ֨ם לְיִצְחָ֤ק וּֽלְיַעֲקֹב֙ לֵאמֹ֔ר לְזַרְעֲךָ֖ אֶתְּנֶֽנָּה׃" />
     </verse>
     <verse osisID="Exod.33.2">
@@ -3438,6 +3564,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.33.12">
+      <spi-pe2-after />
       <text text="וַיֹּ֨אמֶר מֹשֶׁ֜ה אֶל־יְהֹוָ֗ה רְ֠אֵ֠ה אַתָּ֞ה אֹמֵ֤ר אֵלַי֙ הַ֚עַל אֶת־הָעָ֣ם הַזֶּ֔ה וְאַתָּה֙ לֹ֣א הֽוֹדַעְתַּ֔נִי אֵ֥ת אֲשֶׁר־תִּשְׁלַ֖ח עִמִּ֑י וְאַתָּ֤ה אָמַ֙רְתָּ֙ יְדַעְתִּ֣יךָֽ בְשֵׁ֔ם וְגַם־מָצָ֥אתָ חֵ֖ן בְּעֵינָֽי׃" />
     </verse>
     <verse osisID="Exod.33.13">
@@ -3457,6 +3584,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.33.17">
+      <spi-pe2-after />
       <text text="וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה גַּ֣ם אֶת־הַדָּבָ֥ר הַזֶּ֛ה אֲשֶׁ֥ר דִּבַּ֖רְתָּ אֶֽעֱשֶׂ֑ה כִּֽי־מָצָ֤אתָ חֵן֙ בְּעֵינַ֔י וָאֵדָעֲךָ֖ בְּשֵֽׁם׃" />
     </verse>
     <verse osisID="Exod.33.18">
@@ -3585,6 +3713,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.34.27">
+      <spi-pe2-after />
       <text text="וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה כְּתׇב־לְךָ֖ אֶת־הַדְּבָרִ֣ים הָאֵ֑לֶּה כִּ֞י עַל־פִּ֣י" />
       <lp-legarmeih />
       <text text=" הַדְּבָרִ֣ים הָאֵ֗לֶּה כָּרַ֧תִּי אִתְּךָ֛ בְּרִ֖ית וְאֶת־יִשְׂרָאֵֽל׃" />
@@ -3618,6 +3747,7 @@
   <spi-samekh2-mid />
   <chapter osisID="Exod.35">
     <verse osisID="Exod.35.1">
+      <spi-samekh2-after />
       <text text="וַיַּקְהֵ֣ל מֹשֶׁ֗ה אֶֽת־כׇּל־עֲדַ֛ת בְּנֵ֥י יִשְׂרָאֵ֖ל וַיֹּ֣אמֶר אֲלֵהֶ֑ם אֵ֚לֶּה הַדְּבָרִ֔ים אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה לַעֲשֹׂ֥ת אֹתָֽם׃" />
     </verse>
     <verse osisID="Exod.35.2">
@@ -3629,6 +3759,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.35.4">
+      <spi-pe2-after />
       <text text="וַיֹּ֣אמֶר מֹשֶׁ֔ה אֶל־כׇּל־עֲדַ֥ת בְּנֵֽי־יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה לֵאמֹֽר׃" />
     </verse>
     <verse osisID="Exod.35.5">
@@ -3713,6 +3844,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.35.30">
+      <spi-pe2-after />
       <text text="וַיֹּ֤אמֶר מֹשֶׁה֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל רְא֛וּ קָרָ֥א יְהֹוָ֖ה בְּשֵׁ֑ם בְּצַלְאֵ֛ל בֶּן־אוּרִ֥י בֶן־ח֖וּר לְמַטֵּ֥ה יְהוּדָֽה׃" />
     </verse>
     <verse osisID="Exod.35.31">
@@ -3760,6 +3892,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.36.8">
+      <spi-samekh2-after />
       <text text="וַיַּעֲשׂ֨וּ כׇל־חֲכַם־לֵ֜ב בְּעֹשֵׂ֧י הַמְּלָאכָ֛ה אֶת־הַמִּשְׁכָּ֖ן עֶ֣שֶׂר יְרִיעֹ֑ת שֵׁ֣שׁ מׇשְׁזָ֗ר וּתְכֵ֤לֶת וְאַרְגָּמָן֙ וְתוֹלַ֣עַת שָׁנִ֔י כְּרֻבִ֛ים מַעֲשֵׂ֥ה חֹשֵׁ֖ב עָשָׂ֥ה אֹתָֽם׃" />
     </verse>
     <verse osisID="Exod.36.9">
@@ -3780,6 +3913,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.36.14">
+      <spi-pe2-after />
       <text text="וַיַּ֙עַשׂ֙ יְרִיעֹ֣ת עִזִּ֔ים לְאֹ֖הֶל עַל־הַמִּשְׁכָּ֑ן עַשְׁתֵּֽי־עֶשְׂרֵ֥ה יְרִיעֹ֖ת עָשָׂ֥ה אֹתָֽם׃" />
     </verse>
     <verse osisID="Exod.36.15">
@@ -3800,6 +3934,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.36.20">
+      <spi-samekh2-after />
       <text text="וַיַּ֥עַשׂ אֶת־הַקְּרָשִׁ֖ים לַמִּשְׁכָּ֑ן עֲצֵ֥י שִׁטִּ֖ים עֹמְדִֽים׃" />
     </verse>
     <verse osisID="Exod.36.21">
@@ -3861,6 +3996,7 @@
   <spi-pe2-mid />
   <chapter osisID="Exod.37">
     <verse osisID="Exod.37.1">
+      <spi-pe2-after />
       <text text="וַיַּ֧עַשׂ בְּצַלְאֵ֛ל אֶת־הָאָרֹ֖ן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֨יִם וָחֵ֜צִי אׇרְכּ֗וֹ וְאַמָּ֤ה וָחֵ֙צִי֙ רׇחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ׃" />
     </verse>
     <verse osisID="Exod.37.2">
@@ -3900,6 +4036,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.37.10">
+      <spi-pe2-after />
       <text text="וַיַּ֥עַשׂ אֶת־הַשֻּׁלְחָ֖ן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֤יִם אׇרְכּוֹ֙ וְאַמָּ֣ה רׇחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ׃" />
     </verse>
     <verse osisID="Exod.37.11">
@@ -3925,6 +4062,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.37.17">
+      <spi-pe2-after />
       <text text="וַיַּ֥עַשׂ אֶת־הַמְּנֹרָ֖ה זָהָ֣ב טָה֑וֹר מִקְשָׁ֞ה עָשָׂ֤ה אֶת־הַמְּנֹרָה֙ יְרֵכָ֣הּ וְקָנָ֔הּ גְּבִיעֶ֛יהָ כַּפְתֹּרֶ֥יהָ וּפְרָחֶ֖יהָ מִמֶּ֥נָּה הָיֽוּ׃" />
     </verse>
     <verse osisID="Exod.37.18">
@@ -3953,6 +4091,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.37.25">
+      <spi-pe2-after />
       <text text="וַיַּ֛עַשׂ אֶת־מִזְבַּ֥ח הַקְּטֹ֖רֶת עֲצֵ֣י שִׁטִּ֑ים אַמָּ֣ה אׇרְכּוֹ֩ וְאַמָּ֨ה רׇחְבּ֜וֹ רָב֗וּעַ וְאַמָּתַ֙יִם֙ קֹֽמָת֔וֹ מִמֶּ֖נּוּ הָי֥וּ קַרְנֹתָֽיו׃" />
     </verse>
     <verse osisID="Exod.37.26">
@@ -3974,6 +4113,7 @@
   <spi-samekh2-mid />
   <chapter osisID="Exod.38">
     <verse osisID="Exod.38.1">
+      <spi-samekh2-after />
       <text text="וַיַּ֛עַשׂ אֶת־מִזְבַּ֥ח הָעֹלָ֖ה עֲצֵ֣י שִׁטִּ֑ים חָמֵשׁ֩ אַמּ֨וֹת אׇרְכּ֜וֹ וְחָֽמֵשׁ־אַמּ֤וֹת רׇחְבּוֹ֙ רָב֔וּעַ וְשָׁלֹ֥שׁ אַמּ֖וֹת קֹמָתֽוֹ׃" />
     </verse>
     <verse osisID="Exod.38.2">
@@ -3997,11 +4137,13 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.38.8">
+      <spi-samekh2-after />
       <text text="וַיַּ֗עַשׂ אֵ֚ת הַכִּיּ֣וֹר נְחֹ֔שֶׁת וְאֵ֖ת כַּנּ֣וֹ נְחֹ֑שֶׁת בְּמַרְאֹת֙ הַצֹּ֣בְאֹ֔ת אֲשֶׁ֣ר צָֽבְא֔וּ פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.38.9">
+      <spi-samekh2-after />
       <text text="וַיַּ֖עַשׂ אֶת־הֶחָצֵ֑ר לִפְאַ֣ת" />
       <lp-legarmeih />
       <text text=" נֶ֣גֶב תֵּימָ֗נָה קַלְעֵ֤י הֶֽחָצֵר֙ שֵׁ֣שׁ מׇשְׁזָ֔ר מֵאָ֖ה בָּאַמָּֽה׃" />
@@ -4042,6 +4184,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.38.21">
+      <spi-samekh2-after />
       <text text="אֵ֣לֶּה פְקוּדֵ֤י הַמִּשְׁכָּן֙ מִשְׁכַּ֣ן הָעֵדֻ֔ת אֲשֶׁ֥ר פֻּקַּ֖ד עַל־פִּ֣י מֹשֶׁ֑ה עֲבֹדַת֙ הַלְוִיִּ֔ם בְּיַד֙ אִֽיתָמָ֔ר בֶּֽן־אַהֲרֹ֖ן הַכֹּהֵֽן׃" />
     </verse>
     <verse osisID="Exod.38.22">
@@ -4053,6 +4196,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.38.24">
+      <spi-samekh2-after />
       <text text="כׇּל־הַזָּהָ֗ב הֶֽעָשׂוּי֙ לַמְּלָאכָ֔ה בְּכֹ֖ל מְלֶ֣אכֶת הַקֹּ֑דֶשׁ וַיְהִ֣י" />
       <lp-legarmeih />
       <text text=" זְהַ֣ב הַתְּנוּפָ֗ה תֵּ֤שַׁע וְעֶשְׂרִים֙ כִּכָּ֔ר וּשְׁבַ֨ע מֵא֧וֹת וּשְׁלֹשִׁ֛ים שֶׁ֖קֶל בְּשֶׁ֥קֶל הַקֹּֽדֶשׁ׃" />
@@ -4086,6 +4230,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.39.2">
+      <spi-pe2-after />
       <text text="וַיַּ֖עַשׂ אֶת־הָאֵפֹ֑ד זָהָ֗ב תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ מׇשְׁזָֽר׃" />
     </verse>
     <verse osisID="Exod.39.3">
@@ -4110,6 +4255,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.39.6">
+      <spi-samekh2-after />
       <text text="וַֽיַּעֲשׂוּ֙ אֶת־אַבְנֵ֣י הַשֹּׁ֔הַם מֻֽסַבֹּ֖ת מִשְׁבְּצֹ֣ת זָהָ֑ב מְפֻתָּחֹת֙ פִּתּוּחֵ֣י חוֹתָ֔ם עַל־שְׁמ֖וֹת בְּנֵ֥י יִשְׂרָאֵֽל׃" />
     </verse>
     <verse osisID="Exod.39.7">
@@ -4118,6 +4264,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.39.8">
+      <spi-pe2-after />
       <text text="וַיַּ֧עַשׂ אֶת־הַחֹ֛שֶׁן מַעֲשֵׂ֥ה חֹשֵׁ֖ב כְּמַעֲשֵׂ֣ה אֵפֹ֑ד זָהָ֗ב תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ מׇשְׁזָֽר׃" />
     </verse>
     <verse osisID="Exod.39.9">
@@ -4162,6 +4309,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.39.22">
+      <spi-pe2-after />
       <text text="וַיַּ֛עַשׂ אֶת־מְעִ֥יל הָאֵפֹ֖ד מַעֲשֵׂ֣ה אֹרֵ֑ג כְּלִ֖יל תְּכֵֽלֶת׃" />
     </verse>
     <verse osisID="Exod.39.23">
@@ -4179,6 +4327,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.39.27">
+      <spi-samekh2-after />
       <text text="וַֽיַּעֲשׂ֛וּ אֶת־הַכׇּתְנֹ֥ת שֵׁ֖שׁ מַעֲשֵׂ֣ה אֹרֵ֑ג לְאַהֲרֹ֖ן וּלְבָנָֽיו׃" />
     </verse>
     <verse osisID="Exod.39.28">
@@ -4190,6 +4339,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.39.30">
+      <spi-samekh2-after />
       <text text="וַֽיַּעֲשׂ֛וּ אֶת־צִ֥יץ נֵֽזֶר־הַקֹּ֖דֶשׁ זָהָ֣ב טָה֑וֹר וַיִּכְתְּב֣וּ עָלָ֗יו מִכְתַּב֙ פִּתּוּחֵ֣י חוֹתָ֔ם קֹ֖דֶשׁ לַיהֹוָֽה׃" />
     </verse>
     <verse osisID="Exod.39.31">
@@ -4198,11 +4348,13 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.39.32">
+      <spi-samekh2-after />
       <text text="וַתֵּ֕כֶל כׇּל־עֲבֹדַ֕ת מִשְׁכַּ֖ן אֹ֣הֶל מוֹעֵ֑ד וַֽיַּעֲשׂוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל כְּ֠כֹ֠ל אֲשֶׁ֨ר צִוָּ֧ה יְהֹוָ֛ה אֶת־מֹשֶׁ֖ה כֵּ֥ן עָשֽׂוּ׃" />
       <spi-pe2 />
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.39.33">
+      <spi-pe2-after />
       <text text="וַיָּבִ֤יאוּ אֶת־הַמִּשְׁכָּן֙ אֶל־מֹשֶׁ֔ה אֶת־הָאֹ֖הֶל וְאֶת־כׇּל־כֵּלָ֑יו קְרָסָ֣יו קְרָשָׁ֔יו " />
       <kq-trivial>
         <text text="בְּרִיחָ֖ו" />
@@ -4246,6 +4398,7 @@
   <spi-pe2-mid />
   <chapter osisID="Exod.40">
     <verse osisID="Exod.40.1">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Exod.40.2">
@@ -4296,6 +4449,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.40.17">
+      <spi-samekh2-after />
       <text text="וַיְהִ֞י בַּחֹ֧דֶשׁ הָרִאשׁ֛וֹן בַּשָּׁנָ֥ה הַשֵּׁנִ֖ית בְּאֶחָ֣ד לַחֹ֑דֶשׁ הוּקַ֖ם הַמִּשְׁכָּֽן׃" />
     </verse>
     <verse osisID="Exod.40.18">
@@ -4307,6 +4461,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.40.20">
+      <spi-samekh2-after />
       <text text="וַיִּקַּ֞ח וַיִּתֵּ֤ן אֶת־הָעֵדֻת֙ אֶל־הָ֣אָרֹ֔ן וַיָּ֥שֶׂם אֶת־הַבַּדִּ֖ים עַל־הָאָרֹ֑ן וַיִּתֵּ֧ן אֶת־הַכַּפֹּ֛רֶת עַל־הָאָרֹ֖ן מִלְמָֽעְלָה׃" />
     </verse>
     <verse osisID="Exod.40.21">
@@ -4315,6 +4470,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.40.22">
+      <spi-samekh2-after />
       <text text="וַיִּתֵּ֤ן אֶת־הַשֻּׁלְחָן֙ בְּאֹ֣הֶל מוֹעֵ֔ד עַ֛ל יֶ֥רֶךְ הַמִּשְׁכָּ֖ן צָפֹ֑נָה מִח֖וּץ לַפָּרֹֽכֶת׃" />
     </verse>
     <verse osisID="Exod.40.23">
@@ -4323,6 +4479,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.40.24">
+      <spi-samekh2-after />
       <text text="וַיָּ֤שֶׂם אֶת־הַמְּנֹרָה֙ בְּאֹ֣הֶל מוֹעֵ֔ד נֹ֖כַח הַשֻּׁלְחָ֑ן עַ֛ל יֶ֥רֶךְ הַמִּשְׁכָּ֖ן נֶֽגְבָּה׃" />
     </verse>
     <verse osisID="Exod.40.25">
@@ -4331,6 +4488,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.40.26">
+      <spi-samekh2-after />
       <text text="וַיָּ֛שֶׂם אֶת־מִזְבַּ֥ח הַזָּהָ֖ב בְּאֹ֣הֶל מוֹעֵ֑ד לִפְנֵ֖י הַפָּרֹֽכֶת׃" />
     </verse>
     <verse osisID="Exod.40.27">
@@ -4339,6 +4497,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.40.28">
+      <spi-samekh2-after />
       <text text="וַיָּ֛שֶׂם אֶת־מָסַ֥ךְ הַפֶּ֖תַח לַמִּשְׁכָּֽן׃" />
     </verse>
     <verse osisID="Exod.40.29">
@@ -4347,6 +4506,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.40.30">
+      <spi-samekh2-after />
       <text text="וַיָּ֙שֶׂם֙ אֶת־הַכִּיֹּ֔ר בֵּֽין־אֹ֥הֶל מוֹעֵ֖ד וּבֵ֣ין הַמִּזְבֵּ֑חַ וַיִּתֵּ֥ן שָׁ֛מָּה מַ֖יִם לְרׇחְצָֽה׃" />
     </verse>
     <verse osisID="Exod.40.31">
@@ -4358,11 +4518,13 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Exod.40.33">
+      <spi-samekh2-after />
       <text text="וַיָּ֣קֶם אֶת־הֶחָצֵ֗ר סָבִיב֙ לַמִּשְׁכָּ֣ן וְלַמִּזְבֵּ֔חַ וַיִּתֵּ֕ן אֶת־מָסַ֖ךְ שַׁ֣עַר הֶחָצֵ֑ר וַיְכַ֥ל מֹשֶׁ֖ה אֶת־הַמְּלָאכָֽה׃" />
       <spi-pe2 />
     </verse>
     <spi-pe2-mid />
     <verse osisID="Exod.40.34">
+      <spi-pe2-after />
       <text text="וַיְכַ֥ס הֶעָנָ֖ן אֶת־אֹ֣הֶל מוֹעֵ֑ד וּכְב֣וֹד יְהֹוָ֔ה מָלֵ֖א אֶת־הַמִּשְׁכָּֽן׃" />
     </verse>
     <verse osisID="Exod.40.35">

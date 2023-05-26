@@ -34,6 +34,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.1.10">
+      <spi-samekh2-after />
       <text text="וְאִם־מִן־הַצֹּ֨אן קׇרְבָּנ֧וֹ מִן־הַכְּשָׂבִ֛ים א֥וֹ מִן־הָעִזִּ֖ים לְעֹלָ֑ה זָכָ֥ר תָּמִ֖ים יַקְרִיבֶֽנּוּ׃" />
     </verse>
     <verse osisID="Lev.1.11">
@@ -48,6 +49,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.1.14">
+      <spi-pe2-after />
       <text text="וְאִ֧ם מִן־הָע֛וֹף עֹלָ֥ה קׇרְבָּנ֖וֹ לַֽיהֹוָ֑ה וְהִקְרִ֣יב מִן־הַתֹּרִ֗ים א֛וֹ מִן־בְּנֵ֥י הַיּוֹנָ֖ה אֶת־קׇרְבָּנֽוֹ׃" />
     </verse>
     <verse osisID="Lev.1.15">
@@ -64,6 +66,7 @@
   <spi-samekh2-mid />
   <chapter osisID="Lev.2">
     <verse osisID="Lev.2.1">
+      <spi-samekh2-after />
       <text text="וְנֶ֗פֶשׁ כִּֽי־תַקְרִ֞יב קׇרְבַּ֤ן מִנְחָה֙ לַֽיהֹוָ֔ה סֹ֖לֶת יִהְיֶ֣ה קׇרְבָּנ֑וֹ וְיָצַ֤ק עָלֶ֙יהָ֙ שֶׁ֔מֶן וְנָתַ֥ן עָלֶ֖יהָ לְבֹנָֽה׃" />
     </verse>
     <verse osisID="Lev.2.2">
@@ -75,11 +78,13 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.2.4">
+      <spi-samekh2-after />
       <text text="וְכִ֥י תַקְרִ֛ב קׇרְבַּ֥ן מִנְחָ֖ה מַאֲפֵ֣ה תַנּ֑וּר סֹ֣לֶת חַלּ֤וֹת מַצֹּת֙ בְּלוּלֹ֣ת בַּשֶּׁ֔מֶן וּרְקִיקֵ֥י מַצּ֖וֹת מְשֻׁחִ֥ים בַּשָּֽׁמֶן׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.2.5">
+      <spi-samekh2-after />
       <text text="וְאִם־מִנְחָ֥ה עַל־הַֽמַּחֲבַ֖ת קׇרְבָּנֶ֑ךָ סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן מַצָּ֥ה תִהְיֶֽה׃" />
     </verse>
     <verse osisID="Lev.2.6">
@@ -88,6 +93,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.2.7">
+      <spi-samekh2-after />
       <text text="וְאִם־מִנְחַ֥ת מַרְחֶ֖שֶׁת קׇרְבָּנֶ֑ךָ סֹ֥לֶת בַּשֶּׁ֖מֶן תֵּעָשֶֽׂה׃" />
     </verse>
     <verse osisID="Lev.2.8">
@@ -111,6 +117,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.2.14">
+      <spi-samekh2-after />
       <text text="וְאִם־תַּקְרִ֛יב מִנְחַ֥ת בִּכּוּרִ֖ים לַיהֹוָ֑ה אָבִ֞יב קָל֤וּי בָּאֵשׁ֙ גֶּ֣רֶשׂ כַּרְמֶ֔ל תַּקְרִ֕יב אֵ֖ת מִנְחַ֥ת בִּכּוּרֶֽיךָ׃" />
     </verse>
     <verse osisID="Lev.2.15">
@@ -124,6 +131,7 @@
   <spi-pe2-mid />
   <chapter osisID="Lev.3">
     <verse osisID="Lev.3.1">
+      <spi-pe2-after />
       <text text="וְאִם־זֶ֥בַח שְׁלָמִ֖ים קׇרְבָּנ֑וֹ אִ֤ם מִן־הַבָּקָר֙ ה֣וּא מַקְרִ֔יב אִם־זָכָר֙ אִם־נְקֵבָ֔ה תָּמִ֥ים יַקְרִיבֶ֖נּוּ לִפְנֵ֥י יְהֹוָֽה׃" />
     </verse>
     <verse osisID="Lev.3.2">
@@ -141,6 +149,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.3.6">
+      <spi-pe2-after />
       <text text="וְאִם־מִן־הַצֹּ֧אן קׇרְבָּנ֛וֹ לְזֶ֥בַח שְׁלָמִ֖ים לַיהֹוָ֑ה זָכָר֙ א֣וֹ נְקֵבָ֔ה תָּמִ֖ים יַקְרִיבֶֽנּוּ׃" />
     </verse>
     <verse osisID="Lev.3.7">
@@ -161,6 +170,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.3.12">
+      <spi-pe2-after />
       <text text="וְאִ֥ם עֵ֖ז קׇרְבָּנ֑וֹ וְהִקְרִיב֖וֹ לִפְנֵ֥י יְהֹוָֽה׃" />
     </verse>
     <verse osisID="Lev.3.13">
@@ -183,6 +193,7 @@
   <spi-pe2-mid />
   <chapter osisID="Lev.4">
     <verse osisID="Lev.4.1">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.4.2">
@@ -223,6 +234,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.4.13">
+      <spi-pe2-after />
       <text text="וְאִ֨ם כׇּל־עֲדַ֤ת יִשְׂרָאֵל֙ יִשְׁגּ֔וּ וְנֶעְלַ֣ם דָּבָ֔ר מֵעֵינֵ֖י הַקָּהָ֑ל וְ֠עָשׂ֠וּ אַחַ֨ת מִכׇּל־מִצְוֺ֧ת יְהֹוָ֛ה אֲשֶׁ֥ר לֹא־תֵעָשֶׂ֖ינָה וְאָשֵֽׁמוּ׃" />
     </verse>
     <verse osisID="Lev.4.14">
@@ -254,6 +266,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.4.22">
+      <spi-pe2-after />
       <text text="אֲשֶׁ֥ר נָשִׂ֖יא יֶֽחֱטָ֑א וְעָשָׂ֡ה אַחַ֣ת מִכׇּל־מִצְוֺת֩ יְהֹוָ֨ה אֱלֹהָ֜יו אֲשֶׁ֧ר לֹא־תֵעָשֶׂ֛ינָה בִּשְׁגָגָ֖ה וְאָשֵֽׁם׃" />
     </verse>
     <verse osisID="Lev.4.23">
@@ -271,6 +284,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.4.27">
+      <spi-pe2-after />
       <text text="וְאִם־נֶ֧פֶשׁ אַחַ֛ת תֶּחֱטָ֥א בִשְׁגָגָ֖ה מֵעַ֣ם הָאָ֑רֶץ בַּ֠עֲשֹׂתָ֠הּ אַחַ֨ת מִמִּצְוֺ֧ת יְהֹוָ֛ה אֲשֶׁ֥ר לֹא־תֵעָשֶׂ֖ינָה וְאָשֵֽׁם׃" />
     </verse>
     <verse osisID="Lev.4.28">
@@ -288,6 +302,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.4.32">
+      <spi-pe2-after />
       <text text="וְאִם־כֶּ֛בֶשׂ יָבִ֥יא קׇרְבָּנ֖וֹ לְחַטָּ֑את נְקֵבָ֥ה תְמִימָ֖ה יְבִיאֶֽנָּה׃" />
     </verse>
     <verse osisID="Lev.4.33">
@@ -304,6 +319,7 @@
   <spi-pe2-mid />
   <chapter osisID="Lev.5">
     <verse osisID="Lev.5.1">
+      <spi-pe2-after />
       <text text="וְנֶ֣פֶשׁ כִּֽי־תֶחֱטָ֗א וְשָֽׁמְעָה֙ ק֣וֹל אָלָ֔ה וְה֣וּא עֵ֔ד א֥וֹ רָאָ֖ה א֣וֹ יָדָ֑ע אִם־ל֥וֹא יַגִּ֖יד וְנָשָׂ֥א עֲוֺנֽוֹ׃" />
     </verse>
     <verse osisID="Lev.5.2">
@@ -338,6 +354,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.5.11">
+      <spi-samekh2-after />
       <text text="וְאִם־לֹא֩ תַשִּׂ֨יג יָד֜וֹ לִשְׁתֵּ֣י תֹרִ֗ים אוֹ֮ לִשְׁנֵ֣י בְנֵי־יוֹנָה֒ וְהֵבִ֨יא אֶת־קׇרְבָּנ֜וֹ אֲשֶׁ֣ר חָטָ֗א עֲשִׂירִ֧ת הָאֵפָ֛ה סֹ֖לֶת לְחַטָּ֑את לֹא־יָשִׂ֨ים עָלֶ֜יהָ שֶׁ֗מֶן וְלֹא־יִתֵּ֤ן עָלֶ֙יהָ֙ לְבֹנָ֔ה כִּ֥י חַטָּ֖את הִֽוא׃" />
     </verse>
     <verse osisID="Lev.5.12">
@@ -351,6 +368,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.5.14">
+      <spi-samekh2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.5.15">
@@ -362,6 +380,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.5.17">
+      <spi-pe2-after />
       <text text="וְאִם־נֶ֙פֶשׁ֙ כִּ֣י תֶֽחֱטָ֔א וְעָֽשְׂתָ֗ה אַחַת֙ מִכׇּל־מִצְוֺ֣ת יְהֹוָ֔ה אֲשֶׁ֖ר לֹ֣א תֵעָשֶׂ֑ינָה וְלֹֽא־יָדַ֥ע וְאָשֵׁ֖ם וְנָשָׂ֥א עֲוֺנֽוֹ׃" />
     </verse>
     <verse osisID="Lev.5.18">
@@ -373,6 +392,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.5.20">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.5.21">
@@ -398,6 +418,7 @@
   <spi-pe2-mid />
   <chapter osisID="Lev.6">
     <verse osisID="Lev.6.1">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.6.2">
@@ -426,6 +447,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.6.7">
+      <spi-samekh2-after />
       <text text="וְזֹ֥את תּוֹרַ֖ת הַמִּנְחָ֑ה הַקְרֵ֨ב אֹתָ֤הּ בְּנֵֽי־אַהֲרֹן֙ לִפְנֵ֣י יְהֹוָ֔ה אֶל־פְּנֵ֖י הַמִּזְבֵּֽחַ׃" />
     </verse>
     <verse osisID="Lev.6.8">
@@ -443,6 +465,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.6.12">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.6.13">
@@ -460,6 +483,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.6.17">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.6.18">
@@ -485,6 +509,7 @@
   <spi-pe2-mid />
   <chapter osisID="Lev.7">
     <verse osisID="Lev.7.1">
+      <spi-pe2-after />
       <text text="וְזֹ֥את תּוֹרַ֖ת הָאָשָׁ֑ם קֹ֥דֶשׁ קׇֽדָשִׁ֖ים הֽוּא׃" />
     </verse>
     <verse osisID="Lev.7.2">
@@ -517,6 +542,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.7.11">
+      <spi-pe2-after />
       <text text="וְזֹ֥את תּוֹרַ֖ת זֶ֣בַח הַשְּׁלָמִ֑ים אֲשֶׁ֥ר יַקְרִ֖יב לַיהֹוָֽה׃" />
     </verse>
     <verse osisID="Lev.7.12">
@@ -621,6 +647,7 @@
   <spi-pe2-mid />
   <chapter osisID="Lev.8">
     <verse osisID="Lev.8.1">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.8.2">
@@ -739,6 +766,7 @@
   <spi-samekh2-mid />
   <chapter osisID="Lev.9">
     <verse osisID="Lev.9.1">
+      <spi-samekh2-after />
       <text text="וַיְהִי֙ בַּיּ֣וֹם הַשְּׁמִינִ֔י קָרָ֣א מֹשֶׁ֔ה לְאַהֲרֹ֖ן וּלְבָנָ֑יו וּלְזִקְנֵ֖י יִשְׂרָאֵֽל׃" />
     </verse>
     <verse osisID="Lev.9.2">
@@ -846,6 +874,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.10.8">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֣ר יְהֹוָ֔ה אֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.10.9">
@@ -864,6 +893,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.10.12">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֨ר מֹשֶׁ֜ה אֶֽל־אַהֲרֹ֗ן וְאֶ֣ל אֶ֠לְעָזָ֠ר וְאֶל־אִ֨יתָמָ֥ר" />
       <lp-paseq />
       <text text="בָּנָיו֮ הַנּֽוֹתָרִים֒ קְח֣וּ אֶת־הַמִּנְחָ֗ה הַנּוֹתֶ֙רֶת֙ מֵאִשֵּׁ֣י יְהֹוָ֔ה וְאִכְל֥וּהָ מַצּ֖וֹת אֵ֣צֶל הַמִּזְבֵּ֑חַ כִּ֛י קֹ֥דֶשׁ קׇֽדָשִׁ֖ים הִֽוא׃" />
@@ -903,6 +933,7 @@
   <spi-pe2-mid />
   <chapter osisID="Lev.11">
     <verse osisID="Lev.11.1">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹ֥ר אֲלֵהֶֽם׃" />
     </verse>
     <verse osisID="Lev.11.2">
@@ -1005,6 +1036,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.11.29">
+      <spi-samekh2-after />
       <text text="וְזֶ֤ה לָכֶם֙ הַטָּמֵ֔א בַּשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ הַחֹ֥לֶד וְהָעַכְבָּ֖ר וְהַצָּ֥ב לְמִינֵֽהוּ׃" />
     </verse>
     <verse osisID="Lev.11.30">
@@ -1041,6 +1073,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.11.39">
+      <spi-samekh2-after />
       <text text="וְכִ֤י יָמוּת֙ מִן־הַבְּהֵמָ֔ה אֲשֶׁר־הִ֥יא לָכֶ֖ם לְאׇכְלָ֑ה הַנֹּגֵ֥עַ בְּנִבְלָתָ֖הּ יִטְמָ֥א עַד־הָעָֽרֶב׃" />
     </verse>
     <verse osisID="Lev.11.40">
@@ -1080,6 +1113,7 @@
   <spi-pe2-mid />
   <chapter osisID="Lev.12">
     <verse osisID="Lev.12.1">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.12.2">
@@ -1110,6 +1144,7 @@
   <spi-pe2-mid />
   <chapter osisID="Lev.13">
     <verse osisID="Lev.13.1">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֣ר יְהֹוָ֔ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.13.2">
@@ -1138,6 +1173,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.13.9">
+      <spi-pe2-after />
       <text text="נֶ֣גַע צָרַ֔עַת כִּ֥י תִהְיֶ֖ה בְּאָדָ֑ם וְהוּבָ֖א אֶל־הַכֹּהֵֽן׃" />
     </verse>
     <verse osisID="Lev.13.10">
@@ -1167,6 +1203,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.13.18">
+      <spi-pe2-after />
       <text text="וּבָשָׂ֕ר כִּֽי־יִהְיֶ֥ה בֽוֹ־בְעֹר֖וֹ שְׁחִ֑ין וְנִרְפָּֽא׃" />
     </verse>
     <verse osisID="Lev.13.19">
@@ -1189,6 +1226,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.13.24">
+      <spi-samekh2-after />
       <text text="א֣וֹ בָשָׂ֔ר כִּֽי־יִהְיֶ֥ה בְעֹר֖וֹ מִכְוַת־אֵ֑שׁ וְֽהָיְתָ֞ה מִֽחְיַ֣ת הַמִּכְוָ֗ה בַּהֶ֛רֶת לְבָנָ֥ה אֲדַמְדֶּ֖מֶת א֥וֹ לְבָנָֽה׃" />
     </verse>
     <verse osisID="Lev.13.25">
@@ -1208,6 +1246,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.13.29">
+      <spi-pe2-after />
       <text text="וְאִישׁ֙ א֣וֹ אִשָּׁ֔ה כִּֽי־יִהְיֶ֥ה ב֖וֹ נָ֑גַע בְּרֹ֖אשׁ א֥וֹ בְזָקָֽן׃" />
     </verse>
     <verse osisID="Lev.13.30">
@@ -1241,6 +1280,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.13.38">
+      <spi-samekh2-after />
       <text text="וְאִישׁ֙ אֽוֹ־אִשָּׁ֔ה כִּֽי־יִהְיֶ֥ה בְעוֹר־בְּשָׂרָ֖ם בֶּהָרֹ֑ת בֶּהָרֹ֖ת לְבָנֹֽת׃" />
     </verse>
     <verse osisID="Lev.13.39">
@@ -1249,6 +1289,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.13.40">
+      <spi-samekh2-after />
       <text text="וְאִ֕ישׁ כִּ֥י יִמָּרֵ֖ט רֹאשׁ֑וֹ קֵרֵ֥חַ ה֖וּא טָה֥וֹר הֽוּא׃" />
     </verse>
     <verse osisID="Lev.13.41">
@@ -1274,6 +1315,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.13.47">
+      <spi-samekh2-after />
       <text text="וְהַבֶּ֕גֶד כִּֽי־יִהְיֶ֥ה ב֖וֹ נֶ֣גַע צָרָ֑עַת בְּבֶ֣גֶד צֶ֔מֶר א֖וֹ בְּבֶ֥גֶד פִּשְׁתִּֽים׃" />
     </verse>
     <verse osisID="Lev.13.48">
@@ -1325,6 +1367,7 @@
   <spi-pe2-mid />
   <chapter osisID="Lev.14">
     <verse osisID="Lev.14.1">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.14.2">
@@ -1389,6 +1432,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.14.21">
+      <spi-samekh2-after />
       <text text="וְאִם־דַּ֣ל ה֗וּא וְאֵ֣ין יָדוֹ֮ מַשֶּׂ֒גֶת֒ וְ֠לָקַ֠ח כֶּ֣בֶשׂ אֶחָ֥ד אָשָׁ֛ם לִתְנוּפָ֖ה לְכַפֵּ֣ר עָלָ֑יו וְעִשָּׂר֨וֹן סֹ֜לֶת אֶחָ֨ד בָּל֥וּל בַּשֶּׁ֛מֶן לְמִנְחָ֖ה וְלֹ֥ג שָֽׁמֶן׃" />
     </verse>
     <verse osisID="Lev.14.22">
@@ -1429,6 +1473,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.14.33">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֣ר יְהֹוָ֔ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.14.34">
@@ -1510,6 +1555,7 @@
   <spi-pe2-mid />
   <chapter osisID="Lev.15">
     <verse osisID="Lev.15.1">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֣ר יְהֹוָ֔ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.15.2">
@@ -1559,6 +1605,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.15.16">
+      <spi-samekh2-after />
       <text text="וְאִ֕ישׁ כִּֽי־תֵצֵ֥א מִמֶּ֖נּוּ שִׁכְבַת־זָ֑רַע וְרָחַ֥ץ בַּמַּ֛יִם אֶת־כׇּל־בְּשָׂר֖וֹ וְטָמֵ֥א עַד־הָעָֽרֶב׃" />
     </verse>
     <verse osisID="Lev.15.17">
@@ -1570,6 +1617,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.15.19">
+      <spi-pe2-after />
       <text text="וְאִשָּׁה֙ כִּֽי־תִהְיֶ֣ה זָבָ֔ה דָּ֛ם יִהְיֶ֥ה זֹבָ֖הּ בִּבְשָׂרָ֑הּ שִׁבְעַ֤ת יָמִים֙ תִּהְיֶ֣ה בְנִדָּתָ֔הּ וְכׇל־הַנֹּגֵ֥עַ בָּ֖הּ יִטְמָ֥א עַד־הָעָֽרֶב׃" />
     </verse>
     <verse osisID="Lev.15.20">
@@ -1590,6 +1638,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.15.25">
+      <spi-samekh2-after />
       <text text="וְאִשָּׁ֡ה כִּֽי־יָזוּב֩ ז֨וֹב דָּמָ֜הּ יָמִ֣ים רַבִּ֗ים בְּלֹא֙ עֶת־נִדָּתָ֔הּ א֥וֹ כִֽי־תָז֖וּב עַל־נִדָּתָ֑הּ כׇּל־יְמֵ֞י ז֣וֹב טֻמְאָתָ֗הּ כִּימֵ֧י נִדָּתָ֛הּ תִּהְיֶ֖ה טְמֵאָ֥ה הִֽוא׃" />
     </verse>
     <verse osisID="Lev.15.26">
@@ -1621,6 +1670,7 @@
   <spi-pe2-mid />
   <chapter osisID="Lev.16">
     <verse osisID="Lev.16.1">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֤ר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה אַחֲרֵ֣י מ֔וֹת שְׁנֵ֖י בְּנֵ֣י אַהֲרֹ֑ן בְּקׇרְבָתָ֥ם לִפְנֵי־יְהֹוָ֖ה וַיָּמֻֽתוּ׃" />
     </verse>
     <verse osisID="Lev.16.2">
@@ -1737,6 +1787,7 @@
   <spi-pe2-mid />
   <chapter osisID="Lev.17">
     <verse osisID="Lev.17.1">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.17.2">
@@ -1789,6 +1840,7 @@
   <spi-pe2-mid />
   <chapter osisID="Lev.18">
     <verse osisID="Lev.18.1">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.18.2">
@@ -1806,61 +1858,73 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.18.6">
+      <spi-samekh2-after />
       <text text="אִ֥ישׁ אִישׁ֙ אֶל־כׇּל־שְׁאֵ֣ר בְּשָׂר֔וֹ לֹ֥א תִקְרְב֖וּ לְגַלּ֣וֹת עֶרְוָ֑ה אֲנִ֖י יְהֹוָֽה׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.18.7">
+      <spi-samekh2-after />
       <text text="עֶרְוַ֥ת אָבִ֛יךָ וְעֶרְוַ֥ת אִמְּךָ֖ לֹ֣א תְגַלֵּ֑ה אִמְּךָ֣ הִ֔וא לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽהּ׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.18.8">
+      <spi-samekh2-after />
       <text text="עֶרְוַ֥ת אֵֽשֶׁת־אָבִ֖יךָ לֹ֣א תְגַלֵּ֑ה עֶרְוַ֥ת אָבִ֖יךָ הִֽוא׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.18.9">
+      <spi-samekh2-after />
       <text text="עֶרְוַ֨ת אֲחֽוֹתְךָ֤ בַת־אָבִ֙יךָ֙ א֣וֹ בַת־אִמֶּ֔ךָ מוֹלֶ֣דֶת בַּ֔יִת א֖וֹ מוֹלֶ֣דֶת ח֑וּץ לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽן׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.18.10">
+      <spi-samekh2-after />
       <text text="עֶרְוַ֤ת בַּת־בִּנְךָ֙ א֣וֹ בַֽת־בִּתְּךָ֔ לֹ֥א תְגַלֶּ֖ה עֶרְוָתָ֑ן כִּ֥י עֶרְוָתְךָ֖ הֵֽנָּה׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.18.11">
+      <spi-samekh2-after />
       <text text="עֶרְוַ֨ת בַּת־אֵ֤שֶׁת אָבִ֙יךָ֙ מוֹלֶ֣דֶת אָבִ֔יךָ אֲחוֹתְךָ֖ הִ֑וא לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽהּ׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.18.12">
+      <spi-samekh2-after />
       <text text="עֶרְוַ֥ת אֲחוֹת־אָבִ֖יךָ לֹ֣א תְגַלֵּ֑ה שְׁאֵ֥ר אָבִ֖יךָ הִֽוא׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.18.13">
+      <spi-samekh2-after />
       <text text="עֶרְוַ֥ת אֲחֽוֹת־אִמְּךָ֖ לֹ֣א תְגַלֵּ֑ה כִּֽי־שְׁאֵ֥ר אִמְּךָ֖ הִֽוא׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.18.14">
+      <spi-samekh2-after />
       <text text="עֶרְוַ֥ת אֲחִֽי־אָבִ֖יךָ לֹ֣א תְגַלֵּ֑ה אֶל־אִשְׁתּוֹ֙ לֹ֣א תִקְרָ֔ב דֹּדָֽתְךָ֖ הִֽוא׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.18.15">
+      <spi-samekh2-after />
       <text text="עֶרְוַ֥ת כַּלָּֽתְךָ֖ לֹ֣א תְגַלֵּ֑ה אֵ֤שֶׁת בִּנְךָ֙ הִ֔וא לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽהּ׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.18.16">
+      <spi-samekh2-after />
       <text text="עֶרְוַ֥ת אֵֽשֶׁת־אָחִ֖יךָ לֹ֣א תְגַלֵּ֑ה עֶרְוַ֥ת אָחִ֖יךָ הִֽוא׃" />
       <spi-samekh2 />
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.18.17">
+      <spi-samekh2-after />
       <text text="עֶרְוַ֥ת אִשָּׁ֛ה וּבִתָּ֖הּ לֹ֣א תְגַלֵּ֑ה אֶֽת־בַּת־בְּנָ֞הּ וְאֶת־בַּת־בִּתָּ֗הּ לֹ֤א תִקַּח֙ לְגַלּ֣וֹת עֶרְוָתָ֔הּ שַׁאֲרָ֥ה הֵ֖נָּה זִמָּ֥ה הִֽוא׃" />
     </verse>
     <verse osisID="Lev.18.18">
@@ -1907,6 +1971,7 @@
   <spi-pe2-mid />
   <chapter osisID="Lev.19">
     <verse osisID="Lev.19.1">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.19.2">
@@ -1975,6 +2040,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.19.23">
+      <spi-pe2-after />
       <text text="וְכִי־תָבֹ֣אוּ אֶל־הָאָ֗רֶץ וּנְטַעְתֶּם֙ כׇּל־עֵ֣ץ מַאֲכָ֔ל וַעֲרַלְתֶּ֥ם עׇרְלָת֖וֹ אֶת־פִּרְי֑וֹ שָׁלֹ֣שׁ שָׁנִ֗ים יִהְיֶ֥ה לָכֶ֛ם עֲרֵלִ֖ים לֹ֥א יֵאָכֵֽל׃" />
     </verse>
     <verse osisID="Lev.19.24">
@@ -2007,6 +2073,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.19.33">
+      <spi-samekh2-after />
       <text text="וְכִֽי־יָג֧וּר אִתְּךָ֛ גֵּ֖ר בְּאַרְצְכֶ֑ם לֹ֥א תוֹנ֖וּ אֹתֽוֹ׃" />
     </verse>
     <verse osisID="Lev.19.34">
@@ -2028,6 +2095,7 @@
   <spi-pe2-mid />
   <chapter osisID="Lev.20">
     <verse osisID="Lev.20.1">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.20.2">
@@ -2117,6 +2185,7 @@
   <spi-pe2-mid />
   <chapter osisID="Lev.21">
     <verse osisID="Lev.21.1">
+      <spi-pe2-after />
       <text text="וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה אֱמֹ֥ר אֶל־הַכֹּהֲנִ֖ים בְּנֵ֣י אַהֲרֹ֑ן וְאָמַרְתָּ֣ אֲלֵהֶ֔ם לְנֶ֥פֶשׁ לֹֽא־יִטַּמָּ֖א בְּעַמָּֽיו׃" />
     </verse>
     <verse osisID="Lev.21.2">
@@ -2156,6 +2225,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.21.10">
+      <spi-samekh2-after />
       <text text="וְהַכֹּהֵן֩ הַגָּד֨וֹל מֵאֶחָ֜יו אֲֽשֶׁר־יוּצַ֥ק עַל־רֹאשׁ֣וֹ" />
       <lp-legarmeih />
       <text text=" שֶׁ֤מֶן הַמִּשְׁחָה֙ וּמִלֵּ֣א אֶת־יָד֔וֹ לִלְבֹּ֖שׁ אֶת־הַבְּגָדִ֑ים אֶת־רֹאשׁוֹ֙ לֹ֣א יִפְרָ֔ע וּבְגָדָ֖יו לֹ֥א יִפְרֹֽם׃" />
@@ -2178,6 +2248,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.21.16">
+      <spi-samekh2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.21.17">
@@ -2209,6 +2280,7 @@
   <spi-pe2-mid />
   <chapter osisID="Lev.22">
     <verse osisID="Lev.22.1">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.22.2">
@@ -2261,6 +2333,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.22.17">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.22.18">
@@ -2290,6 +2363,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.22.26">
+      <spi-samekh2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.22.27">
@@ -2318,6 +2392,7 @@
   <spi-pe2-mid />
   <chapter osisID="Lev.23">
     <verse osisID="Lev.23.1">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.23.2">
@@ -2329,6 +2404,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.23.4">
+      <spi-pe2-after />
       <text text="אֵ֚לֶּה מוֹעֲדֵ֣י יְהֹוָ֔ה מִקְרָאֵ֖י קֹ֑דֶשׁ אֲשֶׁר־תִּקְרְא֥וּ אֹתָ֖ם בְּמוֹעֲדָֽם׃" />
     </verse>
     <verse osisID="Lev.23.5">
@@ -2346,6 +2422,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.23.9">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.23.10">
@@ -2366,6 +2443,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.23.15">
+      <spi-samekh2-after />
       <text text="וּסְפַרְתֶּ֤ם לָכֶם֙ מִמׇּחֳרַ֣ת הַשַּׁבָּ֔ת מִיּוֹם֙ הֲבִ֣יאֲכֶ֔ם אֶת־עֹ֖מֶר הַתְּנוּפָ֑ה שֶׁ֥בַע שַׁבָּת֖וֹת תְּמִימֹ֥ת תִּהְיֶֽינָה׃" />
     </verse>
     <verse osisID="Lev.23.16">
@@ -2398,6 +2476,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.23.23">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.23.24">
@@ -2409,6 +2488,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.23.26">
+      <spi-samekh2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.23.27">
@@ -2432,6 +2512,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.23.33">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.23.34">
@@ -2472,6 +2553,7 @@
   <spi-pe2-mid />
   <chapter osisID="Lev.24">
     <verse osisID="Lev.24.1">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.24.2">
@@ -2486,6 +2568,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.24.5">
+      <spi-pe2-after />
       <text text="וְלָקַחְתָּ֣ סֹ֔לֶת וְאָפִיתָ֣ אֹתָ֔הּ שְׁתֵּ֥ים עֶשְׂרֵ֖ה חַלּ֑וֹת שְׁנֵי֙ עֶשְׂרֹנִ֔ים יִהְיֶ֖ה הַֽחַלָּ֥ה הָאֶחָֽת׃" />
     </verse>
     <verse osisID="Lev.24.6">
@@ -2503,6 +2586,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.24.10">
+      <spi-samekh2-after />
       <text text="וַיֵּצֵא֙ בֶּן־אִשָּׁ֣ה יִשְׂרְאֵלִ֔ית וְהוּא֙ בֶּן־אִ֣ישׁ מִצְרִ֔י בְּת֖וֹךְ בְּנֵ֣י יִשְׂרָאֵ֑ל וַיִּנָּצוּ֙ בַּֽמַּחֲנֶ֔ה בֶּ֚ן הַיִּשְׂרְאֵלִ֔ית וְאִ֖ישׁ הַיִּשְׂרְאֵלִֽי׃" />
     </verse>
     <verse osisID="Lev.24.11">
@@ -2514,6 +2598,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.24.13">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.24.14">
@@ -2551,6 +2636,7 @@
   <spi-pe2-mid />
   <chapter osisID="Lev.25">
     <verse osisID="Lev.25.1">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֤ר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה בְּהַ֥ר סִינַ֖י לֵאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.25.2">
@@ -2574,6 +2660,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.25.8">
+      <spi-samekh2-after />
       <text text="וְסָפַרְתָּ֣ לְךָ֗ שֶׁ֚בַע שַׁבְּתֹ֣ת שָׁנִ֔ים שֶׁ֥בַע שָׁנִ֖ים שֶׁ֣בַע פְּעָמִ֑ים וְהָי֣וּ לְךָ֗ יְמֵי֙ שֶׁ֚בַע שַׁבְּתֹ֣ת הַשָּׁנִ֔ים תֵּ֥שַׁע וְאַרְבָּעִ֖ים שָׁנָֽה׃" />
     </verse>
     <verse osisID="Lev.25.9">
@@ -2631,6 +2718,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.25.25">
+      <spi-samekh2-after />
       <text text="כִּֽי־יָמ֣וּךְ אָחִ֔יךָ וּמָכַ֖ר מֵאֲחֻזָּת֑וֹ וּבָ֤א גֹֽאֲלוֹ֙ הַקָּרֹ֣ב אֵלָ֔יו וְגָאַ֕ל אֵ֖ת מִמְכַּ֥ר אָחִֽיו׃" />
     </verse>
     <verse osisID="Lev.25.26">
@@ -2645,6 +2733,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.25.29">
+      <spi-samekh2-after />
       <text text="וְאִ֗ישׁ כִּֽי־יִמְכֹּ֤ר בֵּית־מוֹשַׁב֙ עִ֣יר חוֹמָ֔ה וְהָיְתָה֙ גְּאֻלָּת֔וֹ עַד־תֹּ֖ם שְׁנַ֣ת מִמְכָּר֑וֹ יָמִ֖ים תִּהְיֶ֥ה גְאֻלָּתֽוֹ׃" />
     </verse>
     <verse osisID="Lev.25.30">
@@ -2675,6 +2764,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.25.35">
+      <spi-samekh2-after />
       <text text="וְכִֽי־יָמ֣וּךְ אָחִ֔יךָ וּמָ֥טָה יָד֖וֹ עִמָּ֑ךְ וְהֶֽחֱזַ֣קְתָּ בּ֔וֹ גֵּ֧ר וְתוֹשָׁ֛ב וָחַ֖י עִמָּֽךְ׃" />
     </verse>
     <verse osisID="Lev.25.36">
@@ -2689,6 +2779,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.25.39">
+      <spi-samekh2-after />
       <text text="וְכִֽי־יָמ֥וּךְ אָחִ֛יךָ עִמָּ֖ךְ וְנִמְכַּר־לָ֑ךְ לֹא־תַעֲבֹ֥ד בּ֖וֹ עֲבֹ֥דַת עָֽבֶד׃" />
     </verse>
     <verse osisID="Lev.25.40">
@@ -2715,6 +2806,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.25.47">
+      <spi-samekh2-after />
       <text text="וְכִ֣י תַשִּׂ֗יג יַ֣ד גֵּ֤ר וְתוֹשָׁב֙ עִמָּ֔ךְ וּמָ֥ךְ אָחִ֖יךָ עִמּ֑וֹ וְנִמְכַּ֗ר לְגֵ֤ר תּוֹשָׁב֙ עִמָּ֔ךְ א֥וֹ לְעֵ֖קֶר מִשְׁפַּ֥חַת גֵּֽר׃" />
     </verse>
     <verse osisID="Lev.25.48">
@@ -2752,6 +2844,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.26.3">
+      <spi-pe2-after />
       <text text="אִם־בְּחֻקֹּתַ֖י תֵּלֵ֑כוּ וְאֶת־מִצְוֺתַ֣י תִּשְׁמְר֔וּ וַעֲשִׂיתֶ֖ם אֹתָֽם׃" />
     </verse>
     <verse osisID="Lev.26.4">
@@ -2787,6 +2880,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Lev.26.14">
+      <spi-pe2-after />
       <text text="וְאִם־לֹ֥א תִשְׁמְע֖וּ לִ֑י וְלֹ֣א תַעֲשׂ֔וּ אֵ֥ת כׇּל־הַמִּצְוֺ֖ת הָאֵֽלֶּה׃" />
     </verse>
     <verse osisID="Lev.26.15">
@@ -2828,6 +2922,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.26.27">
+      <spi-samekh2-after />
       <text text="וְאִ֨ם־בְּזֹ֔את לֹ֥א תִשְׁמְע֖וּ לִ֑י וַהֲלַכְתֶּ֥ם עִמִּ֖י בְּקֶֽרִי׃" />
     </verse>
     <verse osisID="Lev.26.28">
@@ -2892,6 +2987,7 @@
   <spi-pe2-mid />
   <chapter osisID="Lev.27">
     <verse osisID="Lev.27.1">
+      <spi-pe2-after />
       <text text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
     </verse>
     <verse osisID="Lev.27.2">
@@ -2918,6 +3014,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Lev.27.9">
+      <spi-samekh2-after />
       <text text="וְאִ֨ם־בְּהֵמָ֔ה אֲשֶׁ֨ר יַקְרִ֧יבוּ מִמֶּ֛נָּה קׇרְבָּ֖ן לַֽיהֹוָ֑ה כֹּל֩ אֲשֶׁ֨ר יִתֵּ֥ן מִמֶּ֛נּוּ לַיהֹוָ֖ה יִֽהְיֶה־קֹּֽדֶשׁ׃" />
     </verse>
     <verse osisID="Lev.27.10">

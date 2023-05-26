@@ -38,6 +38,7 @@
     </verse>
     <spi-pe2-mid />
     <verse osisID="Eccl.1.12">
+      <spi-pe2-after />
       <text text="אֲנִ֣י קֹהֶ֗לֶת הָיִ֥יתִי מֶ֛לֶךְ עַל־יִשְׂרָאֵ֖ל בִּירוּשָׁלָֽ͏ִם׃" />
     </verse>
     <verse osisID="Eccl.1.13">
@@ -150,6 +151,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Eccl.3.2">
+      <spi-samekh2-after />
       <text text="עֵ֥ת לָלֶ֖דֶת" />
       <shirah-space />
       <text text="וְעֵ֣ת לָמ֑וּת" />
@@ -221,6 +223,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Eccl.3.9">
+      <spi-samekh2-after />
       <text text="מַה־יִּתְרוֹן֙ הָֽעוֹשֶׂ֔ה בַּאֲשֶׁ֖ר ה֥וּא עָמֵֽל׃" />
     </verse>
     <verse osisID="Eccl.3.10">

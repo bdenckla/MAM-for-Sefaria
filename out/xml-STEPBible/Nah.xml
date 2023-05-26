@@ -50,6 +50,7 @@
     </verse>
     <spi-samekh2-mid />
     <verse osisID="Nah.1.12">
+      <spi-samekh2-after />
       <text text="כֹּ֣ה" />
       <lp-legarmeih />
       <text text=" אָמַ֣ר יְהֹוָ֗ה אִם־שְׁלֵמִים֙ וְכֵ֣ן רַבִּ֔ים וְכֵ֥ן נָג֖וֹזּוּ וְעָבָ֑ר וְעִ֨נִּתִ֔ךְ לֹ֥א אֲעַנֵּ֖ךְ עֽוֹד׃" />
@@ -65,6 +66,7 @@
   <spi-pe2-mid />
   <chapter osisID="Nah.2">
     <verse osisID="Nah.2.1">
+      <spi-pe2-after />
       <text text="הִנֵּ֨ה עַל־הֶהָרִ֜ים רַגְלֵ֤י מְבַשֵּׂר֙ מַשְׁמִ֣יעַ שָׁל֔וֹם חׇגִּ֧י יְהוּדָ֛ה חַגַּ֖יִךְ שַׁלְּמִ֣י נְדָרָ֑יִךְ כִּי֩ לֹ֨א יוֹסִ֥יף ע֛וֹד " />
       <kq>
         <kq-k>
@@ -131,6 +133,7 @@
   <spi-pe2-mid />
   <chapter osisID="Nah.3">
     <verse osisID="Nah.3.1">
+      <spi-pe2-after />
       <text text="ה֖וֹי עִ֣יר דָּמִ֑ים כֻּלָּ֗הּ כַּ֤חַשׁ פֶּ֙רֶק֙ מְלֵאָ֔ה לֹ֥א יָמִ֖ישׁ טָֽרֶף׃" />
     </verse>
     <verse osisID="Nah.3.2">
