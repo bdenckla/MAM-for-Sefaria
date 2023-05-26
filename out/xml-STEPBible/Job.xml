@@ -156,9 +156,7 @@
     </verse>
     <verse osisID="Job.3.4">
       <text text="הַיּ֥וֹם הַה֗וּא יְֽהִ֫י" />
-      <implicit-maqaf>
-        <text text="־" />
-      </implicit-maqaf>
+      <implicit-maqaf />
       <text text="חֹ֥שֶׁךְ אַֽל־יִדְרְשֵׁ֣הוּ אֱל֣וֹהַּ מִמַּ֑עַל וְאַל־תּוֹפַ֖ע עָלָ֣יו נְהָרָֽה׃" />
     </verse>
     <verse osisID="Job.3.5">
@@ -569,9 +567,7 @@
     </verse>
     <verse osisID="Job.7.11">
       <text text="גַּם־אֲנִי֮ לֹ֤א אֶחֱשׇׂ֫ךְ" />
-      <implicit-maqaf>
-        <text text="־" />
-      </implicit-maqaf>
+      <implicit-maqaf />
       <text text="פִּ֥י אֲֽ֭דַבְּרָה בְּצַ֣ר רוּחִ֑י אָ֝שִׂ֗יחָה בְּמַ֣ר נַפְשִֽׁי׃" />
     </verse>
     <verse osisID="Job.7.12">
@@ -1883,9 +1879,7 @@
     </verse>
     <verse osisID="Job.21.33">
       <text text="מָֽתְקוּ־ל֗וֹ רִגְבֵ֫י" />
-      <implicit-maqaf>
-        <text text="־" />
-      </implicit-maqaf>
+      <implicit-maqaf />
       <text text="נָ֥חַל וְ֭אַחֲרָיו כׇּל־אָדָ֣ם יִמְשׁ֑וֹךְ וּ֝לְפָנָ֗יו אֵ֣ין מִסְפָּֽר׃" />
     </verse>
     <verse osisID="Job.21.34">
@@ -2098,9 +2092,7 @@
       <text text="הֵ֤מָּה" />
       <lp-legarmeih />
       <text text=" הָיוּ֮ בְּֽמֹרְדֵ֫י" />
-      <implicit-maqaf>
-        <text text="־" />
-      </implicit-maqaf>
+      <implicit-maqaf />
       <text text="א֥וֹר לֹא־הִכִּ֥ירוּ דְרָכָ֑יו וְלֹ֥א יָ֝שְׁב֗וּ בִּנְתִיבֹתָֽיו׃" />
     </verse>
     <verse osisID="Job.24.14">
@@ -2861,9 +2853,7 @@
     </verse>
     <verse osisID="Job.33.9">
       <text text="זַ֥ךְ אֲנִ֗י בְּֽלִ֫י" />
-      <implicit-maqaf>
-        <text text="־" />
-      </implicit-maqaf>
+      <implicit-maqaf />
       <text text="פָ֥שַׁע " />
       <letter-small>
         <text text="חַ֥" />
@@ -3024,9 +3014,7 @@
       <text text="לָכֵ֤ן" />
       <lp-legarmeih />
       <text text=" אַ֥נְשֵׁ֥י לֵבָ֗ב שִׁמְע֫וּ" />
-      <implicit-maqaf>
-        <text text="־" />
-      </implicit-maqaf>
+      <implicit-maqaf />
       <text text="לִ֥י חָלִ֖לָה לָאֵ֥ל מֵרֶ֗שַׁע וְשַׁדַּ֥י מֵעָֽוֶל׃" />
     </verse>
     <verse osisID="Job.34.11">
@@ -3300,9 +3288,7 @@
       <text text="כִּ֤י לַשֶּׁ֨לֶג" />
       <lp-legarmeih />
       <text text=" יֹאמַ֗ר הֱוֵ֫א" />
-      <implicit-maqaf>
-        <text text="־" />
-      </implicit-maqaf>
+      <implicit-maqaf />
       <text text="אָ֥רֶץ וְגֶ֥שֶׁם מָטָ֑ר וְ֝גֶ֗שֶׁם מִטְר֥וֹת עֻזּֽוֹ׃" />
     </verse>
     <verse osisID="Job.37.7">
@@ -3874,9 +3860,7 @@
       <text text="מִ֤י זֶ֨ה" />
       <lp-legarmeih />
       <text text=" מַעְלִ֥ים עֵצָ֗ה בְּֽלִ֫י" />
-      <implicit-maqaf>
-        <text text="־" />
-      </implicit-maqaf>
+      <implicit-maqaf />
       <text text="דָ֥עַת לָכֵ֣ן הִ֭גַּדְתִּי וְלֹ֣א אָבִ֑ין נִפְלָא֥וֹת מִ֝מֶּ֗נִּי וְלֹ֣א אֵדָֽע׃" />
     </verse>
     <verse osisID="Job.42.4">

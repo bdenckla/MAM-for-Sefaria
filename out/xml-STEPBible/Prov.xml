@@ -74,9 +74,7 @@
       <text text="עַד־מָתַ֣י" />
       <lp-paseq />
       <text text="פְּתָיִם֮ תְּֽאֵהֲב֫וּ" />
-      <implicit-maqaf>
-        <text text="־" />
-      </implicit-maqaf>
+      <implicit-maqaf />
       <text text="פֶ֥תִי וְלֵצִ֗ים לָ֭צוֹן חָמְד֣וּ לָהֶ֑ם וּ֝כְסִילִ֗ים יִשְׂנְאוּ־דָֽעַת׃" />
     </verse>
     <verse osisID="Prov.1.23">
@@ -241,9 +239,7 @@
     </verse>
     <verse osisID="Prov.3.12">
       <text text="כִּ֤י אֶ֥ת" />
-      <implicit-maqaf>
-        <text text="־" />
-      </implicit-maqaf>
+      <implicit-maqaf />
       <text text="אֲשֶׁ֣ר יֶאֱהַ֣ב יְהֹוָ֣ה יוֹכִ֑יחַ וּ֝כְאָ֗ב אֶת־בֵּ֥ן יִרְצֶֽה׃" />
     </verse>
     <verse osisID="Prov.3.13">
@@ -660,9 +656,7 @@
     </verse>
     <verse osisID="Prov.6.26">
       <text text="כִּ֤י בְעַד־אִשָּׁ֥ה זוֹנָ֗ה עַֽד־כִּכַּ֫ר" />
-      <implicit-maqaf>
-        <text text="־" />
-      </implicit-maqaf>
+      <implicit-maqaf />
       <text text="לָ֥חֶם וְאֵ֥שֶׁת אִ֑ישׁ נֶ֖פֶשׁ יְקָרָ֣ה תָצֽוּד׃" />
       <spi-pe2 />
     </verse>
@@ -820,9 +814,7 @@
     </verse>
     <verse osisID="Prov.8.13">
       <text text="יִ֥רְאַ֣ת יְהֹוָה֮ שְֽׂנֹ֫את" />
-      <implicit-maqaf>
-        <text text="־" />
-      </implicit-maqaf>
+      <implicit-maqaf />
       <text text="רָ֥ע גֵּ֘אָ֤ה וְגָא֨וֹן" />
       <lp-legarmeih />
       <text text=" וְדֶ֣רֶךְ רָ֭ע וּפִ֨י תַהְפֻּכ֬וֹת שָׂנֵֽאתִי׃" />
@@ -1958,9 +1950,7 @@
     </verse>
     <verse osisID="Prov.19.7">
       <text text="כׇּ֥ל" />
-      <implicit-maqaf>
-        <text text="־" />
-      </implicit-maqaf>
+      <implicit-maqaf />
       <text text="אֲחֵי־רָ֨שׁ" />
       <lp-legarmeih />
       <text text=" שְֽׂנֵאֻ֗הוּ אַ֤ף כִּ֣י מְ֭רֵעֵהוּ רָחֲק֣וּ מִמֶּ֑נּוּ מְרַדֵּ֖ף אֲמָרִ֣ים " />
@@ -2822,9 +2812,7 @@
     </verse>
     <verse osisID="Prov.25.7">
       <text text="כִּ֤י ט֥וֹב אֲמׇר־לְךָ֗ עֲֽלֵ֫ה" />
-      <implicit-maqaf>
-        <text text="־" />
-      </implicit-maqaf>
+      <implicit-maqaf />
       <text text="הֵ֥נָּה מֵ֭הַשְׁפִּ֣ילְךָ לִפְנֵ֣י נָדִ֑יב אֲשֶׁ֖ר רָא֣וּ עֵינֶֽיךָ׃" />
     </verse>
     <verse osisID="Prov.25.8">
