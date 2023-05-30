@@ -1,4 +1,5 @@
 <book24 versification-tradition="BHS">
+<book39 osisID="1Chr">
   <chapter osisID="1Chr.1">
     <verse osisID="1Chr.1.1">
       <letter-large>
@@ -4461,7 +4462,9 @@
       <spi-pe2-before />
     </verse>
   </chapter>
-  <spi-pe2 />
+</book39>
+<spi-pe2 />
+<book39 osisID="2Chr">
   <chapter osisID="2Chr.1">
     <verse osisID="2Chr.1.1">
       <spi-pe2-after />
@@ -8030,4 +8033,5 @@
       <text text=" מֶ֣לֶךְ פָּרַ֗ס כׇּל־מַמְלְכ֤וֹת הָאָ֙רֶץ֙ נָ֣תַן לִ֗י יְהֹוָה֙ אֱלֹהֵ֣י הַשָּׁמַ֔יִם וְהֽוּא־פָקַ֤ד עָלַי֙ לִבְנֽוֹת־ל֣וֹ בַ֔יִת בִּירוּשָׁלַ֖͏ִם אֲשֶׁ֣ר בִּיהוּדָ֑ה מִי־בָכֶ֣ם מִכׇּל־עַמּ֗וֹ יְהֹוָ֧ה אֱלֹהָ֛יו עִמּ֖וֹ וְיָֽעַל׃" />
     </verse>
   </chapter>
+</book39>
 </book24>
