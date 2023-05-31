@@ -6873,7 +6873,6 @@ START kq
 START kq-q 
 l,<,w,o
 STOP kq-q 
-SPACE
 START kq-k 
 l,α
 STOP kq-k 
@@ -15180,7 +15179,6 @@ START kq
 START kq-q 
 y,i,q,:,r,:,x,<,w,·
 STOP kq-q 
-SPACE
 START kq-k 
 y,q,r,x,h
 STOP kq-k 
@@ -18770,7 +18768,6 @@ START kq
 START kq-q 
 l,⅃,w,o
 STOP kq-q 
-SPACE
 START kq-k 
 l,α
 STOP kq-k 

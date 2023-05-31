@@ -652,7 +652,6 @@ START kq
 START kq-k 
 l,ʕ,v,d,y,k.
 STOP kq-k 
-SPACE
 START kq-q 
 l,:,ʕ,_,v,:,d,a,(ti),k.,:
 STOP kq-q 
@@ -673,7 +672,6 @@ START kq
 START kq-k 
 l,k,$,d,y,α
 STOP kq-k 
-SPACE
 START kq-q 
 l,:,k,_,$,·si,:,d,·,a,α,‥,ƶ,y
 STOP kq-q 
@@ -811,7 +809,6 @@ START kq
 START kq-k 
 h,z,m,n,τ,w,n.
 STOP kq-k 
-SPACE
 START kq-q 
 h,i,z,:,d,·,:,m,i,n,:,τ,·,w,·,n.,(p)
 STOP kq-q 
@@ -852,7 +849,6 @@ START kq
 START kq-k 
 k,$,d,y,α
 STOP kq-k 
-SPACE
 START kq-q 
 k,_,$,·si,:,d,·,a,α,‥,<,y
 STOP kq-q 
@@ -1216,7 +1212,6 @@ START kq
 START kq-k 
 w,n,h,y,r,α
 STOP kq-k 
-SPACE
 START kq-q 
 w,·,n,:,h,w,o,r,a,(ti),α
 STOP kq-q 
@@ -1371,7 +1366,6 @@ START kq
 START kq-k 
 h,α,y,τ,y,k.
 STOP kq-k 
-SPACE
 START kq-q 
 h,_,𝓂,α,i,y,τ,a,⅃,k.,:
 STOP kq-q 
@@ -1467,7 +1461,6 @@ START kq
 START kq-k 
 α,n,τ,h
 STOP kq-k 
-SPACE
 START kq-q 
 α,_,⅃,n,:,τ,·,:
 STOP kq-q 
@@ -1546,7 +1539,6 @@ START kq
 START kq-k 
 α,n,τ,h
 STOP kq-k 
-SPACE
 START kq-q 
 α,_,⅃,n,:,τ,·,:
 STOP kq-q 
@@ -1624,7 +1616,6 @@ START kq
 START kq-k 
 m,n,h,w,n.
 STOP kq-k 
-SPACE
 START kq-q 
 m,i,n,·,:,h,‥,y,n.,(p)
 STOP kq-q 
@@ -1638,7 +1629,6 @@ START kq
 START kq-k 
 w,m,n,h,w,n.
 STOP kq-k 
-SPACE
 START kq-q 
 w,·,m,i,n,·,:,h,‥,(ti),y,n.
 STOP kq-q 
@@ -1749,7 +1739,6 @@ START kq
 START kq-k 
 α,n,τ,h
 STOP kq-k 
-SPACE
 START kq-q 
 α,_,⅃,n,:,τ,·,:
 STOP kq-q 
@@ -1784,7 +1773,6 @@ START kq
 START kq-k 
 d,α,r,y,n.
 STOP kq-k 
-SPACE
 START kq-q 
 d,a,𝓂,y,:,r,i,⅃,y,n.
 STOP kq-q 
@@ -1810,7 +1798,6 @@ START kq
 START kq-k 
 α,n,τ,h
 STOP kq-k 
-SPACE
 START kq-q 
 α,_,(qa),n,:,τ,·,:,-
 STOP kq-q 
@@ -1836,7 +1823,6 @@ START kq
 START kq-k 
 α,r,ʕ,α
 STOP kq-k 
-SPACE
 START kq-q 
 α,:_,r,_,⅃,ʕ
 STOP kq-q 
@@ -1850,7 +1836,6 @@ START kq
 START kq-k 
 τ,l,y,τ,y,α
 STOP kq-k 
-SPACE
 START kq-q 
 τ,:,l,i,y,τ,a,α,a,<,h
 STOP kq-q 
@@ -1875,7 +1860,6 @@ START kq
 START kq-k 
 r,v,y,ʕ,y,h
 STOP kq-k 
-SPACE
 START kq-q 
 r,:,v,i,⅃,y,ʕ,a,α,a,ƶ,h
 STOP kq-q 
@@ -1920,7 +1904,6 @@ START kq
 START kq-k 
 m,n,h,w,n.
 STOP kq-k 
-SPACE
 START kq-q 
 m,i,n,·,:,h,‥,(G),n.
 STOP kq-q 
@@ -1934,7 +1917,6 @@ START kq
 START kq-k 
 w,m,n,h,w,n.
 STOP kq-k 
-SPACE
 START kq-q 
 w,·,m,i,n,·,:,h,‥,⅃,y,n.
 STOP kq-q 
@@ -1977,7 +1959,6 @@ START kq
 START kq-k 
 m,n,h,w,n.
 STOP kq-k 
-SPACE
 START kq-q 
 m,i,n,·,:,h,‥,(me),y,n.
 STOP kq-q 
@@ -1989,7 +1970,6 @@ START kq
 START kq-k 
 w,m,n,h,w,n.
 STOP kq-k 
-SPACE
 START kq-q 
 w,·,m,i,n,·,:,h,‥,⅃,y,n.
 STOP kq-q 
@@ -2016,7 +1996,6 @@ START kq
 START kq-k 
 d,y
 STOP kq-k 
-SPACE
 START kq-q 
 w,:,d,i,⅃,y
 STOP kq-q 
@@ -2412,7 +2391,6 @@ START kq
 START kq-k 
 w,q,α,m,y,n.
 STOP kq-k 
-SPACE
 START kq-q 
 w,:,q,a,𝓂,y,:,m,i,y,n.,(p)
 STOP kq-q 
@@ -2460,7 +2438,6 @@ START kq
 START kq-k 
 q,y,τ,r,σ
 STOP kq-k 
-SPACE
 START kq-q 
 q,_,τ,:,r,(qa),w,o,σ
 STOP kq-q 
@@ -2534,7 +2511,6 @@ START kq
 START kq-k 
 q,y,τ,r,σ
 STOP kq-k 
-SPACE
 START kq-q 
 q,_,τ,:,r,<,w,o,σ
 STOP kq-q 
@@ -2613,7 +2589,6 @@ START kq
 START kq-k 
 α,n,τ,h
 STOP kq-k 
-SPACE
 START kq-q 
 α,_,⅃,n,:,τ,·,:
 STOP kq-q 
@@ -2641,7 +2616,6 @@ START kq
 START kq-k 
 q,y,τ,r,σ
 STOP kq-k 
-SPACE
 START kq-q 
 q,_,τ,:,r,(qa),w,o,σ
 STOP kq-q 
@@ -2655,7 +2629,6 @@ START kq
 START kq-k 
 w,σ,y,f,n,y,h
 STOP kq-k 
-SPACE
 START kq-q 
 w,:,σ,w,·,f,·,o,⅃,n,:,y,a,ƶ,h
 STOP kq-q 
@@ -2725,7 +2698,6 @@ START kq
 START kq-k 
 ʕ,l,y,k.
 STOP kq-k 
-SPACE
 START kq-q 
 ʕ,:_,l,a,<,k.,:
 STOP kq-q 
@@ -2739,7 +2711,6 @@ START kq
 START kq-k 
 l,α,l,h,y,k.
 STOP kq-k 
-SPACE
 START kq-q 
 l,‥,𝓂,α,l,a,h,a,k.,:,(p)
 STOP kq-q 
@@ -2858,7 +2829,6 @@ START kq
 START kq-k 
 q,y,τ,r,σ
 STOP kq-k 
-SPACE
 START kq-q 
 q,_,τ,:,r,⅃,w,o,σ
 STOP kq-q 
@@ -2982,7 +2952,6 @@ START kq
 START kq-k 
 l,α,l,h,y,k.
 STOP kq-k 
-SPACE
 START kq-q 
 l,‥,𝓂,α,l,a,h,a,k.,:,(p)
 STOP kq-q 
@@ -2993,7 +2962,6 @@ START kq
 START kq-q 
 α,i,y,τ,_,⅃,n,a,α
 STOP kq-q 
-SPACE
 START kq-k 
 α,y,τ,y,n,α
 STOP kq-k 
@@ -3031,7 +2999,6 @@ START kq
 START kq-k 
 α,$,τ,n,w
 STOP kq-k 
-SPACE
 START kq-q 
 α,∵,$,·sh,:,τ,·,_,n,·,i,ƶ,y
 STOP kq-q 
@@ -3107,7 +3074,6 @@ START kq
 START kq-k 
 f,θ,y,$,y,h,w,n.
 STOP kq-k 
-SPACE
 START kq-q 
 f,·,_,θ,·,:,$,·sh,‥,y,h,ƶ,w,o,n.
 STOP kq-q 
@@ -3268,7 +3234,6 @@ START kq
 START kq-k 
 r,v,y,ʕ,y,α
 STOP kq-k 
-SPACE
 START kq-q 
 r,:,𝓂,v,i,y,ʕ,a,α,a,ƶ,h
 STOP kq-q 
@@ -3311,7 +3276,6 @@ START kq
 START kq-k 
 ʕ,l,y,α
 STOP kq-k 
-SPACE
 START kq-q 
 ʕ,i,l,·,a,α,a,(ti),h
 STOP kq-q 
@@ -3433,7 +3397,6 @@ START kq
 START kq-k 
 g,$,m,y,h,w,n.
 STOP kq-k 
-SPACE
 START kq-q 
 g,∵,$,·sh,:,m,:,h,◆,w,o,n.
 STOP kq-q 
@@ -3472,7 +3435,6 @@ START kq
 START kq-k 
 $,l,h
 STOP kq-k 
-SPACE
 START kq-q 
 $,·sh,a,l,w,·,(p)
 STOP kq-q 
@@ -3554,7 +3516,6 @@ START kq
 START kq-q 
 d,a,y,:,r,i,(me),y,n.
 STOP kq-q 
-SPACE
 START kq-k 
 d,α,r,y,n.
 STOP kq-k 
@@ -3583,7 +3544,6 @@ START kq
 START kq-k 
 ʕ,l,y,α
 STOP kq-k 
-SPACE
 START kq-q 
 ʕ,i,l,·,a,α,a,⅄,h
 STOP kq-q 
@@ -3682,7 +3642,6 @@ START kq
 START kq-k 
 ʕ,l,l,y,n.
 STOP kq-k 
-SPACE
 START kq-q 
 ʕ,oa,l,·,i,◆,y,n.
 STOP kq-q 
@@ -3696,7 +3655,6 @@ START kq
 START kq-k 
 k,$,d,y,α
 STOP kq-k 
-SPACE
 START kq-q 
 k,·,_,$,·si,:,d,·,a,α,‥,(ti),y
 STOP kq-q 
@@ -3861,7 +3819,6 @@ START kq
 START kq-k 
 y,d,r,w,n.
 STOP kq-k 
-SPACE
 START kq-q 
 y,:,d,w,·,r,a,n.,(p)
 STOP kq-q 
@@ -3978,7 +3935,6 @@ START kq
 START kq-q 
 α,:_,n,a,$,·sh,a,⅃,α
 STOP kq-q 
-SPACE
 START kq-k 
 α,n,w,$,α
 STOP kq-k 
@@ -4029,7 +3985,6 @@ START kq
 START kq-k 
 ʕ,l,y,α
 STOP kq-k 
-SPACE
 START kq-q 
 ʕ,i,l,·,a,α,a,(ge),h
 STOP kq-q 
@@ -4041,7 +3996,6 @@ START kq
 START kq-k 
 α,n,w,$,α
 STOP kq-k 
-SPACE
 START kq-q 
 α,:_,n,a,$,·sh,a,◆,α
 STOP kq-q 
@@ -4063,7 +4017,6 @@ START kq
 START kq-k 
 ʕ,l,y,h
 STOP kq-k 
-SPACE
 START kq-q 
 ʕ,:_,l,_,𝓂,h,·
 STOP kq-q 
@@ -4087,7 +4040,6 @@ START kq
 START kq-k 
 w,α,n,τ,h
 STOP kq-k 
-SPACE
 START kq-q 
 w,:,α,_,(qa),n,:,τ,·,:
 STOP kq-q 
@@ -4119,7 +4071,6 @@ START kq
 START kq-k 
 w,α,n,τ,h
 STOP kq-k 
-SPACE
 START kq-q 
 w,:,α,_,⅃,n,:,τ,·,:
 STOP kq-q 
@@ -4182,7 +4133,6 @@ START kq
 START kq-k 
 l,$,n,α,y,k.
 STOP kq-k 
-SPACE
 START kq-q 
 l,:,$,·si,a,𝓂,n,:,α,a,(ti),k.,:
 STOP kq-q 
@@ -4194,7 +4144,6 @@ START kq
 START kq-k 
 l,ʕ,r,y,k.
 STOP kq-k 
-SPACE
 START kq-q 
 l,:,ʕ,a,r,a,𝓂,k.,:
 STOP kq-q 
@@ -4258,7 +4207,6 @@ START kq
 START kq-k 
 α,n,τ,h
 STOP kq-k 
-SPACE
 START kq-q 
 α,_,n,:,τ,·,:,-
 STOP kq-q 
@@ -4273,7 +4221,6 @@ START kq
 START kq-k 
 r,v,y,τ
 STOP kq-k 
-SPACE
 START kq-q 
 r,:,v,_,(ti),τ
 STOP kq-q 
@@ -4375,7 +4322,6 @@ START kq
 START kq-k 
 ʕ,l,y,α
 STOP kq-k 
-SPACE
 START kq-q 
 ʕ,i,l,·,a,α,a,h,(p)
 STOP kq-q 
@@ -4436,7 +4382,6 @@ START kq
 START kq-k 
 ʕ,l,y,k.
 STOP kq-k 
-SPACE
 START kq-q 
 ʕ,:_,l,a,⅄,k.,:
 STOP kq-q 
@@ -4452,7 +4397,6 @@ START kq
 START kq-k 
 ʕ,l,y,α
 STOP kq-k 
-SPACE
 START kq-q 
 ʕ,i,l,·,a,α,a,h,(p)
 STOP kq-q 
@@ -4512,7 +4456,6 @@ START kq
 START kq-k 
 ʕ,l,y,k.
 STOP kq-k 
-SPACE
 START kq-q 
 ʕ,:_,l,a,ƶ,k.,:
 STOP kq-q 
@@ -4522,7 +4465,6 @@ START kq
 START kq-k 
 w,x,θ,y,k.
 STOP kq-k 
-SPACE
 START kq-q 
 w,_,x,:_,θ,a,α,a,k.,:,(p)
 STOP kq-q 
@@ -4666,7 +4608,6 @@ START kq
 START kq-k 
 ʕ,l,y,k.
 STOP kq-k 
-SPACE
 START kq-q 
 ʕ,:_,l,a,⅄,k.,:
 STOP kq-q 
@@ -4682,7 +4623,6 @@ START kq
 START kq-k 
 ʕ,l,y,α
 STOP kq-k 
-SPACE
 START kq-q 
 ʕ,i,l,·,a,α,a,h,(p)
 STOP kq-q 
@@ -4765,7 +4705,6 @@ START kq
 START kq-k 
 w,l,ʕ,l,y,α
 STOP kq-k 
-SPACE
 START kq-q 
 w,·,l,:,ʕ,i,l,·,a,α,a,h,(p)
 STOP kq-q 
@@ -4801,7 +4740,6 @@ START kq
 START kq-q 
 d,·,a,y,:,r,‥,<,y
 STOP kq-q 
-SPACE
 START kq-k 
 d,α,r,y
 STOP kq-k 
@@ -4825,7 +4763,6 @@ START kq
 START kq-k 
 w,d,α,r,y
 STOP kq-k 
-SPACE
 START kq-q 
 w,:,d,a,y,:,r,‥,(ti),y
 STOP kq-q 
@@ -5059,7 +4996,6 @@ START kq
 START kq-k 
 n,f,q,w
 STOP kq-k 
-SPACE
 START kq-q 
 n,:,f,_,(p),q,a,h,(p)
 STOP kq-q 
@@ -5141,7 +5077,6 @@ START kq
 START kq-k 
 k,$,d,y,α
 STOP kq-k 
-SPACE
 START kq-q 
 k,·,_,$,·si,:,d,·,a,α,‥,(ti),y
 STOP kq-q 
@@ -5182,7 +5117,6 @@ START kq
 START kq-k 
 w,h,m,n,w,k,α
 STOP kq-k 
-SPACE
 START kq-q 
 w,:,h,_,𝓂,m,:,n,i,y,k,a,<,α
 STOP kq-q 
@@ -5206,7 +5140,6 @@ START kq
 START kq-k 
 ʕ,l,l,y,n.
 STOP kq-k 
-SPACE
 START kq-q 
 ʕ,a,𝓂,l,·,i,ƶ,y,n.
 STOP kq-q 
@@ -5228,7 +5161,6 @@ START kq
 START kq-k 
 w,f,$,r,α
 STOP kq-k 
-SPACE
 START kq-q 
 w,·,f,i,$,·sh,:,r,‥,(ti),h,·
 STOP kq-q 
@@ -5278,7 +5210,6 @@ START kq
 START kq-k 
 ʕ,l,l,τ
 STOP kq-k 
-SPACE
 START kq-q 
 ʕ,_,l,·,_,⅄,τ
 STOP kq-q 
@@ -5304,7 +5235,6 @@ START kq
 START kq-k 
 w,z,y,w,y,k.
 STOP kq-k 
-SPACE
 START kq-q 
 w,:,z,i,w,a,(ti),y,k.,:
 STOP kq-q 
@@ -5438,7 +5368,6 @@ START kq
 START kq-k 
 α,n,τ,h
 STOP kq-k 
-SPACE
 START kq-q 
 α,_,n,:,τ,·,:,-
 STOP kq-q 
@@ -5472,7 +5401,6 @@ START kq
 START kq-k 
 ʕ,l,y,k.
 STOP kq-k 
-SPACE
 START kq-q 
 ʕ,:_,l,a,ƶ,k.,:
 STOP kq-q 
@@ -5534,7 +5462,6 @@ START kq
 START kq-k 
 ʕ,l,y,k.
 STOP kq-k 
-SPACE
 START kq-q 
 ʕ,:_,l,a,ƶ,k.,:
 STOP kq-q 
@@ -5545,7 +5472,6 @@ START kq
 START kq-q 
 τ,i,k,·,(me),w,·,l
 STOP kq-q 
-SPACE
 START kq-k 
 τ,w,k,l
 STOP kq-k 
@@ -5567,7 +5493,6 @@ START kq
 START kq-k 
 τ,w,k,l
 STOP kq-k 
-SPACE
 START kq-q 
 τ,·,i,k,·,(qa),w,·,l
 STOP kq-q 
@@ -5589,7 +5514,6 @@ START kq
 START kq-k 
 w,h,m,w,n,k,α
 STOP kq-k 
-SPACE
 START kq-q 
 w,:,h,_,𝓂,m,:,n,i,y,k,a,<,α
 STOP kq-q 
@@ -5648,7 +5572,6 @@ START kq
 START kq-k 
 α,n,τ,h
 STOP kq-k 
-SPACE
 START kq-q 
 α,_,(ti),n,:,τ,·,:
 STOP kq-q 
@@ -5662,7 +5585,6 @@ START kq
 START kq-k 
 ʕ,l,y,α
 STOP kq-k 
-SPACE
 START kq-q 
 ʕ,i,l,·,a,α,a,ƶ,h
 STOP kq-q 
@@ -5703,7 +5625,6 @@ START kq
 START kq-k 
 z,α,ʕ,y,n.
 STOP kq-k 
-SPACE
 START kq-q 
 z,a,y,:,ʕ,i,(me),y,n.
 STOP kq-q 
@@ -5786,7 +5707,6 @@ START kq
 START kq-k 
 $,w,y
 STOP kq-k 
-SPACE
 START kq-q 
 $,·sh,_,w,·,i,◆,y,w
 STOP kq-q 
@@ -5822,7 +5742,6 @@ START kq
 START kq-k 
 ʕ,l,y,α
 STOP kq-k 
-SPACE
 START kq-q 
 ʕ,i,l,·,a,α,a,h,(p)
 STOP kq-q 
@@ -5842,7 +5761,6 @@ START kq
 START kq-k 
 ʕ,l,y,h
 STOP kq-k 
-SPACE
 START kq-q 
 ʕ,:_,l,_,𝓂,h,·
 STOP kq-q 
@@ -5854,7 +5772,6 @@ START kq
 START kq-k 
 w,α,n,τ,h
 STOP kq-k 
-SPACE
 START kq-q 
 w,:,α,_,<,n,:,τ,·,:
 STOP kq-q 
@@ -5895,7 +5812,6 @@ START kq
 START kq-k 
 q,d,m,y,k.
 STOP kq-k 
-SPACE
 START kq-q 
 q,oa,𝓂,d,a,m,a,◆,k.,:
 STOP kq-q 
@@ -5905,7 +5821,6 @@ START kq
 START kq-k 
 w,α,n,τ,h
 STOP kq-k 
-SPACE
 START kq-q 
 w,:,α,_,(qa),n,:,τ,·,:
 STOP kq-q 
@@ -5915,7 +5830,6 @@ START kq
 START kq-k 
 w,r,v,r,v,n,y,k.
 STOP kq-k 
-SPACE
 START kq-q 
 w,:,r,_,v,:,r,:,v,a,n,a,(ge),k.,:
 STOP kq-q 
@@ -6058,7 +5972,6 @@ START kq
 START kq-k 
 w,h,m,n,w,k,α
 STOP kq-k 
-SPACE
 START kq-q 
 w,:,h,_,𝓂,m,:,n,i,y,k,a,(me),α
 STOP kq-q 
@@ -6095,7 +6008,6 @@ START kq
 START kq-k 
 k,$,d,y,α
 STOP kq-k 
-SPACE
 START kq-q 
 k,_,$,·si,:,d,·,a,α,a,𝓂,h
 STOP kq-q 
@@ -6110,7 +6022,6 @@ START kq
 START kq-k 
 m,d,y,α
 STOP kq-k 
-SPACE
 START kq-q 
 m,a,𝓂,d,a,α,a,ƶ,h
 STOP kq-q 
@@ -6591,7 +6502,6 @@ START kq
 START kq-k 
 ʕ,l,y,k.
 STOP kq-k 
-SPACE
 START kq-q 
 ʕ,:_,l,a,<,k.,:
 STOP kq-q 
@@ -6730,7 +6640,6 @@ START kq
 START kq-k 
 α,n,τ,h
 STOP kq-k 
-SPACE
 START kq-q 
 α,_,<,n,:,τ,·,:
 STOP kq-q 
@@ -6864,7 +6773,6 @@ START kq
 START kq-k 
 α,n,τ,h
 STOP kq-k 
-SPACE
 START kq-q 
 α,_,<,n,:,τ,·,:
 STOP kq-q 
@@ -6930,7 +6838,6 @@ START kq
 START kq-k 
 q,d,m,y,k.
 STOP kq-k 
-SPACE
 START kq-q 
 q,oa,𝓂,d,a,m,a,k.,:,(p)
 STOP kq-q 
@@ -7050,7 +6957,6 @@ START kq
 START kq-q 
 d,a,y,:,r,i,(me),y,n.
 STOP kq-q 
-SPACE
 START kq-k 
 d,α,r,y,n.
 STOP kq-k 
@@ -7082,7 +6988,6 @@ START kq
 START kq-k 
 z,α,ʕ,y,n.
 STOP kq-k 
-SPACE
 START kq-q 
 z,a,y,:,ʕ,i,y,n.,(p)
 STOP kq-q 
@@ -7161,7 +7066,6 @@ START kq
 START kq-k 
 f,r,σ,y,α
 STOP kq-k 
-SPACE
 START kq-q 
 f,·,a,r,:,σ,a,α,a,𝓂,h
 STOP kq-q 
@@ -7273,7 +7177,6 @@ START kq
 START kq-k 
 g,f,y,h
 STOP kq-k 
-SPACE
 START kq-q 
 g,_,f,·,_,(ge),h,·
 STOP kq-q 
@@ -7326,7 +7229,6 @@ START kq
 START kq-k 
 $,n,y,h
 STOP kq-k 
-SPACE
 START kq-q 
 $,·sh,i,n,·,_,⅄,h,·
 STOP kq-q 
@@ -7374,7 +7276,6 @@ START kq
 START kq-q 
 g,·,_,v,·,_,⅄,h,·
 STOP kq-q 
-SPACE
 START kq-k 
 g,v,y,h
 STOP kq-k 
@@ -7413,7 +7314,6 @@ START kq
 START kq-k 
 r,v,y,ʕ,y,h
 STOP kq-k 
-SPACE
 START kq-q 
 r,:,𝓂,v,i,y,ʕ,a,α,a,μ,h
 STOP kq-q 
@@ -7445,7 +7345,6 @@ START kq
 START kq-k 
 v,r,g,l,y,h
 STOP kq-k 
-SPACE
 START kq-q 
 v,·,:,r,_,g,:,l,_,⅃,h,·
 STOP kq-q 
@@ -7465,7 +7364,6 @@ START kq
 START kq-k 
 q,d,m,y,h
 STOP kq-k 
-SPACE
 START kq-q 
 q,oa,𝓂,d,a,m,_,ƶ,h,·
 STOP kq-q 
@@ -7498,7 +7396,6 @@ START kq
 START kq-k 
 v,y,n,y,h,w,n.
 STOP kq-k 
-SPACE
 START kq-q 
 v,·,‥,𝓂,y,n,‥,y,h,‥,ƶ,n.
 STOP kq-q 
@@ -7514,7 +7411,6 @@ START kq
 START kq-k 
 α,τ,ʕ,q,r,w
 STOP kq-k 
-SPACE
 START kq-q 
 α,∵,τ,:,ʕ,:_,q,_,(ti),r,a,h
 STOP kq-q 
@@ -7525,7 +7421,6 @@ START kq
 START kq-q 
 q,:a,d,a,m,_,⅄,h,·
 STOP kq-q 
-SPACE
 START kq-k 
 q,d,m,y,h
 STOP kq-k 
@@ -7610,7 +7505,6 @@ START kq
 START kq-k 
 α,l,f,y,m.
 STOP kq-k 
-SPACE
 START kq-q 
 α,_,l,:,f,i,y,n.,(p)
 STOP kq-q 
@@ -7624,7 +7518,6 @@ START kq
 START kq-k 
 r,v,w,n.
 STOP kq-k 
-SPACE
 START kq-q 
 r,i,v,:,v,a,(ti),n.
 STOP kq-q 
@@ -7879,7 +7772,6 @@ START kq
 START kq-q 
 k,·,oa,l,·,:,h,‥,⅄,y,n.
 STOP kq-q 
-SPACE
 START kq-k 
 k,l,h,w,n.
 STOP kq-k 
@@ -7893,7 +7785,6 @@ START kq
 START kq-k 
 $,n,y,h
 STOP kq-k 
-SPACE
 START kq-q 
 $,·sh,i,n,·,_,<,h,·
 STOP kq-q 
@@ -7905,7 +7796,6 @@ START kq
 START kq-k 
 w,θ,f,r,y,h
 STOP kq-k 
-SPACE
 START kq-q 
 w,:,θ,i,f,:,r,_,⅃,h,·
 STOP kq-q 
@@ -7923,7 +7813,6 @@ START kq
 START kq-k 
 v,r,g,l,y,h
 STOP kq-k 
-SPACE
 START kq-q 
 v,·,:,r,_,g,:,l,_,(me),h,·
 STOP kq-q 
@@ -7950,7 +7839,6 @@ START kq
 START kq-k 
 w,n,f,l,w
 STOP kq-k 
-SPACE
 START kq-q 
 w,·,n,:,f,_,(me),l,a,h
 STOP kq-q 
@@ -7961,7 +7849,6 @@ START kq
 START kq-q 
 q,:a,d,a,m,_,(ti),h,·
 STOP kq-q 
-SPACE
 START kq-k 
 q,d,m,y,h
 STOP kq-k 
@@ -8050,7 +7937,6 @@ START kq
 START kq-k 
 r,v,y,ʕ,y,h
 STOP kq-k 
-SPACE
 START kq-q 
 r,:,v,i,y,ʕ,a,α,a,h,(p)
 STOP kq-q 
@@ -8116,7 +8002,6 @@ START kq
 START kq-k 
 ʕ,l,y,α
 STOP kq-k 
-SPACE
 START kq-q 
 ʕ,i,l,·,a,α,a,h,(p)
 STOP kq-q 
@@ -8559,7 +8444,6 @@ START kq
 START kq-k 
 h,r,y,m.
 STOP kq-k 
-SPACE
 START kq-q 
 h,w,·,r,_,⅃,m.
 STOP kq-q 
@@ -9071,7 +8955,6 @@ START kq
 START kq-k 
 w,h,r,$,ʕ,n,w
 STOP kq-k 
-SPACE
 START kq-q 
 h,i,r,:,$,·sh,_,⅃,ʕ,:,n,w,·
 STOP kq-q 
@@ -9268,7 +9151,6 @@ START kq-q
 d,·,:,v,a,r,⅃,w,o
 START lp-legarmeih 
 STOP kq-q 
-SPACE
 START kq-k 
 d,v,r,y,w
 STOP kq-k 
@@ -9479,7 +9361,6 @@ START kq
 START kq-k 
 f,q,x,h
 STOP kq-k 
-SPACE
 START kq-q 
 f,·,:,q,_,⅃,x
 STOP kq-q 
@@ -9687,7 +9568,6 @@ START kq
 START kq-k 
 w,l,x,τ,m.
 STOP kq-k 
-SPACE
 START kq-q 
 w,·,l,:,h,a,τ,‥,<,m.
 STOP kq-q 
@@ -9697,7 +9577,6 @@ START kq
 START kq-k 
 x,θ,α,w,τ
 STOP kq-k 
-SPACE
 START kq-q 
 x,_,θ,·,a,α,τ,(p)
 STOP kq-q 
@@ -10751,7 +10630,6 @@ START kq
 START kq-k 
 w,y,τ,g,r,w
 STOP kq-k 
-SPACE
 START kq-q 
 w,:,y,i,τ,:,g,·,a,r,∵,(ti),h
 STOP kq-q 
@@ -10801,7 +10679,6 @@ START kq
 START kq-k 
 y,r,w,m.
 STOP kq-k 
-SPACE
 START kq-q 
 w,:,r,a,⅃,m.
 STOP kq-q 
@@ -10974,7 +10851,6 @@ START kq
 START kq-k 
 w,y,$,v
 STOP kq-k 
-SPACE
 START kq-q 
 w,:,y,a,$,·si,‥,(da),m.
 STOP kq-q 
@@ -11501,7 +11377,6 @@ START kq
 START kq-k 
 h,k,y,r
 STOP kq-k 
-SPACE
 START kq-q 
 y,_,k,·,i,(ti),y,r
 STOP kq-q 

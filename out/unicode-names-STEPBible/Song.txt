@@ -300,7 +300,6 @@ START kq
 START kq-k 
 r,x,y,θ,n,w
 STOP kq-k 
-SPACE
 START kq-q 
 r,_,h,i,y,θ,‥,(ti),n,w,·
 STOP kq-q 
@@ -550,7 +549,6 @@ START kq
 START kq-k 
 l,k,y
 STOP kq-k 
-SPACE
 START kq-q 
 l,a,⟓,k.,:
 STOP kq-q 
@@ -1110,7 +1108,6 @@ START kq
 START kq-k 
 v,α,x,d
 STOP kq-k 
-SPACE
 START kq-q 
 v,·,:,α,_,x,_,⅃,τ
 STOP kq-q 

@@ -246,7 +246,6 @@
           <kq-k>
             <text text="מלכם" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="מַה־לָּכֶם֙" />
           </kq-q>
@@ -262,7 +261,6 @@
           <kq-k>
             <text text="נטוות" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="נְטוּי֣וֹת" />
           </kq-q>
@@ -449,7 +447,6 @@
           <kq-k>
             <text text="ושאג" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="יִשְׁאַ֨ג" />
           </kq-q>
@@ -713,7 +710,6 @@
           <kq-k>
             <text text="לא" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="ל֖וֹ" />
           </kq-q>
@@ -736,7 +732,6 @@
           <kq-k>
             <text text="לם רבה" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="לְמַרְבֵּ֨ה" />
           </kq-q>
@@ -822,7 +817,6 @@
           <kq-k>
             <text text="ולשימו" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="וּלְשׂוּמ֥וֹ" />
           </kq-q>
@@ -858,7 +852,6 @@
           <kq-k>
             <text text="ועתידתיהם" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="וַעֲתֽוּדֹתֵיהֶם֙" />
           </kq-q>
@@ -940,7 +933,6 @@
           <kq-k>
             <text text="בית" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="בַּת־" />
           </kq-q>
@@ -1039,7 +1031,6 @@
           <kq-k>
             <text text="מידעת" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="מוּדַ֥עַת" />
           </kq-q>
@@ -1110,7 +1101,6 @@
           <kq-k>
             <text text="תשגלנה" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="תִּשָּׁכַֽבְנָה" />
           </kq-q>
@@ -1289,7 +1279,6 @@
           <kq-k>
             <text text="הביאו" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="הָבִ֤יאִי" />
           </kq-q>
@@ -1418,7 +1407,6 @@
           <kq-k>
             <text text="אשקוטה" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="אֶשְׁקֳטָ֖ה" />
           </kq-q>
@@ -1774,7 +1762,6 @@
           <kq-k>
             <text text="כתיים" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="כִּתִּים֙" />
           </kq-q>
@@ -1789,7 +1776,6 @@
           <kq-k>
             <text text="בחיניו" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="בַחוּנָ֗יו" />
           </kq-q>
@@ -1946,7 +1932,6 @@
           <kq-k>
             <text text="במי" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="בְּמ֥וֹ" />
           </kq-q>
@@ -2044,17 +2029,15 @@
           <kq-k>
             <text text="דלתיך" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="דְּלָֽתְךָ֖" />
           </kq-q>
         </kq>
         <text text=" בַּעֲדֶ֑ךָ חֲבִ֥י כִמְעַט־רֶ֖גַע עַד־" />
-        <kq>
+        <kq class="sep-maqaf">
           <kq-k>
             <text text="יעבור" />
           </kq-k>
-          <text text="־" />
           <kq-q>
             <text text="יַעֲבׇר־" />
           </kq-q>
@@ -2191,7 +2174,6 @@
           <kq-k>
             <text text="שיט" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="שׁ֣וֹט" />
           </kq-q>
@@ -2201,7 +2183,6 @@
           <kq-q>
             <text text="יַֽעֲבֹר֙" />
           </kq-q>
-          <text text=" " />
           <kq-k>
             <text text="עבר" />
           </kq-k>
@@ -2303,7 +2284,6 @@
           <kq-k>
             <text text="הספר" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="סֵ֛פֶר" />
           </kq-q>
@@ -2479,7 +2459,6 @@
           <kq-q>
             <text text="בָּֽם" />
           </kq-q>
-          <text text=" " />
           <kq-k>
             <text text="בה" />
           </kq-k>
@@ -2492,7 +2471,6 @@
           <kq-q>
             <text text="הִ֛יא" />
           </kq-q>
-          <text text=" " />
           <kq-k>
             <text text="הוא" />
           </kq-k>
@@ -2565,7 +2543,6 @@
           <kq-k>
             <text text="ענוים" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="עֲנִיִּים֙" />
           </kq-q>
@@ -2602,7 +2579,6 @@
           <kq-k>
             <text text="וכרמל" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="וְהַכַּרְמֶ֖ל" />
           </kq-q>
@@ -2858,7 +2834,6 @@
           <kq-q>
             <text text="צוֹאָתָ֗ם" />
           </kq-q>
-          <text text=" " />
           <kq-k>
             <text text="חראיהם" />
           </kq-k>
@@ -2868,7 +2843,6 @@
           <kq-q>
             <text text="מֵימֵ֥י רַגְלֵיהֶ֖ם" />
           </kq-q>
-          <text text=" " />
           <kq-k>
             <text text="שיניהם" />
           </kq-k>
@@ -3022,7 +2996,6 @@
           <kq-k>
             <text text="ואכול" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="וְאִכְל֥וּ" />
           </kq-q>
@@ -3397,7 +3370,6 @@
           <kq-k>
             <text text="ונרא" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="וְנִרְאֶ֥ה" />
           </kq-q>
@@ -3506,7 +3478,6 @@
           <kq-k>
             <text text="ראית" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="רָא֥וֹת" />
           </kq-q>
@@ -3528,7 +3499,6 @@
           <kq-k>
             <text text="למשוסה" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="לִמְשִׁסָּ֧ה" />
           </kq-q>
@@ -3702,7 +3672,6 @@
           <kq-k>
             <text text="יסגוד" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="יִסְגׇּד־" />
           </kq-q>
@@ -3739,7 +3708,6 @@
           <kq-k>
             <text text="מי אתי" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="מֵאִתִּֽי" />
           </kq-q>
@@ -3772,7 +3740,6 @@
           <kq-k>
             <text text="אושר" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="אֲיַשֵּׁ֑ר" />
           </kq-q>
@@ -3915,7 +3882,6 @@
           <kq-k>
             <text text="עצתו" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="עֲצָתִ֑י" />
           </kq-q>
@@ -3986,7 +3952,6 @@
           <kq-k>
             <text text="הברו" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="הֹבְרֵ֣י" />
           </kq-q>
@@ -4112,7 +4077,6 @@
           <kq-k>
             <text text="לא" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="ל֣וֹ" />
           </kq-q>
@@ -4125,7 +4089,6 @@
           <kq-k>
             <text text="ונצירי" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="וּנְצוּרֵ֥י" />
           </kq-q>
@@ -4164,7 +4127,6 @@
           <kq-k>
             <text text="יפצחו" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="וּפִצְח֥וּ" />
           </kq-q>
@@ -4389,7 +4351,6 @@
           <kq-k>
             <text text="התפתחו" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="הִֽתְפַּתְּחִי֙" />
           </kq-q>
@@ -4554,7 +4515,6 @@
           <kq-k>
             <text text="הן" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="הִנֵּ֤ה" />
           </kq-q>
@@ -4614,7 +4574,6 @@
           <kq-k>
             <text text="תחת" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="וְתַ֥חַת" />
           </kq-q>
@@ -4747,7 +4706,6 @@
           <kq-k>
             <text text="נוב" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="נִ֣יב" />
           </kq-q>
@@ -4812,7 +4770,6 @@
           <kq-q>
             <text text="בָּ֣מֳתֵי" />
           </kq-q>
-          <text text=" " />
           <kq-k>
             <text text="במותי" />
           </kq-k>
@@ -4963,7 +4920,6 @@
           <kq-k>
             <text text="מטעו" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="מַטָּעַ֛י" />
           </kq-q>
@@ -5032,7 +4988,6 @@
           <kq-k>
             <text text="וצנוף" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="וּצְנִ֥יף" />
           </kq-q>
@@ -5115,7 +5070,6 @@
           <kq-k>
             <text text="לא" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="ל֣וֹ" />
           </kq-q>
@@ -5212,7 +5166,6 @@
           <kq-k>
             <text text="ופרק" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="וּמְרַ֥ק" />
           </kq-q>
@@ -5231,7 +5184,6 @@
           <kq-k>
             <text text="על" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="אֶל־" />
           </kq-q>
@@ -5377,7 +5329,6 @@
           <kq-k>
             <text text="אחד" />
           </kq-k>
-          <text text=" " />
           <kq-q>
             <text text="אַחַת֙" />
           </kq-q>

@@ -4887,7 +4887,6 @@ cant_dual
     START kq-k 
     m,ц,w,τ,w
     STOP kq-k 
-    SPACE
     START kq-q 
     m,i,ц,:,w,hhfv,τ,a,𝓂,y
     STOP kq-q 
@@ -4909,7 +4908,6 @@ cant_alef
     START kq-k 
     m,ц,w,τ,w
     STOP kq-k 
-    SPACE
     START kq-q 
     m,i,ц,:,w,hhfv,τ,a,𝓂,y,.
     STOP kq-q 
@@ -4930,7 +4928,6 @@ cant_bet
     START kq-k 
     m,ц,w,τ,w
     STOP kq-k 
-    SPACE
     START kq-q 
     m,i,ц,:,w,hhfv,τ,a,𝓂,y,.
     STOP kq-q 
@@ -16081,7 +16078,6 @@ START kq
 START kq-k 
 $,f,k,h
 STOP kq-k 
-SPACE
 START kq-q 
 $,·sh,a,𝓂,f,:,k,w,·,(p)
 STOP kq-q 
@@ -20880,7 +20876,6 @@ START kq
 START kq-k 
 w,v,ʕ,f,l,y,m.
 STOP kq-k 
-SPACE
 START kq-q 
 w,·,v,_,θ,·,:,x,o,r,i,ƶ,y,m.
 STOP kq-q 
@@ -20957,7 +20952,6 @@ START kq
 START kq-k 
 y,$,g,l,n,h
 STOP kq-k 
-SPACE
 START kq-q 
 y,i,$,·sh,:,k,·,a,v,∵,ƶ,n,·,a,h
 STOP kq-q 
@@ -22725,7 +22719,6 @@ START kq
 START kq-k 
 w,ц,v,y,y,m.
 STOP kq-k 
-SPACE
 START kq-q 
 w,·,ц,:,v,w,o,y,i,ƶ,m.
 STOP kq-q 
@@ -24724,7 +24717,6 @@ START kq
 START kq-q 
 v,·,a,⅃,m,:a,τ,‥,y
 STOP kq-q 
-SPACE
 START kq-k 
 v,m,w,τ,y
 STOP kq-k 
@@ -25703,7 +25695,6 @@ START kq
 START kq-k 
 α,$,d,τ
 STOP kq-k 
-SPACE
 START kq-q 
 α,‥,(me),$,·sh
 SPACE

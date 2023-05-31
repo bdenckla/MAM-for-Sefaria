@@ -1768,7 +1768,6 @@ START kq
 START kq-k 
 m,z,h
 STOP kq-k 
-SPACE
 START kq-q 
 m,_,h,-,z,·,∵,⅃,h
 STOP kq-q 
@@ -10831,7 +10830,6 @@ START kq
 START kq-k 
 w,y,l,y,n,w
 STOP kq-k 
-SPACE
 START kq-q 
 w,_,y,·,i,l,·,(ge),w,o,n,w,·
 STOP kq-q 
@@ -11009,7 +11007,6 @@ START kq
 START kq-k 
 τ,l,w,n,w
 STOP kq-k 
-SPACE
 START kq-q 
 τ,_,l,·,i,(ti),y,n,w,·
 STOP kq-q 
@@ -14676,7 +14673,6 @@ START kq
 START kq-q 
 l,(me),w,o
 STOP kq-q 
-SPACE
 START kq-k 
 l,α
 STOP kq-k 
@@ -27397,7 +27393,6 @@ START kq
 START kq-k 
 q,ц,w,w,τ,w
 STOP kq-k 
-SPACE
 START kq-q 
 q,:,ц,w,o,τ,a,𝓂,y,w
 STOP kq-q 
@@ -28798,7 +28793,6 @@ START kq
 START kq-k 
 q,ц,w,w,τ,w
 STOP kq-k 
-SPACE
 START kq-q 
 q,:,ц,w,o,τ,a,(ti),y,w
 STOP kq-q 
