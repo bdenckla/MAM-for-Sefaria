@@ -218,11 +218,11 @@ SPACE
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,y,ʕ,$,h,RIGHT PARENTHESIS
+y,ʕ,$,h
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,y,_,⅃,ʕ,_,$,·si,RIGHT SQUARE BRACKET
+y,_,⅃,ʕ,_,$,·si
 STOP kq-q 
 STOP kq 
 SPACE
@@ -630,11 +630,11 @@ w,·,𝓂,l,:,n,oa,ʕ,:a,m,i,(G),y
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,m,y,d,ʕ,RIGHT PARENTHESIS
+m,y,d,ʕ
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,m,w,o,d,a,⅃,ʕ,RIGHT SQUARE BRACKET
+m,w,o,d,a,⅃,ʕ
 STOP kq-q 
 STOP kq 
 SPACE
@@ -1367,11 +1367,11 @@ w,:,$,·si,_,(da),m,:,τ,·,:
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,$,m,l,τ,k.,RIGHT PARENTHESIS
+$,m,l,τ,k.
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,$,·si,i,m,:,l,o,τ,_,⟓,y,i,k.,:,RIGHT SQUARE BRACKET
+$,·si,i,m,:,l,o,τ,_,⟓,y,i,k.,:
 STOP kq-q 
 STOP kq 
 SPACE
@@ -1379,11 +1379,11 @@ SPACE
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,w,y,r,d,τ,y,RIGHT PARENTHESIS
+w,y,r,d,τ,y
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,w,:,y,a,r,_,⅃,d,:,τ,·,:,RIGHT SQUARE BRACKET
+w,:,y,a,r,_,⅃,d,:,τ,·,:
 STOP kq-q 
 STOP kq 
 SPACE
@@ -1422,11 +1422,11 @@ m,_,r,:,g,·,:,l,o,τ,a,(ti),y,w
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,w,$,k,v,τ,y,RIGHT PARENTHESIS
+w,$,k,v,τ,y
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,w,:,$,·sh,a,k,a,⅄,v,:,τ,·,:,RIGHT SQUARE BRACKET
+w,:,$,·sh,a,k,a,⅄,v,:,τ,·,:
 STOP kq-q 
 STOP kq 
 SPACE
@@ -1677,11 +1677,11 @@ w,_,τ,·,a,Ƶ,q,oa,m.
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,v,θ,r,w,m.,RIGHT PARENTHESIS
+v,θ,r,w,m.
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,v,·,:,θ,∵,⟓,r,∵,m.,RIGHT SQUARE BRACKET
+v,·,:,θ,∵,⟓,r,∵,m.
 STOP kq-q 
 STOP kq 
 SPACE
@@ -1921,11 +1921,11 @@ l,·,i,◆,y
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,w,α,d,ʕ,RIGHT PARENTHESIS
+w,α,d,ʕ
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,w,:,α,‥,𝓂,d,:,ʕ,a,h,(p),RIGHT SQUARE BRACKET
+w,:,α,‥,𝓂,d,:,ʕ,a,h,(p)
 STOP kq-q 
 STOP kq 
 SPACE
@@ -1970,11 +1970,11 @@ SPACE
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,q,n,y,τ,y,RIGHT PARENTHESIS
+q,n,y,τ,y
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,q,a,n,i,ƶ,y,τ,a,RIGHT SQUARE BRACKET
+q,a,n,i,ƶ,y,τ,a
 STOP kq-q 
 STOP kq 
 SPACE
@@ -1995,11 +1995,11 @@ SPACE
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,l,g,α,w,l,RIGHT PARENTHESIS
+l,g,α,w,l
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,l,i,g,:,α,oa,l,-,RIGHT SQUARE BRACKET
+l,i,g,:,α,oa,l,-
 STOP kq-q 
 STOP kq 
 l,i,ƶ,y

@@ -37,11 +37,11 @@
         <text text="הֲלֹֽא־" />
         <kq>
           <kq-q>
-            <text text="[אַ֠תָּ֠ה]" />
+            <text text="אַ֠תָּ֠ה" />
           </kq-q>
           <text text=" " />
           <kq-k>
-            <text text="(את)" />
+            <text text="את" />
           </kq-k>
         </kq>
         <text text=" שַׂ֣כְתָּ בַעֲד֧וֹ וּבְעַד־בֵּית֛וֹ וּבְעַ֥ד כׇּל־אֲשֶׁר־ל֖וֹ מִסָּבִ֑יב מַעֲשֵׂ֤ה יָדָיו֙ בֵּרַ֔כְתָּ וּמִקְנֵ֖הוּ פָּרַ֥ץ בָּאָֽרֶץ׃" />
@@ -117,11 +117,11 @@
         <text text="וַיֵּצֵא֙ הַשָּׂטָ֔ן מֵאֵ֖ת פְּנֵ֣י יְהֹוָ֑ה וַיַּ֤ךְ אֶת־אִיּוֹב֙ בִּשְׁחִ֣ין רָ֔ע מִכַּ֥ף רַגְל֖וֹ " />
         <kq>
           <kq-k>
-            <text text="(עד)" />
+            <text text="עד" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[וְעַ֥ד]" />
+            <text text="וְעַ֥ד" />
           </kq-q>
         </kq>
         <text text=" קׇדְקֳדֽוֹ׃" />
@@ -417,11 +417,11 @@
         <text text="ל֗וּ שָׁק֣וֹל יִשָּׁקֵ֣ל כַּעְשִׂ֑י " />
         <kq>
           <kq-k>
-            <text text="(והיתי)" />
+            <text text="והיתי" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[וְ֝הַוָּתִ֗י]" />
+            <text text="וְ֝הַוָּתִ֗י" />
           </kq-q>
         </kq>
         <text text=" בְּֽמֹאזְנַ֥יִם יִשְׂאוּ־יָֽחַד׃" />
@@ -510,11 +510,11 @@
         <text text="שֽׁוּבוּ־נָ֭א אַל־תְּהִ֣י עַוְלָ֑ה " />
         <kq>
           <kq-k>
-            <text text="(ושבי)" />
+            <text text="ושבי" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[וְשׁ֥וּבוּ]" />
+            <text text="וְשׁ֥וּבוּ" />
           </kq-q>
         </kq>
         <text text=" ע֝֗וֹד צִדְקִי־בָֽהּ׃" />
@@ -528,11 +528,11 @@
         <text text="הֲלֹֽא־צָבָ֣א לֶֽאֱנ֣וֹשׁ " />
         <kq>
           <kq-k>
-            <text text="(על)" />
+            <text text="על" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[עֲלֵי־]" />
+            <text text="עֲלֵי־" />
           </kq-q>
         </kq>
         <text text="אָ֑רֶץ וְכִימֵ֖י שָׂכִ֣יר יָמָֽיו׃" />
@@ -550,15 +550,15 @@
         <text text="לָ֘בַ֤שׁ בְּשָׂרִ֣י רִ֭מָּה " />
         <kq>
           <kq-k>
-            <text text="(ו" />
+            <text text="ו" />
             <letter-small>
               <text text="ג" />
             </letter-small>
-            <text text="יש)" />
+            <text text="יש" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[וְג֣וּשׁ]" />
+            <text text="וְג֣וּשׁ" />
           </kq-q>
         </kq>
         <text text=" עָפָ֑ר עוֹרִ֥י רָ֝גַ֗ע וַיִּמָּאֵֽס׃" />
@@ -786,11 +786,11 @@
         <text text="אִם־הִתְרָחַ֥צְתִּי " />
         <kq>
           <kq-k>
-            <text text="(במו)" />
+            <text text="במו" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[בְמֵי־]" />
+            <text text="בְמֵי־" />
           </kq-q>
         </kq>
         <text text="שָׁ֑לֶג וַ֝הֲזִכּ֗וֹתִי בְּבֹ֣ר כַּפָּֽי׃" />
@@ -881,21 +881,21 @@
         <text text="הֲלֹֽא־מְעַ֣ט יָמַ֣י " />
         <kq>
           <kq-k>
-            <text text="(יחדל)" />
+            <text text="יחדל" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[וַחֲדָ֑ל]" />
+            <text text="וַחֲדָ֑ל" />
           </kq-q>
         </kq>
         <text text=" " />
         <kq>
           <kq-k>
-            <text text="(ישית)" />
+            <text text="ישית" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[וְשִׁ֥ית]" />
+            <text text="וְשִׁ֥ית" />
           </kq-q>
         </kq>
         <text text=" מִ֝מֶּ֗נִּי וְאַבְלִ֥יגָה מְּעָֽט׃" />
@@ -1113,11 +1113,11 @@
         <text text="הֵ֣ן יִ֭קְטְלֵנִי " />
         <kq>
           <kq-k>
-            <text text="(לא)" />
+            <text text="לא" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[ל֣וֹ]" />
+            <text text="ל֣וֹ" />
           </kq-q>
         </kq>
         <text text=" אֲיַחֵ֑ל אַךְ־דְּ֝רָכַ֗י אֶל־פָּנָ֥יו אוֹכִֽיחַ׃" />
@@ -1309,11 +1309,11 @@
         <text text="לֹא־יַאֲמִ֣ין שׁ֭וּב מִנִּי־חֹ֑שֶׁךְ " />
         <kq>
           <kq-k>
-            <text text="(וצפו)" />
+            <text text="וצפו" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[וְצָפ֖וּי]" />
+            <text text="וְצָפ֖וּי" />
           </kq-q>
         </kq>
         <text text=" ה֣וּא אֱלֵי־חָֽרֶב׃" />
@@ -1435,11 +1435,11 @@
         <text text="פָּנַ֣י " />
         <kq>
           <kq-k>
-            <text text="(חמרמרה)" />
+            <text text="חמרמרה" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[חֳ֭מַרְמְרוּ]" />
+            <text text="חֳ֭מַרְמְרוּ" />
           </kq-q>
         </kq>
         <text text=" מִנִּי־בֶ֑כִי וְעַ֖ל עַפְעַפַּ֣י צַלְמָֽוֶת׃" />
@@ -1681,11 +1681,11 @@
         <text text=" מִפְּנֵי־חֶ֗רֶב כִּֽי־חֵ֭מָה עֲוֺנ֣וֹת חָ֑רֶב לְמַ֖עַן תֵּדְע֣וּן " />
         <kq>
           <kq-k>
-            <text text="(שדין)" />
+            <text text="שדין" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[שַׁדּֽוּן]" />
+            <text text="שַׁדּֽוּן" />
           </kq-q>
         </kq>
         <text text="׃" />
@@ -1836,11 +1836,11 @@
       <verse osisID="Job.21.13">
         <kq>
           <kq-k>
-            <text text="(יבלו)" />
+            <text text="יבלו" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[יְכַלּ֣וּ]" />
+            <text text="יְכַלּ֣וּ" />
           </kq-q>
         </kq>
         <text text=" בַטּ֣וֹב יְמֵיהֶ֑ם וּ֝בְרֶ֗גַע שְׁא֣וֹל יֵחָֽתּוּ׃" />
@@ -2096,11 +2096,11 @@
         <text text="בַּ֭שָּׂדֶה בְּלִיל֣וֹ " />
         <kq>
           <kq-k>
-            <text text="(יקצירו)" />
+            <text text="יקצירו" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[יִקְצ֑וֹרוּ]" />
+            <text text="יִקְצ֑וֹרוּ" />
           </kq-q>
         </kq>
         <text text=" וְכֶ֖רֶם רָשָׁ֣ע יְלַקֵּֽשׁוּ׃" />
@@ -2243,11 +2243,11 @@
         <text text="בְּ֭כֹחוֹ רָגַ֣ע הַיָּ֑ם " />
         <kq>
           <kq-k>
-            <text text="(ובתובנתו)" />
+            <text text="ובתובנתו" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[וּ֝בִתְבוּנָת֗וֹ]" />
+            <text text="וּ֝בִתְבוּנָת֗וֹ" />
           </kq-q>
         </kq>
         <text text=" מָ֣חַץ רָֽהַב׃" />
@@ -2560,11 +2560,11 @@
         <text text="כִּֽי־" />
         <kq>
           <kq-q>
-            <text text="[יִתְרִ֣י]" />
+            <text text="יִתְרִ֣י" />
           </kq-q>
           <text text=" " />
           <kq-k>
-            <text text="(יתרו)" />
+            <text text="יתרו" />
           </kq-k>
         </kq>
         <text text=" פִ֭תַּח וַיְעַנֵּ֑נִי וְ֝רֶ֗סֶן מִפָּנַ֥י שִׁלֵּֽחוּ׃" />
@@ -2603,11 +2603,11 @@
         <text text="תִּשָּׂאֵ֣נִי אֶל־ר֭וּחַ תַּרְכִּיבֵ֑נִי וּ֝תְמֹגְגֵ֗נִי " />
         <kq>
           <kq-k>
-            <text text="(תשוה)" />
+            <text text="תשוה" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[תּוּשִׁיָּֽה]" />
+            <text text="תּוּשִׁיָּֽה" />
           </kq-q>
         </kq>
         <text text="׃" />
@@ -2677,21 +2677,21 @@
         <text text="כִּי־" />
         <kq>
           <kq-q>
-            <text text="[הִ֥יא]" />
+            <text text="הִ֥יא" />
           </kq-q>
           <text text=" " />
           <kq-k>
-            <text text="(הוא)" />
+            <text text="הוא" />
           </kq-k>
         </kq>
         <text text=" זִמָּ֑ה " />
         <kq>
           <kq-k>
-            <text text="(והיא)" />
+            <text text="והיא" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[וְ֝ה֗וּא]" />
+            <text text="וְ֝ה֗וּא" />
           </kq-q>
         </kq>
         <text text=" עָוֺ֥ן פְּלִילִֽים׃" />
@@ -2946,11 +2946,11 @@
         <text text="וְהוּכַ֣ח בְּ֭מַכְאוֹב עַל־מִשְׁכָּב֑וֹ " />
         <kq>
           <kq-k>
-            <text text="(וריב)" />
+            <text text="וריב" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[וְר֖וֹב]" />
+            <text text="וְר֖וֹב" />
           </kq-q>
         </kq>
         <text text=" עֲצָמָ֣יו אֵתָֽן׃" />
@@ -2962,11 +2962,11 @@
         <text text="יִ֣כֶל בְּשָׂר֣וֹ מֵרֹ֑אִי " />
         <kq>
           <kq-k>
-            <text text="(ושפי)" />
+            <text text="ושפי" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[וְשֻׁפּ֥וּ]" />
+            <text text="וְשֻׁפּ֥וּ" />
           </kq-q>
         </kq>
         <text text=" עַ֝צְמֹתָ֗יו לֹ֣א רֻאּֽוּ׃" />
@@ -2999,21 +2999,21 @@
         <text text="פָּדָ֣ה " />
         <kq>
           <kq-k>
-            <text text="(נפשי)" />
+            <text text="נפשי" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[נַ֭פְשׁוֹ]" />
+            <text text="נַ֭פְשׁוֹ" />
           </kq-q>
         </kq>
         <text text=" מֵעֲבֹ֣ר בַּשָּׁ֑חַת " />
         <kq>
           <kq-k>
-            <text text="(וחיתי)" />
+            <text text="וחיתי" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[וְ֝חַיָּת֗וֹ]" />
+            <text text="וְ֝חַיָּת֗וֹ" />
           </kq-q>
         </kq>
         <text text=" בָּא֥וֹר תִּרְאֶֽה׃" />
@@ -3425,13 +3425,13 @@
         <text text="וַיַּֽעַן־יְהֹוָ֣ה אֶת־אִ֭יּוֹב " />
         <kq>
           <kq-k>
-            <text text="(מנהסערה)" />
+            <text text="מנהסערה" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[מִ֥ן" />
+            <text text="מִ֥ן" />
             <lp-paseq />
-            <text text="הַסְּעָרָ֗ה]" />
+            <text text="הַסְּעָרָ֗ה" />
           </kq-q>
         </kq>
         <text text=" וַיֹּאמַֽר׃" />
@@ -3472,11 +3472,11 @@
         <text text="הֲֽ֭מִיָּמֶיךָ צִוִּ֣יתָ בֹּ֑קֶר " />
         <kq>
           <kq-k>
-            <text text="(ידעתה שחר)" />
+            <text text="ידעתה שחר" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[יִדַּ֖עְתָּ הַשַּׁ֣חַר]" />
+            <text text="יִדַּ֖עְתָּ הַשַּׁ֣חַר" />
           </kq-q>
         </kq>
         <text text=" מְקֹמֽוֹ׃" />
@@ -3619,11 +3619,11 @@
         <text text="הֲתַאֲמִ֣ין בּ֭וֹ כִּֽי־" />
         <kq>
           <kq-q>
-            <text text="[יָשִׁ֣יב]" />
+            <text text="יָשִׁ֣יב" />
           </kq-q>
           <text text=" " />
           <kq-k>
-            <text text="(ישוב)" />
+            <text text="ישוב" />
           </kq-k>
         </kq>
         <text text=" זַרְעֶ֑ךָ וְֽגׇרְנְךָ֥ יֶאֱסֹֽף׃" />
@@ -3721,13 +3721,13 @@
         <text text="וַיַּעַן־יְהֹוָ֣ה אֶת־אִ֭יּוֹב " />
         <kq>
           <kq-k>
-            <text text="(מנסערה)" />
+            <text text="מנסערה" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[מִ֥ן" />
+            <text text="מִ֥ן" />
             <lp-paseq />
-            <text text="סְעָרָ֗ה]" />
+            <text text="סְעָרָ֗ה" />
           </kq-q>
         </kq>
         <text text=" וַיֹּאמַֽר׃" />
@@ -3832,11 +3832,11 @@
       <verse osisID="Job.41.4">
         <kq>
           <kq-k>
-            <text text="(לא)" />
+            <text text="לא" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[לוֹ־]" />
+            <text text="לוֹ־" />
           </kq-q>
         </kq>
         <text text="אַחֲרִ֥ישׁ בַּדָּ֑יו וּדְבַר־גְּ֝בוּר֗וֹת וְחִ֣ין עֶרְכּֽוֹ׃" />
@@ -3918,11 +3918,11 @@
       <verse osisID="Job.42.2">
         <kq>
           <kq-k>
-            <text text="(ידעת)" />
+            <text text="ידעת" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[יָ֭דַעְתִּי]" />
+            <text text="יָ֭דַעְתִּי" />
           </kq-q>
         </kq>
         <text text=" כִּי־כֹ֣ל תּוּכָ֑ל וְלֹֽא־יִבָּצֵ֖ר מִמְּךָ֣ מְזִמָּֽה׃" />
@@ -3964,11 +3964,11 @@
         <text text="וַיהֹוָ֗ה שָׁ֚ב אֶת־" />
         <kq>
           <kq-q>
-            <text text="[שְׁב֣וּת]" />
+            <text text="שְׁב֣וּת" />
           </kq-q>
           <text text=" " />
           <kq-k>
-            <text text="(שבית)" />
+            <text text="שבית" />
           </kq-k>
         </kq>
         <text text=" אִיּ֔וֹב בְּהִֽתְפַּֽלְל֖וֹ בְּעַ֣ד רֵעֵ֑הוּ וַיֹּ֧סֶף יְהֹוָ֛ה אֶת־כׇּל־אֲשֶׁ֥ר לְאִיּ֖וֹב לְמִשְׁנֶֽה׃" />
@@ -3992,11 +3992,11 @@
         <text text="וַיְחִ֤י אִיּוֹב֙ אַחֲרֵי־זֹ֔את מֵאָ֥ה וְאַרְבָּעִ֖ים שָׁנָ֑ה " />
         <kq>
           <kq-k>
-            <text text="(וירא)" />
+            <text text="וירא" />
           </kq-k>
           <text text=" " />
           <kq-q>
-            <text text="[וַיִּרְאֶ֗ה]" />
+            <text text="וַיִּרְאֶ֗ה" />
           </kq-q>
         </kq>
         <text text=" אֶת־בָּנָיו֙ וְאֶת־בְּנֵ֣י בָנָ֔יו אַרְבָּעָ֖ה דֹּרֽוֹת׃" />

@@ -1766,11 +1766,11 @@ y,:,h,o,w,a,(ti),h
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,m,z,h,RIGHT PARENTHESIS
+m,z,h
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,m,_,h,-,z,·,∵,⅃,h,RIGHT SQUARE BRACKET
+m,_,h,-,z,·,∵,⅃,h
 STOP kq-q 
 STOP kq 
 SPACE
@@ -10829,11 +10829,11 @@ m,i,ц,:,r,a,𝓂,y,i,m.,.
 Exodus 16:2 in vtrad vtbhs
 START kq 
 START kq-k 
-LEFT PARENTHESIS,w,y,l,y,n,w,RIGHT PARENTHESIS
+w,y,l,y,n,w
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,w,_,y,·,i,l,·,(ge),w,o,n,w,·,RIGHT SQUARE BRACKET
+w,_,y,·,i,l,·,(ge),w,o,n,w,·
 STOP kq-q 
 STOP kq 
 SPACE
@@ -11007,11 +11007,11 @@ k,·,i,(me),y
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,τ,l,w,n,w,RIGHT PARENTHESIS
+τ,l,w,n,w
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,τ,_,l,·,i,(ti),y,n,w,·,RIGHT SQUARE BRACKET
+τ,_,l,·,i,(ti),y,n,w,·
 STOP kq-q 
 STOP kq 
 SPACE
@@ -14674,11 +14674,11 @@ SPACE
 α,:_,$,·sh,∵,r,-
 START kq 
 START kq-q 
-LEFT SQUARE BRACKET,l,(me),w,o,RIGHT SQUARE BRACKET
+l,(me),w,o
 STOP kq-q 
 SPACE
 START kq-k 
-LEFT PARENTHESIS,l,α,RIGHT PARENTHESIS
+l,α
 STOP kq-k 
 STOP kq 
 SPACE
@@ -27395,11 +27395,11 @@ m,i,$,·sh,·,:,n,‥,(me),y
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,q,ц,w,w,τ,w,RIGHT PARENTHESIS
+q,ц,w,w,τ,w
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,q,:,ц,w,o,τ,a,𝓂,y,w,RIGHT SQUARE BRACKET
+q,:,ц,w,o,τ,a,𝓂,y,w
 STOP kq-q 
 STOP kq 
 .
@@ -28796,11 +28796,11 @@ SPACE
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,q,ц,w,w,τ,w,RIGHT PARENTHESIS
+q,ц,w,w,τ,w
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,q,:,ц,w,o,τ,a,(ti),y,w,RIGHT SQUARE BRACKET
+q,:,ц,w,o,τ,a,(ti),y,w
 STOP kq-q 
 STOP kq 
 SPACE

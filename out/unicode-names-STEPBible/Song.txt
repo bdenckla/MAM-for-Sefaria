@@ -298,11 +298,11 @@ SPACE
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,r,x,y,θ,n,w,RIGHT PARENTHESIS
+r,x,y,θ,n,w
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,r,_,h,i,y,θ,‥,(ti),n,w,·,RIGHT SQUARE BRACKET
+r,_,h,i,y,θ,‥,(ti),n,w,·
 STOP kq-q 
 STOP kq 
 SPACE
@@ -548,11 +548,11 @@ q,(me),w,·,m,i,y
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,l,k,y,RIGHT PARENTHESIS
+l,k,y
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,l,a,⟓,k.,:,RIGHT SQUARE BRACKET
+l,a,⟓,k.,:
 STOP kq-q 
 STOP kq 
 SPACE
@@ -1108,11 +1108,11 @@ l,i,v,·,_,v,:,τ,·,i,(p),n,i,y,(p)
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,v,α,x,d,RIGHT PARENTHESIS
+v,α,x,d
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,v,·,:,α,_,x,_,⅃,τ,RIGHT SQUARE BRACKET
+v,·,:,α,_,x,_,⅃,τ
 STOP kq-q 
 STOP kq 
 SPACE

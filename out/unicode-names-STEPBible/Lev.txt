@@ -6871,11 +6871,11 @@ SPACE
 α,:_,$,·sh,∵,r,-
 START kq 
 START kq-q 
-LEFT SQUARE BRACKET,l,<,w,o,RIGHT SQUARE BRACKET
+l,<,w,o
 STOP kq-q 
 SPACE
 START kq-k 
-LEFT PARENTHESIS,l,α,RIGHT PARENTHESIS
+l,α
 STOP kq-k 
 STOP kq 
 SPACE
@@ -15178,11 +15178,11 @@ Levit 21:5 in vtrad vtbhs
 l,o,𝓂,α,-
 START kq 
 START kq-q 
-LEFT SQUARE BRACKET,y,i,q,:,r,:,x,<,w,·,RIGHT SQUARE BRACKET
+y,i,q,:,r,:,x,<,w,·
 STOP kq-q 
 SPACE
 START kq-k 
-LEFT PARENTHESIS,y,q,r,x,h,RIGHT PARENTHESIS
+y,q,r,x,h
 STOP kq-k 
 STOP kq 
 SPACE
@@ -18768,11 +18768,11 @@ SPACE
 α,:_,$,·sh,∵,r,-
 START kq 
 START kq-q 
-LEFT SQUARE BRACKET,l,⅃,w,o,RIGHT SQUARE BRACKET
+l,⅃,w,o
 STOP kq-q 
 SPACE
 START kq-k 
-LEFT PARENTHESIS,l,α,RIGHT PARENTHESIS
+l,α
 STOP kq-k 
 STOP kq 
 SPACE

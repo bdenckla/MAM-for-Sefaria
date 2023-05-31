@@ -276,11 +276,11 @@ Job 1:10 in vtrad vtbhs
 h,:_,l,o,𝓂,α,-
 START kq 
 START kq-q 
-LEFT SQUARE BRACKET,α,_,⌕,τ,·,a,⌕,h,RIGHT SQUARE BRACKET
+α,_,⌕,τ,·,a,⌕,h
 STOP kq-q 
 SPACE
 START kq-k 
-LEFT PARENTHESIS,α,τ,RIGHT PARENTHESIS
+α,τ
 STOP kq-k 
 STOP kq 
 SPACE
@@ -830,11 +830,11 @@ r,_,g,:,l,(ti),w,o
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,ʕ,d,RIGHT PARENTHESIS
+ʕ,d
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,w,:,ʕ,_,(me),d,RIGHT SQUARE BRACKET
+w,:,ʕ,_,(me),d
 STOP kq-q 
 STOP kq 
 SPACE
@@ -2117,11 +2117,11 @@ k,·,_,ʕ,:,$,·si,i,⅄,y
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,w,h,y,τ,y,RIGHT PARENTHESIS
+w,h,y,τ,y
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,w,:,γ,h,_,w,·,a,τ,i,◆,y,RIGHT SQUARE BRACKET
+w,:,γ,h,_,w,·,a,τ,i,◆,y
 STOP kq-q 
 STOP kq 
 SPACE
@@ -2477,11 +2477,11 @@ SPACE
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,w,$,v,y,RIGHT PARENTHESIS
+w,$,v,y
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,w,:,$,·sh,(me),w,·,v,w,·,RIGHT SQUARE BRACKET
+w,:,$,·sh,(me),w,·,v,w,·
 STOP kq-q 
 STOP kq 
 SPACE
@@ -2507,11 +2507,11 @@ l,∵,𝓂,α,:∵,n,⅃,w,o,$,·sh
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,ʕ,l,RIGHT PARENTHESIS
+ʕ,l
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,ʕ,:_,l,‥,y,-,RIGHT SQUARE BRACKET
+ʕ,:_,l,‥,y,-
 STOP kq-q 
 STOP kq 
 α,a,⅄,r,∵,ц.
@@ -2574,15 +2574,15 @@ r,i,(de),m,·,a,h
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,w
+w
 START letter-small 
 g
 STOP letter-small 
-y,$,RIGHT PARENTHESIS
+y,$
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,w,:,g,⅃,w,·,$,·sh,RIGHT SQUARE BRACKET
+w,:,g,⅃,w,·,$,·sh
 STOP kq-q 
 STOP kq 
 SPACE
@@ -3501,11 +3501,11 @@ Job 9:30 in vtrad vtbhs
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,v,m,w,RIGHT PARENTHESIS
+v,m,w
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,v,:,m,‥,y,-,RIGHT SQUARE BRACKET
+v,:,m,‥,y,-
 STOP kq-q 
 STOP kq 
 $,·sh,a,⅄,l,∵,g
@@ -3855,21 +3855,21 @@ y,a,m,_,⅃,y
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,y,x,d,l,RIGHT PARENTHESIS
+y,x,d,l
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,w,_,x,:_,d,a,⅄,l,RIGHT SQUARE BRACKET
+w,_,x,:_,d,a,⅄,l
 STOP kq-q 
 STOP kq 
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,y,$,y,τ,RIGHT PARENTHESIS
+y,$,y,τ
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,w,:,$,·sh,i,(me),y,τ,RIGHT SQUARE BRACKET
+w,:,$,·sh,i,(me),y,τ
 STOP kq-q 
 STOP kq 
 SPACE
@@ -4732,11 +4732,11 @@ y,i,(de),q,:,θ,:,l,‥,n,i,y
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,l,α,RIGHT PARENTHESIS
+l,α
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,l,⅃,w,o,RIGHT SQUARE BRACKET
+l,⅃,w,o
 STOP kq-q 
 STOP kq 
 SPACE
@@ -5520,11 +5520,11 @@ m,i,n,·,i,y,-,x,o,⅄,$,·sh,∵,k.,:
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,w,ц,f,w,RIGHT PARENTHESIS
+w,ц,f,w
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,w,:,ц,a,f,(ti),w,·,y,RIGHT SQUARE BRACKET
+w,:,ц,a,f,(ti),w,·,y
 STOP kq-q 
 STOP kq 
 SPACE
@@ -5973,11 +5973,11 @@ f,·,a,n,_,⅃,y
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,x,m,r,m,r,h,RIGHT PARENTHESIS
+x,m,r,m,r,h
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,x,:a,(de),m,_,r,:,m,:,r,w,·,RIGHT SQUARE BRACKET
+x,:a,(de),m,_,r,:,m,:,r,w,·
 STOP kq-q 
 STOP kq 
 SPACE
@@ -6947,11 +6947,11 @@ SPACE
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,$,d,y,n.,RIGHT PARENTHESIS
+$,d,y,n.
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,$,·sh,_,d,·,𝓂,w,·,n.,RIGHT SQUARE BRACKET
+$,·sh,_,d,·,𝓂,w,·,n.
 STOP kq-q 
 STOP kq 
 .
@@ -7521,11 +7521,11 @@ SPACE
 Job 21:13 in vtrad vtbhs
 START kq 
 START kq-k 
-LEFT PARENTHESIS,y,v,l,w,RIGHT PARENTHESIS
+y,v,l,w
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,y,:,k,_,l,·,⅃,w,·,RIGHT SQUARE BRACKET
+y,:,k,_,l,·,⅃,w,·
 STOP kq-q 
 STOP kq 
 SPACE
@@ -8528,11 +8528,11 @@ v,·,:,l,i,y,l,⅃,w,o
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,y,q,ц,y,r,w,RIGHT PARENTHESIS
+y,q,ц,y,r,w
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,y,i,q,:,ц,⅄,w,o,r,w,·,RIGHT SQUARE BRACKET
+y,i,q,:,ц,⅄,w,o,r,w,·
 STOP kq-q 
 STOP kq 
 SPACE
@@ -9052,11 +9052,11 @@ h,_,y,·,a,⅄,m.
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,w,v,τ,w,v,n,τ,w,RIGHT PARENTHESIS
+w,v,τ,w,v,n,τ,w
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,w,·,γ,v,i,τ,:,v,w,·,n,a,τ,◆,w,o,RIGHT SQUARE BRACKET
+w,·,γ,v,i,τ,:,v,w,·,n,a,τ,◆,w,o
 STOP kq-q 
 STOP kq 
 SPACE
@@ -10303,11 +10303,11 @@ Job 30:11 in vtrad vtbhs
 k,·,i,𝓂,y,-
 START kq 
 START kq-q 
-LEFT SQUARE BRACKET,y,i,τ,:,r,i,⅃,y,RIGHT SQUARE BRACKET
+y,i,τ,:,r,i,⅃,y
 STOP kq-q 
 SPACE
 START kq-k 
-LEFT PARENTHESIS,y,τ,r,w,RIGHT PARENTHESIS
+y,τ,r,w
 STOP kq-k 
 STOP kq 
 SPACE
@@ -10478,11 +10478,11 @@ w,·,γ,τ,:,m,o,g,:,g,‥,◆,n,i,y
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,τ,$,w,h,RIGHT PARENTHESIS
+τ,$,w,h
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,τ,·,w,·,$,·sh,i,y,·,a,𝓂,h,RIGHT SQUARE BRACKET
+τ,·,w,·,$,·sh,i,y,·,a,𝓂,h
 STOP kq-q 
 STOP kq 
 .
@@ -10747,11 +10747,11 @@ Job 31:11 in vtrad vtbhs
 k,·,i,y,-
 START kq 
 START kq-q 
-LEFT SQUARE BRACKET,h,i,(me),y,α,RIGHT SQUARE BRACKET
+h,i,(me),y,α
 STOP kq-q 
 SPACE
 START kq-k 
-LEFT PARENTHESIS,h,w,α,RIGHT PARENTHESIS
+h,w,α
 STOP kq-k 
 STOP kq 
 SPACE
@@ -10759,11 +10759,11 @@ z,i,m,·,a,⅄,h
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,w,h,y,α,RIGHT PARENTHESIS
+w,h,y,α
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,w,:,γ,h,◆,w,·,α,RIGHT SQUARE BRACKET
+w,:,γ,h,◆,w,·,α
 STOP kq-q 
 STOP kq 
 SPACE
@@ -11813,11 +11813,11 @@ SPACE
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,w,r,y,v,RIGHT PARENTHESIS
+w,r,y,v
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,w,:,r,(ti),w,o,v,RIGHT SQUARE BRACKET
+w,:,r,(ti),w,o,v
 STOP kq-q 
 STOP kq 
 SPACE
@@ -11847,11 +11847,11 @@ m,‥,r,o,⅄,α,i,y
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,w,$,f,y,RIGHT PARENTHESIS
+w,$,f,y
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,w,:,$,·sh,u,f,·,(me),w,·,RIGHT SQUARE BRACKET
+w,:,$,·sh,u,f,·,(me),w,·
 STOP kq-q 
 STOP kq 
 SPACE
@@ -11963,11 +11963,11 @@ f,·,a,d,a,⅃,h
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,n,f,$,y,RIGHT PARENTHESIS
+n,f,$,y
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,n,_,(de),f,:,$,·sh,w,o,RIGHT SQUARE BRACKET
+n,_,(de),f,:,$,·sh,w,o
 STOP kq-q 
 STOP kq 
 SPACE
@@ -11977,11 +11977,11 @@ v,·,_,$,·sh,·,a,⅄,x,_,τ
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,w,x,y,τ,y,RIGHT PARENTHESIS
+w,x,y,τ,y
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,w,:,γ,x,_,y,·,a,τ,◆,w,o,RIGHT SQUARE BRACKET
+w,:,γ,x,_,y,·,a,τ,◆,w,o
 STOP kq-q 
 STOP kq 
 SPACE
@@ -13548,13 +13548,13 @@ SPACE
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,m,n,h,σ,ʕ,r,h,RIGHT PARENTHESIS
+m,n,h,σ,ʕ,r,h
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,m,i,(me),n.
+m,i,(me),n.
 START lp-paseq 
-h,_,σ,·,:,ʕ,a,r,a,◆,h,RIGHT SQUARE BRACKET
+h,_,σ,·,:,ʕ,a,r,a,◆,h
 STOP kq-q 
 STOP kq 
 SPACE
@@ -13706,15 +13706,15 @@ v,·,o,⅄,q,∵,r
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,y,d,ʕ,τ,h
+y,d,ʕ,τ,h
 SPACE
-$,x,r,RIGHT PARENTHESIS
+$,x,r
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,y,i,d,·,_,(ti),ʕ,:,τ,·,a
+y,i,d,·,_,(ti),ʕ,:,τ,·,a
 SPACE
-h,_,$,·sh,·,_,⅃,x,_,r,RIGHT SQUARE BRACKET
+h,_,$,·sh,·,_,⅃,x,_,r
 STOP kq-q 
 STOP kq 
 SPACE
@@ -14263,11 +14263,11 @@ SPACE
 k,·,i,𝓂,y,-
 START kq 
 START kq-q 
-LEFT SQUARE BRACKET,y,a,$,·sh,i,⅃,y,v,RIGHT SQUARE BRACKET
+y,a,$,·sh,i,⅃,y,v
 STOP kq-q 
 SPACE
 START kq-k 
-LEFT PARENTHESIS,y,$,w,v,RIGHT PARENTHESIS
+y,$,w,v
 STOP kq-k 
 STOP kq 
 SPACE
@@ -14584,13 +14584,13 @@ SPACE
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,m,n,σ,ʕ,r,h,RIGHT PARENTHESIS
+m,n,σ,ʕ,r,h
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,m,i,(me),n.
+m,i,(me),n.
 START lp-paseq 
-σ,:,ʕ,a,r,a,◆,h,RIGHT SQUARE BRACKET
+σ,:,ʕ,a,r,a,◆,h
 STOP kq-q 
 STOP kq 
 SPACE
@@ -14971,11 +14971,11 @@ l,i,y,-,h,𝓂,w,·,α,.
 Job 41:4 in vtrad vtbhs
 START kq 
 START kq-k 
-LEFT PARENTHESIS,l,α,RIGHT PARENTHESIS
+l,α
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,l,w,o,-,RIGHT SQUARE BRACKET
+l,w,o,-
 STOP kq-q 
 STOP kq 
 α,_,x,:_,r,i,(me),y,$,·sh
@@ -15279,11 +15279,11 @@ w,_,y,·,o,α,m,_,𝓂,r,.
 Job 42:2 in vtrad vtbhs
 START kq 
 START kq-k 
-LEFT PARENTHESIS,y,d,ʕ,τ,RIGHT PARENTHESIS
+y,d,ʕ,τ
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,y,a,(de),d,_,ʕ,:,τ,·,i,y,RIGHT SQUARE BRACKET
+y,a,(de),d,_,ʕ,:,τ,·,i,y
 STOP kq-q 
 STOP kq 
 SPACE
@@ -15510,11 +15510,11 @@ SPACE
 α,∵,τ,-
 START kq 
 START kq-q 
-LEFT SQUARE BRACKET,$,·sh,:,v,⅃,w,·,τ,RIGHT SQUARE BRACKET
+$,·sh,:,v,⅃,w,·,τ
 STOP kq-q 
 SPACE
 START kq-k 
-LEFT PARENTHESIS,$,v,y,τ,RIGHT PARENTHESIS
+$,v,y,τ
 STOP kq-k 
 STOP kq 
 SPACE
@@ -15700,11 +15700,11 @@ $,·sh,a,n,a,⅄,h
 SPACE
 START kq 
 START kq-k 
-LEFT PARENTHESIS,w,y,r,α,RIGHT PARENTHESIS
+w,y,r,α
 STOP kq-k 
 SPACE
 START kq-q 
-LEFT SQUARE BRACKET,w,_,y,·,i,r,:,α,∵,◆,h,RIGHT SQUARE BRACKET
+w,_,y,·,i,r,:,α,∵,◆,h
 STOP kq-q 
 STOP kq 
 SPACE
