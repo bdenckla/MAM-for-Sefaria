@@ -5197,8 +5197,8 @@
       </verse>
       <verse osisID="2Sam.13.33">
         <text text="וְעַתָּ֡ה אַל־יָשֵׂם֩ אֲדֹנִ֨י הַמֶּ֤לֶךְ אֶל־לִבּוֹ֙ דָּבָ֣ר לֵאמֹ֔ר כׇּל־בְּנֵ֥י הַמֶּ֖לֶךְ מֵ֑תוּ כִּֽי־" />
-        <kq-kvq>
-          <text text="(אם)־" />
+        <kq-kvq class="append-maqaf">
+          <text text="(אם)" />
         </kq-kvq>
         <text text="אַמְנ֥וֹן לְבַדּ֖וֹ מֵֽת׃" />
         <spi-pe2-before />
