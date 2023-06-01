@@ -2,9 +2,7 @@
   <book39 osisID="Prov">
     <chapter osisID="Prov.1">
       <verse osisID="Prov.1.1">
-        <letter-large>
-          <text text="מִ֭" />
-        </letter-large>
+        <letter-large text="מִ֭" />
         <text text="שְׁלֵי שְׁלֹמֹ֣ה בֶן־דָּוִ֑ד מֶ֝֗לֶךְ יִשְׂרָאֵֽל׃" />
       </verse>
       <verse osisID="Prov.1.2">
@@ -97,9 +95,7 @@
       <verse osisID="Prov.1.27">
         <text text="בְּבֹ֤א " />
         <kq>
-          <kq-k>
-            <text text="כשאוה" />
-          </kq-k>
+          <kq-k text="כשאוה" />
           <kq-q>
             <text text="כְשׁוֹאָ֨ה" />
             <lp-legarmeih />
@@ -150,12 +146,8 @@
       </verse>
       <verse osisID="Prov.2.7">
         <kq>
-          <kq-k>
-            <text text="וצפן" />
-          </kq-k>
-          <kq-q>
-            <text text="יִצְפֹּ֣ן" />
-          </kq-q>
+          <kq-k text="וצפן" />
+          <kq-q text="יִצְפֹּ֣ן" />
         </kq>
         <text text=" לַ֭יְשָׁרִים תּוּשִׁיָּ֑ה מָ֝גֵ֗ן לְהֹ֣לְכֵי תֹֽם׃" />
       </verse>
@@ -259,12 +251,8 @@
       <verse osisID="Prov.3.15">
         <text text="יְקָ֣רָה הִ֭יא " />
         <kq>
-          <kq-k>
-            <text text="מפניים" />
-          </kq-k>
-          <kq-q>
-            <text text="מִפְּנִינִ֑ים" />
-          </kq-q>
+          <kq-k text="מפניים" />
+          <kq-q text="מִפְּנִינִ֑ים" />
         </kq>
         <text text=" וְכׇל־חֲ֝פָצֶ֗יךָ לֹ֣א יִֽשְׁווּ־בָֽהּ׃" />
       </verse>
@@ -307,21 +295,15 @@
       <verse osisID="Prov.3.27">
         <text text="אַל־תִּמְנַע־ט֥וֹב מִבְּעָלָ֑יו בִּֽהְי֨וֹת לְאֵ֖ל " />
         <kq>
-          <kq-k>
-            <text text="ידיך" />
-          </kq-k>
-          <kq-q>
-            <text text="יָדְךָ֣" />
-          </kq-q>
+          <kq-k text="ידיך" />
+          <kq-q text="יָדְךָ֣" />
         </kq>
         <text text=" לַעֲשֽׂוֹת׃" />
       </verse>
       <verse osisID="Prov.3.28">
         <text text="אַל־תֹּ֘אמַ֤ר " />
         <kq>
-          <kq-k>
-            <text text="לרעיך" />
-          </kq-k>
+          <kq-k text="לרעיך" />
           <kq-q>
             <text text="לְרֵעֲךָ֨" />
             <lp-legarmeih />
@@ -335,12 +317,8 @@
       <verse osisID="Prov.3.30">
         <text text="אַל־" />
         <kq>
-          <kq-q>
-            <text text="תָּרִ֣יב" />
-          </kq-q>
-          <kq-k>
-            <text text="תרוב" />
-          </kq-k>
+          <kq-q text="תָּרִ֣יב" />
+          <kq-k text="תרוב" />
         </kq>
         <text text=" עִם־אָדָ֣ם חִנָּ֑ם אִם־לֹ֖א גְמָלְךָ֣ רָעָֽה׃" />
       </verse>
@@ -356,12 +334,8 @@
       <verse osisID="Prov.3.34">
         <text text="אִם־לַלֵּצִ֥ים הֽוּא־יָלִ֑יץ " />
         <kq>
-          <kq-k>
-            <text text="ולעניים" />
-          </kq-k>
-          <kq-q>
-            <text text="וְ֝לַעֲנָוִ֗ים" />
-          </kq-q>
+          <kq-k text="ולעניים" />
+          <kq-q text="וְ֝לַעֲנָוִ֗ים" />
         </kq>
         <text text=" יִתֶּן־חֵֽן׃" />
       </verse>
@@ -421,12 +395,8 @@
       <verse osisID="Prov.4.16">
         <text text="כִּ֤י לֹ֣א יִֽ֭שְׁנוּ אִם־לֹ֣א יָרֵ֑עוּ וְֽנִגְזְלָ֥ה שְׁ֝נָתָ֗ם אִם־לֹ֥א " />
         <kq>
-          <kq-k>
-            <text text="יכשולו" />
-          </kq-k>
-          <kq-q>
-            <text text="יַכְשִֽׁילוּ" />
-          </kq-q>
+          <kq-k text="יכשולו" />
+          <kq-q text="יַכְשִֽׁילוּ" />
         </kq>
         <text text="׃" />
       </verse>
@@ -600,13 +570,9 @@
       </verse>
       <verse osisID="Prov.6.13">
         <text text="קֹרֵ֣ץ " />
-        <kq-trivial>
-          <text text="בְּ֭עֵינָו" />
-        </kq-trivial>
+        <kq-trivial text="בְּ֭עֵינָו" />
         <text text=" מֹלֵ֣ל " />
-        <kq-trivial>
-          <text text="בְּרַגְלָ֑ו" />
-        </kq-trivial>
+        <kq-trivial text="בְּרַגְלָ֑ו" />
         <text text=" מֹ֝רֶ֗ה בְּאֶצְבְּעֹתָֽיו׃" />
       </verse>
       <verse osisID="Prov.6.14">
@@ -614,12 +580,8 @@
         <lp-legarmeih />
         <text text=" בְּלִבּ֗וֹ חֹרֵ֣שׁ רָ֣ע בְּכׇל־עֵ֑ת " />
         <kq>
-          <kq-k>
-            <text text="מדנים" />
-          </kq-k>
-          <kq-q>
-            <text text="מִדְיָנִ֥ים" />
-          </kq-q>
+          <kq-k text="מדנים" />
+          <kq-q text="מִדְיָנִ֥ים" />
         </kq>
         <text text=" יְשַׁלֵּֽחַ׃" />
       </verse>
@@ -632,12 +594,8 @@
         <spi-pe2-after />
         <text text="שֶׁשׁ־הֵ֭נָּה שָׂנֵ֣א יְהֹוָ֑ה וְ֝שֶׁ֗בַע " />
         <kq>
-          <kq-k>
-            <text text="תועבות" />
-          </kq-k>
-          <kq-q>
-            <text text="תּוֹעֲבַ֥ת" />
-          </kq-q>
+          <kq-k text="תועבות" />
+          <kq-q text="תּוֹעֲבַ֥ת" />
         </kq>
         <text text=" נַפְשֽׁוֹ׃" />
       </verse>
@@ -856,12 +814,8 @@
       <verse osisID="Prov.8.17">
         <text text="אֲ֭נִי " />
         <kq>
-          <kq-k>
-            <text text="אהביה" />
-          </kq-k>
-          <kq-q>
-            <text text="אֹהֲבַ֣י" />
-          </kq-q>
+          <kq-k text="אהביה" />
+          <kq-q text="אֹהֲבַ֣י" />
         </kq>
         <text text=" אֵהָ֑ב וּ֝מְשַׁחֲרַ֗י יִמְצָאֻֽנְנִי׃" />
       </verse>
@@ -930,12 +884,8 @@
       <verse osisID="Prov.8.35">
         <text text="כִּ֣י מֹ֭צְאִי " />
         <kq>
-          <kq-k>
-            <text text="מצאי" />
-          </kq-k>
-          <kq-q>
-            <text text="מָצָ֣א" />
-          </kq-q>
+          <kq-k text="מצאי" />
+          <kq-q text="מָצָ֣א" />
         </kq>
         <text text=" חַיִּ֑ים וַיָּ֥פֶק רָ֝צ֗וֹן מֵיְהֹוָֽה׃" />
       </verse>
@@ -1114,12 +1064,8 @@
       <verse osisID="Prov.11.3">
         <text text="תֻּמַּ֣ת יְשָׁרִ֣ים תַּנְחֵ֑ם וְסֶ֖לֶף בֹּגְדִ֣ים " />
         <kq>
-          <kq-k>
-            <text text="ושדם" />
-          </kq-k>
-          <kq-q>
-            <text text="יְשָׁדֵּֽם" />
-          </kq-q>
+          <kq-k text="ושדם" />
+          <kq-q text="יְשָׁדֵּֽם" />
         </kq>
         <text text="׃" />
       </verse>
@@ -1251,12 +1197,8 @@
       <verse osisID="Prov.12.14">
         <text text="מִפְּרִ֣י פִי־אִ֭ישׁ יִשְׂבַּע־ט֑וֹב וּגְמ֥וּל יְדֵי־אָ֝דָ֗ם " />
         <kq>
-          <kq-k>
-            <text text="ישוב" />
-          </kq-k>
-          <kq-q>
-            <text text="יָשִׁ֥יב" />
-          </kq-q>
+          <kq-k text="ישוב" />
+          <kq-q text="יָשִׁ֥יב" />
         </kq>
         <text text=" לֽוֹ׃" />
       </verse>
@@ -1363,21 +1305,13 @@
       </verse>
       <verse osisID="Prov.13.20">
         <kq>
-          <kq-k>
-            <text text="הלוך" />
-          </kq-k>
-          <kq-q>
-            <text text="הוֹלֵ֣ךְ" />
-          </kq-q>
+          <kq-k text="הלוך" />
+          <kq-q text="הוֹלֵ֣ךְ" />
         </kq>
         <text text=" אֶת־חֲכָמִ֣ים " />
         <kq>
-          <kq-k>
-            <text text="וחכם" />
-          </kq-k>
-          <kq-q>
-            <text text="יֶחְכָּ֑ם" />
-          </kq-q>
+          <kq-k text="וחכם" />
+          <kq-q text="יֶחְכָּ֑ם" />
         </kq>
         <text text=" וְרֹעֶ֖ה כְסִילִ֣ים יֵרֽוֹעַ׃" />
       </verse>
@@ -1461,12 +1395,8 @@
       <verse osisID="Prov.14.21">
         <text text="בׇּז־לְרֵעֵ֥הוּ חוֹטֵ֑א וּמְחוֹנֵ֖ן " />
         <kq>
-          <kq-k>
-            <text text="עניים" />
-          </kq-k>
-          <kq-q>
-            <text text="עֲנָוִ֣ים" />
-          </kq-q>
+          <kq-k text="עניים" />
+          <kq-q text="עֲנָוִ֣ים" />
         </kq>
         <text text=" אַשְׁרָֽיו׃" />
       </verse>
@@ -1556,12 +1486,8 @@
       <verse osisID="Prov.15.14">
         <text text="לֵ֣ב נָ֭בוֹן יְבַקֶּשׁ־דָּ֑עַת " />
         <kq>
-          <kq-k>
-            <text text="ופני" />
-          </kq-k>
-          <kq-q>
-            <text text="וּפִ֥י" />
-          </kq-q>
+          <kq-k text="ופני" />
+          <kq-q text="וּפִ֥י" />
         </kq>
         <text text=" כְ֝סִילִ֗ים יִרְעֶ֥ה אִוֶּֽלֶת׃" />
       </verse>
@@ -1687,12 +1613,8 @@
       <verse osisID="Prov.16.19">
         <text text="ט֣וֹב שְׁפַל־ר֭וּחַ אֶת־" />
         <kq>
-          <kq-q>
-            <text text="עֲנָוִ֑ים" />
-          </kq-q>
-          <kq-k>
-            <text text="עניים" />
-          </kq-k>
+          <kq-q text="עֲנָוִ֑ים" />
+          <kq-k text="עניים" />
         </kq>
         <text text=" מֵחַלֵּ֥ק שָׁ֝לָ֗ל אֶת־גֵּאִֽים׃" />
       </verse>
@@ -1720,12 +1642,8 @@
       <verse osisID="Prov.16.27">
         <text text="אִ֣ישׁ בְּ֭לִיַּעַל כֹּרֶ֣ה רָעָ֑ה וְעַל־" />
         <kq>
-          <kq-q>
-            <text text="שְׂ֝פָת֗וֹ" />
-          </kq-q>
-          <kq-k>
-            <text text="שפתיו" />
-          </kq-k>
+          <kq-q text="שְׂ֝פָת֗וֹ" />
+          <kq-k text="שפתיו" />
         </kq>
         <text text=" כְּאֵ֣שׁ צָרָֽבֶת׃" />
       </verse>
@@ -1788,12 +1706,8 @@
       <verse osisID="Prov.17.13">
         <text text="מֵשִׁ֣יב רָ֭עָה תַּ֣חַת טוֹבָ֑ה לֹא־" />
         <kq>
-          <kq-q>
-            <text text="תָמ֥וּשׁ" />
-          </kq-q>
-          <kq-k>
-            <text text="תמיש" />
-          </kq-k>
+          <kq-q text="תָמ֥וּשׁ" />
+          <kq-k text="תמיש" />
         </kq>
         <text text=" רָ֝עָ֗ה מִבֵּיתֽוֹ׃" />
       </verse>
@@ -1839,12 +1753,8 @@
       <verse osisID="Prov.17.27">
         <text text="חוֹשֵׂ֣ךְ אֲ֭מָרָיו יוֹדֵ֣עַ דָּ֑עַת " />
         <kq>
-          <kq-k>
-            <text text="וקר" />
-          </kq-k>
-          <kq-q>
-            <text text="יְקַר־" />
-          </kq-q>
+          <kq-k text="וקר" />
+          <kq-q text="יְקַר־" />
         </kq>
         <text text="ר֝֗וּחַ אִ֣ישׁ תְּבוּנָֽה׃" />
       </verse>
@@ -1904,12 +1814,8 @@
       <verse osisID="Prov.18.17">
         <text text="צַדִּ֣יק הָרִאשׁ֣וֹן בְּרִיב֑וֹ " />
         <kq>
-          <kq-k>
-            <text text="יבא" />
-          </kq-k>
-          <kq-q>
-            <text text="וּבָֽא־" />
-          </kq-q>
+          <kq-k text="יבא" />
+          <kq-q text="וּבָֽא־" />
         </kq>
         <text text="רֵ֝עֵ֗הוּ וַחֲקָרֽוֹ׃" />
       </verse>
@@ -1919,12 +1825,8 @@
       <verse osisID="Prov.18.19">
         <text text="אָ֗ח נִפְשָׁ֥ע מִקִּרְיַת־עֹ֑ז " />
         <kq>
-          <kq-k>
-            <text text="ומדונים" />
-          </kq-k>
-          <kq-q>
-            <text text="וּ֝מִדְיָנִ֗ים" />
-          </kq-q>
+          <kq-k text="ומדונים" />
+          <kq-q text="וּ֝מִדְיָנִ֗ים" />
         </kq>
         <text text=" כִּבְרִ֥יחַ אַרְמֽוֹן׃" />
       </verse>
@@ -1970,12 +1872,8 @@
         <lp-legarmeih />
         <text text=" שְֽׂנֵאֻ֗הוּ אַ֤ף כִּ֣י מְ֭רֵעֵהוּ רָחֲק֣וּ מִמֶּ֑נּוּ מְרַדֵּ֖ף אֲמָרִ֣ים " />
         <kq>
-          <kq-k>
-            <text text="לא" />
-          </kq-k>
-          <kq-q>
-            <text text="לוֹ־" />
-          </kq-q>
+          <kq-k text="לא" />
+          <kq-q text="לוֹ־" />
         </kq>
         <text text="הֵֽמָּה׃" />
       </verse>
@@ -2011,12 +1909,8 @@
       <verse osisID="Prov.19.16">
         <text text="שֹׁמֵ֣ר מִ֭צְוָה שֹׁמֵ֣ר נַפְשׁ֑וֹ בּוֹזֵ֖ה דְרָכָ֣יו " />
         <kq>
-          <kq-k>
-            <text text="יומת" />
-          </kq-k>
-          <kq-q>
-            <text text="יָמֽוּת" />
-          </kq-q>
+          <kq-k text="יומת" />
+          <kq-q text="יָמֽוּת" />
         </kq>
         <text text="׃" />
       </verse>
@@ -2028,12 +1922,8 @@
       </verse>
       <verse osisID="Prov.19.19">
         <kq>
-          <kq-k>
-            <text text="גרל" />
-          </kq-k>
-          <kq-q>
-            <text text="גְּֽדׇל־" />
-          </kq-q>
+          <kq-k text="גרל" />
+          <kq-q text="גְּֽדׇל־" />
         </kq>
         <text text="חֵ֭מָה נֹ֣שֵׂא עֹ֑נֶשׁ כִּ֥י אִם־תַּ֝צִּ֗יל וְע֣וֹד תּוֹסִֽף׃" />
       </verse>
@@ -2081,12 +1971,8 @@
       <verse osisID="Prov.20.4">
         <text text="מֵ֭חֹרֶף עָצֵ֣ל לֹא־יַחֲרֹ֑שׁ " />
         <kq>
-          <kq-k>
-            <text text="ישאל" />
-          </kq-k>
-          <kq-q>
-            <text text="וְשָׁאַ֖ל" />
-          </kq-q>
+          <kq-k text="ישאל" />
+          <kq-q text="וְשָׁאַ֖ל" />
         </kq>
         <text text=" בַּקָּצִ֣יר וָאָֽיִן׃" />
       </verse>
@@ -2126,12 +2012,8 @@
       <verse osisID="Prov.20.16">
         <text text="לְֽקַח־בִּ֭גְדוֹ כִּי־עָ֣רַב זָ֑ר וּבְעַ֖ד " />
         <kq>
-          <kq-k>
-            <text text="נכרים" />
-          </kq-k>
-          <kq-q>
-            <text text="נׇכְרִיָּ֣ה" />
-          </kq-q>
+          <kq-k text="נכרים" />
+          <kq-q text="נׇכְרִיָּ֣ה" />
         </kq>
         <text text=" חַבְלֵֽהוּ׃" />
       </verse>
@@ -2147,24 +2029,16 @@
       <verse osisID="Prov.20.20">
         <text text="מְ֭קַלֵּל אָבִ֣יו וְאִמּ֑וֹ יִֽדְעַ֥ךְ נֵ֝ר֗וֹ " />
         <kq>
-          <kq-k>
-            <text text="באישון" />
-          </kq-k>
-          <kq-q>
-            <text text="בֶּאֱשׁ֥וּן" />
-          </kq-q>
+          <kq-k text="באישון" />
+          <kq-q text="בֶּאֱשׁ֥וּן" />
         </kq>
         <text text=" חֹֽשֶׁךְ׃" />
       </verse>
       <verse osisID="Prov.20.21">
         <text text="נַ֭חֲלָה " />
         <kq>
-          <kq-k>
-            <text text="מבחלת" />
-          </kq-k>
-          <kq-q>
-            <text text="מְבֹהֶ֣לֶת" />
-          </kq-q>
+          <kq-k text="מבחלת" />
+          <kq-q text="מְבֹהֶ֣לֶת" />
         </kq>
         <text text=" בָּרִאשׁוֹנָ֑ה וְ֝אַחֲרִיתָ֗הּ לֹ֣א תְבֹרָֽךְ׃" />
       </verse>
@@ -2195,12 +2069,8 @@
       <verse osisID="Prov.20.30">
         <text text="חַבֻּר֣וֹת פֶּ֭צַע " />
         <kq>
-          <kq-k>
-            <text text="תמריק" />
-          </kq-k>
-          <kq-q>
-            <text text="תַּמְר֣וּק" />
-          </kq-q>
+          <kq-k text="תמריק" />
+          <kq-q text="תַּמְר֣וּק" />
         </kq>
         <text text=" בְּרָ֑ע וּ֝מַכּ֗וֹת חַדְרֵי־בָֽטֶן׃" />
       </verse>
@@ -2263,12 +2133,8 @@
       <verse osisID="Prov.21.19">
         <text text="ט֗וֹב שֶׁ֥בֶת בְּאֶֽרֶץ־מִדְבָּ֑ר מֵאֵ֖שֶׁת " />
         <kq>
-          <kq-k>
-            <text text="מדונים" />
-          </kq-k>
-          <kq-q>
-            <text text="מִדְיָנִ֣ים" />
-          </kq-q>
+          <kq-k text="מדונים" />
+          <kq-q text="מִדְיָנִ֣ים" />
         </kq>
         <text text=" וָכָֽעַס׃" />
       </verse>
@@ -2306,12 +2172,8 @@
         <lp-legarmeih />
         <text text=" " />
         <kq>
-          <kq-k>
-            <text text="יכין דרכיו" />
-          </kq-k>
-          <kq-q>
-            <text text="יָבִ֬ין דַּרְכּֽוֹ" />
-          </kq-q>
+          <kq-k text="יכין דרכיו" />
+          <kq-q text="יָבִ֬ין דַּרְכּֽוֹ" />
         </kq>
         <text text="׃" />
       </verse>
@@ -2337,12 +2199,8 @@
         <lp-legarmeih />
         <text text=" רָאָ֣ה רָעָ֣ה " />
         <kq>
-          <kq-k>
-            <text text="ויסתר" />
-          </kq-k>
-          <kq-q>
-            <text text="וְנִסְתָּ֑ר" />
-          </kq-q>
+          <kq-k text="ויסתר" />
+          <kq-q text="וְנִסְתָּ֑ר" />
         </kq>
         <text text=" וּ֝פְתָיִ֗ים עָבְר֥וּ וְֽנֶעֱנָֽשׁוּ׃" />
       </verse>
@@ -2361,12 +2219,8 @@
       <verse osisID="Prov.22.8">
         <text text="זוֹרֵ֣עַ עַ֭וְלָה " />
         <kq>
-          <kq-k>
-            <text text="יקצור" />
-          </kq-k>
-          <kq-q>
-            <text text="יִקְצׇר־" />
-          </kq-q>
+          <kq-k text="יקצור" />
+          <kq-q text="יִקְצׇר־" />
         </kq>
         <text text="אָ֑וֶן וְשֵׁ֖בֶט עֶבְרָת֣וֹ יִכְלֶֽה׃" />
       </verse>
@@ -2379,12 +2233,8 @@
       <verse osisID="Prov.22.11">
         <text text="אֹהֵ֥ב " />
         <kq>
-          <kq-k>
-            <text text="טהור" />
-          </kq-k>
-          <kq-q>
-            <text text="טְהׇר־" />
-          </kq-q>
+          <kq-k text="טהור" />
+          <kq-q text="טְהׇר־" />
         </kq>
         <text text="לֵ֑ב חֵ֥ן שְׂ֝פָתָ֗יו רֵעֵ֥הוּ מֶֽלֶךְ׃" />
       </verse>
@@ -2397,12 +2247,8 @@
       <verse osisID="Prov.22.14">
         <text text="שׁוּחָ֣ה עֲ֭מֻקָּה פִּ֣י זָר֑וֹת זְע֥וּם יְ֝הֹוָ֗ה " />
         <kq>
-          <kq-k>
-            <text text="יפול" />
-          </kq-k>
-          <kq-q>
-            <text text="יִפׇּל־" />
-          </kq-q>
+          <kq-k text="יפול" />
+          <kq-q text="יִפׇּל־" />
         </kq>
         <text text="שָֽׁם׃" />
       </verse>
@@ -2424,12 +2270,8 @@
       <verse osisID="Prov.22.20">
         <text text="הֲלֹ֤א כָתַ֣בְתִּֽי לְ֭ךָ " />
         <kq>
-          <kq-k>
-            <text text="שלשום" />
-          </kq-k>
-          <kq-q>
-            <text text="שָׁלִישִׁ֑ים" />
-          </kq-q>
+          <kq-k text="שלשום" />
+          <kq-q text="שָׁלִישִׁ֑ים" />
         </kq>
         <text text=" בְּמֹ֖עֵצ֣וֹת וָדָֽעַת׃" />
       </verse>
@@ -2447,9 +2289,7 @@
       </verse>
       <verse osisID="Prov.22.25">
         <text text="פֶּן־תֶּאֱלַ֥ף " />
-        <kq-trivial>
-          <text text="אֹרְחֹתָ֑ו" />
-        </kq-trivial>
+        <kq-trivial text="אֹרְחֹתָ֑ו" />
         <text text=" וְלָקַחְתָּ֖ מוֹקֵ֣שׁ לְנַפְשֶֽׁךָ׃" />
       </verse>
       <verse osisID="Prov.22.26">
@@ -2485,21 +2325,13 @@
       </verse>
       <verse osisID="Prov.23.5">
         <kq>
-          <kq-k>
-            <text text="התעוף" />
-          </kq-k>
-          <kq-q>
-            <text text="הֲתָ֤עִיף" />
-          </kq-q>
+          <kq-k text="התעוף" />
+          <kq-q text="הֲתָ֤עִיף" />
         </kq>
         <text text=" עֵינֶ֥יךָ בּ֗וֹ וְֽאֵ֫ינֶ֥נּוּ כִּ֤י עָשֹׂ֣ה יַעֲשֶׂה־לּ֣וֹ כְנָפַ֑יִם כְּ֝נֶ֗שֶׁר " />
         <kq>
-          <kq-k>
-            <text text="ועיף" />
-          </kq-k>
-          <kq-q>
-            <text text="יָע֥וּף" />
-          </kq-q>
+          <kq-k text="ועיף" />
+          <kq-q text="יָע֥וּף" />
         </kq>
         <text text=" הַשָּׁמָֽיִם׃" />
         <spi-pe2-before />
@@ -2564,30 +2396,18 @@
       </verse>
       <verse osisID="Prov.23.24">
         <kq>
-          <kq-k>
-            <text text="גול" />
-          </kq-k>
-          <kq-q>
-            <text text="גִּ֣יל" />
-          </kq-q>
+          <kq-k text="גול" />
+          <kq-q text="גִּ֣יל" />
         </kq>
         <text text=" יָ֭גִיל אֲבִ֣י צַדִּ֑יק " />
         <kq>
-          <kq-k>
-            <text text="יולד" />
-          </kq-k>
-          <kq-q>
-            <text text="וְיוֹלֵ֥ד" />
-          </kq-q>
+          <kq-k text="יולד" />
+          <kq-q text="וְיוֹלֵ֥ד" />
         </kq>
         <text text=" חָ֝כָ֗ם " />
         <kq>
-          <kq-k>
-            <text text="וישמח" />
-          </kq-k>
-          <kq-q>
-            <text text="יִשְׂמַח־" />
-          </kq-q>
+          <kq-k text="וישמח" />
+          <kq-q text="יִשְׂמַח־" />
         </kq>
         <text text="בּֽוֹ׃" />
       </verse>
@@ -2597,12 +2417,8 @@
       <verse osisID="Prov.23.26">
         <text text="תְּנָה־בְנִ֣י לִבְּךָ֣ לִ֑י וְ֝עֵינֶ֗יךָ דְּרָכַ֥י " />
         <kq>
-          <kq-k>
-            <text text="תרצנה" />
-          </kq-k>
-          <kq-q>
-            <text text="תִּצֹּֽרְנָה" />
-          </kq-q>
+          <kq-k text="תרצנה" />
+          <kq-q text="תִּצֹּֽרְנָה" />
         </kq>
         <text text="׃" />
       </verse>
@@ -2615,9 +2431,7 @@
       <verse osisID="Prov.23.29">
         <text text="לְמִ֨י א֥וֹי לְמִ֢י אֲב֡וֹי לְמִ֤י " />
         <kq>
-          <kq-k>
-            <text text="מדונים" />
-          </kq-k>
+          <kq-k text="מדונים" />
           <kq-q>
             <text text="מִדְיָנִ֨ים" />
             <lp-legarmeih />
@@ -2631,12 +2445,8 @@
       <verse osisID="Prov.23.31">
         <text text="אַל־תֵּ֥רֶא יַּיִן֮ כִּ֤י יִתְאַ֫דָּ֥ם כִּֽי־יִתֵּ֣ן " />
         <kq>
-          <kq-k>
-            <text text="בכיס" />
-          </kq-k>
-          <kq-q>
-            <text text="בַּכּ֣וֹס" />
-          </kq-q>
+          <kq-k text="בכיס" />
+          <kq-q text="בַּכּ֣וֹס" />
         </kq>
         <text text=" עֵינ֑וֹ יִ֝תְהַלֵּ֗ךְ בְּמֵֽישָׁרִֽים׃" />
       </verse>
@@ -2714,12 +2524,8 @@
       <verse osisID="Prov.24.17">
         <text text="בִּנְפֹ֣ל " />
         <kq>
-          <kq-k>
-            <text text="אויביך" />
-          </kq-k>
-          <kq-q>
-            <text text="א֭וֹיִבְךָ" />
-          </kq-q>
+          <kq-k text="אויביך" />
+          <kq-q text="א֭וֹיִבְךָ" />
         </kq>
         <text text=" אַל־תִּשְׂמָ֑ח וּ֝בִכָּשְׁל֗וֹ אַל־יָגֵ֥ל לִבֶּֽךָ׃" />
       </verse>
@@ -2884,12 +2690,8 @@
       <verse osisID="Prov.25.24">
         <text text="ט֗וֹב שֶׁ֥בֶת עַל־פִּנַּת־גָּ֑ג מֵאֵ֥שֶׁת " />
         <kq>
-          <kq-k>
-            <text text="מדונים" />
-          </kq-k>
-          <kq-q>
-            <text text="מִ֝דְיָנִ֗ים" />
-          </kq-q>
+          <kq-k text="מדונים" />
+          <kq-q text="מִ֝דְיָנִ֗ים" />
         </kq>
         <text text=" וּבֵ֥ית חָֽבֶר׃" />
       </verse>
@@ -2915,12 +2717,8 @@
       <verse osisID="Prov.26.2">
         <text text="כַּצִּפּ֣וֹר לָ֭נוּד כַּדְּר֣וֹר לָע֑וּף כֵּ֥ן קִֽלְלַ֥ת חִ֝נָּ֗ם " />
         <kq>
-          <kq-k>
-            <text text="לא" />
-          </kq-k>
-          <kq-q>
-            <text text="ל֣וֹ" />
-          </kq-q>
+          <kq-k text="לא" />
+          <kq-q text="ל֣וֹ" />
         </kq>
         <text text=" תָבֹֽא׃" />
       </verse>
@@ -2981,12 +2779,8 @@
       <verse osisID="Prov.26.21">
         <text text="פֶּחָ֣ם לְ֭גֶחָלִים וְעֵצִ֣ים לְאֵ֑שׁ וְאִ֥ישׁ " />
         <kq>
-          <kq-k>
-            <text text="מדונים" />
-          </kq-k>
-          <kq-q>
-            <text text="מִ֝דְיָנִ֗ים" />
-          </kq-q>
+          <kq-k text="מדונים" />
+          <kq-q text="מִ֝דְיָנִ֗ים" />
         </kq>
         <text text=" לְחַרְחַר־רִֽיב׃" />
         <spi-pe2-before />
@@ -3000,9 +2794,7 @@
         <text text="כֶּ֣סֶף סִ֭יגִים מְצֻפֶּ֣ה עַל־חָ֑רֶשׂ שְׂפָתַ֖יִם דֹּלְקִ֣ים וְלֶב־רָֽע׃" />
       </verse>
       <verse osisID="Prov.26.24">
-        <kq-trivial>
-          <text text="בִּ֭שְׂפָתָו" />
-        </kq-trivial>
+        <kq-trivial text="בִּ֭שְׂפָתָו" />
         <text text=" יִנָּכֵ֣ר שׂוֹנֵ֑א וּ֝בְקִרְבּ֗וֹ יָשִׁ֥ית מִרְמָֽה׃" />
       </verse>
       <verse osisID="Prov.26.25">
@@ -3049,12 +2841,8 @@
       <verse osisID="Prov.27.10">
         <text text="רֵ֥עֲךָ֨ " />
         <kq>
-          <kq-k>
-            <text text="ורעה" />
-          </kq-k>
-          <kq-q>
-            <text text="וְרֵ֪עַ" />
-          </kq-q>
+          <kq-k text="ורעה" />
+          <kq-q text="וְרֵ֪עַ" />
         </kq>
         <text text=" אָבִ֡יךָ אַֽל־תַּעֲזֹ֗ב וּבֵ֥ית אָחִ֗יךָ אַל־תָּ֭בוֹא בְּי֣וֹם אֵידֶ֑ךָ ט֥וֹב שָׁכֵ֥ן קָ֝ר֗וֹב מֵאָ֥ח רָחֽוֹק׃" />
       </verse>
@@ -3077,12 +2865,8 @@
       <verse osisID="Prov.27.15">
         <text text="דֶּ֣לֶף ט֭וֹרֵד בְּי֣וֹם סַגְרִ֑יר וְאֵ֥שֶׁת " />
         <kq>
-          <kq-k>
-            <text text="מדונים" />
-          </kq-k>
-          <kq-q>
-            <text text="מִ֝דְיָנִ֗ים" />
-          </kq-q>
+          <kq-k text="מדונים" />
+          <kq-q text="מִ֝דְיָנִ֗ים" />
         </kq>
         <text text=" נִשְׁתָּוָֽה׃" />
       </verse>
@@ -3118,12 +2902,8 @@
       <verse osisID="Prov.27.24">
         <text text="כִּ֤י לֹ֣א לְעוֹלָ֣ם חֹ֑סֶן וְאִם־נֵ֝֗זֶר לְד֣וֹר " />
         <kq>
-          <kq-k>
-            <text text="דור" />
-          </kq-k>
-          <kq-q>
-            <text text="וָדֽוֹר" />
-          </kq-q>
+          <kq-k text="דור" />
+          <kq-q text="וָדֽוֹר" />
         </kq>
         <text text="׃" />
       </verse>
@@ -3167,12 +2947,8 @@
       <verse osisID="Prov.28.8">
         <text text="מַרְבֶּ֣ה ה֭וֹנוֹ בְּנֶ֣שֶׁךְ " />
         <kq>
-          <kq-k>
-            <text text="ובתרבית" />
-          </kq-k>
-          <kq-q>
-            <text text="וְתַרְבִּ֑ית" />
-          </kq-q>
+          <kq-k text="ובתרבית" />
+          <kq-q text="וְתַרְבִּ֑ית" />
         </kq>
         <text text=" לְחוֹנֵ֖ן דַּלִּ֣ים יִקְבְּצֶֽנּוּ׃" />
       </verse>
@@ -3205,12 +2981,8 @@
       <verse osisID="Prov.28.16">
         <text text="נָגִ֗יד חֲסַ֣ר תְּ֭בוּנוֹת וְרַ֥ב מַעֲשַׁקּ֑וֹת " />
         <kq>
-          <kq-k>
-            <text text="שנאי" />
-          </kq-k>
-          <kq-q>
-            <text text="שֹׂ֥נֵא" />
-          </kq-q>
+          <kq-k text="שנאי" />
+          <kq-q text="שֹׂ֥נֵא" />
         </kq>
         <text text=" בֶ֝֗צַע יַאֲרִ֥יךְ יָמִֽים׃" />
         <spi-pe2-before />
@@ -3219,9 +2991,7 @@
       <verse osisID="Prov.28.17">
         <spi-pe2-after />
         <text text="אָ֭" />
-        <letter-small>
-          <text text="דָ" />
-        </letter-small>
+        <letter-small text="דָ" />
         <text text="ם עָשֻׁ֣ק בְּדַם־נָ֑פֶשׁ עַד־בּ֥וֹר יָ֝נ֗וּס אַל־יִתְמְכוּ־בֽוֹ׃" />
       </verse>
       <verse osisID="Prov.28.18">
@@ -3419,9 +3189,7 @@
         <text text="לַ֥עֲלוּקָ֨ה" />
         <lp-legarmeih />
         <text text=" שְׁתֵּ֥י בָנוֹת֮ הַ֤" />
-        <letter-small>
-          <text text="ב" />
-        </letter-small>
+        <letter-small text="ב" />
         <lp-legarmeih />
         <text text=" הַ֥֫ב שָׁל֣וֹשׁ הֵ֭נָּה לֹ֣א תִשְׂבַּ֑עְנָה אַ֝רְבַּ֗ע לֹא־אָ֥מְרוּ הֽוֹן׃" />
       </verse>
@@ -3439,12 +3207,8 @@
         <spi-pe2-after />
         <text text="שְׁלֹשָׁ֣ה הֵ֭מָּה נִפְלְא֣וּ מִמֶּ֑נִּי " />
         <kq>
-          <kq-k>
-            <text text="וארבע" />
-          </kq-k>
-          <kq-q>
-            <text text="וְ֝אַרְבָּעָ֗ה" />
-          </kq-q>
+          <kq-k text="וארבע" />
+          <kq-q text="וְ֝אַרְבָּעָ֗ה" />
         </kq>
         <text text=" לֹ֣א יְדַעְתִּֽים׃" />
       </verse>
@@ -3525,12 +3289,8 @@
         <lp-legarmeih />
         <text text=" לְֽמוֹאֵ֗ל אַ֣ל לַֽמְלָכִ֣ים שְׁתוֹ־יָ֑יִן וּ֝לְרוֹזְנִ֗ים " />
         <kq>
-          <kq-k>
-            <text text="או" />
-          </kq-k>
-          <kq-q>
-            <text text="אֵ֣י" />
-          </kq-q>
+          <kq-k text="או" />
+          <kq-q text="אֵ֣י" />
         </kq>
         <text text=" שֵׁכָֽר׃" />
       </verse>
@@ -3578,12 +3338,8 @@
       <verse osisID="Prov.31.16">
         <text text="זָֽמְמָ֣ה שָׂ֭דֶה וַתִּקָּחֵ֑הוּ מִפְּרִ֥י כַ֝פֶּ֗יהָ " />
         <kq>
-          <kq-k>
-            <text text="נטע" />
-          </kq-k>
-          <kq-q>
-            <text text="נָ֣טְעָה" />
-          </kq-q>
+          <kq-k text="נטע" />
+          <kq-q text="נָ֣טְעָה" />
         </kq>
         <text text=" כָּֽרֶם׃" />
       </verse>
@@ -3593,12 +3349,8 @@
       <verse osisID="Prov.31.18">
         <text text="טָ֭עֲמָה כִּי־ט֣וֹב סַחְרָ֑הּ לֹא־יִכְבֶּ֖ה " />
         <kq>
-          <kq-k>
-            <text text="בליל" />
-          </kq-k>
-          <kq-q>
-            <text text="בַלַּ֣יְלָה" />
-          </kq-q>
+          <kq-k text="בליל" />
+          <kq-q text="בַלַּ֣יְלָה" />
         </kq>
         <text text=" נֵרָֽהּ׃" />
       </verse>
@@ -3629,12 +3381,8 @@
       <verse osisID="Prov.31.27">
         <text text="צ֭וֹפִיָּה " />
         <kq>
-          <kq-k>
-            <text text="הילכות" />
-          </kq-k>
-          <kq-q>
-            <text text="הֲלִיכ֣וֹת" />
-          </kq-q>
+          <kq-k text="הילכות" />
+          <kq-q text="הֲלִיכ֣וֹת" />
         </kq>
         <text text=" בֵּיתָ֑הּ וְלֶ֥חֶם עַ֝צְל֗וּת לֹ֣א תֹאכֵֽל׃" />
       </verse>

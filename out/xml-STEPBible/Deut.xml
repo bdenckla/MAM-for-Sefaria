@@ -262,9 +262,7 @@
       </verse>
       <verse osisID="Deut.2.33">
         <text text="וַֽיִּתְּנֵ֛הוּ יְהֹוָ֥ה אֱלֹהֵ֖ינוּ לְפָנֵ֑ינוּ וַנַּ֥ךְ אֹת֛וֹ וְאֶת־" />
-        <kq-trivial>
-          <text text="בָּנָ֖ו" />
-        </kq-trivial>
+        <kq-trivial text="בָּנָ֖ו" />
         <text text=" וְאֶת־כׇּל־עַמּֽוֹ׃" />
       </verse>
       <verse osisID="Deut.2.34">
@@ -589,12 +587,8 @@
       <verse osisID="Deut.5.10">
         <text text="וְעֹ֥֤שֶׂה חֶ֖֙סֶד֙ לַֽאֲלָפִ֑֔ים לְאֹהֲבַ֖י וּלְשֹׁמְרֵ֥י " />
         <kq>
-          <kq-k>
-            <text text="מצותו" />
-          </kq-k>
-          <kq-q>
-            <text text="מִצְוֺתָֽי" />
-          </kq-q>
+          <kq-k text="מצותו" />
+          <kq-q text="מִצְוֺתָֽי" />
         </kq>
         <text text="׃" />
         <spi-samekh2-before />
@@ -724,15 +718,11 @@
       <verse osisID="Deut.6.4">
         <spi-pe2-after />
         <text text="שְׁמַ֖" />
-        <letter-large>
-          <text text="ע" />
-        </letter-large>
+        <letter-large text="ע" />
         <text text=" יִשְׂרָאֵ֑ל יְהֹוָ֥ה אֱלֹהֵ֖ינוּ יְהֹוָ֥ה" />
         <lp-paseq />
         <text text="אֶחָֽ" />
-        <letter-large>
-          <text text="ד" />
-        </letter-large>
+        <letter-large text="ד" />
         <text text="׃" />
       </verse>
       <verse osisID="Deut.6.5">
@@ -846,9 +836,7 @@
       </verse>
       <verse osisID="Deut.7.9">
         <text text="וְיָ֣דַעְתָּ֔ כִּֽי־יְהֹוָ֥ה אֱלֹהֶ֖יךָ ה֣וּא הָֽאֱלֹהִ֑ים הָאֵל֙ הַֽנֶּאֱמָ֔ן שֹׁמֵ֧ר הַבְּרִ֣ית וְהַחֶ֗סֶד לְאֹהֲבָ֛יו וּלְשֹׁמְרֵ֥י " />
-        <kq-trivial>
-          <text text="מִצְוֺתָ֖ו" />
-        </kq-trivial>
+        <kq-trivial text="מִצְוֺתָ֖ו" />
         <text text=" לְאֶ֥לֶף דּֽוֹר׃" />
       </verse>
       <verse osisID="Deut.7.10">
@@ -924,9 +912,7 @@
       </verse>
       <verse osisID="Deut.8.2">
         <text text="וְזָכַרְתָּ֣ אֶת־כׇּל־הַדֶּ֗רֶךְ אֲשֶׁ֨ר הוֹלִֽיכְךָ֜ יְהֹוָ֧ה אֱלֹהֶ֛יךָ זֶ֛ה אַרְבָּעִ֥ים שָׁנָ֖ה בַּמִּדְבָּ֑ר לְמַ֨עַן עַנֹּֽתְךָ֜ לְנַסֹּֽתְךָ֗ לָדַ֜עַת אֶת־אֲשֶׁ֧ר בִּֽלְבָבְךָ֛ הֲתִשְׁמֹ֥ר " />
-        <kq-trivial>
-          <text text="מִצְוֺתָ֖ו" />
-        </kq-trivial>
+        <kq-trivial text="מִצְוֺתָ֖ו" />
         <text text=" אִם־לֹֽא׃" />
       </verse>
       <verse osisID="Deut.8.3">
@@ -1238,9 +1224,7 @@
         <text text="לְמַ֨עַן יִרְבּ֤וּ יְמֵיכֶם֙ וִימֵ֣י בְנֵיכֶ֔ם עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁ֨ר נִשְׁבַּ֧ע יְהֹוָ֛ה לַאֲבֹתֵיכֶ֖ם לָתֵ֣ת לָהֶ֑ם כִּימֵ֥י הַשָּׁמַ֖יִם עַל־הָאָֽרֶץ׃" />
         <note>
           <text text="(בספרי תימן הָאָֽרֶ" />
-          <letter-large>
-            <text text="ץ" />
-          </letter-large>
+          <letter-large text="ץ" />
           <text text="׃ בצד״י גדולה)" />
         </note>
         <spi-samekh2-before />
@@ -1453,9 +1437,7 @@
       </verse>
       <verse osisID="Deut.13.16">
         <text text="הַכֵּ֣ה תַכֶּ֗ה אֶת־יֹ֥שְׁבֵ֛י הָעִ֥יר " />
-        <kq-trivial>
-          <text text="הַהִ֖וא" />
-        </kq-trivial>
+        <kq-trivial text="הַהִ֖וא" />
         <text text=" לְפִי־חָ֑רֶב הַחֲרֵ֨ם אֹתָ֧הּ וְאֶת־כׇּל־אֲשֶׁר־בָּ֛הּ וְאֶת־בְּהֶמְתָּ֖הּ לְפִי־חָֽרֶב׃" />
       </verse>
       <verse osisID="Deut.13.17">
@@ -2090,12 +2072,8 @@
       <verse osisID="Deut.21.7">
         <text text="וְעָנ֖וּ וְאָמְר֑וּ יָדֵ֗ינוּ לֹ֤א " />
         <kq>
-          <kq-k>
-            <text text="שפכה" />
-          </kq-k>
-          <kq-q>
-            <text text="שָֽׁפְכוּ֙" />
-          </kq-q>
+          <kq-k text="שפכה" />
+          <kq-q text="שָֽׁפְכוּ֙" />
         </kq>
         <text text=" אֶת־הַדָּ֣ם הַזֶּ֔ה וְעֵינֵ֖ינוּ לֹ֥א רָאֽוּ׃" />
       </verse>
@@ -2192,9 +2170,7 @@
         <text text="כִּ֣י יִקָּרֵ֣א " />
         <note>
           <text text="(בספרי תימן " />
-          <letter-large>
-            <text text="קַ" />
-          </letter-large>
+          <letter-large text="קַ" />
           <text text="ן בקו״ף גדולה)" />
         </note>
         <text text="קַן־צִפּ֣וֹר" />
@@ -2241,20 +2217,14 @@
       </verse>
       <verse osisID="Deut.22.15">
         <text text="וְלָקַ֛ח אֲבִ֥י " />
-        <kq-trivial>
-          <text text="הַֽנַּעֲרָ֖" />
-        </kq-trivial>
+        <kq-trivial text="הַֽנַּעֲרָ֖" />
         <text text=" וְאִמָּ֑הּ וְהוֹצִ֜יאוּ אֶת־בְּתוּלֵ֧י " />
-        <kq-trivial>
-          <text text="הַֽנַּעֲרָ֛" />
-        </kq-trivial>
+        <kq-trivial text="הַֽנַּעֲרָ֛" />
         <text text=" אֶל־זִקְנֵ֥י הָעִ֖יר הַשָּֽׁעְרָה׃" />
       </verse>
       <verse osisID="Deut.22.16">
         <text text="וְאָמַ֛ר אֲבִ֥י " />
-        <kq-trivial>
-          <text text="הַֽנַּעֲרָ֖" />
-        </kq-trivial>
+        <kq-trivial text="הַֽנַּעֲרָ֖" />
         <text text=" אֶל־הַזְּקֵנִ֑ים אֶת־בִּתִּ֗י נָתַ֜תִּי לָאִ֥ישׁ הַזֶּ֛ה לְאִשָּׁ֖ה וַיִּשְׂנָאֶֽהָ׃" />
       </verse>
       <verse osisID="Deut.22.17">
@@ -2271,16 +2241,12 @@
       <verse osisID="Deut.22.20">
         <spi-samekh2-after />
         <text text="וְאִם־אֱמֶ֣ת הָיָ֔ה הַדָּבָ֖ר הַזֶּ֑ה לֹא־נִמְצְא֥וּ בְתוּלִ֖ים " />
-        <kq-trivial>
-          <text text="לַֽנַּעֲרָֽ" />
-        </kq-trivial>
+        <kq-trivial text="לַֽנַּעֲרָֽ" />
         <text text="׃" />
       </verse>
       <verse osisID="Deut.22.21">
         <text text="וְהוֹצִ֨יאוּ אֶת־" />
-        <kq-trivial>
-          <text text="הַֽנַּעֲרָ֜" />
-        </kq-trivial>
+        <kq-trivial text="הַֽנַּעֲרָ֜" />
         <text text=" אֶל־פֶּ֣תַח בֵּית־אָבִ֗יהָ וּסְקָל֩וּהָ֩ אַנְשֵׁ֨י עִירָ֤הּ בָּאֲבָנִים֙ וָמֵ֔תָה כִּֽי־עָשְׂתָ֤ה נְבָלָה֙ בְּיִשְׂרָאֵ֔ל לִזְנ֖וֹת בֵּ֣ית אָבִ֑יהָ וּבִֽעַרְתָּ֥ הָרָ֖ע מִקִּרְבֶּֽךָ׃" />
         <spi-samekh2-before />
       </verse>
@@ -2296,18 +2262,14 @@
       <verse osisID="Deut.22.23">
         <spi-samekh2-after />
         <text text="כִּ֤י יִהְיֶה֙ " />
-        <kq-trivial>
-          <text text="נַעֲרָ֣" />
-        </kq-trivial>
+        <kq-trivial text="נַעֲרָ֣" />
         <text text=" בְתוּלָ֔ה מְאֹרָשָׂ֖ה לְאִ֑ישׁ וּמְצָאָ֥הּ אִ֛ישׁ בָּעִ֖יר וְשָׁכַ֥ב עִמָּֽהּ׃" />
       </verse>
       <verse osisID="Deut.22.24">
         <text text="וְהוֹצֵאתֶ֨ם אֶת־שְׁנֵיהֶ֜ם אֶל־שַׁ֣עַר" />
         <lp-legarmeih />
         <text text=" הָעִ֣יר הַהִ֗וא וּסְקַלְתֶּ֨ם אֹתָ֥ם בָּאֲבָנִים֮ וָמֵ֒תוּ֒ אֶת־" />
-        <kq-trivial>
-          <text text="הַֽנַּעֲרָ֗" />
-        </kq-trivial>
+        <kq-trivial text="הַֽנַּעֲרָ֗" />
         <text text=" עַל־דְּבַר֙ אֲשֶׁ֣ר לֹא־צָעֲקָ֣ה בָעִ֔יר וְאֶ֨ת־הָאִ֔ישׁ עַל־דְּבַ֥ר אֲשֶׁר־עִנָּ֖ה אֶת־אֵ֣שֶׁת רֵעֵ֑הוּ וּבִֽעַרְתָּ֥ הָרָ֖ע מִקִּרְבֶּֽךָ׃" />
         <spi-samekh2-before />
       </verse>
@@ -2315,26 +2277,18 @@
       <verse osisID="Deut.22.25">
         <spi-samekh2-after />
         <text text="וְֽאִם־בַּשָּׂדֶ֞ה יִמְצָ֣א הָאִ֗ישׁ אֶת־" />
-        <kq-trivial>
-          <text text="הַֽנַּעֲרָ֙" />
-        </kq-trivial>
+        <kq-trivial text="הַֽנַּעֲרָ֙" />
         <text text=" הַמְאֹ֣רָשָׂ֔ה וְהֶחֱזִֽיק־בָּ֥הּ הָאִ֖ישׁ וְשָׁכַ֣ב עִמָּ֑הּ וּמֵ֗ת הָאִ֛ישׁ אֲשֶׁר־שָׁכַ֥ב עִמָּ֖הּ לְבַדּֽוֹ׃" />
       </verse>
       <verse osisID="Deut.22.26">
-        <kq-trivial>
-          <text text="וְלַֽנַּעֲרָ֙" />
-        </kq-trivial>
+        <kq-trivial text="וְלַֽנַּעֲרָ֙" />
         <text text=" לֹא־תַעֲשֶׂ֣ה דָבָ֔ר אֵ֥ין " />
-        <kq-trivial>
-          <text text="לַֽנַּעֲרָ֖" />
-        </kq-trivial>
+        <kq-trivial text="לַֽנַּעֲרָ֖" />
         <text text=" חֵ֣טְא מָ֑וֶת כִּ֡י כַּאֲשֶׁר֩ יָק֨וּם אִ֤ישׁ עַל־רֵעֵ֙הוּ֙ וּרְצָח֣וֹ נֶ֔פֶשׁ כֵּ֖ן הַדָּבָ֥ר הַזֶּֽה׃" />
       </verse>
       <verse osisID="Deut.22.27">
         <text text="כִּ֥י בַשָּׂדֶ֖ה מְצָאָ֑הּ צָעֲקָ֗ה " />
-        <kq-trivial>
-          <text text="הַֽנַּעֲרָ֙" />
-        </kq-trivial>
+        <kq-trivial text="הַֽנַּעֲרָ֙" />
         <text text=" הַמְאֹ֣רָשָׂ֔ה וְאֵ֥ין מוֹשִׁ֖יעַ לָֽהּ׃" />
         <spi-samekh2-before />
       </verse>
@@ -2342,16 +2296,12 @@
       <verse osisID="Deut.22.28">
         <spi-samekh2-after />
         <text text="כִּֽי־יִמְצָ֣א אִ֗ישׁ " />
-        <kq-trivial>
-          <text text="נַעֲרָ֤" />
-        </kq-trivial>
+        <kq-trivial text="נַעֲרָ֤" />
         <text text=" בְתוּלָה֙ אֲשֶׁ֣ר לֹא־אֹרָ֔שָׂה וּתְפָשָׂ֖הּ וְשָׁכַ֣ב עִמָּ֑הּ וְנִמְצָֽאוּ׃" />
       </verse>
       <verse osisID="Deut.22.29">
         <text text="וְ֠נָתַ֠ן הָאִ֨ישׁ הַשֹּׁכֵ֥ב עִמָּ֛הּ לַאֲבִ֥י " />
-        <kq-trivial>
-          <text text="הַֽנַּעֲרָ֖" />
-        </kq-trivial>
+        <kq-trivial text="הַֽנַּעֲרָ֖" />
         <text text=" חֲמִשִּׁ֣ים כָּ֑סֶף וְלֽוֹ־תִהְיֶ֣ה לְאִשָּׁ֗ה תַּ֚חַת אֲשֶׁ֣ר עִנָּ֔הּ לֹא־יוּכַ֥ל שַׁלְּחָ֖הּ כׇּל־יָמָֽיו׃" />
         <spi-samekh2-before />
       </verse>
@@ -2367,9 +2317,7 @@
       <verse osisID="Deut.23.2">
         <spi-samekh2-after />
         <text text="לֹֽא־יָבֹ֧א פְצֽוּעַ־דַּכָּ֛א" />
-        <note>
-          <text text="(ברוב ספרי אשכנז דַּכָּ֛ה)" />
-        </note>
+        <note text="(ברוב ספרי אשכנז דַּכָּ֛ה)" />
         <text text=" וּכְר֥וּת שׇׁפְכָ֖ה בִּקְהַ֥ל יְהֹוָֽה׃" />
         <spi-samekh2-before />
       </verse>
@@ -2808,9 +2756,7 @@
       <verse osisID="Deut.27.19">
         <spi-samekh2-after />
         <text text="אָר֗וּר מַטֶּ֛ה מִשְׁפַּ֥ט גֵּר־יָת֖וֹם וְאַלְמָנָ֑ה וְאָמַ֥ר כׇּל־הָעָ֖ם אָמֵֽן׃" />
-        <note>
-          <text text="(ספק פרשה סתומה בכתר ארם צובה)" />
-        </note>
+        <note text="(ספק פרשה סתומה בכתר ארם צובה)" />
       </verse>
       <verse osisID="Deut.27.20">
         <text text="אָר֗וּר שֹׁכֵב֙ עִם־אֵ֣שֶׁת אָבִ֔יו כִּ֥י גִלָּ֖ה כְּנַ֣ף אָבִ֑יו וְאָמַ֥ר כׇּל־הָעָ֖ם אָמֵֽן׃" />
@@ -2948,12 +2894,8 @@
       <verse osisID="Deut.28.27">
         <text text="יַכְּכָ֨ה יְהֹוָ֜ה בִּשְׁחִ֤ין מִצְרַ֙יִם֙ " />
         <kq>
-          <kq-k>
-            <text text="ובעפלים" />
-          </kq-k>
-          <kq-q>
-            <text text="וּבַטְּחֹרִ֔ים" />
-          </kq-q>
+          <kq-k text="ובעפלים" />
+          <kq-q text="וּבַטְּחֹרִ֔ים" />
         </kq>
         <text text=" וּבַגָּרָ֖ב וּבֶחָ֑רֶס אֲשֶׁ֥ר לֹא־תוּכַ֖ל לְהֵרָפֵֽא׃" />
       </verse>
@@ -2966,12 +2908,8 @@
       <verse osisID="Deut.28.30">
         <text text="אִשָּׁ֣ה תְאָרֵ֗שׂ וְאִ֤ישׁ אַחֵר֙ " />
         <kq>
-          <kq-k>
-            <text text="ישגלנה" />
-          </kq-k>
-          <kq-q>
-            <text text="יִשְׁכָּבֶ֔נָּה" />
-          </kq-q>
+          <kq-k text="ישגלנה" />
+          <kq-q text="יִשְׁכָּבֶ֔נָּה" />
         </kq>
         <text text=" בַּ֥יִת תִּבְנֶ֖ה וְלֹא־תֵשֵׁ֣ב בּ֑וֹ כֶּ֥רֶם תִּטַּ֖ע וְלֹ֥א תְחַלְּלֶֽנּוּ׃" />
       </verse>
@@ -3177,12 +3115,8 @@
       <verse osisID="Deut.29.22">
         <text text="גׇּפְרִ֣ית וָמֶ֘לַח֮ שְׂרֵפָ֣ה כׇל־אַרְצָהּ֒ לֹ֤א תִזָּרַע֙ וְלֹ֣א תַצְמִ֔חַ וְלֹא־יַעֲלֶ֥ה בָ֖הּ כׇּל־עֵ֑שֶׂב כְּֽמַהְפֵּכַ֞ת סְדֹ֤ם וַעֲמֹרָה֙ אַדְמָ֣ה " />
         <kq>
-          <kq-k>
-            <text text="וצביים" />
-          </kq-k>
-          <kq-q>
-            <text text="וּצְבוֹיִ֔ם" />
-          </kq-q>
+          <kq-k text="וצביים" />
+          <kq-q text="וּצְבוֹיִ֔ם" />
         </kq>
         <text text=" אֲשֶׁר֙ הָפַ֣ךְ יְהֹוָ֔ה בְּאַפּ֖וֹ וּבַחֲמָתֽוֹ׃" />
       </verse>
@@ -3200,9 +3134,7 @@
       </verse>
       <verse osisID="Deut.29.27">
         <text text="וַיִּתְּשֵׁ֤ם יְהֹוָה֙ מֵעַ֣ל אַדְמָתָ֔ם בְּאַ֥ף וּבְחֵמָ֖ה וּבְקֶ֣צֶף גָּד֑וֹל וַיַּשְׁ" />
-        <letter-large>
-          <text text="לִ" />
-        </letter-large>
+        <letter-large text="לִ" />
         <text text="כֵ֛ם אֶל־אֶ֥רֶץ אַחֶ֖רֶת כַּיּ֥וֹם הַזֶּֽה׃" />
       </verse>
       <verse osisID="Deut.29.28">
@@ -3435,15 +3367,11 @@
         <text text="דּ֥וֹר עִקֵּ֖שׁ וּפְתַלְתֹּֽל׃" />
       </verse>
       <verse osisID="Deut.32.6">
-        <letter-large>
-          <text text="הַ" />
-        </letter-large>
+        <letter-large text="הַ" />
         <text text=" לְיְהֹוָה֙" />
         <note>
           <text text="(בספרי תימן " />
-          <letter-large>
-            <text text="הַֽ" />
-          </letter-large>
+          <letter-large text="הַֽ" />
           <text text="לְיהֹוָה֙ בתיבה אחת)" />
         </note>
         <text text=" תִּגְמְלוּ־זֹ֔את" />
@@ -3489,12 +3417,8 @@
       <verse osisID="Deut.32.13">
         <text text="יַרְכִּבֵ֙הוּ֙ עַל־" />
         <kq>
-          <kq-q>
-            <text text="בָּ֣מֳתֵי" />
-          </kq-q>
-          <kq-k>
-            <text text="במותי" />
-          </kq-k>
+          <kq-q text="בָּ֣מֳתֵי" />
+          <kq-k text="במותי" />
         </kq>
         <text text=" אָ֔רֶץ" />
         <shirah-space />
@@ -3528,9 +3452,7 @@
       </verse>
       <verse osisID="Deut.32.18">
         <text text="צ֥וּר יְלָדְךָ֖ תֶּ֑שִׁ" />
-        <letter-small>
-          <text text="י" />
-        </letter-small>
+        <letter-small text="י" />
         <text text=" וַתִּשְׁכַּ֖ח אֵ֥ל מְחֹלְלֶֽךָ׃" />
         <shirah-space />
       </verse>
@@ -3713,12 +3635,8 @@
       <verse osisID="Deut.33.2">
         <text text="וַיֹּאמַ֗ר יְהֹוָ֞ה מִסִּינַ֥י בָּא֙ וְזָרַ֤ח מִשֵּׂעִיר֙ לָ֔מוֹ הוֹפִ֙יעַ֙ מֵהַ֣ר פָּארָ֔ן וְאָתָ֖ה מֵרִבְבֹ֣ת קֹ֑דֶשׁ מִימִינ֕וֹ " />
         <kq>
-          <kq-k>
-            <text text="אשדת" />
-          </kq-k>
-          <kq-q>
-            <text text="אֵ֥שׁ דָּ֖ת" />
-          </kq-q>
+          <kq-k text="אשדת" />
+          <kq-q text="אֵ֥שׁ דָּ֖ת" />
         </kq>
         <text text=" לָֽמוֹ׃" />
       </verse>
@@ -3748,9 +3666,7 @@
       </verse>
       <verse osisID="Deut.33.9">
         <text text="הָאֹמֵ֞ר לְאָבִ֤יו וּלְאִמּוֹ֙ לֹ֣א רְאִיתִ֔יו וְאֶת־אֶחָיו֙ לֹ֣א הִכִּ֔יר וְאֶת־" />
-        <kq-trivial>
-          <text text="בָּנָ֖ו" />
-        </kq-trivial>
+        <kq-trivial text="בָּנָ֖ו" />
         <text text=" לֹ֣א יָדָ֑ע כִּ֤י שָֽׁמְרוּ֙ אִמְרָתֶ֔ךָ וּבְרִיתְךָ֖ יִנְצֹֽרוּ׃" />
       </verse>
       <verse osisID="Deut.33.10">
@@ -3832,9 +3748,7 @@
         <text text="אַשְׁרֶ֨יךָ" />
         <note>
           <text text="(בספרי תימן " />
-          <letter-large>
-            <text text="אַ" />
-          </letter-large>
+          <letter-large text="אַ" />
           <text text="שְׁרֶ֨יךָ באל״ף גדולה)" />
         </note>
         <text text=" יִשְׂרָאֵ֜ל מִ֣י כָמ֗וֹךָ עַ֚ם נוֹשַׁ֣ע בַּֽיהֹוָ֔ה מָגֵ֣ן עֶזְרֶ֔ךָ וַאֲשֶׁר־חֶ֖רֶב גַּאֲוָתֶ֑ךָ וְיִכָּחֲשׁ֤וּ אֹיְבֶ֙יךָ֙ לָ֔ךְ וְאַתָּ֖ה עַל־בָּמוֹתֵ֥ימוֹ תִדְרֹֽךְ׃" />

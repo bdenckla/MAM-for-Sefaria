@@ -36,12 +36,8 @@
       <verse osisID="Job.1.10">
         <text text="הֲלֹֽא־" />
         <kq>
-          <kq-q>
-            <text text="אַ֠תָּ֠ה" />
-          </kq-q>
-          <kq-k>
-            <text text="את" />
-          </kq-k>
+          <kq-q text="אַ֠תָּ֠ה" />
+          <kq-k text="את" />
         </kq>
         <text text=" שַׂ֣כְתָּ בַעֲד֧וֹ וּבְעַד־בֵּית֛וֹ וּבְעַ֥ד כׇּל־אֲשֶׁר־ל֖וֹ מִסָּבִ֑יב מַעֲשֵׂ֤ה יָדָיו֙ בֵּרַ֔כְתָּ וּמִקְנֵ֖הוּ פָּרַ֥ץ בָּאָֽרֶץ׃" />
       </verse>
@@ -115,12 +111,8 @@
       <verse osisID="Job.2.7">
         <text text="וַיֵּצֵא֙ הַשָּׂטָ֔ן מֵאֵ֖ת פְּנֵ֣י יְהֹוָ֑ה וַיַּ֤ךְ אֶת־אִיּוֹב֙ בִּשְׁחִ֣ין רָ֔ע מִכַּ֥ף רַגְל֖וֹ " />
         <kq>
-          <kq-k>
-            <text text="עד" />
-          </kq-k>
-          <kq-q>
-            <text text="וְעַ֥ד" />
-          </kq-q>
+          <kq-k text="עד" />
+          <kq-q text="וְעַ֥ד" />
         </kq>
         <text text=" קׇדְקֳדֽוֹ׃" />
       </verse>
@@ -369,9 +361,7 @@
       </verse>
       <verse osisID="Job.5.18">
         <text text="כִּ֤י ה֣וּא יַכְאִ֣יב וְיֶחְבָּ֑שׁ יִ֝מְחַ֗ץ " />
-        <kq-trivial>
-          <text text="וְיָדָ֥ו" />
-        </kq-trivial>
+        <kq-trivial text="וְיָדָ֥ו" />
         <text text=" תִּרְפֶּֽינָה׃" />
       </verse>
       <verse osisID="Job.5.19">
@@ -414,12 +404,8 @@
       <verse osisID="Job.6.2">
         <text text="ל֗וּ שָׁק֣וֹל יִשָּׁקֵ֣ל כַּעְשִׂ֑י " />
         <kq>
-          <kq-k>
-            <text text="והיתי" />
-          </kq-k>
-          <kq-q>
-            <text text="וְ֝הַוָּתִ֗י" />
-          </kq-q>
+          <kq-k text="והיתי" />
+          <kq-q text="וְ֝הַוָּתִ֗י" />
         </kq>
         <text text=" בְּֽמֹאזְנַ֥יִם יִשְׂאוּ־יָֽחַד׃" />
       </verse>
@@ -506,12 +492,8 @@
       <verse osisID="Job.6.29">
         <text text="שֽׁוּבוּ־נָ֭א אַל־תְּהִ֣י עַוְלָ֑ה " />
         <kq>
-          <kq-k>
-            <text text="ושבי" />
-          </kq-k>
-          <kq-q>
-            <text text="וְשׁ֥וּבוּ" />
-          </kq-q>
+          <kq-k text="ושבי" />
+          <kq-q text="וְשׁ֥וּבוּ" />
         </kq>
         <text text=" ע֝֗וֹד צִדְקִי־בָֽהּ׃" />
       </verse>
@@ -523,12 +505,8 @@
       <verse osisID="Job.7.1">
         <text text="הֲלֹֽא־צָבָ֣א לֶֽאֱנ֣וֹשׁ " />
         <kq>
-          <kq-k>
-            <text text="על" />
-          </kq-k>
-          <kq-q>
-            <text text="עֲלֵי־" />
-          </kq-q>
+          <kq-k text="על" />
+          <kq-q text="עֲלֵי־" />
         </kq>
         <text text="אָ֑רֶץ וְכִימֵ֖י שָׂכִ֣יר יָמָֽיו׃" />
       </verse>
@@ -546,14 +524,10 @@
         <kq>
           <kq-k>
             <text text="ו" />
-            <letter-small>
-              <text text="ג" />
-            </letter-small>
+            <letter-small text="ג" />
             <text text="יש" />
           </kq-k>
-          <kq-q>
-            <text text="וְג֣וּשׁ" />
-          </kq-q>
+          <kq-q text="וְג֣וּשׁ" />
         </kq>
         <text text=" עָפָ֑ר עוֹרִ֥י רָ֝גַ֗ע וַיִּמָּאֵֽס׃" />
       </verse>
@@ -779,12 +753,8 @@
       <verse osisID="Job.9.30">
         <text text="אִם־הִתְרָחַ֥צְתִּי " />
         <kq>
-          <kq-k>
-            <text text="במו" />
-          </kq-k>
-          <kq-q>
-            <text text="בְמֵי־" />
-          </kq-q>
+          <kq-k text="במו" />
+          <kq-q text="בְמֵי־" />
         </kq>
         <text text="שָׁ֑לֶג וַ֝הֲזִכּ֗וֹתִי בְּבֹ֣ר כַּפָּֽי׃" />
       </verse>
@@ -799,9 +769,7 @@
       </verse>
       <verse osisID="Job.9.34">
         <text text="יָסֵ֣ר מֵעָלַ֣י שִׁבְ" />
-        <letter-large>
-          <text text="ט֑" />
-        </letter-large>
+        <letter-large text="ט֑" />
         <text text="וֹ וְ֝אֵמָת֗וֹ אַֽל־תְּבַעֲתַֽנִּי׃" />
       </verse>
       <verse osisID="Job.9.35">
@@ -873,21 +841,13 @@
       <verse osisID="Job.10.20">
         <text text="הֲלֹֽא־מְעַ֣ט יָמַ֣י " />
         <kq>
-          <kq-k>
-            <text text="יחדל" />
-          </kq-k>
-          <kq-q>
-            <text text="וַחֲדָ֑ל" />
-          </kq-q>
+          <kq-k text="יחדל" />
+          <kq-q text="וַחֲדָ֑ל" />
         </kq>
         <text text=" " />
         <kq>
-          <kq-k>
-            <text text="ישית" />
-          </kq-k>
-          <kq-q>
-            <text text="וְשִׁ֥ית" />
-          </kq-q>
+          <kq-k text="ישית" />
+          <kq-q text="וְשִׁ֥ית" />
         </kq>
         <text text=" מִ֝מֶּ֗נִּי וְאַבְלִ֥יגָה מְּעָֽט׃" />
       </verse>
@@ -1103,12 +1063,8 @@
       <verse osisID="Job.13.15">
         <text text="הֵ֣ן יִ֭קְטְלֵנִי " />
         <kq>
-          <kq-k>
-            <text text="לא" />
-          </kq-k>
-          <kq-q>
-            <text text="ל֣וֹ" />
-          </kq-q>
+          <kq-k text="לא" />
+          <kq-q text="ל֣וֹ" />
         </kq>
         <text text=" אֲיַחֵ֑ל אַךְ־דְּ֝רָכַ֗י אֶל־פָּנָ֥יו אוֹכִֽיחַ׃" />
       </verse>
@@ -1298,12 +1254,8 @@
       <verse osisID="Job.15.22">
         <text text="לֹא־יַאֲמִ֣ין שׁ֭וּב מִנִּי־חֹ֑שֶׁךְ " />
         <kq>
-          <kq-k>
-            <text text="וצפו" />
-          </kq-k>
-          <kq-q>
-            <text text="וְצָפ֖וּי" />
-          </kq-q>
+          <kq-k text="וצפו" />
+          <kq-q text="וְצָפ֖וּי" />
         </kq>
         <text text=" ה֣וּא אֱלֵי־חָֽרֶב׃" />
       </verse>
@@ -1412,9 +1364,7 @@
       </verse>
       <verse osisID="Job.16.14">
         <text text="יִפְרְצֵ֣נִי פֶ֭רֶ" />
-        <letter-small>
-          <text text="ץ" />
-        </letter-small>
+        <letter-small text="ץ" />
         <text text=" עַל־פְּנֵי־פָ֑רֶץ יָרֻ֖ץ עָלַ֣י כְּגִבּֽוֹר׃" />
       </verse>
       <verse osisID="Job.16.15">
@@ -1423,12 +1373,8 @@
       <verse osisID="Job.16.16">
         <text text="פָּנַ֣י " />
         <kq>
-          <kq-k>
-            <text text="חמרמרה" />
-          </kq-k>
-          <kq-q>
-            <text text="חֳ֭מַרְמְרוּ" />
-          </kq-q>
+          <kq-k text="חמרמרה" />
+          <kq-q text="חֳ֭מַרְמְרוּ" />
         </kq>
         <text text=" מִנִּי־בֶ֑כִי וְעַ֖ל עַפְעַפַּ֣י צַלְמָֽוֶת׃" />
       </verse>
@@ -1668,12 +1614,8 @@
         <lp-legarmeih />
         <text text=" מִפְּנֵי־חֶ֗רֶב כִּֽי־חֵ֭מָה עֲוֺנ֣וֹת חָ֑רֶב לְמַ֖עַן תֵּדְע֣וּן " />
         <kq>
-          <kq-k>
-            <text text="שדין" />
-          </kq-k>
-          <kq-q>
-            <text text="שַׁדּֽוּן" />
-          </kq-q>
+          <kq-k text="שדין" />
+          <kq-q text="שַׁדּֽוּן" />
         </kq>
         <text text="׃" />
         <spi-pe2-before />
@@ -1714,9 +1656,7 @@
       </verse>
       <verse osisID="Job.20.11">
         <text text="עַ֭צְמוֹתָיו מָלְא֣וּ " />
-        <kq-trivial>
-          <text text="עֲלוּמָ֑ו" />
-        </kq-trivial>
+        <kq-trivial text="עֲלוּמָ֑ו" />
         <text text=" וְ֝עִמּ֗וֹ עַל־עָפָ֥ר תִּשְׁכָּֽב׃" />
       </verse>
       <verse osisID="Job.20.12">
@@ -1822,12 +1762,8 @@
       </verse>
       <verse osisID="Job.21.13">
         <kq>
-          <kq-k>
-            <text text="יבלו" />
-          </kq-k>
-          <kq-q>
-            <text text="יְכַלּ֣וּ" />
-          </kq-q>
+          <kq-k text="יבלו" />
+          <kq-q text="יְכַלּ֣וּ" />
         </kq>
         <text text=" בַטּ֣וֹב יְמֵיהֶ֑ם וּ֝בְרֶ֗גַע שְׁא֣וֹל יֵחָֽתּוּ׃" />
       </verse>
@@ -1853,9 +1789,7 @@
       </verse>
       <verse osisID="Job.21.20">
         <text text="יִרְא֣וּ " />
-        <kq-trivial>
-          <text text="עֵינָ֣ו" />
-        </kq-trivial>
+        <kq-trivial text="עֵינָ֣ו" />
         <text text=" כִּיד֑וֹ וּמֵחֲמַ֖ת שַׁדַּ֣י יִשְׁתֶּֽה׃" />
       </verse>
       <verse osisID="Job.21.21">
@@ -2059,9 +1993,7 @@
     <chapter osisID="Job.24">
       <verse osisID="Job.24.1">
         <text text="מַדּ֗וּעַ מִ֭שַּׁדַּי לֹא־נִצְפְּנ֣וּ עִתִּ֑ים " />
-        <kq-trivial>
-          <text text="וְ֝יֹדְעָ֗ו" />
-        </kq-trivial>
+        <kq-trivial text="וְ֝יֹדְעָ֗ו" />
         <text text=" לֹא־חָ֥זוּ יָמָֽיו׃" />
       </verse>
       <verse osisID="Job.24.2">
@@ -2081,12 +2013,8 @@
       <verse osisID="Job.24.6">
         <text text="בַּ֭שָּׂדֶה בְּלִיל֣וֹ " />
         <kq>
-          <kq-k>
-            <text text="יקצירו" />
-          </kq-k>
-          <kq-q>
-            <text text="יִקְצ֑וֹרוּ" />
-          </kq-q>
+          <kq-k text="יקצירו" />
+          <kq-q text="יִקְצ֑וֹרוּ" />
         </kq>
         <text text=" וְכֶ֖רֶם רָשָׁ֣ע יְלַקֵּֽשׁוּ׃" />
       </verse>
@@ -2227,12 +2155,8 @@
       <verse osisID="Job.26.12">
         <text text="בְּ֭כֹחוֹ רָגַ֣ע הַיָּ֑ם " />
         <kq>
-          <kq-k>
-            <text text="ובתובנתו" />
-          </kq-k>
-          <kq-q>
-            <text text="וּ֝בִתְבוּנָת֗וֹ" />
-          </kq-q>
+          <kq-k text="ובתובנתו" />
+          <kq-q text="וּ֝בִתְבוּנָת֗וֹ" />
         </kq>
         <text text=" מָ֣חַץ רָֽהַב׃" />
       </verse>
@@ -2243,9 +2167,7 @@
         <text text="הֶן־אֵ֤לֶּה" />
         <lp-legarmeih />
         <text text=" קְצ֬וֹת דְּרָכָ֗ו וּמַה־שֵּׁ֣מֶץ דָּ֭בָר נִשְׁמַע־בּ֑וֹ וְרַ֥עַם " />
-        <kq-trivial>
-          <text text="גְּ֝בוּרֹתָ֗ו" />
-        </kq-trivial>
+        <kq-trivial text="גְּ֝בוּרֹתָ֗ו" />
         <text text=" מִ֣י יִתְבּוֹנָֽן׃" />
         <spi-pe2-before />
       </verse>
@@ -2302,9 +2224,7 @@
         <text text="אִם־יִרְבּ֣וּ בָנָ֣יו לְמוֹ־חָ֑רֶב וְ֝צֶאֱצָאָ֗יו לֹ֣א יִשְׂבְּעוּ־לָֽחֶם׃" />
       </verse>
       <verse osisID="Job.27.15">
-        <kq-trivial>
-          <text text="שְׂ֭רִידָו" />
-        </kq-trivial>
+        <kq-trivial text="שְׂ֭רִידָו" />
         <text text=" בַּמָּ֣וֶת יִקָּבֵ֑רוּ וְ֝אַלְמְנֹתָ֗יו לֹ֣א תִבְכֶּֽינָה׃" />
       </verse>
       <verse osisID="Job.27.16">
@@ -2543,12 +2463,8 @@
       <verse osisID="Job.30.11">
         <text text="כִּֽי־" />
         <kq>
-          <kq-q>
-            <text text="יִתְרִ֣י" />
-          </kq-q>
-          <kq-k>
-            <text text="יתרו" />
-          </kq-k>
+          <kq-q text="יִתְרִ֣י" />
+          <kq-k text="יתרו" />
         </kq>
         <text text=" פִ֭תַּח וַיְעַנֵּ֑נִי וְ֝רֶ֗סֶן מִפָּנַ֥י שִׁלֵּֽחוּ׃" />
       </verse>
@@ -2585,12 +2501,8 @@
       <verse osisID="Job.30.22">
         <text text="תִּשָּׂאֵ֣נִי אֶל־ר֭וּחַ תַּרְכִּיבֵ֑נִי וּ֝תְמֹגְגֵ֗נִי " />
         <kq>
-          <kq-k>
-            <text text="תשוה" />
-          </kq-k>
-          <kq-q>
-            <text text="תּוּשִׁיָּֽה" />
-          </kq-q>
+          <kq-k text="תשוה" />
+          <kq-q text="תּוּשִׁיָּֽה" />
         </kq>
         <text text="׃" />
       </verse>
@@ -2658,21 +2570,13 @@
       <verse osisID="Job.31.11">
         <text text="כִּי־" />
         <kq>
-          <kq-q>
-            <text text="הִ֥יא" />
-          </kq-q>
-          <kq-k>
-            <text text="הוא" />
-          </kq-k>
+          <kq-q text="הִ֥יא" />
+          <kq-k text="הוא" />
         </kq>
         <text text=" זִמָּ֑ה " />
         <kq>
-          <kq-k>
-            <text text="והיא" />
-          </kq-k>
-          <kq-q>
-            <text text="וְ֝ה֗וּא" />
-          </kq-q>
+          <kq-k text="והיא" />
+          <kq-q text="וְ֝ה֗וּא" />
         </kq>
         <text text=" עָוֺ֥ן פְּלִילִֽים׃" />
       </verse>
@@ -2702,9 +2606,7 @@
       </verse>
       <verse osisID="Job.31.20">
         <text text="אִם־לֹ֣א בֵרְכ֣וּנִי " />
-        <kq-trivial>
-          <text text="חֲלָצָ֑ו" />
-        </kq-trivial>
+        <kq-trivial text="חֲלָצָ֑ו" />
         <text text=" וּמִגֵּ֥ז כְּ֝בָשַׂ֗י יִתְחַמָּֽם׃" />
       </verse>
       <verse osisID="Job.31.21">
@@ -2888,9 +2790,7 @@
         <text text="זַ֥ךְ אֲנִ֗י בְּֽלִ֫י" />
         <implicit-maqaf />
         <text text="פָ֥שַׁע " />
-        <letter-small>
-          <text text="חַ֥" />
-        </letter-small>
+        <letter-small text="חַ֥" />
         <text text="ף אָנֹכִ֑י וְלֹ֖א עָוֺ֣ן לִֽי׃" />
       </verse>
       <verse osisID="Job.33.10">
@@ -2925,12 +2825,8 @@
       <verse osisID="Job.33.19">
         <text text="וְהוּכַ֣ח בְּ֭מַכְאוֹב עַל־מִשְׁכָּב֑וֹ " />
         <kq>
-          <kq-k>
-            <text text="וריב" />
-          </kq-k>
-          <kq-q>
-            <text text="וְר֖וֹב" />
-          </kq-q>
+          <kq-k text="וריב" />
+          <kq-q text="וְר֖וֹב" />
         </kq>
         <text text=" עֲצָמָ֣יו אֵתָֽן׃" />
       </verse>
@@ -2940,12 +2836,8 @@
       <verse osisID="Job.33.21">
         <text text="יִ֣כֶל בְּשָׂר֣וֹ מֵרֹ֑אִי " />
         <kq>
-          <kq-k>
-            <text text="ושפי" />
-          </kq-k>
-          <kq-q>
-            <text text="וְשֻׁפּ֥וּ" />
-          </kq-q>
+          <kq-k text="ושפי" />
+          <kq-q text="וְשֻׁפּ֥וּ" />
         </kq>
         <text text=" עַ֝צְמֹתָ֗יו לֹ֣א רֻאּֽוּ׃" />
       </verse>
@@ -2976,21 +2868,13 @@
       <verse osisID="Job.33.28">
         <text text="פָּדָ֣ה " />
         <kq>
-          <kq-k>
-            <text text="נפשי" />
-          </kq-k>
-          <kq-q>
-            <text text="נַ֭פְשׁוֹ" />
-          </kq-q>
+          <kq-k text="נפשי" />
+          <kq-q text="נַ֭פְשׁוֹ" />
         </kq>
         <text text=" מֵעֲבֹ֣ר בַּשָּׁ֑חַת " />
         <kq>
-          <kq-k>
-            <text text="וחיתי" />
-          </kq-k>
-          <kq-q>
-            <text text="וְ֝חַיָּת֗וֹ" />
-          </kq-q>
+          <kq-k text="וחיתי" />
+          <kq-q text="וְ֝חַיָּת֗וֹ" />
         </kq>
         <text text=" בָּא֥וֹר תִּרְאֶֽה׃" />
       </verse>
@@ -3345,9 +3229,7 @@
         <text text="וְה֤וּא מְסִבּ֨וֹת" />
         <lp-legarmeih />
         <text text=" מִתְהַפֵּ֣ךְ " />
-        <kq-trivial>
-          <text text="בְּתַחְבּוּלֹתָ֣ו" />
-        </kq-trivial>
+        <kq-trivial text="בְּתַחְבּוּלֹתָ֣ו" />
         <text text=" לְפׇעֳלָ֑ם כֹּ֖ל אֲשֶׁ֥ר יְצַוֵּ֓ם" />
         <lp-legarmeih />
         <text text=" עַל־פְּנֵ֖י תֵבֵ֣ל אָֽרְצָה׃" />
@@ -3400,9 +3282,7 @@
         <spi-pe2-after />
         <text text="וַיַּֽעַן־יְהֹוָ֣ה אֶת־אִ֭יּוֹב " />
         <kq>
-          <kq-k>
-            <text text="מנהסערה" />
-          </kq-k>
+          <kq-k text="מנהסערה" />
           <kq-q>
             <text text="מִ֥ן" />
             <lp-paseq />
@@ -3446,20 +3326,14 @@
       <verse osisID="Job.38.12">
         <text text="הֲֽ֭מִיָּמֶיךָ צִוִּ֣יתָ בֹּ֑קֶר " />
         <kq>
-          <kq-k>
-            <text text="ידעתה שחר" />
-          </kq-k>
-          <kq-q>
-            <text text="יִדַּ֖עְתָּ הַשַּׁ֣חַר" />
-          </kq-q>
+          <kq-k text="ידעתה שחר" />
+          <kq-q text="יִדַּ֖עְתָּ הַשַּׁ֣חַר" />
         </kq>
         <text text=" מְקֹמֽוֹ׃" />
       </verse>
       <verse osisID="Job.38.13">
         <text text="לֶ֭אֱחֹז בְּכַנְפ֣וֹת הָאָ֑רֶץ וְיִנָּעֲר֖וּ רְשָׁ" />
-        <letter-hung>
-          <text text="עִ֣" />
-        </letter-hung>
+        <letter-hung text="עִ֣" />
         <text text="ים מִמֶּֽנָּה׃" />
       </verse>
       <verse osisID="Job.38.14">
@@ -3467,9 +3341,7 @@
       </verse>
       <verse osisID="Job.38.15">
         <text text="וְיִמָּנַ֣ע מֵרְשָׁ" />
-        <letter-hung>
-          <text text="עִ֣" />
-        </letter-hung>
+        <letter-hung text="עִ֣" />
         <text text="ים אוֹרָ֑ם וּזְר֥וֹעַ רָ֝מָ֗ה תִּשָּׁבֵֽר׃" />
       </verse>
       <verse osisID="Job.38.16">
@@ -3549,9 +3421,7 @@
       </verse>
       <verse osisID="Job.38.41">
         <text text="מִ֤י יָכִ֥ין לָעֹרֵ֗ב צֵ֫יד֥וֹ כִּֽי־" />
-        <kq-trivial>
-          <text text="יְ֭לָדָו" />
-        </kq-trivial>
+        <kq-trivial text="יְ֭לָדָו" />
         <text text=" אֶל־אֵ֣ל יְשַׁוֵּ֑עוּ יִ֝תְע֗וּ לִבְלִי־אֹֽכֶל׃" />
       </verse>
     </chapter>
@@ -3592,12 +3462,8 @@
       <verse osisID="Job.39.12">
         <text text="הֲתַאֲמִ֣ין בּ֭וֹ כִּֽי־" />
         <kq>
-          <kq-q>
-            <text text="יָשִׁ֣יב" />
-          </kq-q>
-          <kq-k>
-            <text text="ישוב" />
-          </kq-k>
+          <kq-q text="יָשִׁ֣יב" />
+          <kq-k text="ישוב" />
         </kq>
         <text text=" זַרְעֶ֑ךָ וְֽגׇרְנְךָ֥ יֶאֱסֹֽף׃" />
       </verse>
@@ -3647,9 +3513,7 @@
       </verse>
       <verse osisID="Job.39.26">
         <text text="הֲֽ֭מִבִּינָ֣תְךָ יַאֲבֶר־נֵ֑ץ יִפְרֹ֖שׂ " />
-        <kq-trivial>
-          <text text="כְּנָפָ֣ו" />
-        </kq-trivial>
+        <kq-trivial text="כְּנָפָ֣ו" />
         <text text=" לְתֵימָֽן׃" />
       </verse>
       <verse osisID="Job.39.27">
@@ -3693,9 +3557,7 @@
         <spi-pe2-after />
         <text text="וַיַּעַן־יְהֹוָ֣ה אֶת־אִ֭יּוֹב " />
         <kq>
-          <kq-k>
-            <text text="מנסערה" />
-          </kq-k>
+          <kq-k text="מנסערה" />
           <kq-q>
             <text text="מִ֥ן" />
             <lp-paseq />
@@ -3738,9 +3600,7 @@
       </verse>
       <verse osisID="Job.40.17">
         <text text="יַחְפֹּ֣ץ זְנָב֣וֹ כְמוֹ־אָ֑רֶז גִּידֵ֖י " />
-        <kq-trivial>
-          <text text="פַחֲדָ֣ו" />
-        </kq-trivial>
+        <kq-trivial text="פַחֲדָ֣ו" />
         <text text=" יְשֹׂרָֽגוּ׃" />
       </verse>
       <verse osisID="Job.40.18">
@@ -3803,12 +3663,8 @@
       </verse>
       <verse osisID="Job.41.4">
         <kq>
-          <kq-k>
-            <text text="לא" />
-          </kq-k>
-          <kq-q>
-            <text text="לוֹ־" />
-          </kq-q>
+          <kq-k text="לא" />
+          <kq-q text="לוֹ־" />
         </kq>
         <text text="אַחֲרִ֥ישׁ בַּדָּ֑יו וּדְבַר־גְּ֝בוּר֗וֹת וְחִ֣ין עֶרְכּֽוֹ׃" />
       </verse>
@@ -3888,12 +3744,8 @@
       </verse>
       <verse osisID="Job.42.2">
         <kq>
-          <kq-k>
-            <text text="ידעת" />
-          </kq-k>
-          <kq-q>
-            <text text="יָ֭דַעְתִּי" />
-          </kq-q>
+          <kq-k text="ידעת" />
+          <kq-q text="יָ֭דַעְתִּי" />
         </kq>
         <text text=" כִּי־כֹ֣ל תּוּכָ֑ל וְלֹֽא־יִבָּצֵ֖ר מִמְּךָ֣ מְזִמָּֽה׃" />
       </verse>
@@ -3933,12 +3785,8 @@
       <verse osisID="Job.42.10">
         <text text="וַיהֹוָ֗ה שָׁ֚ב אֶת־" />
         <kq>
-          <kq-q>
-            <text text="שְׁב֣וּת" />
-          </kq-q>
-          <kq-k>
-            <text text="שבית" />
-          </kq-k>
+          <kq-q text="שְׁב֣וּת" />
+          <kq-k text="שבית" />
         </kq>
         <text text=" אִיּ֔וֹב בְּהִֽתְפַּֽלְל֖וֹ בְּעַ֣ד רֵעֵ֑הוּ וַיֹּ֧סֶף יְהֹוָ֛ה אֶת־כׇּל־אֲשֶׁ֥ר לְאִיּ֖וֹב לְמִשְׁנֶֽה׃" />
       </verse>
@@ -3960,12 +3808,8 @@
       <verse osisID="Job.42.16">
         <text text="וַיְחִ֤י אִיּוֹב֙ אַחֲרֵי־זֹ֔את מֵאָ֥ה וְאַרְבָּעִ֖ים שָׁנָ֑ה " />
         <kq>
-          <kq-k>
-            <text text="וירא" />
-          </kq-k>
-          <kq-q>
-            <text text="וַיִּרְאֶ֗ה" />
-          </kq-q>
+          <kq-k text="וירא" />
+          <kq-q text="וַיִּרְאֶ֗ה" />
         </kq>
         <text text=" אֶת־בָּנָיו֙ וְאֶת־בְּנֵ֣י בָנָ֔יו אַרְבָּעָ֖ה דֹּרֽוֹת׃" />
       </verse>
