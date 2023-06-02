@@ -1,5 +1,5 @@
 unicode_names Amos
-Amos 1:1 in vtrad vtbhs
+Amos 1:1 in vtrad vtsef
 d,·,i,v,:,r,‥,⅃,y
 SPACE
 ʕ,a,m,ƶ,w,o,σ
@@ -17,6 +17,10 @@ SPACE
 ʕ,_,l,-,y,i,$,·si,:,r,a,α,‥,(ge),l
 SPACE
 v,·,i,y,m,‥,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 ʕ,u,z,·,i,y,·,a,⅃,h
 SPACE
@@ -38,8 +42,12 @@ l,i,f,:,n,‥,(me),y
 SPACE
 h,a,r,a,𝓂,ʕ,_,$,·sh,.
 
-Amos 1:2 in vtrad vtbhs
+Amos 1:2 in vtrad vtsef
 w,_,y,·,o,α,m,_,(sh),r
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 y,:,h,o,w,a,h,(p)
 SPACE
@@ -65,7 +73,7 @@ r,o,(me),α,$,·sh
 SPACE
 h,_,k,·,_,r,:,m,∵,𝓂,l,.
 
-Amos 1:3 in vtrad vtbhs
+Amos 1:3 in vtrad vtsef
 k,·,o,(ye),h
 SPACE
 α,a,m,_,⅃,r
@@ -92,7 +100,7 @@ h,_,v,·,_,r,:,z,∵,(ti),l
 SPACE
 α,∵,τ,-,h,_,g,·,i,l,:,ʕ,a,𝓂,d,.
 
-Amos 1:4 in vtrad vtbhs
+Amos 1:4 in vtrad vtsef
 w,:,$,·sh,i,l,·,_,(me),x,:,τ,·,i,y
 SPACE
 α,‥,(ti),$,·sh
@@ -107,7 +115,7 @@ SPACE
 SPACE
 v,·,∵,n.,-,h,:_,d,a,𝓂,d,.
 
-Amos 1:5 in vtrad vtbhs
+Amos 1:5 in vtrad vtsef
 w,:,$,·sh,a,𝓂,v,_,r,:,τ,·,i,y,(p)
 SPACE
 v,·,:,r,i,⅃,y,x,_
@@ -138,7 +146,7 @@ SPACE
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-Amos 1:6 in vtrad vtbhs
+Amos 1:6 in vtrad vtsef
 k,·,o,(ye),h
 SPACE
 α,a,m,_,⅃,r
@@ -167,7 +175,7 @@ l,:,h,_,σ,:,g,·,i,(me),y,r
 SPACE
 l,∵,α,:∵,d,𝓂,w,o,m.,.
 
-Amos 1:7 in vtrad vtbhs
+Amos 1:7 in vtrad vtsef
 w,:,$,·sh,i,l,·,_,(me),x,:,τ,·,i,y
 SPACE
 α,‥,(ti),$,·sh
@@ -180,7 +188,7 @@ w,:,α,a,k,:,l,a,(ti),h
 SPACE
 α,_,r,:,m,:,n,o,τ,∵,𝓂,y,h,a,.
 
-Amos 1:8 in vtrad vtbhs
+Amos 1:8 in vtrad vtsef
 w,:,h,i,k,:,r,_,τ,·,i,<,y
 SPACE
 y,w,o,$,·sh,‥,v,(p)
@@ -211,7 +219,7 @@ SPACE
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
 
-Amos 1:9 in vtrad vtbhs
+Amos 1:9 in vtrad vtsef
 k,·,o,(ye),h
 SPACE
 α,a,m,_,⅃,r
@@ -244,7 +252,7 @@ v,·,:,r,i,(me),y,τ
 SPACE
 α,_,x,i,𝓂,y,m.,.
 
-Amos 1:10 in vtrad vtbhs
+Amos 1:10 in vtrad vtsef
 w,:,$,·sh,i,l,·,_,(me),x,:,τ,·,i,y
 SPACE
 α,‥,(ti),$,·sh
@@ -257,7 +265,7 @@ w,:,α,a,k,:,l,a,(ti),h
 SPACE
 α,_,r,:,m,:,n,w,o,τ,∵,𝓂,y,h,a,.
 
-Amos 1:11 in vtrad vtbhs
+Amos 1:11 in vtrad vtsef
 k,·,o,(ye),h
 SPACE
 α,a,m,_,⅃,r
@@ -298,7 +306,7 @@ $,·sh,:,m,a,(me),r,a,h,‾
 SPACE
 n,∵,𝓂,ц,_,x,.
 
-Amos 1:12 in vtrad vtbhs
+Amos 1:12 in vtrad vtsef
 w,:,$,·sh,i,l,·,_,(me),x,:,τ,·,i,y
 SPACE
 α,‥,(ti),$,·sh
@@ -311,7 +319,7 @@ SPACE
 SPACE
 v,·,oa,ц,:,r,a,𝓂,h,.
 
-Amos 1:13 in vtrad vtbhs
+Amos 1:13 in vtrad vtsef
 k,·,o,(ye),h
 SPACE
 α,a,m,_,⅃,r
@@ -342,7 +350,7 @@ h,_,r,:,x,i,(me),y,v
 SPACE
 α,∵,τ,-,g,·,:,v,w,·,l,a,𝓂,m.,.
 
-Amos 1:14 in vtrad vtbhs
+Amos 1:14 in vtrad vtsef
 w,:,h,i,ц,·,_,<,τ,·,i,y
 SPACE
 α,‥,$,·sh,(p)
@@ -367,7 +375,7 @@ v,·,:,y,(me),w,o,m.
 SPACE
 σ,w,·,f,a,𝓂,h,.
 
-Amos 1:15 in vtrad vtbhs
+Amos 1:15 in vtrad vtsef
 w,:,h,a,l,_,(me),k.,:
 SPACE
 m,_,l,:,k,·,a,(ti),m.
@@ -384,7 +392,7 @@ SPACE
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-Amos 2:1 in vtrad vtbhs
+Amos 2:1 in vtrad vtsef
 k,·,o,(ye),h
 SPACE
 α,a,m,_,⅃,r
@@ -411,7 +419,7 @@ m,∵,l,∵,k.,:,-,α,:∵,d,(ti),w,o,m.
 SPACE
 l,_,$,·si,·,i,𝓂,y,d,.
 
-Amos 2:2 in vtrad vtbhs
+Amos 2:2 in vtrad vtsef
 w,:,$,·sh,i,l,·,_,x,:,τ,·,i,y,-,α,‥,⅃,$,·sh
 SPACE
 v,·,:,m,w,o,α,a,ƶ,v
@@ -434,7 +442,7 @@ v,·,:,q,(me),w,o,l
 SPACE
 $,·sh,w,o,f,a,𝓂,r,.
 
-Amos 2:3 in vtrad vtbhs
+Amos 2:3 in vtrad vtsef
 w,:,h,i,k,:,r,_,τ,·,i,(me),y
 SPACE
 $,·sh,w,o,f,‥,(ti),θ
@@ -451,7 +459,7 @@ SPACE
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-Amos 2:4 in vtrad vtbhs
+Amos 2:4 in vtrad vtsef
 k,·,o,(ye),h
 SPACE
 α,a,m,_,⅃,r
@@ -492,7 +500,7 @@ SPACE
 SPACE
 α,_,x,:_,r,‥,y,h,∵,𝓂,m.,.
 
-Amos 2:5 in vtrad vtbhs
+Amos 2:5 in vtrad vtsef
 w,:,$,·sh,i,l,·,_,(me),x,:,τ,·,i,y
 SPACE
 α,‥,(ti),$,·sh
@@ -505,7 +513,7 @@ SPACE
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-Amos 2:6 in vtrad vtbhs
+Amos 2:6 in vtrad vtsef
 k,·,o,(ye),h
 SPACE
 α,a,m,_,⅃,r
@@ -536,7 +544,7 @@ v,·,_,𝓂,ʕ,:_,v,(me),w,·,r
 SPACE
 n,_,ʕ,:_,l,a,𝓂,y,i,m.,.
 
-Amos 2:7 in vtrad vtbhs
+Amos 2:7 in vtrad vtsef
 h,_,$,·sh,·,o,α,:_,f,i,<,y,m.
 SPACE
 ʕ,_,l,-,ʕ,:_,f,_,r,-,α,∵,(p),r,∵,ц.,(p)
@@ -567,7 +575,7 @@ SPACE
 SPACE
 q,oa,d,:,$,·sh,i,𝓂,y,.
 
-Amos 2:8 in vtrad vtbhs
+Amos 2:8 in vtrad vtsef
 w,:,ʕ,_,l,-,v,·,:,g,a,d,i,<,y,m.
 SPACE
 x,:_,v,u,l,i,y,m.,(p)
@@ -588,7 +596,7 @@ v,·,‥,(ti),y,τ
 SPACE
 α,:∵,l,o,h,‥,y,h,∵,𝓂,m.,.
 
-Amos 2:9 in vtrad vtbhs
+Amos 2:9 in vtrad vtsef
 w,:,α,a,(qa),n,o,k,i,(ge),y
 SPACE
 h,i,$,·sh,:,m,_,<,d,:,τ,·,i,y
@@ -621,7 +629,7 @@ w,:,$,·sh,oa,r,a,$,·sh,a,(ti),y,w
 SPACE
 m,i,τ,·,a,𝓂,x,_,τ,.
 
-Amos 2:10 in vtrad vtbhs
+Amos 2:10 in vtrad vtsef
 w,:,α,a,n,o,k,i,⟓,y
 SPACE
 h,∵,ʕ,:∵,l,‥,(me),y,τ,i,y
@@ -648,7 +656,7 @@ SPACE
 SPACE
 h,a,α,:∵,m,o,r,i,𝓂,y,.
 
-Amos 2:11 in vtrad vtbhs
+Amos 2:11 in vtrad vtsef
 w,a,α,a,q,i,<,y,m.
 SPACE
 m,i,v,·,:,n,‥,y,k,∵,m.,(p)
@@ -669,7 +677,7 @@ y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
 
-Amos 2:12 in vtrad vtbhs
+Amos 2:12 in vtrad vtsef
 w,_,τ,·,_,$,·sh,:,q,(me),w,·
 SPACE
 α,∵,τ,-,h,_,n,·,:,z,i,r,i,(ti),y,m.
@@ -686,7 +694,7 @@ l,o,(ti),α
 SPACE
 τ,·,i,n,·,a,v,:,α,𝓂,w,·,.
 
-Amos 2:13 in vtrad vtbhs
+Amos 2:13 in vtrad vtsef
 h,i,n,·,‥,⟓,h
 SPACE
 α,a,n,o,k,i,(me),y
@@ -707,7 +715,7 @@ l,a,(ti),h,·
 SPACE
 ʕ,a,m,i,𝓂,y,r,.
 
-Amos 2:14 in vtrad vtbhs
+Amos 2:14 in vtrad vtsef
 w,:,α,a,v,_,<,d
 SPACE
 m,a,n,w,o,σ,(p)
@@ -726,7 +734,7 @@ l,o,α,-,y,:,m,_,l,·,‥,(me),θ
 SPACE
 n,_,f,:,$,·sh,𝓂,w,o,.
 
-Amos 2:15 in vtrad vtbhs
+Amos 2:15 in vtrad vtsef
 w,:,τ,o,f,‥,<,$,·si
 SPACE
 h,_,q,·,∵,(p),$,·sh,∵,τ,(p)
@@ -753,7 +761,7 @@ y,:,m,_,l,·,‥,(ti),θ
 SPACE
 n,_,f,:,$,·sh,𝓂,w,o,.
 
-Amos 2:16 in vtrad vtbhs
+Amos 2:16 in vtrad vtsef
 w,:,α,_,m,·,i,(me),y,ц.
 SPACE
 l,i,v,·,(ti),w,o
@@ -768,7 +776,7 @@ v,·,_,y,·,w,o,m.,-,h,_,h,(ti),w,·,α
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
 
-Amos 3:1 in vtrad vtbhs
+Amos 3:1 in vtrad vtsef
 $,·sh,i,m,:,ʕ,(G),w,·
 SPACE
 α,∵,τ,-,h,_,d,·,a,v,a,⅃,r
@@ -801,7 +809,7 @@ m,i,ц,:,r,_,(ti),y,i,m.
 SPACE
 l,‥,α,m,o,𝓂,r,.
 
-Amos 3:2 in vtrad vtbhs
+Amos 3:2 in vtrad vtsef
 r,_,(ye),q
 SPACE
 α,∵,τ,:,k,∵,⅃,m.
@@ -824,7 +832,7 @@ SPACE
 SPACE
 k,·,oa,l,-,ʕ,:_,w,hhfv,n,o,τ,‥,y,k,∵,𝓂,m.,.
 
-Amos 3:3 in vtrad vtbhs
+Amos 3:3 in vtrad vtsef
 h,:_,y,‥,l,:,k,(me),w,·
 SPACE
 $,·sh,:,n,_,(ti),y,i,m.
@@ -835,7 +843,7 @@ v,·,i,l,:,τ,·,i,(ti),y
 SPACE
 α,i,m.,-,n,w,o,ʕ,a,𝓂,d,w,·,.
 
-Amos 3:4 in vtrad vtbhs
+Amos 3:4 in vtrad vtsef
 h,:_,y,i,$,·sh,:,α,_,<,g
 SPACE
 α,_,r,:,y,‥,h,(p)
@@ -860,7 +868,7 @@ v,·,i,l,:,τ,·,i,(ti),y
 SPACE
 α,i,m.,-,l,a,k,a,𝓂,d,.
 
-Amos 3:5 in vtrad vtbhs
+Amos 3:5 in vtrad vtsef
 h,:_,τ,i,f,·,o,<,l
 SPACE
 ц,i,f,·,w,o,r,(p)
@@ -885,7 +893,7 @@ l,o,(me),α
 SPACE
 y,i,l,:,k,·,𝓂,w,o,d,.
 
-Amos 3:6 in vtrad vtbhs
+Amos 3:6 in vtrad vtsef
 α,i,m.,-,y,i,τ,·,a,q,_,<,ʕ
 SPACE
 $,·sh,w,o,f,a,r,(p)
@@ -910,7 +918,7 @@ l,o,(me),α
 SPACE
 ʕ,a,$,·si,a,𝓂,h,.
 
-Amos 3:7 in vtrad vtbhs
+Amos 3:7 in vtrad vtsef
 k,·,i,⅃,y
 SPACE
 l,o,(da),α
@@ -933,7 +941,7 @@ SPACE
 SPACE
 h,_,n,·,:,v,i,y,α,i,𝓂,y,m.,.
 
-Amos 3:8 in vtrad vtbhs
+Amos 3:8 in vtrad vtsef
 α,_,r,:,y,‥,(me),h
 SPACE
 $,·sh,a,α,a,(ti),g
@@ -956,7 +964,7 @@ l,o,(me),α
 SPACE
 y,i,n,·,a,v,‥,𝓂,α,.
 
-Amos 3:9 in vtrad vtbhs
+Amos 3:9 in vtrad vtsef
 h,_,$,·sh,:,m,i,(p),y,ʕ,w,·,(p)
 SPACE
 ʕ,_,l,-,α,_,r,:,m,:,n,⅃,w,o,τ
@@ -989,7 +997,7 @@ w,_,ʕ,:_,$,·sh,w,·,q,i,(ti),y,m.
 SPACE
 v,·,:,q,i,r,:,v,·,a,𝓂,h,·,.
 
-Amos 3:10 in vtrad vtbhs
+Amos 3:10 in vtrad vtsef
 w,:,l,o,α,-,y,a,d,:,ʕ,(me),w,·
 SPACE
 ʕ,:_,$,·si,w,o,τ,-,n,:,k,o,x,a,(ti),h
@@ -1004,7 +1012,7 @@ w,a,$,·sh,o,(ti),d
 SPACE
 v,·,:,α,_,r,:,m,:,n,w,o,τ,‥,y,h,∵,𝓂,m.,.
 
-Amos 3:11 in vtrad vtbhs
+Amos 3:11 in vtrad vtsef
 l,a,k,‥,◆,n.
 SPACE
 k,·,o,<,h
@@ -1031,7 +1039,7 @@ w,:,n,a,v,o,(ti),z,·,w,·
 SPACE
 α,_,r,:,m,:,n,w,o,τ,a,𝓂,y,i,k.,:,.
 
-Amos 3:12 in vtrad vtbhs
+Amos 3:12 in vtrad vtsef
 k,·,o,h,~
 SPACE
 α,a,m,_,⅃,r
@@ -1076,7 +1084,7 @@ w,·,v,i,d,:,m,∵,(me),$,·sh,∵,q
 SPACE
 ʕ,a,𝓂,r,∵,$,·si,.
 
-Amos 3:13 in vtrad vtbhs
+Amos 3:13 in vtrad vtsef
 $,·sh,i,m,:,ʕ,(me),w,·
 SPACE
 w,:,h,a,ʕ,i,(ti),y,d,w,·
@@ -1093,7 +1101,7 @@ SPACE
 SPACE
 h,_,ц,·,:,v,a,α,𝓂,w,o,τ,.
 
-Amos 3:14 in vtrad vtbhs
+Amos 3:14 in vtrad vtsef
 k,·,i,◆,y
 SPACE
 v,·,:,y,⟓,w,o,m.
@@ -1120,7 +1128,7 @@ w,:,n,a,f,:,l,(ti),w,·
 SPACE
 l,a,α,a,𝓂,r,∵,ц.,.
 
-Amos 3:15 in vtrad vtbhs
+Amos 3:15 in vtrad vtsef
 w,:,h,i,k,·,‥,y,τ,i,(me),y
 SPACE
 v,‥,y,τ,-,h,_,x,o,(ti),r,∵,f.
@@ -1143,7 +1151,7 @@ r,_,v,·,i,(ti),y,m.
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
 
-Amos 4:1 in vtrad vtbhs
+Amos 4:1 in vtrad vtsef
 $,·sh,i,m,:,ʕ,(G),w,·
 SPACE
 h,_,d,·,a,v,a,⅃,r
@@ -1176,7 +1184,7 @@ h,a,v,i,(me),y,α,a,h
 SPACE
 w,:,n,i,$,·sh,:,τ,·,∵,𝓂,h,.
 
-Amos 4:2 in vtrad vtbhs
+Amos 4:2 in vtrad vtsef
 n,i,$,·sh,:,v,·,_,(qa),ʕ
 SPACE
 α,:_,d,o,n,a,<,y
@@ -1207,7 +1215,7 @@ v,·,:,σ,i,y,r,(me),w,o,τ
 SPACE
 d,·,w,·,g,a,𝓂,h,.
 
-Amos 4:3 in vtrad vtbhs
+Amos 4:3 in vtrad vtsef
 w,·,f,:,r,a,ц,i,(me),y,m.
 SPACE
 τ,·,‥,ц,∵,(ti),α,n,a,h
@@ -1222,7 +1230,7 @@ h,_,h,_,r,:,m,(ti),w,o,n,a,h
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
 
-Amos 4:4 in vtrad vtbhs
+Amos 4:4 in vtrad vtsef
 v,·,o,<,α,w,·
 SPACE
 v,‥,𝓂,y,τ,-,α,‥,l,(p)
@@ -1247,7 +1255,7 @@ y,a,m,i,(ti),y,m.
 SPACE
 m,_,ʕ,:,$,·si,:,r,o,τ,‥,y,k,∵,𝓂,m.,.
 
-Amos 4:5 in vtrad vtbhs
+Amos 4:5 in vtrad vtsef
 w,:,q,_,θ,·,‥,<,r
 SPACE
 m,‥,𝓂,x,a,m,‥,ц.,(p)
@@ -1276,7 +1284,7 @@ SPACE
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
 
-Amos 4:6 in vtrad vtbhs
+Amos 4:6 in vtrad vtsef
 w,:,g,_,m.,-,α,:_,n,i,y,(tq)
 SPACE
 n,a,τ,_,(qa),τ,·,i,y
@@ -1303,7 +1311,7 @@ SPACE
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
 
-Amos 4:7 in vtrad vtbhs
+Amos 4:7 in vtrad vtsef
 w,:,g,_,⅃,m.
 SPACE
 α,a,n,o,k,i,y,(tq)
@@ -1350,7 +1358,7 @@ SPACE
 SPACE
 τ,·,i,y,v,a,𝓂,$,·sh,.
 
-Amos 4:8 in vtrad vtbhs
+Amos 4:8 in vtrad vtsef
 w,:,n,a,ʕ,μ,w,·
 SPACE
 $,·sh,:,τ,·,_,(tq),y,i,m.,(tq)
@@ -1377,7 +1385,7 @@ SPACE
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
 
-Amos 4:9 in vtrad vtbhs
+Amos 4:9 in vtrad vtsef
 h,i,k,·,‥,⅃,y,τ,i,y
 SPACE
 α,∵,τ,:,k,∵,m.,~
@@ -1406,7 +1414,7 @@ SPACE
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
 
-Amos 4:10 in vtrad vtbhs
+Amos 4:10 in vtrad vtsef
 $,·sh,i,l,·,_,(qa),x,:,τ,·,i,y
 SPACE
 v,a,k,∵,(me),m.
@@ -1443,7 +1451,7 @@ SPACE
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
 
-Amos 4:11 in vtrad vtbhs
+Amos 4:11 in vtrad vtsef
 h,a,f,_,⅃,k,:,τ,·,i,y
 SPACE
 v,a,k,∵,◆,m.
@@ -1470,7 +1478,7 @@ SPACE
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
 
-Amos 4:12 in vtrad vtbhs
+Amos 4:12 in vtrad vtsef
 l,a,k,‥,Ƶ,n.
 SPACE
 k,·,o,(me),h
@@ -1491,7 +1499,7 @@ l,i,q,:,r,_,α,τ,-,α,:∵,l,o,h,∵,(ti),y,k.,a
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Amos 4:13 in vtrad vtbhs
+Amos 4:13 in vtrad vtsef
 k,·,i,μ,y
 SPACE
 h,i,n,·,‥,h,(tq)
@@ -1528,7 +1536,7 @@ SPACE
 SPACE
 $,·sh,:,m,𝓂,w,o,.
 
-Amos 5:1 in vtrad vtbhs
+Amos 5:1 in vtrad vtsef
 $,·sh,i,m,:,ʕ,(G),w,·
 SPACE
 α,∵,τ,-,h,_,d,·,a,v,a,⅃,r
@@ -1549,7 +1557,7 @@ v,·,‥,(me),y,τ
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Amos 5:2 in vtrad vtbhs
+Amos 5:2 in vtrad vtsef
 n,a,𝓂,f,:,l,a,h,(p)
 SPACE
 l,o,α,-,τ,w,o,σ,i,⅃,y,f.
@@ -1568,7 +1576,7 @@ SPACE
 SPACE
 m,:,q,i,y,m,a,𝓂,h,·,.
 
-Amos 5:3 in vtrad vtbhs
+Amos 5:3 in vtrad vtsef
 k,·,i,⅃,y
 SPACE
 k,o,<,h
@@ -1601,7 +1609,7 @@ l,:,v,‥,(me),y,τ
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Amos 5:4 in vtrad vtbhs
+Amos 5:4 in vtrad vtsef
 k,·,i,⅃,y
 SPACE
 k,o,(me),h
@@ -1618,7 +1626,7 @@ d,·,i,r,:,$,·sh,(ti),w,·,n,i,y
 SPACE
 w,i,𝓂,x,:,y,𝓂,w,·,.
 
-Amos 5:5 in vtrad vtbhs
+Amos 5:5 in vtrad vtsef
 w,:,α,_,𝓂,l,-,τ,·,i,d,:,r,:,$,·sh,w,·,(p)
 SPACE
 v,·,‥,𝓂,y,τ,-,α,‥,ƶ,l
@@ -1651,7 +1659,7 @@ y,i,h,:,y,∵,(me),h
 SPACE
 l,:,α,a,𝓂,w,∵,n.,.
 
-Amos 5:6 in vtrad vtbhs
+Amos 5:6 in vtrad vtsef
 d,·,i,r,:,$,·sh,(me),w,·
 SPACE
 α,∵,τ,-,y,:,h,o,w,a,(ti),h
@@ -1672,7 +1680,7 @@ w,:,α,‥,y,n.,-,m,:,k,_,v,·,∵,(ti),h
 SPACE
 l,:,v,‥,𝓂,y,τ,-,α,‥,𝓂,l,.
 
-Amos 5:7 in vtrad vtbhs
+Amos 5:7 in vtrad vtsef
 h,_,h,o,f,:,k,i,(me),y,m.
 SPACE
 l,:,l,_,ʕ,:_,n,a,(ti),h
@@ -1685,7 +1693,7 @@ l,a,α,a,(me),r,∵,ц.
 SPACE
 h,i,n,·,i,𝓂,y,x,w,·,.
 
-Amos 5:8 in vtrad vtbhs
+Amos 5:8 in vtrad vtsef
 ʕ,o,$,·si,‥,(qa),h
 SPACE
 k,i,y,m,a,(ge),h
@@ -1718,7 +1726,7 @@ y,:,h,o,w,a,(me),h
 SPACE
 $,·sh,:,m,𝓂,w,o,.
 
-Amos 5:9 in vtrad vtbhs
+Amos 5:9 in vtrad vtsef
 h,_,m,·,_,v,:,l,i,(me),y,g
 SPACE
 $,·sh,o,(ti),d
@@ -1731,7 +1739,7 @@ SPACE
 SPACE
 y,a,v,𝓂,w,o,α,.
 
-Amos 5:10 in vtrad vtbhs
+Amos 5:10 in vtrad vtsef
 $,·si,a,n,:,α,(me),w,·
 SPACE
 v,_,$,·sh,·,_,(ti),ʕ,_,r
@@ -1744,7 +1752,7 @@ SPACE
 SPACE
 y,:,τ,a,ʕ,‥,𝓂,v,w,·,.
 
-Amos 5:11 in vtrad vtbhs
+Amos 5:11 in vtrad vtsef
 l,a,⌕,k,‥,⌕,n.
 SPACE
 y,_,⅃,ʕ,_,n.
@@ -1779,7 +1787,7 @@ SPACE
 SPACE
 α,∵,τ,-,y,‥,y,n,a,𝓂,m.,.
 
-Amos 5:12 in vtrad vtbhs
+Amos 5:12 in vtrad vtsef
 k,·,i,<,y
 SPACE
 y,a,d,_,(p),ʕ,:,τ,·,i,y,(p)
@@ -1806,7 +1814,7 @@ v,·,_,$,·sh,·,_,(me),ʕ,_,r
 SPACE
 h,i,θ,·,𝓂,w,·,.
 
-Amos 5:13 in vtrad vtbhs
+Amos 5:13 in vtrad vtsef
 l,a,k,‥,◆,n.
 SPACE
 h,_,m,·,_,$,·si,:,k,·,i,⟓,y,l
@@ -1825,7 +1833,7 @@ r,a,ʕ,a,(ti),h
 SPACE
 h,i,𝓂,y,α,.
 
-Amos 5:14 in vtrad vtbhs
+Amos 5:14 in vtrad vtsef
 d,·,i,r,:,$,·sh,w,·,-,θ,(me),w,o,v
 SPACE
 w,:,α,_,l,-,r,a,(ti),ʕ
@@ -1846,7 +1854,7 @@ k,·,_,α,:_,$,·sh,∵,(me),r
 SPACE
 α,:_,m,_,r,:,τ,·,∵,𝓂,m.,.
 
-Amos 5:15 in vtrad vtbhs
+Amos 5:15 in vtrad vtsef
 $,·si,i,n,:,α,w,·,-,r,a,ʕ,(p)
 SPACE
 w,:,α,∵,⅃,h,:∵,v,w,·
@@ -1871,7 +1879,7 @@ $,·sh,:,α,‥,r,i,(me),y,τ
 SPACE
 y,w,o,σ,‥,𝓂,f.,.
 
-Amos 5:16 in vtrad vtbhs
+Amos 5:16 in vtrad vtsef
 l,a,⌕,k,‥,⌕,n.
 SPACE
 k,·,o,𝓂,h,-,α,a,m,_,(qa),r
@@ -1906,7 +1914,7 @@ SPACE
 SPACE
 n,∵,𝓂,h,i,y,.
 
-Amos 5:17 in vtrad vtbhs
+Amos 5:17 in vtrad vtsef
 w,·,v,:,k,oa,l,-,k,·,:,r,a,m,i,(ti),y,m.
 SPACE
 m,i,σ,:,f,·,‥,⅄,d
@@ -1919,7 +1927,7 @@ SPACE
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-Amos 5:18 in vtrad vtbhs
+Amos 5:18 in vtrad vtsef
 h,(me),w,o,y
 SPACE
 h,_,m,·,i,τ,:,α,_,w,·,i,(ti),y,m.
@@ -1940,7 +1948,7 @@ h,w,·,α,-,x,o,(me),$,·sh,∵,k.,:
 SPACE
 w,:,l,o,α,-,α,𝓂,w,o,r,.
 
-Amos 5:19 in vtrad vtbhs
+Amos 5:19 in vtrad vtsef
 k,·,_,α,:_,$,·sh,∵,(qa),r
 SPACE
 y,a,n,(me),w,·,σ
@@ -1969,7 +1977,7 @@ w,·,n,:,$,·sh,a,k,(ti),w,o
 SPACE
 h,_,n,·,a,x,a,𝓂,$,·sh,.
 
-Amos 5:20 in vtrad vtbhs
+Amos 5:20 in vtrad vtsef
 h,:_,l,o,α,-,x,o,⟓,$,·sh,∵,k.,:
 SPACE
 y,(me),w,o,m.
@@ -1984,7 +1992,7 @@ w,:,l,o,α,-,n,o,(me),g,_,𝓂,h,·
 SPACE
 l,𝓂,w,o,.
 
-Amos 5:21 in vtrad vtbhs
+Amos 5:21 in vtrad vtsef
 $,·si,a,n,‥,(me),α,τ,i,y
 SPACE
 m,a,α,_,(ti),σ,:,τ,·,i,y
@@ -1997,7 +2005,7 @@ SPACE
 SPACE
 v,·,:,ʕ,_,ц,·,:,r,o,τ,‥,y,k,∵,𝓂,m.,.
 
-Amos 5:22 in vtrad vtbhs
+Amos 5:22 in vtrad vtsef
 k,·,i,⅃,y
 SPACE
 α,i,m.,-,τ,·,_,ʕ,:_,l,w,·,-,l,i,(me),y
@@ -2018,7 +2026,7 @@ l,o,(me),α
 SPACE
 α,_,v,·,i,𝓂,y,θ,.
 
-Amos 5:23 in vtrad vtbhs
+Amos 5:23 in vtrad vtsef
 h,a,σ,‥,(me),r
 SPACE
 m,‥,ʕ,a,l,_,(ti),y
@@ -2035,7 +2043,7 @@ l,o,(me),α
 SPACE
 α,∵,$,·sh,:,m,a,𝓂,ʕ,.
 
-Amos 5:24 in vtrad vtbhs
+Amos 5:24 in vtrad vtsef
 w,:,y,i,g,·,_,(me),l
 SPACE
 k,·,_,m,·,_,(ti),y,i,m.
@@ -2048,7 +2056,7 @@ k,·,:,n,_,(me),x,_,l
 SPACE
 α,‥,y,τ,a,𝓂,n.,.
 
-Amos 5:25 in vtrad vtbhs
+Amos 5:25 in vtrad vtsef
 h,_,z,·,:,v,a,x,i,(qa),y,m.
 SPACE
 w,·,m,i,n,:,x,a,(ge),h
@@ -2065,7 +2073,7 @@ v,·,‥,(me),y,τ
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Amos 5:26 in vtrad vtbhs
+Amos 5:26 in vtrad vtsef
 w,·,n,:,$,·si,a,α,τ,∵,◆,m.
 SPACE
 α,‥,(ye),τ
@@ -2090,7 +2098,7 @@ SPACE
 SPACE
 l,a,k,∵,𝓂,m.,.
 
-Amos 5:27 in vtrad vtbhs
+Amos 5:27 in vtrad vtsef
 w,:,h,i,g,:,l,‥,y,τ,i,(me),y
 SPACE
 α,∵,τ,:,k,∵,(ti),m.
@@ -2107,7 +2115,7 @@ SPACE
 SPACE
 $,·sh,:,m,𝓂,w,o,.
 
-Amos 6:1 in vtrad vtbhs
+Amos 6:1 in vtrad vtsef
 h,(ye),w,o,y
 SPACE
 h,_,$,·sh,·,_,α,:_,n,_,n,·,i,⅃,y,m.
@@ -2134,7 +2142,7 @@ v,·,‥,(me),y,τ
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Amos 6:2 in vtrad vtbhs
+Amos 6:2 in vtrad vtsef
 ʕ,i,v,:,r,<,w,·
 SPACE
 k,_,𝓂,l,:,n,‥,h,(p)
@@ -2165,7 +2173,7 @@ g,·,:,v,w,·,l,a,(ti),m.
 SPACE
 m,i,g,·,:,v,u,l,:,k,∵,𝓂,m.,.
 
-Amos 6:3 in vtrad vtbhs
+Amos 6:3 in vtrad vtsef
 h,_,𝓂,m,:,n,_,d,·,i,(ti),y,m.
 SPACE
 l,:,y,⅃,w,o,m.
@@ -2178,7 +2186,7 @@ $,·sh,∵,(me),v,∵,τ
 SPACE
 x,a,m,a,𝓂,σ,.
 
-Amos 6:4 in vtrad vtbhs
+Amos 6:4 in vtrad vtsef
 h,_,$,·sh,·,o,𝓂,k,:,v,i,y,m.,(p)
 SPACE
 ʕ,_,l,-,m,i,θ,·,⅃,w,o,τ
@@ -2201,7 +2209,7 @@ m,i,τ,·,(me),w,o,k.,:
 SPACE
 m,_,r,:,v,·,‥,𝓂,q,.
 
-Amos 6:5 in vtrad vtbhs
+Amos 6:5 in vtrad vtsef
 h,_,f,·,o,r,:,θ,i,(ti),y,m.
 SPACE
 ʕ,_,l,-,f,·,i,⅃,y
@@ -2216,7 +2224,7 @@ l,a,h,∵,(ti),m.
 SPACE
 k,·,:,l,‥,y,-,$,·sh,i,𝓂,y,r,.
 
-Amos 6:6 in vtrad vtbhs
+Amos 6:6 in vtrad vtsef
 h,_,$,·sh,·,o,τ,i,<,y,m.
 SPACE
 v,·,:,m,i,z,:,r,:,q,‥,y,(p)
@@ -2237,7 +2245,7 @@ SPACE
 SPACE
 y,w,o,σ,‥,𝓂,f.,.
 
-Amos 6:7 in vtrad vtbhs
+Amos 6:7 in vtrad vtsef
 l,a,k,‥,⟓,n.
 SPACE
 ʕ,_,τ,·,a,(me),h
@@ -2254,7 +2262,7 @@ m,i,r,:,z,_,(me),x
 SPACE
 σ,:,r,w,·,x,i,𝓂,y,m.,.
 
-Amos 6:8 in vtrad vtbhs
+Amos 6:8 in vtrad vtsef
 n,i,$,·sh,:,v,·,_,ʕ,(tq)
 SPACE
 α,:_,d,o,n,a,(qa),y
@@ -2287,7 +2295,7 @@ SPACE
 SPACE
 w,·,m,:,l,o,α,a,𝓂,h,·,.
 
-Amos 6:9 in vtrad vtbhs
+Amos 6:9 in vtrad vtsef
 w,:,h,a,y,a,◆,h
 SPACE
 α,i,m.,-,y,i,w,·,a,(qa),τ,:,r,(ge),w,·
@@ -2302,7 +2310,7 @@ SPACE
 SPACE
 w,a,m,‥,𝓂,τ,w,·,.
 
-Amos 6:10 in vtrad vtbhs
+Amos 6:10 in vtrad vtsef
 w,·,n,:,$,·si,a,α,(G),w,o
 SPACE
 d,·,w,o,d,⅃,w,o
@@ -2345,7 +2353,7 @@ v,·,:,$,·sh,‥,(me),m.
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-Amos 6:11 in vtrad vtbhs
+Amos 6:11 in vtrad vtsef
 k,·,i,𝓂,y,-,h,i,n,·,‥,<,h
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -2366,7 +2374,7 @@ h,_,q,·,a,θ,o,(ti),n.
 SPACE
 v,·,:,q,i,ʕ,i,𝓂,y,m.,.
 
-Amos 6:12 in vtrad vtbhs
+Amos 6:12 in vtrad vtsef
 h,_,y,:,r,u,ц,<,w,·,n.
 SPACE
 v,·,_,σ,·,∵,(p),l,_,ʕ,(p)
@@ -2389,7 +2397,7 @@ SPACE
 SPACE
 l,:,l,_,ʕ,:_,n,a,𝓂,h,.
 
-Amos 6:13 in vtrad vtbhs
+Amos 6:13 in vtrad vtsef
 h,_,$,·si,·,:,m,‥,x,i,(ti),y,m.
 SPACE
 l,:,l,o,⅃,α
@@ -2408,7 +2416,7 @@ l,a,(ti),n,w,·
 SPACE
 q,_,r,:,n,a,𝓂,y,i,m.,.
 
-Amos 6:14 in vtrad vtbhs
+Amos 6:14 in vtrad vtsef
 k,·,i,μ,y
 SPACE
 h,i,n,:,n,i,y,(tq)
@@ -2441,7 +2449,7 @@ SPACE
 SPACE
 h,a,ʕ,:_,r,a,v,a,𝓂,h,.
 
-Amos 7:1 in vtrad vtbhs
+Amos 7:1 in vtrad vtsef
 k,·,o,<,h
 SPACE
 h,i,r,:,α,_,(p),n,i,y,(p)
@@ -2470,7 +2478,7 @@ g,·,i,z,·,‥,(me),y
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-Amos 7:2 in vtrad vtbhs
+Amos 7:2 in vtrad vtsef
 w,:,h,a,y,a,◆,h
 SPACE
 α,i,m.,-,k,·,i,l,·,a,h,(p)
@@ -2501,7 +2509,7 @@ q,a,θ,o,(ti),n.
 SPACE
 h,𝓂,w,·,α,.
 
-Amos 7:3 in vtrad vtbhs
+Amos 7:3 in vtrad vtsef
 n,i,x,_,(me),m.
 SPACE
 y,:,h,o,w,a,(ti),h
@@ -2516,7 +2524,7 @@ SPACE
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-Amos 7:4 in vtrad vtbhs
+Amos 7:4 in vtrad vtsef
 k,·,o,<,h
 SPACE
 h,i,r,:,α,_,(p),n,i,y,(p)
@@ -2547,7 +2555,7 @@ w,:,α,a,k,:,l,a,(ti),h
 SPACE
 α,∵,τ,-,h,_,x,‥,𝓂,l,∵,q,.
 
-Amos 7:5 in vtrad vtbhs
+Amos 7:5 in vtrad vtsef
 w,a,α,o,m,_,◆,r
 SPACE
 α,:_,d,o,n,a,<,y
@@ -2568,7 +2576,7 @@ q,a,θ,o,(ti),n.
 SPACE
 h,𝓂,w,·,α,.
 
-Amos 7:6 in vtrad vtbhs
+Amos 7:6 in vtrad vtsef
 n,i,x,_,(me),m.
 SPACE
 y,:,h,o,w,a,(ti),h
@@ -2587,7 +2595,7 @@ SPACE
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
 
-Amos 7:7 in vtrad vtbhs
+Amos 7:7 in vtrad vtsef
 k,·,o,⅃,h
 SPACE
 h,i,r,:,α,_,ƶ,n,i,y
@@ -2606,7 +2614,7 @@ w,·,v,:,y,a,d,(ti),w,o
 SPACE
 α,:_,n,a,𝓂,k.,:,.
 
-Amos 7:8 in vtrad vtbhs
+Amos 7:8 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 y,:,h,o,w,a,(ge),h
@@ -2647,7 +2655,7 @@ SPACE
 SPACE
 l,𝓂,w,o,.
 
-Amos 7:9 in vtrad vtbhs
+Amos 7:9 in vtrad vtsef
 w,:,n,a,$,·sh,_,(p),m,·,w,·,(p)
 SPACE
 v,·,a,m,⅃,w,o,τ
@@ -2668,7 +2676,7 @@ y,a,r,oa,v,:,ʕ,a,(ti),m.
 SPACE
 v,·,∵,x,a,𝓂,r,∵,v,.
 
-Amos 7:10 in vtrad vtbhs
+Amos 7:10 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,◆,x
 SPACE
 α,:_,m,_,ц,:,y,a,h,(p)
@@ -2703,7 +2711,7 @@ l,:,h,a,k,i,(ti),y,l
 SPACE
 α,∵,τ,-,k,·,oa,l,-,d,·,:,v,a,r,a,𝓂,y,w,.
 
-Amos 7:11 in vtrad vtbhs
+Amos 7:11 in vtrad vtsef
 k,·,i,y,-,k,o,h,(p)
 SPACE
 α,a,m,_,⅃,r
@@ -2726,7 +2734,7 @@ m,‥,ʕ,_,(me),l
 SPACE
 α,_,d,:,m,a,τ,𝓂,w,o,.
 
-Amos 7:12 in vtrad vtbhs
+Amos 7:12 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 α,:_,m,_,ц,:,y,a,h,(p)
@@ -2751,7 +2759,7 @@ w,:,$,·sh,a,(ti),m.
 SPACE
 τ,·,i,n,·,a,v,‥,𝓂,α,.
 
-Amos 7:13 in vtrad vtbhs
+Amos 7:13 in vtrad vtsef
 w,·,v,‥,𝓂,y,τ,-,α,‥,ƶ,l
 SPACE
 l,o,α,-,τ,w,o,σ,i,(me),y,f.
@@ -2772,7 +2780,7 @@ m,_,m,:,l,a,k,a,(ti),h
 SPACE
 h,𝓂,w,·,α,.
 
-Amos 7:14 in vtrad vtbhs
+Amos 7:14 in vtrad vtsef
 w,_,y,·,_,<,ʕ,_,n.
 SPACE
 ʕ,a,m,w,o,σ,(p)
@@ -2799,7 +2807,7 @@ w,·,v,w,o,l,‥,(me),σ
 SPACE
 $,·sh,i,q,:,m,i,𝓂,y,m.,.
 
-Amos 7:15 in vtrad vtbhs
+Amos 7:15 in vtrad vtsef
 w,_,y,·,i,q,·,a,x,‥,⅃,n,i,y
 SPACE
 y,:,h,o,w,a,ƶ,h
@@ -2822,7 +2830,7 @@ SPACE
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Amos 7:16 in vtrad vtbhs
+Amos 7:16 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,(ti),h
 SPACE
 $,·sh,:,m,_,⅃,ʕ
@@ -2847,7 +2855,7 @@ SPACE
 SPACE
 y,i,$,·si,:,x,a,𝓂,q,.
 
-Amos 7:17 in vtrad vtbhs
+Amos 7:17 in vtrad vtsef
 l,a,k,‥,(G),n.
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r
@@ -2892,7 +2900,7 @@ m,‥,ʕ,_,(me),l
 SPACE
 α,_,d,:,m,a,τ,𝓂,w,o,.
 
-Amos 8:1 in vtrad vtbhs
+Amos 8:1 in vtrad vtsef
 k,·,o,(me),h
 SPACE
 h,i,r,:,α,_,(ti),n,i,y
@@ -2907,7 +2915,7 @@ k,·,:,l,(me),w,·,v
 SPACE
 q,a,𝓂,y,i,ц.,.
 
-Amos 8:2 in vtrad vtbhs
+Amos 8:2 in vtrad vtsef
 w,_,y,·,o,◆,α,m,∵,r
 SPACE
 m,a,𝓂,h,-,α,_,τ,·,a,<,h
@@ -2944,7 +2952,7 @@ SPACE
 SPACE
 l,𝓂,w,o,.
 
-Amos 8:3 in vtrad vtbhs
+Amos 8:3 in vtrad vtsef
 w,:,h,‥,y,l,i,(ge),y,l,w,·
 SPACE
 $,·sh,i,y,r,<,w,o,τ
@@ -2971,7 +2979,7 @@ h,i,$,·sh,:,l,i,(me),y,k.,:
 SPACE
 h,a,𝓂,σ,.
 
-Amos 8:4 in vtrad vtbhs
+Amos 8:4 in vtrad vtsef
 $,·sh,i,m,:,ʕ,w,·,-,z,o,Ƶ,α,τ
 SPACE
 h,_,$,·sh,·,o,α,:_,f,i,(ti),y,m.
@@ -2982,7 +2990,7 @@ w,:,l,_,$,·sh,:,v,·,i,(ti),y,τ
 SPACE
 α,a,𝓂,r,∵,ц.,.
 
-Amos 8:5 in vtrad vtbhs
+Amos 8:5 in vtrad vtsef
 l,‥,α,m,o,◆,r
 SPACE
 m,a,τ,_,(G),y
@@ -3013,7 +3021,7 @@ m,o,α,z,:,n,‥,(me),y
 SPACE
 m,i,r,:,m,a,𝓂,h,.
 
-Amos 8:6 in vtrad vtbhs
+Amos 8:6 in vtrad vtsef
 l,i,q,:,n,<,w,o,τ
 SPACE
 v,·,_,k,·,∵,(p),σ,∵,f.,(p)
@@ -3032,7 +3040,7 @@ v,·,_,(ti),r
 SPACE
 n,_,$,·sh,:,v,·,i,𝓂,y,r,.
 
-Amos 8:7 in vtrad vtbhs
+Amos 8:7 in vtrad vtsef
 n,i,$,·sh,:,v,·,_,(me),ʕ
 SPACE
 y,:,h,o,w,a,(ti),h
@@ -3047,7 +3055,7 @@ l,a,n,∵,(ti),ц,_,x
 SPACE
 k,·,oa,l,-,m,_,ʕ,:_,$,·si,‥,y,h,∵,𝓂,m.,.
 
-Amos 8:8 in vtrad vtbhs
+Amos 8:8 in vtrad vtsef
 h,_,<,ʕ,_,l
 SPACE
 z,o,α,τ,(p)
@@ -3075,8 +3083,12 @@ k,·,i,y,α,(me),w,o,r
 SPACE
 m,i,ц,:,r,a,𝓂,y,i,m.,.
 
-Amos 8:9 in vtrad vtbhs
+Amos 8:9 in vtrad vtsef
 w,:,h,a,y,a,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -3102,7 +3114,7 @@ v,·,:,y,(me),w,o,m.
 SPACE
 α,𝓂,w,o,r,.
 
-Amos 8:10 in vtrad vtbhs
+Amos 8:10 in vtrad vtsef
 w,:,h,a,f,_,k,:,τ,·,i,(qa),y
 SPACE
 x,_,g,·,‥,y,k,∵,(ge),m.
@@ -3135,8 +3147,12 @@ k,·,:,y,(me),w,o,m.
 SPACE
 m,a,𝓂,r,.
 
-Amos 8:11 in vtrad vtbhs
+Amos 8:11 in vtrad vtsef
 h,i,n,·,‥,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 y,a,m,i,⅃,y,m.
 SPACE
@@ -3172,7 +3188,7 @@ d,·,i,v,:,r,‥,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-Amos 8:12 in vtrad vtbhs
+Amos 8:12 in vtrad vtsef
 w,:,n,a,ʕ,w,·,(p)
 SPACE
 m,i,y,·,a,⅃,m.
@@ -3193,7 +3209,7 @@ w,:,l,o,(me),α
 SPACE
 y,i,m,:,ц,a,𝓂,α,w,·,.
 
-Amos 8:13 in vtrad vtbhs
+Amos 8:13 in vtrad vtsef
 v,·,_,y,·,(qa),w,o,m.
 SPACE
 h,_,h,(ge),w,·,α
@@ -3208,7 +3224,7 @@ w,:,h,_,v,·,_,x,w,·,r,i,(ti),y,m.
 SPACE
 v,·,_,ц,·,a,m,a,𝓂,α,.
 
-Amos 8:14 in vtrad vtbhs
+Amos 8:14 in vtrad vtsef
 h,_,n,·,i,$,·sh,:,v,·,a,ʕ,i,y,m.,(p)
 SPACE
 v,·,:,α,_,$,·sh,:,m,_,⅃,τ
@@ -3235,7 +3251,7 @@ w,:,l,o,α,-,y,a,q,(me),w,·,m,w,·
 SPACE
 ʕ,𝓂,w,o,d,.
 
-Amos 9:1 in vtrad vtbhs
+Amos 9:1 in vtrad vtsef
 r,a,α,i,(qa),y,τ,i,y
 SPACE
 α,∵,τ,-,α,:_,d,o,n,a,(ge),y
@@ -3278,7 +3294,7 @@ l,a,h,∵,(ti),m.
 SPACE
 f,·,a,l,i,𝓂,y,θ,.
 
-Amos 9:2 in vtrad vtbhs
+Amos 9:2 in vtrad vtsef
 α,i,m.,-,y,_,x,:,τ,·,:,r,⅃,w,·
 SPACE
 v,i,$,·sh,:,α,ƶ,w,o,l
@@ -3297,7 +3313,7 @@ m,i,$,·sh,·,a,(ti),m.
 SPACE
 α,w,o,r,i,y,d,‥,𝓂,m.,.
 
-Amos 9:3 in vtrad vtbhs
+Amos 9:3 in vtrad vtsef
 w,:,α,i,m.,-,y,‥,x,a,𝓂,v,:,α,w,·,(p)
 SPACE
 v,·,:,r,o,⅃,α,$,·sh
@@ -3328,7 +3344,7 @@ SPACE
 SPACE
 w,·,n,:,$,·sh,a,k,a,𝓂,m.,.
 
-Amos 9:4 in vtrad vtbhs
+Amos 9:4 in vtrad vtsef
 w,:,α,i,m.,-,y,‥,l,:,k,<,w,·
 SPACE
 v,_,$,·sh,·,:,v,i,y,(p)
@@ -3357,7 +3373,7 @@ w,:,l,o,(me),α
 SPACE
 l,:,θ,w,o,v,a,𝓂,h,.
 
-Amos 9:5 in vtrad vtbhs
+Amos 9:5 in vtrad vtsef
 w,_,α,d,o,n,a,(qa),y
 SPACE
 y,:∵,h,o,w,i,(ge),h
@@ -3388,7 +3404,7 @@ k,·,i,y,α,o,(me),r
 SPACE
 m,i,ц,:,r,a,𝓂,y,i,m.,.
 
-Amos 9:6 in vtrad vtbhs
+Amos 9:6 in vtrad vtsef
 h,_,v,·,w,o,n,∵,<,h
 SPACE
 v,_,$,·sh,·,a,m,_,(p),y,i,m.,(p)
@@ -3414,7 +3430,7 @@ y,:,h,o,w,a,(me),h
 SPACE
 $,·sh,:,m,𝓂,w,o,.
 
-Amos 9:7 in vtrad vtbhs
+Amos 9:7 in vtrad vtsef
 h,:_,l,⅃,w,o,α
 SPACE
 k,i,v,:,n,‥,y,(tq)
@@ -3449,10 +3465,14 @@ w,_,α,:_,r,a,(me),m.
 SPACE
 m,i,q,·,i,𝓂,y,r,.
 
-Amos 9:8 in vtrad vtbhs
+Amos 9:8 in vtrad vtsef
 h,i,n,·,‥,(G),h
 SPACE
 ʕ,‥,y,n,‥,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -3488,7 +3508,7 @@ y,_,ʕ,:_,q,o,(ti),v
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
 
-Amos 9:9 in vtrad vtbhs
+Amos 9:9 in vtrad vtsef
 k,·,i,𝓂,y,-,h,i,n,·,‥,<,h
 SPACE
 α,a,𝓂,n,o,k,i,y,(p)
@@ -3515,7 +3535,7 @@ SPACE
 SPACE
 α,a,𝓂,r,∵,ц.,.
 
-Amos 9:10 in vtrad vtbhs
+Amos 9:10 in vtrad vtsef
 v,·,_,x,∵,⅃,r,∵,v
 SPACE
 y,a,m,ƶ,w,·,τ,w,·
@@ -3536,7 +3556,7 @@ v,·,_,ʕ,:_,d,‥,(ti),y,n,w,·
 SPACE
 h,a,r,a,ʕ,a,𝓂,h,.
 
-Amos 9:11 in vtrad vtbhs
+Amos 9:11 in vtrad vtsef
 v,·,_,y,·,⅃,w,o,m.
 SPACE
 h,_,h,ƶ,w,·,α
@@ -3563,7 +3583,7 @@ k,·,i,y,m,‥,(me),y
 SPACE
 ʕ,w,o,l,a,𝓂,m.,.
 
-Amos 9:12 in vtrad vtbhs
+Amos 9:12 in vtrad vtsef
 l,:,m,_,(qa),ʕ,_,n.
 SPACE
 y,i,𝓂,y,r,:,$,·sh,(ge),w,·
@@ -3586,7 +3606,7 @@ SPACE
 SPACE
 z,·,o,𝓂,α,τ,.
 
-Amos 9:13 in vtrad vtbhs
+Amos 9:13 in vtrad vtsef
 h,i,n,·,‥,(qa),h
 SPACE
 y,a,m,i,<,y,m.
@@ -3619,7 +3639,7 @@ w,:,k,oa,l,-,h,_,g,·,:,v,a,ʕ,(ti),w,o,τ
 SPACE
 τ,·,i,τ,:,m,w,o,g,_,𝓂,g,:,n,a,h,.
 
-Amos 9:14 in vtrad vtbhs
+Amos 9:14 in vtrad vtsef
 w,:,$,·sh,_,v,:,τ,·,i,y,~
 SPACE
 α,∵,τ,-,$,·sh,:,v,⅃,w,·,τ
@@ -3652,7 +3672,7 @@ w,:,α,a,k,:,l,(ti),w,·
 SPACE
 α,∵,τ,-,f,·,:,r,i,y,h,∵,𝓂,m.,.
 
-Amos 9:15 in vtrad vtbhs
+Amos 9:15 in vtrad vtsef
 w,·,n,:,θ,_,ʕ,:,τ,·,i,(ti),y,m.
 SPACE
 ʕ,_,l,-,α,_,d,:,m,a,τ,a,⅄,m.

@@ -1,5 +1,5 @@
 unicode_names Ruth
-Ruth 1:1 in vtrad vtbhs
+Ruth 1:1 in vtrad vtsef
 w,_,y,:,h,i,◆,y
 SPACE
 v,·,i,y,m,‥,y,(p)
@@ -38,7 +38,7 @@ w,·,$,·sh,:,n,‥,(me),y
 SPACE
 v,a,n,a,𝓂,y,w,.
 
-Ruth 1:2 in vtrad vtbhs
+Ruth 1:2 in vtrad vtsef
 w,:,$,·sh,‥,⅃,m.
 SPACE
 h,a,α,i,⅃,y,$,·sh
@@ -54,6 +54,10 @@ SPACE
 w,:,$,·sh,‥,(me),m.
 SPACE
 $,·sh,:,n,‥,𝓂,y,-,v,a,n,a,⅃,y,w
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 m,_,x,:,l,<,w,o,n.
 SPACE
@@ -73,7 +77,7 @@ $,·si,:,d,‥,𝓂,y,-,m,w,o,α,a,(ti),v
 SPACE
 w,_,y,·,i,𝓂,h,:,y,w,·,-,$,·sh,a,𝓂,m.,.
 
-Ruth 1:3 in vtrad vtbhs
+Ruth 1:3 in vtrad vtsef
 w,_,y,·,a,(me),m,oa,τ
 SPACE
 α,:∵,l,i,y,m,∵,(ti),l,∵,k.,:
@@ -90,7 +94,7 @@ w,·,$,·sh,:,n,‥,(me),y
 SPACE
 v,a,n,∵,𝓂,y,h,a,.
 
-Ruth 1:4 in vtrad vtbhs
+Ruth 1:4 in vtrad vtsef
 w,_,y,·,i,$,·si,:,α,⅃,w,·
 SPACE
 l,a,h,∵,◆,m.
@@ -119,7 +123,7 @@ k,·,:,ʕ,∵,(me),$,·si,∵,r
 SPACE
 $,·sh,a,n,i,𝓂,y,m.,.
 
-Ruth 1:5 in vtrad vtbhs
+Ruth 1:5 in vtrad vtsef
 w,_,y,·,a,m,u,(me),τ,w,·
 SPACE
 g,_,m.,-,$,·sh,:,n,‥,y,h,∵,(ti),m.
@@ -138,7 +142,7 @@ y,:,l,a,d,∵,(ti),y,h,a
 SPACE
 w,·,m,‥,α,i,y,$,·sh,a,𝓂,h,·,.
 
-Ruth 1:6 in vtrad vtbhs
+Ruth 1:6 in vtrad vtsef
 w,_,τ,·,a,<,q,oa,m.
 SPACE
 h,i,y,α,(p)
@@ -171,7 +175,7 @@ l,a,h,∵,(ti),m.
 SPACE
 l,a,𝓂,x,∵,m.,.
 
-Ruth 1:7 in vtrad vtbhs
+Ruth 1:7 in vtrad vtsef
 w,_,τ,·,‥,ц,‥,◆,α
 SPACE
 m,i,n.,-,h,_,m,·,a,q,w,o,m.,(p)
@@ -196,7 +200,7 @@ SPACE
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-Ruth 1:8 in vtrad vtbhs
+Ruth 1:8 in vtrad vtsef
 w,_,τ,·,o,<,α,m,∵,r
 SPACE
 n,oa,ʕ,:a,m,i,y,(p)
@@ -230,7 +234,7 @@ SPACE
 SPACE
 w,:,ʕ,i,m,·,a,d,i,𝓂,y,.
 
-Ruth 1:9 in vtrad vtbhs
+Ruth 1:9 in vtrad vtsef
 y,i,τ,·,‥,<,n.
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -257,7 +261,7 @@ q,w,o,l,a,(ti),n.
 SPACE
 w,_,τ,·,i,v,:,k,·,∵,𝓂,y,n,a,h,.
 
-Ruth 1:10 in vtrad vtbhs
+Ruth 1:10 in vtrad vtsef
 w,_,τ,·,o,α,m,_,(ti),r,:,n,a,h,-,l,·,a,⅄,h,·
 SPACE
 k,·,i,𝓂,y,-,α,i,τ,·,a,(me),k.,:
@@ -266,7 +270,7 @@ n,a,$,·sh,(ti),w,·,v
 SPACE
 l,:,ʕ,_,m,·,‥,𝓂,k.,:,.
 
-Ruth 1:11 in vtrad vtbhs
+Ruth 1:11 in vtrad vtsef
 w,_,τ,·,o,<,α,m,∵,r
 SPACE
 n,oa,ʕ,:a,m,i,y,(p)
@@ -293,7 +297,7 @@ l,a,k,∵,(ti),m.
 SPACE
 l,_,α,:_,n,a,$,·sh,i,𝓂,y,m.,.
 
-Ruth 1:12 in vtrad vtbhs
+Ruth 1:12 in vtrad vtsef
 $,·sh,o,<,v,:,n,a,h
 SPACE
 v,:,n,o,τ,_,y,(p)
@@ -330,8 +334,12 @@ y,a,l,_,(me),d,:,τ,·,i,y
 SPACE
 v,a,n,i,𝓂,y,m.,.
 
-Ruth 1:13 in vtrad vtbhs
+Ruth 1:13 in vtrad vtsef
 h,:_,l,a,h,‥,⅃,n.
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 τ,·,:,$,·si,_,v,·,‥,◆,r,:,n,a,h
 SPACE
@@ -367,7 +375,7 @@ v,i,(ti),y
 SPACE
 y,_,d,-,y,:,h,o,w,a,𝓂,h,.
 
-Ruth 1:14 in vtrad vtbhs
+Ruth 1:14 in vtrad vtsef
 w,_,τ,·,i,$,·si,·,∵,⅃,n,a,h
 SPACE
 q,w,o,l,a,ƶ,n.
@@ -388,7 +396,7 @@ d,·,a,(me),v,:,q,a,h
 SPACE
 v,·,a,𝓂,h,·,.
 
-Ruth 1:15 in vtrad vtbhs
+Ruth 1:15 in vtrad vtsef
 w,_,τ,·,o,◆,α,m,∵,r
 SPACE
 h,i,n,·,‥,h,(p)
@@ -407,7 +415,7 @@ SPACE
 SPACE
 y,:,v,i,m,:,τ,·,‥,𝓂,k.,:,.
 
-Ruth 1:16 in vtrad vtbhs
+Ruth 1:16 in vtrad vtsef
 w,_,τ,·,o,<,α,m,∵,r
 SPACE
 r,w,·,τ,(p)
@@ -442,7 +450,7 @@ w,‥,α,l,o,h,_,(ti),y,i,k.,:
 SPACE
 α,:∵,l,o,h,a,𝓂,y,.
 
-Ruth 1:17 in vtrad vtbhs
+Ruth 1:17 in vtrad vtsef
 v,·,_,α,:_,$,·sh,∵,<,r
 SPACE
 τ,·,a,m,(p),w,·,τ,i,y,(p)
@@ -475,7 +483,7 @@ v,·,‥,y,n,i,(me),y
 SPACE
 w,·,v,‥,y,n,‥,𝓂,k.,:,.
 
-Ruth 1:18 in vtrad vtbhs
+Ruth 1:18 in vtrad vtsef
 w,_,τ,·,‥,Ƶ,r,∵,α
 SPACE
 k,·,i,𝓂,y,-,m,i,τ,:,α,_,m,·,∵,(me),ц,∵,τ
@@ -492,7 +500,7 @@ l,:,d,_,v,·,‥,(me),r
 SPACE
 α,‥,l,∵,𝓂,y,h,a,.
 
-Ruth 1:19 in vtrad vtbhs
+Ruth 1:19 in vtrad vtsef
 w,_,τ,·,‥,l,_,⅃,k,:,n,a,h
 SPACE
 $,·sh,:,τ,·,‥,y,h,∵,ƶ,m.
@@ -523,7 +531,7 @@ h,:_,z,o,(me),α,τ
 SPACE
 n,oa,ʕ,:a,m,i,𝓂,y,.
 
-Ruth 1:20 in vtrad vtbhs
+Ruth 1:20 in vtrad vtsef
 w,_,τ,·,o,⅃,α,m,∵,r
 SPACE
 α,:_,l,‥,y,h,∵,ƶ,n.
@@ -548,7 +556,7 @@ l,i,(ti),y
 SPACE
 m,:,α,o,𝓂,d,.
 
-Ruth 1:21 in vtrad vtbhs
+Ruth 1:21 in vtrad vtsef
 α,:_,n,i,y,(p)
 SPACE
 m,:,l,‥,α,a,⅃,h
@@ -581,7 +589,7 @@ h,‥,(me),r,_,𝓂,ʕ
 SPACE
 l,i,𝓂,y,.
 
-Ruth 1:22 in vtrad vtbhs
+Ruth 1:22 in vtrad vtsef
 w,_,τ,·,a,⅃,$,·sh,oa,v
 SPACE
 n,oa,ʕ,:a,m,i,◆,y
@@ -614,7 +622,7 @@ q,:,ц,i,(me),y,r
 SPACE
 $,·si,:,ʕ,o,r,i,𝓂,y,m.,.
 
-Ruth 2:1 in vtrad vtbhs
+Ruth 2:1 in vtrad vtsef
 w,·,𝓂,l,:,n,oa,ʕ,:a,m,i,(G),y
 SPACE
 SPACE
@@ -634,7 +642,7 @@ w,·,$,·sh,:,m,(ti),w,o
 SPACE
 v,·,o,𝓂,ʕ,_,z,.
 
-Ruth 2:2 in vtrad vtbhs
+Ruth 2:2 in vtrad vtsef
 w,_,τ,·,o,(tq),α,m,∵,r,(tq)
 SPACE
 r,(qa),w,·,τ
@@ -667,7 +675,7 @@ l,:,k,i,(me),y
 SPACE
 v,i,τ,·,i,𝓂,y,.
 
-Ruth 2:3 in vtrad vtbhs
+Ruth 2:3 in vtrad vtsef
 w,_,τ,·,‥,<,l,∵,k.,:
 SPACE
 w,_,τ,·,a,v,w,o,α,(p)
@@ -696,7 +704,7 @@ m,i,m,·,i,$,·sh,:,f,·,_,(me),x,_,τ
 SPACE
 α,:∵,l,i,y,m,∵,𝓂,l,∵,k.,:,.
 
-Ruth 2:4 in vtrad vtbhs
+Ruth 2:4 in vtrad vtsef
 w,:,h,i,n,·,‥,h,-,v,o,◆,ʕ,_,z
 SPACE
 v,·,a,(ye),α
@@ -721,7 +729,7 @@ y,:,v,a,r,∵,k,:,k.,a,(me)
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-Ruth 2:5 in vtrad vtbhs
+Ruth 2:5 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 v,·,o,(p),ʕ,_,z,(p)
@@ -738,7 +746,7 @@ h,_,n,·,_,ʕ,:_,r,a,(me),h
 SPACE
 h,_,z,·,o,𝓂,α,τ,.
 
-Ruth 2:6 in vtrad vtbhs
+Ruth 2:6 in vtrad vtsef
 w,_,y,·,_,◆,ʕ,_,n.
 SPACE
 h,_,n,·,_,⟓,ʕ,_,r
@@ -763,7 +771,7 @@ m,i,$,·si,·,:,d,‥,(me),y
 SPACE
 m,w,o,α,a,𝓂,v,.
 
-Ruth 2:7 in vtrad vtbhs
+Ruth 2:7 in vtrad vtsef
 w,_,τ,·,o,◆,α,m,∵,r
 SPACE
 α,:_,l,_,q,·,:a,θ,a,h,-,n,·,a,α,(p)
@@ -794,7 +802,7 @@ h,_,v,·,_,(ti),y,i,τ
 SPACE
 m,:,ʕ,a,𝓂,θ,.
 
-Ruth 2:8 in vtrad vtbhs
+Ruth 2:8 in vtrad vtsef
 w,_,y,·,o,(tq),α,m,∵,r,(tq)
 SPACE
 v,·,o,(qa),ʕ,_,z
@@ -829,7 +837,7 @@ SPACE
 SPACE
 ʕ,i,m.,-,n,_,ʕ,:_,r,o,τ,a,𝓂,y,.
 
-Ruth 2:9 in vtrad vtbhs
+Ruth 2:9 in vtrad vtsef
 ʕ,‥,y,n,_,(ge),y,i,k.,:
 SPACE
 v,·,_,$,·si,·,a,d,∵,<,h
@@ -864,7 +872,7 @@ y,i,$,·sh,:,α,:_,v,(ti),w,·,n.
 SPACE
 h,_,n,·,:,ʕ,a,r,i,𝓂,y,m.,.
 
-Ruth 2:10 in vtrad vtbhs
+Ruth 2:10 in vtrad vtsef
 w,_,τ,·,i,f,·,o,l,(p)
 SPACE
 ʕ,_,l,-,f,·,a,n,∵,ƶ,y,h,a
@@ -891,7 +899,7 @@ w,:,α,a,n,o,k,i,(ti),y
 SPACE
 n,oa,k,:,r,i,y,·,a,𝓂,h,.
 
-Ruth 2:11 in vtrad vtbhs
+Ruth 2:11 in vtrad vtsef
 w,_,y,·,_,<,ʕ,_,n.
 SPACE
 v,·,o,(p),ʕ,_,z,(p)
@@ -940,7 +948,7 @@ SPACE
 SPACE
 $,·sh,i,l,:,$,·sh,𝓂,w,o,m.,.
 
-Ruth 2:12 in vtrad vtbhs
+Ruth 2:12 in vtrad vtsef
 y,:,$,·sh,_,l,·,‥,(me),m.
 SPACE
 y,:,h,o,w,a,(ti),h
@@ -967,7 +975,7 @@ l,_,x,:_,σ,(me),w,o,τ
 SPACE
 τ,·,_,𝓂,x,_,τ,-,k,·,:,n,a,f,a,𝓂,y,w,.
 
-Ruth 2:13 in vtrad vtbhs
+Ruth 2:13 in vtrad vtsef
 w,_,⌕,τ,·,o,⌕,α,m,∵,r
 SPACE
 α,∵,m,:,ц,a,α,-,x,‥,(qa),n.
@@ -998,7 +1006,7 @@ k,·,:,α,_,x,_,(ti),τ
 SPACE
 $,·sh,i,f,:,x,o,τ,∵,𝓂,y,k.,a,.
 
-Ruth 2:14 in vtrad vtbhs
+Ruth 2:14 in vtrad vtsef
 w,_,y,·,o,(tq),α,m,∵,r,(tq)
 SPACE
 l,a,(qa),h,‾
@@ -1039,7 +1047,7 @@ w,_,τ,·,i,$,·si,:,v,·,_,(ti),ʕ
 SPACE
 w,_,τ,·,o,τ,_,𝓂,r,.
 
-Ruth 2:15 in vtrad vtbhs
+Ruth 2:15 in vtrad vtsef
 w,_,τ,·,a,(ti),q,oa,m.
 SPACE
 l,:,l,_,q,·,‥,⅄,θ
@@ -1064,7 +1072,7 @@ w,:,l,o,(me),α
 SPACE
 τ,_,k,:,l,i,y,m,𝓂,w,·,h,a,.
 
-Ruth 2:16 in vtrad vtbhs
+Ruth 2:16 in vtrad vtsef
 w,:,g,_,⟓,m.
 SPACE
 $,·sh,o,l,-,τ,·,a,$,·sh,o,(me),l,·,w,·
@@ -1081,7 +1089,7 @@ w,:,l,o,(me),α
 SPACE
 τ,i,g,:,ʕ,:_,r,w,·,-,v,a,𝓂,h,·,.
 
-Ruth 2:17 in vtrad vtbhs
+Ruth 2:17 in vtrad vtsef
 w,_,τ,·,:,l,_,q,·,‥,(me),θ
 SPACE
 v,·,_,$,·si,·,a,d,∵,(ti),h
@@ -1100,7 +1108,7 @@ k,·,:,α,‥,y,f,a,(me),h
 SPACE
 $,·si,:,ʕ,o,r,i,𝓂,y,m.,.
 
-Ruth 2:18 in vtrad vtbhs
+Ruth 2:18 in vtrad vtsef
 w,_,τ,·,i,$,·si,·,a,α,(p)
 SPACE
 w,_,τ,·,a,v,⅃,w,o,α
@@ -1125,7 +1133,7 @@ SPACE
 SPACE
 m,i,$,·si,·,oa,v,:,ʕ,a,𝓂,h,·,.
 
-Ruth 2:19 in vtrad vtbhs
+Ruth 2:19 in vtrad vtsef
 w,_,τ,·,o,(tq),α,m,∵,r,(tq)
 SPACE
 l,a,(qa),h,·
@@ -1174,7 +1182,7 @@ h,_,y,·,(ti),w,o,m.
 SPACE
 v,·,o,𝓂,ʕ,_,z,.
 
-Ruth 2:20 in vtrad vtbhs
+Ruth 2:20 in vtrad vtsef
 w,_,τ,·,o,(qa),α,m,∵,r
 SPACE
 n,oa,ʕ,:a,m,i,(ge),y
@@ -1213,7 +1221,7 @@ m,i,𝓂,g,·,o,α,:_,l,‥,(ti),n,w,·
 SPACE
 h,𝓂,w,·,α,.
 
-Ruth 2:21 in vtrad vtbhs
+Ruth 2:21 in vtrad vtsef
 w,_,τ,·,o,(ti),α,m,∵,r
 SPACE
 r,⅃,w,·,τ
@@ -1221,6 +1229,10 @@ SPACE
 h,_,m,·,w,o,α,:_,v,i,y,·,a,⅄,h
 SPACE
 g,·,_,⅃,m.
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 k,·,i,y,-,α,a,m,_,⅃,r
 SPACE
@@ -1242,7 +1254,7 @@ k,·,oa,l,-,h,_,q,·,a,ц,i,(ti),y,r
 SPACE
 α,:_,$,·sh,∵,r,-,l,i,𝓂,y,.
 
-Ruth 2:22 in vtrad vtbhs
+Ruth 2:22 in vtrad vtsef
 w,_,τ,·,o,(me),α,m,∵,r
 SPACE
 n,oa,ʕ,:a,m,i,(ti),y
@@ -1269,7 +1281,7 @@ v,·,:,$,·si,a,d,∵,(me),h
 SPACE
 α,_,x,‥,𝓂,r,.
 
-Ruth 2:23 in vtrad vtbhs
+Ruth 2:23 in vtrad vtsef
 w,_,τ,·,i,d,:,v,·,_,(G),q
 SPACE
 v,·,:,n,_,ʕ,:_,r,(me),w,o,τ
@@ -1290,7 +1302,7 @@ w,_,τ,·,‥,(ti),$,·sh,∵,v
 SPACE
 α,∵,τ,-,x,:_,m,w,o,τ,a,𝓂,h,·,.
 
-Ruth 3:1 in vtrad vtbhs
+Ruth 3:1 in vtrad vtsef
 w,_,τ,·,o,(me),α,m,∵,r
 SPACE
 l,a,(ti),h,·
@@ -1311,7 +1323,7 @@ SPACE
 SPACE
 y,i,𝓂,y,θ,_,v,-,l,a,𝓂,k.,:,.
 
-Ruth 3:2 in vtrad vtbhs
+Ruth 3:2 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,◆,h
 SPACE
 h,:_,l,o,(me),α
@@ -1336,8 +1348,12 @@ h,_,$,·si,·,:,ʕ,o,r,i,(ti),y,m.
 SPACE
 h,_,l,·,a,𝓂,y,:,l,a,h,.
 
-Ruth 3:3 in vtrad vtbhs
+Ruth 3:3 in vtrad vtsef
 w,:,r,a,x,_,⅃,ц,:,τ,·,:
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 w,a,σ,_,◆,k,:,τ,·,:
 SPACE
@@ -1361,7 +1377,7 @@ l,∵,α,:∵,k,o,(me),l
 SPACE
 w,:,l,i,$,·sh,:,τ,·,𝓂,w,o,τ,.
 
-Ruth 3:4 in vtrad vtbhs
+Ruth 3:4 in vtrad vtsef
 w,i,y,h,i,⅃,y
 SPACE
 v,:,$,·sh,oa,k,:,v,◆,w,o
@@ -1393,7 +1409,7 @@ SPACE
 SPACE
 τ,·,_,ʕ,:_,$,·si,i,𝓂,y,n.,.
 
-Ruth 3:5 in vtrad vtbhs
+Ruth 3:5 in vtrad vtsef
 w,_,τ,·,o,(ti),α,m,∵,r
 SPACE
 α,‥,l,∵,⅄,y,h,a
@@ -1405,7 +1421,7 @@ SPACE
 SPACE
 α,∵,𝓂,ʕ,:∵,$,·si,∵,𝓂,h,.
 
-Ruth 3:6 in vtrad vtbhs
+Ruth 3:6 in vtrad vtsef
 w,_,τ,·,‥,(ti),r,∵,d
 SPACE
 h,_,g,·,o,⅄,r,∵,n.
@@ -1418,7 +1434,7 @@ SPACE
 SPACE
 x,:_,m,w,o,τ,a,𝓂,h,·,.
 
-Ruth 3:7 in vtrad vtbhs
+Ruth 3:7 in vtrad vtsef
 w,_,y,·,o,(qa),α,k,_,l
 SPACE
 v,·,o,<,ʕ,_,z
@@ -1447,7 +1463,7 @@ m,_,r,:,g,·,:,l,o,τ,a,(ti),y,w
 SPACE
 w,_,τ,·,i,$,·sh,:,k,·,a,𝓂,v,.
 
-Ruth 3:8 in vtrad vtbhs
+Ruth 3:8 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 v,·,_,x,:_,ц,i,⅃,y
@@ -1468,7 +1484,7 @@ $,·sh,o,k,∵,(ti),v,∵,τ
 SPACE
 m,_,r,:,g,·,:,l,o,τ,a,𝓂,y,w,.
 
-Ruth 3:9 in vtrad vtbhs
+Ruth 3:9 in vtrad vtsef
 w,_,y,·,o,(ti),α,m,∵,r
 SPACE
 m,i,y,-,α,a,⅄,τ,·,:
@@ -1493,7 +1509,7 @@ g,o,α,‥,(ti),l
 SPACE
 α,a,𝓂,τ,·,a,h,.
 
-Ruth 3:10 in vtrad vtbhs
+Ruth 3:10 in vtrad vtsef
 w,_,y,·,o,◆,α,m,∵,r
 SPACE
 v,·,:,r,w,·,k,a,(qa),h
@@ -1522,7 +1538,7 @@ SPACE
 SPACE
 w,:,α,i,m.,-,ʕ,a,$,·sh,i,𝓂,y,r,.
 
-Ruth 3:11 in vtrad vtbhs
+Ruth 3:11 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,◆,h
 SPACE
 v,·,i,τ,·,i,y,(p)
@@ -1551,7 +1567,7 @@ x,_,(ti),y,i,l
 SPACE
 α,a,𝓂,τ,·,:,.
 
-Ruth 3:12 in vtrad vtbhs
+Ruth 3:12 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,h,(p)
 SPACE
 k,·,i,⅃,y
@@ -1575,10 +1591,14 @@ q,a,r,(me),w,o,v
 SPACE
 m,i,m,·,∵,𝓂,n,·,i,y,.
 
-Ruth 3:13 in vtrad vtbhs
+Ruth 3:13 in vtrad vtsef
 l,i,⅃,y
 START big 
 y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 h,_,l,·,_,◆,y,:,l,a,h
 SPACE
@@ -1608,7 +1628,7 @@ $,·sh,i,k,:,v,i,(ti),y
 SPACE
 ʕ,_,d,-,h,_,v,·,o,𝓂,q,∵,r,.
 
-Ruth 3:14 in vtrad vtbhs
+Ruth 3:14 in vtrad vtsef
 w,_,τ,·,i,$,·sh,:,k,·,_,<,v
 SPACE
 m,_,r,:,g,·,:,l,w,o,τ,a,w,(p)
@@ -1634,7 +1654,7 @@ h,a,α,i,$,·sh,·,a,(ti),h
 SPACE
 h,_,g,·,o,𝓂,r,∵,n.,.
 
-Ruth 3:15 in vtrad vtbhs
+Ruth 3:15 in vtrad vtsef
 w,_,y,·,o,◆,α,m,∵,r
 SPACE
 h,a,⌕,v,i,⌕,y
@@ -1661,7 +1681,7 @@ w,_,y,·,a,v,o,(ti),α
 SPACE
 h,a,ʕ,i,𝓂,y,r,.
 
-Ruth 3:16 in vtrad vtbhs
+Ruth 3:16 in vtrad vtsef
 w,_,τ,·,a,v,w,o,α,(p)
 SPACE
 α,∵,l,-,x,:_,m,w,o,τ,a,ƶ,h,·
@@ -1682,7 +1702,7 @@ SPACE
 SPACE
 h,a,α,i,𝓂,y,$,·sh,.
 
-Ruth 3:17 in vtrad vtbhs
+Ruth 3:17 in vtrad vtsef
 w,_,τ,·,o,Ƶ,α,m,∵,r
 SPACE
 $,·sh,‥,$,·sh,-,h,_,$,·si,·,:,ʕ,o,r,i,(me),y,m.
@@ -1704,7 +1724,7 @@ r,‥,y,q,a,(ti),m.
 SPACE
 α,∵,l,-,x,:_,m,w,o,τ,‥,𝓂,k.,:,.
 
-Ruth 3:18 in vtrad vtbhs
+Ruth 3:18 in vtrad vtsef
 w,_,τ,·,o,(p),α,m,∵,r,(p)
 SPACE
 $,·sh,:,v,i,⅃,y
@@ -1737,7 +1757,7 @@ h,_,d,·,a,v,a,(ti),r
 SPACE
 h,_,y,·,𝓂,w,o,m.,.
 
-Ruth 4:1 in vtrad vtbhs
+Ruth 4:1 in vtrad vtsef
 w,·,v,o,(qa),ʕ,_,z
 SPACE
 ʕ,a,l,a,⅃,h
@@ -1772,7 +1792,7 @@ w,_,y,·,a,(ti),σ,_,r
 SPACE
 w,_,y,·,‥,$,·sh,‥,𝓂,v,.
 
-Ruth 4:2 in vtrad vtbhs
+Ruth 4:2 in vtrad vtsef
 w,_,y,·,i,q,·,_,(G),x
 SPACE
 ʕ,:_,$,·si,a,r,a,(da),h
@@ -1789,7 +1809,7 @@ $,·sh,:,v,w,·,-,f,o,⅄,h
 SPACE
 w,_,y,·,‥,$,·sh,‥,𝓂,v,w,·,.
 
-Ruth 4:3 in vtrad vtbhs
+Ruth 4:3 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
 SPACE
 l,_,g,·,o,α,‥,ƶ,l
@@ -1814,7 +1834,7 @@ m,i,$,·si,·,:,d,‥,(me),h
 SPACE
 m,w,o,α,a,𝓂,v,.
 
-Ruth 4:4 in vtrad vtbhs
+Ruth 4:4 in vtrad vtsef
 w,_,α,:_,n,i,(qa),y
 SPACE
 α,a,m,_,(ge),r,:,τ,·,i,y
@@ -1868,7 +1888,7 @@ SPACE
 SPACE
 α,∵,g,:,α,a,𝓂,l,.
 
-Ruth 4:5 in vtrad vtbhs
+Ruth 4:5 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 v,·,o,ƶ,ʕ,_,z
@@ -1896,7 +1916,7 @@ $,·sh,‥,m.,-,h,_,m,·,‥,(ti),τ
 SPACE
 ʕ,_,l,-,n,_,x,:_,l,a,τ,𝓂,w,o,.
 
-Ruth 4:6 in vtrad vtbhs
+Ruth 4:6 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 h,_,g,·,o,α,‥,◆,l
@@ -1923,7 +1943,7 @@ l,o,α,-,α,w,·,k,_,(ti),l
 SPACE
 l,i,g,:,α,o,𝓂,l,.
 
-Ruth 4:7 in vtrad vtbhs
+Ruth 4:7 in vtrad vtsef
 w,:,z,o,α,τ,(tq)
 SPACE
 l,:,f,a,n,i,(qa),y,m.
@@ -1954,7 +1974,7 @@ h,_,τ,·,:,ʕ,w,·,d,a,(ti),h
 SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Ruth 4:8 in vtrad vtbhs
+Ruth 4:8 in vtrad vtsef
 w,_,y,·,o,(da),α,m,∵,r
 SPACE
 h,_,g,·,o,α,‥,⟓,l
@@ -1967,7 +1987,7 @@ w,_,y,·,i,$,·sh,:,l,o,(ti),f.
 SPACE
 n,_,ʕ,:_,l,𝓂,w,o,.
 
-Ruth 4:9 in vtrad vtbhs
+Ruth 4:9 in vtrad vtsef
 w,_,y,·,o,(tq),α,m,∵,r,(tq)
 SPACE
 v,·,o,(qa),ʕ,_,z
@@ -2002,7 +2022,7 @@ m,i,y,·,_,(ti),d
 SPACE
 n,oa,ʕ,:a,m,i,𝓂,y,.
 
-Ruth 4:10 in vtrad vtbhs
+Ruth 4:10 in vtrad vtsef
 w,:,g,_,⅃,m.
 SPACE
 α,∵,τ,-,r,⅃,w,·,τ
@@ -2043,7 +2063,7 @@ SPACE
 SPACE
 h,_,y,·,𝓂,w,o,m.,.
 
-Ruth 4:11 in vtrad vtbhs
+Ruth 4:11 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,:,r,(ge),w,·
 SPACE
 k,·,oa,l,-,h,a,ʕ,a,(da),m.
@@ -2065,6 +2085,11 @@ SPACE
 α,∵,l,-,v,·,‥,y,τ,∵,◆,k.,a
 SPACE
 k,·,:,r,a,x,‥,<,l
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 w,·,k,:,l,‥,α,a,h,(p)
 SPACE
 α,:_,$,·sh,∵,(qa),r
@@ -2087,7 +2112,7 @@ v,·,:,v,‥,(me),y,τ
 SPACE
 l,a,𝓂,x,∵,m.,.
 
-Ruth 4:12 in vtrad vtbhs
+Ruth 4:12 in vtrad vtsef
 w,i,y,h,i,<,y
 SPACE
 v,‥,𝓂,y,τ,:,k.,a,(p)
@@ -2116,7 +2141,7 @@ m,i,n.,-,h,_,𝓂,n,·,_,ʕ,:_,r,a,(ti),h
 SPACE
 h,_,z,·,o,𝓂,α,τ,.
 
-Ruth 4:13 in vtrad vtbhs
+Ruth 4:13 in vtrad vtsef
 w,_,y,·,i,q,·,_,(qa),x
 SPACE
 v,·,o,<,ʕ,_,z
@@ -2143,7 +2168,7 @@ w,_,τ,·,‥,(me),l,∵,d
 SPACE
 v,·,‥,𝓂,n.,.
 
-Ruth 4:14 in vtrad vtbhs
+Ruth 4:14 in vtrad vtsef
 w,_,τ,·,o,α,m,_,<,r,:,n,a,h
 SPACE
 h,_,n,·,a,$,·sh,i,y,m.,(p)
@@ -2172,7 +2197,7 @@ $,·sh,:,m,(ti),w,o
 SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Ruth 4:15 in vtrad vtbhs
+Ruth 4:15 in vtrad vtsef
 w,:,h,a,<,y,a,h
 SPACE
 l,a,k.,:,(p)
@@ -2203,7 +2228,7 @@ m,i,$,·sh,·,i,v,:,ʕ,a,(ti),h
 SPACE
 v,·,a,n,i,𝓂,y,m.,.
 
-Ruth 4:16 in vtrad vtbhs
+Ruth 4:16 in vtrad vtsef
 w,_,τ,·,i,q,·,_,(qa),x
 SPACE
 n,oa,ʕ,:a,m,i,<,y
@@ -2218,7 +2243,7 @@ w,_,τ,·,:,h,i,y,-,l,(ti),w,o
 SPACE
 l,:,α,o,m,∵,𝓂,n,∵,τ,.
 
-Ruth 4:17 in vtrad vtbhs
+Ruth 4:17 in vtrad vtsef
 w,_,τ,·,i,q,:,r,∵,(tq),α,n,a,h,(tq)
 SPACE
 l,(qa),w,o
@@ -2247,7 +2272,7 @@ SPACE
 SPACE
 d,a,w,i,𝓂,d,.
 
-Ruth 4:18 in vtrad vtbhs
+Ruth 4:18 in vtrad vtsef
 w,:,α,‥,(p),l,·,∵,h,(p)
 SPACE
 τ,·,w,o,l,:,d,⅃,w,o,τ
@@ -2260,7 +2285,7 @@ h,w,o,l,i,(me),y,d
 SPACE
 α,∵,τ,-,x,∵,ц,:,r,𝓂,w,o,n.,.
 
-Ruth 4:19 in vtrad vtbhs
+Ruth 4:19 in vtrad vtsef
 w,:,x,∵,ц,:,r,w,o,n.,(p)
 SPACE
 h,w,o,l,i,⅃,y,d
@@ -2273,7 +2298,7 @@ h,w,o,l,i,(me),y,d
 SPACE
 α,∵,τ,-,ʕ,_,m,·,i,𝓂,y,n,a,d,a,𝓂,v,.
 
-Ruth 4:20 in vtrad vtbhs
+Ruth 4:20 in vtrad vtsef
 w,:,ʕ,_,m,·,i,𝓂,y,n,a,d,a,v,(p)
 SPACE
 h,w,o,l,i,⅃,y,d
@@ -2286,7 +2311,7 @@ h,w,o,l,i,(me),y,d
 SPACE
 α,∵,τ,-,$,·si,_,l,:,m,a,𝓂,h,.
 
-Ruth 4:21 in vtrad vtbhs
+Ruth 4:21 in vtrad vtsef
 w,:,$,·si,_,l,:,m,w,o,n.,(p)
 SPACE
 h,w,o,l,i,⅃,y,d
@@ -2299,7 +2324,7 @@ h,w,o,l,i,(me),y,d
 SPACE
 α,∵,τ,-,ʕ,w,o,v,‥,𝓂,d,.
 
-Ruth 4:22 in vtrad vtbhs
+Ruth 4:22 in vtrad vtsef
 w,:,ʕ,o,v,‥,d,(p)
 SPACE
 h,w,o,l,i,⅃,y,d

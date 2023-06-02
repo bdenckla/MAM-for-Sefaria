@@ -1,5 +1,5 @@
 unicode_names II Kings
-2Kings 1:1 in vtrad vtbhs
+2Kings 1:1 in vtrad vtsef
 w,_,y,·,i,f,:,$,·sh,_,<,ʕ
 SPACE
 m,w,o,α,a,v,(p)
@@ -12,7 +12,7 @@ m,(me),w,o,τ
 SPACE
 α,_,x,:,α,a,𝓂,v,.
 
-2Kings 1:2 in vtrad vtbhs
+2Kings 1:2 in vtrad vtsef
 w,_,y,·,i,f,·,o,(qa),l
 SPACE
 α,:_,x,_,z,:,y,a,(ge),h
@@ -55,7 +55,7 @@ m,‥,x,:a,l,i,(me),y
 SPACE
 z,∵,𝓂,h,.
 
-2Kings 1:3 in vtrad vtbhs
+2Kings 1:3 in vtrad vtsef
 w,·,m,_,l,:,α,_,⅃,k.,:
 SPACE
 y,:,h,o,w,a,◆,h
@@ -100,7 +100,7 @@ SPACE
 SPACE
 ʕ,∵,q,:,r,𝓂,w,o,n.,.
 
-2Kings 1:4 in vtrad vtbhs
+2Kings 1:4 in vtrad vtsef
 w,:,l,a,k,‥,n.,(p)
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r
@@ -127,7 +127,7 @@ w,_,y,·,‥,(ti),l,∵,k.,:
 SPACE
 α,‥,l,i,y,·,a,𝓂,h,.
 
-2Kings 1:5 in vtrad vtbhs
+2Kings 1:5 in vtrad vtsef
 w,_,y,·,a,$,·sh,(me),w,·,v,w,·
 SPACE
 h,_,m,·,_,l,:,α,a,k,i,(ti),y,m.
@@ -142,12 +142,16 @@ m,_,h,-,z,·,∵,(me),h
 SPACE
 $,·sh,_,v,:,τ,·,∵,𝓂,m.,.
 
-2Kings 1:6 in vtrad vtbhs
+2Kings 1:6 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,(qa),w,·
 SPACE
 α,‥,l,a,(ge),y,w
 SPACE
 α,i,⅃,y,$,·sh
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 ʕ,a,l,a,⅃,h
 SPACE
@@ -213,7 +217,7 @@ k,·,i,y,-,m,(me),w,o,τ
 SPACE
 τ,·,a,m,𝓂,w,·,τ,.
 
-2Kings 1:7 in vtrad vtbhs
+2Kings 1:7 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,⅃,r
 SPACE
 α,:_,l,‥,h,∵,ƶ,m.
@@ -238,7 +242,7 @@ SPACE
 SPACE
 h,a,α,‥,𝓂,l,·,∵,h,.
 
-2Kings 1:8 in vtrad vtbhs
+2Kings 1:8 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,⅃,w,·
 SPACE
 α,‥,l,a,◆,y,w
@@ -265,7 +269,7 @@ h,_,τ,·,i,$,·sh,:,v,·,i,(ti),y
 SPACE
 h,𝓂,w,·,α,.
 
-2Kings 1:9 in vtrad vtbhs
+2Kings 1:9 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,(me),x
 SPACE
 α,‥,l,a,⟓,y,w
@@ -300,7 +304,7 @@ d,·,i,v,·,∵,(ti),r
 SPACE
 r,‥,𝓂,d,a,h,.
 
-2Kings 1:10 in vtrad vtbhs
+2Kings 1:10 in vtrad vtsef
 w,_,y,·,_,𝓂,ʕ,:_,n,∵,⅃,h
 SPACE
 α,‥,l,i,y,·,a,◆,h,w,·
@@ -341,7 +345,7 @@ SPACE
 SPACE
 w,:,α,∵,τ,-,x,:_,m,i,$,·sh,·,a,𝓂,y,w,.
 
-2Kings 1:11 in vtrad vtbhs
+2Kings 1:11 in vtrad vtsef
 w,_,y,·,a,(ge),$,·sh,oa,v
 SPACE
 w,_,y,·,i,$,·sh,:,l,_,(me),x
@@ -372,7 +376,7 @@ m,:,h,‥,r,a,(me),h
 SPACE
 r,‥,𝓂,d,a,h,.
 
-2Kings 1:12 in vtrad vtbhs
+2Kings 1:12 in vtrad vtsef
 w,_,y,·,_,⅃,ʕ,_,n.
 SPACE
 α,‥,l,i,y,·,a,h,~
@@ -411,7 +415,7 @@ SPACE
 SPACE
 w,:,α,∵,τ,-,x,:_,m,i,$,·sh,·,a,𝓂,y,w,.
 
-2Kings 1:13 in vtrad vtbhs
+2Kings 1:13 in vtrad vtsef
 w,_,y,·,a,◆,$,·sh,oa,v
 SPACE
 w,_,y,·,i,$,·sh,:,l,_,⟓,x
@@ -433,6 +437,10 @@ SPACE
 w,_,y,·,i,k,:,r,_,(me),ʕ
 SPACE
 ʕ,_,l,-,v,·,i,r,:,k,·,a,⅃,y,w
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 l,:,n,∵,⅃,g,∵,d
 SPACE
@@ -464,7 +472,7 @@ x,:_,m,i,$,·sh,·,i,(ti),y,m.
 SPACE
 v,·,:,ʕ,‥,y,n,∵,𝓂,y,k.,a,.
 
-2Kings 1:14 in vtrad vtbhs
+2Kings 1:14 in vtrad vtsef
 h,i,⌕,n,·,‥,⌕,h
 SPACE
 y,a,<,r,:,d,a,h
@@ -493,7 +501,7 @@ n,_,f,:,$,·sh,i,(ti),y
 SPACE
 v,·,:,ʕ,‥,y,n,∵,𝓂,y,k.,a,.
 
-2Kings 1:15 in vtrad vtbhs
+2Kings 1:15 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(G),r
 SPACE
 m,_,l,:,α,_,<,k.,:
@@ -518,7 +526,7 @@ SPACE
 SPACE
 α,∵,l,-,h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-2Kings 1:16 in vtrad vtbhs
+2Kings 1:16 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(qa),r
 SPACE
 α,‥,l,a,(ge),y,w
@@ -569,12 +577,16 @@ k,·,i,y,-,m,(me),w,o,τ
 SPACE
 τ,·,a,m,𝓂,w,·,τ,.
 
-2Kings 1:17 in vtrad vtbhs
+2Kings 1:17 in vtrad vtsef
 w,_,y,·,a,(ge),m,oa,τ
 SPACE
 k,·,i,d,:,v,_,(me),r
 SPACE
 y,:,h,o,w,a,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,:_,$,·sh,∵,r,-,d,·,i,v,·,∵,⅃,r
 SPACE
@@ -585,6 +597,11 @@ SPACE
 y,:,h,w,o,r,a,m.,(p)
 SPACE
 τ,·,_,x,:,τ,·,a,ƶ,y,w
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+START br class=mam-br-after-pe
 v,·,i,$,·sh,:,n,_,⅃,τ
 SPACE
 $,·sh,:,τ,·,_,ƶ,y,i,m.
@@ -605,7 +622,7 @@ l,(ti),w,o
 SPACE
 v,·,‥,𝓂,n.,.
 
-2Kings 1:18 in vtrad vtbhs
+2Kings 1:18 in vtrad vtsef
 w,:,y,∵,⟓,τ,∵,r
 SPACE
 d,·,i,v,:,r,‥,(me),y
@@ -630,7 +647,7 @@ l,:,m,_,l,:,k,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 2:1 in vtrad vtbhs
+2Kings 2:1 in vtrad vtsef
 w,_,y,:,h,i,◆,y
 SPACE
 v,·,:,h,_,ʕ,:_,l,<,w,o,τ
@@ -651,7 +668,7 @@ w,∵,α,:∵,l,i,y,$,·sh,a,(ti),ʕ
 SPACE
 m,i,n.,-,h,_,g,·,i,l,:,g,·,a,𝓂,l,.
 
-2Kings 2:2 in vtrad vtbhs
+2Kings 2:2 in vtrad vtsef
 w,_,y,·,o,(tq),α,m,∵,r,(tq)
 SPACE
 α,‥,l,i,y,·,a,(qa),h,w,·
@@ -684,7 +701,7 @@ w,_,y,·,‥,r,:,d,(ti),w,·
 SPACE
 v,·,‥,𝓂,y,τ,-,α,‥,𝓂,l,.
 
-2Kings 2:3 in vtrad vtbhs
+2Kings 2:3 in vtrad vtsef
 w,_,y,·,‥,ц,:,α,(qa),w,·
 SPACE
 v,:,n,‥,y,-,h,_,n,·,:,v,i,y,α,i,(me),y,m.
@@ -721,7 +738,7 @@ y,a,d,_,(ti),ʕ,:,τ,·,i,y
 SPACE
 h,∵,x,:∵,$,·sh,𝓂,w,·,.
 
-2Kings 2:4 in vtrad vtbhs
+2Kings 2:4 in vtrad vtsef
 w,_,y,·,o,(tq),α,m,∵,r,(tq)
 SPACE
 l,(qa),w,o
@@ -729,6 +746,10 @@ SPACE
 α,‥,l,i,y,·,a,(ge),h,w,·
 SPACE
 α,:∵,l,i,y,$,·sh,a,⅃,ʕ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 $,·sh,‥,𝓂,v,-,n,a,⅃,α
 SPACE
@@ -754,7 +775,7 @@ w,_,y,·,a,v,o,(ti),α,w,·
 SPACE
 y,:,r,i,y,x,𝓂,w,o,.
 
-2Kings 2:5 in vtrad vtbhs
+2Kings 2:5 in vtrad vtsef
 w,_,y,·,i,g,·,:,$,·sh,(qa),w,·
 SPACE
 v,:,n,‥,y,-,h,_,n,·,:,v,i,y,α,i,(me),y,m.
@@ -791,7 +812,7 @@ y,a,d,_,(ti),ʕ,:,τ,·,i,y
 SPACE
 h,∵,x,:∵,$,·sh,𝓂,w,·,.
 
-2Kings 2:6 in vtrad vtbhs
+2Kings 2:6 in vtrad vtsef
 w,_,y,·,o,(tq),α,m,∵,r,(tq)
 SPACE
 l,(qa),w,o
@@ -822,7 +843,7 @@ w,_,y,·,‥,l,:,k,(ti),w,·
 SPACE
 $,·sh,:,n,‥,y,h,∵,𝓂,m.,.
 
-2Kings 2:7 in vtrad vtbhs
+2Kings 2:7 in vtrad vtsef
 w,_,x,:_,m,i,$,·sh,·,i,(qa),y,m.
 SPACE
 α,i,(ge),y,$,·sh
@@ -845,7 +866,7 @@ SPACE
 SPACE
 ʕ,_,l,-,h,_,y,·,_,r,:,d,·,‥,𝓂,n.,.
 
-2Kings 2:8 in vtrad vtbhs
+2Kings 2:8 in vtrad vtsef
 w,_,y,·,i,q,·,_,x,(tq)
 SPACE
 α,‥,l,i,y,·,a,(qa),h,w,·
@@ -870,7 +891,7 @@ $,·sh,:,n,‥,y,h,∵,(ti),m.
 SPACE
 v,·,∵,x,a,r,a,v,a,𝓂,h,.
 
-2Kings 2:9 in vtrad vtbhs
+2Kings 2:9 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
 SPACE
 k,:,ʕ,oa,v,:,r,a,◆,m.
@@ -907,7 +928,7 @@ v,·,:,r,w,·,x,:_,k.,a,(ti)
 SPACE
 α,‥,l,a,𝓂,y,.
 
-2Kings 2:10 in vtrad vtbhs
+2Kings 2:10 in vtrad vtsef
 w,_,y,·,o,(ti),α,m,∵,r
 SPACE
 h,i,q,:,$,·sh,i,⅃,y,τ,a
@@ -932,7 +953,7 @@ l,o,(me),α
 SPACE
 y,i,h,:,y,∵,𝓂,h,.
 
-2Kings 2:11 in vtrad vtbhs
+2Kings 2:11 in vtrad vtsef
 w,_,y,:,h,i,◆,y
 SPACE
 h,‥,⅃,m,·,a,h
@@ -965,7 +986,7 @@ v,·,_,𝓂,σ,:,ʕ,a,r,a,(ti),h
 SPACE
 h,_,$,·sh,·,a,m,a,𝓂,y,i,m.,.
 
-2Kings 2:12 in vtrad vtbhs
+2Kings 2:12 in vtrad vtsef
 w,∵,α,:∵,l,i,y,$,·sh,a,⅃,ʕ
 SPACE
 r,o,α,∵,◆,h
@@ -975,6 +996,10 @@ SPACE
 m,:,ц,_,ʕ,‥,q,(p)
 SPACE
 α,a,v,i,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,a,v,i,◆,y
 SPACE
@@ -1000,7 +1025,7 @@ l,i,$,·sh,:,n,_,(me),y,i,m.
 SPACE
 q,:,r,a,ʕ,i,𝓂,y,m.,.
 
-2Kings 2:13 in vtrad vtbhs
+2Kings 2:13 in vtrad vtsef
 w,_,y,·,a,(p),r,∵,m.,(p)
 SPACE
 α,∵,τ,-,α,_,d,·,∵,⅃,r,∵,τ
@@ -1021,7 +1046,7 @@ SPACE
 SPACE
 h,_,y,·,_,r,:,d,·,‥,𝓂,n.,.
 
-2Kings 2:14 in vtrad vtbhs
+2Kings 2:14 in vtrad vtsef
 w,_,y,·,i,q,·,_,x,(tq)
 SPACE
 α,∵,τ,-,α,_,d,·,∵,(qa),r,∵,τ
@@ -1047,6 +1072,10 @@ SPACE
 α,‥,l,i,y,·,a,⅄,h,w,·
 SPACE
 α,_,f.,-,h,⅃,w,·,α
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 w,_,y,·,_,k,·,∵,⅃,h
 SPACE
@@ -1062,7 +1091,7 @@ w,_,𝓂,y,·,_,ʕ,:_,v,o,(ti),r
 SPACE
 α,:∵,l,i,y,$,·sh,a,𝓂,ʕ,.
 
-2Kings 2:15 in vtrad vtbhs
+2Kings 2:15 in vtrad vtsef
 w,_,y,·,i,r,:,α,u,(qa),h,w,·
 SPACE
 v,:,n,‥,y,-,h,_,n,·,:,v,i,y,α,i,<,y,m.
@@ -1089,7 +1118,7 @@ w,_,y,·,i,$,·sh,:,τ,·,_,x,:_,w,w,·,-,l,(ti),w,o
 SPACE
 α,a,𝓂,r,:,ц,a,h,.
 
-2Kings 2:16 in vtrad vtbhs
+2Kings 2:16 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,⅃,w,·
 SPACE
 α,‥,l,a,μ,y,w
@@ -1135,7 +1164,7 @@ l,o,(me),α
 SPACE
 τ,i,$,·sh,:,l,a,𝓂,x,w,·,.
 
-2Kings 2:17 in vtrad vtbhs
+2Kings 2:17 in vtrad vtsef
 w,_,y,·,i,f,:,ц,:,r,w,·,-,v,(me),w,o
 SPACE
 ʕ,_,d,-,v,·,o,(ti),$,·sh
@@ -1158,7 +1187,7 @@ w,:,l,o,(me),α
 SPACE
 m,:,ц,a,α,u,𝓂,h,w,·,.
 
-2Kings 2:18 in vtrad vtbhs
+2Kings 2:18 in vtrad vtsef
 w,_,y,·,a,$,·sh,u,⅃,v,w,·
 SPACE
 α,‥,l,a,ƶ,y,w
@@ -1179,7 +1208,7 @@ SPACE
 SPACE
 α,_,l,-,τ,·,‥,l,‥,𝓂,k,w,·,.
 
-2Kings 2:19 in vtrad vtbhs
+2Kings 2:19 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,:,r,(ge),w,·
 SPACE
 α,_,n,:,$,·sh,‥,<,y
@@ -1210,7 +1239,7 @@ w,:,h,a,α,a,(me),r,∵,ц.
 SPACE
 m,:,$,·sh,_,k,·,a,𝓂,l,∵,τ,.
 
-2Kings 2:20 in vtrad vtbhs
+2Kings 2:20 in vtrad vtsef
 w,_,y,·,o,◆,α,m,∵,r
 SPACE
 q,:,x,w,·,-,l,i,y,(p)
@@ -1229,7 +1258,7 @@ w,_,y,·,i,q,:,x,(ti),w,·
 SPACE
 α,‥,l,a,𝓂,y,w,.
 
-2Kings 2:21 in vtrad vtbhs
+2Kings 2:21 in vtrad vtsef
 w,_,y,·,‥,ц,‥,α,(p)
 SPACE
 α,∵,l,-,m,w,o,ц,a,⅃,α
@@ -1262,7 +1291,7 @@ m,a,(me),w,∵,τ
 SPACE
 w,·,m,:,$,·sh,_,k,·,a,𝓂,l,∵,τ,.
 
-2Kings 2:22 in vtrad vtbhs
+2Kings 2:22 in vtrad vtsef
 w,_,y,·,‥,r,a,f,⅃,w,·
 SPACE
 h,_,m,·,_,ƶ,y,i,m.
@@ -1281,7 +1310,7 @@ SPACE
 SPACE
 d,·,i,v,·,‥,𝓂,r,.
 
-2Kings 2:23 in vtrad vtbhs
+2Kings 2:23 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,l
 SPACE
 m,i,$,·sh,·,a,(ti),m.
@@ -1289,6 +1318,10 @@ SPACE
 v,·,‥,𝓂,y,τ,-,α,‥,⅄,l
 SPACE
 w,:,h,⅃,w,·,α
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 ʕ,o,l,∵,⅃,h
 SPACE
@@ -1316,7 +1349,7 @@ SPACE
 SPACE
 q,‥,r,‥,𝓂,x,_,.
 
-2Kings 2:24 in vtrad vtbhs
+2Kings 2:24 in vtrad vtsef
 w,_,y,·,i,<,f,∵,n.
 SPACE
 α,_,𝓂,x,:_,r,a,y,w,(p)
@@ -1347,7 +1380,7 @@ w,·,$,·sh,:,n,‥,(ti),y
 SPACE
 y,:,l,a,d,i,𝓂,y,m.,.
 
-2Kings 2:25 in vtrad vtbhs
+2Kings 2:25 in vtrad vtsef
 w,_,y,·,‥,(me),l,∵,k.,:
 SPACE
 m,i,$,·sh,·,a,(ti),m.
@@ -1362,7 +1395,7 @@ $,·sh,a,(me),v
 SPACE
 $,·sh,o,m,:,r,𝓂,w,o,n.,.
 
-2Kings 3:1 in vtrad vtbhs
+2Kings 3:1 in vtrad vtsef
 w,i,y,h,w,o,r,a,⅃,m.
 SPACE
 v,·,∵,n.,-,α,_,x,:,α,a,◆,v
@@ -1391,7 +1424,7 @@ $,·sh,:,τ,·,‥,y,m.,-,ʕ,∵,$,·si,:,r,‥,(me),h
 SPACE
 $,·sh,a,n,a,𝓂,h,.
 
-2Kings 3:2 in vtrad vtbhs
+2Kings 3:2 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,$,·si,∵,<,h
 SPACE
 h,a,r,_,ʕ,(p)
@@ -1420,7 +1453,7 @@ SPACE
 SPACE
 α,a,v,i,𝓂,y,w,.
 
-2Kings 3:3 in vtrad vtbhs
+2Kings 3:3 in vtrad vtsef
 r,_,⌕,q
 SPACE
 v,·,:,x,_,θ,·,o,(G),α,w,τ
@@ -1439,7 +1472,7 @@ l,o,α,-,σ,a,(ti),r
 SPACE
 m,i,m,·,∵,𝓂,n,·,a,h,.
 
-2Kings 3:4 in vtrad vtbhs
+2Kings 3:4 in vtrad vtsef
 w,·,m,‥,y,$,·sh,_,(me),ʕ
 SPACE
 m,∵,𝓂,l,∵,k.,:,-,m,w,o,α,a,(ti),v
@@ -1464,7 +1497,7 @@ SPACE
 SPACE
 ц,a,𝓂,m,∵,r,.
 
-2Kings 3:5 in vtrad vtbhs
+2Kings 3:5 in vtrad vtsef
 w,_,y,:,h,i,(ti),y
 SPACE
 k,·,:,m,⅃,w,o,τ
@@ -1479,7 +1512,7 @@ v,·,:,m,∵,(me),l,∵,k.,:
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 3:6 in vtrad vtbhs
+2Kings 3:6 in vtrad vtsef
 w,_,y,·,‥,ц,‥,(G),α
 SPACE
 h,_,m,·,∵,(da),l,∵,k.,:
@@ -1496,7 +1529,7 @@ w,_,y,·,i,f,:,q,o,(ti),d
 SPACE
 α,∵,τ,-,k,·,oa,l,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 3:7 in vtrad vtbhs
+2Kings 3:7 in vtrad vtsef
 w,_,y,·,‥,μ,l,∵,k.,:
 SPACE
 w,_,y,·,i,$,·sh,:,l,_,x,(tq)
@@ -1539,7 +1572,7 @@ k,·,:,σ,w,·,σ,_,(me),y
 SPACE
 k,·,:,σ,w,·,σ,∵,𝓂,y,k.,a,.
 
-2Kings 3:8 in vtrad vtbhs
+2Kings 3:8 in vtrad vtsef
 w,_,y,·,o,Ƶ,α,m,∵,r
 SPACE
 α,‥,y,-,z,∵,(me),h
@@ -1556,7 +1589,7 @@ m,i,d,:,v,·,_,(me),r
 SPACE
 α,:∵,d,𝓂,w,o,m.,.
 
-2Kings 3:9 in vtrad vtbhs
+2Kings 3:9 in vtrad vtsef
 w,_,y,·,‥,(tq),l,∵,k.,:,(tq)
 SPACE
 m,∵,(qa),l,∵,k.,:
@@ -1589,7 +1622,7 @@ SPACE
 SPACE
 v,·,:,r,_,g,:,l,‥,y,h,∵,𝓂,m.,.
 
-2Kings 3:10 in vtrad vtbhs
+2Kings 3:10 in vtrad vtsef
 w,_,y,·,o,(ti),α,m,∵,r
 SPACE
 m,∵,⅃,l,∵,k.,:
@@ -1614,7 +1647,7 @@ SPACE
 SPACE
 v,·,:,y,_,d,-,m,w,o,α,a,𝓂,v,.
 
-2Kings 3:11 in vtrad vtbhs
+2Kings 3:11 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 y,:,h,w,o,$,·sh,a,f,a,◆,θ
@@ -1657,7 +1690,7 @@ SPACE
 SPACE
 α,‥,l,i,y,·,a,𝓂,h,w,·,.
 
-2Kings 3:12 in vtrad vtbhs
+2Kings 3:12 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
 SPACE
 y,:,h,⅃,w,o,$,·sh,a,f,a,ƶ,θ
@@ -1682,7 +1715,7 @@ w,·,m,∵,(me),l,∵,k.,:
 SPACE
 α,:∵,d,𝓂,w,o,m.,.
 
-2Kings 3:13 in vtrad vtbhs
+2Kings 3:13 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 α,:∵,l,i,y,$,·sh,a,(ge),ʕ
@@ -1731,7 +1764,7 @@ SPACE
 SPACE
 v,·,:,y,_,d,-,m,w,o,α,a,𝓂,v,.
 
-2Kings 3:14 in vtrad vtbhs
+2Kings 3:14 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 α,:∵,l,i,y,$,·sh,a,◆,ʕ
@@ -1766,7 +1799,7 @@ SPACE
 SPACE
 w,:,α,i,m.,-,α,∵,r,:,α,∵,𝓂,k.,·,a,.
 
-2Kings 3:15 in vtrad vtbhs
+2Kings 3:15 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,(ti),h
 SPACE
 q,:,x,w,·,-,l,i,⅃,y
@@ -1785,7 +1818,7 @@ SPACE
 SPACE
 y,_,d,-,y,:,h,o,w,a,𝓂,h,.
 
-2Kings 3:16 in vtrad vtbhs
+2Kings 3:16 in vtrad vtsef
 w,_,y,·,o,Ƶ,α,m,∵,r
 SPACE
 k,·,o,(ti),h
@@ -1801,10 +1834,19 @@ SPACE
 h,_,z,·,∵,(ti),h
 SPACE
 g,·,‥,v,i,(me),y,m.
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 g,·,‥,v,i,𝓂,y,m.,.
 
-2Kings 3:17 in vtrad vtbhs
+2Kings 3:17 in vtrad vtsef
 k,·,i,y,-,k,o,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -1834,7 +1876,7 @@ w,·,m,i,q,:,n,‥,y,k,∵,(ti),m.
 SPACE
 w,·,𝓂,v,:,h,∵,m,:,τ,·,:,k,∵,𝓂,m.,.
 
-2Kings 3:18 in vtrad vtbhs
+2Kings 3:18 in vtrad vtsef
 w,:,n,a,q,_,(me),l
 SPACE
 z,o,(ti),α,τ
@@ -1849,7 +1891,7 @@ SPACE
 SPACE
 v,·,:,y,∵,d,:,k,∵,𝓂,m.,.
 
-2Kings 3:19 in vtrad vtbhs
+2Kings 3:19 in vtrad vtsef
 w,:,h,i,k,·,i,y,τ,∵,(G),m.
 SPACE
 k,·,oa,l,-,ʕ,i,<,y,r
@@ -1880,7 +1922,7 @@ SPACE
 SPACE
 v,·,a,α,:_,v,a,n,i,𝓂,y,m.,.
 
-2Kings 3:20 in vtrad vtbhs
+2Kings 3:20 in vtrad vtsef
 w,_,y,:,h,i,<,y
 SPACE
 v,_,v,·,o,(p),q,∵,r,(p)
@@ -1903,7 +1945,7 @@ h,a,α,a,(ti),r,∵,ц.
 SPACE
 α,∵,τ,-,h,_,m,·,a,𝓂,y,i,m.,.
 
-2Kings 3:21 in vtrad vtbhs
+2Kings 3:21 in vtrad vtsef
 w,:,k,oa,l,-,m,w,o,α,a,v,(p)
 SPACE
 $,·sh,a,𝓂,m,:,ʕ,ƶ,w,·
@@ -1930,7 +1972,7 @@ w,_,y,·,_,ʕ,_,m,:,d,(ti),w,·
 SPACE
 ʕ,_,𝓂,l,-,h,_,g,·,:,v,𝓂,w,·,l,.
 
-2Kings 3:22 in vtrad vtbhs
+2Kings 3:22 in vtrad vtsef
 w,_,y,·,_,$,·sh,:,k,·,i,⅃,y,m,w,·
 SPACE
 v,_,v,·,o,ƶ,q,∵,r
@@ -1953,7 +1995,7 @@ SPACE
 SPACE
 k,·,_,d,·,a,𝓂,m.,.
 
-2Kings 3:23 in vtrad vtbhs
+2Kings 3:23 in vtrad vtsef
 w,_,y,·,o,𝓂,α,m,:,r,w,·,(p)
 SPACE
 d,·,a,⅃,m.
@@ -1978,7 +2020,7 @@ l,_,$,·sh,·,a,l,a,(ti),l
 SPACE
 m,w,o,α,a,𝓂,v,.
 
-2Kings 3:24 in vtrad vtbhs
+2Kings 3:24 in vtrad vtsef
 w,_,y,·,a,v,o,≁,α,w,·,~
 SPACE
 α,∵,l,-,m,_,x,:_,n,‥,⅃,h
@@ -2003,7 +2045,7 @@ w,:,h,_,k,·,(ti),w,o,τ
 SPACE
 α,∵,τ,-,m,w,o,α,a,𝓂,v,.
 
-2Kings 3:25 in vtrad vtbhs
+2Kings 3:25 in vtrad vtsef
 w,:,h,∵,ʕ,a,r,i,⅃,y,m.
 SPACE
 y,_,h,:_,r,o,μ,σ,w,·
@@ -2040,7 +2082,7 @@ h,_,q,·,_,l,·,a,ʕ,i,(ti),y,m.
 SPACE
 w,_,y,·,_,k,·,𝓂,w,·,h,a,.
 
-2Kings 3:26 in vtrad vtbhs
+2Kings 3:26 in vtrad vtsef
 w,_,y,·,_,r,:,α,(p)
 SPACE
 m,∵,⅃,l,∵,k.,:
@@ -2075,7 +2117,7 @@ w,:,l,o,(me),α
 SPACE
 y,a,k,o,𝓂,l,w,·,.
 
-2Kings 3:27 in vtrad vtbhs
+2Kings 3:27 in vtrad vtsef
 w,_,y,·,i,q,·,_,x,(tq)
 SPACE
 α,∵,τ,-,v,·,:,n,(qa),w,o
@@ -2106,7 +2148,7 @@ w,_,y,·,a,$,·sh,u,(ti),v,w,·
 SPACE
 l,a,α,a,𝓂,r,∵,ц.,.
 
-2Kings 4:1 in vtrad vtbhs
+2Kings 4:1 in vtrad vtsef
 w,:,α,i,$,·sh,·,a,⅃,h
 SPACE
 α,_,x,_,⅃,τ
@@ -2155,7 +2197,7 @@ l,(ti),w,o
 SPACE
 l,_,ʕ,:_,v,a,d,i,𝓂,y,m.,.
 
-2Kings 4:2 in vtrad vtbhs
+2Kings 4:2 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 α,‥,l,∵,<,y,h,a
@@ -2190,7 +2232,7 @@ SPACE
 SPACE
 $,·sh,a,𝓂,m,∵,n.,.
 
-2Kings 4:3 in vtrad vtbhs
+2Kings 4:3 in vtrad vtsef
 w,_,y,·,o,◆,α,m,∵,r
 SPACE
 l,:,k,i,(qa),y
@@ -2211,7 +2253,7 @@ r,‥,q,i,(ti),y,m.
 SPACE
 α,_,l,-,τ,·,_,m,:,ʕ,i,𝓂,y,θ,i,y,.
 
-2Kings 4:4 in vtrad vtbhs
+2Kings 4:4 in vtrad vtsef
 w,·,v,a,◆,α,τ
 SPACE
 w,:,σ,a,g,_,<,r,:,τ,·,:
@@ -2234,7 +2276,7 @@ w,:,h,_,m,·,a,l,‥,(ti),α
 SPACE
 τ,·,_,σ,·,i,𝓂,y,ʕ,i,y,.
 
-2Kings 4:5 in vtrad vtbhs
+2Kings 4:5 in vtrad vtsef
 w,_,τ,·,‥,(p),l,∵,k.,:,(p)
 SPACE
 m,‥,𝓂,α,i,τ,·,ƶ,w,o
@@ -2259,8 +2301,12 @@ w,:,h,i,(me),y,α
 SPACE
 .
 
-2Kings 4:6 in vtrad vtbhs
+2Kings 4:6 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 k,·,i,m,:,l,o,⅃,α,τ
 SPACE
@@ -2292,7 +2338,7 @@ w,_,𝓂,y,·,_,ʕ,:_,m,o,(ti),d
 SPACE
 h,_,$,·sh,·,a,𝓂,m,∵,n.,.
 
-2Kings 4:7 in vtrad vtbhs
+2Kings 4:7 in vtrad vtsef
 w,_,τ,·,a,v,o,◆,α
 SPACE
 w,_,τ,·,_,g,·,‥,d,(p)
@@ -2320,7 +2366,7 @@ SPACE
 SPACE
 v,·,_,n,·,w,o,τ,a,𝓂,r,.
 
-2Kings 4:8 in vtrad vtbhs
+2Kings 4:8 in vtrad vtsef
 w,_,y,:,h,i,(qa),y
 SPACE
 h,_,y,·,(ge),w,o,m.
@@ -2353,7 +2399,7 @@ $,·sh,a,(ti),m,·,a,h
 SPACE
 l,∵,α,:∵,k,oa,l,-,l,a,𝓂,x,∵,m.,.
 
-2Kings 4:9 in vtrad vtbhs
+2Kings 4:9 in vtrad vtsef
 w,_,τ,·,o,(p),α,m,∵,r,(p)
 SPACE
 α,∵,l,-,α,i,y,$,·sh,a,ƶ,h,·
@@ -2378,7 +2424,7 @@ SPACE
 SPACE
 τ,·,a,m,i,𝓂,y,d,.
 
-2Kings 4:10 in vtrad vtbhs
+2Kings 4:10 in vtrad vtsef
 n,_,ʕ,:_,$,·si,∵,h,-,n,·,a,<,α
 SPACE
 ʕ,:_,l,i,y,·,_,τ,-,q,i,y,r,(p)
@@ -2409,7 +2455,7 @@ y,a,σ,(me),w,·,r
 SPACE
 $,·sh,a,𝓂,m,·,a,h,.
 
-2Kings 4:11 in vtrad vtbhs
+2Kings 4:11 in vtrad vtsef
 w,_,y,:,h,i,(me),y
 SPACE
 h,_,y,·,(ti),w,o,m.
@@ -2424,7 +2470,7 @@ SPACE
 SPACE
 w,_,y,·,i,$,·sh,:,k,·,_,v,-,$,·sh,a,𝓂,m,·,a,h,.
 
-2Kings 4:12 in vtrad vtbhs
+2Kings 4:12 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
 SPACE
 α,∵,l,-,g,·,‥,y,x,:_,z,i,⅃,y
@@ -2443,7 +2489,7 @@ w,_,𝓂,τ,·,_,ʕ,:_,m,o,(ti),d
 SPACE
 l,:,f,a,n,a,𝓂,y,w,.
 
-2Kings 4:13 in vtrad vtbhs
+2Kings 4:13 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 l,◆,w,o
@@ -2455,6 +2501,11 @@ SPACE
 h,i,n,·,‥,⅃,h
 SPACE
 x,a,r,_,⅃,d,:,τ,·,:
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 α,‥,l,‥,≁,y,n,w,·,~
 SPACE
 α,∵,τ,-,k,·,oa,l,-,h,_,x,:_,r,a,d,a,⅃,h
@@ -2489,7 +2540,7 @@ SPACE
 SPACE
 y,o,$,·sh,a,𝓂,v,∵,τ,.
 
-2Kings 4:14 in vtrad vtbhs
+2Kings 4:14 in vtrad vtsef
 w,_,y,·,o,Ƶ,α,m,∵,r
 SPACE
 w,·,m,∵,(ti),h
@@ -2512,7 +2563,7 @@ w,:,α,i,y,$,·sh,a,(me),h,·
 SPACE
 z,a,q,‥,𝓂,n.,.
 
-2Kings 4:15 in vtrad vtbhs
+2Kings 4:15 in vtrad vtsef
 w,_,y,·,o,(ti),α,m,∵,r
 SPACE
 q,:,r,a,α,-,l,a,⅄,h,·
@@ -2523,7 +2574,7 @@ w,_,𝓂,τ,·,_,ʕ,:_,m,o,(ti),d
 SPACE
 v,·,_,f,·,a,𝓂,τ,_,x,.
 
-2Kings 4:16 in vtrad vtbhs
+2Kings 4:16 in vtrad vtsef
 w,_,y,·,o,◆,α,m,∵,r
 SPACE
 l,_,m,·,w,o,ʕ,‥,<,d
@@ -2551,7 +2602,7 @@ SPACE
 SPACE
 v,·,:,$,·sh,i,f,:,x,a,τ,∵,𝓂,k.,a,.
 
-2Kings 4:17 in vtrad vtbhs
+2Kings 4:17 in vtrad vtsef
 w,_,τ,·,_,(me),h,_,r
 SPACE
 h,a,α,i,$,·sh,·,a,(ti),h
@@ -2574,7 +2625,7 @@ SPACE
 SPACE
 α,:∵,l,i,y,$,·sh,a,𝓂,ʕ,.
 
-2Kings 4:18 in vtrad vtbhs
+2Kings 4:18 in vtrad vtsef
 w,_,y,·,i,g,:,d,·,_,(ti),l
 SPACE
 h,_,y,·,a,⅄,l,∵,d
@@ -2589,12 +2640,17 @@ SPACE
 SPACE
 α,∵,l,-,h,_,q,·,o,ц,:,r,i,𝓂,y,m.,.
 
-2Kings 4:19 in vtrad vtbhs
+2Kings 4:19 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
 SPACE
 α,∵,l,-,α,a,v,i,(ti),y,w
 SPACE
 r,o,α,$,·sh,i,⅃,y
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 r,o,α,$,·sh,i,⅄,y
 SPACE
 w,_,y,·,o,(p),α,m,∵,r,(p)
@@ -2605,7 +2661,7 @@ $,·si,a,α,‥,(ti),h,w,·
 SPACE
 α,∵,l,-,α,i,m,·,𝓂,w,o,.
 
-2Kings 4:20 in vtrad vtbhs
+2Kings 4:20 in vtrad vtsef
 w,_,y,·,i,(qa),$,·si,·,a,α,‥,ƶ,h,w,·
 SPACE
 w,_,y,:,v,i,y,α,‥,(ti),h,w,·
@@ -2620,7 +2676,7 @@ SPACE
 SPACE
 w,_,y,·,a,m,o,𝓂,τ,.
 
-2Kings 4:21 in vtrad vtbhs
+2Kings 4:21 in vtrad vtsef
 w,_,τ,·,_,(p),ʕ,_,l,(p)
 SPACE
 w,_,τ,·,_,$,·sh,:,k,·,i,v,‥,ƶ,h,w,·
@@ -2637,7 +2693,7 @@ v,·,_,ʕ,:_,d,(ti),w,o
 SPACE
 w,_,τ,·,‥,ц,‥,𝓂,α,.
 
-2Kings 4:22 in vtrad vtbhs
+2Kings 4:22 in vtrad vtsef
 w,_,τ,·,i,q,:,r,a,α,~
 SPACE
 α,∵,l,-,α,i,y,$,·sh,a,h,·,∴
@@ -2666,7 +2722,7 @@ h,a,α,:∵,l,o,h,i,(ti),y,m.
 SPACE
 w,:,α,a,$,·sh,𝓂,w,·,v,a,h,.
 
-2Kings 4:23 in vtrad vtbhs
+2Kings 4:23 in vtrad vtsef
 w,_,y,·,o,◆,α,m,∵,r
 SPACE
 m,_,⌕,d,·,⌕,w,·,ʕ,_
@@ -2687,7 +2743,7 @@ w,_,τ,·,o,(ti),α,m,∵,r
 SPACE
 $,·sh,a,l,𝓂,w,o,m.,.
 
-2Kings 4:24 in vtrad vtbhs
+2Kings 4:24 in vtrad vtsef
 w,_,𝓂,τ,·,_,x,:_,v,o,$,·sh,(p)
 SPACE
 h,a,α,a,τ,ƶ,w,o,n.
@@ -2710,7 +2766,7 @@ SPACE
 SPACE
 l,a,𝓂,k.,:,.
 
-2Kings 4:25 in vtrad vtbhs
+2Kings 4:25 in vtrad vtsef
 w,_,τ,·,‥,◆,l,∵,k.,:
 SPACE
 w,_,τ,·,a,v,o,⟓,α
@@ -2745,7 +2801,7 @@ h,_,$,·sh,·,w,·,n,_,m,·,i,(me),y,τ
 SPACE
 h,_,l,·,a,𝓂,z,.
 
-2Kings 4:26 in vtrad vtbhs
+2Kings 4:26 in vtrad vtsef
 ʕ,_,τ,·,a,h,~
 SPACE
 r,𝓂,w,·,ц.,-,n,a,⅃,α
@@ -2770,7 +2826,7 @@ w,_,τ,·,o,(ti),α,m,∵,r
 SPACE
 $,·sh,a,l,𝓂,w,o,m.,.
 
-2Kings 4:27 in vtrad vtbhs
+2Kings 4:27 in vtrad vtsef
 w,_,τ,·,a,v,o,(G),α
 SPACE
 α,∵,l,-,α,i,<,y,$,·sh
@@ -2813,7 +2869,7 @@ h,i,g,·,i,(ti),y,d
 SPACE
 l,i,𝓂,y,.
 
-2Kings 4:28 in vtrad vtbhs
+2Kings 4:28 in vtrad vtsef
 w,_,τ,·,o,Ƶ,α,m,∵,r
 SPACE
 h,:_,$,·sh,a,α,_,(me),l,:,τ,·,i,y
@@ -2834,7 +2890,7 @@ SPACE
 SPACE
 α,o,τ,i,𝓂,y,.
 
-2Kings 4:29 in vtrad vtbhs
+2Kings 4:29 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 l,:,g,‥,y,x,:_,z,i,(ge),y
@@ -2875,7 +2931,7 @@ SPACE
 SPACE
 h,_,n,·,a,𝓂,ʕ,_,r,.
 
-2Kings 4:30 in vtrad vtbhs
+2Kings 4:30 in vtrad vtsef
 w,_,τ,·,o,(p),α,m,∵,r,(p)
 SPACE
 α,‥,⅃,m.
@@ -2894,7 +2950,7 @@ w,_,y,·,‥,(me),l,∵,k.,:
 SPACE
 α,_,x,:_,r,∵,𝓂,y,h,a,.
 
-2Kings 4:31 in vtrad vtbhs
+2Kings 4:31 in vtrad vtsef
 w,:,g,‥,x,:_,z,i,(G),y
 SPACE
 ʕ,a,v,_,⅃,r
@@ -2931,7 +2987,7 @@ h,‥,q,i,(ti),y,ц.
 SPACE
 h,_,n,·,a,𝓂,ʕ,_,r,.
 
-2Kings 4:32 in vtrad vtbhs
+2Kings 4:32 in vtrad vtsef
 w,_,y,·,a,v,o,(me),α
 SPACE
 α,:∵,l,i,y,$,·sh,a,(ti),ʕ
@@ -2948,7 +3004,7 @@ m,u,$,·sh,:,k,·,a,(ti),v
 SPACE
 ʕ,_,l,-,m,i,θ,·,a,τ,𝓂,w,o,.
 
-2Kings 4:33 in vtrad vtbhs
+2Kings 4:33 in vtrad vtsef
 w,_,y,·,a,v,o,Ƶ,α
 SPACE
 w,_,y,·,i,σ,:,g,·,o,(me),r
@@ -2963,7 +3019,7 @@ w,_,y,·,i,τ,:,f,·,_,l,·,‥,(ti),l
 SPACE
 α,∵,l,-,y,:,h,o,w,a,𝓂,h,.
 
-2Kings 4:34 in vtrad vtbhs
+2Kings 4:34 in vtrad vtsef
 w,_,y,·,_,(ge),ʕ,_,l
 SPACE
 w,_,y,·,i,$,·sh,:,k,·,_,⅃,v
@@ -2994,7 +3050,7 @@ v,·,:,$,·si,_,(me),r
 SPACE
 h,_,y,·,a,𝓂,l,∵,d,.
 
-2Kings 4:35 in vtrad vtbhs
+2Kings 4:35 in vtrad vtsef
 w,_,y,·,a,(ge),$,·sh,oa,v
 SPACE
 w,_,y,·,‥,⅃,l,∵,k.,:
@@ -3029,7 +3085,7 @@ h,_,n,·,_,(ti),ʕ,_,r
 SPACE
 α,∵,τ,-,ʕ,‥,y,n,a,𝓂,y,w,.
 
-2Kings 4:36 in vtrad vtbhs
+2Kings 4:36 in vtrad vtsef
 w,_,y,·,i,q,:,r,a,⅃,α
 SPACE
 α,∵,l,-,g,·,‥,y,x,:_,z,i,◆,y
@@ -3054,7 +3110,7 @@ $,·si,:,α,i,(me),y
 SPACE
 v,:,n,‥,𝓂,k.,:,.
 
-2Kings 4:37 in vtrad vtbhs
+2Kings 4:37 in vtrad vtsef
 w,_,τ,·,a,v,o,α,(p)
 SPACE
 w,_,τ,·,i,f,·,o,⅃,l
@@ -3071,7 +3127,7 @@ SPACE
 SPACE
 w,_,τ,·,‥,ц,‥,𝓂,α,.
 
-2Kings 4:38 in vtrad vtbhs
+2Kings 4:38 in vtrad vtsef
 w,∵,α,:∵,l,i,y,$,·sh,a,(G),ʕ
 SPACE
 $,·sh,a,<,v
@@ -3108,7 +3164,7 @@ l,i,v,:,n,‥,(me),y
 SPACE
 h,_,n,·,:,v,i,y,α,i,𝓂,y,m.,.
 
-2Kings 4:39 in vtrad vtbhs
+2Kings 4:39 in vtrad vtsef
 w,_,y,·,‥,ц,‥,(qa),α
 SPACE
 α,∵,x,a,⅃,d
@@ -3149,7 +3205,7 @@ k,·,i,y,-,l,o,(me),α
 SPACE
 y,a,d,a,𝓂,ʕ,w,·,.
 
-2Kings 4:40 in vtrad vtbhs
+2Kings 4:40 in vtrad vtsef
 w,_,y,·,i,𝓂,ц,:,q,(me),w,·
 SPACE
 l,_,α,:_,n,a,$,·sh,i,(ti),y,m.
@@ -3182,7 +3238,7 @@ y,a,k,:,l,(ti),w,·
 SPACE
 l,∵,𝓂,α,:∵,k,o,𝓂,l,.
 
-2Kings 4:41 in vtrad vtbhs
+2Kings 4:41 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
 SPACE
 w,·,q,:,x,w,·,-,q,∵,ƶ,m,_,x
@@ -3209,7 +3265,7 @@ r,a,(ti),ʕ
 SPACE
 v,·,_,σ,·,i,𝓂,y,r,.
 
-2Kings 4:42 in vtrad vtbhs
+2Kings 4:42 in vtrad vtsef
 w,:,α,i,(qa),y,$,·sh
 SPACE
 v,·,a,(ge),α
@@ -3244,7 +3300,7 @@ l,a,ʕ,a,(ti),m.
 SPACE
 w,:,y,o,α,k,‥,𝓂,l,w,·,.
 
-2Kings 4:43 in vtrad vtbhs
+2Kings 4:43 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
 SPACE
 m,:,$,·sh,a,⅃,r,:,τ,ƶ,w,o
@@ -3281,7 +3337,7 @@ SPACE
 SPACE
 w,:,h,w,o,τ,‥,𝓂,r,.
 
-2Kings 4:44 in vtrad vtbhs
+2Kings 4:44 in vtrad vtsef
 w,_,y,·,i,τ,·,‥,(da),n.
 SPACE
 l,i,f,:,n,‥,y,h,∵,⟓,m.
@@ -3294,7 +3350,7 @@ k,·,i,d,:,v,_,(me),r
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Kings 5:1 in vtrad vtbhs
+2Kings 5:1 in vtrad vtsef
 w,:,⌕,n,_,ʕ,:_,m,a,⌕,n.
 SPACE
 $,·si,_,r,-,ц,:,v,a,(qa),α
@@ -3333,7 +3389,7 @@ x,_,(ti),y,i,l
 SPACE
 m,:,ц,o,r,a,𝓂,ʕ,.
 
-2Kings 5:2 in vtrad vtbhs
+2Kings 5:2 in vtrad vtsef
 w,_,𝓂,α,:_,r,a,m.,(p)
 SPACE
 y,a,ц,:,α,⅃,w,·
@@ -3358,7 +3414,7 @@ SPACE
 SPACE
 n,_,ʕ,:_,m,a,𝓂,n.,.
 
-2Kings 5:3 in vtrad vtbhs
+2Kings 5:3 in vtrad vtsef
 w,_,τ,·,o,(p),α,m,∵,r,(p)
 SPACE
 α,∵,l,-,g,·,:,v,i,r,:,τ,·,a,ƶ,h,·
@@ -3383,7 +3439,7 @@ SPACE
 SPACE
 m,i,ц,·,a,r,_,ʕ,:,τ,·,𝓂,w,o,.
 
-2Kings 5:4 in vtrad vtbhs
+2Kings 5:4 in vtrad vtsef
 w,_,y,·,a,v,o,Ƶ,α
 SPACE
 w,_,y,·,_,g,·,‥,(me),d
@@ -3406,7 +3462,7 @@ m,‥,α,∵,(me),r,∵,ц.
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 5:5 in vtrad vtbhs
+2Kings 5:5 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 m,∵,𝓂,l,∵,k.,:,-,α,:_,r,a,m.,(p)
@@ -3443,7 +3499,7 @@ x,:_,l,i,y,f,(me),w,o,τ
 SPACE
 v,·,:,g,a,d,i,𝓂,y,m.,.
 
-2Kings 5:6 in vtrad vtbhs
+2Kings 5:6 in vtrad vtsef
 w,_,y,·,a,v,‥,⅃,α
 SPACE
 h,_,σ,·,‥,ƶ,f,∵,r
@@ -3478,7 +3534,7 @@ w,_,α,:_,σ,_,f,:,τ,·,(ti),w,o
 SPACE
 m,i,ц,·,a,r,_,ʕ,:,τ,·,𝓂,w,o,.
 
-2Kings 5:7 in vtrad vtbhs
+2Kings 5:7 in vtrad vtsef
 w,_,y,:,h,i,μ,y
 SPACE
 k,·,i,q,:,r,o,α,(tq)
@@ -3525,10 +3581,14 @@ h,(ti),w,·,α
 SPACE
 l,i,𝓂,y,.
 
-2Kings 5:8 in vtrad vtbhs
+2Kings 5:8 in vtrad vtsef
 w,_,y,:,h,i,(G),y
 SPACE
 k,·,i,$,·sh,:,m,o,⅃,ʕ,_
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,:∵,l,i,y,$,·sh,a,⅃,ʕ
 SPACE
@@ -3566,7 +3626,7 @@ n,a,v,i,(ti),y,α
 SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 5:9 in vtrad vtbhs
+2Kings 5:9 in vtrad vtsef
 w,_,y,·,a,v,o,(me),α
 SPACE
 n,_,𝓂,ʕ,:_,m,a,(ti),n.
@@ -3580,7 +3640,7 @@ f,·,∵,𝓂,τ,_,x,-,h,_,v,·,_,(ti),y,i,τ
 SPACE
 l,∵,α,:∵,l,i,y,$,·sh,a,𝓂,ʕ,.
 
-2Kings 5:10 in vtrad vtbhs
+2Kings 5:10 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,(me),x
 SPACE
 α,‥,l,a,⟓,y,w
@@ -3607,7 +3667,7 @@ l,:,k.,a,(ti)
 SPACE
 w,·,θ,:,h,a,𝓂,r,.
 
-2Kings 5:11 in vtrad vtbhs
+2Kings 5:11 in vtrad vtsef
 w,_,y,·,i,q,:,ц,o,(me),f.
 SPACE
 n,_,ʕ,:_,m,a,(ti),n.
@@ -3621,6 +3681,10 @@ SPACE
 α,a,m,_,(ge),r,:,τ,·,i,y
 SPACE
 α,‥,l,_,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 y,‥,ц,‥,⅃,α
 SPACE
@@ -3644,7 +3708,7 @@ w,:,α,a,σ,_,(me),f.
 SPACE
 h,_,m,·,:,ц,o,r,a,𝓂,ʕ,.
 
-2Kings 5:12 in vtrad vtbhs
+2Kings 5:12 in vtrad vtsef
 h,:_,l,o,μ,α
 SPACE
 θ,w,o,v,(tq)
@@ -3674,7 +3738,7 @@ w,_,y,·,‥,(me),l,∵,k.,:
 SPACE
 v,·,:,x,‥,m,a,𝓂,h,.
 
-2Kings 5:13 in vtrad vtbhs
+2Kings 5:13 in vtrad vtsef
 w,_,y,·,i,g,·,:,$,·sh,⅃,w,·
 SPACE
 ʕ,:_,v,a,d,a,y,w,~
@@ -3711,7 +3775,7 @@ r,:,x,_,(me),ц.
 SPACE
 w,·,θ,:,h,a,𝓂,r,.
 
-2Kings 5:14 in vtrad vtbhs
+2Kings 5:14 in vtrad vtsef
 w,_,y,·,‥,◆,r,∵,d
 SPACE
 w,_,y,·,i,θ,:,v,·,o,<,l
@@ -3740,7 +3804,7 @@ q,a,θ,o,(ti),n.
 SPACE
 w,_,y,·,i,θ,:,h,a,𝓂,r,.
 
-2Kings 5:15 in vtrad vtbhs
+2Kings 5:15 in vtrad vtsef
 w,_,y,·,a,(tq),$,·sh,oa,v,(tq)
 SPACE
 α,∵,l,-,α,i,(qa),y,$,·sh
@@ -3785,7 +3849,7 @@ m,‥,α,‥,(me),τ
 SPACE
 ʕ,_,v,:,d,·,∵,𝓂,k.,a,.
 
-2Kings 5:16 in vtrad vtbhs
+2Kings 5:16 in vtrad vtsef
 w,_,y,·,o,Ƶ,α,m,∵,r
 SPACE
 x,_,y,-,y,:,h,o,w,a,⟓,h
@@ -3802,7 +3866,7 @@ l,a,q,_,(ti),x,_,τ
 SPACE
 w,_,y,:,m,a,α,‥,𝓂,n.,.
 
-2Kings 5:17 in vtrad vtbhs
+2Kings 5:17 in vtrad vtsef
 w,_,y,·,o,≁,α,m,∵,r,~
 SPACE
 n,_,ʕ,:_,m,a,n.,∴
@@ -3839,7 +3903,7 @@ k,·,i,(ti),y
 SPACE
 α,i,m.,-,l,_,y,h,o,w,a,𝓂,h,.
 
-2Kings 5:18 in vtrad vtbhs
+2Kings 5:18 in vtrad vtsef
 l,_,d,·,a,v,a,⅃,r
 SPACE
 h,_,z,·,∵,ƶ,h
@@ -3861,6 +3925,10 @@ SPACE
 $,·sh,a,(ge),m,·,a,h
 SPACE
 w,:,h,⅃,w,·,α
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 n,i,$,·sh,:,ʕ,a,⅃,n.
 SPACE
@@ -3887,7 +3955,7 @@ v,·,_,d,·,a,v,a,(me),r
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Kings 5:19 in vtrad vtbhs
+2Kings 5:19 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
 SPACE
 l,(ti),w,o
@@ -3902,7 +3970,7 @@ m,‥,α,i,τ,·,(ti),w,o
 SPACE
 k,·,i,v,:,r,_,τ,-,α,a,𝓂,r,∵,ц.,.
 
-2Kings 5:20 in vtrad vtbhs
+2Kings 5:20 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 g,·,‥,y,x,:_,z,i,◆,y
@@ -3914,6 +3982,10 @@ SPACE
 α,i,y,$,·sh,-,h,a,α,:∵,l,o,h,i,y,m.,∴
 SPACE
 h,i,n,·,‥,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 x,a,$,·si,_,⅃,k.,:
 SPACE
@@ -3945,7 +4017,7 @@ m,‥,𝓂,α,i,τ,·,(ti),w,o
 SPACE
 m,:,α,𝓂,w,·,m,a,h,.
 
-2Kings 5:21 in vtrad vtbhs
+2Kings 5:21 in vtrad vtsef
 w,_,y,·,i,r,:,d,·,o,(me),f.
 SPACE
 g,·,‥,y,x,:_,z,i,(ti),y
@@ -3974,8 +4046,12 @@ w,_,y,·,o,(me),α,m,∵,r
 SPACE
 h,:_,$,·sh,a,l,𝓂,w,o,m.,.
 
-2Kings 5:22 in vtrad vtbhs
+2Kings 5:22 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 $,·sh,a,l,◆,w,o,m.
 SPACE
@@ -4017,7 +4093,7 @@ x,:_,l,i,f,(me),w,o,τ
 SPACE
 v,·,:,g,a,d,i,𝓂,y,m.,.
 
-2Kings 5:23 in vtrad vtbhs
+2Kings 5:23 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 n,_,ʕ,:_,m,a,ƶ,n.
@@ -4056,7 +4132,7 @@ w,_,y,·,i,$,·si,:,α,(ti),w,·
 SPACE
 l,:,f,a,n,a,𝓂,y,w,.
 
-2Kings 5:24 in vtrad vtbhs
+2Kings 5:24 in vtrad vtsef
 w,_,y,·,a,v,o,α,(p)
 SPACE
 α,∵,l,-,h,a,ʕ,o,ƶ,f,∵,l
@@ -4075,7 +4151,7 @@ SPACE
 SPACE
 w,_,y,·,‥,l,‥,𝓂,k,w,·,.
 
-2Kings 5:25 in vtrad vtbhs
+2Kings 5:25 in vtrad vtsef
 w,:,h,w,·,α,-,v,a,α,(p)
 SPACE
 w,_,y,·,_,ʕ,:_,m,o,⅃,d
@@ -4101,7 +4177,7 @@ SPACE
 SPACE
 w,a,α,a,𝓂,n,a,h,.
 
-2Kings 5:26 in vtrad vtbhs
+2Kings 5:26 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 α,‥,l,a,y,w,(p)
@@ -4142,7 +4218,7 @@ w,_,ʕ,:_,v,a,d,i,(ti),y,m.
 SPACE
 w,·,$,·sh,:,f,a,x,𝓂,w,o,τ,.
 
-2Kings 5:27 in vtrad vtbhs
+2Kings 5:27 in vtrad vtsef
 w,:,ц,a,r,_,<,ʕ,_,τ
 SPACE
 n,_,𝓂,ʕ,:_,m,a,n.,(p)
@@ -4161,7 +4237,7 @@ m,:,ц,o,r,a,(me),ʕ
 SPACE
 k,·,_,$,·sh,·,a,𝓂,l,∵,g,.
 
-2Kings 6:1 in vtrad vtbhs
+2Kings 6:1 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,(me),w,·
 SPACE
 v,:,n,‥,𝓂,y,-,h,_,n,·,:,v,i,y,α,i,(ti),y,m.
@@ -4186,7 +4262,7 @@ SPACE
 SPACE
 m,i,m,·,∵,𝓂,n,·,w,·,.
 
-2Kings 6:2 in vtrad vtbhs
+2Kings 6:2 in vtrad vtsef
 n,‥,l,:,k,a,h,-,n,·,a,⅃,α
 SPACE
 ʕ,_,d,-,h,_,y,·,_,r,:,d,·,‥,◆,n.
@@ -4215,7 +4291,7 @@ w,_,y,·,o,(ti),α,m,∵,r
 SPACE
 l,‥,𝓂,k,w,·,.
 
-2Kings 6:3 in vtrad vtbhs
+2Kings 6:3 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
 SPACE
 h,a,α,∵,x,a,ƶ,d
@@ -4234,7 +4310,7 @@ SPACE
 SPACE
 α,‥,l,‥,𝓂,k.,:,.
 
-2Kings 6:4 in vtrad vtbhs
+2Kings 6:4 in vtrad vtsef
 w,_,y,·,‥,(ti),l,∵,k.,:
 SPACE
 α,i,τ,·,a,⅄,m.
@@ -4247,7 +4323,7 @@ w,_,𝓂,y,·,i,g,:,z,:,r,(ti),w,·
 SPACE
 h,a,𝓂,ʕ,‥,ц,i,𝓂,y,m.,.
 
-2Kings 6:5 in vtrad vtbhs
+2Kings 6:5 in vtrad vtsef
 w,_,y,:,h,i,<,y
 SPACE
 h,a,𝓂,α,∵,x,a,d,(p)
@@ -4274,7 +4350,7 @@ w,:,h,(me),w,·,α
 SPACE
 $,·sh,a,α,𝓂,w,·,l,.
 
-2Kings 6:6 in vtrad vtbhs
+2Kings 6:6 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
 SPACE
 α,i,y,$,·sh,-,h,a,α,:∵,l,o,h,i,(ti),y,m.
@@ -4295,7 +4371,7 @@ w,_,y,·,a,(ti),ц,∵,f.
 SPACE
 h,_,v,·,_,r,:,z,∵,𝓂,l,.
 
-2Kings 6:7 in vtrad vtbhs
+2Kings 6:7 in vtrad vtsef
 w,_,y,·,o,(ti),α,m,∵,r
 SPACE
 h,a,⅃,r,∵,m.
@@ -4308,7 +4384,7 @@ y,a,d,(ti),w,o
 SPACE
 w,_,y,·,i,q,·,a,x,‥,𝓂,h,w,·,.
 
-2Kings 6:8 in vtrad vtbhs
+2Kings 6:8 in vtrad vtsef
 w,·,m,∵,⅃,l,∵,k.,:
 SPACE
 α,:_,r,a,ƶ,m.
@@ -4333,7 +4409,7 @@ SPACE
 SPACE
 τ,·,_,x,:_,n,o,τ,i,𝓂,y,.
 
-2Kings 6:9 in vtrad vtbhs
+2Kings 6:9 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,(G),x
 SPACE
 α,i,⅃,y,$,·sh
@@ -4360,7 +4436,7 @@ SPACE
 SPACE
 n,:,x,i,τ,·,i,𝓂,y,m.,.
 
-2Kings 6:10 in vtrad vtbhs
+2Kings 6:10 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,(G),x
 SPACE
 m,∵,⅃,l,∵,k.,:
@@ -4389,7 +4465,7 @@ w,:,l,o,(me),α
 SPACE
 $,·sh,:,τ,·,a,𝓂,y,i,m.,.
 
-2Kings 6:11 in vtrad vtbhs
+2Kings 6:11 in vtrad vtsef
 w,_,y,·,i,σ,·,a,ʕ,‥,r,(p)
 SPACE
 l,‥,⅃,v
@@ -4422,7 +4498,7 @@ SPACE
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 6:12 in vtrad vtbhs
+2Kings 6:12 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
 SPACE
 α,_,x,_,⅃,d
@@ -4459,7 +4535,7 @@ v,·,_,x,:_,d,_,(me),r
 SPACE
 m,i,$,·sh,:,k,·,a,v,∵,𝓂,k.,a,.
 
-2Kings 6:13 in vtrad vtbhs
+2Kings 6:13 in vtrad vtsef
 w,_,y,·,o,◆,α,m,∵,r
 SPACE
 l,:,k,<,w,·
@@ -4482,7 +4558,7 @@ h,i,n,·,‥,(me),h
 SPACE
 v,:,d,o,τ,a,𝓂,n.,.
 
-2Kings 6:14 in vtrad vtbhs
+2Kings 6:14 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,x,-,$,·sh,a,⟓,m,·,a,h
 SPACE
 σ,w,·,σ,i,(me),y,m.
@@ -4501,7 +4577,7 @@ w,_,y,·,_,q,·,i,(ti),f,w,·
 SPACE
 ʕ,_,l,-,h,a,ʕ,i,𝓂,y,r,.
 
-2Kings 6:15 in vtrad vtbhs
+2Kings 6:15 in vtrad vtsef
 w,_,⌕,y,·,_,$,·sh,:,k,·,‥,⌕,m.
 SPACE
 m,:,$,·sh,a,r,‥,(qa),τ
@@ -4538,7 +4614,7 @@ SPACE
 SPACE
 n,_,ʕ,:_,$,·si,∵,𝓂,h,.
 
-2Kings 6:16 in vtrad vtbhs
+2Kings 6:16 in vtrad vtsef
 w,_,y,·,o,(ti),α,m,∵,r
 SPACE
 α,_,l,-,τ,·,i,y,r,a,⅄,α
@@ -4555,7 +4631,7 @@ m,‥,α,:_,$,·sh,∵,(ti),r
 SPACE
 α,w,o,τ,a,𝓂,m.,.
 
-2Kings 6:17 in vtrad vtbhs
+2Kings 6:17 in vtrad vtsef
 w,_,y,·,i,τ,:,f,·,_,l,·,‥,<,l
 SPACE
 α,:∵,l,i,y,$,·sh,a,ʕ,(p)
@@ -4596,7 +4672,7 @@ SPACE
 SPACE
 α,:∵,l,i,y,$,·sh,a,𝓂,ʕ,.
 
-2Kings 6:18 in vtrad vtbhs
+2Kings 6:18 in vtrad vtsef
 w,_,y,·,‥,r,:,d,w,·,~
 SPACE
 α,‥,l,a,y,w,∴
@@ -4623,7 +4699,7 @@ k,·,i,d,:,v,_,(me),r
 SPACE
 α,:∵,l,i,y,$,·sh,a,𝓂,ʕ,.
 
-2Kings 6:19 in vtrad vtbhs
+2Kings 6:19 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 α,:_,l,‥,h,∵,(ge),m.
@@ -4662,7 +4738,7 @@ SPACE
 SPACE
 $,·sh,o,m,:,r,𝓂,w,o,n,a,h,.
 
-2Kings 6:20 in vtrad vtbhs
+2Kings 6:20 in vtrad vtsef
 w,_,y,:,h,i,y,~
 SPACE
 k,·,:,v,o,α,a,⅃,m.
@@ -4695,7 +4771,7 @@ v,·,:,τ,(me),w,o,k.,:
 SPACE
 $,·sh,o,m,:,r,𝓂,w,o,n.,.
 
-2Kings 6:21 in vtrad vtbhs
+2Kings 6:21 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 m,∵,𝓂,l,∵,k.,:,-,y,i,$,·si,:,r,a,α,‥,l,(p)
@@ -4712,7 +4788,7 @@ SPACE
 SPACE
 α,a,v,i,𝓂,y,.
 
-2Kings 6:22 in vtrad vtbhs
+2Kings 6:22 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
 SPACE
 l,o,⅃,α
@@ -4747,7 +4823,7 @@ w,:,y,‥,l,:,k,(ti),w,·
 SPACE
 α,∵,l,-,α,:_,d,o,n,‥,y,h,∵,𝓂,m.,.
 
-2Kings 6:23 in vtrad vtbhs
+2Kings 6:23 in vtrad vtsef
 w,_,y,·,i,k,:,r,∵,(qa),h
 SPACE
 l,a,h,∵,(ge),m.
@@ -4780,7 +4856,7 @@ v,·,:,α,∵,(me),r,∵,ц.
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 6:24 in vtrad vtbhs
+2Kings 6:24 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 α,_,𝓂,x,:_,r,‥,y,-,k,‥,ƶ,n.
@@ -4799,7 +4875,7 @@ w,_,y,·,a,(ti),ц,_,r
 SPACE
 ʕ,_,l,-,$,·sh,o,m,:,r,𝓂,w,o,n.,.
 
-2Kings 6:25 in vtrad vtbhs
+2Kings 6:25 in vtrad vtsef
 w,_,y,:,h,i,(qa),y
 SPACE
 r,a,ʕ,a,<,v
@@ -4832,7 +4908,7 @@ y,w,o,n,i,(ti),y,m.
 SPACE
 v,·,_,x,:_,m,i,$,·sh,·,a,h,-,k,a,𝓂,σ,∵,f.,.
 
-2Kings 6:26 in vtrad vtbhs
+2Kings 6:26 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 m,∵,⅃,l,∵,k.,:
@@ -4857,7 +4933,7 @@ SPACE
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-2Kings 6:27 in vtrad vtbhs
+2Kings 6:27 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
 SPACE
 α,_,l,-,y,w,o,$,·sh,i,ʕ,‥,⅃,k.,:
@@ -4874,7 +4950,7 @@ SPACE
 SPACE
 m,i,n.,-,h,_,y,·,a,𝓂,q,∵,v,.
 
-2Kings 6:28 in vtrad vtbhs
+2Kings 6:28 in vtrad vtsef
 w,_,y,·,o,α,m,∵,r,-,l,a,(me),h,·
 SPACE
 h,_,m,·,∵,(ti),l,∵,k.,:
@@ -4905,7 +4981,7 @@ n,o,α,k,_,(me),l
 SPACE
 m,a,x,a,𝓂,r,.
 
-2Kings 6:29 in vtrad vtbhs
+2Kings 6:29 in vtrad vtsef
 w,_,n,·,:,v,_,$,·sh,·,‥,(me),l
 SPACE
 α,∵,τ,-,v,·,:,n,i,(ti),y
@@ -4930,7 +5006,7 @@ w,_,τ,·,_,x,:,v,·,i,(ti),α
 SPACE
 α,∵,τ,-,v,·,:,n,a,𝓂,h,·,.
 
-2Kings 6:30 in vtrad vtbhs
+2Kings 6:30 in vtrad vtsef
 w,_,y,:,h,i,y,(tq)
 SPACE
 k,i,$,·sh,:,m,o,(qa),ʕ,_
@@ -4963,7 +5039,7 @@ SPACE
 SPACE
 m,i,v,·,a,𝓂,y,i,τ,.
 
-2Kings 6:31 in vtrad vtbhs
+2Kings 6:31 in vtrad vtsef
 w,_,y,·,o,Ƶ,α,m,∵,r
 SPACE
 k,·,o,𝓂,h,-,y,_,ʕ,:_,$,·si,∵,h,-,l,·,i,(me),y
@@ -4986,7 +5062,7 @@ SPACE
 SPACE
 h,_,y,·,𝓂,w,o,m.,.
 
-2Kings 6:32 in vtrad vtbhs
+2Kings 6:32 in vtrad vtsef
 w,∵,α,:∵,l,i,y,$,·sh,a,ʕ,(p)
 SPACE
 y,o,$,·sh,‥,⅃,v
@@ -5014,6 +5090,10 @@ SPACE
 α,‥,l,a,(ge),y,w
 SPACE
 w,:,h,⅃,w,·,α
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -5032,6 +5112,10 @@ SPACE
 α,∵,τ,-,r,o,α,$,·sh,i,ƶ,y
 SPACE
 r,:,α,⅃,w,·
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 k,·,:,v,o,⅃,α
 SPACE
@@ -5057,7 +5141,7 @@ SPACE
 SPACE
 α,_,x,:_,r,a,𝓂,y,w,.
 
-2Kings 6:33 in vtrad vtbhs
+2Kings 6:33 in vtrad vtsef
 ʕ,w,o,d,∵,(p),n,·,w,·,(p)
 SPACE
 m,:,d,_,v,·,‥,⅃,r
@@ -5088,7 +5172,7 @@ l,_,y,h,o,w,a,(ti),h
 SPACE
 ʕ,𝓂,w,o,d,.
 
-2Kings 7:1 in vtrad vtbhs
+2Kings 7:1 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 α,:∵,l,i,y,$,·sh,a,ƶ,ʕ
@@ -5098,12 +5182,21 @@ SPACE
 d,·,:,v,_,r,-,y,:,h,o,w,a,⅄,h
 SPACE
 k,·,o,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,a,m,_,⅃,r
 SPACE
 y,:,h,o,w,a,◆,h
 SPACE
 k,·,a,ʕ,‥,<,τ
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 m,a,x,a,r,(p)
 SPACE
 σ,:,α,a,h,-,σ,o,⅃,l,∵,τ
@@ -5120,7 +5213,7 @@ v,·,:,$,·sh,_,(me),ʕ,_,r
 SPACE
 $,·sh,o,m,:,r,𝓂,w,o,n.,.
 
-2Kings 7:2 in vtrad vtbhs
+2Kings 7:2 in vtrad vtsef
 w,_,y,·,_,⅃,ʕ,_,n.
 SPACE
 h,_,$,·sh,·,a,l,i,μ,y,$,·sh
@@ -5167,7 +5260,7 @@ l,o,(me),α
 SPACE
 τ,o,α,k,‥,𝓂,l,.
 
-2Kings 7:3 in vtrad vtbhs
+2Kings 7:3 in vtrad vtsef
 w,:,α,_,r,:,v,·,a,ʕ,a,(da),h
 SPACE
 α,:_,n,a,$,·sh,i,⟓,y,m.
@@ -5196,7 +5289,7 @@ f,·,o,(ti),h
 SPACE
 ʕ,_,d,-,m,a,𝓂,τ,:,n,w,·,.
 
-2Kings 7:4 in vtrad vtbhs
+2Kings 7:4 in vtrad vtsef
 α,i,m.,-,α,a,m,_,(tq),r,:,n,w,·,(tq)
 SPACE
 n,a,v,(qa),w,o,α
@@ -5235,7 +5328,7 @@ w,:,α,i,m.,-,y,:,m,i,y,τ,u,(ti),n,w,·
 SPACE
 w,a,m,a,𝓂,τ,:,n,w,·,.
 
-2Kings 7:5 in vtrad vtbhs
+2Kings 7:5 in vtrad vtsef
 w,_,y,·,a,q,u,⅃,m,w,·
 SPACE
 v,_,n,·,∵,ƶ,$,·sh,∵,f.
@@ -5260,10 +5353,14 @@ SPACE
 SPACE
 α,i,𝓂,y,$,·sh,.
 
-2Kings 7:6 in vtrad vtbhs
+2Kings 7:6 in vtrad vtsef
 w,_,α,d,o,n,a,(G),y
 SPACE
 h,i,$,·sh,:,m,i,⅃,y,ʕ,_
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,∵,τ,-,m,_,x,:_,n,‥,⅃,h
 SPACE
@@ -5309,7 +5406,7 @@ l,a,v,(me),w,o,α
 SPACE
 ʕ,a,l,‥,𝓂,y,n,w,·,.
 
-2Kings 7:7 in vtrad vtbhs
+2Kings 7:7 in vtrad vtsef
 w,_,y,·,a,q,≁,w,·,m,w,·,~
 SPACE
 w,_,y,·,a,n,⅃,w,·,σ,w,·
@@ -5332,7 +5429,7 @@ w,_,y,·,a,n,u,(ti),σ,w,·
 SPACE
 α,∵,l,-,n,_,f,:,$,·sh,a,𝓂,m.,.
 
-2Kings 7:8 in vtrad vtbhs
+2Kings 7:8 in vtrad vtsef
 w,_,y,·,a,v,o,(tq),α,w,·,(tq)
 SPACE
 h,_,𝓂,m,:,ц,o,r,a,ʕ,i,(qa),y,m.
@@ -5383,7 +5480,7 @@ w,_,y,·,‥,l,:,k,(ti),w,·
 SPACE
 w,_,y,·,_,θ,:,m,i,𝓂,n,w,·,.
 
-2Kings 7:9 in vtrad vtbhs
+2Kings 7:9 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,w,·,(tq)
 SPACE
 α,i,(qa),y,$,·sh
@@ -5391,6 +5488,10 @@ SPACE
 α,∵,l,-,r,‥,ʕ,‥,(ge),h,w,·
 SPACE
 l,o,α,-,k,‥,⅃,n.
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,:_,n,_,⅃,x,:,n,w,·
 SPACE
@@ -5430,7 +5531,7 @@ v,·,‥,(me),y,τ
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-2Kings 7:10 in vtrad vtbhs
+2Kings 7:10 in vtrad vtsef
 w,_,y,·,a,v,o,◆,α,w,·
 SPACE
 w,_,𝓂,y,·,i,q,:,r,:,α,w,·,~
@@ -5475,7 +5576,7 @@ w,:,α,o,h,a,l,i,(ti),y,m.
 SPACE
 k,·,_,α,:_,$,·sh,∵,r,-,h,‥,𝓂,m,·,a,h,.
 
-2Kings 7:11 in vtrad vtbhs
+2Kings 7:11 in vtrad vtsef
 w,_,y,·,i,q,:,r,a,(ti),α
 SPACE
 h,_,$,·sh,·,o,ʕ,:_,r,i,⅄,y,m.
@@ -5488,7 +5589,7 @@ h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
 f,·,:,n,i,𝓂,y,m,a,h,.
 
-2Kings 7:12 in vtrad vtbhs
+2Kings 7:12 in vtrad vtsef
 w,_,y,·,a,(qa),q,oa,m.
 SPACE
 h,_,m,·,∵,(ge),l,∵,k.,:
@@ -5538,7 +5639,7 @@ w,:,α,∵,l,-,h,a,ʕ,i,(ti),y,r
 SPACE
 n,a,v,o,𝓂,α,.
 
-2Kings 7:13 in vtrad vtbhs
+2Kings 7:13 in vtrad vtsef
 w,_,y,·,_,(tq),ʕ,_,n.,(tq)
 SPACE
 α,∵,x,a,(qa),d
@@ -5581,7 +5682,7 @@ w,:,n,i,$,·sh,:,l,:,x,a,(ti),h
 SPACE
 w,:,n,i,r,:,α,∵,𝓂,h,.
 
-2Kings 7:14 in vtrad vtbhs
+2Kings 7:14 in vtrad vtsef
 w,_,y,·,i,q,:,x,Ƶ,w,·
 SPACE
 $,·sh,:,n,‥,(ti),y
@@ -5604,7 +5705,7 @@ l,:,k,(me),w,·
 SPACE
 w,·,r,:,α,𝓂,w,·,.
 
-2Kings 7:15 in vtrad vtbhs
+2Kings 7:15 in vtrad vtsef
 w,_,y,·,‥,l,:,k,⅃,w,·
 SPACE
 α,_,x,:_,r,‥,y,h,∵,m.,~
@@ -5634,7 +5735,7 @@ w,_,y,·,_,g,·,i,(ti),d,w,·
 SPACE
 l,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-2Kings 7:16 in vtrad vtbhs
+2Kings 7:16 in vtrad vtsef
 w,_,y,·,‥,ц,‥,⅃,α
 SPACE
 h,a,ʕ,a,ƶ,m.
@@ -5663,7 +5764,7 @@ k,·,i,d,:,v,_,(me),r
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Kings 7:17 in vtrad vtbhs
+2Kings 7:17 in vtrad vtsef
 w,:,h,_,m,·,∵,(tq),l,∵,k.,:,(tq)
 SPACE
 h,i,f,:,q,i,(qa),y,d
@@ -5702,7 +5803,7 @@ h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
 α,‥,l,a,𝓂,y,w,.
 
-2Kings 7:18 in vtrad vtbhs
+2Kings 7:18 in vtrad vtsef
 w,_,y,:,h,i,◆,y
 SPACE
 k,·,:,d,_,v,·,‥,r,(p)
@@ -5735,7 +5836,7 @@ v,·,:,$,·sh,_,(ti),ʕ,_,r
 SPACE
 $,·sh,o,m,:,r,𝓂,w,o,n.,.
 
-2Kings 7:19 in vtrad vtbhs
+2Kings 7:19 in vtrad vtsef
 w,_,y,·,_,(qa),ʕ,_,n.
 SPACE
 h,_,$,·sh,·,a,l,i,(ge),y,$,·sh
@@ -5776,7 +5877,7 @@ l,o,(me),α
 SPACE
 τ,o,α,k,‥,𝓂,l,.
 
-2Kings 7:20 in vtrad vtbhs
+2Kings 7:20 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,-,l,(ti),w,o
 SPACE
 k,·,‥,⅄,n.
@@ -5791,7 +5892,7 @@ v,·,_,$,·sh,·,_,(ti),ʕ,_,r
 SPACE
 w,_,y,·,a,m,o,𝓂,τ,.
 
-2Kings 8:1 in vtrad vtbhs
+2Kings 8:1 in vtrad vtsef
 w,∵,α,:∵,l,i,y,$,·sh,a,μ,ʕ
 SPACE
 d,·,i,v,·,∵,⅃,r
@@ -5831,7 +5932,7 @@ $,·sh,∵,(me),v,_,ʕ
 SPACE
 $,·sh,a,n,i,𝓂,y,m.,.
 
-2Kings 8:2 in vtrad vtbhs
+2Kings 8:2 in vtrad vtsef
 w,_,τ,·,a,(p),q,oa,m.,(p)
 SPACE
 h,a,α,i,$,·sh,·,a,ƶ,h
@@ -5858,7 +5959,7 @@ $,·sh,∵,(me),v,_,ʕ
 SPACE
 $,·sh,a,n,i,𝓂,y,m.,.
 
-2Kings 8:3 in vtrad vtbhs
+2Kings 8:3 in vtrad vtsef
 w,_,y,:,h,i,◆,y
 SPACE
 m,i,q,:,ц,‥,h,(p)
@@ -5885,7 +5986,7 @@ SPACE
 SPACE
 w,:,α,∵,l,-,$,·si,a,d,a,𝓂,h,·,.
 
-2Kings 8:4 in vtrad vtbhs
+2Kings 8:4 in vtrad vtsef
 w,:,h,_,m,·,∵,◆,l,∵,k.,:
 SPACE
 m,:,d,_,v,·,‥,r,(p)
@@ -5910,7 +6011,7 @@ SPACE
 SPACE
 α,:∵,l,i,y,$,·sh,a,𝓂,ʕ,.
 
-2Kings 8:5 in vtrad vtbhs
+2Kings 8:5 in vtrad vtsef
 w,_,⌕,y,:,h,i,⌕,y
 SPACE
 h,(me),w,·,α
@@ -5959,7 +6060,7 @@ SPACE
 SPACE
 α,:∵,l,i,y,$,·sh,a,𝓂,ʕ,.
 
-2Kings 8:6 in vtrad vtbhs
+2Kings 8:6 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,α,_,(me),l
 SPACE
 h,_,m,·,∵,⟓,l,∵,k.,:
@@ -5996,7 +6097,7 @@ SPACE
 SPACE
 w,:,ʕ,_,d,-,ʕ,a,𝓂,τ,·,a,h,.
 
-2Kings 8:7 in vtrad vtbhs
+2Kings 8:7 in vtrad vtsef
 w,_,y,·,a,v,o,<,α
 SPACE
 α,:∵,l,i,y,$,·sh,a,ʕ,(p)
@@ -6021,7 +6122,7 @@ h,a,α,:∵,l,o,h,i,(ti),y,m.
 SPACE
 ʕ,_,d,-,h,‥,𝓂,n,·,a,h,.
 
-2Kings 8:8 in vtrad vtbhs
+2Kings 8:8 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 h,_,m,·,∵,(ge),l,∵,k.,:
@@ -6056,7 +6157,7 @@ m,‥,x,:a,l,i,(me),y
 SPACE
 z,∵,𝓂,h,.
 
-2Kings 8:9 in vtrad vtbhs
+2Kings 8:9 in vtrad vtsef
 w,_,y,·,‥,⅃,l,∵,k.,:
 SPACE
 x,:_,z,a,α,‥,l,~
@@ -6105,7 +6206,7 @@ m,‥,x,:a,l,i,(me),y
 SPACE
 z,∵,𝓂,h,.
 
-2Kings 8:10 in vtrad vtbhs
+2Kings 8:10 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 α,‥,l,a,y,w,(p)
@@ -6128,7 +6229,7 @@ k,·,i,y,-,m,(me),w,o,τ
 SPACE
 y,a,m,𝓂,w,·,τ,.
 
-2Kings 8:11 in vtrad vtbhs
+2Kings 8:11 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,m,‥,(me),d
 SPACE
 α,∵,τ,-,f,·,a,n,a,(ti),y,w
@@ -6143,7 +6244,7 @@ SPACE
 SPACE
 h,a,α,:∵,l,o,h,i,𝓂,y,m.,.
 
-2Kings 8:12 in vtrad vtbhs
+2Kings 8:12 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 x,:_,z,a,α,‥,ƶ,l
@@ -6188,7 +6289,7 @@ w,:,h,a,r,o,τ,‥,y,h,∵,(ti),m.
 SPACE
 τ,·,:,v,_,q,·,‥,𝓂,ʕ,_,.
 
-2Kings 8:13 in vtrad vtbhs
+2Kings 8:13 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 x,:_,z,a,h,α,‥,ƶ,l
@@ -6225,8 +6326,12 @@ m,∵,(me),l,∵,k.,:
 SPACE
 ʕ,_,l,-,α,:_,r,a,𝓂,m.,.
 
-2Kings 8:14 in vtrad vtbhs
+2Kings 8:14 in vtrad vtsef
 w,_,y,·,‥,⅃,l,∵,k.,:
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 m,‥,α,‥,⅃,τ
 SPACE
@@ -6256,7 +6361,7 @@ x,a,y,o,(me),h
 SPACE
 τ,i,𝓂,x,:,y,∵,𝓂,h,.
 
-2Kings 8:15 in vtrad vtbhs
+2Kings 8:15 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
 SPACE
 m,i,𝓂,m,·,oa,x,:a,r,a,◆,τ
@@ -6281,7 +6386,7 @@ x,:_,z,a,h,α,‥,(ti),l
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Kings 8:16 in vtrad vtbhs
+2Kings 8:16 in vtrad vtsef
 w,·,v,i,$,·sh,:,n,_,⅃,τ
 SPACE
 x,a,m,‥,◆,$,·sh
@@ -6310,7 +6415,7 @@ m,∵,(me),l,∵,k.,:
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Kings 8:17 in vtrad vtbhs
+2Kings 8:17 in vtrad vtsef
 v,·,∵,n.,-,$,·sh,:,l,o,$,·sh,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,τ,·,_,⟓,y,i,m.
@@ -6328,10 +6433,14 @@ m,a,l,_,(ti),k.,:
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Kings 8:18 in vtrad vtbhs
+2Kings 8:18 in vtrad vtsef
 w,_,y,·,‥,(ge),l,∵,k.,:
 SPACE
 v,·,:,d,∵,⅃,r,∵,k.,:
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 m,_,l,:,k,‥,⅃,y
 SPACE
@@ -6363,7 +6472,7 @@ v,·,:,ʕ,‥,y,n,‥,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Kings 8:19 in vtrad vtbhs
+2Kings 8:19 in vtrad vtsef
 w,:,l,o,α,-,α,a,v,a,<,h
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -6392,7 +6501,7 @@ l,:,v,a,n,a,(ti),y,w
 SPACE
 k,·,oa,l,-,h,_,y,·,a,m,i,𝓂,y,m.,.
 
-2Kings 8:20 in vtrad vtbhs
+2Kings 8:20 in vtrad vtsef
 v,·,:,y,a,m,a,y,w,(p)
 SPACE
 f,·,a,$,·sh,_,⅃,ʕ
@@ -6409,7 +6518,7 @@ SPACE
 SPACE
 m,∵,𝓂,l,∵,k.,:,.
 
-2Kings 8:21 in vtrad vtbhs
+2Kings 8:21 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,v,o,<,r
 SPACE
 y,w,o,r,a,m.,(p)
@@ -6446,7 +6555,7 @@ h,a,ʕ,a,(ti),m.
 SPACE
 l,:,α,o,h,a,l,a,𝓂,y,w,.
 
-2Kings 8:22 in vtrad vtbhs
+2Kings 8:22 in vtrad vtsef
 w,_,y,·,i,f,:,$,·sh,_,⅃,ʕ
 SPACE
 α,:∵,d,◆,w,o,m.
@@ -6471,7 +6580,7 @@ v,·,a,ʕ,‥,(me),τ
 SPACE
 h,_,h,i,𝓂,y,α,.
 
-2Kings 8:23 in vtrad vtbhs
+2Kings 8:23 in vtrad vtsef
 w,:,y,∵,⟓,τ,∵,r
 SPACE
 d,·,i,v,:,r,‥,(me),y
@@ -6496,7 +6605,7 @@ l,:,m,_,l,:,k,‥,(me),y
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Kings 8:24 in vtrad vtbhs
+2Kings 8:24 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,<,v
 SPACE
 y,w,o,r,a,m.,(p)
@@ -6519,7 +6628,7 @@ v,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Kings 8:25 in vtrad vtbhs
+2Kings 8:25 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,τ,(p)
 SPACE
 $,·sh,:,τ,·,‥,y,m.,-,ʕ,∵,$,·si,:,r,‥,⅃,h
@@ -6544,7 +6653,7 @@ m,∵,(me),l,∵,k.,:
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Kings 8:26 in vtrad vtbhs
+2Kings 8:26 in vtrad vtsef
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,(qa),y,m.
 SPACE
 w,·,$,·sh,:,τ,·,_,<,y,i,m.
@@ -6575,7 +6684,7 @@ m,∵,(me),l,∵,k.,:
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 8:27 in vtrad vtbhs
+2Kings 8:27 in vtrad vtsef
 w,_,y,·,‥,◆,l,∵,k.,:
 SPACE
 v,·,:,d,∵,(p),r,∵,k.,:,(p)
@@ -6604,7 +6713,7 @@ v,·,‥,y,τ,-,α,_,x,:,α,a,(ti),v
 SPACE
 h,𝓂,w,·,α,.
 
-2Kings 8:28 in vtrad vtbhs
+2Kings 8:28 in vtrad vtsef
 w,_,y,·,‥,(ge),l,∵,k.,:
 SPACE
 α,∵,τ,-,y,w,o,r,a,⅃,m.
@@ -6627,7 +6736,7 @@ SPACE
 SPACE
 α,∵,τ,-,y,w,o,r,a,𝓂,m.,.
 
-2Kings 8:29 in vtrad vtbhs
+2Kings 8:29 in vtrad vtsef
 w,_,y,·,a,(tq),$,·sh,oa,v,(tq)
 SPACE
 y,w,o,r,a,(qa),m.
@@ -6678,7 +6787,7 @@ k,·,i,𝓂,y,-,x,o,l,∵,(me),h
 SPACE
 h,𝓂,w,·,α,.
 
-2Kings 9:1 in vtrad vtbhs
+2Kings 9:1 in vtrad vtsef
 w,∵,α,:∵,l,i,y,$,·sh,a,ʕ,(p)
 SPACE
 h,_,n,·,a,v,i,ƶ,y,α
@@ -6715,7 +6824,7 @@ r,a,m,o,(me),τ
 SPACE
 g,·,i,l,:,ʕ,a,𝓂,d,.
 
-2Kings 9:2 in vtrad vtbhs
+2Kings 9:2 in vtrad vtsef
 w,·,v,a,(ti),α,τ,a,-,$,·sh,·,a,⅄,m,·,a,h
 SPACE
 w,·,r,:,α,‥,h,-,$,·sh,a,⌕,m.
@@ -6742,7 +6851,7 @@ x,∵,(me),d,∵,r
 SPACE
 v,·,:,x,a,𝓂,d,∵,r,.
 
-2Kings 9:3 in vtrad vtbhs
+2Kings 9:3 in vtrad vtsef
 w,:,l,a,q,_,x,:,τ,·,a,<
 SPACE
 f,_,k.,:,-,h,_,$,·sh,·,∵,(p),m,∵,n.,(p)
@@ -6773,7 +6882,7 @@ w,:,l,o,(me),α
 SPACE
 τ,:,x,_,k,·,∵,𝓂,h,.
 
-2Kings 9:4 in vtrad vtbhs
+2Kings 9:4 in vtrad vtsef
 w,_,y,·,‥,(da),l,∵,k.,:
 SPACE
 h,_,n,·,_,⟓,ʕ,_,r
@@ -6786,7 +6895,7 @@ r,a,m,o,(me),τ
 SPACE
 g,·,i,l,:,ʕ,a,𝓂,d,.
 
-2Kings 9:5 in vtrad vtbhs
+2Kings 9:5 in vtrad vtsef
 w,_,y,·,a,v,o,◆,α
 SPACE
 w,:,h,i,n,·,‥,(qa),h
@@ -6821,7 +6930,7 @@ SPACE
 SPACE
 h,_,$,·si,·,a,𝓂,r,.
 
-2Kings 9:6 in vtrad vtbhs
+2Kings 9:6 in vtrad vtsef
 w,_,y,·,a,(p),q,oa,m.,(p)
 SPACE
 w,_,y,·,a,v,o,⅃,α
@@ -6856,7 +6965,7 @@ y,:,h,o,w,a,(ti),h
 SPACE
 α,∵,l,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 9:7 in vtrad vtbhs
+2Kings 9:7 in vtrad vtsef
 w,:,h,i,(qa),k,·,i,y,τ,a,ƶ,h
 SPACE
 α,∵,τ,-,v,·,‥,(me),y,τ
@@ -6868,6 +6977,10 @@ SPACE
 w,:,n,i,q,·,_,m,:,τ,·,i,(G),y
 SPACE
 d,·,:,m,‥,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 ʕ,:_,v,a,d,_,⅃,y
 SPACE
@@ -6883,7 +6996,7 @@ m,i,y,·,_,(me),d
 SPACE
 α,i,y,z,a,𝓂,v,∵,l,.
 
-2Kings 9:8 in vtrad vtbhs
+2Kings 9:8 in vtrad vtsef
 w,:,α,a,v,_,(ti),d
 SPACE
 k,·,oa,l,-,v,·,‥,⅃,y,τ
@@ -6904,7 +7017,7 @@ w,:,ʕ,a,z,(ti),w,·,v
 SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 9:9 in vtrad vtbhs
+2Kings 9:9 in vtrad vtsef
 w,:,n,a,τ,_,τ,·,i,y,(p)
 SPACE
 α,∵,τ,-,v,·,‥,⅃,y,τ
@@ -6923,7 +7036,7 @@ v,·,_,ʕ,:,$,·sh,a,(me),α
 SPACE
 v,∵,n.,-,α,:_,x,i,y,·,a,𝓂,h,.
 
-2Kings 9:10 in vtrad vtbhs
+2Kings 9:10 in vtrad vtsef
 w,:,α,∵,τ,-,α,i,y,z,∵,(ge),v,∵,l
 SPACE
 y,o,α,k,:,l,(da),w,·
@@ -6944,7 +7057,7 @@ h,_,d,·,∵,(ti),l,∵,τ
 SPACE
 w,_,y,·,a,n,o,𝓂,σ,.
 
-2Kings 9:11 in vtrad vtbhs
+2Kings 9:11 in vtrad vtsef
 w,:,y,‥,h,◆,w,·,α
 SPACE
 y,a,ц,a,α,(p)
@@ -6979,7 +7092,7 @@ SPACE
 SPACE
 w,:,α,∵,τ,-,$,·si,i,y,x,𝓂,w,o,.
 
-2Kings 9:12 in vtrad vtbhs
+2Kings 9:12 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,⅃,w,·
 SPACE
 $,·sh,∵,ƶ,q,∵,r
@@ -7012,7 +7125,7 @@ l,:,m,∵,(ti),l,∵,k.,:
 SPACE
 α,∵,l,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 9:13 in vtrad vtbhs
+2Kings 9:13 in vtrad vtsef
 w,_,𝓂,y,:,m,_,h,:_,r,◆,w,·
 SPACE
 w,_,y,·,i,q,:,x,w,·,(p)
@@ -7039,7 +7152,7 @@ m,a,l,_,(me),k.,:
 SPACE
 y,‥,h,𝓂,w,·,α,.
 
-2Kings 9:14 in vtrad vtbhs
+2Kings 9:14 in vtrad vtsef
 w,_,y,·,i,τ,:,q,_,$,·sh,·,‥,◆,r
 SPACE
 y,‥,h,⟓,w,·,α
@@ -7070,7 +7183,7 @@ x,:_,z,a,α,‥,(me),l
 SPACE
 m,∵,l,∵,k.,:,-,α,:_,r,a,𝓂,m.,.
 
-2Kings 9:15 in vtrad vtbhs
+2Kings 9:15 in vtrad vtsef
 w,_,y,·,a,(tq),$,·sh,oa,v,(tq)
 SPACE
 y,:,h,w,o,r,a,(qa),m.
@@ -7116,7 +7229,7 @@ SPACE
 SPACE
 v,·,:,y,i,z,:,r,:,ʕ,∵,𝓂,α,l,.
 
-2Kings 9:16 in vtrad vtbhs
+2Kings 9:16 in vtrad vtsef
 w,_,y,·,i,r,:,k,·,_,<,v
 SPACE
 y,‥,h,w,·,α,(p)
@@ -7145,7 +7258,7 @@ l,i,r,:,α,(me),w,o,τ
 SPACE
 α,∵,τ,-,y,w,o,r,a,𝓂,m.,.
 
-2Kings 9:17 in vtrad vtbhs
+2Kings 9:17 in vtrad vtsef
 w,:,h,_,ц,·,o,f,∵,h,(tq)
 SPACE
 ʕ,o,m,‥,(qa),d
@@ -7186,7 +7299,7 @@ w,:,y,o,α,m,_,(me),r
 SPACE
 h,:_,$,·sh,a,l,𝓂,w,o,m.,.
 
-2Kings 9:18 in vtrad vtbhs
+2Kings 9:18 in vtrad vtsef
 w,_,y,·,‥,(tq),l,∵,k.,:,(tq)
 SPACE
 r,o,k,‥,(qa),v
@@ -7227,7 +7340,7 @@ SPACE
 SPACE
 w,:,l,o,α,-,$,·sh,a,𝓂,v,.
 
-2Kings 9:19 in vtrad vtbhs
+2Kings 9:19 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,◆,x
 SPACE
 r,o,k,‥,⅃,v
@@ -7260,7 +7373,7 @@ SPACE
 SPACE
 α,∵,𝓂,l,-,α,_,x,:_,r,a,𝓂,y,.
 
-2Kings 9:20 in vtrad vtbhs
+2Kings 9:20 in vtrad vtsef
 w,_,y,·,_,g,·,‥,<,d
 SPACE
 h,_,ц,·,o,f,∵,h,(p)
@@ -7287,7 +7400,7 @@ v,:,$,·sh,i,g,·,a,ʕ,(ti),w,o,n.
 SPACE
 y,i,n,:,h,a,𝓂,g,.
 
-2Kings 9:21 in vtrad vtbhs
+2Kings 9:21 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 y,:,h,w,o,r,a,m.,(p)
@@ -7326,7 +7439,7 @@ n,a,v,(me),w,o,τ
 SPACE
 h,_,y,·,i,z,:,r,:,ʕ,‥,α,l,i,𝓂,y,.
 
-2Kings 9:22 in vtrad vtbhs
+2Kings 9:22 in vtrad vtsef
 w,_,y,:,h,i,◆,y
 SPACE
 k,·,i,r,:,α,<,w,o,τ
@@ -7357,7 +7470,7 @@ w,·,k,:,$,·sh,a,f,∵,(ti),y,h,a
 SPACE
 h,a,r,_,v,·,i,𝓂,y,m.,.
 
-2Kings 9:23 in vtrad vtbhs
+2Kings 9:23 in vtrad vtsef
 w,_,y,·,_,h,:_,f,o,(da),k.,:
 SPACE
 y,:,h,w,o,r,a,⟓,m.
@@ -7374,7 +7487,7 @@ m,i,r,:,m,a,(me),h
 SPACE
 α,:_,x,_,z,:,y,a,𝓂,h,.
 
-2Kings 9:24 in vtrad vtbhs
+2Kings 9:24 in vtrad vtsef
 w,:,y,‥,h,(G),w,·,α
 SPACE
 m,i,l,·,‥,(da),α
@@ -7401,7 +7514,7 @@ w,_,y,·,i,k,:,r,_,(ti),ʕ
 SPACE
 v,·,:,r,i,k,:,v,·,𝓂,w,o,.
 
-2Kings 9:25 in vtrad vtbhs
+2Kings 9:25 in vtrad vtsef
 w,_,y,·,o,◆,α,m,∵,r
 SPACE
 α,∵,l,-,v,·,i,d,:,q,_,r,(p)
@@ -7448,7 +7561,7 @@ SPACE
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Kings 9:26 in vtrad vtbhs
+2Kings 9:26 in vtrad vtsef
 α,i,m.,-,l,o,μ,α
 SPACE
 α,∵,τ,-,d,·,:,m,‥,⅃,y
@@ -7487,7 +7600,7 @@ k,·,i,d,:,v,_,(me),r
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Kings 9:27 in vtrad vtbhs
+2Kings 9:27 in vtrad vtsef
 w,_,α,:_,x,_,z,:,y,a,<,h
 SPACE
 m,∵,𝓂,l,∵,k.,:,-,y,:,h,w,·,d,a,h,(p)
@@ -7530,7 +7643,7 @@ w,_,y,·,a,(me),m,oa,τ
 SPACE
 $,·sh,a,𝓂,m.,.
 
-2Kings 9:28 in vtrad vtbhs
+2Kings 9:28 in vtrad vtsef
 w,_,y,·,_,r,:,k,·,i,(da),v,w,·
 SPACE
 α,o,τ,⟓,w,o
@@ -7551,7 +7664,7 @@ v,·,:,ʕ,i,(me),y,r
 SPACE
 d,·,a,w,i,𝓂,d,.
 
-2Kings 9:29 in vtrad vtbhs
+2Kings 9:29 in vtrad vtsef
 w,·,v,i,$,·sh,:,n,_,τ,(p)
 SPACE
 α,_,x,_,⅃,τ
@@ -7570,7 +7683,7 @@ SPACE
 SPACE
 ʕ,_,l,-,y,:,h,w,·,d,a,𝓂,h,.
 
-2Kings 9:30 in vtrad vtbhs
+2Kings 9:30 in vtrad vtsef
 w,_,y,·,a,v,(me),w,o,α
 SPACE
 y,‥,h,(ti),w,·,α
@@ -7597,7 +7710,7 @@ v,·,:,ʕ,_,(me),d
 SPACE
 h,_,x,_,l,·,𝓂,w,o,n.,.
 
-2Kings 9:31 in vtrad vtbhs
+2Kings 9:31 in vtrad vtsef
 w,:,y,‥,h,(ti),w,·,α
 SPACE
 v,·,a,⅃,α
@@ -7614,7 +7727,7 @@ h,o,r,‥,(me),g
 SPACE
 α,:_,d,o,n,a,𝓂,y,w,.
 
-2Kings 9:32 in vtrad vtbhs
+2Kings 9:32 in vtrad vtsef
 w,_,y,·,i,$,·si,·,a,<,α
 SPACE
 f,a,n,a,y,w,(p)
@@ -7639,7 +7752,7 @@ $,·sh,:,l,o,$,·sh,a,(ti),h
 SPACE
 σ,a,r,i,y,σ,i,𝓂,y,m.,.
 
-2Kings 9:33 in vtrad vtbhs
+2Kings 9:33 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
 SPACE
 SPACE
@@ -7655,7 +7768,7 @@ w,:,α,∵,l,-,h,_,σ,·,w,·,σ,i,(ti),y,m.
 SPACE
 w,_,𝓂,y,·,i,r,:,m,:,σ,∵,𝓂,n,·,a,h,.
 
-2Kings 9:34 in vtrad vtbhs
+2Kings 9:34 in vtrad vtsef
 w,_,y,·,a,v,o,(ti),α
 SPACE
 w,_,y,·,o,⅃,α,k,_,l
@@ -7678,7 +7791,7 @@ v,_,τ,-,m,∵,(ti),l,∵,k.,:
 SPACE
 h,i,𝓂,y,α,.
 
-2Kings 9:35 in vtrad vtbhs
+2Kings 9:35 in vtrad vtsef
 w,_,y,·,‥,l,:,k,(ti),w,·
 SPACE
 l,:,q,oa,v,:,r,a,⅄,h,·
@@ -7697,7 +7810,7 @@ w,:,k,_,f,·,(me),w,o,τ
 SPACE
 h,_,y,·,a,d,a,𝓂,y,i,m.,.
 
-2Kings 9:36 in vtrad vtbhs
+2Kings 9:36 in vtrad vtsef
 w,_,y,·,a,$,·sh,u,v,w,·,~
 SPACE
 w,_,y,·,_,g,·,i,⅃,y,d,w,·
@@ -7734,7 +7847,7 @@ SPACE
 SPACE
 α,i,y,z,a,𝓂,v,∵,l,.
 
-2Kings 9:37 in vtrad vtbhs
+2Kings 9:37 in vtrad vtsef
 SPACE
 n,i,v,:,l,_,⅃,τ
 SPACE
@@ -7758,7 +7871,7 @@ z,o,(me),α,τ
 SPACE
 α,i,y,z,a,𝓂,v,∵,l,.
 
-2Kings 10:1 in vtrad vtbhs
+2Kings 10:1 in vtrad vtsef
 w,·,l,:,α,_,x,:,α,a,⟓,v
 SPACE
 $,·sh,i,v,:,ʕ,i,(me),y,m.
@@ -7789,7 +7902,7 @@ SPACE
 SPACE
 l,‥,α,m,o,𝓂,r,.
 
-2Kings 10:2 in vtrad vtbhs
+2Kings 10:2 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,◆,h
 SPACE
 k,·,:,v,o,(qa),α
@@ -7818,7 +7931,7 @@ m,i,v,:,ц,a,(ti),r
 SPACE
 w,:,h,_,n,·,a,𝓂,$,·sh,∵,q,.
 
-2Kings 10:3 in vtrad vtbhs
+2Kings 10:3 in vtrad vtsef
 w,·,r,:,α,i,y,τ,∵,(G),m.
 SPACE
 h,_,θ,·,<,w,o,v
@@ -7841,7 +7954,7 @@ SPACE
 SPACE
 α,:_,d,o,n,‥,y,k,∵,𝓂,m.,.
 
-2Kings 10:4 in vtrad vtbhs
+2Kings 10:4 in vtrad vtsef
 w,_,y,·,i,𝓂,r,:,α,w,·,(p)
 SPACE
 m,:,α,o,⅃,d
@@ -7868,7 +7981,7 @@ n,_,ʕ,:_,m,o,(me),d
 SPACE
 α,:_,n,a,𝓂,x,:,n,w,·,.
 
-2Kings 10:5 in vtrad vtbhs
+2Kings 10:5 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,⅃,x
 SPACE
 α,:_,$,·sh,∵,r,-,ʕ,_,l,-,h,_,v,·,_,⅃,y,i,τ
@@ -7882,6 +7995,11 @@ SPACE
 w,:,h,a,α,o,m,:,n,i,(qa),y,m.
 SPACE
 α,∵,l,-,y,‥,h,<,w,·,α
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 l,‥,α,m,o,r,(p)
 SPACE
 ʕ,:_,v,a,d,∵,⅃,y,k.,a,𝓂
@@ -7906,12 +8024,17 @@ v,·,:,ʕ,‥,y,n,∵,(ti),y,k.,a
 SPACE
 ʕ,:_,$,·si,‥,𝓂,h,.
 
-2Kings 10:6 in vtrad vtbhs
+2Kings 10:6 in vtrad vtsef
 w,_,y,·,i,k,:,τ,·,o,⅃,v
 SPACE
 α,:_,l,‥,y,h,∵,m.,(tq)
 SPACE
 σ,‥,(qa),f,∵,r
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 $,·sh,‥,n,i,(ge),y,τ
 SPACE
 l,‥,α,m,o,◆,r
@@ -7921,6 +8044,10 @@ SPACE
 α,_,τ,·,∵,(ge),m.
 SPACE
 w,·,l,:,q,o,l,i,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,_,τ,·,∵,⅃,m.
 SPACE
@@ -7960,7 +8087,7 @@ m,:,g,_,d,·,:,l,i,(me),y,m.
 SPACE
 α,w,o,τ,a,𝓂,m.,.
 
-2Kings 10:7 in vtrad vtbhs
+2Kings 10:7 in vtrad vtsef
 w,_,y,:,h,i,◆,y
 SPACE
 k,·,:,v,o,<,α
@@ -7993,7 +8120,7 @@ SPACE
 SPACE
 y,i,z,:,r,:,ʕ,∵,𝓂,α,l,a,h,.
 
-2Kings 10:8 in vtrad vtbhs
+2Kings 10:8 in vtrad vtsef
 w,_,y,·,a,v,o,<,α
 SPACE
 h,_,m,·,_,l,:,α,a,k.,:,(p)
@@ -8024,7 +8151,7 @@ h,_,$,·sh,·,_,(ti),ʕ,_,r
 SPACE
 ʕ,_,d,-,h,_,v,·,o,𝓂,q,∵,r,.
 
-2Kings 10:9 in vtrad vtbhs
+2Kings 10:9 in vtrad vtsef
 w,_,y,:,h,i,<,y
 SPACE
 v,_,v,·,o,(p),q,∵,r,(p)
@@ -8057,7 +8184,7 @@ h,i,k,·,a,(ti),h
 SPACE
 α,∵,τ,-,k,·,oa,l,-,α,‥,𝓂,l,·,∵,h,.
 
-2Kings 10:10 in vtrad vtbhs
+2Kings 10:10 in vtrad vtsef
 d,·,:,ʕ,⅃,w,·
 SPACE
 α,‥,f,◆,w,o,α
@@ -8098,7 +8225,7 @@ SPACE
 SPACE
 α,‥,l,i,y,·,a,𝓂,h,w,·,.
 
-2Kings 10:11 in vtrad vtbhs
+2Kings 10:11 in vtrad vtsef
 w,_,y,·,_,⅃,k.,:
 SPACE
 y,‥,h,◆,w,·,α
@@ -8123,7 +8250,7 @@ h,i,$,·sh,:,α,i,𝓂,y,r,-,l,(ti),w,o
 SPACE
 $,·si,a,r,i,𝓂,y,d,.
 
-2Kings 10:12 in vtrad vtbhs
+2Kings 10:12 in vtrad vtsef
 w,_,y,·,a,(p),q,oa,m.,(p)
 SPACE
 w,_,y,·,a,v,o,ƶ,α
@@ -8140,7 +8267,7 @@ h,a,r,o,ʕ,i,(ti),y,m.
 SPACE
 v,·,_,d,·,a,𝓂,r,∵,k.,:,.
 
-2Kings 10:13 in vtrad vtbhs
+2Kings 10:13 in vtrad vtsef
 w,:,y,‥,h,◆,w,·,α
 SPACE
 m,a,ц,a,α,(p)
@@ -8175,7 +8302,7 @@ w,·,v,:,n,‥,(me),y
 SPACE
 h,_,g,·,:,v,i,y,r,a,𝓂,h,.
 
-2Kings 10:14 in vtrad vtbhs
+2Kings 10:14 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
 SPACE
 τ,·,i,f,:,$,·si,⅃,w,·,m.
@@ -8204,7 +8331,7 @@ SPACE
 SPACE
 m,‥,h,∵,𝓂,m.,.
 
-2Kings 10:15 in vtrad vtbhs
+2Kings 10:15 in vtrad vtsef
 w,_,y,·,‥,⅃,l,∵,k.,:
 SPACE
 m,i,$,·sh,·,a,μ,m.
@@ -8257,7 +8384,7 @@ SPACE
 SPACE
 α,∵,l,-,h,_,m,·,∵,r,:,k,·,a,v,a,𝓂,h,.
 
-2Kings 10:16 in vtrad vtbhs
+2Kings 10:16 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
 SPACE
 l,:,k,a,⅃,h
@@ -8276,7 +8403,7 @@ SPACE
 SPACE
 v,·,:,r,i,k,:,v,·,𝓂,w,o,.
 
-2Kings 10:17 in vtrad vtbhs
+2Kings 10:17 in vtrad vtsef
 w,_,y,·,a,v,o,α,(p)
 SPACE
 $,·sh,o,m,:,r,ƶ,w,o,n.
@@ -8301,7 +8428,7 @@ d,·,i,v,·,∵,(ti),r
 SPACE
 α,∵,l,-,α,‥,l,i,y,·,a,𝓂,h,w,·,.
 
-2Kings 10:18 in vtrad vtbhs
+2Kings 10:18 in vtrad vtsef
 w,_,y,·,i,q,:,v,·,o,<,ц.
 SPACE
 y,‥,h,w,·,α,(p)
@@ -8326,7 +8453,7 @@ y,_,ʕ,_,v,:,d,∵,(me),n,·,w,·
 SPACE
 h,_,r,:,v,·,‥,𝓂,h,.
 
-2Kings 10:19 in vtrad vtbhs
+2Kings 10:19 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,⅃,h
 SPACE
 k,oa,l,-,n,:,v,i,y,α,‥,⅃,y
@@ -8377,7 +8504,7 @@ SPACE
 SPACE
 h,_,v,·,a,𝓂,ʕ,_,l,.
 
-2Kings 10:20 in vtrad vtbhs
+2Kings 10:20 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 y,‥,h,◆,w,·,α
@@ -8390,7 +8517,7 @@ l,_,v,·,_,(ti),ʕ,_,l
 SPACE
 w,_,y,·,i,q,:,r,a,𝓂,α,w,·,.
 
-2Kings 10:21 in vtrad vtbhs
+2Kings 10:21 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,<,x
 SPACE
 y,‥,h,w,·,α,(p)
@@ -8425,7 +8552,7 @@ f,·,∵,(me),h
 SPACE
 l,a,f,∵,𝓂,h,.
 
-2Kings 10:22 in vtrad vtbhs
+2Kings 10:22 in vtrad vtsef
 w,_,y,·,o,◆,α,m,∵,r
 SPACE
 l,_,𝓂,α,:_,$,·sh,∵,r,(p)
@@ -8448,7 +8575,7 @@ l,a,h,∵,(ti),m.
 SPACE
 h,_,m,·,_,l,:,v,·,𝓂,w,·,$,·sh,.
 
-2Kings 10:23 in vtrad vtbhs
+2Kings 10:23 in vtrad vtsef
 w,_,y,·,a,v,o,(me),α
 SPACE
 y,‥,h,⟓,w,·,α
@@ -8487,7 +8614,7 @@ h,_,v,·,_,(ti),ʕ,_,l
 SPACE
 l,:,v,_,d,·,a,𝓂,m.,.
 
-2Kings 10:24 in vtrad vtbhs
+2Kings 10:24 in vtrad vtsef
 w,_,y,·,a,v,o,Ƶ,α,w,·
 SPACE
 l,_,ʕ,:_,$,·si,(ti),w,o,τ
@@ -8528,10 +8655,14 @@ SPACE
 SPACE
 n,_,f,:,$,·sh,𝓂,w,o,.
 
-2Kings 10:25 in vtrad vtbhs
+2Kings 10:25 in vtrad vtsef
 w,_,y,:,h,i,(G),y
 SPACE
 k,·,:,k,_,l,·,o,τ,⅃,w,o
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 l,_,ʕ,:_,$,·si,⅃,w,o,τ
 SPACE
@@ -8569,7 +8700,7 @@ SPACE
 SPACE
 v,·,‥,y,τ,-,h,_,v,·,a,𝓂,ʕ,_,l,.
 
-2Kings 10:26 in vtrad vtbhs
+2Kings 10:26 in vtrad vtsef
 w,_,y,·,o,ц,i,⟓,α,w,·
 SPACE
 α,∵,τ,-,m,_,ц,·,:,v,(me),w,o,τ
@@ -8578,7 +8709,7 @@ v,·,‥,y,τ,-,h,_,v,·,_,(ti),ʕ,_,l
 SPACE
 w,_,𝓂,y,·,i,$,·si,:,r,:,f,𝓂,w,·,h,a,.
 
-2Kings 10:27 in vtrad vtbhs
+2Kings 10:27 in vtrad vtsef
 w,_,𝓂,y,·,i,τ,·,:,ц,ƶ,w,·
 SPACE
 α,‥,(ti),τ
@@ -8598,7 +8729,7 @@ SPACE
 SPACE
 ʕ,_,d,-,h,_,y,·,𝓂,w,o,m.,.
 
-2Kings 10:28 in vtrad vtbhs
+2Kings 10:28 in vtrad vtsef
 w,_,y,·,_,$,·sh,:,m,‥,(me),d
 SPACE
 y,‥,h,⟓,w,·,α
@@ -8607,7 +8738,7 @@ SPACE
 SPACE
 m,i,y,·,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 10:29 in vtrad vtbhs
+2Kings 10:29 in vtrad vtsef
 r,_,⌕,q
 SPACE
 x,:_,θ,a,α,‥,(G),y
@@ -8640,7 +8771,7 @@ w,_,α,:_,$,·sh,∵,(me),r
 SPACE
 v,·,:,d,a,𝓂,n.,.
 
-2Kings 10:30 in vtrad vtbhs
+2Kings 10:30 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 y,:,h,o,w,a,(ge),h
@@ -8681,7 +8812,7 @@ SPACE
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 10:31 in vtrad vtbhs
+2Kings 10:31 in vtrad vtsef
 w,:,y,‥,h,◆,w,·,α
 SPACE
 l,o,(me),α
@@ -8712,7 +8843,7 @@ h,∵,x,:∵,θ,i,(ti),y,α
 SPACE
 α,∵,τ,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 10:32 in vtrad vtbhs
+2Kings 10:32 in vtrad vtsef
 v,·,_,y,·,a,m,i,⅃,y,m.
 SPACE
 h,a,h,‥,ƶ,m.
@@ -8733,7 +8864,7 @@ v,·,:,k,oa,l,-,g,·,:,v,(me),w,·,l
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 10:33 in vtrad vtbhs
+2Kings 10:33 in vtrad vtsef
 m,i,n.,-,h,_,y,·,_,r,:,d,·,‥,n.,(p)
 SPACE
 m,i,z,:,r,_,⅃,x
@@ -8762,7 +8893,7 @@ w,:,h,_,g,·,i,l,:,ʕ,a,(ti),d
 SPACE
 w,:,h,_,v,·,a,$,·sh,a,𝓂,n.,.
 
-2Kings 10:34 in vtrad vtbhs
+2Kings 10:34 in vtrad vtsef
 w,:,y,∵,(qa),τ,∵,r
 SPACE
 d,·,i,v,:,r,‥,(me),y
@@ -8789,7 +8920,7 @@ l,:,m,_,l,:,k,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 10:35 in vtrad vtbhs
+2Kings 10:35 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,<,v
 SPACE
 y,‥,h,w,·,α,(p)
@@ -8810,7 +8941,7 @@ v,·,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Kings 10:36 in vtrad vtbhs
+2Kings 10:36 in vtrad vtsef
 w,:,h,_,y,·,a,m,i,◆,y,m.
 SPACE
 α,:_,$,·sh,∵,(qa),r
@@ -8827,7 +8958,7 @@ $,·sh,a,n,a,(ti),h
 SPACE
 v,·,:,$,·sh,o,m,:,r,𝓂,w,o,n.,.
 
-2Kings 11:1 in vtrad vtbhs
+2Kings 11:1 in vtrad vtsef
 w,_,𝓂,ʕ,:_,τ,_,l,:,y,a,h,(p)
 SPACE
 α,‥,⅃,m.
@@ -8851,7 +8982,7 @@ k,·,oa,l,-,z,∵,(me),r,_,ʕ
 SPACE
 h,_,m,·,_,m,:,l,a,k,a,𝓂,h,.
 
-2Kings 11:2 in vtrad vtbhs
+2Kings 11:2 in vtrad vtsef
 w,_,τ,·,i,q,·,_,⅃,x
 SPACE
 y,:,h,w,o,$,·sh,∵,⅃,v,_,ʕ
@@ -8895,7 +9026,7 @@ w,:,l,o,(me),α
 SPACE
 h,w,·,m,a,𝓂,τ,.
 
-2Kings 11:3 in vtrad vtbhs
+2Kings 11:3 in vtrad vtsef
 w,_,y,:,h,i,<,y
 SPACE
 α,i,τ,·,a,h,·,(p)
@@ -8916,7 +9047,7 @@ m,o,l,∵,(me),k,∵,τ
 SPACE
 ʕ,_,l,-,h,a,α,a,𝓂,r,∵,ц.,.
 
-2Kings 11:4 in vtrad vtbhs
+2Kings 11:4 in vtrad vtsef
 w,·,v,_,$,·sh,·,a,n,a,⅃,h
 SPACE
 h,_,⌕,$,·sh,·,:,v,i,y,ʕ,i,⌕,y,τ
@@ -8926,6 +9057,10 @@ SPACE
 y,:,h,w,o,y,a,d,a,(ge),ʕ
 SPACE
 w,_,y,·,i,q,·,_,⅃,x
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,∵,τ,-,$,·si,a,r,‥,⅃,y
 SPACE
@@ -8964,7 +9099,7 @@ SPACE
 SPACE
 α,∵,τ,-,v,·,∵,n.,-,h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-2Kings 11:5 in vtrad vtbhs
+2Kings 11:5 in vtrad vtsef
 w,_,y,:,ц,_,w,·,‥,⅃,m.
 SPACE
 l,‥,α,m,o,ƶ,r
@@ -8993,7 +9128,7 @@ v,·,‥,(me),y,τ
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-2Kings 11:6 in vtrad vtbhs
+2Kings 11:6 in vtrad vtsef
 w,:,h,_,$,·sh,·,:,l,i,$,·sh,i,y,τ,(p)
 SPACE
 v,·,:,$,·sh,_,⅃,ʕ,_,r
@@ -9016,7 +9151,7 @@ h,_,v,·,_,(ti),y,i,τ
 SPACE
 m,_,σ,·,a,𝓂,x,.
 
-2Kings 11:7 in vtrad vtbhs
+2Kings 11:7 in vtrad vtsef
 w,·,$,·sh,:,τ,·,‥,<,y
 SPACE
 h,_,y,·,a,d,w,o,τ,(p)
@@ -9037,7 +9172,7 @@ v,·,‥,y,τ,-,y,:,h,o,w,a,(ti),h
 SPACE
 α,∵,l,-,h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-2Kings 11:8 in vtrad vtbhs
+2Kings 11:8 in vtrad vtsef
 w,:,h,i,q,·,_,f,:,τ,·,∵,(qa),m.
 SPACE
 ʕ,_,l,-,h,_,m,·,∵,(ge),l,∵,k.,:
@@ -9064,7 +9199,7 @@ v,·,:,ц,‥,α,τ,(me),w,o
 SPACE
 w,·,v,:,v,o,α,𝓂,w,o,.
 
-2Kings 11:9 in vtrad vtbhs
+2Kings 11:9 in vtrad vtsef
 w,_,𝓂,y,·,_,ʕ,:_,$,·si,(G),w,·
 SPACE
 $,·si,a,r,‥,⅃,y
@@ -9100,7 +9235,7 @@ SPACE
 SPACE
 h,_,k,·,o,h,‥,𝓂,n.,.
 
-2Kings 11:10 in vtrad vtbhs
+2Kings 11:10 in vtrad vtsef
 w,_,y,·,i,τ,·,‥,(qa),n.
 SPACE
 h,_,k,·,o,h,‥,(ge),n.
@@ -9124,12 +9259,16 @@ v,·,:,v,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Kings 11:11 in vtrad vtbhs
+2Kings 11:11 in vtrad vtsef
 w,_,y,·,_,ʕ,_,m,:,d,(qa),w,·
 SPACE
 h,a,r,a,ц,i,(ge),y,m.
 SPACE
 α,i,⅃,y,$,·sh
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 w,:,k,‥,l,a,⅃,y,w
 SPACE
@@ -9155,7 +9294,7 @@ SPACE
 SPACE
 σ,a,v,i,𝓂,y,v,.
 
-2Kings 11:12 in vtrad vtbhs
+2Kings 11:12 in vtrad vtsef
 w,_,y,·,w,o,ц,i,⅃,α
 SPACE
 α,∵,τ,-,v,·,∵,n.,-,h,_,m,·,∵,◆,l,∵,k.,:
@@ -9182,7 +9321,7 @@ y,:,x,i,(me),y
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-2Kings 11:13 in vtrad vtbhs
+2Kings 11:13 in vtrad vtsef
 w,_,τ,·,i,$,·sh,:,m,_,⅃,ʕ
 SPACE
 ʕ,:_,τ,_,l,:,y,a,ƶ,h
@@ -9201,7 +9340,7 @@ v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Kings 11:14 in vtrad vtbhs
+2Kings 11:14 in vtrad vtsef
 w,_,τ,·,‥,μ,r,∵,α
 SPACE
 w,:,h,i,n,·,‥,⅃,h
@@ -9242,7 +9381,7 @@ q,∵,(me),$,·sh,∵,r
 SPACE
 q,a,𝓂,$,·sh,∵,r,.
 
-2Kings 11:15 in vtrad vtbhs
+2Kings 11:15 in vtrad vtsef
 w,_,y,:,ц,_,w,(tq)
 SPACE
 y,:,h,w,o,y,a,d,a,(qa),ʕ
@@ -9288,7 +9427,7 @@ v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Kings 11:16 in vtrad vtbhs
+2Kings 11:16 in vtrad vtsef
 w,_,y,·,a,$,·si,i,<,m,w,·
 SPACE
 l,a,h,·,(p)
@@ -9309,7 +9448,7 @@ w,_,τ,·,w,·,m,_,(ti),τ
 SPACE
 $,·sh,a,𝓂,m.,.
 
-2Kings 11:17 in vtrad vtbhs
+2Kings 11:17 in vtrad vtsef
 w,_,y,·,i,k,:,r,o,(qa),τ
 SPACE
 y,:,h,𝓂,w,o,y,a,d,a,(ge),ʕ
@@ -9342,7 +9481,7 @@ w,·,v,‥,(me),y,n.
 SPACE
 h,a,ʕ,a,𝓂,m.,.
 
-2Kings 11:18 in vtrad vtbhs
+2Kings 11:18 in vtrad vtsef
 w,_,y,·,a,v,o,⅃,α,w,·
 SPACE
 k,oa,l,-,ʕ,_,m.,(tq)
@@ -9385,7 +9524,7 @@ SPACE
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Kings 11:19 in vtrad vtbhs
+2Kings 11:19 in vtrad vtsef
 w,_,y,·,i,q,·,_,⅃,x
 SPACE
 α,∵,τ,-,$,·si,a,r,‥,⅃,y
@@ -9397,6 +9536,10 @@ SPACE
 w,:,α,∵,τ,-,h,a,𝓂,r,a,ц,i,(ge),y,m.
 SPACE
 w,:,α,‥,⅃,τ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 k,·,oa,l,-,ʕ,_,⅃,m.
 SPACE
@@ -9426,7 +9569,7 @@ SPACE
 SPACE
 h,_,m,·,:,l,a,k,i,𝓂,y,m.,.
 
-2Kings 11:20 in vtrad vtbhs
+2Kings 11:20 in vtrad vtsef
 w,_,y,·,i,$,·si,:,m,_,(me),x
 SPACE
 k,·,oa,l,-,ʕ,_,m.,-,h,a,α,a,(ti),r,∵,ц.
@@ -9445,7 +9588,7 @@ v,·,‥,(me),y,τ
 SPACE
 .
 
-2Kings 12:1 in vtrad vtbhs
+2Kings 12:1 in vtrad vtsef
 v,·,∵,n.,-,$,·sh,∵,(me),v,_,ʕ
 SPACE
 $,·sh,a,n,i,(ti),y,m.
@@ -9454,7 +9597,7 @@ y,:,h,w,o,α,a,(me),$,·sh
 SPACE
 v,·,:,m,oa,l,:,k,𝓂,w,o,.
 
-2Kings 12:2 in vtrad vtbhs
+2Kings 12:2 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,τ,-,$,·sh,∵,<,v,_,ʕ
 SPACE
 l,:,y,‥,h,w,·,α,(p)
@@ -9481,7 +9624,7 @@ m,i,v,·,:,α,‥,(me),r
 SPACE
 $,·sh,a,𝓂,v,_,ʕ,.
 
-2Kings 12:3 in vtrad vtbhs
+2Kings 12:3 in vtrad vtsef
 w,_,y,·,_,(qa),ʕ,_,$,·si
 SPACE
 y,:,h,w,o,α,a,(da),$,·sh
@@ -9502,7 +9645,7 @@ y,:,h,w,o,y,a,d,a,(ti),ʕ
 SPACE
 h,_,k,·,o,h,‥,𝓂,n.,.
 
-2Kings 12:4 in vtrad vtbhs
+2Kings 12:4 in vtrad vtsef
 r,_,(me),q
 SPACE
 h,_,v,·,a,m,(ti),w,o,τ
@@ -9519,7 +9662,7 @@ w,·,𝓂,m,:,q,_,θ,·,:,r,i,(ti),y,m.
 SPACE
 v,·,_,v,·,a,m,𝓂,w,o,τ,.
 
-2Kings 12:5 in vtrad vtbhs
+2Kings 12:5 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 y,:,h,w,o,α,a,(ge),$,·sh
@@ -9564,7 +9707,7 @@ v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Kings 12:6 in vtrad vtbhs
+2Kings 12:6 in vtrad vtsef
 y,i,q,:,x,<,w,·
 SPACE
 l,a,h,∵,m.,(p)
@@ -9593,7 +9736,7 @@ $,·sh,a,(ti),m.
 SPACE
 v,·,a,𝓂,d,∵,q,.
 
-2Kings 12:7 in vtrad vtbhs
+2Kings 12:7 in vtrad vtsef
 w,_,y,:,h,i,◆,y
 SPACE
 v,·,i,$,·sh,:,n,_,(qa),τ
@@ -9616,7 +9759,7 @@ SPACE
 SPACE
 h,_,v,·,a,𝓂,y,i,τ,.
 
-2Kings 12:8 in vtrad vtbhs
+2Kings 12:8 in vtrad vtsef
 w,_,y,·,i,q,:,r,a,α,(tq)
 SPACE
 h,_,m,·,∵,(qa),l,∵,k.,:
@@ -9657,7 +9800,7 @@ h,_,v,·,_,(ti),y,i,τ
 SPACE
 τ,·,i,τ,·,:,n,u,𝓂,h,w,·,.
 
-2Kings 12:9 in vtrad vtbhs
+2Kings 12:9 in vtrad vtsef
 w,_,y,·,‥,α,o,(ti),τ,w,·
 SPACE
 h,_,k,·,o,h,:_,n,i,⅄,y,m.
@@ -9678,7 +9821,7 @@ SPACE
 SPACE
 h,_,v,·,a,𝓂,y,i,τ,.
 
-2Kings 12:10 in vtrad vtbhs
+2Kings 12:10 in vtrad vtsef
 w,_,y,·,i,q,·,_,(G),x
 SPACE
 y,:,h,w,o,y,a,d,a,<,ʕ
@@ -9724,7 +9867,7 @@ h,_,m,·,w,·,v,a,(me),α
 SPACE
 v,‥,y,τ,-,y,:,h,o,w,a,𝓂,h,.
 
-2Kings 12:11 in vtrad vtbhs
+2Kings 12:11 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 k,·,i,r,:,α,w,o,τ,a,ƶ,m.
@@ -9755,7 +9898,7 @@ h,_,n,·,i,m,:,ц,a,(me),α
 SPACE
 v,‥,y,τ,-,y,:,h,o,w,a,𝓂,h,.
 
-2Kings 12:12 in vtrad vtbhs
+2Kings 12:12 in vtrad vtsef
 w,:,n,a,𝓂,τ,:,n,w,·,(p)
 SPACE
 α,∵,τ,-,h,_,k,·,∵,⅃,σ,∵,f.
@@ -9787,7 +9930,7 @@ v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Kings 12:13 in vtrad vtbhs
+2Kings 12:13 in vtrad vtsef
 w,:,l,_,g,·,o,𝓂,d,:,r,i,y,m.,(p)
 SPACE
 w,·,l,:,x,o,ц,:,v,‥,⅃,y
@@ -9816,7 +9959,7 @@ SPACE
 SPACE
 l,:,x,oa,z,:,q,a,𝓂,h,.
 
-2Kings 12:14 in vtrad vtbhs
+2Kings 12:14 in vtrad vtsef
 α,_,k.,:,(tq)
 SPACE
 l,o,(qa),α
@@ -9849,7 +9992,7 @@ h,_,m,·,w,·,v,a,(me),α
 SPACE
 v,‥,y,τ,-,y,:,h,o,w,a,𝓂,h,.
 
-2Kings 12:15 in vtrad vtbhs
+2Kings 12:15 in vtrad vtsef
 k,·,i,𝓂,y,-,l,:,ʕ,o,$,·si,‥,(me),y
 SPACE
 h,_,m,·,:,l,a,α,k,a,(ti),h
@@ -9862,7 +10005,7 @@ SPACE
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Kings 12:16 in vtrad vtbhs
+2Kings 12:16 in vtrad vtsef
 w,:,l,o,(da),α
 SPACE
 y,:,x,_,$,·sh,·,:,v,⅃,w,·
@@ -9891,7 +10034,7 @@ h,‥,(me),m.
 SPACE
 ʕ,o,$,·si,i,𝓂,y,m.,.
 
-2Kings 12:17 in vtrad vtbhs
+2Kings 12:17 in vtrad vtsef
 k,·,∵,<,σ,∵,f.
 SPACE
 α,a,$,·sh,a,m.,(p)
@@ -9912,7 +10055,7 @@ l,_,k,·,o,h,:_,n,i,(ti),y,m.
 SPACE
 y,i,𝓂,h,:,y,𝓂,w,·,.
 
-2Kings 12:18 in vtrad vtbhs
+2Kings 12:18 in vtrad vtsef
 α,a,⅃,z
 SPACE
 y,_,ʕ,:_,l,∵,◆,h
@@ -9939,7 +10082,7 @@ l,_,ʕ,:_,l,(ti),w,o,τ
 SPACE
 ʕ,_,l,-,y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Kings 12:19 in vtrad vtbhs
+2Kings 12:19 in vtrad vtsef
 w,_,y,·,i,q,·,_,(G),x
 SPACE
 y,:,h,w,o,α,a,⅃,$,·sh
@@ -9994,7 +10137,7 @@ m,‥,ʕ,_,(me),l
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Kings 12:20 in vtrad vtbhs
+2Kings 12:20 in vtrad vtsef
 w,:,y,∵,⟓,τ,∵,r
 SPACE
 d,·,i,v,:,r,‥,(me),y
@@ -10019,7 +10162,7 @@ l,:,m,_,l,:,k,‥,(me),y
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Kings 12:21 in vtrad vtbhs
+2Kings 12:21 in vtrad vtsef
 w,_,y,·,a,q,u,(me),m,w,·
 SPACE
 ʕ,:_,v,a,d,a,(ti),y,w
@@ -10038,7 +10181,7 @@ h,_,y,·,o,r,‥,(me),d
 SPACE
 σ,i,l,·,a,𝓂,α,.
 
-2Kings 12:22 in vtrad vtbhs
+2Kings 12:22 in vtrad vtsef
 w,:,y,w,o,z,a,k,a,⅃,r
 SPACE
 v,·,∵,n.,-,$,·sh,i,⌕,m,:,ʕ,a,⌕,τ
@@ -10046,6 +10189,11 @@ SPACE
 w,i,y,h,w,o,z,a,v,a,(qa),d
 SPACE
 v,·,∵,n.,-,$,·sh,o,m,‥,<,r
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 ʕ,:_,v,a,d,a,y,w,(p)
 SPACE
 h,i,k,·,u,⅃,h,w,·
@@ -10070,7 +10218,7 @@ v,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Kings 13:1 in vtrad vtbhs
+2Kings 13:1 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,(qa),τ
 SPACE
 ʕ,∵,$,·si,:,r,i,<,y,m.
@@ -10103,7 +10251,7 @@ SPACE
 SPACE
 $,·sh,a,n,a,𝓂,h,.
 
-2Kings 13:2 in vtrad vtbhs
+2Kings 13:2 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 h,a,r,_,(ti),ʕ
@@ -10130,7 +10278,7 @@ l,o,α,-,σ,a,(me),r
 SPACE
 m,i,m,·,∵,𝓂,n,·,a,h,.
 
-2Kings 13:3 in vtrad vtbhs
+2Kings 13:3 in vtrad vtsef
 w,_,y,·,i,𝓂,x,_,r,-,α,_,(me),f.
 SPACE
 y,:,h,o,w,a,(ti),h
@@ -10140,6 +10288,10 @@ SPACE
 w,_,𝓂,y,·,i,τ,·,:,n,‥,(G),m.
 SPACE
 v,·,:,y,_,⅃,d
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 x,:_,z,a,α,‥,⅃,l
 SPACE
@@ -10153,7 +10305,7 @@ v,·,∵,n.,-,x,:_,z,a,α,‥,(ti),l
 SPACE
 k,·,oa,l,-,h,_,y,·,a,m,i,𝓂,y,m.,.
 
-2Kings 13:4 in vtrad vtbhs
+2Kings 13:4 in vtrad vtsef
 w,_,y,:,x,_,(me),l
 SPACE
 y,:,h,w,o,α,a,x,a,(ti),z
@@ -10184,7 +10336,7 @@ m,∵,(me),l,∵,k.,:
 SPACE
 α,:_,r,a,𝓂,m.,.
 
-2Kings 13:5 in vtrad vtbhs
+2Kings 13:5 in vtrad vtsef
 w,_,y,·,i,τ,·,‥,(qa),n.
 SPACE
 y,:,h,o,w,a,<,h
@@ -10209,7 +10361,7 @@ k,·,i,τ,:,m,(me),w,o,l
 SPACE
 $,·sh,i,l,:,$,·sh,𝓂,w,o,m.,.
 
-2Kings 13:6 in vtrad vtbhs
+2Kings 13:6 in vtrad vtsef
 α,_,⌕,k.,:
 SPACE
 l,o,α,-,σ,a,(ge),r,w,·
@@ -10234,7 +10386,7 @@ SPACE
 SPACE
 v,·,:,$,·sh,o,m,:,r,𝓂,w,o,n.,.
 
-2Kings 13:7 in vtrad vtbhs
+2Kings 13:7 in vtrad vtsef
 k,·,i,⅃,y
 SPACE
 l,o,α,(tq)
@@ -10275,7 +10427,7 @@ k,·,∵,ʕ,a,f,a,(ti),r
 SPACE
 l,a,d,u,𝓂,$,·sh,.
 
-2Kings 13:8 in vtrad vtbhs
+2Kings 13:8 in vtrad vtsef
 w,:,y,∵,(qa),τ,∵,r
 SPACE
 d,·,i,v,:,r,‥,(da),y
@@ -10302,7 +10454,7 @@ l,:,m,_,l,:,k,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 13:9 in vtrad vtbhs
+2Kings 13:9 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,<,v
 SPACE
 y,:,h,w,o,α,a,x,a,z,(p)
@@ -10321,7 +10473,7 @@ v,·,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Kings 13:10 in vtrad vtbhs
+2Kings 13:10 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,(qa),τ
 SPACE
 $,·sh,:,l,o,$,·sh,i,<,y,m.
@@ -10352,7 +10504,7 @@ SPACE
 SPACE
 $,·sh,a,n,a,𝓂,h,.
 
-2Kings 13:11 in vtrad vtbhs
+2Kings 13:11 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,$,·si,∵,(me),h
 SPACE
 h,a,r,_,(ti),ʕ
@@ -10379,7 +10531,7 @@ v,·,a,(me),h,·
 SPACE
 h,a,l,a,𝓂,k.,:,.
 
-2Kings 13:12 in vtrad vtbhs
+2Kings 13:12 in vtrad vtsef
 w,:,y,∵,(qa),τ,∵,r
 SPACE
 d,·,i,v,:,r,‥,<,y
@@ -10416,7 +10568,7 @@ l,:,m,_,l,:,k,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 13:13 in vtrad vtbhs
+2Kings 13:13 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,<,v
 SPACE
 y,w,o,α,a,$,·sh,(p)
@@ -10441,7 +10593,7 @@ m,_,l,:,k,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 13:14 in vtrad vtbhs
+2Kings 13:14 in vtrad vtsef
 w,∵,𝓂,α,:∵,l,i,y,$,·sh,a,ʕ,(p)
 SPACE
 x,a,l,a,⅃,h
@@ -10469,6 +10621,11 @@ SPACE
 w,_,y,·,o,α,m,_,ƶ,r
 SPACE
 α,a,v,i,⅃,y
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 α,a,v,i,ƶ,y
 SPACE
 r,∵,(me),k,∵,v
@@ -10477,7 +10634,7 @@ y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 w,·,f,a,r,a,$,·sh,a,𝓂,y,w,.
 
-2Kings 13:15 in vtrad vtbhs
+2Kings 13:15 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 l,w,o,(p)
@@ -10498,8 +10655,12 @@ q,∵,(me),$,·sh,∵,τ
 SPACE
 w,:,x,i,ц,·,i,𝓂,y,m.,.
 
-2Kings 13:16 in vtrad vtbhs
+2Kings 13:16 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 l,:,m,∵,⅃,l,∵,k.,:
 SPACE
@@ -10525,7 +10686,7 @@ SPACE
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-2Kings 13:17 in vtrad vtbhs
+2Kings 13:17 in vtrad vtsef
 w,_,y,·,o,◆,α,m,∵,r
 SPACE
 f,·,:,τ,_,(da),x
@@ -10564,7 +10725,7 @@ v,·,_,α,:_,f,‥,(ti),q
 SPACE
 ʕ,_,d,-,k,·,_,l,·,‥,𝓂,h,.
 
-2Kings 13:18 in vtrad vtbhs
+2Kings 13:18 in vtrad vtsef
 w,_,y,·,o,⟓,α,m,∵,r
 SPACE
 q,_,(me),x
@@ -10585,7 +10746,7 @@ $,·sh,a,l,o,$,·sh,-,f,·,:,ʕ,a,m,i,(ti),y,m.
 SPACE
 w,_,𝓂,y,·,_,ʕ,:_,m,o,𝓂,d,.
 
-2Kings 13:19 in vtrad vtbhs
+2Kings 13:19 in vtrad vtsef
 w,_,y,·,i,q,:,ц,o,(qa),f.
 SPACE
 ʕ,a,l,a,(ge),y,w
@@ -10622,7 +10783,7 @@ SPACE
 SPACE
 α,∵,τ,-,α,:_,r,a,𝓂,m.,.
 
-2Kings 13:20 in vtrad vtbhs
+2Kings 13:20 in vtrad vtsef
 w,_,y,·,a,(me),m,oa,τ
 SPACE
 α,:∵,l,i,y,$,·sh,a,(ti),ʕ
@@ -10641,10 +10802,14 @@ v,·,a,(me),α
 SPACE
 $,·sh,a,n,a,𝓂,h,.
 
-2Kings 13:21 in vtrad vtbhs
+2Kings 13:21 in vtrad vtsef
 w,_,y,:,h,i,(G),y
 SPACE
 h,‥,⅃,m.
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 q,o,v,:,r,i,⅃,y,m.
 SPACE
@@ -10680,7 +10845,7 @@ w,_,y,·,a,(me),q,oa,m.
 SPACE
 ʕ,_,l,-,r,_,g,:,l,a,𝓂,y,w,.
 
-2Kings 13:22 in vtrad vtbhs
+2Kings 13:22 in vtrad vtsef
 w,_,𝓂,x,:_,z,a,α,‥,l,(p)
 SPACE
 m,∵,⅃,l,∵,k.,:
@@ -10697,7 +10862,7 @@ y,:,m,‥,(me),y
 SPACE
 y,:,h,w,o,α,a,x,a,𝓂,z,.
 
-2Kings 13:23 in vtrad vtbhs
+2Kings 13:23 in vtrad vtsef
 w,_,y,·,a,(tq),x,oa,n.,(tq)
 SPACE
 y,:,h,o,w,a,(qa),h
@@ -10732,7 +10897,7 @@ m,‥,ʕ,_,l,-,f,·,a,n,a,(ti),y,w
 SPACE
 ʕ,_,d,-,ʕ,a,𝓂,τ,·,a,h,.
 
-2Kings 13:24 in vtrad vtbhs
+2Kings 13:24 in vtrad vtsef
 w,_,y,·,a,(ti),m,oa,τ
 SPACE
 x,:_,z,a,α,‥,⅃,l
@@ -10747,7 +10912,7 @@ v,·,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Kings 13:25 in vtrad vtbhs
+2Kings 13:25 in vtrad vtsef
 w,_,y,·,a,(ge),$,·sh,oa,v
 SPACE
 y,:,h,w,o,α,a,⅃,$,·sh
@@ -10790,7 +10955,7 @@ SPACE
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 14:1 in vtrad vtbhs
+2Kings 14:1 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,⅃,τ
 SPACE
 $,·sh,:,τ,·,_,ƶ,y,i,m.
@@ -10813,7 +10978,7 @@ m,∵,(me),l,∵,k.,:
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Kings 14:2 in vtrad vtbhs
+2Kings 14:2 in vtrad vtsef
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,(qa),y,m.
 SPACE
 w,:,x,a,m,‥,<,$,·sh
@@ -10841,7 +11006,7 @@ SPACE
 SPACE
 m,i,n.,-,y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Kings 14:3 in vtrad vtbhs
+2Kings 14:3 in vtrad vtsef
 w,_,y,·,_,<,ʕ,_,$,·si
 SPACE
 h,_,y,·,a,$,·sh,a,r,(p)
@@ -10868,7 +11033,7 @@ SPACE
 SPACE
 ʕ,a,$,·si,a,𝓂,h,.
 
-2Kings 14:4 in vtrad vtbhs
+2Kings 14:4 in vtrad vtsef
 r,_,(me),q
 SPACE
 h,_,v,·,a,m,(ti),w,o,τ
@@ -10885,7 +11050,7 @@ w,·,𝓂,m,:,q,_,θ,·,:,r,i,(ti),y,m.
 SPACE
 v,·,_,v,·,a,m,𝓂,w,o,τ,.
 
-2Kings 14:5 in vtrad vtbhs
+2Kings 14:5 in vtrad vtsef
 w,_,y,:,h,i,Ƶ,y
 SPACE
 k,·,_,𝓂,α,:_,$,·sh,∵,⟓,r
@@ -10906,7 +11071,7 @@ SPACE
 SPACE
 α,a,v,i,𝓂,y,w,.
 
-2Kings 14:6 in vtrad vtbhs
+2Kings 14:6 in vtrad vtsef
 w,:,α,∵,τ,-,v,·,:,n,‥,(me),y
 SPACE
 h,_,m,·,_,k,·,i,(ti),y,m.
@@ -10945,7 +11110,7 @@ v,·,:,x,∵,θ,:,α,(ti),w,o
 SPACE
 .
 
-2Kings 14:7 in vtrad vtbhs
+2Kings 14:7 in vtrad vtsef
 h,w,·,α,-,h,i,k,·,a,(qa),h
 SPACE
 α,∵,τ,-,α,:∵,d,<,w,o,m.
@@ -10974,7 +11139,7 @@ h,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Kings 14:8 in vtrad vtbhs
+2Kings 14:8 in vtrad vtsef
 α,a,⅃,z
 SPACE
 $,·sh,a,l,_,<,x
@@ -11001,7 +11166,7 @@ n,i,τ,:,r,a,α,∵,(me),h
 SPACE
 f,a,n,i,𝓂,y,m.,.
 
-2Kings 14:9 in vtrad vtbhs
+2Kings 14:9 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,(G),x
 SPACE
 y,:,h,w,o,α,a,⅃,$,·sh
@@ -11050,7 +11215,7 @@ w,_,τ,·,i,r,:,m,o,(ti),σ
 SPACE
 α,∵,τ,-,h,_,x,𝓂,w,o,x,_,.
 
-2Kings 14:10 in vtrad vtbhs
+2Kings 14:10 in vtrad vtsef
 h,_,k,·,‥,<,h
 SPACE
 h,i,k,·,i,(p),y,τ,a,(p)
@@ -11081,7 +11246,7 @@ w,i,y,h,w,·,d,a,(me),h
 SPACE
 ʕ,i,m,·,a,𝓂,k.,:,.
 
-2Kings 14:11 in vtrad vtbhs
+2Kings 14:11 in vtrad vtsef
 w,:,l,o,α,-,$,·sh,a,m,_,⅃,ʕ
 SPACE
 α,:_,m,_,ц,:,y,a,ƶ,h,w,·
@@ -11110,7 +11275,7 @@ SPACE
 SPACE
 l,i,y,h,w,·,d,a,𝓂,h,.
 
-2Kings 14:12 in vtrad vtbhs
+2Kings 14:12 in vtrad vtsef
 w,_,y,·,i,n,·,a,(me),g,∵,f.
 SPACE
 y,:,h,w,·,d,a,(ti),h
@@ -11125,7 +11290,7 @@ SPACE
 SPACE
 .
 
-2Kings 14:13 in vtrad vtbhs
+2Kings 14:13 in vtrad vtsef
 w,:,α,‥,τ,(tq)
 SPACE
 α,:_,m,_,ц,:,y,a,(qa),h,w,·
@@ -11169,7 +11334,7 @@ m,‥,α,(ti),w,o,τ
 SPACE
 α,_,m,·,a,𝓂,h,.
 
-2Kings 14:14 in vtrad vtbhs
+2Kings 14:14 in vtrad vtsef
 w,:,l,a,q,_,⅃,x
 SPACE
 α,∵,τ,-,k,·,oa,l,-,h,_,z,·,a,𝓂,h,a,v,-,w,:,⌕,h,_,k,·,∵,⌕,σ,∵,f.
@@ -11198,7 +11363,7 @@ w,_,y,·,a,(ti),$,·sh,oa,v
 SPACE
 $,·sh,o,m,:,r,𝓂,w,o,n,a,h,.
 
-2Kings 14:15 in vtrad vtbhs
+2Kings 14:15 in vtrad vtsef
 w,:,y,∵,(tq),τ,∵,r,(tq)
 SPACE
 d,·,i,v,:,r,‥,(qa),y
@@ -11235,7 +11400,7 @@ l,:,m,_,l,:,k,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 14:16 in vtrad vtbhs
+2Kings 14:16 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,<,v
 SPACE
 y,:,h,w,o,α,a,$,·sh,(p)
@@ -11260,7 +11425,7 @@ v,·,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Kings 14:17 in vtrad vtbhs
+2Kings 14:17 in vtrad vtsef
 w,_,y,:,x,i,(qa),y
 SPACE
 α,:_,m,_,ц,:,y,a,<,h,w,·
@@ -11289,7 +11454,7 @@ SPACE
 SPACE
 $,·sh,a,n,a,𝓂,h,.
 
-2Kings 14:18 in vtrad vtbhs
+2Kings 14:18 in vtrad vtsef
 w,:,y,∵,(ti),τ,∵,r
 SPACE
 d,·,i,v,:,r,‥,⅃,y
@@ -11310,7 +11475,7 @@ l,:,m,_,l,:,k,‥,(me),y
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Kings 14:19 in vtrad vtbhs
+2Kings 14:19 in vtrad vtsef
 w,_,y,·,i,q,:,$,·sh,:,r,(qa),w,·
 SPACE
 ʕ,a,l,a,(me),y,w
@@ -11333,7 +11498,7 @@ w,_,y,:,m,i,τ,u,(ti),h,w,·
 SPACE
 $,·sh,a,𝓂,m.,.
 
-2Kings 14:20 in vtrad vtbhs
+2Kings 14:20 in vtrad vtsef
 w,_,y,·,i,$,·si,:,α,(me),w,·
 SPACE
 α,o,τ,(ti),w,o
@@ -11350,7 +11515,7 @@ v,·,:,ʕ,i,(me),y,r
 SPACE
 d,·,a,w,i,𝓂,d,.
 
-2Kings 14:21 in vtrad vtbhs
+2Kings 14:21 in vtrad vtsef
 w,_,y,·,i,q,:,x,(G),w,·
 SPACE
 k,·,oa,l,-,ʕ,_,<,m.
@@ -11377,7 +11542,7 @@ SPACE
 SPACE
 α,:_,m,_,ц,:,y,a,𝓂,h,w,·,.
 
-2Kings 14:22 in vtrad vtbhs
+2Kings 14:22 in vtrad vtsef
 h,(ye),w,·,α
 SPACE
 v,·,a,n,a,⅃,h
@@ -11394,7 +11559,7 @@ $,·sh,:,k,_,𝓂,v,-,h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
 ʕ,i,m.,-,α,:_,v,o,τ,a,𝓂,y,w,.
 
-2Kings 14:23 in vtrad vtbhs
+2Kings 14:23 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,τ,(p)
 SPACE
 x,:_,m,‥,$,·sh,-,ʕ,∵,$,·si,:,r,‥,⅃,h
@@ -11425,7 +11590,7 @@ w,:,α,_,x,_,(ti),τ
 SPACE
 $,·sh,a,n,a,𝓂,h,.
 
-2Kings 14:24 in vtrad vtbhs
+2Kings 14:24 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 h,a,r,_,(ti),ʕ
@@ -11450,7 +11615,7 @@ h,∵,x,:∵,θ,i,(ti),y,α
 SPACE
 α,∵,τ,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 14:25 in vtrad vtbhs
+2Kings 14:25 in vtrad vtsef
 h,◆,w,·,α
 SPACE
 h,‥,$,·sh,i,y,v,(p)
@@ -11493,7 +11658,7 @@ m,i,g,·,_,(me),τ
 SPACE
 h,_,x,‥,𝓂,f,∵,r,.
 
-2Kings 14:26 in vtrad vtbhs
+2Kings 14:26 in vtrad vtsef
 k,·,i,y,-,r,a,α,a,(da),h
 SPACE
 y,:,h,o,w,a,⟓,h
@@ -11520,7 +11685,7 @@ SPACE
 SPACE
 l,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 14:27 in vtrad vtbhs
+2Kings 14:27 in vtrad vtsef
 w,:,l,o,α,-,d,i,v,·,∵,⅃,r
 SPACE
 y,:,h,o,w,a,ƶ,h
@@ -11543,7 +11708,7 @@ y,a,r,oa,v,:,ʕ,a,(me),m.
 SPACE
 v,·,∵,n.,-,y,w,o,α,a,𝓂,$,·sh,.
 
-2Kings 14:28 in vtrad vtbhs
+2Kings 14:28 in vtrad vtsef
 w,:,y,∵,(tq),τ,∵,r,(tq)
 SPACE
 d,·,i,v,:,r,‥,(qa),y
@@ -11584,7 +11749,7 @@ l,:,m,_,l,:,k,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 14:29 in vtrad vtbhs
+2Kings 14:29 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,<,v
 SPACE
 y,a,𝓂,r,oa,v,:,ʕ,a,m.,(p)
@@ -11605,7 +11770,7 @@ v,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Kings 15:1 in vtrad vtbhs
+2Kings 15:1 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,(qa),τ
 SPACE
 ʕ,∵,$,·si,:,r,i,<,y,m.
@@ -11630,7 +11795,7 @@ m,∵,(me),l,∵,k.,:
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Kings 15:2 in vtrad vtbhs
+2Kings 15:2 in vtrad vtsef
 v,·,∵,n.,-,$,·sh,‥,(qa),$,·sh
 SPACE
 ʕ,∵,$,·si,:,r,‥,<,h
@@ -11659,7 +11824,7 @@ y,:,k,oa,l,:,y,a,(ti),h,w,·
 SPACE
 m,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Kings 15:3 in vtrad vtbhs
+2Kings 15:3 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 h,_,y,·,a,$,·sh,a,(ti),r
@@ -11676,7 +11841,7 @@ SPACE
 SPACE
 α,a,v,i,𝓂,y,w,.
 
-2Kings 15:4 in vtrad vtbhs
+2Kings 15:4 in vtrad vtsef
 r,_,(me),q
 SPACE
 h,_,v,·,a,m,(ti),w,o,τ
@@ -11693,7 +11858,7 @@ w,·,𝓂,m,:,q,_,θ,·,:,r,i,(ti),y,m.
 SPACE
 v,·,_,v,·,a,m,𝓂,w,o,τ,.
 
-2Kings 15:5 in vtrad vtbhs
+2Kings 15:5 in vtrad vtsef
 w,_,y,:,n,_,g,·,_,(qa),ʕ
 SPACE
 y,:,h,o,w,a,(ge),h
@@ -11726,7 +11891,7 @@ SPACE
 SPACE
 h,a,α,a,𝓂,r,∵,ц.,.
 
-2Kings 15:6 in vtrad vtbhs
+2Kings 15:6 in vtrad vtsef
 w,:,y,∵,⟓,τ,∵,r
 SPACE
 d,·,i,v,:,r,‥,(me),y
@@ -11751,7 +11916,7 @@ l,:,m,_,l,:,k,‥,(me),y
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Kings 15:7 in vtrad vtbhs
+2Kings 15:7 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,<,v
 SPACE
 ʕ,:_,z,_,r,:,y,a,h,(p)
@@ -11776,7 +11941,7 @@ v,·,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Kings 15:8 in vtrad vtbhs
+2Kings 15:8 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,(qa),τ
 SPACE
 $,·sh,:,l,o,$,·sh,i,<,y,m.
@@ -11805,7 +11970,7 @@ $,·sh,i,$,·sh,·,a,(me),h
 SPACE
 x,:a,d,a,$,·sh,i,𝓂,y,m.,.
 
-2Kings 15:9 in vtrad vtbhs
+2Kings 15:9 in vtrad vtsef
 w,_,y,·,_,<,ʕ,_,$,·si
 SPACE
 h,a,r,_,ʕ,(p)
@@ -11836,7 +12001,7 @@ h,∵,x,:∵,θ,i,(ti),y,α
 SPACE
 α,∵,τ,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 15:10 in vtrad vtbhs
+2Kings 15:10 in vtrad vtsef
 w,_,y,·,i,q,:,$,·sh,o,<,r
 SPACE
 ʕ,a,l,a,y,w,(p)
@@ -11855,7 +12020,7 @@ w,_,y,·,i,m,:,l,o,(ti),k.,:
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Kings 15:11 in vtrad vtbhs
+2Kings 15:11 in vtrad vtsef
 w,:,y,∵,(ti),τ,∵,r
 SPACE
 d,·,i,v,:,r,‥,⅃,y
@@ -11876,7 +12041,7 @@ l,:,m,_,l,:,k,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 15:12 in vtrad vtbhs
+2Kings 15:12 in vtrad vtsef
 h,⅃,w,·,α
 SPACE
 d,:,v,_,r,-,y,:,h,o,w,a,◆,h
@@ -11903,7 +12068,7 @@ y,i,$,·si,:,r,a,α,‥,⅄,l
 SPACE
 w,_,𝓂,y,:,h,i,y,-,k,‥,𝓂,n.,.
 
-2Kings 15:13 in vtrad vtbhs
+2Kings 15:13 in vtrad vtsef
 $,·sh,_,l,·,<,w,·,m.
 SPACE
 v,·,∵,n.,-,y,a,v,‥,y,$,·sh,(p)
@@ -11930,7 +12095,7 @@ y,∵,𝓂,r,_,x,-,y,a,m,i,(ti),y,m.
 SPACE
 v,·,:,$,·sh,o,m,:,r,𝓂,w,o,n.,.
 
-2Kings 15:14 in vtrad vtbhs
+2Kings 15:14 in vtrad vtsef
 w,_,y,·,_,(tq),ʕ,_,l,(tq)
 SPACE
 m,:,n,_,x,‥,(qa),m.
@@ -11957,7 +12122,7 @@ w,_,y,·,i,m,:,l,o,(me),k.,:
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Kings 15:15 in vtrad vtbhs
+2Kings 15:15 in vtrad vtsef
 w,:,y,∵,(p),τ,∵,r,(p)
 SPACE
 d,·,i,v,:,r,‥,⅃,y
@@ -11984,7 +12149,7 @@ l,:,m,_,l,:,k,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 15:16 in vtrad vtbhs
+2Kings 15:16 in vtrad vtsef
 α,a,⅃,z
 SPACE
 y,_,k,·,∵,𝓂,h,-,m,:,⌕,n,_,x,‥,⌕,m.
@@ -12011,7 +12176,7 @@ k,·,oa,l,-,h,∵,h,a,(me),r,w,o,τ,∵,(ti),y,h,a
 SPACE
 v,·,i,q,·,‥,𝓂,ʕ,_,.
 
-2Kings 15:17 in vtrad vtbhs
+2Kings 15:17 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,(qa),τ
 SPACE
 $,·sh,:,l,o,$,·sh,i,<,y,m.
@@ -12040,7 +12205,7 @@ $,·sh,a,n,i,(ti),y,m.
 SPACE
 v,·,:,$,·sh,o,m,:,r,𝓂,w,o,n.,.
 
-2Kings 15:18 in vtrad vtbhs
+2Kings 15:18 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 h,a,r,_,(ti),ʕ
@@ -12067,7 +12232,7 @@ SPACE
 SPACE
 k,·,oa,l,-,y,a,m,a,𝓂,y,w,.
 
-2Kings 15:19 in vtrad vtbhs
+2Kings 15:19 in vtrad vtsef
 v,·,a,⅃,α
 SPACE
 f,<,w,·,l
@@ -12098,7 +12263,7 @@ h,_,m,·,_,m,:,l,a,k,a,(ti),h
 SPACE
 v,·,:,y,a,d,𝓂,w,o,.
 
-2Kings 15:20 in vtrad vtbhs
+2Kings 15:20 in vtrad vtsef
 w,_,y,·,o,ц,‥,α,(tq)
 SPACE
 m,:,n,_,x,‥,(qa),m.
@@ -12141,7 +12306,7 @@ $,·sh,a,(ti),m.
 SPACE
 v,·,a,α,a,𝓂,r,∵,ц.,.
 
-2Kings 15:21 in vtrad vtbhs
+2Kings 15:21 in vtrad vtsef
 w,:,y,∵,⟓,τ,∵,r
 SPACE
 d,·,i,v,:,r,‥,(me),y
@@ -12166,7 +12331,7 @@ l,:,m,_,l,:,k,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 15:22 in vtrad vtbhs
+2Kings 15:22 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,(me),v
 SPACE
 m,:,n,_,x,‥,(ti),m.
@@ -12181,7 +12346,7 @@ v,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Kings 15:23 in vtrad vtbhs
+2Kings 15:23 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,τ,(p)
 SPACE
 x,:_,m,i,$,·sh,·,i,⅃,y,m.
@@ -12206,7 +12371,7 @@ v,·,:,$,·sh,o,m,:,r,(ti),w,o,n.
 SPACE
 $,·sh,:,n,a,τ,a,𝓂,y,i,m.,.
 
-2Kings 15:24 in vtrad vtbhs
+2Kings 15:24 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 h,a,r,_,(ti),ʕ
@@ -12231,7 +12396,7 @@ h,∵,x,:∵,θ,i,(ti),y,α
 SPACE
 α,∵,τ,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 15:25 in vtrad vtbhs
+2Kings 15:25 in vtrad vtsef
 w,_,y,·,i,q,:,$,·sh,o,⅃,r
 SPACE
 ʕ,a,l,a,y,w,(tq)
@@ -12270,7 +12435,7 @@ w,_,y,·,i,m,:,l,o,(me),k.,:
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Kings 15:26 in vtrad vtbhs
+2Kings 15:26 in vtrad vtsef
 w,:,y,∵,⟓,τ,∵,r
 SPACE
 d,·,i,v,:,r,‥,(me),y
@@ -12295,7 +12460,7 @@ l,:,m,_,l,:,k,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 15:27 in vtrad vtbhs
+2Kings 15:27 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,(qa),τ
 SPACE
 x,:_,m,i,$,·sh,·,i,<,y,m.
@@ -12324,7 +12489,7 @@ SPACE
 SPACE
 $,·sh,a,n,a,𝓂,h,.
 
-2Kings 15:28 in vtrad vtbhs
+2Kings 15:28 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 h,a,r,_,(ti),ʕ
@@ -12349,7 +12514,7 @@ h,∵,x,:∵,θ,i,(ti),y,α
 SPACE
 α,∵,τ,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 15:29 in vtrad vtbhs
+2Kings 15:29 in vtrad vtsef
 v,·,i,y,m,‥,(G),y
 SPACE
 f,·,∵,⅃,q,_,x
@@ -12394,7 +12559,7 @@ w,_,y,·,_,g,:,l,‥,(ti),m.
 SPACE
 α,_,$,·sh,·,𝓂,w,·,r,a,h,.
 
-2Kings 15:30 in vtrad vtbhs
+2Kings 15:30 in vtrad vtsef
 w,_,y,·,i,q,:,$,·sh,oa,r,-,q,∵,(ge),$,·sh,∵,r
 SPACE
 h,w,o,$,·sh,‥,⅃,ʕ,_
@@ -12421,7 +12586,7 @@ l,:,y,w,o,τ,a,(ti),m.
 SPACE
 v,·,∵,n.,-,ʕ,u,z,·,i,y,·,a,𝓂,h,.
 
-2Kings 15:31 in vtrad vtbhs
+2Kings 15:31 in vtrad vtsef
 w,:,y,∵,(me),τ,∵,r
 SPACE
 d,·,i,v,:,r,‥,y,-,f,∵,(ti),q,_,x
@@ -12444,7 +12609,7 @@ l,:,m,_,l,:,k,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 15:32 in vtrad vtbhs
+2Kings 15:32 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,⅃,τ
 SPACE
 $,·sh,:,τ,·,_,ƶ,y,i,m.
@@ -12467,7 +12632,7 @@ m,∵,(me),l,∵,k.,:
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Kings 15:33 in vtrad vtbhs
+2Kings 15:33 in vtrad vtsef
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,(qa),y,m.
 SPACE
 w,:,x,a,m,‥,<,$,·sh
@@ -12494,7 +12659,7 @@ y,:,r,w,·,$,·sh,a,(ti),α
 SPACE
 v,·,_,τ,-,ц,a,d,𝓂,w,o,q,.
 
-2Kings 15:34 in vtrad vtbhs
+2Kings 15:34 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 h,_,y,·,a,$,·sh,a,(ti),r
@@ -12513,7 +12678,7 @@ SPACE
 SPACE
 ʕ,a,$,·si,a,𝓂,h,.
 
-2Kings 15:35 in vtrad vtbhs
+2Kings 15:35 in vtrad vtsef
 r,_,<,q
 SPACE
 h,_,v,·,a,m,w,o,τ,(p)
@@ -12542,7 +12707,7 @@ v,·,‥,y,τ,-,y,:,h,o,w,a,(ti),h
 SPACE
 h,a,ʕ,∵,l,:,y,𝓂,w,o,n.,.
 
-2Kings 15:36 in vtrad vtbhs
+2Kings 15:36 in vtrad vtsef
 w,:,y,∵,⟓,τ,∵,r
 SPACE
 d,·,i,v,:,r,‥,(me),y
@@ -12567,7 +12732,7 @@ l,:,m,_,l,:,k,‥,(me),y
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Kings 15:37 in vtrad vtbhs
+2Kings 15:37 in vtrad vtsef
 v,·,_,y,·,a,m,i,⅃,y,m.
 SPACE
 h,a,h,‥,ƶ,m.
@@ -12592,7 +12757,7 @@ f,·,∵,(me),q,_,x
 SPACE
 v,·,∵,n.,-,r,:,m,_,l,:,y,a,𝓂,h,w,·,.
 
-2Kings 15:38 in vtrad vtbhs
+2Kings 15:38 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,<,v
 SPACE
 y,w,o,τ,a,m.,(p)
@@ -12617,7 +12782,7 @@ v,·,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Kings 16:1 in vtrad vtbhs
+2Kings 16:1 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,τ,(p)
 SPACE
 $,·sh,:,v,_,𝓂,ʕ,-,ʕ,∵,$,·si,:,r,‥,⅃,h
@@ -12638,7 +12803,7 @@ m,∵,(me),l,∵,k.,:
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Kings 16:2 in vtrad vtbhs
+2Kings 16:2 in vtrad vtsef
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,<,y,m.
 SPACE
 $,·sh,a,n,a,h,(p)
@@ -12669,7 +12834,7 @@ k,·,:,d,a,w,i,(me),d
 SPACE
 α,a,v,i,𝓂,y,w,.
 
-2Kings 16:3 in vtrad vtbhs
+2Kings 16:3 in vtrad vtsef
 w,_,y,·,‥,Ƶ,l,∵,k.,:
 SPACE
 v,·,:,d,∵,(ti),r,∵,k.,:
@@ -12704,7 +12869,7 @@ v,·,:,n,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 16:4 in vtrad vtbhs
+2Kings 16:4 in vtrad vtsef
 w,_,y,:,z,_,v,·,‥,(da),x,_
 SPACE
 w,_,y,:,q,_,θ,·,‥,⟓,r
@@ -12719,7 +12884,7 @@ k,·,oa,l,-,ʕ,‥,(me),ц.
 SPACE
 r,_,ʕ,:_,n,a,𝓂,n.,.
 
-2Kings 16:5 in vtrad vtbhs
+2Kings 16:5 in vtrad vtsef
 α,a,⅃,z
 SPACE
 y,_,ʕ,:_,l,∵,⅃,h
@@ -12748,7 +12913,7 @@ y,a,k,:,l,(ti),w,·
 SPACE
 l,:,h,i,l,·,a,x,‥,𝓂,m.,.
 
-2Kings 16:6 in vtrad vtbhs
+2Kings 16:6 in vtrad vtsef
 v,·,a,ʕ,‥,⅃,τ
 SPACE
 h,_,h,i,◆,y,α
@@ -12784,7 +12949,7 @@ h,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Kings 16:7 in vtrad vtbhs
+2Kings 16:7 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,(qa),x
 SPACE
 α,a,x,a,(ge),z
@@ -12823,7 +12988,7 @@ h,_,q,·,w,o,m,i,(ti),y,m.
 SPACE
 ʕ,a,l,a,𝓂,y,.
 
-2Kings 16:8 in vtrad vtbhs
+2Kings 16:8 in vtrad vtsef
 w,_,y,·,i,q,·,_,(qa),x
 SPACE
 α,a,x,a,(ge),z
@@ -12850,7 +13015,7 @@ l,:,m,∵,𝓂,l,∵,k.,:,-,α,_,$,·sh,·,(ti),w,·,r
 SPACE
 $,·sh,o,𝓂,x,_,d,.
 
-2Kings 16:9 in vtrad vtbhs
+2Kings 16:9 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,_,<,ʕ
 SPACE
 α,‥,l,a,y,w,(p)
@@ -12877,7 +13042,7 @@ w,:,α,∵,τ,-,r,:,ц,i,(ti),y,n.
 SPACE
 h,‥,m,i,𝓂,y,τ,.
 
-2Kings 16:10 in vtrad vtbhs
+2Kings 16:10 in vtrad vtsef
 w,_,y,·,‥,⅃,l,∵,k.,:
 SPACE
 h,_,m,·,∵,⅃,l,∵,k.,:
@@ -12920,7 +13085,7 @@ w,:,α,∵,τ,-,τ,·,_,v,:,n,i,y,τ,(ti),w,o
 SPACE
 l,:,k,oa,𝓂,l,-,m,_,ʕ,:_,$,·si,‥,𝓂,h,w,·,.
 
-2Kings 16:11 in vtrad vtbhs
+2Kings 16:11 in vtrad vtsef
 w,_,y,·,i,⟓,v,∵,n.
 SPACE
 α,w,·,r,i,y,·,a,(me),h
@@ -12953,7 +13118,7 @@ h,_,m,·,∵,𝓂,l,∵,k.,:,-,α,a,x,a,(ti),z
 SPACE
 m,i,d,·,_,m,·,a,𝓂,$,·si,∵,q,.
 
-2Kings 16:12 in vtrad vtbhs
+2Kings 16:12 in vtrad vtsef
 w,_,y,·,a,v,o,<,α
 SPACE
 h,_,m,·,∵,(p),l,∵,k.,:,(p)
@@ -12976,7 +13141,7 @@ w,_,y,·,_,(me),ʕ,_,l
 SPACE
 ʕ,a,l,a,𝓂,y,w,.
 
-2Kings 16:13 in vtrad vtbhs
+2Kings 16:13 in vtrad vtsef
 w,_,y,·,_,q,:,θ,‥,<,r
 SPACE
 α,∵,τ,-,ʕ,o,𝓂,l,a,τ,w,o,(p)
@@ -12995,7 +13160,7 @@ SPACE
 SPACE
 ʕ,_,l,-,h,_,m,·,i,z,:,v,·,‥,𝓂,x,_,.
 
-2Kings 16:14 in vtrad vtbhs
+2Kings 16:14 in vtrad vtsef
 w,:,α,‥,(qa),τ
 SPACE
 h,_,m,·,i,z,:,v,·,_,⅃,x
@@ -13036,7 +13201,7 @@ h,_,m,·,i,z,:,v,·,‥,(ti),x,_
 SPACE
 ц,a,f,𝓂,w,o,n,a,h,.
 
-2Kings 16:15 in vtrad vtbhs
+2Kings 16:15 in vtrad vtsef
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,-,α,a,⌕,x,a,⌕,z
 SPACE
@@ -13096,7 +13261,7 @@ y,i,𝓂,h,:,y,∵,h,-,l,·,i,(ti),y
 SPACE
 l,:,v,_,q,·,‥,𝓂,r,.
 
-2Kings 16:16 in vtrad vtbhs
+2Kings 16:16 in vtrad vtsef
 w,_,y,·,_,(ti),ʕ,_,$,·si
 SPACE
 α,w,·,r,i,y,·,a,⅃,h
@@ -13111,7 +13276,7 @@ h,_,m,·,∵,(me),l,∵,k.,:
 SPACE
 α,a,x,a,𝓂,z,.
 
-2Kings 16:17 in vtrad vtbhs
+2Kings 16:17 in vtrad vtsef
 w,_,y,:,q,_,ц,·,‥,ц.,(tq)
 SPACE
 h,_,m,·,∵,(qa),l,∵,k.,:
@@ -13152,7 +13317,7 @@ m,_,r,:,ц,∵,(me),f,∵,τ
 SPACE
 α,:_,v,a,n,i,𝓂,y,m.,.
 
-2Kings 16:18 in vtrad vtbhs
+2Kings 16:18 in vtrad vtsef
 w,:,α,∵,τ,-
 SPACE
 h,_,$,·sh,·,_,v,·,a,(ge),τ
@@ -13179,7 +13344,7 @@ m,∵,(me),l,∵,k.,:
 SPACE
 α,_,$,·sh,·,𝓂,w,·,r,.
 
-2Kings 16:19 in vtrad vtbhs
+2Kings 16:19 in vtrad vtsef
 w,:,y,∵,⟓,τ,∵,r
 SPACE
 d,·,i,v,:,r,‥,(me),y
@@ -13204,7 +13369,7 @@ l,:,m,_,l,:,k,‥,(me),y
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Kings 16:20 in vtrad vtbhs
+2Kings 16:20 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,<,v
 SPACE
 α,a,x,a,z,(p)
@@ -13227,7 +13392,7 @@ v,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Kings 17:1 in vtrad vtbhs
+2Kings 17:1 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,τ,(p)
 SPACE
 $,·sh,:,τ,·,‥,⅃,y,m.
@@ -13254,7 +13419,7 @@ SPACE
 SPACE
 $,·sh,a,n,i,𝓂,y,m.,.
 
-2Kings 17:2 in vtrad vtbhs
+2Kings 17:2 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 h,a,r,_,(ti),ʕ
@@ -13277,7 +13442,7 @@ h,a,y,(ti),w,·
 SPACE
 l,:,f,a,n,a,𝓂,y,w,.
 
-2Kings 17:3 in vtrad vtbhs
+2Kings 17:3 in vtrad vtsef
 ʕ,a,l,a,⅃,y,w
 SPACE
 ʕ,a,l,a,ƶ,h
@@ -13300,7 +13465,7 @@ l,(ti),w,o
 SPACE
 m,i,n,:,x,a,𝓂,h,.
 
-2Kings 17:4 in vtrad vtbhs
+2Kings 17:4 in vtrad vtsef
 w,_,y,·,i,m,:,ц,a,α,(tq)
 SPACE
 m,∵,𝓂,l,∵,k.,:,-,α,_,$,·sh,·,(qa),w,·,r
@@ -13343,7 +13508,7 @@ v,·,‥,(me),y,τ
 SPACE
 k,·,∵,𝓂,l,∵,α,.
 
-2Kings 17:5 in vtrad vtbhs
+2Kings 17:5 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,l
 SPACE
 m,∵,𝓂,l,∵,k.,:,-,α,_,$,·sh,·,(ti),w,·,r
@@ -13362,7 +13527,7 @@ $,·sh,a,l,o,(me),$,·sh
 SPACE
 $,·sh,a,n,i,𝓂,y,m.,.
 
-2Kings 17:6 in vtrad vtbhs
+2Kings 17:6 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,(qa),τ
 SPACE
 h,_,τ,·,:,$,·sh,i,ʕ,i,(ge),y,τ
@@ -13397,7 +13562,7 @@ w,:,ʕ,a,r,‥,(me),y
 SPACE
 m,a,d,a,𝓂,y,.
 
-2Kings 17:7 in vtrad vtbhs
+2Kings 17:7 in vtrad vtsef
 w,_,y,:,h,i,◆,y
 SPACE
 k,·,i,𝓂,y,-,x,a,θ,:,α,<,w,·
@@ -13430,7 +13595,7 @@ SPACE
 SPACE
 α,:_,x,‥,r,i,𝓂,y,m.,.
 
-2Kings 17:8 in vtrad vtbhs
+2Kings 17:8 in vtrad vtsef
 w,_,y,·,‥,𝓂,l,:,k,w,·,(p)
 SPACE
 v,·,:,x,u,q,·,⅃,w,o,τ
@@ -13457,7 +13622,7 @@ SPACE
 SPACE
 ʕ,a,$,·si,𝓂,w,·,.
 
-2Kings 17:9 in vtrad vtbhs
+2Kings 17:9 in vtrad vtsef
 w,_,y,:,x,_,f,·,:,α,⅃,w,·
 SPACE
 v,:,n,‥,𝓂,y,-,y,i,$,·si,:,r,a,α,‥,◆,l
@@ -13488,7 +13653,7 @@ SPACE
 SPACE
 m,i,v,:,ц,a,𝓂,r,.
 
-2Kings 17:10 in vtrad vtbhs
+2Kings 17:10 in vtrad vtsef
 w,_,y,·,_,ц,·,i,(da),v,w,·
 SPACE
 l,a,h,∵,⟓,m.
@@ -13509,7 +13674,7 @@ k,·,oa,l,-,ʕ,‥,(me),ц.
 SPACE
 r,_,ʕ,:_,n,a,𝓂,n.,.
 
-2Kings 17:11 in vtrad vtbhs
+2Kings 17:11 in vtrad vtsef
 w,_,y,:,q,_,θ,·,:,r,w,·,-,$,·sh,a,m.,(p)
 SPACE
 v,·,:,k,oa,l,-,v,·,a,m,ƶ,w,o,τ
@@ -13532,7 +13697,7 @@ l,:,h,_,k,:,ʕ,i,(ti),y,σ
 SPACE
 α,∵,τ,-,y,:,h,o,w,a,𝓂,h,.
 
-2Kings 17:12 in vtrad vtbhs
+2Kings 17:12 in vtrad vtsef
 w,_,y,·,_,𝓂,ʕ,_,v,:,d,(ti),w,·
 SPACE
 h,_,g,·,i,l,·,u,l,i,⅄,y,m.
@@ -13553,7 +13718,7 @@ SPACE
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Kings 17:13 in vtrad vtbhs
+2Kings 17:13 in vtrad vtsef
 w,_,y,·,a,⅃,ʕ,_,d
 SPACE
 y,:,h,o,w,a,μ,h
@@ -13602,7 +13767,7 @@ SPACE
 SPACE
 h,_,n,·,:,v,i,y,α,i,𝓂,y,m.,.
 
-2Kings 17:14 in vtrad vtbhs
+2Kings 17:14 in vtrad vtsef
 w,:,l,o,(ti),α
 SPACE
 $,·sh,a,m,‥,⅄,ʕ,w,·
@@ -13625,7 +13790,7 @@ v,·,_,𝓂,y,h,o,w,a,(ti),h
 SPACE
 α,:∵,l,o,h,‥,y,h,∵,𝓂,m.,.
 
-2Kings 17:15 in vtrad vtbhs
+2Kings 17:15 in vtrad vtsef
 w,_,y,·,i,m,:,α,:_,σ,⅃,w,·
 SPACE
 α,∵,τ,-,x,u,q,·,a,◆,y,w
@@ -13678,7 +13843,7 @@ SPACE
 SPACE
 k,·,a,h,∵,𝓂,m.,.
 
-2Kings 17:16 in vtrad vtbhs
+2Kings 17:16 in vtrad vtsef
 w,_,y,·,_,ʕ,_,z,:,v,◆,w,·
 SPACE
 α,∵,τ,-,k,·,oa,l,-,m,i,ц,:,w,hhfv,τ,(p)
@@ -13710,7 +13875,7 @@ w,_,y,·,_,ʕ,_,v,:,d,(ti),w,·
 SPACE
 α,∵,τ,-,h,_,v,·,a,𝓂,ʕ,_,l,.
 
-2Kings 17:17 in vtrad vtbhs
+2Kings 17:17 in vtrad vtsef
 w,_,𝓂,⌕,y,·,_,ʕ,:_,v,i,⌕,y,r,w,·
 SPACE
 α,∵,τ,-,v,·,:,n,‥,y,h,∵,<,m.
@@ -13737,7 +13902,7 @@ y,:,h,o,w,a,(ti),h
 SPACE
 l,:,h,_,k,:,ʕ,i,y,σ,𝓂,w,o,.
 
-2Kings 17:18 in vtrad vtbhs
+2Kings 17:18 in vtrad vtsef
 w,_,y,·,i,τ,:,α,_,n,·,_,(qa),f.
 SPACE
 y,:,h,o,w,a,<,h
@@ -13764,7 +13929,7 @@ y,:,h,w,·,d,a,(ti),h
 SPACE
 l,:,v,_,d,·,𝓂,w,o,.
 
-2Kings 17:19 in vtrad vtbhs
+2Kings 17:19 in vtrad vtsef
 g,·,_,m.,-,y,:,h,w,·,d,a,Ƶ,h
 SPACE
 l,o,⅃,α
@@ -13787,7 +13952,7 @@ SPACE
 SPACE
 ʕ,a,$,·si,𝓂,w,·,.
 
-2Kings 17:20 in vtrad vtbhs
+2Kings 17:20 in vtrad vtsef
 w,_,y,·,i,m,:,α,_,(qa),σ
 SPACE
 y,:,h,o,w,a,(ge),h
@@ -13810,7 +13975,7 @@ h,i,$,·sh,:,l,i,y,k,a,(ti),m.
 SPACE
 m,i,f,·,a,n,a,𝓂,y,w,.
 
-2Kings 17:21 in vtrad vtbhs
+2Kings 17:21 in vtrad vtsef
 k,·,i,𝓂,y,-,q,a,r,_,⅃,ʕ
 SPACE
 y,i,$,·si,:,r,a,α,‥,◆,l
@@ -13842,7 +14007,7 @@ x,:_,θ,a,α,a,(me),h
 SPACE
 g,:,d,w,o,l,a,𝓂,h,.
 
-2Kings 17:22 in vtrad vtbhs
+2Kings 17:22 in vtrad vtsef
 w,_,y,·,‥,𝓂,l,:,k,w,·,(p)
 SPACE
 v,·,:,n,‥,⅃,y
@@ -13861,7 +14026,7 @@ l,o,α,-,σ,a,(ti),r,w,·
 SPACE
 m,i,m,·,∵,𝓂,n,·,a,h,.
 
-2Kings 17:23 in vtrad vtbhs
+2Kings 17:23 in vtrad vtsef
 ʕ,_,⌕,d
 SPACE
 α,:_,$,·sh,∵,r,-,h,‥,σ,i,(qa),y,r
@@ -13900,7 +14065,7 @@ h,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Kings 17:24 in vtrad vtbhs
+2Kings 17:24 in vtrad vtsef
 w,_,y,·,a,v,‥,⅃,α
 SPACE
 m,∵,𝓂,l,∵,k.,:,-,α,_,$,·sh,·,μ,w,·,r
@@ -13935,7 +14100,7 @@ w,_,y,·,‥,𝓂,$,·sh,:,v,(ti),w,·
 SPACE
 v,·,:,ʕ,a,r,∵,𝓂,y,h,a,.
 
-2Kings 17:25 in vtrad vtbhs
+2Kings 17:25 in vtrad vtsef
 w,_,y,:,h,i,◆,y
 SPACE
 v,·,i,τ,:,x,i,l,·,_,τ,(p)
@@ -13964,7 +14129,7 @@ h,o,r,:,g,i,(ti),y,m.
 SPACE
 v,·,a,h,∵,𝓂,m.,.
 
-2Kings 17:26 in vtrad vtbhs
+2Kings 17:26 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,◆,w,·
 SPACE
 l,:,m,∵,⅃,l,∵,k.,:
@@ -14017,7 +14182,7 @@ SPACE
 SPACE
 h,a,α,a,𝓂,r,∵,ц.,.
 
-2Kings 17:27 in vtrad vtbhs
+2Kings 17:27 in vtrad vtsef
 w,_,y,:,ц,_,(qa),w
 SPACE
 m,∵,𝓂,l,∵,k.,:,-,α,_,$,·sh,·,(ge),w,·,r
@@ -14052,7 +14217,7 @@ SPACE
 SPACE
 h,a,α,a,𝓂,r,∵,ц.,.
 
-2Kings 17:28 in vtrad vtbhs
+2Kings 17:28 in vtrad vtsef
 w,_,y,·,a,v,o,(G),α
 SPACE
 α,∵,x,a,⅃,d
@@ -14081,7 +14246,7 @@ y,i,𝓂,y,r,:,α,(me),w,·
 SPACE
 α,∵,τ,-,y,:,h,o,w,a,𝓂,h,.
 
-2Kings 17:29 in vtrad vtbhs
+2Kings 17:29 in vtrad vtsef
 w,_,y,·,i,h,:,y,⅃,w,·
 SPACE
 ʕ,o,$,·si,i,ƶ,y,m.
@@ -14093,6 +14258,10 @@ SPACE
 α,:∵,l,o,h,a,⅄,y,w
 SPACE
 w,_,y,·,_,n,·,i,⅃,y,x,w,·
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 v,·,:,v,‥,⅃,y,τ
 SPACE
@@ -14118,7 +14287,7 @@ y,o,$,·sh,:,v,i,(ti),y,m.
 SPACE
 $,·sh,a,𝓂,m.,.
 
-2Kings 17:30 in vtrad vtbhs
+2Kings 17:30 in vtrad vtsef
 w,:,α,_,n,:,$,·sh,‥,⅃,y
 SPACE
 v,a,v,∵,◆,l
@@ -14143,7 +14312,7 @@ SPACE
 SPACE
 α,∵,τ,-,α,:_,$,·sh,i,y,m,a,𝓂,α,.
 
-2Kings 17:31 in vtrad vtbhs
+2Kings 17:31 in vtrad vtsef
 w,:,h,a,ʕ,_,w,·,i,⟓,y,m.
 SPACE
 ʕ,a,$,·si,(me),w,·
@@ -14168,7 +14337,7 @@ SPACE
 SPACE
 .
 
-2Kings 17:32 in vtrad vtbhs
+2Kings 17:32 in vtrad vtsef
 w,_,y,·,i,h,:,y,(me),w,·
 SPACE
 y,:,r,‥,α,i,(ti),y,m.
@@ -14195,7 +14364,7 @@ v,·,:,v,‥,(me),y,τ
 SPACE
 h,_,v,·,a,m,𝓂,w,o,τ,.
 
-2Kings 17:33 in vtrad vtbhs
+2Kings 17:33 in vtrad vtsef
 α,∵,τ,-,y,:,h,o,w,a,(ti),h
 SPACE
 h,a,y,⅃,w,·
@@ -14218,7 +14387,7 @@ SPACE
 SPACE
 m,i,$,·sh,·,a,𝓂,m.,.
 
-2Kings 17:34 in vtrad vtbhs
+2Kings 17:34 in vtrad vtsef
 ʕ,_,⅃,d
 SPACE
 h,_,y,·,<,w,o,m.
@@ -14267,7 +14436,7 @@ $,·sh,:,m,(ti),w,o
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 17:35 in vtrad vtbhs
+2Kings 17:35 in vtrad vtsef
 w,_,y,·,i,k,:,r,o,(qa),τ
 SPACE
 y,:,h,o,w,a,<,h
@@ -14302,7 +14471,7 @@ SPACE
 SPACE
 l,a,h,∵,𝓂,m.,.
 
-2Kings 17:36 in vtrad vtbhs
+2Kings 17:36 in vtrad vtsef
 k,·,i,⅃,y
 SPACE
 α,i,𝓂,m.,-,α,∵,τ,-,y,:,h,o,w,a,◆,h
@@ -14337,7 +14506,7 @@ w,:,l,(me),w,o
 SPACE
 τ,i,z,:,v,·,a,𝓂,x,w,·,.
 
-2Kings 17:37 in vtrad vtbhs
+2Kings 17:37 in vtrad vtsef
 w,:,α,∵,τ,-,h,_,x,u,q,·,i,(qa),y,m.
 SPACE
 w,:,α,∵,τ,-,h,_,m,·,i,$,·sh,:,f,·,a,θ,i,(ge),y,m.
@@ -14366,7 +14535,7 @@ SPACE
 SPACE
 α,:_,x,‥,r,i,𝓂,y,m.,.
 
-2Kings 17:38 in vtrad vtbhs
+2Kings 17:38 in vtrad vtsef
 w,:,h,_,v,·,:,r,i,⟓,y,τ
 SPACE
 α,:_,$,·sh,∵,r,-,k,·,a,r,_,(me),τ,·,i,y
@@ -14385,7 +14554,7 @@ SPACE
 SPACE
 α,:_,x,‥,r,i,𝓂,y,m.,.
 
-2Kings 17:39 in vtrad vtbhs
+2Kings 17:39 in vtrad vtsef
 k,·,i,⟓,y
 SPACE
 α,i,𝓂,m.,-,α,∵,τ,-,y,:,h,o,w,a,(me),h
@@ -14404,7 +14573,7 @@ m,i,y,·,_,(ti),d
 SPACE
 k,·,oa,l,-,α,o,y,:,v,‥,y,k,∵,𝓂,m.,.
 
-2Kings 17:40 in vtrad vtbhs
+2Kings 17:40 in vtrad vtsef
 w,:,l,o,(ti),α
 SPACE
 $,·sh,a,m,‥,⅄,ʕ,w,·
@@ -14419,8 +14588,12 @@ h,‥,(me),m.
 SPACE
 ʕ,o,$,·si,i,𝓂,y,m.,.
 
-2Kings 17:41 in vtrad vtbhs
+2Kings 17:41 in vtrad vtsef
 w,_,y,·,i,h,:,y,⅃,w,·
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 h,_,g,·,w,o,y,i,⅃,m.
 SPACE
@@ -14437,6 +14610,10 @@ SPACE
 ʕ,o,𝓂,v,:,d,i,⅄,y,m.
 SPACE
 g,·,_,m.,-,v,·,:,n,‥,y,h,∵,⅃,m.
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 w,·,v,:,n,‥,⅃,y
 SPACE
@@ -14458,7 +14635,7 @@ h,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Kings 18:1 in vtrad vtbhs
+2Kings 18:1 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 v,·,i,$,·sh,:,n,_,⅃,τ
@@ -14483,7 +14660,7 @@ m,∵,(me),l,∵,k.,:
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Kings 18:2 in vtrad vtbhs
+2Kings 18:2 in vtrad vtsef
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,(qa),y,m.
 SPACE
 w,:,x,a,m,‥,<,$,·sh
@@ -14512,7 +14689,7 @@ SPACE
 SPACE
 v,·,_,τ,-,z,:,k,_,r,:,y,a,𝓂,h,.
 
-2Kings 18:3 in vtrad vtbhs
+2Kings 18:3 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 h,_,y,·,a,$,·sh,a,(ti),r
@@ -14529,8 +14706,12 @@ d,·,a,w,i,(me),d
 SPACE
 α,a,v,i,𝓂,y,w,.
 
-2Kings 18:4 in vtrad vtbhs
+2Kings 18:4 in vtrad vtsef
 h,⅃,w,·,α
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 h,‥,σ,i,⅃,y,r
 SPACE
@@ -14572,7 +14753,7 @@ w,_,y,·,i,q,:,r,a,α,-,l,(ti),w,o
 SPACE
 n,:,x,u,$,·sh,:,τ,·,a,𝓂,n.,.
 
-2Kings 18:5 in vtrad vtbhs
+2Kings 18:5 in vtrad vtsef
 v,·,_,y,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,‥,𝓂,y,-,y,i,$,·si,:,r,a,α,‥,(ti),l
@@ -14597,7 +14778,7 @@ h,a,y,(ti),w,·
 SPACE
 l,:,f,a,n,a,𝓂,y,w,.
 
-2Kings 18:6 in vtrad vtbhs
+2Kings 18:6 in vtrad vtsef
 w,_,y,·,i,d,:,v,·,_,q,(p)
 SPACE
 v,·,_,𝓂,y,h,o,w,a,ƶ,h
@@ -14616,7 +14797,7 @@ y,:,h,o,w,a,(ti),h
 SPACE
 α,∵,τ,-,m,o,$,·sh,∵,𝓂,h,.
 
-2Kings 18:7 in vtrad vtbhs
+2Kings 18:7 in vtrad vtsef
 w,:,h,a,y,a,<,h
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -14637,7 +14818,7 @@ w,:,l,o,(me),α
 SPACE
 ʕ,:_,v,a,d,𝓂,w,o,.
 
-2Kings 18:8 in vtrad vtbhs
+2Kings 18:8 in vtrad vtsef
 h,𝓂,w,·,α,-,h,i,k,·,a,(da),h
 SPACE
 α,∵,τ,-,f,·,:,l,i,$,·sh,:,τ,·,i,⟓,y,m.
@@ -14654,7 +14835,7 @@ SPACE
 SPACE
 m,i,v,:,ц,a,𝓂,r,.
 
-2Kings 18:9 in vtrad vtbhs
+2Kings 18:9 in vtrad vtsef
 w,_,𝓂,y,:,h,i,(G),y
 SPACE
 v,·,_,$,·sh,·,a,n,a,<,h
@@ -14691,7 +14872,7 @@ w,_,y,·,a,(me),ц,_,r
 SPACE
 ʕ,a,l,∵,𝓂,y,h,a,.
 
-2Kings 18:10 in vtrad vtbhs
+2Kings 18:10 in vtrad vtsef
 w,_,𝓂,y,·,i,l,:,k,·,:,d,u,◆,h,a
 SPACE
 m,i,q,:,ц,‥,h,(p)
@@ -14718,7 +14899,7 @@ n,i,l,:,k,·,:,d,a,(ti),h
 SPACE
 $,·sh,o,m,:,r,𝓂,w,o,n.,.
 
-2Kings 18:11 in vtrad vtbhs
+2Kings 18:11 in vtrad vtsef
 w,_,y,·,∵,(da),g,∵,l
 SPACE
 m,∵,𝓂,l,∵,k.,:,-,α,_,$,·sh,·,⟓,w,·,r
@@ -14741,8 +14922,12 @@ w,:,ʕ,a,r,‥,(me),y
 SPACE
 m,a,d,a,𝓂,y,.
 
-2Kings 18:12 in vtrad vtbhs
+2Kings 18:12 in vtrad vtsef
 ʕ,_,⅃,l
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,:_,$,·sh,∵,⅃,r
 SPACE
@@ -14778,7 +14963,7 @@ w,:,l,o,(me),α
 SPACE
 ʕ,a,$,·si,𝓂,w,·,.
 
-2Kings 18:13 in vtrad vtbhs
+2Kings 18:13 in vtrad vtsef
 w,·,v,:,α,_,r,:,v,·,_,ʕ,(tq)
 SPACE
 ʕ,∵,$,·si,:,r,‥,(qa),h
@@ -14805,7 +14990,7 @@ h,_,v,·,:,ц,u,r,(ti),w,o,τ
 SPACE
 w,_,𝓂,y,·,i,τ,:,f,·,:,$,·si,‥,𝓂,m.,.
 
-2Kings 18:14 in vtrad vtbhs
+2Kings 18:14 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,⅃,x
 SPACE
 x,i,z,:,q,i,y,·,a,⅃,h
@@ -14813,8 +14998,23 @@ SPACE
 m,∵,l,∵,k.,:,-,y,:,h,w,·,d,a,⅃,h
 SPACE
 α,∵,l,-,m,∵,𝓂,l,∵,k.,:,-,α,_,$,·sh,·,w,·,r,(tq)
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 l,a,k,i,(qa),y,$,·sh,a,h
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 l,‥,α,m,o,<,r
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 x,a,θ,a,(p),α,τ,i,y,(p)
 SPACE
 $,·sh,⅃,w,·,v
@@ -14849,7 +15049,7 @@ k,·,i,k,·,_,(me),r
 SPACE
 z,a,h,a,𝓂,v,.
 
-2Kings 18:15 in vtrad vtbhs
+2Kings 18:15 in vtrad vtsef
 w,_,y,·,i,τ,·,‥,n.,(p)
 SPACE
 x,i,z,:,q,i,y,·,a,ƶ,h
@@ -14866,7 +15066,7 @@ v,·,‥,(me),y,τ
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-2Kings 18:16 in vtrad vtbhs
+2Kings 18:16 in vtrad vtsef
 v,·,a,ʕ,‥,⅃,τ
 SPACE
 h,_,h,i,◆,y,α
@@ -14899,7 +15099,7 @@ l,:,m,∵,(me),l,∵,k.,:
 SPACE
 α,_,$,·sh,·,𝓂,w,·,r,.
 
-2Kings 18:17 in vtrad vtbhs
+2Kings 18:17 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,⅃,x
 SPACE
 m,∵,l,∵,k.,:,-,α,_,$,·sh,·,μ,w,·,r
@@ -14907,6 +15107,10 @@ SPACE
 α,∵,τ,-,τ,·,_,r,:,τ,·,a,⅃,n.
 SPACE
 w,:,α,∵,τ,-,r,_,v,-,σ,a,r,i,⅃,y,σ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 w,:,α,∵,τ,-,r,_,v,:,$,·sh,a,q,‥,(qa),h
 SPACE
@@ -14948,7 +15152,7 @@ $,·si,:,d,‥,(me),h
 SPACE
 k,o,v,‥,𝓂,σ,.
 
-2Kings 18:18 in vtrad vtbhs
+2Kings 18:18 in vtrad vtsef
 w,_,𝓂,y,·,i,q,:,r,:,α,w,·,(p)
 SPACE
 α,∵,l,-,h,_,m,·,∵,ƶ,l,∵,k.,:
@@ -14975,7 +15179,7 @@ v,·,∵,n.,-,α,a,σ,a,(ti),f.
 SPACE
 h,_,m,·,_,z,:,k,·,i,𝓂,y,r,.
 
-2Kings 18:19 in vtrad vtbhs
+2Kings 18:19 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 α,:_,l,‥,y,h,∵,m.,(p)
@@ -15006,7 +15210,7 @@ SPACE
 SPACE
 v,·,a,θ,a,𝓂,x,:,τ,·,a,.
 
-2Kings 18:20 in vtrad vtbhs
+2Kings 18:20 in vtrad vtsef
 α,a,m,_,(p),r,:,τ,·,a,(p)
 SPACE
 α,_,k.,:,-,d,·,:,v,_,r,-,$,·si,:,f,a,τ,_,ƶ,y,i,m.
@@ -15029,7 +15233,7 @@ m,a,r,_,(ti),d,:,τ,·,a
 SPACE
 v,·,i,𝓂,y,.
 
-2Kings 18:21 in vtrad vtbhs
+2Kings 18:21 in vtrad vtsef
 ʕ,_,τ,·,a,μ,h
 SPACE
 h,i,n,·,‥,⅃,h
@@ -15072,7 +15276,7 @@ l,:,k,oa,𝓂,l,-,h,_,v,·,o,θ,:,x,i,(ti),y,m.
 SPACE
 ʕ,a,l,a,𝓂,y,w,.
 
-2Kings 18:22 in vtrad vtbhs
+2Kings 18:22 in vtrad vtsef
 w,:,k,i,𝓂,y,-,τ,o,α,m,:,r,⅃,w,·,n.
 SPACE
 α,‥,l,_,ƶ,y
@@ -15111,7 +15315,7 @@ SPACE
 SPACE
 v,·,i,y,r,𝓂,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Kings 18:23 in vtrad vtbhs
+2Kings 18:23 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,h,(p)
 SPACE
 h,i,τ,:,ʕ,a,⅃,r,∵,v
@@ -15142,7 +15346,7 @@ r,o,k,:,v,i,(me),y,m.
 SPACE
 ʕ,:_,l,‥,y,h,∵,𝓂,m.,.
 
-2Kings 18:24 in vtrad vtbhs
+2Kings 18:24 in vtrad vtsef
 w,:,α,‥,⅃,y,k.,:
 SPACE
 τ,·,a,$,·sh,i,◆,y,v
@@ -15171,7 +15375,7 @@ l,:,r,∵,(ti),k,∵,v
 SPACE
 w,·,l,:,f,a,𝓂,r,a,$,·sh,i,𝓂,y,m.,.
 
-2Kings 18:25 in vtrad vtbhs
+2Kings 18:25 in vtrad vtsef
 ʕ,_,τ,·,a,h,(p)
 SPACE
 h,:_,m,i,v,·,_,l,:,ʕ,:_,d,‥,⅃,y
@@ -15200,7 +15404,7 @@ h,_,z,·,o,(ti),α,τ
 SPACE
 w,:,h,_,$,·sh,:,x,i,y,τ,a,𝓂,h,·,.
 
-2Kings 18:26 in vtrad vtbhs
+2Kings 18:26 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 α,∵,l,:,y,a,q,i,⅃,y,m.
@@ -15239,7 +15443,7 @@ SPACE
 SPACE
 ʕ,_,l,-,h,_,x,o,m,a,𝓂,h,.
 
-2Kings 18:27 in vtrad vtbhs
+2Kings 18:27 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 α,:_,l,‥,y,h,∵,(ge),m.
@@ -15280,7 +15484,7 @@ SPACE
 SPACE
 ʕ,i,m,·,a,k,∵,𝓂,m.,.
 
-2Kings 18:28 in vtrad vtbhs
+2Kings 18:28 in vtrad vtsef
 w,_,𝓂,y,·,_,ʕ,:_,m,o,d,(p)
 SPACE
 r,_,v,:,$,·sh,a,q,‥,ƶ,h
@@ -15305,7 +15509,7 @@ m,∵,(me),l,∵,k.,:
 SPACE
 α,_,$,·sh,·,𝓂,w,·,r,.
 
-2Kings 18:29 in vtrad vtbhs
+2Kings 18:29 in vtrad vtsef
 k,·,o,(ye),h
 SPACE
 α,a,m,_,⅃,r
@@ -15328,7 +15532,7 @@ SPACE
 SPACE
 m,i,y,·,a,d,𝓂,w,o,.
 
-2Kings 18:30 in vtrad vtbhs
+2Kings 18:30 in vtrad vtsef
 w,:,α,_,l,-,y,_,v,:,θ,_,(qa),x
 SPACE
 α,∵,τ,:,k,∵,<,m.
@@ -15359,7 +15563,7 @@ m,∵,(me),l,∵,k.,:
 SPACE
 α,_,$,·sh,·,𝓂,w,·,r,.
 
-2Kings 18:31 in vtrad vtbhs
+2Kings 18:31 in vtrad vtsef
 α,_,𝓂,l,-,τ,·,i,$,·sh,:,m,:,ʕ,(ti),w,·
 SPACE
 α,∵,l,-,x,i,z,:,q,i,y,·,a,⅄,h,w,·
@@ -15396,7 +15600,7 @@ SPACE
 SPACE
 m,‥,y,-,v,o,r,𝓂,w,o,.
 
-2Kings 18:32 in vtrad vtbhs
+2Kings 18:32 in vtrad vtsef
 ʕ,_,d,-,v,·,o,α,i,y,(tq)
 SPACE
 w,:,l,a,q,_,x,:,τ,·,i,(qa),y
@@ -15447,7 +15651,7 @@ y,:,h,o,w,a,(ti),h
 SPACE
 y,_,ц,·,i,y,l,‥,𝓂,n,w,·,.
 
-2Kings 18:33 in vtrad vtbhs
+2Kings 18:33 in vtrad vtsef
 h,_,h,_,ц,·,‥,(me),l
 SPACE
 h,i,ц,·,i,⟓,y,l,w,·
@@ -15466,7 +15670,7 @@ m,∵,(me),l,∵,k.,:
 SPACE
 α,_,$,·sh,·,𝓂,w,·,r,.
 
-2Kings 18:34 in vtrad vtbhs
+2Kings 18:34 in vtrad vtsef
 α,_,y,·,‥,h,(tq)
 SPACE
 α,:∵,l,o,h,‥,(qa),y
@@ -15491,7 +15695,7 @@ SPACE
 SPACE
 m,i,y,·,a,d,i,𝓂,y,.
 
-2Kings 18:35 in vtrad vtbhs
+2Kings 18:35 in vtrad vtsef
 m,i,(ye),y
 SPACE
 v,·,:,k,oa,l,-,α,:∵,l,o,h,‥,⅃,y
@@ -15512,7 +15716,7 @@ SPACE
 SPACE
 m,i,y,·,a,d,i,𝓂,y,.
 
-2Kings 18:36 in vtrad vtbhs
+2Kings 18:36 in vtrad vtsef
 w,:,h,∵,x,:∵,r,i,⅃,y,$,·sh,w,·
 SPACE
 h,a,ʕ,a,ƶ,m.
@@ -15535,7 +15739,7 @@ l,o,(me),α
 SPACE
 τ,_,ʕ,:_,n,u,𝓂,h,w,·,.
 
-2Kings 18:37 in vtrad vtbhs
+2Kings 18:37 in vtrad vtsef
 w,_,y,·,a,v,o,⅃,α
 SPACE
 α,∵,l,:,y,a,q,i,⅃,y,m.
@@ -15568,7 +15772,7 @@ d,·,i,v,:,r,‥,(ti),y
 SPACE
 r,_,v,:,$,·sh,a,q,‥,𝓂,h,.
 
-2Kings 19:1 in vtrad vtbhs
+2Kings 19:1 in vtrad vtsef
 w,_,y,:,h,i,◆,y
 SPACE
 k,·,i,$,·sh,:,m,o,(p),ʕ,_,(p)
@@ -15591,7 +15795,7 @@ v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Kings 19:2 in vtrad vtbhs
+2Kings 19:2 in vtrad vtsef
 w,_,⌕,y,·,i,$,·sh,:,l,_,⌕,x
 SPACE
 α,∵,τ,-,α,∵,l,:,y,a,q,i,(qa),y,m.
@@ -15618,7 +15822,7 @@ h,_,n,·,a,v,i,(ti),y,α
 SPACE
 v,·,∵,n.,-,α,a,m,𝓂,w,o,ц.,.
 
-2Kings 19:3 in vtrad vtbhs
+2Kings 19:3 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,⅃,w,·
 SPACE
 α,‥,l,a,◆,y,w
@@ -15653,7 +15857,7 @@ SPACE
 SPACE
 l,:,l,‥,d,a,𝓂,h,.
 
-2Kings 19:4 in vtrad vtbhs
+2Kings 19:4 in vtrad vtsef
 α,w,·,l,_,μ,y
 SPACE
 y,i,$,·sh,:,m,_,ʕ,(tq)
@@ -15663,6 +15867,10 @@ SPACE
 α,:∵,l,o,h,∵,(ge),y,k.,a
 SPACE
 α,‥,⅃,τ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 k,·,oa,l,-,d,·,i,v,:,r,‥,⅃,y
 SPACE
@@ -15673,6 +15881,11 @@ SPACE
 $,·sh,:,l,a,x,(qa),w,o
 SPACE
 m,∵,𝓂,l,∵,k.,:,-,α,_,$,·sh,·,<,w,·,r
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 α,:_,d,o,n,a,y,w,(p)
 SPACE
 l,:,x,a,r,‥,f.,(p)
@@ -15703,7 +15916,7 @@ h,_,$,·sh,·,:,α,‥,r,i,(ti),y,τ
 SPACE
 h,_,n,·,i,m,:,ц,a,α,a,𝓂,h,.
 
-2Kings 19:5 in vtrad vtbhs
+2Kings 19:5 in vtrad vtsef
 w,_,y,·,a,v,o,◆,α,w,·
 SPACE
 ʕ,_,v,:,d,‥,⟓,y
@@ -15714,7 +15927,7 @@ x,i,z,:,q,i,y,·,a,(ti),h,w,·
 SPACE
 α,∵,𝓂,l,-,y,:,$,·sh,_,ʕ,:,y,a,𝓂,h,w,·,.
 
-2Kings 19:6 in vtrad vtbhs
+2Kings 19:6 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 l,a,h,∵,m.,(p)
@@ -15728,6 +15941,10 @@ SPACE
 α,∵,l,-,α,:_,d,o,n,‥,y,k,∵,⅄,m.
 SPACE
 k,·,o,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -15753,7 +15970,7 @@ m,∵,l,∵,k.,:,-,α,_,$,·sh,·,(ti),w,·,r
 SPACE
 α,o,τ,i,𝓂,y,.
 
-2Kings 19:7 in vtrad vtbhs
+2Kings 19:7 in vtrad vtsef
 h,i,n,:,n,i,(qa),y
 SPACE
 n,o,τ,‥,(me),n.
@@ -15776,7 +15993,7 @@ v,·,_,x,∵,(ti),r,∵,v
 SPACE
 v,·,:,α,_,r,:,ц,𝓂,w,o,.
 
-2Kings 19:8 in vtrad vtbhs
+2Kings 19:8 in vtrad vtsef
 w,_,y,·,a,(p),$,·sh,oa,v,(p)
 SPACE
 r,_,v,:,$,·sh,a,q,‥,ƶ,h
@@ -15801,7 +16018,7 @@ n,a,σ,_,(ti),ʕ
 SPACE
 m,i,l,·,a,k,i,𝓂,y,$,·sh,.
 
-2Kings 19:9 in vtrad vtbhs
+2Kings 19:9 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,_,◆,ʕ
 SPACE
 α,∵,l,-,τ,·,i,r,:,h,a,<,q,a,h
@@ -15828,7 +16045,7 @@ SPACE
 SPACE
 l,‥,α,m,o,𝓂,r,.
 
-2Kings 19:10 in vtrad vtbhs
+2Kings 19:10 in vtrad vtsef
 k,·,o,⅃,h
 SPACE
 τ,o,α,m,:,r,◆,w,·,n.
@@ -15865,8 +16082,12 @@ m,∵,(me),l,∵,k.,:
 SPACE
 α,_,$,·sh,·,𝓂,w,·,r,.
 
-2Kings 19:11 in vtrad vtbhs
+2Kings 19:11 in vtrad vtsef
 h,i,n,·,‥,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,_,τ,·,a,⅃,h
 SPACE
@@ -15890,7 +16111,7 @@ w,:,α,_,τ,·,a,(ti),h
 SPACE
 τ,·,i,n,·,a,ц,‥,𝓂,l,.
 
-2Kings 19:12 in vtrad vtbhs
+2Kings 19:12 in vtrad vtsef
 h,_,h,i,ц,·,i,(qa),y,l,w,·
 SPACE
 α,o,τ,a,(ge),m.
@@ -15917,7 +16138,7 @@ SPACE
 SPACE
 v,·,i,τ,:,l,_,α,$,·si,·,a,𝓂,r,.
 
-2Kings 19:13 in vtrad vtbhs
+2Kings 19:13 in vtrad vtsef
 α,_,y,·,<,w,o
 SPACE
 m,∵,𝓂,l,∵,k.,:,-,x,:_,m,a,τ,(p)
@@ -15936,7 +16157,7 @@ h,‥,n,_,(ti),ʕ
 SPACE
 w,:,ʕ,i,w,·,a,𝓂,h,.
 
-2Kings 19:14 in vtrad vtbhs
+2Kings 19:14 in vtrad vtsef
 w,_,y,·,i,q,·,_,(qa),x
 SPACE
 x,i,z,:,q,i,y,·,a,(da),h,w,·
@@ -15963,7 +16184,7 @@ l,i,f,:,n,‥,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Kings 19:15 in vtrad vtbhs
+2Kings 19:15 in vtrad vtsef
 w,_,y,·,i,τ,:,f,·,_,l,·,‥,(qa),l
 SPACE
 x,i,z,:,q,i,y,·,a,(ge),h,w,·
@@ -16004,10 +16225,15 @@ SPACE
 SPACE
 w,:,α,∵,τ,-,h,a,α,a,𝓂,r,∵,ц.,.
 
-2Kings 19:16 in vtrad vtbhs
+2Kings 19:16 in vtrad vtsef
 h,_,θ,·,‥,(qa),h
 SPACE
 y,:,h,o,w,a,<,h
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 α,oa,z,:,n,:,k.,a,(p)
 SPACE
 w,·,𝓂,$,·sh,:,m,a,ƶ,ʕ
@@ -16038,7 +16264,7 @@ SPACE
 SPACE
 x,a,𝓂,y,.
 
-2Kings 19:17 in vtrad vtbhs
+2Kings 19:17 in vtrad vtsef
 α,oa,m,:,n,a,(ti),m.
 SPACE
 y,:,h,o,w,a,⅄,h
@@ -16053,7 +16279,7 @@ SPACE
 SPACE
 w,:,α,∵,τ,-,α,_,r,:,ц,a,𝓂,m.,.
 
-2Kings 19:18 in vtrad vtbhs
+2Kings 19:18 in vtrad vtsef
 w,:,n,a,τ,:,n,(me),w,·
 SPACE
 α,∵,τ,-,α,:∵,l,o,h,‥,y,h,∵,(ti),m.
@@ -16080,7 +16306,7 @@ w,a,α,∵,(ti),v,∵,n.
 SPACE
 w,_,𝓂,y,:,α,_,v,·,:,d,𝓂,w,·,m.,.
 
-2Kings 19:19 in vtrad vtbhs
+2Kings 19:19 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,h,(p)
 SPACE
 y,:,h,o,w,a,⅃,h
@@ -16109,7 +16335,7 @@ SPACE
 SPACE
 l,:,v,_,d,·,∵,𝓂,k.,a,.
 
-2Kings 19:20 in vtrad vtbhs
+2Kings 19:20 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,x,(p)
 SPACE
 y,:,$,·sh,_,ʕ,:,y,a,⅃,h,w,·
@@ -16140,7 +16366,7 @@ m,∵,l,∵,k.,:,-,α,_,$,·sh,·,(ti),w,·,r
 SPACE
 $,·sh,a,m,a,𝓂,ʕ,:,τ,·,i,y,.
 
-2Kings 19:21 in vtrad vtbhs
+2Kings 19:21 in vtrad vtsef
 z,∵,⅃,h
 SPACE
 h,_,d,·,a,v,a,ƶ,r
@@ -16173,7 +16399,7 @@ v,·,_,(ti),τ
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Kings 19:22 in vtrad vtbhs
+2Kings 19:22 in vtrad vtsef
 α,∵,τ,-,m,i,<,y
 SPACE
 x,‥,r,_,(p),f,:,τ,·,a,(p)
@@ -16196,12 +16422,17 @@ SPACE
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 19:23 in vtrad vtbhs
+2Kings 19:23 in vtrad vtsef
 v,·,:,y,_,⅃,d
 SPACE
 m,_,l,:,α,a,k,∵,≁,y,k.,a,~
 SPACE
 x,‥,r,_,⅃,f,:,τ,·,a
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 α,:_,d,o,n,a,y,∴
 SPACE
 w,_,τ,·,o,◆,α,m,∵,r
@@ -16240,7 +16471,7 @@ y,_,(ti),ʕ,_,r
 SPACE
 k,·,_,r,:,m,i,l,·,𝓂,w,o,.
 
-2Kings 19:24 in vtrad vtbhs
+2Kings 19:24 in vtrad vtsef
 α,:_,n,i,⅃,y
 SPACE
 q,_,ƶ,r,:,τ,·,i,y
@@ -16261,7 +16492,7 @@ y,:,α,o,r,‥,(me),y
 SPACE
 m,a,ц,𝓂,w,o,r,.
 
-2Kings 19:25 in vtrad vtbhs
+2Kings 19:25 in vtrad vtsef
 h,:_,l,o,𝓂,α,-,$,·sh,a,m,_,<,ʕ,:,τ,·,a
 SPACE
 l,:,m,‥,𝓂,r,a,x,w,o,q,(p)
@@ -16292,7 +16523,7 @@ SPACE
 SPACE
 v,·,:,ц,u,r,𝓂,w,o,τ,.
 
-2Kings 19:26 in vtrad vtbhs
+2Kings 19:26 in vtrad vtsef
 w,:,y,o,𝓂,$,·sh,:,v,‥,y,h,∵,n.,(p)
 SPACE
 q,i,ц,:,r,‥,y,-,y,a,ƶ,d
@@ -16321,7 +16552,7 @@ l,i,f,:,n,‥,(me),y
 SPACE
 q,a,m,a,𝓂,h,.
 
-2Kings 19:27 in vtrad vtbhs
+2Kings 19:27 in vtrad vtsef
 w,:,$,·sh,i,v,:,τ,·,:,k.,a,⟓
 SPACE
 w,:,ц,‥,α,τ,:,k.,a,(me)
@@ -16336,7 +16567,7 @@ h,i,𝓂,τ,:,r,_,g,·,∵,z,:,k.,a,(me)
 SPACE
 α,‥,l,a,𝓂,y,.
 
-2Kings 19:28 in vtrad vtbhs
+2Kings 19:28 in vtrad vtsef
 y,_,(ye),ʕ,_,n.
 SPACE
 h,i,τ,:,r,_,g,·,∵,z,:,k.,a,⅃
@@ -16367,7 +16598,7 @@ SPACE
 SPACE
 v,·,a,𝓂,h,·,.
 
-2Kings 19:29 in vtrad vtbhs
+2Kings 19:29 in vtrad vtsef
 w,:,z,∵,h,-,l,·,:,k.,a,⅃
 SPACE
 h,a,α,ƶ,w,o,τ
@@ -16400,7 +16631,7 @@ w,:,α,i,k,:,l,(me),w,·
 SPACE
 f,i,r,:,y,a,𝓂,m.,.
 
-2Kings 19:30 in vtrad vtbhs
+2Kings 19:30 in vtrad vtsef
 w,:,y,a,(qa),σ,:,f,a,(ge),h
 SPACE
 f,·,:,l,‥,y,θ,_,(da),τ
@@ -16419,7 +16650,7 @@ f,:,r,i,(ti),y
 SPACE
 l,:,m,a,𝓂,ʕ,:,l,a,h,.
 
-2Kings 19:31 in vtrad vtbhs
+2Kings 19:31 in vtrad vtsef
 k,·,i,<,y
 SPACE
 m,i,y,r,w,·,$,·sh,a,l,_,(p),CGJ,i,m.,(p)
@@ -16441,7 +16672,7 @@ SPACE
 SPACE
 τ,·,_,ʕ,:_,$,·si,∵,h,-,z,·,o,𝓂,α,τ,.
 
-2Kings 19:32 in vtrad vtbhs
+2Kings 19:32 in vtrad vtsef
 l,a,k,‥,◆,n.
 SPACE
 k,·,o,𝓂,h,-,α,a,m,_,<,r
@@ -16476,7 +16707,7 @@ SPACE
 SPACE
 σ,o,l,:,l,a,𝓂,h,.
 
-2Kings 19:33 in vtrad vtbhs
+2Kings 19:33 in vtrad vtsef
 v,·,_,d,·,∵,(me),r,∵,k.,:
 SPACE
 α,:_,$,·sh,∵,r,-,y,a,v,o,(ti),α
@@ -16495,7 +16726,7 @@ y,a,v,o,(ti),α
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
 
-2Kings 19:34 in vtrad vtbhs
+2Kings 19:34 in vtrad vtsef
 w,:,g,_,n,·,w,o,τ,i,⟓,y
 SPACE
 α,∵,l,-,h,a,ʕ,i,(me),y,r
@@ -16512,7 +16743,7 @@ d,·,a,w,i,(me),d
 SPACE
 ʕ,_,v,:,d,·,i,𝓂,y,.
 
-2Kings 19:35 in vtrad vtbhs
+2Kings 19:35 in vtrad vtsef
 w,_,y,:,h,i,y,~
 SPACE
 v,·,_,l,·,_,⅃,y,:,l,a,h
@@ -16520,6 +16751,10 @@ SPACE
 h,_,h,w,·,α,∴
 SPACE
 w,_,y,·,‥,ц,‥,⅃,α
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 m,_,l,:,α,_,⅃,k.,:
 SPACE
@@ -16551,7 +16786,7 @@ f,·,:,g,a,r,i,(me),y,m.
 SPACE
 m,‥,τ,i,𝓂,y,m.,.
 
-2Kings 19:36 in vtrad vtbhs
+2Kings 19:36 in vtrad vtsef
 w,_,y,·,i,σ,·,_,⅃,ʕ
 SPACE
 w,_,y,·,‥,ƶ,l,∵,k.,:
@@ -16566,7 +16801,7 @@ w,_,y,·,‥,(ti),$,·sh,∵,v
 SPACE
 v,·,:,n,i,𝓂,y,n,:,w,‥,𝓂,h,.
 
-2Kings 19:37 in vtrad vtbhs
+2Kings 19:37 in vtrad vtsef
 w,_,y,:,h,i,y,(tq)
 SPACE
 h,(qa),w,·,α
@@ -16574,6 +16809,10 @@ SPACE
 m,i,𝓂,$,·sh,:,τ,·,_,x,:_,w,∵,(ge),h
 SPACE
 v,·,‥,⅃,y,τ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 n,i,σ,:,r,o,⅃,k.,:
 SPACE
@@ -16604,7 +16843,7 @@ v,·,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Kings 20:1 in vtrad vtbhs
+2Kings 20:1 in vtrad vtsef
 v,·,_,y,·,a,m,i,⅃,y,m.
 SPACE
 h,a,h,‥,ƶ,m.
@@ -16647,7 +16886,7 @@ w,:,l,o,(me),α
 SPACE
 τ,i,𝓂,x,:,y,∵,𝓂,h,.
 
-2Kings 20:2 in vtrad vtbhs
+2Kings 20:2 in vtrad vtsef
 w,_,y,·,_,σ,·,‥,(me),v
 SPACE
 α,∵,τ,-,f,·,a,n,a,(ti),y,w
@@ -16660,7 +16899,7 @@ SPACE
 SPACE
 l,‥,α,m,o,𝓂,r,.
 
-2Kings 20:3 in vtrad vtbhs
+2Kings 20:3 in vtrad vtsef
 α,a,n,·,a,⅃,h
 SPACE
 y,:,h,o,w,a,◆,h
@@ -16695,7 +16934,7 @@ v,·,:,k,i,(me),y
 SPACE
 g,a,d,𝓂,w,o,l,.
 
-2Kings 20:4 in vtrad vtbhs
+2Kings 20:4 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
 SPACE
 y,:,$,·sh,_,𝓂,ʕ,:,y,a,ƶ,h,w,·
@@ -16715,7 +16954,7 @@ SPACE
 SPACE
 l,‥,α,m,o,𝓂,r,.
 
-2Kings 20:5 in vtrad vtbhs
+2Kings 20:5 in vtrad vtsef
 $,·sh,⅃,w,·,v
 SPACE
 w,:,α,a,m,_,r,:,τ,·,a,(G)
@@ -16758,7 +16997,7 @@ v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Kings 20:6 in vtrad vtbhs
+2Kings 20:6 in vtrad vtsef
 w,:,h,o,𝓂,σ,_,f,:,τ,·,i,⅃,y
 SPACE
 ʕ,_,l,-,y,a,m,∵,◆,y,k.,a
@@ -16795,7 +17034,7 @@ d,·,a,w,i,(me),d
 SPACE
 ʕ,_,v,:,d,·,i,𝓂,y,.
 
-2Kings 20:7 in vtrad vtbhs
+2Kings 20:7 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 y,:,$,·sh,_,ʕ,:,y,a,ƶ,h,w,·
@@ -16814,7 +17053,7 @@ SPACE
 SPACE
 w,_,y,·,∵,𝓂,x,i,y,.
 
-2Kings 20:8 in vtrad vtbhs
+2Kings 20:8 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 x,i,z,:,q,i,y,·,a,(p),h,w,·,(p)
@@ -16841,7 +17080,7 @@ v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Kings 20:9 in vtrad vtbhs
+2Kings 20:9 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 y,:,$,·sh,_,ʕ,:,y,a,◆,h,w,·
@@ -16880,7 +17119,7 @@ SPACE
 SPACE
 m,_,ʕ,:_,l,𝓂,w,o,τ,.
 
-2Kings 20:10 in vtrad vtbhs
+2Kings 20:10 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
 SPACE
 y,:,x,i,z,:,q,i,y,·,a,ƶ,h,w,·
@@ -16909,7 +17148,7 @@ SPACE
 SPACE
 m,_,ʕ,:_,l,𝓂,w,o,τ,.
 
-2Kings 20:11 in vtrad vtbhs
+2Kings 20:11 in vtrad vtsef
 w,_,y,·,i,q,:,r,a,⟓,α
 SPACE
 y,:,$,·sh,_,ʕ,:,y,a,(me),h,w,·
@@ -16938,7 +17177,7 @@ SPACE
 SPACE
 m,_,ʕ,:_,l,𝓂,w,o,τ,.
 
-2Kings 20:12 in vtrad vtbhs
+2Kings 20:12 in vtrad vtsef
 v,·,a,ʕ,‥,⅃,τ
 SPACE
 h,_,h,i,μ,y,α
@@ -16969,7 +17208,7 @@ x,a,l,a,(ti),h
 SPACE
 x,i,z,:,q,i,y,·,a,𝓂,h,w,·,.
 
-2Kings 20:13 in vtrad vtbhs
+2Kings 20:13 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,_,⅃,ʕ
 SPACE
 ʕ,:_,l,‥,y,h,∵,m.,~
@@ -16989,6 +17228,10 @@ SPACE
 w,:,α,∵,τ,-,h,_,v,·,:,$,·si,a,m,i,(ge),y,m.
 SPACE
 w,:,α,‥,⅃,τ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 $,·sh,∵,⅃,m,∵,n.
 SPACE
@@ -17022,7 +17265,7 @@ v,·,:,v,‥,y,τ,(ti),w,o
 SPACE
 w,·,v,:,k,oa,l,-,m,∵,m,:,$,·sh,_,l,:,τ,·,𝓂,w,o,.
 
-2Kings 20:14 in vtrad vtbhs
+2Kings 20:14 in vtrad vtsef
 w,_,y,·,a,v,o,α,(p)
 SPACE
 y,:,$,·sh,_,ʕ,:,y,a,⅃,h,w,·
@@ -17040,6 +17283,10 @@ SPACE
 m,a,(me),h
 SPACE
 α,a,𝓂,m,:,r,⅃,w,·
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 h,a,α,:_,n,a,$,·sh,i,⅃,y,m.
 SPACE
@@ -17063,7 +17310,7 @@ v,·,a,(ti),α,w,·
 SPACE
 m,i,v,·,a,v,∵,𝓂,l,.
 
-2Kings 20:15 in vtrad vtbhs
+2Kings 20:15 in vtrad vtsef
 w,_,y,·,o,Ƶ,α,m,∵,r
 SPACE
 m,a,(me),h
@@ -17094,7 +17341,7 @@ l,o,𝓂,α,-,h,i,r,:,α,i,y,τ,i,(ti),m.
 SPACE
 v,·,:,α,o,ц,:,r,o,τ,a,𝓂,y,.
 
-2Kings 20:16 in vtrad vtbhs
+2Kings 20:16 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
 SPACE
 y,:,$,·sh,_,ʕ,:,y,a,(ti),h,w,·
@@ -17105,7 +17352,7 @@ $,·sh,:,m,_,(ti),ʕ
 SPACE
 d,·,:,v,_,r,-,y,:,h,o,w,a,𝓂,h,.
 
-2Kings 20:17 in vtrad vtbhs
+2Kings 20:17 in vtrad vtsef
 h,i,n,·,‥,h,~
 SPACE
 y,a,m,i,⅃,y,m.
@@ -17113,6 +17360,10 @@ SPACE
 v,·,a,α,i,y,m.,∴
 SPACE
 w,:,n,i,$,·si,·,a,⅃,α
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 k,·,oa,l,-,α,:_,$,·sh,∵,⅃,r
 SPACE
@@ -17138,7 +17389,7 @@ SPACE
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Kings 20:18 in vtrad vtbhs
+2Kings 20:18 in vtrad vtsef
 w,·,m,i,v,·,a,n,∵,(ge),y,k.,a
 SPACE
 α,:_,$,·sh,∵,(qa),r
@@ -17162,7 +17413,7 @@ m,∵,(me),l,∵,k.,:
 SPACE
 v,·,a,v,∵,𝓂,l,.
 
-2Kings 20:19 in vtrad vtbhs
+2Kings 20:19 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 x,i,z,:,q,i,y,·,a,(p),h,w,·,(p)
@@ -17189,7 +17440,7 @@ y,i,h,:,y,∵,(me),h
 SPACE
 v,:,y,a,m,a,𝓂,y,.
 
-2Kings 20:20 in vtrad vtbhs
+2Kings 20:20 in vtrad vtsef
 w,:,y,∵,(qa),τ,∵,r
 SPACE
 d,·,i,v,:,r,‥,<,y
@@ -17226,7 +17477,7 @@ l,:,m,_,l,:,k,‥,(me),y
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Kings 20:21 in vtrad vtbhs
+2Kings 20:21 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,(me),v
 SPACE
 x,i,z,:,q,i,y,·,a,(ti),h,w,·
@@ -17241,7 +17492,7 @@ v,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Kings 21:1 in vtrad vtbhs
+2Kings 21:1 in vtrad vtsef
 v,·,∵,n.,-,$,·sh,:,τ,·,‥,(qa),y,m.
 SPACE
 ʕ,∵,$,·si,:,r,‥,<,h
@@ -17268,7 +17519,7 @@ SPACE
 SPACE
 x,∵,f,:,ц,i,y,-,v,a,𝓂,h,·,.
 
-2Kings 21:2 in vtrad vtbhs
+2Kings 21:2 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 h,a,r,_,(ti),ʕ
@@ -17293,7 +17544,7 @@ v,·,:,n,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 21:3 in vtrad vtbhs
+2Kings 21:3 in vtrad vtsef
 w,_,y,·,a,◆,$,·sh,oa,v
 SPACE
 w,_,y,·,i,(p),v,∵,n.,(p)
@@ -17338,7 +17589,7 @@ w,_,𝓂,y,·,_,ʕ,:_,v,o,(ti),d
 SPACE
 α,o,τ,a,𝓂,m.,.
 
-2Kings 21:4 in vtrad vtbhs
+2Kings 21:4 in vtrad vtsef
 w,·,v,a,n,a,(me),h
 SPACE
 m,i,z,:,v,·,:,x,o,(ti),τ
@@ -17359,7 +17610,7 @@ SPACE
 SPACE
 α,∵,τ,-,$,·sh,:,m,i,𝓂,y,.
 
-2Kings 21:5 in vtrad vtbhs
+2Kings 21:5 in vtrad vtsef
 w,_,y,·,i,(me),v,∵,n.
 SPACE
 m,i,z,:,v,·,:,x,(ti),w,o,τ
@@ -17374,7 +17625,7 @@ x,_,ц,:,r,(me),w,o,τ
 SPACE
 v,·,‥,y,τ,-,y,:,h,o,w,a,𝓂,h,.
 
-2Kings 21:6 in vtrad vtbhs
+2Kings 21:6 in vtrad vtsef
 w,:,h,∵,ʕ,:∵,v,i,<,y,r
 SPACE
 α,∵,τ,-,v,·,:,n,w,o,(p)
@@ -17403,7 +17654,7 @@ y,:,h,o,w,a,(ti),h
 SPACE
 l,:,h,_,k,:,ʕ,i,𝓂,y,σ,.
 
-2Kings 21:7 in vtrad vtbhs
+2Kings 21:7 in vtrad vtsef
 w,_,y,·,a,Ƶ,$,·si,∵,m.
 SPACE
 α,∵,τ,-,f,·,∵,(me),σ,∵,l
@@ -17450,7 +17701,7 @@ SPACE
 SPACE
 l,:,ʕ,w,o,l,a,𝓂,m.,.
 
-2Kings 21:8 in vtrad vtbhs
+2Kings 21:8 in vtrad vtsef
 w,:,l,o,⅃,α
 SPACE
 α,o,σ,i,◆,y,f.
@@ -17470,6 +17721,10 @@ SPACE
 l,_,α,:_,v,w,o,τ,a,⅄,m.
 SPACE
 r,_,⅃,q
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,i,m.,-,y,i,$,·sh,:,m,:,r,⅃,w,·
 SPACE
@@ -17491,7 +17746,7 @@ SPACE
 SPACE
 m,o,$,·sh,∵,𝓂,h,.
 
-2Kings 21:9 in vtrad vtbhs
+2Kings 21:9 in vtrad vtsef
 w,:,l,o,(ti),α
 SPACE
 $,·sh,a,m,‥,⅄,ʕ,w,·
@@ -17518,7 +17773,7 @@ v,·,:,n,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Kings 21:10 in vtrad vtbhs
+2Kings 21:10 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(da),r
 SPACE
 y,:,h,o,w,a,⟓,h
@@ -17529,7 +17784,7 @@ h,_,n,·,:,v,i,y,α,i,(ti),y,m.
 SPACE
 l,‥,α,m,o,𝓂,r,.
 
-2Kings 21:11 in vtrad vtbhs
+2Kings 21:11 in vtrad vtsef
 y,_,(tq),ʕ,_,n.,(tq)
 SPACE
 α,:_,$,·sh,∵,(qa),r
@@ -17562,7 +17817,7 @@ g,_,𝓂,m.,-,α,∵,τ,-,y,:,h,w,·,d,a,(ti),h
 SPACE
 v,·,:,g,i,l,·,w,·,l,a,𝓂,y,w,.
 
-2Kings 21:12 in vtrad vtbhs
+2Kings 21:12 in vtrad vtsef
 l,a,k,‥,◆,n.
 SPACE
 k,·,o,𝓂,h,-,α,a,m,_,<,r
@@ -17593,7 +17848,7 @@ $,·sh,:,τ,·,‥,(me),y
 SPACE
 α,oa,z,:,n,a,𝓂,y,w,.
 
-2Kings 21:13 in vtrad vtbhs
+2Kings 21:13 in vtrad vtsef
 w,:,n,a,θ,i,⅃,y,τ,i,y
 SPACE
 ʕ,_,l,-,y,:,r,w,·,$,·sh,a,l,_,◆,CGJ,i,m.
@@ -17624,7 +17879,7 @@ w,:,h,a,f,_,(ti),k.,:
 SPACE
 ʕ,_,l,-,f,·,a,n,∵,𝓂,y,h,a,.
 
-2Kings 21:14 in vtrad vtbhs
+2Kings 21:14 in vtrad vtsef
 w,:,n,a,θ,_,$,·sh,:,τ,·,i,◆,y
 SPACE
 α,‥,(ye),τ
@@ -17647,7 +17902,7 @@ w,:,l,i,m,:,$,·sh,i,σ,·,a,(ti),h
 SPACE
 l,:,k,oa,l,-,α,o,y,:,v,‥,y,h,∵,𝓂,m.,.
 
-2Kings 21:15 in vtrad vtbhs
+2Kings 21:15 in vtrad vtsef
 y,_,◆,ʕ,_,n.
 SPACE
 α,:_,$,·sh,∵,(qa),r
@@ -17680,7 +17935,7 @@ h,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Kings 21:16 in vtrad vtbhs
+2Kings 21:16 in vtrad vtsef
 w,:,g,_,m.,(tq)
 SPACE
 d,·,a,(qa),m.
@@ -17723,7 +17978,7 @@ v,·,:,ʕ,‥,y,n,‥,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Kings 21:17 in vtrad vtbhs
+2Kings 21:17 in vtrad vtsef
 w,:,y,∵,(qa),τ,∵,r
 SPACE
 d,·,i,v,:,r,‥,<,y
@@ -17754,7 +18009,7 @@ l,:,m,_,l,:,k,‥,(me),y
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Kings 21:18 in vtrad vtbhs
+2Kings 21:18 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,<,v
 SPACE
 m,:,n,_,$,·sh,·,∵,h,(p)
@@ -17775,7 +18030,7 @@ v,·,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Kings 21:19 in vtrad vtbhs
+2Kings 21:19 in vtrad vtsef
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,(qa),y,m.
 SPACE
 w,·,$,·sh,:,τ,·,_,<,y,i,m.
@@ -17804,7 +18059,7 @@ v,·,_,τ,-,x,a,r,(ti),w,·,ц.
 SPACE
 m,i,n.,-,y,oa,θ,:,v,a,𝓂,h,.
 
-2Kings 21:20 in vtrad vtbhs
+2Kings 21:20 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 h,a,r,_,(ti),ʕ
@@ -17821,7 +18076,7 @@ m,:,n,_,$,·sh,·,∵,(me),h
 SPACE
 α,a,v,i,𝓂,y,w,.
 
-2Kings 21:21 in vtrad vtbhs
+2Kings 21:21 in vtrad vtsef
 w,_,y,·,‥,Ƶ,l,∵,k.,:
 SPACE
 v,·,:,k,oa,l,-,h,_,d,·,∵,(ti),r,∵,k.,:
@@ -17844,7 +18099,7 @@ w,_,y,·,i,$,·sh,:,τ,·,_,(ti),x,w,·
 SPACE
 l,a,h,∵,𝓂,m.,.
 
-2Kings 21:22 in vtrad vtbhs
+2Kings 21:22 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,z,o,Ƶ,v
 SPACE
 α,∵,τ,-,y,:,h,o,w,a,(ti),h
@@ -17861,7 +18116,7 @@ v,·,:,d,∵,(me),r,∵,k.,:
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Kings 21:23 in vtrad vtbhs
+2Kings 21:23 in vtrad vtsef
 w,_,y,·,i,q,:,$,·sh,:,r,(me),w,·
 SPACE
 ʕ,_,v,:,d,‥,y,-,α,a,m,(ti),w,o,n.
@@ -17874,7 +18129,7 @@ SPACE
 SPACE
 v,·,:,v,‥,y,τ,𝓂,w,o,.
 
-2Kings 21:24 in vtrad vtbhs
+2Kings 21:24 in vtrad vtsef
 w,_,y,·,_,k.,:,(p)
 SPACE
 ʕ,_,m.,-,h,a,α,a,ƶ,r,∵,ц.
@@ -17897,7 +18152,7 @@ v,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Kings 21:25 in vtrad vtbhs
+2Kings 21:25 in vtrad vtsef
 w,:,y,∵,⟓,τ,∵,r
 SPACE
 d,·,i,v,:,r,‥,(me),y
@@ -17922,7 +18177,7 @@ l,:,m,_,l,:,k,‥,(me),y
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Kings 21:26 in vtrad vtbhs
+2Kings 21:26 in vtrad vtsef
 w,_,y,·,i,q,:,v,·,o,(me),r
 SPACE
 α,o,τ,⟓,w,o
@@ -17939,7 +18194,7 @@ v,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Kings 22:1 in vtrad vtbhs
+2Kings 22:1 in vtrad vtsef
 v,·,∵,n.,-,$,·sh,:,m,o,n,∵,<,h
 SPACE
 $,·sh,a,n,a,h,(p)
@@ -17968,7 +18223,7 @@ v,_,τ,-,ʕ,:_,d,a,y,a,(ti),h
 SPACE
 m,i,v,·,a,ц,:,q,_,𝓂,τ,.
 
-2Kings 22:2 in vtrad vtbhs
+2Kings 22:2 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 h,_,y,·,a,$,·sh,a,(ti),r
@@ -17991,7 +18246,7 @@ y,a,m,i,(me),y,n.
 SPACE
 w,·,$,·si,:,m,o,𝓂,α,w,l,.
 
-2Kings 22:3 in vtrad vtbhs
+2Kings 22:3 in vtrad vtsef
 w,_,y,:,h,i,◆,y
 SPACE
 v,·,i,$,·sh,:,m,o,n,∵,<,h
@@ -18022,7 +18277,7 @@ y,:,h,o,w,a,(ti),h
 SPACE
 l,‥,α,m,o,𝓂,r,.
 
-2Kings 22:4 in vtrad vtbhs
+2Kings 22:4 in vtrad vtsef
 ʕ,:_,l,‥,◆,h
 SPACE
 α,∵,l,-,x,i,l,:,q,i,y,·,a,(p),h,w,·,(p)
@@ -18053,7 +18308,7 @@ m,‥,α,‥,(me),τ
 SPACE
 h,a,ʕ,a,𝓂,m.,.
 
-2Kings 22:5 in vtrad vtbhs
+2Kings 22:5 in vtrad vtsef
 SPACE
 ʕ,_,l,-,y,_,d,(p)
 SPACE
@@ -18086,7 +18341,7 @@ v,·,∵,(me),d,∵,q
 SPACE
 h,_,v,·,a,𝓂,y,i,τ,.
 
-2Kings 22:6 in vtrad vtbhs
+2Kings 22:6 in vtrad vtsef
 l,∵,x,a,⅃,r,a,$,·sh,i,ƶ,y,m.
 SPACE
 w,:,l,_,v,·,o,n,i,(ti),y,m.
@@ -18105,7 +18360,7 @@ l,:,x,_,z,·,‥,(ti),q
 SPACE
 α,∵,τ,-,h,_,v,·,a,𝓂,y,i,τ,.
 
-2Kings 22:7 in vtrad vtbhs
+2Kings 22:7 in vtrad vtsef
 α,_,(ye),k.,:
 SPACE
 l,o,α,-,y,‥,x,a,$,·sh,‥,⅃,v
@@ -18126,7 +18381,7 @@ h,‥,(me),m.
 SPACE
 ʕ,o,$,·si,i,𝓂,y,m.,.
 
-2Kings 22:8 in vtrad vtbhs
+2Kings 22:8 in vtrad vtsef
 w,_,⌕,y,·,o,⌕,α,m,∵,r
 SPACE
 x,i,l,:,q,i,y,·,a,(ge),h,w,·
@@ -18159,7 +18414,7 @@ SPACE
 SPACE
 w,_,y,·,i,q,:,r,a,α,‥,𝓂,h,w,·,.
 
-2Kings 22:9 in vtrad vtbhs
+2Kings 22:9 in vtrad vtsef
 w,_,y,·,a,v,o,(G),α
 SPACE
 $,·sh,a,f,a,<,n.
@@ -18200,7 +18455,7 @@ v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Kings 22:10 in vtrad vtbhs
+2Kings 22:10 in vtrad vtsef
 w,_,y,·,_,g,·,‥,(G),d
 SPACE
 $,·sh,a,f,a,<,n.
@@ -18229,7 +18484,7 @@ l,i,f,:,n,‥,(me),y
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-2Kings 22:11 in vtrad vtbhs
+2Kings 22:11 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 k,·,i,$,·sh,:,m,o,⅃,ʕ,_
@@ -18246,7 +18501,7 @@ w,_,y,·,i,q,:,r,_,(ti),ʕ
 SPACE
 α,∵,τ,-,v,·,:,g,a,d,a,𝓂,y,w,.
 
-2Kings 22:12 in vtrad vtbhs
+2Kings 22:12 in vtrad vtsef
 w,_,y,:,ц,_,⅃,w
 SPACE
 h,_,m,·,∵,μ,l,∵,k.,:
@@ -18264,6 +18519,10 @@ SPACE
 v,·,∵,n.,-,m,i,y,k,a,y,a,(ge),h
 SPACE
 w,:,α,‥,⅃,τ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 $,·sh,a,f,a,⅃,n.
 SPACE
@@ -18277,7 +18536,7 @@ SPACE
 SPACE
 l,‥,α,m,o,𝓂,r,.
 
-2Kings 22:13 in vtrad vtbhs
+2Kings 22:13 in vtrad vtsef
 l,:,k,w,·,(tq)
 SPACE
 d,i,r,:,$,·sh,(qa),w,·
@@ -18332,7 +18591,7 @@ k,·,:,k,oa,l,-,h,_,k,·,a,τ,(me),w,·,v
 SPACE
 ʕ,a,l,‥,𝓂,y,n,w,·,.
 
-2Kings 22:14 in vtrad vtbhs
+2Kings 22:14 in vtrad vtsef
 w,_,y,·,‥,⅃,l,∵,k.,:
 SPACE
 x,i,l,:,q,i,y,·,a,⅃,h,w,·
@@ -18352,6 +18611,10 @@ SPACE
 h,_,n,·,:,v,i,y,α,a,(ge),h
 SPACE
 α,‥,⅃,$,·sh,∵,τ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 $,·sh,_,l,·,u,⅃,m.
 SPACE
@@ -18375,7 +18638,7 @@ w,_,𝓂,y,:,d,_,v,·,:,r,(ti),w,·
 SPACE
 α,‥,l,∵,𝓂,y,h,a,.
 
-2Kings 22:15 in vtrad vtbhs
+2Kings 22:15 in vtrad vtsef
 w,_,τ,·,o,⅃,α,m,∵,r
 SPACE
 α,:_,l,‥,y,h,∵,ƶ,m.
@@ -18398,7 +18661,7 @@ SPACE
 SPACE
 α,‥,l,a,𝓂,y,.
 
-2Kings 22:16 in vtrad vtbhs
+2Kings 22:16 in vtrad vtsef
 k,·,o,(ye),h
 SPACE
 α,a,m,_,⅃,r
@@ -18431,8 +18694,12 @@ m,∵,(me),l,∵,k.,:
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Kings 22:17 in vtrad vtbhs
+2Kings 22:17 in vtrad vtsef
 τ,·,_,⅃,x,_,τ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,:_,$,·sh,∵,⅃,r
 SPACE
@@ -18466,7 +18733,7 @@ w,:,l,o,(me),α
 SPACE
 τ,i,k,:,v,·,∵,𝓂,h,.
 
-2Kings 22:18 in vtrad vtbhs
+2Kings 22:18 in vtrad vtsef
 w,:,α,∵,l,-,m,∵,⅃,l,∵,k.,:
 SPACE
 y,:,h,w,·,d,a,◆,h
@@ -18499,12 +18766,16 @@ SPACE
 SPACE
 $,·sh,a,m,a,𝓂,ʕ,:,τ,·,a,.
 
-2Kings 22:19 in vtrad vtbhs
+2Kings 22:19 in vtrad vtsef
 y,_,⌕,ʕ,_,n.
 SPACE
 r,_,k.,:,-,l,:,v,a,(qa),v,:,k.,a,(ge)
 SPACE
 w,_,τ,·,i,k,·,a,n,_,⅃,ʕ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 m,i,f,·,:,n,‥,⅃,y
 SPACE
@@ -18544,7 +18815,7 @@ $,·sh,a,m,_,(ti),ʕ,:,τ,·,i,y
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
 
-2Kings 22:20 in vtrad vtbhs
+2Kings 22:20 in vtrad vtsef
 l,a,k,‥,n.,(tq)
 SPACE
 h,i,n,:,n,i,(qa),y
@@ -18581,7 +18852,7 @@ SPACE
 SPACE
 d,·,a,v,a,𝓂,r,.
 
-2Kings 23:1 in vtrad vtbhs
+2Kings 23:1 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,(ti),x
 SPACE
 h,_,m,·,∵,⅄,l,∵,k.,:
@@ -18596,7 +18867,7 @@ y,:,h,w,·,d,a,(ti),h
 SPACE
 w,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Kings 23:2 in vtrad vtbhs
+2Kings 23:2 in vtrad vtsef
 w,_,y,·,_,⅃,ʕ,_,l
 SPACE
 h,_,m,·,∵,⅃,l,∵,k.,:
@@ -18639,7 +18910,7 @@ v,·,:,v,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Kings 23:3 in vtrad vtbhs
+2Kings 23:3 in vtrad vtsef
 w,_,y,·,_,𝓂,ʕ,:_,m,o,⅃,d
 SPACE
 h,_,⌕,m,·,∵,⌕,l,∵,k.,:
@@ -18649,6 +18920,10 @@ SPACE
 w,_,y,·,i,k,:,r,o,(me),τ
 SPACE
 α,∵,𝓂,τ,-,h,_,v,·,:,r,i,⅃,y,τ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 l,i,f,:,n,‥,⅃,y
 SPACE
@@ -18692,7 +18967,7 @@ k,·,oa,l,-,h,a,ʕ,a,(ti),m.
 SPACE
 v,·,_,v,·,:,r,i,𝓂,y,τ,.
 
-2Kings 23:4 in vtrad vtbhs
+2Kings 23:4 in vtrad vtsef
 w,_,y,:,ц,_,⅃,w
 SPACE
 h,_,m,·,∵,μ,l,∵,k.,:
@@ -18749,7 +19024,7 @@ SPACE
 SPACE
 v,·,‥,𝓂,y,τ,-,α,‥,𝓂,l,.
 
-2Kings 23:5 in vtrad vtbhs
+2Kings 23:5 in vtrad vtsef
 w,:,h,i,$,·sh,:,v,·,i,⅃,y,τ
 SPACE
 α,∵,τ,-,h,_,k,·,:,m,a,r,i,◆,y,m.
@@ -18790,7 +19065,7 @@ SPACE
 SPACE
 h,_,$,·sh,·,a,m,a,𝓂,y,i,m.,.
 
-2Kings 23:6 in vtrad vtbhs
+2Kings 23:6 in vtrad vtsef
 w,_,y,·,o,ц,‥,⅃,α
 SPACE
 α,∵,τ,-,h,a,α,:_,$,·sh,‥,r,a,h,(tq)
@@ -18829,7 +19104,7 @@ v,·,:,n,‥,(me),y
 SPACE
 h,a,ʕ,a,𝓂,m.,.
 
-2Kings 23:7 in vtrad vtbhs
+2Kings 23:7 in vtrad vtsef
 w,_,y,·,i,τ,·,o,ц.,(p)
 SPACE
 α,∵,τ,-,v,·,a,τ,·,‥,⅃,y
@@ -18854,7 +19129,7 @@ v,·,a,τ,·,i,(ti),y,m.
 SPACE
 l,a,α,:_,$,·sh,‥,r,a,𝓂,h,.
 
-2Kings 23:8 in vtrad vtbhs
+2Kings 23:8 in vtrad vtsef
 w,_,y,·,a,v,‥,<,α
 SPACE
 α,∵,τ,-,k,·,oa,l,-,h,_,k,·,o,𝓂,h,:_,n,i,y,m.,(p)
@@ -18901,7 +19176,7 @@ v,·,:,$,·sh,_,(me),ʕ,_,r
 SPACE
 h,a,ʕ,i,𝓂,y,r,.
 
-2Kings 23:9 in vtrad vtbhs
+2Kings 23:9 in vtrad vtsef
 α,_,◆,k.,:
 SPACE
 l,o,<,α
@@ -18928,7 +19203,7 @@ v,·,:,τ,(me),w,o,k.,:
 SPACE
 α,:_,x,‥,y,h,∵,𝓂,m.,.
 
-2Kings 23:10 in vtrad vtbhs
+2Kings 23:10 in vtrad vtsef
 w,:,θ,i,m,·,‥,⅃,α
 SPACE
 α,∵,τ,-,h,_,τ,·,o,ƶ,f,∵,τ
@@ -18953,7 +19228,7 @@ v,·,a,α,‥,(ti),$,·sh
 SPACE
 l,_,m,·,o,𝓂,l,∵,k.,:,.
 
-2Kings 23:11 in vtrad vtbhs
+2Kings 23:11 in vtrad vtsef
 w,_,y,·,_,$,·sh,:,v,·,‥,⅃,τ
 SPACE
 α,∵,τ,-,h,_,σ,·,w,·,σ,i,◆,y,m.
@@ -18990,7 +19265,7 @@ $,·si,a,r,_,(me),f.
 SPACE
 v,·,a,α,‥,𝓂,$,·sh,.
 
-2Kings 23:12 in vtrad vtbhs
+2Kings 23:12 in vtrad vtsef
 w,:,α,∵,τ,-,h,_,𝓂,m,·,i,z,:,v,·,:,x,μ,w,o,τ
 SPACE
 α,:_,$,·sh,∵,⅃,r
@@ -19002,6 +19277,10 @@ SPACE
 α,a,x,a,(ge),z
 SPACE
 α,:_,$,·sh,∵,r,-,ʕ,a,$,·si,⅃,w,·
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 m,_,l,:,k,‥,⅃,y
 SPACE
@@ -19035,10 +19314,14 @@ SPACE
 SPACE
 q,i,d,:,r,𝓂,w,o,n.,.
 
-2Kings 23:13 in vtrad vtbhs
+2Kings 23:13 in vtrad vtsef
 w,:,𝓂,α,∵,τ,-,h,_,v,·,a,m,(G),w,o,τ
 SPACE
 α,:_,$,·sh,∵,⅃,r
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 ʕ,_,l,-,f,·,:,n,‥,⅃,y
 SPACE
@@ -19059,6 +19342,10 @@ SPACE
 m,∵,l,∵,k.,:,-,y,i,$,·si,:,r,a,α,‥,(ge),l
 SPACE
 l,:,ʕ,_,$,·sh,:,τ,·,o,⅃,r,∵,τ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 $,·sh,i,q,·,u,⅃,ц.
 SPACE
@@ -19080,7 +19367,7 @@ SPACE
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-2Kings 23:14 in vtrad vtbhs
+2Kings 23:14 in vtrad vtsef
 w,:,$,·sh,i,v,·,_,r,(p)
 SPACE
 α,∵,τ,-,h,_,m,·,_,ц,·,‥,v,ƶ,w,o,τ
@@ -19097,7 +19384,7 @@ SPACE
 SPACE
 α,a,d,a,𝓂,m.,.
 
-2Kings 23:15 in vtrad vtbhs
+2Kings 23:15 in vtrad vtsef
 w,:,g,_,(qa),m.
 SPACE
 α,∵,τ,-,h,_,m,·,i,z,:,v,·,‥,(ge),x,_
@@ -19144,7 +19431,7 @@ w,:,$,·si,a,r,_,(me),f.
 SPACE
 α,:_,$,·sh,‥,r,a,𝓂,h,.
 
-2Kings 23:16 in vtrad vtbhs
+2Kings 23:16 in vtrad vtsef
 w,_,y,·,i,⅃,f,∵,n.
 SPACE
 y,o,α,$,·sh,i,y,·,a,◆,h,w,·
@@ -19191,7 +19478,7 @@ SPACE
 SPACE
 h,a,α,‥,𝓂,l,·,∵,h,.
 
-2Kings 23:17 in vtrad vtbhs
+2Kings 23:17 in vtrad vtsef
 w,_,y,·,o,Ƶ,α,m,∵,r
 SPACE
 m,a,(ye),h
@@ -19238,7 +19525,7 @@ h,_,m,·,i,z,:,v,·,_,(me),x
 SPACE
 v,·,‥,𝓂,y,τ,-,α,‥,𝓂,l,.
 
-2Kings 23:18 in vtrad vtbhs
+2Kings 23:18 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
 SPACE
 h,_,n,·,i,⅃,y,x,w,·
@@ -19265,7 +19552,7 @@ SPACE
 SPACE
 m,i,$,·sh,·,o,m,:,r,𝓂,w,o,n.,.
 
-2Kings 23:19 in vtrad vtbhs
+2Kings 23:19 in vtrad vtsef
 w,:,g,_,m.,(tq)
 SPACE
 α,∵,τ,-,k,·,oa,l,-,v,·,a,τ,·,‥,(qa),y
@@ -19273,6 +19560,10 @@ SPACE
 h,_,v,·,a,m,(ge),w,o,τ
 SPACE
 α,:_,$,·sh,∵,⅃,r
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 v,·,:,ʕ,a,r,‥,⅃,y
 SPACE
@@ -19304,7 +19595,7 @@ SPACE
 SPACE
 v,·,:,v,‥,𝓂,y,τ,-,α,‥,𝓂,l,.
 
-2Kings 23:20 in vtrad vtbhs
+2Kings 23:20 in vtrad vtsef
 w,_,⌕,y,·,i,z,:,v,·,_,⌕,x
 SPACE
 α,∵,τ,-,k,·,oa,l,-,k,·,o,h,:_,n,‥,(qa),y
@@ -19327,7 +19618,7 @@ w,_,y,·,a,(ti),$,·sh,oa,v
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Kings 23:21 in vtrad vtbhs
+2Kings 23:21 in vtrad vtsef
 w,_,y,:,ц,_,<,w
 SPACE
 h,_,m,·,∵,(p),l,∵,k.,:,(p)
@@ -19354,7 +19645,7 @@ h,_,v,·,:,r,i,(ti),y,τ
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Kings 23:22 in vtrad vtbhs
+2Kings 23:22 in vtrad vtsef
 k,·,i,⅃,y
 SPACE
 l,o,<,α
@@ -19387,7 +19678,7 @@ w,·,m,_,l,:,k,‥,(me),y
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Kings 23:23 in vtrad vtbhs
+2Kings 23:23 in vtrad vtsef
 k,·,i,◆,y
 SPACE
 α,i,m.,-,v,·,i,$,·sh,:,m,o,n,∵,<,h
@@ -19410,7 +19701,7 @@ l,_,y,h,o,w,a,(ti),h
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Kings 23:24 in vtrad vtbhs
+2Kings 23:24 in vtrad vtsef
 w,:,g,_,⅃,m.
 SPACE
 α,∵,τ,-,h,a,α,o,v,⅃,w,o,τ
@@ -19463,7 +19754,7 @@ v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Kings 23:25 in vtrad vtbhs
+2Kings 23:25 in vtrad vtsef
 w,:,k,a,m,o,(tq),h,w,·,(tq)
 SPACE
 l,o,α,-,h,a,y,a,(qa),h
@@ -19494,8 +19785,12 @@ l,o,α,-,q,a,(me),m.
 SPACE
 k,·,a,m,o,𝓂,h,w,·,.
 
-2Kings 23:26 in vtrad vtbhs
+2Kings 23:26 in vtrad vtsef
 α,_,⅃,k.,:
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 l,o,α,-,$,·sh,a,⅃,v
 SPACE
@@ -19523,7 +19818,7 @@ h,i,k,:,ʕ,i,y,σ,(ti),w,o
 SPACE
 m,:,n,_,$,·sh,·,∵,𝓂,h,.
 
-2Kings 23:27 in vtrad vtbhs
+2Kings 23:27 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 y,:,h,o,w,a,◆,h
@@ -19566,7 +19861,7 @@ $,·sh,:,m,i,(ti),y
 SPACE
 $,·sh,a,𝓂,m.,.
 
-2Kings 23:28 in vtrad vtbhs
+2Kings 23:28 in vtrad vtsef
 w,:,y,∵,⟓,τ,∵,r
 SPACE
 d,·,i,v,:,r,‥,(me),y
@@ -19591,7 +19886,7 @@ l,:,m,_,l,:,k,‥,(me),y
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Kings 23:29 in vtrad vtbhs
+2Kings 23:29 in vtrad vtsef
 v,·,:,y,a,m,a,μ,y,w
 SPACE
 ʕ,a,l,a,h,(tq)
@@ -19624,7 +19919,7 @@ k,·,i,r,:,α,o,τ,(ti),w,o
 SPACE
 α,o,τ,𝓂,w,o,.
 
-2Kings 23:30 in vtrad vtbhs
+2Kings 23:30 in vtrad vtsef
 w,_,y,·,_,r,:,k,·,i,v,u,(qa),h,w,·
 SPACE
 ʕ,:_,v,a,d,a,(me),y,w
@@ -19661,7 +19956,7 @@ SPACE
 SPACE
 α,a,v,i,𝓂,y,w,.
 
-2Kings 23:31 in vtrad vtbhs
+2Kings 23:31 in vtrad vtsef
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,(qa),y,m.
 SPACE
 w,:,$,·sh,a,l,o,<,$,·sh
@@ -19690,7 +19985,7 @@ v,·,_,𝓂,τ,-,y,i,r,:,m,:,y,a,(ti),h,w,·
 SPACE
 m,i,l,·,i,v,:,n,a,𝓂,h,.
 
-2Kings 23:32 in vtrad vtbhs
+2Kings 23:32 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 h,a,r,_,(ti),ʕ
@@ -19705,7 +20000,7 @@ SPACE
 SPACE
 α,:_,v,o,τ,a,𝓂,y,w,.
 
-2Kings 23:33 in vtrad vtbhs
+2Kings 23:33 in vtrad vtsef
 w,_,y,·,_,α,_,σ,:,r,‥,(tq),h,w,·,(tq)
 SPACE
 f,_,r,:,ʕ,o,(qa),h
@@ -19733,7 +20028,7 @@ w,:,k,i,k,·,_,(me),r
 SPACE
 z,a,h,a,𝓂,v,.
 
-2Kings 23:34 in vtrad vtbhs
+2Kings 23:34 in vtrad vtsef
 w,_,y,·,_,m,:,l,‥,k.,:,(tq)
 SPACE
 f,·,_,r,:,ʕ,o,(qa),h
@@ -19768,7 +20063,7 @@ w,_,y,·,a,(me),m,oa,τ
 SPACE
 $,·sh,a,𝓂,m.,.
 
-2Kings 23:35 in vtrad vtbhs
+2Kings 23:35 in vtrad vtsef
 w,:,h,_,k,·,∵,⅃,σ,∵,f.
 SPACE
 w,:,h,_,z,·,a,h,a,◆,v
@@ -19813,7 +20108,7 @@ l,:,f,_,r,:,ʕ,o,(me),h
 SPACE
 n,:,k,o,𝓂,h,.
 
-2Kings 23:36 in vtrad vtbhs
+2Kings 23:36 in vtrad vtsef
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,(qa),y,m.
 SPACE
 w,:,x,a,m,‥,<,$,·sh
@@ -19843,7 +20138,7 @@ v,_,τ,-,f,·,:,d,a,y,a,(ti),h
 SPACE
 m,i,n.,-,r,w,·,m,a,𝓂,h,.
 
-2Kings 23:37 in vtrad vtbhs
+2Kings 23:37 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 h,a,r,_,(ti),ʕ
@@ -19858,7 +20153,7 @@ SPACE
 SPACE
 α,:_,v,o,τ,a,𝓂,y,w,.
 
-2Kings 24:1 in vtrad vtbhs
+2Kings 24:1 in vtrad vtsef
 v,·,:,y,a,m,a,⅃,y,w
 SPACE
 ʕ,a,l,a,ƶ,h
@@ -19883,10 +20178,15 @@ w,_,y,·,a,(ti),$,·sh,oa,v
 SPACE
 w,_,y,·,i,m,:,r,oa,d,-,v,·,𝓂,w,o,.
 
-2Kings 24:2 in vtrad vtbhs
+2Kings 24:2 in vtrad vtsef
 w,_,y,:,$,·sh,_,l,·,_,⅃,x
 SPACE
 y,:,h,o,w,a,⅃,h
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 v,·,μ,w,o
 SPACE
 α,∵,τ,-,g,·,:,d,w,·,d,‥,⅃,y
@@ -19898,6 +20198,10 @@ SPACE
 α,:_,r,a,(ge),m.
 SPACE
 w,:,α,‥,⅃,τ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 g,·,:,d,w,·,d,‥,⅃,y
 SPACE
@@ -19929,8 +20233,12 @@ SPACE
 SPACE
 h,_,n,·,:,v,i,y,α,i,𝓂,y,m.,.
 
-2Kings 24:3 in vtrad vtbhs
+2Kings 24:3 in vtrad vtsef
 α,_,⅃,k.,:
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 ʕ,_,l,-,f,·,i,⅃,y
 SPACE
@@ -19956,7 +20264,7 @@ SPACE
 SPACE
 ʕ,a,$,·si,a,𝓂,h,.
 
-2Kings 24:4 in vtrad vtbhs
+2Kings 24:4 in vtrad vtsef
 w,:,g,_,<,m.
 SPACE
 d,·,_,𝓂,m.,-,h,_,n,·,a,q,i,y,(p)
@@ -19979,7 +20287,7 @@ y,:,h,o,w,a,(ti),h
 SPACE
 l,i,σ,:,l,o,𝓂,x,_,.
 
-2Kings 24:5 in vtrad vtbhs
+2Kings 24:5 in vtrad vtsef
 w,:,y,∵,⟓,τ,∵,r
 SPACE
 d,·,i,v,:,r,‥,(me),y
@@ -20004,7 +20312,7 @@ l,:,m,_,l,:,k,‥,(me),y
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Kings 24:6 in vtrad vtbhs
+2Kings 24:6 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,(me),v
 SPACE
 y,:,h,w,o,y,a,q,i,(ti),y,m.
@@ -20019,7 +20327,7 @@ v,·,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Kings 24:7 in vtrad vtbhs
+2Kings 24:7 in vtrad vtsef
 w,:,l,o,𝓂,α,-,h,o,σ,i,(me),y,f.
 SPACE
 ʕ,w,o,d,(p)
@@ -20054,7 +20362,7 @@ l,:,m,∵,(me),l,∵,k.,:
 SPACE
 m,i,ц,:,r,a,𝓂,y,i,m.,.
 
-2Kings 24:8 in vtrad vtbhs
+2Kings 24:8 in vtrad vtsef
 v,·,∵,n.,-,$,·sh,:,m,o,n,∵,(qa),h
 SPACE
 ʕ,∵,$,·si,:,r,‥,<,h
@@ -20083,7 +20391,7 @@ v,_,τ,-,α,∵,l,:,n,a,τ,a,(ti),n.
 SPACE
 m,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Kings 24:9 in vtrad vtbhs
+2Kings 24:9 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 h,a,r,_,(ti),ʕ
@@ -20098,7 +20406,7 @@ SPACE
 SPACE
 α,a,v,i,𝓂,y,w,.
 
-2Kings 24:10 in vtrad vtbhs
+2Kings 24:10 in vtrad vtsef
 v,·,a,ʕ,‥,⅃,τ
 SPACE
 h,_,h,i,ƶ,y,α
@@ -20118,7 +20426,7 @@ h,a,ʕ,i,(ti),y,r
 SPACE
 v,·,_,m,·,a,ц,𝓂,w,o,r,.
 
-2Kings 24:11 in vtrad vtbhs
+2Kings 24:11 in vtrad vtsef
 w,_,y,·,a,v,o,⟓,α
 SPACE
 n,:,v,u,k,_,d,:,n,∵,α,ц,·,_,(me),r
@@ -20133,7 +20441,7 @@ SPACE
 SPACE
 ʕ,a,l,∵,𝓂,y,h,a,.
 
-2Kings 24:12 in vtrad vtbhs
+2Kings 24:12 in vtrad vtsef
 w,_,y,·,‥,ц,‥,(G),α
 SPACE
 y,:,h,w,o,y,a,k,i,<,y,n.
@@ -20168,7 +20476,7 @@ $,·sh,:,m,o,n,∵,(ti),h
 SPACE
 l,:,m,oa,l,:,k,𝓂,w,o,.
 
-2Kings 24:13 in vtrad vtbhs
+2Kings 24:13 in vtrad vtsef
 w,_,y,·,w,o,ц,‥,⅃,α
 SPACE
 m,i,$,·sh,·,a,◆,m.
@@ -20209,7 +20517,7 @@ d,·,i,v,·,∵,(me),r
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Kings 24:14 in vtrad vtbhs
+2Kings 24:14 in vtrad vtsef
 w,:,h,i,g,:,l,a,⅃,h
 SPACE
 α,∵,τ,-,k,·,oa,l,-,y,:,⌕,r,w,·,$,·sh,a,l,_,⌕,CGJ,i,m.
@@ -20217,6 +20525,10 @@ SPACE
 w,:,𝓂,α,∵,τ,-,k,·,oa,l,-,h,_,$,·si,·,a,r,i,(G),y,m.
 SPACE
 w,:,α,‥,⅃,τ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 k,·,oa,l,-,g,·,i,v,·,w,o,r,‥,⅃,y
 SPACE
@@ -20241,7 +20553,7 @@ d,·,_,l,·,_,(me),τ
 SPACE
 ʕ,_,m.,-,h,a,α,a,𝓂,r,∵,ц.,.
 
-2Kings 24:15 in vtrad vtbhs
+2Kings 24:15 in vtrad vtsef
 w,_,y,·,∵,(me),g,∵,l
 SPACE
 α,∵,τ,-,y,:,h,w,o,y,a,k,i,(ti),y,n.
@@ -20271,7 +20583,7 @@ m,i,y,r,w,·,$,·sh,a,l,_,(ti),CGJ,i,m.
 SPACE
 v,·,a,v,∵,𝓂,l,a,h,.
 
-2Kings 24:16 in vtrad vtbhs
+2Kings 24:16 in vtrad vtsef
 w,:,α,‥,τ,(tq)
 SPACE
 k,·,oa,l,-,α,_,n,:,$,·sh,‥,(qa),y
@@ -20304,7 +20616,7 @@ g,·,w,o,l,a,(ti),h
 SPACE
 v,·,a,v,∵,𝓂,l,a,h,.
 
-2Kings 24:17 in vtrad vtbhs
+2Kings 24:17 in vtrad vtsef
 w,_,y,·,_,m,:,l,‥,(da),k.,:
 SPACE
 m,∵,l,∵,k.,:,-,v,·,a,v,∵,⟓,l
@@ -20321,7 +20633,7 @@ SPACE
 SPACE
 ц,i,d,:,q,i,y,·,a,𝓂,h,w,·,.
 
-2Kings 24:18 in vtrad vtbhs
+2Kings 24:18 in vtrad vtsef
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,(qa),y,m.
 SPACE
 w,:,α,_,x,_,<,τ
@@ -20351,7 +20663,7 @@ v,·,_,𝓂,τ,-,y,i,r,:,m,:,y,a,(ti),h,w,·
 SPACE
 m,i,l,·,i,v,:,n,a,𝓂,h,.
 
-2Kings 24:19 in vtrad vtbhs
+2Kings 24:19 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 h,a,r,_,(ti),ʕ
@@ -20366,8 +20678,12 @@ SPACE
 SPACE
 y,:,h,w,o,y,a,q,i,𝓂,y,m.,.
 
-2Kings 24:20 in vtrad vtbhs
+2Kings 24:20 in vtrad vtsef
 k,·,i,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 ʕ,_,l,-,α,_,⅃,f.
 SPACE
@@ -20395,7 +20711,7 @@ v,·,:,m,∵,(me),l,∵,k.,:
 SPACE
 v,·,a,v,∵,𝓂,l,.
 
-2Kings 25:1 in vtrad vtbhs
+2Kings 25:1 in vtrad vtsef
 w,_,y,:,h,i,y,(tq)
 SPACE
 v,i,$,·sh,:,n,_,(qa),τ
@@ -20436,7 +20752,7 @@ d,·,a,y,‥,(ti),q
 SPACE
 σ,a,v,i,𝓂,y,v,.
 
-2Kings 25:2 in vtrad vtbhs
+2Kings 25:2 in vtrad vtsef
 w,_,τ,·,a,v,o,(me),α
 SPACE
 h,a,ʕ,i,(ti),y,r
@@ -20455,7 +20771,7 @@ l,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
 ц,i,d,:,q,i,y,·,a,𝓂,h,w,·,.
 
-2Kings 25:3 in vtrad vtbhs
+2Kings 25:3 in vtrad vtsef
 v,·,:,τ,i,$,·sh,:,ʕ,a,⅃,h
 SPACE
 l,_,x,o,ƶ,d,∵,$,·sh
@@ -20474,7 +20790,7 @@ l,:,ʕ,_,(me),m.
 SPACE
 h,a,α,a,𝓂,r,∵,ц.,.
 
-2Kings 25:4 in vtrad vtbhs
+2Kings 25:4 in vtrad vtsef
 w,_,τ,·,i,v,·,a,q,_,⅃,ʕ
 SPACE
 h,a,ʕ,i,◆,y,r
@@ -20482,11 +20798,20 @@ SPACE
 w,:,k,oa,l,-,α,_,n,:,$,·sh,‥,(qa),y
 SPACE
 h,_,m,·,i,l,:,x,a,m,a,<,h
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 h,_,l,·,_,(p),y,:,l,a,h,(p)
 SPACE
 d,·,∵,(ge),r,∵,k.,:
 SPACE
 $,·sh,_,⅃,ʕ,_,r
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 v,·,‥,⅃,y,n.
 SPACE
@@ -20510,7 +20835,7 @@ d,·,∵,(me),r,∵,k.,:
 SPACE
 h,a,ʕ,:_,r,a,v,a,𝓂,h,.
 
-2Kings 25:5 in vtrad vtbhs
+2Kings 25:5 in vtrad vtsef
 w,_,y,·,i,r,:,d,·,:,f,<,w,·
 SPACE
 x,‥,y,l,-,k,·,_,$,·si,:,d,·,i,y,m.,(p)
@@ -20533,7 +20858,7 @@ n,a,f,o,(ti),ц,w,·
 SPACE
 m,‥,ʕ,a,l,a,𝓂,y,w,.
 
-2Kings 25:6 in vtrad vtbhs
+2Kings 25:6 in vtrad vtsef
 w,_,𝓂,y,·,i,τ,:,f,·,:,$,·si,w,·,(p)
 SPACE
 α,∵,τ,-,h,_,m,·,∵,ƶ,l,∵,k.,:
@@ -20554,7 +20879,7 @@ SPACE
 SPACE
 m,i,$,·sh,:,f,·,a,𝓂,θ,.
 
-2Kings 25:7 in vtrad vtbhs
+2Kings 25:7 in vtrad vtsef
 w,:,α,∵,τ,-,v,·,:,n,‥,y,(p)
 SPACE
 ц,i,d,:,q,i,y,·,a,ƶ,h,w,·
@@ -20577,7 +20902,7 @@ w,_,y,:,v,i,α,‥,(ti),h,w,·
 SPACE
 v,·,a,v,∵,𝓂,l,.
 
-2Kings 25:8 in vtrad vtbhs
+2Kings 25:8 in vtrad vtsef
 w,·,v,_,x,o,<,d,∵,$,·sh
 SPACE
 h,_,x,:_,m,i,y,$,·sh,i,y,(p)
@@ -20612,7 +20937,7 @@ m,∵,l,∵,k.,:,-,v,·,a,v,∵,(ti),l
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Kings 25:9 in vtrad vtbhs
+2Kings 25:9 in vtrad vtsef
 w,_,y,·,i,$,·si,:,r,o,(me),f.
 SPACE
 α,∵,τ,-,v,·,‥,y,τ,-,y,:,h,o,w,a,(ti),h
@@ -20635,7 +20960,7 @@ $,·si,a,r,_,(me),f.
 SPACE
 v,·,a,α,‥,𝓂,$,·sh,.
 
-2Kings 25:10 in vtrad vtbhs
+2Kings 25:10 in vtrad vtsef
 w,:,α,∵,τ,-,x,w,o,m,o,(me),τ
 SPACE
 y,:,r,𝓂,w,·,$,·sh,a,l,_,(ti),CGJ,i,m.
@@ -20652,7 +20977,7 @@ SPACE
 SPACE
 r,_,v,-,θ,_,v,·,a,x,i,𝓂,y,m.,.
 
-2Kings 25:11 in vtrad vtbhs
+2Kings 25:11 in vtrad vtsef
 w,:,α,‥,τ,(tq)
 SPACE
 y,∵,(qa),τ,∵,r
@@ -20685,7 +21010,7 @@ n,:,v,w,·,z,_,r,:,α,:_,d,a,(ti),n.
 SPACE
 r,_,v,-,θ,_,v,·,a,x,i,𝓂,y,m.,.
 
-2Kings 25:12 in vtrad vtbhs
+2Kings 25:12 in vtrad vtsef
 w,·,m,i,d,·,_,l,·,_,⅃,τ
 SPACE
 h,a,α,a,ƶ,r,∵,ц.
@@ -20698,7 +21023,7 @@ l,:,k,o,r,:,m,i,(ti),y,m.
 SPACE
 w,·,l,:,y,o,g,:,v,i,𝓂,y,m.,.
 
-2Kings 25:13 in vtrad vtbhs
+2Kings 25:13 in vtrad vtsef
 w,:,α,∵,τ,-,ʕ,_,m,·,w,·,d,‥,(qa),y
 SPACE
 h,_,n,·,:,x,o,(ge),$,·sh,∵,τ
@@ -20727,7 +21052,7 @@ SPACE
 SPACE
 v,·,a,v,∵,𝓂,l,a,h,.
 
-2Kings 25:14 in vtrad vtbhs
+2Kings 25:14 in vtrad vtsef
 w,:,α,∵,τ,-,h,_,σ,·,i,y,r,o,(qa),τ
 SPACE
 w,:,α,∵,τ,-,h,_,y,·,a,ʕ,i,(ge),y,m.
@@ -20748,7 +21073,7 @@ y,:,$,·sh,a,𝓂,r,:,τ,w,·,-,v,a,(ti),m.
 SPACE
 l,a,q,a,𝓂,x,w,·,.
 
-2Kings 25:15 in vtrad vtbhs
+2Kings 25:15 in vtrad vtsef
 w,:,α,∵,τ,-,h,_,m,·,_,x,:,τ,·,w,o,τ,(p)
 SPACE
 w,:,α,∵,τ,-,h,_,m,·,i,z,:,r,a,q,ƶ,w,o,τ
@@ -20767,8 +21092,12 @@ l,a,q,_,(ti),x
 SPACE
 r,_,v,-,θ,_,v,·,a,x,i,𝓂,y,m.,.
 
-2Kings 25:16 in vtrad vtbhs
+2Kings 25:16 in vtrad vtsef
 h,a,ʕ,_,m,·,w,·,d,i,⅃,y,m.
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 $,·sh,:,n,_,◆,y,i,m.
 SPACE
@@ -20796,7 +21125,7 @@ k,·,oa,l,-,h,_,k,·,‥,l,i,(me),y,m.
 SPACE
 h,a,α,‥,𝓂,l,·,∵,h,.
 
-2Kings 25:17 in vtrad vtbhs
+2Kings 25:17 in vtrad vtsef
 $,·sh,:,m,o,n,∵,h,(tq)
 SPACE
 ʕ,∵,$,·si,:,r,‥,(qa),h
@@ -20804,6 +21133,10 @@ SPACE
 α,_,m,·,a,(ge),h
 SPACE
 q,w,o,m,_,⅃,τ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 h,a,ʕ,_,m,·,⅃,w,·,d
 SPACE
@@ -20812,6 +21145,11 @@ SPACE
 w,:,k,o,τ,∵,(qa),r,∵,τ
 SPACE
 ʕ,a,l,a,(me),y,w
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 n,:,x,o,≁,$,·sh,∵,τ,~
 SPACE
 w,:,q,w,o,m,_,⅃,τ
@@ -20841,7 +21179,7 @@ h,_,$,·sh,·,‥,n,i,(ti),y
 SPACE
 ʕ,_,l,-,h,_,$,·si,·,:,v,a,k,a,𝓂,h,.
 
-2Kings 25:18 in vtrad vtbhs
+2Kings 25:18 in vtrad vtsef
 w,_,y,·,i,q,·,_,⅃,x
 SPACE
 r,_,v,-,θ,_,v,·,a,x,i,◆,y,m.
@@ -20864,7 +21202,7 @@ $,·sh,o,m,:,r,‥,(me),y
 SPACE
 h,_,σ,·,_,𝓂,f.,.
 
-2Kings 25:19 in vtrad vtbhs
+2Kings 25:19 in vtrad vtsef
 w,·,m,i,n.,-,h,a,ʕ,i,μ,y,r
 SPACE
 l,a,q,_,x,(tq)
@@ -20876,6 +21214,10 @@ SPACE
 α,:_,𝓂,$,·sh,∵,r,-,h,(me),w,·,α
 SPACE
 f,a,q,i,⅃,y,d
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 ʕ,_,l,-,α,_,n,:,$,·sh,‥,⅃,y
 SPACE
@@ -20921,7 +21263,7 @@ h,_,𝓂,n,·,i,m,:,ц,:,α,i,(ti),y,m.
 SPACE
 v,·,a,ʕ,i,𝓂,y,r,.
 
-2Kings 25:20 in vtrad vtbhs
+2Kings 25:20 in vtrad vtsef
 w,_,y,·,i,q,·,_,⅃,x
 SPACE
 α,o,τ,a,ƶ,m.
@@ -20940,7 +21282,7 @@ v,·,a,v,∵,(ti),l
 SPACE
 r,i,v,:,l,a,𝓂,τ,a,h,.
 
-2Kings 25:21 in vtrad vtbhs
+2Kings 25:21 in vtrad vtsef
 w,_,y,·,_,⅃,k.,:
 SPACE
 α,o,τ,a,m.,(tq)
@@ -20965,7 +21307,7 @@ m,‥,ʕ,_,(me),l
 SPACE
 α,_,d,:,m,a,τ,𝓂,w,o,.
 
-2Kings 25:22 in vtrad vtbhs
+2Kings 25:22 in vtrad vtsef
 w,:,h,a,ʕ,a,◆,m.
 SPACE
 h,_,n,·,i,$,·sh,:,α,a,r,(p)
@@ -20994,7 +21336,7 @@ v,·,∵,n.,-,α,:_,x,i,y,q,a,(me),m.
 SPACE
 v,·,∵,n.,-,$,·sh,a,f,a,𝓂,n.,.
 
-2Kings 25:23 in vtrad vtbhs
+2Kings 25:23 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,:,ʕ,w,·,(tq)
 SPACE
 k,oa,l,-,$,·si,a,r,‥,(qa),y
@@ -21039,7 +21381,7 @@ h,‥,(ti),m,·,a,h
 SPACE
 w,:,α,_,n,:,$,·sh,‥,y,h,∵,𝓂,m.,.
 
-2Kings 25:24 in vtrad vtbhs
+2Kings 25:24 in vtrad vtsef
 w,_,y,·,i,$,·sh,·,a,v,_,(qa),ʕ
 SPACE
 l,a,h,∵,<,m.
@@ -21072,8 +21414,12 @@ w,:,y,i,θ,_,(me),v
 SPACE
 l,a,k,∵,𝓂,m.,.
 
-2Kings 25:25 in vtrad vtbhs
+2Kings 25:25 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 v,·,_,x,o,⅃,d,∵,$,·sh
 SPACE
@@ -21113,7 +21459,7 @@ SPACE
 SPACE
 v,·,_,m,·,i,ц,:,f,·,a,𝓂,h,.
 
-2Kings 25:26 in vtrad vtbhs
+2Kings 25:26 in vtrad vtsef
 w,_,y,·,a,q,u,(qa),m,w,·
 SPACE
 k,oa,l,-,h,a,ʕ,a,(ge),m.
@@ -21138,7 +21484,7 @@ m,i,f,·,:,n,‥,(me),y
 SPACE
 k,_,$,·si,:,d,·,i,𝓂,y,m.,.
 
-2Kings 25:27 in vtrad vtbhs
+2Kings 25:27 in vtrad vtsef
 w,_,y,:,h,i,y,(tq)
 SPACE
 v,i,$,·sh,:,l,o,$,·sh,i,(qa),y,m.
@@ -21189,7 +21535,7 @@ m,i,v,·,‥,(me),y,τ
 SPACE
 k,·,∵,𝓂,l,∵,α,.
 
-2Kings 25:28 in vtrad vtbhs
+2Kings 25:28 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
 SPACE
 α,i,τ,·,(ti),w,o
@@ -21212,7 +21558,7 @@ SPACE
 SPACE
 v,·,:,v,a,v,∵,𝓂,l,.
 
-2Kings 25:29 in vtrad vtbhs
+2Kings 25:29 in vtrad vtsef
 w,:,$,·sh,i,n,·,a,Ƶ,α
 SPACE
 α,‥,(ti),τ
@@ -21233,7 +21579,7 @@ k,·,oa,l,-,y,:,m,‥,(me),y
 SPACE
 x,_,y,·,a,𝓂,y,w,.
 
-2Kings 25:30 in vtrad vtbhs
+2Kings 25:30 in vtrad vtsef
 w,_,α,:_,r,u,x,a,τ,◆,w,o
 SPACE
 α,:_,r,u,x,_,(qa),τ

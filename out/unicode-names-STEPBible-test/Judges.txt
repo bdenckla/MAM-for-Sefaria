@@ -1,5 +1,5 @@
 unicode_names Judges
-Judges 1:1 in vtrad vtbhs
+Judges 1:1 in vtrad vtsef
 w,_,𝓂,y,:,h,i,◆,y
 SPACE
 α,_,𝓂,x,:_,r,‥,y,(p)
@@ -30,7 +30,7 @@ l,:,h,i,l,·,a,(me),x,∵,m.
 SPACE
 v,·,𝓂,w,o,.
 
-Judges 1:2 in vtrad vtbhs
+Judges 1:2 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
 SPACE
 y,:,h,o,w,a,(ti),h
@@ -47,7 +47,7 @@ SPACE
 SPACE
 v,·,:,y,a,d,𝓂,w,o,.
 
-Judges 1:3 in vtrad vtbhs
+Judges 1:3 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 y,:,h,w,·,d,a,h,(tq)
@@ -80,7 +80,7 @@ SPACE
 SPACE
 $,·sh,i,m,:,ʕ,𝓂,w,o,n.,.
 
-Judges 1:4 in vtrad vtbhs
+Judges 1:4 in vtrad vtsef
 w,_,y,·,_,⅃,ʕ,_,l
 SPACE
 y,:,h,w,·,d,a,ƶ,h
@@ -105,7 +105,7 @@ SPACE
 SPACE
 α,i,𝓂,y,$,·sh,.
 
-Judges 1:5 in vtrad vtbhs
+Judges 1:5 in vtrad vtsef
 w,_,𝓂,⌕,y,·,i,m,:,ц,:,α,⌕,w,·
 SPACE
 α,∵,τ,-,α,:_,d,o,n,i,(me),y
@@ -124,7 +124,7 @@ SPACE
 SPACE
 w,:,α,∵,τ,-,h,_,f,·,:,r,i,z,·,i,𝓂,y,.
 
-Judges 1:6 in vtrad vtbhs
+Judges 1:6 in vtrad vtsef
 w,_,y,·,a,(p),n,oa,σ,(p)
 SPACE
 α,:_,d,o,⅃,n,i,y
@@ -147,12 +147,17 @@ y,a,d,a,(ti),y,w
 SPACE
 w,:,r,_,g,:,l,a,𝓂,y,w,.
 
-Judges 1:7 in vtrad vtbhs
+Judges 1:7 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 α,:_,d,o,𝓂,n,i,y,-,v,∵,◆,z,∵,q
 SPACE
 $,·sh,i,v,:,ʕ,i,⅃,y,m.
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 m,:,l,a,k,i,μ,y,m.
 SPACE
 v,·,:,𝓂,h,o,n,w,o,τ,(tq)
@@ -189,7 +194,7 @@ w,_,y,·,a,(me),m,oa,τ
 SPACE
 $,·sh,a,𝓂,m.,.
 
-Judges 1:8 in vtrad vtbhs
+Judges 1:8 in vtrad vtsef
 w,_,y,·,i,l,·,a,x,:_,m,<,w,·
 SPACE
 v,:,n,‥,𝓂,y,-,y,:,h,w,·,d,a,h,(p)
@@ -210,7 +215,7 @@ $,·sh,i,l,·,:,x,(me),w,·
 SPACE
 v,a,α,‥,𝓂,$,·sh,.
 
-Judges 1:9 in vtrad vtbhs
+Judges 1:9 in vtrad vtsef
 w,:,α,_,x,_,◆,r
 SPACE
 y,a,𝓂,r,:,d,w,·,(p)
@@ -231,7 +236,7 @@ w,:,h,_,n,·,∵,(ti),g,∵,v
 SPACE
 w,:,h,_,$,·sh,·,:,f,‥,l,a,𝓂,h,.
 
-Judges 1:10 in vtrad vtbhs
+Judges 1:10 in vtrad vtsef
 w,_,y,·,‥,⅃,l,∵,k.,:
 SPACE
 y,:,h,w,·,d,a,◆,h
@@ -258,7 +263,7 @@ w,:,α,∵,τ,-,α,:_,x,i,y,m,_,(ti),n.
 SPACE
 w,:,α,∵,τ,-,τ,·,_,l,:,m,a,𝓂,y,.
 
-Judges 1:11 in vtrad vtbhs
+Judges 1:11 in vtrad vtsef
 w,_,y,·,‥,⅃,l,∵,k.,:
 SPACE
 m,i,$,·sh,·,a,ƶ,m.
@@ -273,7 +278,7 @@ l,:,f,a,n,i,(ti),y,m.
 SPACE
 q,i,r,:,y,_,τ,-,σ,‥,𝓂,f,∵,r,.
 
-Judges 1:12 in vtrad vtbhs
+Judges 1:12 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 k,·,a,l,‥,ƶ,v
@@ -294,7 +299,7 @@ v,i,τ,·,i,(ti),y
 SPACE
 l,:,α,i,$,·sh,·,a,𝓂,h,.
 
-Judges 1:13 in vtrad vtbhs
+Judges 1:13 in vtrad vtsef
 w,_,𝓂,y,·,i,l,:,k,·,:,d,a,h,·,(p)
 SPACE
 ʕ,oa,τ,:,n,i,y,α,‥,⅃,l
@@ -317,7 +322,7 @@ v,i,τ,·,(ti),w,o
 SPACE
 l,:,α,i,$,·sh,·,a,𝓂,h,.
 
-Judges 1:14 in vtrad vtbhs
+Judges 1:14 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
 SPACE
 v,·,:,v,w,o,α,a,◆,h,·
@@ -342,7 +347,7 @@ k,·,a,l,‥,(ti),v
 SPACE
 m,_,h,-,l,·,a,𝓂,k.,:,.
 
-Judges 1:15 in vtrad vtbhs
+Judges 1:15 in vtrad vtsef
 w,_,τ,·,o,(qa),α,m,∵,r
 SPACE
 l,(ge),w,o
@@ -383,7 +388,7 @@ g,·,u,l,·,o,(me),τ
 SPACE
 τ,·,_,x,:,τ,·,i,𝓂,y,τ,.
 
-Judges 1:16 in vtrad vtbhs
+Judges 1:16 in vtrad vtsef
 w,·,v,:,n,‥,⅃,y
 SPACE
 q,‥,y,n,i,y,(tq)
@@ -418,7 +423,7 @@ w,_,y,·,‥,(me),$,·sh,∵,v
 SPACE
 α,∵,τ,-,h,a,ʕ,a,𝓂,m.,.
 
-Judges 1:17 in vtrad vtbhs
+Judges 1:17 in vtrad vtsef
 w,_,y,·,‥,<,l,∵,k.,:
 SPACE
 y,:,h,w,·,d,a,h,(p)
@@ -445,7 +450,7 @@ SPACE
 SPACE
 x,oa,r,:,m,a,𝓂,h,.
 
-Judges 1:18 in vtrad vtbhs
+Judges 1:18 in vtrad vtsef
 w,_,y,·,i,l,:,k,·,o,<,d
 SPACE
 y,:,h,w,·,d,a,h,(p)
@@ -462,7 +467,7 @@ w,:,α,∵,τ,-,ʕ,∵,q,:,r,(ti),w,o,n.
 SPACE
 w,:,α,∵,τ,-,g,·,:,v,w,·,l,a,𝓂,h,·,.
 
-Judges 1:19 in vtrad vtbhs
+Judges 1:19 in vtrad vtsef
 w,_,y,:,h,i,<,y
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -489,7 +494,7 @@ v,·,_,r,:,z,∵,(ti),l
 SPACE
 l,a,h,∵,𝓂,m.,.
 
-Judges 1:20 in vtrad vtbhs
+Judges 1:20 in vtrad vtsef
 w,_,y,·,i,τ,·,:,n,<,w,·
 SPACE
 l,:,k,a,l,‥,v,(p)
@@ -512,7 +517,7 @@ v,·,:,n,‥,(me),y
 SPACE
 h,a,ʕ,:_,n,a,𝓂,q,.
 
-Judges 1:21 in vtrad vtbhs
+Judges 1:21 in vtrad vtsef
 w,:,α,∵,τ,-,h,_,y,:,v,w,·,σ,i,y,(p)
 SPACE
 y,o,$,·sh,‥,⅃,v
@@ -543,7 +548,7 @@ h,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-Judges 1:22 in vtrad vtbhs
+Judges 1:22 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,l,(da),w,·
 SPACE
 v,‥,y,τ,-,y,w,o,σ,‥,⟓,f.
@@ -556,7 +561,7 @@ w,_,y,h,o,w,a,(ti),h
 SPACE
 ʕ,i,m,·,a,𝓂,m.,.
 
-Judges 1:23 in vtrad vtbhs
+Judges 1:23 in vtrad vtsef
 w,_,y,·,a,τ,i,(me),y,r,w,·
 SPACE
 v,‥,y,τ,-,y,w,o,σ,‥,(ti),f.
@@ -569,7 +574,7 @@ l,:,f,a,n,i,(ti),y,m.
 SPACE
 l,𝓂,w,·,z,.
 
-Judges 1:24 in vtrad vtbhs
+Judges 1:24 in vtrad vtsef
 w,_,y,·,i,r,:,α,w,·,(p)
 SPACE
 h,_,$,·sh,·,o,⅃,m,:,r,i,ƶ,y,m.
@@ -598,7 +603,7 @@ SPACE
 SPACE
 x,a,𝓂,σ,∵,d,.
 
-Judges 1:25 in vtrad vtbhs
+Judges 1:25 in vtrad vtsef
 w,_,y,·,_,r,:,α,‥,m.,(p)
 SPACE
 α,∵,τ,-,m,:,v,⅃,w,o,α
@@ -617,7 +622,7 @@ w,:,α,∵,τ,-,k,·,oa,l,-,m,i,$,·sh,:,f,·,_,x,:,τ,·,(ti),w,o
 SPACE
 $,·sh,i,l,·,‥,𝓂,x,w,·,.
 
-Judges 1:26 in vtrad vtbhs
+Judges 1:26 in vtrad vtsef
 w,_,y,·,‥,⅃,l,∵,k.,:
 SPACE
 h,a,α,i,ƶ,y,$,·sh
@@ -646,7 +651,7 @@ h,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-Judges 1:27 in vtrad vtbhs
+Judges 1:27 in vtrad vtsef
 w,:,l,o,𝓂,α,-,h,w,o,r,i,⅃,y,$,·sh
 SPACE
 m,:,n,_,$,·sh,·,∵,◆,h
@@ -687,7 +692,7 @@ v,·,a,α,a,(me),r,∵,ц.
 SPACE
 h,_,z,·,o,𝓂,α,τ,.
 
-Judges 1:28 in vtrad vtbhs
+Judges 1:28 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 k,·,i,𝓂,y,-,x,a,z,_,⅃,q
@@ -706,7 +711,7 @@ l,o,(me),α
 SPACE
 h,w,o,r,i,y,$,·sh,𝓂,w,o,.
 
-Judges 1:29 in vtrad vtbhs
+Judges 1:29 in vtrad vtsef
 w,:,α,∵,f,:,r,_,(p),y,i,m.,(p)
 SPACE
 l,o,⅃,α
@@ -727,7 +732,7 @@ v,·,:,q,i,r,:,v,·,(ti),w,o
 SPACE
 v,·,:,g,a,𝓂,z,∵,r,.
 
-Judges 1:30 in vtrad vtbhs
+Judges 1:30 in vtrad vtsef
 z,:,v,w,·,l,u,◆,n.
 SPACE
 l,o,<,α
@@ -752,7 +757,7 @@ w,_,y,·,i,𝓂,h,:,y,(ti),w,·
 SPACE
 l,a,m,_,𝓂,σ,.
 
-Judges 1:31 in vtrad vtbhs
+Judges 1:31 in vtrad vtsef
 α,a,$,·sh,‥,◆,r
 SPACE
 l,o,<,α
@@ -777,7 +782,7 @@ w,:,α,∵,τ,-,α,:_,f,i,(ti),y,q
 SPACE
 w,:,α,∵,τ,-,r,:,x,o,𝓂,v,.
 
-Judges 1:32 in vtrad vtbhs
+Judges 1:32 in vtrad vtsef
 w,_,y,·,‥,(p),$,·sh,∵,v,(p)
 SPACE
 h,a,α,a,⅃,$,·sh,‥,r,i,ƶ,y
@@ -796,7 +801,7 @@ l,o,(me),α
 SPACE
 h,𝓂,w,o,r,i,y,$,·sh,𝓂,w,o,.
 
-Judges 1:33 in vtrad vtbhs
+Judges 1:33 in vtrad vtsef
 n,_,f,:,τ,·,a,l,i,◆,y
 SPACE
 l,o,𝓂,α,-,h,w,o,r,i,(G),y,$,·sh
@@ -833,7 +838,7 @@ l,a,h,∵,(ti),m.
 SPACE
 l,a,m,_,𝓂,σ,.
 
-Judges 1:34 in vtrad vtbhs
+Judges 1:34 in vtrad vtsef
 w,_,y,·,i,l,:,x,:_,ц,(da),w,·
 SPACE
 h,a,α,:∵,m,o,r,i,⟓,y
@@ -850,7 +855,7 @@ l,a,r,∵,(me),d,∵,τ
 SPACE
 l,a,ʕ,‥,𝓂,m,∵,q,.
 
-Judges 1:35 in vtrad vtbhs
+Judges 1:35 in vtrad vtsef
 w,_,y,·,<,w,o,α,∵,l
 SPACE
 h,a,α,:∵,m,o,r,i,y,(p)
@@ -873,7 +878,7 @@ w,_,y,·,i,h,:,y,(ti),w,·
 SPACE
 l,a,m,_,𝓂,σ,.
 
-Judges 1:36 in vtrad vtbhs
+Judges 1:36 in vtrad vtsef
 w,·,g,:,v,w,·,l,(p)
 SPACE
 h,a,α,:∵,m,o,r,i,ƶ,y
@@ -886,7 +891,7 @@ m,‥,h,_,σ,·,∵,(ti),l,_,ʕ
 SPACE
 w,a,m,a,𝓂,ʕ,:,l,a,h,.
 
-Judges 2:1 in vtrad vtbhs
+Judges 2:1 in vtrad vtsef
 w,_,y,·,_,(da),ʕ,_,l
 SPACE
 m,_,l,:,α,_,k.,:,-,y,:,h,o,w,a,⟓,h
@@ -894,6 +899,11 @@ SPACE
 m,i,n.,-,h,_,g,·,i,l,:,g,·,a,(ti),l
 SPACE
 α,∵,l,-,h,_,v,·,o,k,i,⅄,y,m.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+START br class=mam-br-after-pe
 w,_,y,·,o,(tq),α,m,∵,r,(tq)
 SPACE
 α,_,ʕ,:_,l,∵,(qa),h
@@ -924,7 +934,7 @@ SPACE
 SPACE
 l,:,ʕ,w,o,l,a,𝓂,m.,.
 
-Judges 2:2 in vtrad vtbhs
+Judges 2:2 in vtrad vtsef
 w,:,α,_,τ,·,∵,◆,m.
 SPACE
 l,o,𝓂,α,-,τ,i,k,:,r,:,τ,<,w,·
@@ -949,7 +959,7 @@ m,_,h,-,z,·,o,(me),α,τ
 SPACE
 ʕ,:_,$,·si,i,y,τ,∵,𝓂,m.,.
 
-Judges 2:3 in vtrad vtbhs
+Judges 2:3 in vtrad vtsef
 w,:,g,_,⅃,m.
 SPACE
 α,a,m,_,ƶ,r,:,τ,·,i,y
@@ -974,7 +984,7 @@ l,a,k,∵,(ti),m.
 SPACE
 l,:,m,w,o,q,‥,𝓂,$,·sh,.
 
-Judges 2:4 in vtrad vtbhs
+Judges 2:4 in vtrad vtsef
 w,_,y,:,h,i,◆,y
 SPACE
 k,·,:,d,_,v,·,‥,(G),r
@@ -999,7 +1009,7 @@ SPACE
 SPACE
 w,_,y,·,i,v,:,k,·,𝓂,w,·,.
 
-Judges 2:5 in vtrad vtbhs
+Judges 2:5 in vtrad vtsef
 w,_,𝓂,y,·,i,q,:,r,:,α,⟓,w,·
 SPACE
 $,·sh,‥,𝓂,m.,-,h,_,m,·,a,q,(me),w,o,m.
@@ -1012,7 +1022,7 @@ w,_,y,·,i,z,:,v,·,:,x,w,·,-,$,·sh,a,(ti),m.
 SPACE
 l,_,y,h,o,w,a,𝓂,h,.
 
-Judges 2:6 in vtrad vtbhs
+Judges 2:6 in vtrad vtsef
 w,_,y,:,$,·sh,_,l,·,_,(me),x
 SPACE
 y,:,h,w,o,$,·sh,u,(ti),ʕ,_
@@ -1031,7 +1041,7 @@ l,a,r,∵,(me),$,·sh,∵,τ
 SPACE
 α,∵,τ,-,h,a,α,a,𝓂,r,∵,ц.,.
 
-Judges 2:7 in vtrad vtbhs
+Judges 2:7 in vtrad vtsef
 w,_,y,·,_,ʕ,_,v,:,d,<,w,·
 SPACE
 h,a,ʕ,a,m.,(p)
@@ -1045,6 +1055,10 @@ SPACE
 y,:,h,w,o,$,·sh,u,⅄,ʕ,_
 SPACE
 w,:,k,o,⅃,l
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 y,:,m,‥,⅃,y
 SPACE
@@ -1078,7 +1092,7 @@ SPACE
 SPACE
 l,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 2:8 in vtrad vtbhs
+Judges 2:8 in vtrad vtsef
 w,_,y,·,a,⟓,m,oa,τ
 SPACE
 y,:,h,w,o,$,·sh,u,(me),ʕ,_
@@ -1095,7 +1109,7 @@ w,a,ʕ,∵,(ti),$,·si,∵,r
 SPACE
 $,·sh,a,n,i,𝓂,y,m.,.
 
-Judges 2:9 in vtrad vtbhs
+Judges 2:9 in vtrad vtsef
 w,_,y,·,i,q,:,v,·,:,r,<,w,·
 SPACE
 α,w,o,τ,w,o,(p)
@@ -1114,7 +1128,7 @@ m,i,ц,·,:,f,(ti),w,o,n.
 SPACE
 l,:,h,_,r,-,g,·,a,𝓂,ʕ,_,$,·sh,.
 
-Judges 2:10 in vtrad vtbhs
+Judges 2:10 in vtrad vtsef
 w,:,g,_,m.,(p)
 SPACE
 k,·,oa,l,-,h,_,d,·,⅃,w,o,r
@@ -1149,7 +1163,7 @@ SPACE
 SPACE
 l,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 2:11 in vtrad vtbhs
+Judges 2:11 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,$,·si,(da),w,·
 SPACE
 v,:,n,‥,y,-,y,i,$,·si,:,r,a,α,‥,⟓,l
@@ -1164,10 +1178,14 @@ w,_,y,·,_,ʕ,_,v,:,d,(ti),w,·
 SPACE
 α,∵,τ,-,h,_,v,·,:,ʕ,a,l,i,𝓂,y,m.,.
 
-Judges 2:12 in vtrad vtbhs
+Judges 2:12 in vtrad vtsef
 w,_,y,·,_,ʕ,_,z,:,v,(G),w,·
 SPACE
 α,∵,τ,-,y,:,h,o,w,a,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,:∵,l,o,h,‥,⅃,y
 SPACE
@@ -1184,6 +1202,10 @@ SPACE
 w,_,y,·,‥,l,:,k,(G),w,·
 SPACE
 α,_,x,:_,r,‥,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,:∵,l,o,h,i,⅃,y,m.
 SPACE
@@ -1205,7 +1227,7 @@ w,_,y,·,_,k,:,ʕ,i,(ti),σ,w,·
 SPACE
 α,∵,τ,-,y,:,h,o,w,a,𝓂,h,.
 
-Judges 2:13 in vtrad vtbhs
+Judges 2:13 in vtrad vtsef
 w,_,y,·,_,ʕ,_,z,:,v,(ti),w,·
 SPACE
 α,∵,τ,-,y,:,h,o,w,a,⅄,h
@@ -1216,7 +1238,7 @@ l,_,v,·,_,(ti),ʕ,_,l
 SPACE
 w,:,l,a,ʕ,_,$,·sh,:,τ,·,a,r,𝓂,w,o,τ,.
 
-Judges 2:14 in vtrad vtbhs
+Judges 2:14 in vtrad vtsef
 w,_,y,·,i,𝓂,x,_,r,-,α,_,<,f.
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -1249,8 +1271,12 @@ l,i,f,:,n,‥,(me),y
 SPACE
 α,w,o,y,:,v,‥,y,h,∵,𝓂,m.,.
 
-Judges 2:15 in vtrad vtbhs
+Judges 2:15 in vtrad vtsef
 v,·,:,k,o,⅃,l
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,:_,$,·sh,∵,⅃,r
 SPACE
@@ -1282,7 +1308,7 @@ l,a,h,∵,(ti),m.
 SPACE
 m,:,α,o,𝓂,d,.
 
-Judges 2:16 in vtrad vtbhs
+Judges 2:16 in vtrad vtsef
 w,_,y,·,a,(me),q,∵,m.
 SPACE
 y,:,h,o,w,a,(ti),h
@@ -1295,7 +1321,7 @@ m,i,y,·,_,(ti),d
 SPACE
 $,·sh,o,σ,‥,y,h,∵,𝓂,m.,.
 
-Judges 2:17 in vtrad vtbhs
+Judges 2:17 in vtrad vtsef
 w,:,g,_,<,m.
 SPACE
 α,∵,l,-,$,·sh,o,𝓂,f,:,θ,‥,y,h,∵,m.,(p)
@@ -1338,10 +1364,15 @@ l,o,α,-,ʕ,a,(me),$,·si,w,·
 SPACE
 k,‥,𝓂,n.,.
 
-Judges 2:18 in vtrad vtbhs
+Judges 2:18 in vtrad vtsef
 w,:,k,i,y,-,h,‥,q,i,(qa),y,m.
 SPACE
 y,:,h,o,w,a,(me),h
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 l,a,h,∵,m.,~
 SPACE
 $,·sh,o,f,:,θ,i,y,m.,∴
@@ -1376,8 +1407,12 @@ l,o,x,:_,ц,‥,y,h,∵,(ti),m.
 SPACE
 w,:,d,o,x,:_,q,‥,y,h,∵,𝓂,m.,.
 
-Judges 2:19 in vtrad vtbhs
+Judges 2:19 in vtrad vtsef
 w,:,h,a,y,a,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 v,·,:,m,⅃,w,o,τ
 SPACE
@@ -1413,7 +1448,7 @@ w,·,m,i,d,·,_,r,:,k,·,a,(ti),m.
 SPACE
 h,_,q,·,a,$,·sh,a,𝓂,h,.
 
-Judges 2:20 in vtrad vtbhs
+Judges 2:20 in vtrad vtsef
 w,_,y,·,i,𝓂,x,_,r,-,α,_,(me),f.
 SPACE
 y,:,h,o,w,a,(ti),h
@@ -1446,7 +1481,7 @@ $,·sh,a,m,:,ʕ,(ti),w,·
 SPACE
 l,:,q,w,o,l,i,𝓂,y,.
 
-Judges 2:21 in vtrad vtbhs
+Judges 2:21 in vtrad vtsef
 g,·,_,m.,-,α,:_,n,i,y,(p)
 SPACE
 l,o,⅃,α
@@ -1467,7 +1502,7 @@ y,:,h,w,o,$,·sh,u,(ti),ʕ,_
 SPACE
 w,_,y,·,a,m,o,𝓂,τ,.
 
-Judges 2:22 in vtrad vtbhs
+Judges 2:22 in vtrad vtsef
 l,:,m,_,⟓,ʕ,_,n.
 SPACE
 n,_,σ,·,(me),w,o,τ
@@ -1496,7 +1531,7 @@ SPACE
 SPACE
 α,i,m.,-,l,o,𝓂,α,.
 
-Judges 2:23 in vtrad vtbhs
+Judges 2:23 in vtrad vtsef
 w,_,y,·,_,n,·,_,<,x
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -1517,7 +1552,7 @@ n,:,τ,a,n,a,(ti),m.
 SPACE
 v,·,:,y,_,d,-,y,:,h,w,o,$,·sh,u,𝓂,ʕ,_,.
 
-Judges 3:1 in vtrad vtbhs
+Judges 3:1 in vtrad vtsef
 w,:,α,‥,<,l,·,∵,h
 SPACE
 h,_,g,·,w,o,y,i,m.,(p)
@@ -1546,7 +1581,7 @@ k,·,oa,l,-,m,i,l,:,x,:_,m,(me),w,o,τ
 SPACE
 k,·,:,n,a,𝓂,ʕ,_,n.,.
 
-Judges 3:2 in vtrad vtbhs
+Judges 3:2 in vtrad vtsef
 r,_,◆,q
 SPACE
 l,:,m,_,(p),ʕ,_,n.,(p)
@@ -1569,8 +1604,12 @@ l,o,(me),α
 SPACE
 y,:,d,a,ʕ,𝓂,w,·,m.,.
 
-Judges 3:3 in vtrad vtbhs
+Judges 3:3 in vtrad vtsef
 x,:_,m,‥,⅃,$,·sh,∵,τ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 σ,_,r,:,n,‥,⅃,y
 SPACE
@@ -1600,7 +1639,7 @@ l,:,v,(me),w,o,α
 SPACE
 x,:_,m,a,𝓂,τ,.
 
-Judges 3:4 in vtrad vtbhs
+Judges 3:4 in vtrad vtsef
 w,_,y,·,i,h,:,y,Ƶ,w,·
 SPACE
 l,:,n,_,σ,·,(me),w,o,τ
@@ -1623,7 +1662,7 @@ SPACE
 SPACE
 v,·,:,y,_,d,-,m,o,$,·sh,∵,𝓂,h,.
 
-Judges 3:5 in vtrad vtbhs
+Judges 3:5 in vtrad vtsef
 w,·,v,:,n,‥,⅃,y
 SPACE
 y,i,$,·si,:,r,a,α,‥,ƶ,l
@@ -1644,7 +1683,7 @@ w,:,h,_,x,i,w,·,i,(ti),y
 SPACE
 w,:,h,_,y,:,v,w,·,σ,i,𝓂,y,.
 
-Judges 3:6 in vtrad vtbhs
+Judges 3:6 in vtrad vtsef
 w,_,y,·,i,q,:,x,(qa),w,·
 SPACE
 α,∵,τ,-,v,·,:,n,w,o,τ,‥,y,h,∵,<,m.
@@ -1663,7 +1702,7 @@ w,_,y,·,_,ʕ,_,v,:,d,(ti),w,·
 SPACE
 α,∵,τ,-,α,:∵,l,o,h,‥,y,h,∵,𝓂,m.,.
 
-Judges 3:7 in vtrad vtbhs
+Judges 3:7 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,$,·si,(qa),w,·
 SPACE
 v,:,n,‥,𝓂,y,-,y,i,$,·si,:,r,a,α,‥,<,l
@@ -1686,7 +1725,7 @@ SPACE
 SPACE
 w,:,α,∵,τ,-,h,a,α,:_,$,·sh,‥,r,𝓂,w,o,τ,.
 
-Judges 3:8 in vtrad vtbhs
+Judges 3:8 in vtrad vtsef
 w,_,y,·,i,x,_,r,-,α,_,<,f.
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -1719,7 +1758,7 @@ $,·sh,:,m,o,n,∵,(me),h
 SPACE
 $,·sh,a,n,i,𝓂,y,m.,.
 
-Judges 3:9 in vtrad vtbhs
+Judges 3:9 in vtrad vtsef
 w,_,y,·,i,z,:,ʕ,:_,q,<,w,·
 SPACE
 v,:,n,‥,𝓂,y,-,y,i,$,·si,:,r,a,α,‥,l,(p)
@@ -1752,7 +1791,7 @@ h,_,q,·,a,θ,o,(me),n.
 SPACE
 m,i,m,·,∵,𝓂,n,·,w,·,.
 
-Judges 3:10 in vtrad vtbhs
+Judges 3:10 in vtrad vtsef
 w,_,τ,·,:,h,i,(qa),y
 SPACE
 ʕ,a,l,a,(me),y,w
@@ -1791,7 +1830,7 @@ k,·,w,·,$,·sh,_,(me),n.
 SPACE
 r,i,$,·sh,:,ʕ,a,τ,a,𝓂,y,i,m.,.
 
-Judges 3:11 in vtrad vtbhs
+Judges 3:11 in vtrad vtsef
 w,_,τ,·,i,$,·sh,:,q,o,(me),θ
 SPACE
 h,a,α,a,(ti),r,∵,ц.
@@ -1806,7 +1845,7 @@ SPACE
 SPACE
 v,·,∵,n.,-,q,:,n,_,𝓂,z,.
 
-Judges 3:12 in vtrad vtbhs
+Judges 3:12 in vtrad vtsef
 w,_,y,·,o,σ,i,(p),f,w,·,(p)
 SPACE
 v,·,:,n,‥,⅃,y
@@ -1841,7 +1880,7 @@ v,·,:,ʕ,‥,y,n,‥,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-Judges 3:13 in vtrad vtbhs
+Judges 3:13 in vtrad vtsef
 w,_,y,·,∵,α,:∵,σ,o,⅃,f.
 SPACE
 α,‥,l,a,ƶ,y,w
@@ -1864,7 +1903,7 @@ SPACE
 SPACE
 h,_,τ,·,:,m,a,r,i,𝓂,y,m.,.
 
-Judges 3:14 in vtrad vtbhs
+Judges 3:14 in vtrad vtsef
 w,_,y,·,_,ʕ,_,v,:,d,<,w,·
 SPACE
 v,:,n,‥,𝓂,y,-,y,i,$,·si,:,r,a,α,‥,l,(p)
@@ -1879,7 +1918,7 @@ SPACE
 SPACE
 $,·sh,a,n,a,𝓂,h,.
 
-Judges 3:15 in vtrad vtbhs
+Judges 3:15 in vtrad vtsef
 w,_,y,·,i,z,:,ʕ,:_,q,⅃,w,·
 SPACE
 v,:,n,‥,y,-,y,i,$,·si,:,r,a,α,‥,l,~
@@ -1920,7 +1959,7 @@ m,∵,(me),l,∵,k.,:
 SPACE
 m,w,o,α,a,𝓂,v,.
 
-Judges 3:16 in vtrad vtbhs
+Judges 3:16 in vtrad vtsef
 w,_,y,·,_,(tq),ʕ,_,$,·si,(tq)
 SPACE
 l,(qa),w,o
@@ -1953,7 +1992,7 @@ y,∵,(me),r,∵,k.,:
 SPACE
 y,:,m,i,y,n,𝓂,w,o,.
 
-Judges 3:17 in vtrad vtbhs
+Judges 3:17 in vtrad vtsef
 w,_,y,·,_,q,:,r,‥,v,(p)
 SPACE
 α,∵,τ,-,h,_,m,·,i,n,:,x,a,ƶ,h
@@ -1972,7 +2011,7 @@ v,·,a,r,i,(ti),y,α
 SPACE
 m,:,α,o,𝓂,d,.
 
-Judges 3:18 in vtrad vtbhs
+Judges 3:18 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 k,·,_,α,:_,$,·sh,∵,⅃,r
@@ -1991,7 +2030,7 @@ n,o,$,·si,:,α,‥,(ti),y
 SPACE
 h,_,m,·,i,n,:,x,a,𝓂,h,.
 
-Judges 3:19 in vtrad vtbhs
+Judges 3:19 in vtrad vtsef
 w,:,h,⅃,w,·,α
 SPACE
 $,·sh,a,◆,v
@@ -2024,8 +2063,12 @@ k,·,oa,l,-,h,a,ʕ,o,m,:,d,i,(ti),y,m.
 SPACE
 ʕ,a,l,a,𝓂,y,w,.
 
-Judges 3:20 in vtrad vtbhs
+Judges 3:20 in vtrad vtsef
 w,:,α,‥,h,⅃,w,·,d
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 v,·,a,⅃,α
 SPACE
@@ -2057,7 +2100,7 @@ m,‥,ʕ,_,(me),l
 SPACE
 h,_,k,·,i,σ,·,‥,𝓂,α,.
 
-Judges 3:21 in vtrad vtbhs
+Judges 3:21 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,<,x
 SPACE
 α,‥,h,w,·,d,(p)
@@ -2080,7 +2123,7 @@ w,_,y,·,i,τ,:,q,a,ʕ,∵,(ti),h,a
 SPACE
 v,·,:,v,i,θ,:,n,𝓂,w,o,.
 
-Judges 3:22 in vtrad vtbhs
+Judges 3:22 in vtrad vtsef
 w,_,y,·,a,v,o,(qa),α
 SPACE
 g,_,𝓂,m.,-,h,_,n,·,i,ц,·,a,(ge),v
@@ -2111,7 +2154,7 @@ w,_,y,·,‥,ц,‥,(ti),α
 SPACE
 h,_,𝓂,f,·,_,r,:,$,·sh,:,d,o,𝓂,n,a,h,.
 
-Judges 3:23 in vtrad vtbhs
+Judges 3:23 in vtrad vtsef
 w,_,y,·,‥,ц,‥,(me),α
 SPACE
 α,‥,h,(ti),w,·,d
@@ -2128,7 +2171,7 @@ v,·,_,ʕ,:_,d,(ti),w,o
 SPACE
 w,:,n,a,ʕ,a,𝓂,l,.
 
-Judges 3:24 in vtrad vtbhs
+Judges 3:24 in vtrad vtsef
 w,:,h,<,w,·,α
 SPACE
 y,a,ц,a,α,(p)
@@ -2161,7 +2204,7 @@ v,·,_,x,:_,d,_,(me),r
 SPACE
 h,_,m,·,:,q,‥,r,a,𝓂,h,.
 
-Judges 3:25 in vtrad vtbhs
+Judges 3:25 in vtrad vtsef
 w,_,y,·,a,x,i,⅃,y,l,w,·
 SPACE
 ʕ,_,d,-,v,·,ƶ,w,o,$,·sh
@@ -2192,7 +2235,7 @@ SPACE
 SPACE
 m,‥,𝓂,τ,.
 
-Judges 3:26 in vtrad vtbhs
+Judges 3:26 in vtrad vtsef
 w,:,α,‥,h,(me),w,·,d
 SPACE
 n,i,m,:,l,_,(ti),θ
@@ -2211,7 +2254,7 @@ w,_,y,·,i,m,·,a,l,‥,(ti),θ
 SPACE
 h,_,$,·si,·,:,ʕ,i,y,r,a,𝓂,τ,a,h,.
 
-Judges 3:27 in vtrad vtbhs
+Judges 3:27 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
 SPACE
 v,·,:,v,w,o,α,ƶ,w,o
@@ -2236,7 +2279,7 @@ w,:,h,(me),w,·,α
 SPACE
 l,i,f,:,n,‥,y,h,∵,𝓂,m.,.
 
-Judges 3:28 in vtrad vtbhs
+Judges 3:28 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 α,:_,l,‥,h,∵,m.,(p)
@@ -2273,7 +2316,7 @@ SPACE
 SPACE
 l,_,ʕ,:_,v,o,𝓂,r,.
 
-Judges 3:29 in vtrad vtbhs
+Judges 3:29 in vtrad vtsef
 w,_,y,·,_,k,·,(qa),w,·
 SPACE
 α,∵,τ,-,m,w,o,α,a,(ge),v
@@ -2300,7 +2343,7 @@ n,i,m,:,l,_,(ti),θ
 SPACE
 α,i,𝓂,y,$,·sh,.
 
-Judges 3:30 in vtrad vtbhs
+Judges 3:30 in vtrad vtsef
 w,_,τ,·,i,k,·,a,n,_,<,ʕ
 SPACE
 m,w,o,α,a,v,(p)
@@ -2323,7 +2366,7 @@ $,·sh,:,m,w,o,n,i,(me),y,m.
 SPACE
 $,·sh,a,n,a,𝓂,h,.
 
-Judges 3:31 in vtrad vtbhs
+Judges 3:31 in vtrad vtsef
 w,:,α,_,x,:_,r,a,<,y,w
 SPACE
 h,a,y,a,h,(p)
@@ -2350,7 +2393,7 @@ g,·,_,m.,-,h,(ti),w,·,α
 SPACE
 α,∵,τ,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 4:1 in vtrad vtbhs
+Judges 4:1 in vtrad vtsef
 w,_,y,·,o,σ,i,(p),f,w,·,(p)
 SPACE
 v,·,:,n,‥,⅃,y
@@ -2369,7 +2412,7 @@ w,:,α,‥,h,(ti),w,·,d
 SPACE
 m,‥,𝓂,τ,.
 
-Judges 4:2 in vtrad vtbhs
+Judges 4:2 in vtrad vtsef
 w,_,y,·,i,m,:,k,·,:,r,‥,⅃,m.
 SPACE
 y,:,h,o,w,a,◆,h
@@ -2398,7 +2441,7 @@ v,·,_,x,:_,r,o,(me),$,·sh,∵,τ
 SPACE
 h,_,g,·,w,o,y,i,𝓂,m.,.
 
-Judges 4:3 in vtrad vtbhs
+Judges 4:3 in vtrad vtsef
 w,_,y,·,i,ц,:,ʕ,:_,q,(me),w,·
 SPACE
 v,:,n,‥,𝓂,y,-,y,i,$,·si,:,r,a,α,‥,(ti),l
@@ -2429,7 +2472,7 @@ SPACE
 SPACE
 $,·sh,a,n,a,𝓂,h,.
 
-Judges 4:4 in vtrad vtbhs
+Judges 4:4 in vtrad vtsef
 w,·,d,:,v,w,o,r,a,h,(p)
 SPACE
 α,i,$,·sh,·,a,⅃,h
@@ -2450,7 +2493,7 @@ v,·,a,ʕ,‥,(me),τ
 SPACE
 h,_,h,i,𝓂,y,α,.
 
-Judges 4:5 in vtrad vtbhs
+Judges 4:5 in vtrad vtsef
 w,:,⌕,h,i,⌕,y,α
 SPACE
 y,w,o,$,·sh,∵,(qa),v,∵,τ
@@ -2481,7 +2524,7 @@ y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 l,_,m,·,i,$,·sh,:,f,·,a,𝓂,θ,.
 
-Judges 4:6 in vtrad vtbhs
+Judges 4:6 in vtrad vtsef
 w,_,τ,·,i,$,·sh,:,l,_,◆,x
 SPACE
 w,_,τ,·,i,q,:,r,a,α,(p)
@@ -2501,6 +2544,10 @@ SPACE
 h,:_,l,o,(me),α
 SPACE
 ц,i,w,·,a,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 y,:,h,o,w,a,⅃,h
 SPACE
@@ -2532,7 +2579,7 @@ w,·,m,i,v,·,:,n,‥,(me),y
 SPACE
 z,:,v,u,l,𝓂,w,·,n.,.
 
-Judges 4:7 in vtrad vtbhs
+Judges 4:7 in vtrad vtsef
 w,·,m,a,$,·sh,_,k,:,τ,·,i,(qa),y
 SPACE
 α,‥,l,∵,(ge),y,k.,a
@@ -2555,7 +2602,7 @@ w,·,n,:,τ,_,τ,·,i,(ti),y,h,w,·
 SPACE
 v,·,:,y,a,d,∵,𝓂,k.,a,.
 
-Judges 4:8 in vtrad vtbhs
+Judges 4:8 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 α,‥,l,∵,(p),y,h,a,(p)
@@ -2578,7 +2625,7 @@ l,o,(me),α
 SPACE
 α,‥,l,‥,𝓂,k.,:,.
 
-Judges 4:9 in vtrad vtbhs
+Judges 4:9 in vtrad vtsef
 w,_,τ,·,o,(ge),α,m,∵,r
 SPACE
 h,a,l,o,(da),k.,:
@@ -2625,7 +2672,7 @@ SPACE
 SPACE
 q,∵,𝓂,d,:,$,·sh,a,h,.
 
-Judges 4:10 in vtrad vtbhs
+Judges 4:10 in vtrad vtsef
 w,_,y,·,_,z,:,ʕ,‥,(qa),q
 SPACE
 v,·,a,r,a,(ge),q
@@ -2652,7 +2699,7 @@ SPACE
 SPACE
 d,·,:,v,w,o,r,a,𝓂,h,.
 
-Judges 4:11 in vtrad vtbhs
+Judges 4:11 in vtrad vtsef
 w,:,x,∵,<,v,∵,r
 SPACE
 h,_,q,·,‥,y,n,i,y,(p)
@@ -2680,7 +2727,7 @@ SPACE
 SPACE
 α,∵,τ,-,q,∵,𝓂,d,∵,$,·sh,.
 
-Judges 4:12 in vtrad vtbhs
+Judges 4:12 in vtrad vtsef
 w,_,y,·,_,g,·,i,(ti),d,w,·
 SPACE
 l,:,σ,i,𝓂,y,σ,:,r,a,⅄,α
@@ -2695,7 +2742,7 @@ v,·,∵,n.,-,α,:_,v,i,y,n,o,(ti),ʕ,_,m.
 SPACE
 h,_,r,-,τ,·,a,v,𝓂,w,o,r,.
 
-Judges 4:13 in vtrad vtbhs
+Judges 4:13 in vtrad vtsef
 w,_,y,·,_,z,:,ʕ,‥,(qa),q
 SPACE
 σ,i,𝓂,y,σ,:,r,a,(ge),α
@@ -2724,7 +2771,7 @@ SPACE
 SPACE
 q,i,y,$,·sh,𝓂,w,o,n.,.
 
-Judges 4:14 in vtrad vtbhs
+Judges 4:14 in vtrad vtsef
 w,_,τ,·,o,(tq),α,m,∵,r,(tq)
 SPACE
 d,·,:,v,o,r,a,(qa),h
@@ -2773,7 +2820,7 @@ SPACE
 SPACE
 α,_,x,:_,r,a,𝓂,y,w,.
 
-Judges 4:15 in vtrad vtbhs
+Judges 4:15 in vtrad vtsef
 w,_,y,·,a,⅃,h,oa,m.
 SPACE
 y,:,⌕,h,o,w,a,⌕,h
@@ -2802,7 +2849,7 @@ w,_,y,·,a,(me),n,oa,σ
 SPACE
 v,·,:,r,_,g,:,l,a,𝓂,y,w,.
 
-Judges 4:16 in vtrad vtbhs
+Judges 4:16 in vtrad vtsef
 w,·,v,a,r,a,◆,q
 SPACE
 r,a,d,_,(G),f.
@@ -2835,7 +2882,7 @@ n,i,$,·sh,:,α,_,(ti),r
 SPACE
 ʕ,_,d,-,α,∵,x,a,𝓂,d,.
 
-Judges 4:17 in vtrad vtbhs
+Judges 4:17 in vtrad vtsef
 w,:,σ,i,𝓂,y,σ,:,r,a,α,(p)
 SPACE
 n,a,⅃,σ
@@ -2870,7 +2917,7 @@ x,∵,(me),v,∵,r
 SPACE
 h,_,q,·,‥,y,n,i,𝓂,y,.
 
-Judges 4:18 in vtrad vtbhs
+Judges 4:18 in vtrad vtsef
 w,_,τ,·,‥,ц,‥,⅃,α
 SPACE
 y,a,ʕ,‥,l,~
@@ -2903,7 +2950,7 @@ w,_,τ,·,:,k,_,σ,·,‥,(ti),h,w,·
 SPACE
 v,·,_,$,·si,·,:,m,i,y,k,a,𝓂,h,.
 
-Judges 4:19 in vtrad vtbhs
+Judges 4:19 in vtrad vtsef
 w,_,y,·,o,(da),α,m,∵,r
 SPACE
 α,‥,l,∵,⟓,y,h,a
@@ -2926,7 +2973,7 @@ w,_,τ,·,_,$,·sh,:,q,‥,(ti),h,w,·
 SPACE
 w,_,τ,·,:,k,_,σ,·,‥,𝓂,h,w,·,.
 
-Judges 4:20 in vtrad vtbhs
+Judges 4:20 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 α,‥,l,∵,ƶ,y,h,a
@@ -2955,7 +3002,7 @@ w,:,α,a,m,_,(me),r,:,τ,·,:
 SPACE
 α,a,𝓂,y,i,n.,.
 
-Judges 4:21 in vtrad vtbhs
+Judges 4:21 in vtrad vtsef
 w,_,τ,·,i,q,·,_,⅃,x
 SPACE
 y,a,ʕ,‥,⅃,l
@@ -2994,7 +3041,7 @@ w,_,y,·,a,(ti),ʕ,_,f.
 SPACE
 w,_,y,·,a,m,o,𝓂,τ,.
 
-Judges 4:22 in vtrad vtbhs
+Judges 4:22 in vtrad vtsef
 w,:,h,i,n,·,‥,⅃,h
 SPACE
 v,a,r,a,q,~
@@ -3039,7 +3086,7 @@ w,:,h,_,y,·,a,τ,‥,(ti),d
 SPACE
 v,·,:,r,_,q,·,a,τ,𝓂,w,o,.
 
-Judges 4:23 in vtrad vtbhs
+Judges 4:23 in vtrad vtsef
 w,_,y,·,_,k,:,n,_,<,ʕ
 SPACE
 α,:∵,l,o,h,i,y,m.,(p)
@@ -3060,7 +3107,7 @@ v,·,:,n,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 4:24 in vtrad vtbhs
+Judges 4:24 in vtrad vtsef
 w,_,τ,·,‥,(ge),l,∵,k.,:
 SPACE
 y,_,<,d
@@ -3089,7 +3136,7 @@ y,a,v,i,(me),y,n.
 SPACE
 m,∵,l,∵,k.,:,-,k,·,:,n,a,𝓂,ʕ,_,n.,.
 
-Judges 5:1 in vtrad vtbhs
+Judges 5:1 in vtrad vtsef
 w,_,τ,·,a,⅃,$,·sh,_,r
 SPACE
 d,·,:,v,w,o,r,a,ƶ,h
@@ -3103,7 +3150,7 @@ h,_,h,(ti),w,·,α
 SPACE
 l,‥,α,m,o,𝓂,r,.
 
-Judges 5:2 in vtrad vtbhs
+Judges 5:2 in vtrad vtsef
 v,·,i,f,:,r,o,<,ʕ,_
 SPACE
 f,·,:,r,a,ʕ,w,o,τ,(p)
@@ -3117,7 +3164,7 @@ v,·,a,𝓂,r,:,k,(ti),w,·
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-Judges 5:3 in vtrad vtbhs
+Judges 5:3 in vtrad vtsef
 $,·sh,i,m,:,ʕ,⅃,w,·
 SPACE
 m,:,l,a,k,i,ƶ,y,m.
@@ -3140,7 +3187,7 @@ SPACE
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 5:4 in vtrad vtbhs
+Judges 5:4 in vtrad vtsef
 y,:,h,o,w,a,◆,h
 SPACE
 v,·,:,ц,‥,α,τ,:,k.,a,<
@@ -3164,7 +3211,7 @@ n,a,(me),θ,:,f,w,·
 SPACE
 m,a,𝓂,y,i,m.,.
 
-Judges 5:5 in vtrad vtbhs
+Judges 5:5 in vtrad vtsef
 h,a,r,i,(me),y,m.
 SPACE
 n,a,z,:,l,(ti),w,·
@@ -3184,7 +3231,7 @@ SPACE
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 5:6 in vtrad vtbhs
+Judges 5:6 in vtrad vtsef
 v,·,i,y,m,‥,(G),y
 SPACE
 $,·sh,_,m,:,g,·,_,<,r
@@ -3207,7 +3254,7 @@ SPACE
 SPACE
 ʕ,:_,q,_,l,:,q,_,l,·,𝓂,w,o,τ,.
 
-Judges 5:7 in vtrad vtbhs
+Judges 5:7 in vtrad vtsef
 x,a,d,:,l,(da),w,·
 SPACE
 f,:,r,a,z,⟓,w,o,n.
@@ -3227,7 +3274,7 @@ SPACE
 SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 5:8 in vtrad vtbhs
+Judges 5:8 in vtrad vtsef
 y,i,v,:,x,_,r,(p)
 SPACE
 α,:∵,l,o,h,i,⅃,y,m.
@@ -3250,7 +3297,7 @@ SPACE
 SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 5:9 in vtrad vtbhs
+Judges 5:9 in vtrad vtsef
 l,i,v,·,i,y,(p)
 SPACE
 l,:,x,w,o,q,:,q,‥,⅃,y
@@ -3264,7 +3311,7 @@ v,·,a,r,:,k,(ti),w,·
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-Judges 5:10 in vtrad vtbhs
+Judges 5:10 in vtrad vtsef
 r,o,k,:,v,‥,y,(tq)
 SPACE
 α,:_,τ,o,n,(qa),w,o,τ
@@ -3280,7 +3327,7 @@ SPACE
 SPACE
 $,·si,i,𝓂,y,x,w,·,.
 
-Judges 5:11 in vtrad vtbhs
+Judges 5:11 in vtrad vtsef
 m,i,q,·,⅃,w,o,l
 SPACE
 m,:,x,_,𝓂,ц,:,ц,i,◆,y,m.
@@ -3308,7 +3355,7 @@ l,_,$,·sh,·,:,ʕ,a,r,i,(ti),y,m.
 SPACE
 ʕ,_,m.,-,y,:,h,o,w,a,𝓂,h,.
 
-Judges 5:12 in vtrad vtbhs
+Judges 5:12 in vtrad vtsef
 ʕ,w,·,r,i,<,y
 SPACE
 ʕ,w,·,r,i,y,(p)
@@ -3329,7 +3376,7 @@ $,·sh,∵,v,:,y,:,k.,a,(ti)
 SPACE
 v,·,∵,n.,-,α,:_,v,i,y,n,o,𝓂,ʕ,_,m.,.
 
-Judges 5:13 in vtrad vtbhs
+Judges 5:13 in vtrad vtsef
 α,a,(ye),z
 SPACE
 y,:,r,_,⅃,d
@@ -3345,7 +3392,7 @@ y,:,r,_,d,-,l,i,(ti),y
 SPACE
 v,·,_,g,·,i,v,·,w,o,r,i,𝓂,y,m.,.
 
-Judges 5:14 in vtrad vtbhs
+Judges 5:14 in vtrad vtsef
 m,i,n,·,i,⅃,y
 SPACE
 α,∵,f,:,r,_,◆,y,i,m.
@@ -3373,7 +3420,7 @@ v,·,:,$,·sh,‥,(me),v,∵,θ
 SPACE
 σ,o,f,‥,𝓂,r,.
 
-Judges 5:15 in vtrad vtbhs
+Judges 5:15 in vtrad vtsef
 w,:,$,·si,a,r,_,<,y
 SPACE
 v,·,:,y,i,$,·si,·,a,$,k,a,r,(p)
@@ -3398,7 +3445,7 @@ g,·,:,d,o,l,i,(ti),y,m.
 SPACE
 x,i,q,:,q,‥,y,-,l,‥,𝓂,v,.
 
-Judges 5:16 in vtrad vtbhs
+Judges 5:16 in vtrad vtsef
 l,a,⅃,m,·,a,h
 SPACE
 y,a,$,·sh,_,◆,v,:,τ,·,a
@@ -3419,7 +3466,7 @@ g,·,:,d,w,o,l,i,(ti),y,m.
 SPACE
 x,i,q,:,r,‥,y,-,l,‥,𝓂,v,.
 
-Judges 5:17 in vtrad vtbhs
+Judges 5:17 in vtrad vtsef
 g,·,i,l,:,ʕ,a,◆,d
 SPACE
 v,·,:,ʕ,‥,<,v,∵,r
@@ -3447,7 +3494,7 @@ m,i,f,:,r,a,ц,a,(ti),y,w
 SPACE
 y,i,$,·sh,:,k,·,𝓂,w,o,n.,.
 
-Judges 5:18 in vtrad vtbhs
+Judges 5:18 in vtrad vtsef
 z,:,v,u,l,◆,w,·,n.
 SPACE
 ʕ,_,⅃,m.
@@ -3465,7 +3512,7 @@ m,:,r,w,o,m,‥,(me),y
 SPACE
 $,·si,a,d,∵,𝓂,h,.
 
-Judges 5:19 in vtrad vtbhs
+Judges 5:19 in vtrad vtsef
 v,·,a,<,α,w,·
 SPACE
 m,:,l,a,k,i,y,m.,(p)
@@ -3491,7 +3538,7 @@ l,o,(me),α
 SPACE
 l,a,q,a,𝓂,x,w,·,.
 
-Judges 5:20 in vtrad vtbhs
+Judges 5:20 in vtrad vtsef
 m,i,n.,-,$,·sh,a,m,_,(ti),y,i,m.
 SPACE
 n,i,l,:,x,a,⅄,m,w,·
@@ -3503,7 +3550,7 @@ n,i,l,:,x,:_,m,(ti),w,·
 SPACE
 ʕ,i,m.,-,σ,i,𝓂,y,σ,:,r,a,𝓂,α,.
 
-Judges 5:21 in vtrad vtbhs
+Judges 5:21 in vtrad vtsef
 n,_,<,x,_,l
 SPACE
 q,i,y,$,·sh,w,o,n.,(p)
@@ -3522,7 +3569,7 @@ n,_,f,:,$,·sh,i,(ti),y
 SPACE
 ʕ,o,𝓂,z,.
 
-Judges 5:22 in vtrad vtbhs
+Judges 5:22 in vtrad vtsef
 α,a,(me),z
 SPACE
 h,a,l,:,m,(ti),w,·
@@ -3534,7 +3581,7 @@ d,·,_,h,:_,r,(me),w,o,τ
 SPACE
 α,_,v,·,i,y,r,a,𝓂,y,w,.
 
-Judges 5:23 in vtrad vtbhs
+Judges 5:23 in vtrad vtsef
 α,⅃,w,o,r,w,·
 SPACE
 m,‥,r,◆,w,o,z
@@ -3563,7 +3610,7 @@ y,:,h,o,w,a,(ti),h
 SPACE
 v,·,_,g,·,i,v,·,w,o,r,i,𝓂,y,m.,.
 
-Judges 5:24 in vtrad vtbhs
+Judges 5:24 in vtrad vtsef
 τ,·,:,v,o,r,_,k.,:,(p)
 SPACE
 m,i,n,·,a,$,·sh,i,ƶ,y,m.
@@ -3581,7 +3628,7 @@ v,·,a,α,o,(ti),h,∵,l
 SPACE
 τ,·,:,v,o,r,a,𝓂,k.,:,.
 
-Judges 5:25 in vtrad vtbhs
+Judges 5:25 in vtrad vtsef
 m,_,(me),y,i,m.
 SPACE
 $,·sh,a,α,_,(ti),l
@@ -3597,7 +3644,7 @@ h,i,q,:,r,i,(me),y,v,a,h
 SPACE
 x,∵,m,:,α,a,𝓂,h,.
 
-Judges 5:26 in vtrad vtbhs
+Judges 5:26 in vtrad vtsef
 y,a,d,a,h,·,(p)
 SPACE
 l,_,y,·,a,τ,‥,⅃,d
@@ -3621,7 +3668,7 @@ w,:,x,a,l,:,f,a,(ti),h
 SPACE
 r,_,q,·,a,τ,𝓂,w,o,.
 
-Judges 5:27 in vtrad vtbhs
+Judges 5:27 in vtrad vtsef
 v,·,‥,⅃,y,n.
 SPACE
 r,_,g,:,l,∵,ƶ,y,h,a
@@ -3648,7 +3695,7 @@ n,a,f,_,(me),l
 SPACE
 $,·sh,a,d,𝓂,w,·,d,.
 
-Judges 5:28 in vtrad vtbhs
+Judges 5:28 in vtrad vtsef
 v,·,:,ʕ,_,d,(tq)
 SPACE
 h,_,x,_,l,·,(qa),w,o,n.
@@ -3679,7 +3726,7 @@ f,·,_,ʕ,:_,m,‥,(ti),y
 SPACE
 m,_,r,:,k,·,:,v,w,o,τ,a,𝓂,y,w,.
 
-Judges 5:29 in vtrad vtbhs
+Judges 5:29 in vtrad vtsef
 x,_,k,:,m,(me),w,o,τ
 SPACE
 $,·si,a,r,w,o,τ,∵,(ti),y,h,a
@@ -3693,7 +3740,7 @@ SPACE
 SPACE
 l,a,𝓂,h,·,.
 
-Judges 5:30 in vtrad vtbhs
+Judges 5:30 in vtrad vtsef
 h,:_,l,o,(qa),α
 SPACE
 y,i,m,:,ц,:,α,(ge),w,·
@@ -3726,7 +3773,7 @@ l,:,ц,_,w,·,:,α,r,‥,(me),y
 SPACE
 $,·sh,a,l,a,𝓂,l,.
 
-Judges 5:31 in vtrad vtbhs
+Judges 5:31 in vtrad vtsef
 k,·,‥,⌕,n.
 SPACE
 y,o,α,v,:,d,<,w,·
@@ -3750,7 +3797,7 @@ SPACE
 SPACE
 $,·sh,a,n,a,𝓂,h,.
 
-Judges 6:1 in vtrad vtbhs
+Judges 6:1 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,$,·si,(da),w,·
 SPACE
 v,:,n,‥,𝓂,y,-,y,i,$,·si,:,r,a,α,‥,⟓,l
@@ -3771,7 +3818,7 @@ $,·sh,∵,(me),v,_,ʕ
 SPACE
 $,·sh,a,n,i,𝓂,y,m.,.
 
-Judges 6:2 in vtrad vtbhs
+Judges 6:2 in vtrad vtsef
 w,_,τ,·,a,(me),ʕ,oa,z
 SPACE
 y,_,d,-,m,i,d,:,y,a,(ti),n.
@@ -3785,6 +3832,10 @@ SPACE
 ʕ,a,$,·si,(me),w,·
 SPACE
 l,a,h,∵,⅃,m.
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 v,·,:,n,‥,⅃,y
 SPACE
@@ -3800,7 +3851,7 @@ w,:,α,∵,τ,-,h,_,m,·,:,ʕ,a,r,(ti),w,o,τ
 SPACE
 w,:,α,∵,τ,-,h,_,m,·,:,ц,a,d,𝓂,w,o,τ,.
 
-Judges 6:3 in vtrad vtbhs
+Judges 6:3 in vtrad vtsef
 w,:,h,a,y,a,(ti),h
 SPACE
 α,i,m.,-,z,a,r,_,⅃,ʕ
@@ -3819,7 +3870,7 @@ w,:,ʕ,a,l,(me),w,·
 SPACE
 ʕ,a,l,a,𝓂,y,w,.
 
-Judges 6:4 in vtrad vtbhs
+Judges 6:4 in vtrad vtsef
 w,_,y,·,_,𝓂,x,:_,n,⅃,w,·
 SPACE
 ʕ,:_,l,‥,y,h,∵,◆,m.
@@ -3846,7 +3897,7 @@ w,a,$,·sh,(ti),w,o,r
 SPACE
 w,_,x,:_,m,𝓂,w,o,r,.
 
-Judges 6:5 in vtrad vtbhs
+Judges 6:5 in vtrad vtsef
 k,·,i,μ,y
 SPACE
 h,‥,m.,(tq)
@@ -3876,7 +3927,7 @@ v,a,α,a,(ti),r,∵,ц.
 SPACE
 l,:,$,·sh,_,x,:_,τ,a,𝓂,h,·,.
 
-Judges 6:6 in vtrad vtbhs
+Judges 6:6 in vtrad vtsef
 w,_,y,·,i,d,·,_,(da),l
 SPACE
 y,i,$,·si,:,r,a,α,‥,⟓,l
@@ -3893,7 +3944,7 @@ v,:,n,‥,y,-,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 α,∵,l,-,y,:,h,o,w,a,𝓂,h,.
 
-Judges 6:7 in vtrad vtbhs
+Judges 6:7 in vtrad vtsef
 w,_,y,:,h,i,Ƶ,y
 SPACE
 k,·,i,𝓂,y,-,z,a,ʕ,:_,q,(me),w,·
@@ -3908,7 +3959,7 @@ SPACE
 SPACE
 m,i,d,:,y,a,𝓂,n.,.
 
-Judges 6:8 in vtrad vtbhs
+Judges 6:8 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,(da),x
 SPACE
 y,:,h,o,w,a,⟓,h
@@ -3928,6 +3979,10 @@ SPACE
 k,·,o,h,-,α,a,m,_,(me),r
 SPACE
 y,:,h,o,w,a,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,:∵,l,o,h,‥,⅃,y
 SPACE
@@ -3949,7 +4004,7 @@ m,i,v,·,‥,(me),y,τ
 SPACE
 ʕ,:_,v,a,d,i,𝓂,y,m.,.
 
-Judges 6:9 in vtrad vtbhs
+Judges 6:9 in vtrad vtsef
 w,a,α,_,ц,·,i,<,l
 SPACE
 α,∵,τ,:,k,∵,m.,(p)
@@ -3974,7 +4029,7 @@ l,a,k,∵,(ti),m.
 SPACE
 α,∵,τ,-,α,_,r,:,ц,a,𝓂,m.,.
 
-Judges 6:10 in vtrad vtbhs
+Judges 6:10 in vtrad vtsef
 w,a,α,o,m,:,r,a,⅃,h
 SPACE
 l,a,k,∵,◆,m.
@@ -4007,7 +4062,7 @@ $,·sh,:,m,_,ʕ,:,τ,·,∵,(ti),m.
 SPACE
 v,·,:,q,w,o,l,i,𝓂,y,.
 
-Judges 6:11 in vtrad vtbhs
+Judges 6:11 in vtrad vtsef
 w,_,y,·,a,v,o,(G),α
 SPACE
 m,_,l,:,α,_,⅃,k.,:
@@ -4048,7 +4103,7 @@ m,i,f,·,:,n,‥,(me),y
 SPACE
 m,i,d,:,y,a,𝓂,n.,.
 
-Judges 6:12 in vtrad vtbhs
+Judges 6:12 in vtrad vtsef
 w,_,y,·,‥,r,a,(me),α
 SPACE
 α,‥,l,a,(ti),y,w
@@ -4069,7 +4124,7 @@ g,·,i,v,·,(me),w,o,r
 SPACE
 h,∵,x,a,𝓂,y,i,l,.
 
-Judges 6:13 in vtrad vtbhs
+Judges 6:13 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 α,‥,l,a,<,y,w
@@ -4122,7 +4177,7 @@ w,_,𝓂,y,·,i,τ,·,:,n,‥,(ti),n,w,·
 SPACE
 v,·,:,k,_,f.,-,m,i,d,:,y,a,𝓂,n.,.
 
-Judges 6:14 in vtrad vtbhs
+Judges 6:14 in vtrad vtsef
 w,_,y,·,i,<,f,∵,n.
 SPACE
 α,‥,l,a,y,w,(p)
@@ -4149,7 +4204,7 @@ h,:_,l,o,(ti),α
 SPACE
 $,·sh,:,l,_,x,:,τ,·,i,𝓂,y,k.,a,.
 
-Judges 6:15 in vtrad vtbhs
+Judges 6:15 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 α,‥,l,a,y,w,(p)
@@ -4180,7 +4235,7 @@ v,·,:,v,‥,(me),y,τ
 SPACE
 α,a,v,i,𝓂,y,.
 
-Judges 6:16 in vtrad vtbhs
+Judges 6:16 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 α,‥,l,a,y,w,(p)
@@ -4201,7 +4256,7 @@ k,·,:,α,i,(me),y,$,·sh
 SPACE
 α,∵,x,a,𝓂,d,.
 
-Judges 6:17 in vtrad vtbhs
+Judges 6:17 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 α,‥,l,a,ƶ,y,w
@@ -4226,7 +4281,7 @@ m,:,d,_,v,·,‥,(me),r
 SPACE
 ʕ,i,m,·,i,𝓂,y,.
 
-Judges 6:18 in vtrad vtbhs
+Judges 6:18 in vtrad vtsef
 α,_,l,-,n,a,(qa),α
 SPACE
 τ,a,m,u,<,$,·sh
@@ -4255,7 +4310,7 @@ SPACE
 SPACE
 $,·sh,w,·,v,∵,𝓂,k.,a,.
 
-Judges 6:19 in vtrad vtbhs
+Judges 6:19 in vtrad vtsef
 w,:,g,i,d,:,ʕ,⅃,w,o,n.
 SPACE
 v,·,a,◆,α
@@ -4290,7 +4345,7 @@ h,a,α,‥,l,a,(ti),h
 SPACE
 w,_,y,·,_,g,·,_,𝓂,$,·sh,.
 
-Judges 6:20 in vtrad vtbhs
+Judges 6:20 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 α,‥,l,a,(ge),y,w
@@ -4319,7 +4374,7 @@ w,_,y,·,_,(ti),ʕ,_,$,·si
 SPACE
 k,·,‥,𝓂,n.,.
 
-Judges 6:21 in vtrad vtbhs
+Judges 6:21 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,(G),x
 SPACE
 m,_,l,:,α,_,⅃,k.,:
@@ -4360,7 +4415,7 @@ h,a,l,_,(ti),k.,:
 SPACE
 m,‥,ʕ,‥,y,n,a,𝓂,y,w,.
 
-Judges 6:22 in vtrad vtbhs
+Judges 6:22 in vtrad vtsef
 w,_,y,·,_,⅃,r,:,α
 SPACE
 g,·,i,d,:,ʕ,ƶ,w,o,n.
@@ -4393,7 +4448,7 @@ f,·,a,n,i,(ti),y,m.
 SPACE
 α,∵,l,-,f,·,a,n,i,𝓂,y,m.,.
 
-Judges 6:23 in vtrad vtbhs
+Judges 6:23 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 l,(da),w,o
@@ -4410,7 +4465,7 @@ l,o,(ti),α
 SPACE
 τ,·,a,m,𝓂,w,·,τ,.
 
-Judges 6:24 in vtrad vtbhs
+Judges 6:24 in vtrad vtsef
 w,_,y,·,i,(tq),v,∵,n.,(tq)
 SPACE
 $,·sh,a,(qa),m.
@@ -4441,7 +4496,7 @@ SPACE
 SPACE
 h,a,ʕ,∵,z,:,r,i,𝓂,y,.
 
-Judges 6:25 in vtrad vtbhs
+Judges 6:25 in vtrad vtsef
 w,_,y,:,h,i,y,~
 SPACE
 v,·,_,l,·,_,⅃,y,:,l,a,h
@@ -4486,7 +4541,7 @@ SPACE
 SPACE
 τ,·,i,k,:,r,o,𝓂,τ,.
 
-Judges 6:26 in vtrad vtbhs
+Judges 6:26 in vtrad vtsef
 w,·,v,a,n,i,(qa),y,τ,a
 SPACE
 m,i,z,:,v,·,‥,(ge),x,_
@@ -4523,7 +4578,7 @@ SPACE
 SPACE
 τ,·,i,k,:,r,o,𝓂,τ,.
 
-Judges 6:27 in vtrad vtbhs
+Judges 6:27 in vtrad vtsef
 w,_,y,·,i,q,·,_,(qa),x
 SPACE
 g,·,i,d,:,ʕ,(ge),w,o,n.
@@ -4566,7 +4621,7 @@ w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 l,a,𝓂,y,:,l,a,h,.
 
-Judges 6:28 in vtrad vtbhs
+Judges 6:28 in vtrad vtsef
 w,_,y,·,_,$,·sh,:,k,·,i,(ge),y,m,w,·
 SPACE
 α,_,n,:,$,·sh,‥,<,y
@@ -4601,7 +4656,7 @@ SPACE
 SPACE
 h,_,v,·,a,n,𝓂,w,·,y,.
 
-Judges 6:29 in vtrad vtbhs
+Judges 6:29 in vtrad vtsef
 w,_,y,·,o,𝓂,α,m,:,r,w,·,(p)
 SPACE
 α,i,⅃,y,$,·sh
@@ -4632,7 +4687,7 @@ h,_,d,·,a,v,a,(me),r
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-Judges 6:30 in vtrad vtbhs
+Judges 6:30 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,:,r,(ge),w,·
 SPACE
 α,_,n,:,$,·sh,‥,<,y
@@ -4663,7 +4718,7 @@ h,a,α,:_,$,·sh,‥,r,a,(me),h
 SPACE
 α,:_,$,·sh,∵,r,-,ʕ,a,l,a,𝓂,y,w,.
 
-Judges 6:31 in vtrad vtbhs
+Judges 6:31 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 y,w,o,α,a,μ,$,·sh
@@ -4675,6 +4730,10 @@ SPACE
 ʕ,a,l,a,(ge),y,w
 SPACE
 h,_,α,_,τ,·,∵,⅃,m.
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 τ,·,:,r,i,y,v,⅃,w,·,n.
 SPACE
@@ -4710,7 +4769,7 @@ n,a,τ,_,(ti),ц.
 SPACE
 α,∵,𝓂,τ,-,m,i,z,:,v,·,:,x,𝓂,w,o,.
 
-Judges 6:32 in vtrad vtbhs
+Judges 6:32 in vtrad vtsef
 w,_,y,·,i,q,:,r,a,α,-,l,(me),w,o
 SPACE
 v,_,y,·,w,o,m.,-,h,_,h,(ti),w,·,α
@@ -4731,7 +4790,7 @@ n,a,τ,_,(ti),ц.
 SPACE
 α,∵,𝓂,τ,-,m,i,z,:,v,·,:,x,𝓂,w,o,.
 
-Judges 6:33 in vtrad vtbhs
+Judges 6:33 in vtrad vtsef
 w,:,k,oa,l,-,m,i,d,:,y,a,(da),n.
 SPACE
 w,_,ʕ,:_,m,a,l,‥,⟓,q
@@ -4750,7 +4809,7 @@ v,·,:,ʕ,‥,(me),m,∵,q
 SPACE
 y,i,z,:,r,:,ʕ,∵,𝓂,α,l,.
 
-Judges 6:34 in vtrad vtbhs
+Judges 6:34 in vtrad vtsef
 w,:,r,⅃,w,·,x,_
 SPACE
 y,:,h,o,w,a,ƶ,h
@@ -4769,7 +4828,7 @@ SPACE
 SPACE
 α,_,x,:_,r,a,𝓂,y,w,.
 
-Judges 6:35 in vtrad vtbhs
+Judges 6:35 in vtrad vtsef
 w,·,m,_,l,:,α,a,k,i,y,m.,(p)
 SPACE
 $,·sh,a,l,_,⅃,x
@@ -4796,7 +4855,7 @@ w,_,𝓂,y,·,_,ʕ,:_,l,(ti),w,·
 SPACE
 l,i,q,:,r,a,α,τ,a,𝓂,m.,.
 
-Judges 6:36 in vtrad vtbhs
+Judges 6:36 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
 SPACE
 g,·,i,d,:,ʕ,(ti),w,o,n.
@@ -4815,7 +4874,7 @@ k,·,_,α,:_,$,·sh,∵,(me),r
 SPACE
 d,·,i,v,·,_,𝓂,r,:,τ,·,a,.
 
-Judges 6:37 in vtrad vtbhs
+Judges 6:37 in vtrad vtsef
 h,i,n,·,‥,⅃,h
 SPACE
 α,a,n,o,k,i,◆,y
@@ -4854,7 +4913,7 @@ k,·,_,α,:_,$,·sh,∵,(me),r
 SPACE
 d,·,i,v,·,_,𝓂,r,:,τ,·,a,.
 
-Judges 6:38 in vtrad vtbhs
+Judges 6:38 in vtrad vtsef
 w,_,y,:,h,i,y,-,k,‥,Ƶ,n.
 SPACE
 w,_,y,·,_,$,·sh,:,k,·,‥,m.,(p)
@@ -4877,7 +4936,7 @@ h,_,σ,·,‥,(ti),f,∵,l
 SPACE
 m,a,𝓂,y,i,m.,.
 
-Judges 6:39 in vtrad vtbhs
+Judges 6:39 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 g,·,i,d,:,ʕ,w,o,n.,(p)
@@ -4914,7 +4973,7 @@ w,:,ʕ,_,l,-,k,·,oa,l,-,h,a,α,a,(ti),r,∵,ц.
 SPACE
 y,i,𝓂,h,:,y,∵,h,-,θ,·,a,𝓂,l,.
 
-Judges 6:40 in vtrad vtbhs
+Judges 6:40 in vtrad vtsef
 w,_,y,·,_,(da),ʕ,_,$,·si
 SPACE
 α,:∵,l,o,h,i,⟓,y,m.
@@ -4937,7 +4996,7 @@ h,a,(me),y,a,h
 SPACE
 θ,a,𝓂,l,.
 
-Judges 7:1 in vtrad vtbhs
+Judges 7:1 in vtrad vtsef
 w,_,y,·,_,$,·sh,:,k,·,‥,(qa),m.
 SPACE
 y,:,r,u,v,·,_,(ge),ʕ,_,l
@@ -4972,7 +5031,7 @@ h,_,m,·,w,o,r,∵,(ti),h
 SPACE
 v,·,a,ʕ,‥,𝓂,m,∵,q,.
 
-Judges 7:2 in vtrad vtbhs
+Judges 7:2 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -5007,7 +5066,7 @@ h,w,o,$,·sh,i,(me),y,ʕ,a,h
 SPACE
 l,·,i,𝓂,y,.
 
-Judges 7:3 in vtrad vtbhs
+Judges 7:3 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,◆,h
 SPACE
 q,:,r,a,(qa),α
@@ -5048,7 +5107,7 @@ SPACE
 SPACE
 n,i,$,·sh,:,α,a,𝓂,r,w,·,.
 
-Judges 7:4 in vtrad vtbhs
+Judges 7:4 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 y,:,h,o,w,a,(ge),h
@@ -5082,6 +5141,10 @@ SPACE
 α,‥,l,∵,(ge),y,k.,a
 SPACE
 z,∵,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 y,‥,l,‥,⅃,k.,:
 SPACE
@@ -5111,7 +5174,7 @@ l,o,(me),α
 SPACE
 y,‥,l,‥,𝓂,k.,:,.
 
-Judges 7:5 in vtrad vtbhs
+Judges 7:5 in vtrad vtsef
 w,_,y,·,(me),w,o,r,∵,d
 SPACE
 α,∵,τ,-,h,a,ʕ,a,(ti),m.
@@ -5152,7 +5215,7 @@ SPACE
 SPACE
 l,i,$,·sh,:,τ,·,𝓂,w,o,τ,.
 
-Judges 7:6 in vtrad vtbhs
+Judges 7:6 in vtrad vtsef
 w,_,y,:,h,i,◆,y
 SPACE
 m,i,σ,:,f,·,_,(G),r
@@ -5183,7 +5246,7 @@ l,i,$,·sh,:,τ,·,(me),w,o,τ
 SPACE
 m,a,𝓂,y,i,m.,.
 
-Judges 7:7 in vtrad vtbhs
+Judges 7:7 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 y,:,h,o,w,a,(ge),h
@@ -5216,7 +5279,7 @@ SPACE
 SPACE
 l,i,m,:,q,o,m,𝓂,w,o,.
 
-Judges 7:8 in vtrad vtbhs
+Judges 7:8 in vtrad vtsef
 w,_,y,·,i,q,:,x,⅃,w,·
 SPACE
 α,∵,τ,-,ц,‥,d,a,h,(tq)
@@ -5259,7 +5322,7 @@ m,i,τ,·,_,(me),x,_,τ
 SPACE
 v,·,a,ʕ,‥,𝓂,m,∵,q,.
 
-Judges 7:9 in vtrad vtbhs
+Judges 7:9 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 v,·,_,l,·,_,⅃,y,:,l,a,h
@@ -5284,7 +5347,7 @@ n,:,τ,_,τ,·,i,(ti),y,w
 SPACE
 v,·,:,y,a,d,∵,𝓂,k.,a,.
 
-Judges 7:10 in vtrad vtbhs
+Judges 7:10 in vtrad vtsef
 w,:,α,i,m.,-,y,a,r,‥,(me),α
 SPACE
 α,_,τ,·,a,(ti),h
@@ -5301,7 +5364,7 @@ n,_,ʕ,_,r,:,k.,a,(ti)
 SPACE
 α,∵,l,-,h,_,𝓂,m,·,_,x,:_,n,∵,𝓂,h,.
 
-Judges 7:11 in vtrad vtbhs
+Judges 7:11 in vtrad vtsef
 w,:,$,·sh,a,𝓂,m,_,ʕ,:,τ,·,a,(p)
 SPACE
 m,_,h,-,y,:,d,_,v,·,‥,ƶ,r,w,·
@@ -5332,7 +5395,7 @@ SPACE
 SPACE
 v,·,_,𝓂,m,·,_,x,:_,n,∵,𝓂,h,.
 
-Judges 7:12 in vtrad vtbhs
+Judges 7:12 in vtrad vtsef
 w,·,m,i,d,:,y,a,(qa),n.
 SPACE
 w,_,ʕ,:_,m,a,l,‥,<,q
@@ -5361,7 +5424,7 @@ h,_,y,·,a,(ti),m.
 SPACE
 l,a,r,o,𝓂,v,.
 
-Judges 7:13 in vtrad vtbhs
+Judges 7:13 in vtrad vtsef
 w,_,y,·,a,v,o,⅃,α
 SPACE
 g,i,d,:,ʕ,ƶ,w,o,n.
@@ -5412,7 +5475,7 @@ w,:,n,a,f,_,(me),l
 SPACE
 h,a,α,o,𝓂,h,∵,l,.
 
-Judges 7:14 in vtrad vtbhs
+Judges 7:14 in vtrad vtsef
 w,_,y,·,_,(qa),ʕ,_,n.
 SPACE
 r,‥,ʕ,‥,<,h,w,·
@@ -5445,7 +5508,7 @@ SPACE
 SPACE
 w,:,α,∵,τ,-,k,·,oa,l,-,h,_,𝓂,m,·,_,x,:_,n,∵,𝓂,h,.
 
-Judges 7:15 in vtrad vtbhs
+Judges 7:15 in vtrad vtsef
 w,_,y,:,h,i,y,(tq)
 SPACE
 k,i,$,·sh,:,m,o,(qa),ʕ,_
@@ -5480,7 +5543,7 @@ SPACE
 SPACE
 m,i,d,:,y,a,𝓂,n.,.
 
-Judges 7:16 in vtrad vtbhs
+Judges 7:16 in vtrad vtsef
 w,_,y,·,_,⟓,x,_,ц.
 SPACE
 α,∵,τ,-,$,·sh,:,l,o,$,·sh,-,m,‥,α,(me),w,o,τ
@@ -5507,7 +5570,7 @@ v,·,:,τ,(me),w,o,k.,:
 SPACE
 h,_,k,·,_,d,·,i,𝓂,y,m.,.
 
-Judges 7:17 in vtrad vtbhs
+Judges 7:17 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 α,:_,l,‥,y,h,∵,ƶ,m.
@@ -5538,7 +5601,7 @@ k,·,‥,(me),n.
 SPACE
 τ,·,_,ʕ,:_,$,·si,𝓂,w,·,n.,.
 
-Judges 7:18 in vtrad vtbhs
+Judges 7:18 in vtrad vtsef
 w,:,τ,a,𝓂,q,_,ʕ,:,τ,·,i,y,(p)
 SPACE
 v,·,_,$,·sh,·,w,o,f,a,ƶ,r
@@ -5565,7 +5628,7 @@ l,_,y,h,o,w,a,(me),h
 SPACE
 w,·,l,:,g,i,d,:,ʕ,𝓂,w,o,n.,.
 
-Judges 7:19 in vtrad vtbhs
+Judges 7:19 in vtrad vtsef
 w,_,y,·,a,v,o,⅃,α
 SPACE
 g,i,⌕,d,:,ʕ,⌕,w,o,n.
@@ -5604,7 +5667,7 @@ SPACE
 SPACE
 v,·,:,y,a,d,a,𝓂,m.,.
 
-Judges 7:20 in vtrad vtbhs
+Judges 7:20 in vtrad vtsef
 w,_,𝓂,⌕,y,·,i,τ,:,q,:,ʕ,⌕,w,·
 SPACE
 $,·sh,:,l,o,(qa),$,·sh,∵,τ
@@ -5637,7 +5700,7 @@ l,_,y,h,o,w,a,(ti),h
 SPACE
 w,·,l,:,g,i,d,:,ʕ,𝓂,w,o,n.,.
 
-Judges 7:21 in vtrad vtbhs
+Judges 7:21 in vtrad vtsef
 w,_,y,·,_,𝓂,ʕ,_,m,:,d,w,·,(p)
 SPACE
 α,i,⅃,y,$,·sh
@@ -5656,7 +5719,7 @@ w,_,y,·,a,r,i,(ti),y,ʕ,w,·
 SPACE
 .
 
-Judges 7:22 in vtrad vtbhs
+Judges 7:22 in vtrad vtsef
 w,_,𝓂,y,·,i,τ,:,q,:,ʕ,w,·,~
 SPACE
 $,·sh,:,l,o,$,·sh,-,m,‥,α,⅃,w,o,τ
@@ -5695,7 +5758,7 @@ m,:,x,w,o,l,a,(ti),h
 SPACE
 ʕ,_,l,-,θ,_,v,·,a,𝓂,τ,.
 
-Judges 7:23 in vtrad vtbhs
+Judges 7:23 in vtrad vtsef
 w,_,y,·,i,ц,·,a,ʕ,‥,(da),q
 SPACE
 α,i,𝓂,y,$,·sh,-,y,i,$,·si,:,r,a,α,‥,⟓,l
@@ -5712,7 +5775,7 @@ SPACE
 SPACE
 m,i,d,:,y,a,𝓂,n.,.
 
-Judges 7:24 in vtrad vtbhs
+Judges 7:24 in vtrad vtsef
 w,·,m,_,l,:,α,a,k,i,μ,y,m.
 SPACE
 $,·sh,a,l,_,⅃,x
@@ -5763,7 +5826,7 @@ v,·,a,r,a,(ti),h
 SPACE
 w,:,α,∵,τ,-,h,_,y,·,_,r,:,d,·,‥,𝓂,n.,.
 
-Judges 7:25 in vtrad vtbhs
+Judges 7:25 in vtrad vtsef
 w,_,𝓂,y,·,i,l,:,k,·,:,d,μ,w,·
 SPACE
 $,·sh,:,n,‥,𝓂,y,-,$,·si,a,r,‥,(qa),y
@@ -5802,7 +5865,7 @@ m,‥,ʕ,‥,(ti),v,∵,r
 SPACE
 l,_,y,·,_,r,:,d,·,‥,𝓂,n.,.
 
-Judges 8:1 in vtrad vtbhs
+Judges 8:1 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,(qa),w,·
 SPACE
 α,‥,l,a,(ge),y,w
@@ -5839,7 +5902,7 @@ SPACE
 SPACE
 v,·,:,x,oa,z,:,q,a,𝓂,h,.
 
-Judges 8:2 in vtrad vtbhs
+Judges 8:2 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 α,:_,l,‥,y,h,∵,ƶ,m.
@@ -5862,7 +5925,7 @@ m,i,v,:,ц,i,(me),y,r
 SPACE
 α,:_,v,i,y,ʕ,∵,𝓂,z,∵,r,.
 
-Judges 8:3 in vtrad vtbhs
+Judges 8:3 in vtrad vtsef
 v,·,:,y,∵,d,:,k,∵,m.,(tq)
 SPACE
 n,a,τ,_,(qa),n.
@@ -5897,7 +5960,7 @@ h,_,d,·,a,v,a,(me),r
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-Judges 8:4 in vtrad vtbhs
+Judges 8:4 in vtrad vtsef
 w,_,y,·,a,v,o,(me),α
 SPACE
 g,i,d,:,ʕ,(ti),w,o,n.
@@ -5920,7 +5983,7 @@ SPACE
 SPACE
 w,:,r,o,d,:,f,i,𝓂,y,m.,.
 
-Judges 8:5 in vtrad vtbhs
+Judges 8:5 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
 SPACE
 l,:,α,_,n,:,$,·sh,‥,⅃,y
@@ -5957,7 +6020,7 @@ m,_,l,:,k,‥,(me),y
 SPACE
 m,i,d,:,y,a,𝓂,n.,.
 
-Judges 8:6 in vtrad vtbhs
+Judges 8:6 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
 SPACE
 $,·si,a,r,‥,⅃,y
@@ -5980,7 +6043,7 @@ l,i,𝓂,ц,:,v,a,α,:_,k.,a,(ti)
 SPACE
 l,a,𝓂,x,∵,m.,.
 
-Judges 8:7 in vtrad vtbhs
+Judges 8:7 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 g,·,i,d,:,ʕ,ƶ,w,o,n.
@@ -6007,7 +6070,7 @@ h,_,m,·,i,d,:,v,·,a,(ti),r
 SPACE
 w,:,α,∵,τ,-,h,_,𝓂,v,·,_,r,:,q,:a,n,i,𝓂,y,m.,.
 
-Judges 8:8 in vtrad vtbhs
+Judges 8:8 in vtrad vtsef
 w,_,y,·,_,<,ʕ,_,l
 SPACE
 m,i,$,·sh,·,a,m.,(p)
@@ -6036,7 +6099,7 @@ SPACE
 SPACE
 σ,u,k,·,𝓂,w,o,τ,.
 
-Judges 8:9 in vtrad vtbhs
+Judges 8:9 in vtrad vtsef
 w,_,y,·,o,⟓,α,m,∵,r
 SPACE
 g,·,_,m.,-,l,:,α,_,n,:,$,·sh,‥,(me),y
@@ -6055,7 +6118,7 @@ SPACE
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-Judges 8:10 in vtrad vtbhs
+Judges 8:10 in vtrad vtsef
 w,:,z,∵,(qa),v,_,x
 SPACE
 w,:,ц,_,l,:,m,u,n,·,a,(ge),ʕ
@@ -6094,7 +6157,7 @@ SPACE
 SPACE
 $,·sh,o,(me),l,‥,𝓂,f.,-,x,a,𝓂,r,∵,v,.
 
-Judges 8:11 in vtrad vtbhs
+Judges 8:11 in vtrad vtsef
 w,_,y,·,_,⅃,ʕ,_,l
 SPACE
 g,·,i,d,:,ʕ,◆,w,o,n.
@@ -6121,7 +6184,7 @@ h,a,(me),y,a,h
 SPACE
 v,∵,𝓂,θ,_,x,.
 
-Judges 8:12 in vtrad vtbhs
+Judges 8:12 in vtrad vtsef
 w,_,y,·,a,n,u,◆,σ,w,·
 SPACE
 z,∵,(ye),v,_,x
@@ -6135,6 +6198,10 @@ SPACE
 w,_,y,·,i,l,:,k,·,o,(G),d
 SPACE
 α,∵,τ,-,$,·sh,:,n,‥,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 m,_,l,:,k,‥,⅃,y
 SPACE
@@ -6148,7 +6215,7 @@ w,:,k,oa,l,-,h,_,𝓂,m,·,_,x,:_,n,∵,(ti),h
 SPACE
 h,∵,x,:∵,r,i,𝓂,y,d,.
 
-Judges 8:13 in vtrad vtbhs
+Judges 8:13 in vtrad vtsef
 w,_,y,·,a,⟓,$,·sh,oa,v
 SPACE
 g,·,i,d,:,ʕ,(me),w,o,n.
@@ -6161,7 +6228,7 @@ m,i,𝓂,l,:,m,_,ʕ,:_,l,‥,(ti),h
 SPACE
 h,∵,x,a,𝓂,r,∵,σ,.
 
-Judges 8:14 in vtrad vtbhs
+Judges 8:14 in vtrad vtsef
 w,_,y,·,i,l,:,k,·,oa,d,-,n,_,⟓,ʕ,_,r
 SPACE
 m,‥,α,_,n,:,$,·sh,‥,(me),y
@@ -6186,7 +6253,7 @@ w,:,$,·sh,i,v,:,ʕ,a,(ti),h
 SPACE
 α,i,𝓂,y,$,·sh,.
 
-Judges 8:15 in vtrad vtbhs
+Judges 8:15 in vtrad vtsef
 w,_,y,·,a,v,o,α,(p)
 SPACE
 α,∵,l,-,α,_,n,:,$,·sh,‥,⅃,y
@@ -6229,7 +6296,7 @@ h,_,y,·,:,ʕ,‥,f,i,(ti),y,m.
 SPACE
 l,a,𝓂,x,∵,m.,.
 
-Judges 8:16 in vtrad vtbhs
+Judges 8:16 in vtrad vtsef
 w,_,y,·,i,q,·,_,x,(p)
 SPACE
 α,∵,τ,-,z,i,q,:,n,‥,⅃,y
@@ -6252,7 +6319,7 @@ SPACE
 SPACE
 σ,u,k,·,𝓂,w,o,τ,.
 
-Judges 8:17 in vtrad vtbhs
+Judges 8:17 in vtrad vtsef
 w,:,α,∵,τ,-,m,i,g,:,d,·,_,(me),l
 SPACE
 f,·,:,n,w,·,α,‥,(ti),l
@@ -6265,7 +6332,7 @@ SPACE
 SPACE
 h,a,ʕ,i,𝓂,y,r,.
 
-Judges 8:18 in vtrad vtbhs
+Judges 8:18 in vtrad vtsef
 w,_,y,·,o,◆,α,m,∵,r
 SPACE
 α,∵,l,-,z,∵,(p),v,_,x,(p)
@@ -6296,7 +6363,7 @@ v,·,:,n,‥,(me),y
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-Judges 8:19 in vtrad vtbhs
+Judges 8:19 in vtrad vtsef
 w,_,y,·,o,α,m,_,Ƶ,r
 SPACE
 α,_,x,_,(me),y
@@ -6319,7 +6386,7 @@ h,a,r,_,(ti),g,:,τ,·,i,y
 SPACE
 α,∵,τ,:,k,∵,𝓂,m.,.
 
-Judges 8:20 in vtrad vtbhs
+Judges 8:20 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
 SPACE
 l,:,y,∵,⅃,τ,∵,r
@@ -6348,7 +6415,7 @@ SPACE
 SPACE
 n,a,𝓂,ʕ,_,r,.
 
-Judges 8:21 in vtrad vtbhs
+Judges 8:21 in vtrad vtsef
 w,_,y,·,o,(ge),α,m,∵,r
 SPACE
 z,∵,⅃,v,_,x
@@ -6387,7 +6454,7 @@ v,·,:,ц,_,w,·,:,α,r,‥,(me),y
 SPACE
 g,:,m,_,l,·,‥,y,h,∵,𝓂,m.,.
 
-Judges 8:22 in vtrad vtbhs
+Judges 8:22 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,<,w,·
 SPACE
 α,i,𝓂,y,$,·sh,-,y,i,$,·si,:,r,a,α,‥,l,(p)
@@ -6412,7 +6479,7 @@ m,i,y,·,_,(me),d
 SPACE
 m,i,d,:,y,a,𝓂,n.,.
 
-Judges 8:23 in vtrad vtbhs
+Judges 8:23 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 α,:_,l,‥,h,∵,m.,(p)
@@ -6437,7 +6504,7 @@ y,i,m,:,$,·sh,o,(me),l
 SPACE
 v,·,a,k,∵,𝓂,m.,.
 
-Judges 8:24 in vtrad vtbhs
+Judges 8:24 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 α,:_,l,‥,h,∵,(ge),m.
@@ -6470,7 +6537,7 @@ y,i,$,·sh,:,m,:,ʕ,‥,α,l,i,(ti),y,m.
 SPACE
 h,‥,𝓂,m.,.
 
-Judges 8:25 in vtrad vtbhs
+Judges 8:25 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,(ti),w,·
 SPACE
 n,a,τ,⅃,w,o,n.
@@ -6491,7 +6558,7 @@ n,∵,(me),z,∵,m.
 SPACE
 $,·sh,:,l,a,l,𝓂,w,o,.
 
-Judges 8:26 in vtrad vtbhs
+Judges 8:26 in vtrad vtsef
 w,_,y,:,h,i,◆,y
 SPACE
 m,i,$,·sh,:,q,_,(G),l
@@ -6536,7 +6603,7 @@ v,·,:,ц,_,w,·,:,α,r,‥,(me),y
 SPACE
 g,:,m,_,l,·,‥,y,h,∵,𝓂,m.,.
 
-Judges 8:27 in vtrad vtbhs
+Judges 8:27 in vtrad vtsef
 w,_,y,·,_,(tq),ʕ,_,$,·si,(tq)
 SPACE
 α,w,o,τ,(qa),w,o
@@ -6569,7 +6636,7 @@ w,·,l,:,v,‥,y,τ,(ti),w,o
 SPACE
 l,:,m,w,o,q,‥,𝓂,$,·sh,.
 
-Judges 8:28 in vtrad vtbhs
+Judges 8:28 in vtrad vtsef
 w,_,y,·,i,k,·,a,n,_,⅃,ʕ
 SPACE
 m,i,d,:,y,a,◆,n.
@@ -6600,7 +6667,7 @@ v,·,i,y,m,‥,(me),y
 SPACE
 g,i,d,:,ʕ,𝓂,w,o,n.,.
 
-Judges 8:29 in vtrad vtbhs
+Judges 8:29 in vtrad vtsef
 w,_,y,·,‥,⟓,l,∵,k.,:
 SPACE
 y,:,r,u,v,·,_,(me),ʕ,_,l
@@ -6611,7 +6678,7 @@ w,_,y,·,‥,(me),$,·sh,∵,v
 SPACE
 v,·,:,v,‥,y,τ,𝓂,w,o,.
 
-Judges 8:30 in vtrad vtbhs
+Judges 8:30 in vtrad vtsef
 w,·,l,:,g,i,d,:,ʕ,◆,w,o,n.
 SPACE
 h,a,y,w,·,(p)
@@ -6632,7 +6699,7 @@ h,a,(me),y,w,·
 SPACE
 l,𝓂,w,o,.
 
-Judges 8:31 in vtrad vtbhs
+Judges 8:31 in vtrad vtsef
 w,·,f,i,𝓂,y,l,_,g,:,$,·sh,w,o,(p)
 SPACE
 α,:_,$,·sh,∵,⅃,r
@@ -6651,7 +6718,7 @@ SPACE
 SPACE
 α,:_,v,i,y,m,∵,𝓂,l,∵,k.,:,.
 
-Judges 8:32 in vtrad vtbhs
+Judges 8:32 in vtrad vtsef
 w,_,y,·,a,⟓,m,oa,τ
 SPACE
 g,·,i,d,:,ʕ,(me),w,o,n.
@@ -6676,7 +6743,7 @@ SPACE
 SPACE
 h,a,ʕ,∵,z,:,r,i,𝓂,y,.
 
-Judges 8:33 in vtrad vtbhs
+Judges 8:33 in vtrad vtsef
 w,_,y,:,h,i,◆,y
 SPACE
 k,·,_,𝓂,α,:_,$,·sh,∵,r,(p)
@@ -6707,7 +6774,7 @@ v,·,:,r,i,(ti),y,τ
 SPACE
 l,‥,α,l,o,h,i,𝓂,y,m.,.
 
-Judges 8:34 in vtrad vtbhs
+Judges 8:34 in vtrad vtsef
 w,:,l,o,<,α
 SPACE
 z,a,𝓂,k,:,r,w,·,(p)
@@ -6730,7 +6797,7 @@ k,·,oa,l,-,α,o,y,:,v,‥,y,h,∵,(ti),m.
 SPACE
 m,i,σ,·,a,v,i,𝓂,y,v,.
 
-Judges 8:35 in vtrad vtbhs
+Judges 8:35 in vtrad vtsef
 w,:,l,o,α,-,ʕ,a,$,·si,⅃,w,·
 SPACE
 x,∵,ƶ,σ,∵,d
@@ -6749,7 +6816,7 @@ SPACE
 SPACE
 ʕ,i,m.,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 9:1 in vtrad vtbhs
+Judges 9:1 in vtrad vtsef
 w,_,y,·,‥,(qa),l,∵,k.,:
 SPACE
 α,:_,v,i,y,m,∵,<,l,∵,k.,:
@@ -6774,7 +6841,7 @@ SPACE
 SPACE
 l,‥,α,m,o,𝓂,r,.
 
-Judges 9:2 in vtrad vtbhs
+Judges 9:2 in vtrad vtsef
 d,·,_,v,·,:,r,w,·,-,n,a,(G),α
 SPACE
 v,·,:,α,oa,z,:,n,‥,(qa),y
@@ -6817,7 +6884,7 @@ w,·,v,:,$,·si,_,r,:,k,∵,(ti),m.
 SPACE
 α,a,𝓂,n,i,y,.
 
-Judges 9:3 in vtrad vtbhs
+Judges 9:3 in vtrad vtsef
 w,_,y,:,d,_,v,·,:,r,(qa),w,·
 SPACE
 α,:_,x,‥,y,-,α,i,m,·,(ge),w,o
@@ -6852,7 +6919,7 @@ SPACE
 SPACE
 h,𝓂,w,·,α,.
 
-Judges 9:4 in vtrad vtbhs
+Judges 9:4 in vtrad vtsef
 w,_,y,·,i,τ,·,:,n,w,·,-,l,w,o,(p)
 SPACE
 $,·sh,i,v,:,ʕ,i,⅃,y,m.
@@ -6881,7 +6948,7 @@ w,_,y,·,‥,l,:,k,(ti),w,·
 SPACE
 α,_,x,:_,r,a,𝓂,y,w,.
 
-Judges 9:5 in vtrad vtbhs
+Judges 9:5 in vtrad vtsef
 w,_,y,·,a,v,o,<,α
 SPACE
 v,‥,y,τ,-,α,a,v,i,y,w,(p)
@@ -6914,7 +6981,7 @@ k,·,i,(me),y
 SPACE
 n,∵,x,:,v,·,a,𝓂,α,.
 
-Judges 9:6 in vtrad vtbhs
+Judges 9:6 in vtrad vtsef
 w,_,y,·,‥,α,a,(qa),σ,:,f,(ge),w,·
 SPACE
 k,·,oa,l,-,v,·,_,ʕ,:_,l,‥,<,y
@@ -6941,7 +7008,7 @@ SPACE
 SPACE
 v,·,i,$,·sh,:,k,∵,𝓂,m.,.
 
-Judges 9:7 in vtrad vtbhs
+Judges 9:7 in vtrad vtsef
 w,_,y,·,_,g,·,i,⅃,d,w,·
 SPACE
 l,:,y,w,o,τ,a,◆,m.
@@ -6978,7 +7045,7 @@ SPACE
 SPACE
 α,:∵,l,o,h,i,𝓂,y,m.,.
 
-Judges 9:8 in vtrad vtbhs
+Judges 9:8 in vtrad vtsef
 h,a,l,<,w,o,k.,:
 SPACE
 h,a,𝓂,l,:,k,w,·,(p)
@@ -6998,7 +7065,7 @@ SPACE
 SPACE
 ʕ,a,l,‥,𝓂,y,n,w,·,.
 
-Judges 9:9 in vtrad vtbhs
+Judges 9:9 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 l,a,h,∵,m.,(p)
@@ -7023,7 +7090,7 @@ l,a,n,(ti),w,·,ʕ,_
 SPACE
 ʕ,_,l,-,h,a,ʕ,‥,ц,i,𝓂,y,m.,.
 
-Judges 9:10 in vtrad vtbhs
+Judges 9:10 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,(me),w,·
 SPACE
 h,a,ʕ,‥,ц,i,(ti),y,m.
@@ -7036,7 +7103,7 @@ m,oa,l,:,k,i,(me),y
 SPACE
 ʕ,a,l,‥,𝓂,y,n,w,·,.
 
-Judges 9:11 in vtrad vtbhs
+Judges 9:11 in vtrad vtsef
 w,_,τ,·,o,<,α,m,∵,r
 SPACE
 l,a,h,∵,m.,(p)
@@ -7057,7 +7124,7 @@ l,a,n,(ti),w,·,ʕ,_
 SPACE
 ʕ,_,l,-,h,a,𝓂,ʕ,‥,ц,i,𝓂,y,m.,.
 
-Judges 9:12 in vtrad vtbhs
+Judges 9:12 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,(me),w,·
 SPACE
 h,a,ʕ,‥,ц,i,(ti),y,m.
@@ -7069,7 +7136,7 @@ SPACE
 SPACE
 ʕ,a,l,‥,𝓂,y,n,w,·,.
 
-Judges 9:13 in vtrad vtbhs
+Judges 9:13 in vtrad vtsef
 w,_,τ,·,o,<,α,m,∵,r
 SPACE
 l,a,h,∵,m.,(p)
@@ -7092,7 +7159,7 @@ l,a,n,(ti),w,·,ʕ,_
 SPACE
 ʕ,_,l,-,h,a,ʕ,‥,ц,i,𝓂,y,m.,.
 
-Judges 9:14 in vtrad vtbhs
+Judges 9:14 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,(me),w,·
 SPACE
 k,oa,l,-,h,a,ʕ,‥,ц,i,(ti),y,m.
@@ -7105,7 +7172,7 @@ SPACE
 SPACE
 m,:,l,oa,k.,:,-,ʕ,a,l,‥,𝓂,y,n,w,·,.
 
-Judges 9:15 in vtrad vtbhs
+Judges 9:15 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 h,a,α,a,θ,a,d,~
@@ -7146,7 +7213,7 @@ SPACE
 SPACE
 h,_,l,·,:,v,a,n,𝓂,w,o,n.,.
 
-Judges 9:16 in vtrad vtbhs
+Judges 9:16 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,◆,h
 SPACE
 α,i,m.,-,v,·,∵,α,:∵,m,∵,<,τ
@@ -7175,7 +7242,7 @@ SPACE
 SPACE
 l,𝓂,w,o,.
 
-Judges 9:17 in vtrad vtbhs
+Judges 9:17 in vtrad vtsef
 α,:_,$,·sh,∵,r,-,n,i,l,:,x,_,(me),m.
 SPACE
 α,a,v,i,(ti),y
@@ -7196,7 +7263,7 @@ m,i,y,·,_,(me),d
 SPACE
 m,i,d,:,y,a,𝓂,n.,.
 
-Judges 9:18 in vtrad vtbhs
+Judges 9:18 in vtrad vtsef
 w,:,α,_,τ,·,∵,(G),m.
 SPACE
 q,_,m,:,τ,·,∵,(qa),m.
@@ -7235,7 +7302,7 @@ SPACE
 SPACE
 h,𝓂,w,·,α,.
 
-Judges 9:19 in vtrad vtbhs
+Judges 9:19 in vtrad vtsef
 w,:,α,i,m.,-,v,·,∵,α,:∵,m,∵,(qa),τ
 SPACE
 w,·,v,:,τ,a,m,i,(da),y,m.
@@ -7260,7 +7327,7 @@ g,·,_,m.,-,h,(ti),w,·,α
 SPACE
 v,·,a,k,∵,𝓂,m.,.
 
-Judges 9:20 in vtrad vtbhs
+Judges 9:20 in vtrad vtsef
 w,:,α,i,m.,-,α,_,Ƶ,y,i,n.
 SPACE
 τ,·,‥,<,ц,‥,α
@@ -7295,7 +7362,7 @@ w,:,τ,o,α,k,_,(ti),l
 SPACE
 α,∵,τ,-,α,:_,v,i,y,m,∵,𝓂,l,∵,k.,:,.
 
-Judges 9:21 in vtrad vtbhs
+Judges 9:21 in vtrad vtsef
 w,_,y,·,a,⅃,n,oa,σ
 SPACE
 y,w,o,τ,a,ƶ,m.
@@ -7316,7 +7383,7 @@ SPACE
 SPACE
 α,a,x,i,𝓂,y,w,.
 
-Judges 9:22 in vtrad vtbhs
+Judges 9:22 in vtrad vtsef
 w,_,y,·,a,(da),$,·si,_,r
 SPACE
 α,:_,v,i,y,m,∵,⟓,l,∵,k.,:
@@ -7327,7 +7394,7 @@ $,·sh,a,l,o,(me),$,·sh
 SPACE
 $,·sh,a,n,i,𝓂,y,m.,.
 
-Judges 9:23 in vtrad vtbhs
+Judges 9:23 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,<,x
 SPACE
 α,:∵,l,o,h,i,y,m.,(p)
@@ -7352,7 +7419,7 @@ v,_,ʕ,:_,l,‥,y,-,$,·sh,:,k,∵,(ti),m.
 SPACE
 v,·,_,α,:_,v,i,y,m,∵,𝓂,l,∵,k.,:,.
 
-Judges 9:24 in vtrad vtbhs
+Judges 9:24 in vtrad vtsef
 l,a,v,Ƶ,w,o,α
 SPACE
 x,:_,m,_,(ti),σ
@@ -7389,7 +7456,7 @@ l,_,h,:_,r,o,(me),g
 SPACE
 α,∵,τ,-,α,∵,x,a,𝓂,y,w,.
 
-Judges 9:25 in vtrad vtbhs
+Judges 9:25 in vtrad vtsef
 w,_,y,·,a,$,·si,i,⅃,y,m,w,·
 SPACE
 l,w,o,(tq)
@@ -7420,7 +7487,7 @@ w,_,y,·,u,g,·,_,(ti),d
 SPACE
 l,_,α,:_,v,i,y,m,∵,𝓂,l,∵,k.,:,.
 
-Judges 9:26 in vtrad vtbhs
+Judges 9:26 in vtrad vtsef
 w,_,y,·,a,v,o,(G),α
 SPACE
 g,·,_,<,ʕ,_,l
@@ -7439,7 +7506,7 @@ v,·,_,ʕ,:_,l,‥,(me),y
 SPACE
 $,·sh,:,k,∵,𝓂,m.,.
 
-Judges 9:27 in vtrad vtbhs
+Judges 9:27 in vtrad vtsef
 w,_,y,·,‥,ц,:,α,(qa),w,·
 SPACE
 h,_,$,·si,·,a,d,∵,(ge),h
@@ -7468,8 +7535,12 @@ w,_,𝓂,y,:,q,_,l,:,l,(ti),w,·
 SPACE
 α,∵,τ,-,α,:_,v,i,y,m,∵,𝓂,l,∵,k.,:,.
 
-Judges 9:28 in vtrad vtbhs
+Judges 9:28 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 g,·,_,⅃,ʕ,_,l
 SPACE
@@ -7507,7 +7578,7 @@ n,_,ʕ,_,v,:,d,∵,(me),n,·,w,·
 SPACE
 α,:_,n,a,𝓂,x,:,n,w,·,.
 
-Judges 9:29 in vtrad vtbhs
+Judges 9:29 in vtrad vtsef
 w,·,m,i,(qa),y
 SPACE
 y,i,τ,·,‥,(ge),n.
@@ -7532,7 +7603,7 @@ SPACE
 SPACE
 w,a,ц,‥,𝓂,α,a,h,.
 
-Judges 9:30 in vtrad vtbhs
+Judges 9:30 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,_,◆,ʕ
 SPACE
 z,:,v,u,l,(p)
@@ -7549,7 +7620,7 @@ w,_,y,·,i,(ti),x,_,r
 SPACE
 α,_,f,·,𝓂,w,o,.
 
-Judges 9:31 in vtrad vtbhs
+Judges 9:31 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,(da),x
 SPACE
 m,_,l,:,α,a,k,i,⟓,y,m.
@@ -7580,7 +7651,7 @@ SPACE
 SPACE
 ʕ,a,l,∵,𝓂,y,k.,a,.
 
-Judges 9:32 in vtrad vtbhs
+Judges 9:32 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,h,(p)
 SPACE
 q,⅃,w,·,m.
@@ -7597,7 +7668,7 @@ w,∵,α,:∵,r,o,(ti),v
 SPACE
 v,·,_,$,·si,·,a,d,∵,𝓂,h,.
 
-Judges 9:33 in vtrad vtbhs
+Judges 9:33 in vtrad vtsef
 w,:,h,a,y,a,<,h
 SPACE
 v,_,v,·,o,(p),q,∵,r,(p)
@@ -7632,7 +7703,7 @@ SPACE
 SPACE
 y,a,d,∵,𝓂,k.,a,.
 
-Judges 9:34 in vtrad vtbhs
+Judges 9:34 in vtrad vtsef
 w,_,y,·,a,(da),q,oa,m.
 SPACE
 α,:_,v,i,y,m,∵,⟓,l,∵,k.,:
@@ -7651,7 +7722,7 @@ SPACE
 SPACE
 r,a,α,$,·sh,i,𝓂,y,m.,.
 
-Judges 9:35 in vtrad vtbhs
+Judges 9:35 in vtrad vtsef
 w,_,y,·,‥,ц,‥,α,(p)
 SPACE
 g,·,_,⅃,ʕ,_,l
@@ -7676,7 +7747,7 @@ SPACE
 SPACE
 m,i,n.,-,h,_,m,·,_,α,:,r,a,𝓂,v,.
 
-Judges 9:36 in vtrad vtbhs
+Judges 9:36 in vtrad vtsef
 w,_,y,·,_,r,:,α,-,g,·,_,≁,ʕ,_,l,~
 SPACE
 α,∵,τ,-,h,a,ʕ,a,m.,∴
@@ -7711,7 +7782,7 @@ r,o,α,∵,(ti),h
 SPACE
 k,·,a,α,:_,n,a,$,·sh,i,𝓂,y,m.,.
 
-Judges 9:37 in vtrad vtbhs
+Judges 9:37 in vtrad vtsef
 w,_,y,·,o,(qa),σ,∵,f.
 SPACE
 ʕ,⅃,w,o,d
@@ -7742,7 +7813,7 @@ SPACE
 SPACE
 m,:,ʕ,w,o,n,:,n,i,𝓂,y,m.,.
 
-Judges 9:38 in vtrad vtbhs
+Judges 9:38 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 α,‥,l,a,(ge),y,w
@@ -7787,7 +7858,7 @@ w,:,h,i,l,·,a,(me),x,∵,m.
 SPACE
 v,·,𝓂,w,o,.
 
-Judges 9:39 in vtrad vtbhs
+Judges 9:39 in vtrad vtsef
 w,_,y,·,‥,⅃,ц,‥,α
 SPACE
 g,_,ƶ,ʕ,_,l
@@ -7802,7 +7873,7 @@ w,_,y,·,i,l,·,a,(ti),x,∵,m.
 SPACE
 v,·,_,α,:_,v,i,y,m,∵,𝓂,l,∵,k.,:,.
 
-Judges 9:40 in vtrad vtbhs
+Judges 9:40 in vtrad vtsef
 w,_,y,·,i,r,:,d,·,:,f,‥,⅃,h,w,·
 SPACE
 α,:_,v,i,y,m,∵,ƶ,l,∵,k.,:
@@ -7821,7 +7892,7 @@ SPACE
 SPACE
 h,_,$,·sh,·,a,𝓂,ʕ,_,r,.
 
-Judges 9:41 in vtrad vtbhs
+Judges 9:41 in vtrad vtsef
 w,_,y,·,‥,(me),$,·sh,∵,v
 SPACE
 α,:_,v,i,y,m,∵,(ti),l,∵,k.,:
@@ -7840,7 +7911,7 @@ m,i,$,·sh,·,∵,(me),v,∵,τ
 SPACE
 v,·,i,$,·sh,:,k,∵,𝓂,m.,.
 
-Judges 9:42 in vtrad vtbhs
+Judges 9:42 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 m,i,𝓂,m,·,oa,x,:a,r,a,ƶ,τ
@@ -7855,7 +7926,7 @@ w,_,y,·,_,g,·,i,(ti),d,w,·
 SPACE
 l,_,α,:_,v,i,y,m,∵,𝓂,l,∵,k.,:,.
 
-Judges 9:43 in vtrad vtbhs
+Judges 9:43 in vtrad vtsef
 w,_,y,·,i,q,·,_,⅃,x
 SPACE
 α,∵,τ,-,h,a,ʕ,a,◆,m.
@@ -7886,7 +7957,7 @@ SPACE
 SPACE
 w,_,y,·,_,k,·,‥,𝓂,m.,.
 
-Judges 9:44 in vtrad vtbhs
+Judges 9:44 in vtrad vtsef
 w,_,α,:_,v,i,y,m,∵,◆,l,∵,k.,:
 SPACE
 w,:,h,a,𝓂,r,a,α,$,·sh,i,y,m.,(p)
@@ -7917,7 +7988,7 @@ v,·,_,$,·si,·,a,d,∵,(ti),h
 SPACE
 w,_,y,·,_,k,·,𝓂,w,·,m.,.
 
-Judges 9:45 in vtrad vtbhs
+Judges 9:45 in vtrad vtsef
 w,_,𝓂,α,:_,v,i,y,m,∵,(ge),l,∵,k.,:
 SPACE
 n,i,l,:,x,a,⅃,m.
@@ -7948,7 +8019,7 @@ w,_,y,·,i,z,:,r,a,ʕ,∵,(ti),h,a
 SPACE
 m,∵,𝓂,l,_,x,.
 
-Judges 9:46 in vtrad vtbhs
+Judges 9:46 in vtrad vtsef
 w,_,𝓂,y,·,i,$,·sh,:,m,:,ʕ,ƶ,w,·
 SPACE
 k,·,oa,𝓂,l,-,v,·,_,ʕ,:_,l,‥,(ti),y
@@ -7965,7 +8036,7 @@ SPACE
 SPACE
 v,·,:,r,i,𝓂,y,τ,.
 
-Judges 9:47 in vtrad vtbhs
+Judges 9:47 in vtrad vtsef
 w,_,y,·,u,g,·,_,(ti),d
 SPACE
 l,_,α,:_,v,i,y,m,∵,⅄,l,∵,k.,:
@@ -7978,7 +8049,7 @@ k,·,oa,𝓂,l,-,v,·,_,ʕ,:_,l,‥,(ti),y
 SPACE
 m,i,𝓂,g,:,d,·,_,l,-,$,·sh,:,k,∵,𝓂,m.,.
 
-Judges 9:48 in vtrad vtbhs
+Judges 9:48 in vtrad vtsef
 w,_,y,·,_,(qa),ʕ,_,l
 SPACE
 α,:_,v,i,y,m,∵,(ge),l,∵,k.,:
@@ -8029,7 +8100,7 @@ SPACE
 SPACE
 k,a,m,𝓂,w,o,n,i,y,.
 
-Judges 9:49 in vtrad vtbhs
+Judges 9:49 in vtrad vtsef
 w,_,y,·,i,k,:,r,:,τ,(qa),w,·
 SPACE
 g,_,m.,-,k,·,oa,l,-,h,a,ʕ,a,(ge),m.
@@ -8070,7 +8141,7 @@ SPACE
 SPACE
 w,:,α,i,$,·sh,·,a,𝓂,h,.
 
-Judges 9:50 in vtrad vtbhs
+Judges 9:50 in vtrad vtsef
 w,_,y,·,‥,(me),l,∵,k.,:
 SPACE
 α,:_,v,i,y,m,∵,(ti),l,∵,k.,:
@@ -8083,7 +8154,7 @@ v,·,:,τ,‥,v,‥,(ti),ц.
 SPACE
 w,_,𝓂,y,·,i,l,:,k,·,:,d,a,𝓂,h,·,.
 
-Judges 9:51 in vtrad vtbhs
+Judges 9:51 in vtrad vtsef
 w,·,m,i,g,:,d,·,_,l,-,ʕ,o,z,~
 SPACE
 h,a,y,a,⅃,h
@@ -8114,7 +8185,7 @@ SPACE
 SPACE
 h,_,m,·,i,g,:,d,·,a,𝓂,l,.
 
-Judges 9:52 in vtrad vtbhs
+Judges 9:52 in vtrad vtsef
 w,_,y,·,a,v,o,<,α
 SPACE
 α,:_,v,i,y,m,∵,(p),l,∵,k.,:,(p)
@@ -8135,7 +8206,7 @@ l,:,$,·si,oa,r,:,f,(me),w,o
 SPACE
 v,a,α,‥,𝓂,$,·sh,.
 
-Judges 9:53 in vtrad vtbhs
+Judges 9:53 in vtrad vtsef
 w,_,τ,·,_,$,·sh,:,l,‥,(G),k.,:
 SPACE
 α,i,$,·sh,·,a,(me),h
@@ -8154,12 +8225,16 @@ w,_,τ,·,a,(ti),r,i,ц.
 SPACE
 α,∵,τ,-,g,·,u,l,:,g,·,oa,l,:,τ,·,𝓂,w,o,.
 
-Judges 9:54 in vtrad vtbhs
+Judges 9:54 in vtrad vtsef
 w,_,y,·,i,q,:,r,a,(qa),α
 SPACE
 m,:,h,‥,r,a,(ge),h
 SPACE
 α,∵,l,-,h,_,n,·,_,⅃,ʕ,_,r
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 n,o,$,·si,‥,⅃,α
 SPACE
@@ -8189,7 +8264,7 @@ n,_,ʕ,:_,r,(ti),w,o
 SPACE
 w,_,y,·,a,m,o,𝓂,τ,.
 
-Judges 9:55 in vtrad vtbhs
+Judges 9:55 in vtrad vtsef
 w,_,y,·,i,r,:,α,(me),w,·
 SPACE
 α,i,𝓂,y,$,·sh,-,y,i,$,·si,:,r,a,α,‥,(ti),l
@@ -8206,7 +8281,7 @@ SPACE
 SPACE
 l,i,m,:,q,o,m,𝓂,w,o,.
 
-Judges 9:56 in vtrad vtbhs
+Judges 9:56 in vtrad vtsef
 w,_,y,·,a,⅃,$,·sh,∵,v
 SPACE
 α,:∵,l,o,h,i,ƶ,y,m.
@@ -8229,7 +8304,7 @@ SPACE
 SPACE
 α,∵,x,a,𝓂,y,w,.
 
-Judges 9:57 in vtrad vtbhs
+Judges 9:57 in vtrad vtsef
 w,:,α,‥,◆,τ
 SPACE
 k,·,oa,l,-,r,a,ʕ,_,τ,(p)
@@ -8254,7 +8329,7 @@ y,w,o,τ,a,(me),m.
 SPACE
 v,·,∵,n.,-,y,:,r,u,v,·,a,𝓂,ʕ,_,l,.
 
-Judges 10:1 in vtrad vtbhs
+Judges 10:1 in vtrad vtsef
 w,_,y,·,a,(tq),q,oa,m.,(tq)
 SPACE
 α,_,x,:_,r,‥,(qa),y
@@ -8283,7 +8358,7 @@ v,·,:,h,_,(me),r
 SPACE
 α,∵,f,:,r,a,𝓂,y,i,m.,.
 
-Judges 10:2 in vtrad vtbhs
+Judges 10:2 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,f,·,o,θ,(p)
 SPACE
 α,∵,τ,-,y,i,$,·si,:,r,a,α,‥,ƶ,l
@@ -8300,7 +8375,7 @@ w,_,y,·,i,q,·,a,v,‥,(me),r
 SPACE
 v,·,:,$,·sh,a,m,i,𝓂,y,r,.
 
-Judges 10:3 in vtrad vtbhs
+Judges 10:3 in vtrad vtsef
 w,_,y,·,a,⅃,q,oa,m.
 SPACE
 α,_,x,:_,r,a,ƶ,y,w
@@ -8319,7 +8394,7 @@ w,·,$,·sh,:,τ,·,_,(ti),y,i,m.
 SPACE
 $,·sh,a,n,a,𝓂,h,.
 
-Judges 10:4 in vtrad vtbhs
+Judges 10:4 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,-,l,(G),w,o
 SPACE
 $,·sh,:,l,o,$,·sh,i,⅃,y,m.
@@ -8341,6 +8416,10 @@ SPACE
 l,a,h,∵,(G),m.
 SPACE
 y,i,q,:,r,:,α,⅃,w,·
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 x,_,w,·,hhfv,⅃,τ
 SPACE
@@ -8358,7 +8437,7 @@ v,·,:,α,∵,(me),r,∵,ц.
 SPACE
 h,_,g,·,i,l,:,ʕ,a,𝓂,d,.
 
-Judges 10:5 in vtrad vtbhs
+Judges 10:5 in vtrad vtsef
 w,_,y,·,a,⅃,m,oa,τ
 SPACE
 y,a,α,i,ƶ,y,r
@@ -8367,8 +8446,12 @@ w,_,y,·,i,q,·,a,v,‥,(ti),r
 SPACE
 v,·,:,q,a,m,𝓂,w,o,n.,.
 
-Judges 10:6 in vtrad vtbhs
+Judges 10:6 in vtrad vtsef
 w,_,y,·,o,σ,i,⅃,y,f,w,·
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 v,·,:,n,‥,⅃,y
 SPACE
@@ -8397,6 +8480,10 @@ SPACE
 ц,i,y,d,(ge),w,o,n.
 SPACE
 w,:,α,‥,⅃,τ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,:∵,l,o,h,‥,⅃,y
 SPACE
@@ -8422,7 +8509,7 @@ w,:,l,o,(me),α
 SPACE
 ʕ,:_,v,a,d,𝓂,w,·,h,w,·,.
 
-Judges 10:7 in vtrad vtbhs
+Judges 10:7 in vtrad vtsef
 w,_,y,·,i,𝓂,x,_,r,-,α,_,(me),f.
 SPACE
 y,:,h,o,w,a,(ti),h
@@ -8439,7 +8526,7 @@ v,·,:,n,‥,(me),y
 SPACE
 ʕ,_,m,·,𝓂,w,o,n.,.
 
-Judges 10:8 in vtrad vtbhs
+Judges 10:8 in vtrad vtsef
 w,_,𝓂,y,·,i,r,:,ʕ,:_,ц,<,w,·
 SPACE
 w,_,y,:,r,o,𝓂,ц,:,ц,w,·,(p)
@@ -8476,7 +8563,7 @@ SPACE
 SPACE
 v,·,_,g,·,i,l,:,ʕ,a,𝓂,d,.
 
-Judges 10:9 in vtrad vtbhs
+Judges 10:9 in vtrad vtsef
 w,_,y,·,_,ʕ,_,v,:,r,<,w,·
 SPACE
 v,:,n,‥,𝓂,y,-,ʕ,_,m,·,w,o,n.,(p)
@@ -8499,7 +8586,7 @@ l,:,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 m,:,α,o,𝓂,d,.
 
-Judges 10:10 in vtrad vtbhs
+Judges 10:10 in vtrad vtsef
 w,_,𝓂,y,·,i,z,:,ʕ,:_,q,w,·,(p)
 SPACE
 v,·,:,n,‥,⅃,y
@@ -8524,7 +8611,7 @@ w,_,𝓂,n,·,_,ʕ,:_,v,o,(ti),d
 SPACE
 α,∵,τ,-,h,_,v,·,:,ʕ,a,l,i,𝓂,y,m.,.
 
-Judges 10:11 in vtrad vtbhs
+Judges 10:11 in vtrad vtsef
 w,_,(me),y,·,o,α,m,∵,r
 SPACE
 y,:,h,o,w,a,(ti),h
@@ -8545,7 +8632,7 @@ SPACE
 SPACE
 w,·,m,i,n.,-,f,·,:,l,i,$,·sh,:,τ,·,i,𝓂,y,m.,.
 
-Judges 10:12 in vtrad vtbhs
+Judges 10:12 in vtrad vtsef
 w,:,ц,i,y,d,w,o,n,i,<,y,m.
 SPACE
 w,_,𝓂,ʕ,:_,m,a,l,‥,q,(p)
@@ -8566,7 +8653,7 @@ SPACE
 SPACE
 m,i,y,·,a,d,a,𝓂,m.,.
 
-Judges 10:13 in vtrad vtbhs
+Judges 10:13 in vtrad vtsef
 w,:,α,_,τ,·,∵,m.,(p)
 SPACE
 ʕ,:_,z,_,v,:,τ,·,∵,⅃,m.
@@ -8587,7 +8674,7 @@ l,:,h,w,o,$,·sh,i,(me),y,ʕ,_
 SPACE
 α,∵,τ,:,k,∵,𝓂,m.,.
 
-Judges 10:14 in vtrad vtbhs
+Judges 10:14 in vtrad vtsef
 l,:,k,◆,w,·
 SPACE
 w,:,z,_,𝓂,ʕ,:_,q,w,·,(p)
@@ -8610,7 +8697,7 @@ v,·,:,ʕ,‥,(me),τ
 SPACE
 ц,a,r,_,τ,:,k,∵,𝓂,m.,.
 
-Judges 10:15 in vtrad vtbhs
+Judges 10:15 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,(qa),w,·
 SPACE
 v,:,n,‥,y,-,y,i,$,·si,:,r,a,α,‥,<,l
@@ -8637,7 +8724,7 @@ h,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-Judges 10:16 in vtrad vtbhs
+Judges 10:16 in vtrad vtsef
 w,_,y,·,a,σ,i,(ge),y,r,w,·
 SPACE
 α,∵,τ,-,α,:∵,l,o,h,‥,<,y
@@ -8658,7 +8745,7 @@ v,·,_,ʕ,:_,m,_,(me),l
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 10:17 in vtrad vtbhs
+Judges 10:17 in vtrad vtsef
 w,_,y,·,i,ц,·,a,𝓂,ʕ,:_,q,w,·,(p)
 SPACE
 v,·,:,n,‥,⅃,y
@@ -8679,7 +8766,7 @@ w,_,𝓂,y,·,_,x,:_,n,(ti),w,·
 SPACE
 v,·,_,m,·,i,ц,:,f,·,a,𝓂,h,.
 
-Judges 10:18 in vtrad vtbhs
+Judges 10:18 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,(qa),w,·
 SPACE
 h,a,ʕ,a,(ge),m.
@@ -8716,7 +8803,7 @@ y,o,$,·sh,:,v,‥,(me),y
 SPACE
 g,i,l,:,ʕ,a,𝓂,d,.
 
-Judges 11:1 in vtrad vtbhs
+Judges 11:1 in vtrad vtsef
 w,:,y,i,f,:,τ,·,a,⅃,x
 SPACE
 h,_,g,·,i,l,:,ʕ,a,d,i,◆,y
@@ -8739,7 +8826,7 @@ g,·,i,l,:,ʕ,a,(ti),d
 SPACE
 α,∵,τ,-,y,i,f,:,τ,·,a,𝓂,x,.
 
-Judges 11:2 in vtrad vtbhs
+Judges 11:2 in vtrad vtsef
 w,_,τ,·,‥,(da),l,∵,d
 SPACE
 α,‥,𝓂,$,·sh,∵,τ,-,g,·,i,l,:,ʕ,a,⟓,d
@@ -8772,7 +8859,7 @@ SPACE
 SPACE
 α,a,𝓂,τ,·,a,h,.
 
-Judges 11:3 in vtrad vtbhs
+Judges 11:3 in vtrad vtsef
 w,_,y,·,i,v,:,r,_,<,x
 SPACE
 y,i,f,:,τ,·,a,x,(p)
@@ -8799,7 +8886,7 @@ w,_,y,·,‥,ц,:,α,(ti),w,·
 SPACE
 ʕ,i,m,·,𝓂,w,o,.
 
-Judges 11:4 in vtrad vtbhs
+Judges 11:4 in vtrad vtsef
 w,_,y,:,h,i,(ti),y
 SPACE
 m,i,y,·,a,m,i,⅄,y,m.
@@ -8810,7 +8897,7 @@ v,:,n,‥,𝓂,y,-,ʕ,_,m,·,(ti),w,o,n.
 SPACE
 ʕ,i,m.,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 11:5 in vtrad vtbhs
+Judges 11:5 in vtrad vtsef
 w,_,y,:,h,i,Ƶ,y
 SPACE
 k,·,_,α,:_,$,·sh,∵,r,-,n,i,l,:,x,:_,m,(me),w,·
@@ -8833,7 +8920,7 @@ m,‥,α,∵,(me),r,∵,ц.
 SPACE
 θ,𝓂,w,o,v,.
 
-Judges 11:6 in vtrad vtbhs
+Judges 11:6 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,⅃,w,·
 SPACE
 l,:,y,i,f,:,τ,·,a,ƶ,x
@@ -8852,7 +8939,7 @@ v,·,i,v,:,n,‥,(me),y
 SPACE
 ʕ,_,m,·,𝓂,w,o,n.,.
 
-Judges 11:7 in vtrad vtbhs
+Judges 11:7 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 y,i,f,:,τ,·,a,x,(p)
@@ -8889,7 +8976,7 @@ SPACE
 SPACE
 l,a,k,∵,𝓂,m.,.
 
-Judges 11:8 in vtrad vtbhs
+Judges 11:8 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,w,·,(tq)
 SPACE
 z,i,q,:,n,‥,(qa),y
@@ -8928,7 +9015,7 @@ y,o,$,·sh,:,v,‥,(me),y
 SPACE
 g,i,l,:,ʕ,a,𝓂,d,.
 
-Judges 11:9 in vtrad vtbhs
+Judges 11:9 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 y,i,f,:,τ,·,a,(ge),x
@@ -8965,7 +9052,7 @@ l,a,k,∵,(ti),m.
 SPACE
 l,:,r,o,𝓂,α,$,·sh,.
 
-Judges 11:10 in vtrad vtbhs
+Judges 11:10 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,(me),w,·
 SPACE
 z,i,q,:,n,‥,𝓂,y,-,g,i,l,:,ʕ,a,(ti),d
@@ -8988,7 +9075,7 @@ k,·,‥,(me),n.
 SPACE
 n,_,𝓂,ʕ,:_,$,·si,∵,𝓂,h,.
 
-Judges 11:11 in vtrad vtbhs
+Judges 11:11 in vtrad vtsef
 w,_,y,·,‥,<,l,∵,k.,:
 SPACE
 y,i,f,:,τ,·,a,x,(p)
@@ -9021,7 +9108,7 @@ y,:,h,o,w,a,(ti),h
 SPACE
 v,·,_,m,·,i,ц,:,f,·,a,𝓂,h,.
 
-Judges 11:12 in vtrad vtbhs
+Judges 11:12 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,<,x
 SPACE
 y,i,f,:,τ,·,a,x,(p)
@@ -9046,7 +9133,7 @@ l,:,h,i,l,·,a,x,‥,(me),m.
 SPACE
 v,·,:,α,_,r,:,ц,i,𝓂,y,.
 
-Judges 11:13 in vtrad vtbhs
+Judges 11:13 in vtrad vtsef
 w,_,y,·,o,(tq),α,m,∵,r,(tq)
 SPACE
 m,∵,(qa),l,∵,k.,:
@@ -9081,7 +9168,7 @@ SPACE
 SPACE
 v,·,:,$,·sh,a,l,𝓂,w,o,m.,.
 
-Judges 11:14 in vtrad vtbhs
+Judges 11:14 in vtrad vtsef
 w,_,y,·,(me),w,o,σ,∵,f.
 SPACE
 ʕ,(ti),w,o,d
@@ -9098,7 +9185,7 @@ v,·,:,n,‥,(me),y
 SPACE
 ʕ,_,m,·,𝓂,w,o,n.,.
 
-Judges 11:15 in vtrad vtbhs
+Judges 11:15 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 l,ƶ,w,o
@@ -9123,7 +9210,7 @@ v,·,:,n,‥,(me),y
 SPACE
 ʕ,_,m,·,𝓂,w,o,n.,.
 
-Judges 11:16 in vtrad vtbhs
+Judges 11:16 in vtrad vtsef
 k,·,i,(ti),y
 SPACE
 v,·,_,ʕ,:_,l,w,o,τ,a,⅃,m.
@@ -9142,15 +9229,25 @@ w,_,y,·,a,v,o,(ti),α
 SPACE
 q,a,d,‥,𝓂,$,·sh,a,h,.
 
-Judges 11:17 in vtrad vtbhs
+Judges 11:17 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,⅃,x
 SPACE
 y,i,$,·si,:,r,a,α,‥,⅃,l
 SPACE
 m,_,l,:,α,a,k,i,⅃,y,m.
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 α,∵,l,-,m,∵,(tq),l,∵,k.,:,(tq)
 SPACE
 α,:∵,d,(qa),w,o,m.
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 l,‥,α,m,o,(ge),r
 SPACE
 α,∵,ʕ,:,v,·,:,r,a,h,-,n,·,a,⅃,α
@@ -9183,7 +9280,7 @@ y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 v,·,:,q,a,d,‥,𝓂,$,·sh,.
 
-Judges 11:18 in vtrad vtbhs
+Judges 11:18 in vtrad vtsef
 w,_,y,·,‥,⅃,l,∵,k.,:
 SPACE
 v,·,_,m,·,i,d,:,v,·,a,◆,r
@@ -9226,7 +9323,7 @@ g,·,:,v,(me),w,·,l
 SPACE
 m,w,o,α,a,𝓂,v,.
 
-Judges 11:19 in vtrad vtbhs
+Judges 11:19 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,<,x
 SPACE
 y,i,$,·si,:,r,a,α,‥,l,(p)
@@ -9253,7 +9350,7 @@ v,:,α,_,r,:,ц,:,k.,a,(ti)
 SPACE
 ʕ,_,d,-,m,:,q,w,o,m,i,𝓂,y,.
 
-Judges 11:20 in vtrad vtbhs
+Judges 11:20 in vtrad vtsef
 w,:,l,o,α,-,h,∵,α,:∵,m,i,(qa),y,n.
 SPACE
 σ,i,y,x,<,w,o,n.
@@ -9278,7 +9375,7 @@ w,_,y,·,i,l,·,a,(ti),x,∵,m.
 SPACE
 ʕ,i,m.,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 11:21 in vtrad vtbhs
+Judges 11:21 in vtrad vtsef
 w,_,⌕,y,·,i,τ,·,‥,⌕,n.
 SPACE
 y,:,h,o,w,a,(qa),h
@@ -9311,7 +9408,7 @@ h,a,α,a,(me),r,∵,ц.
 SPACE
 h,_,h,i,𝓂,y,α,.
 
-Judges 11:22 in vtrad vtbhs
+Judges 11:22 in vtrad vtsef
 w,_,y,·,i,⅃,y,r,:,$,·sh,ƶ,w,·
 SPACE
 α,‥,(ti),τ
@@ -9328,10 +9425,14 @@ w,·,m,i,n.,-,h,_,m,·,i,d,:,v,·,a,(ti),r
 SPACE
 w,:,ʕ,_,d,-,h,_,y,·,_,r,:,d,·,‥,𝓂,n.,.
 
-Judges 11:23 in vtrad vtbhs
+Judges 11:23 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,(G),h
 SPACE
 y,:,h,o,w,a,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,:∵,l,o,h,‥,⅃,y
 SPACE
@@ -9351,7 +9452,7 @@ w,:,α,_,τ,·,a,(ti),h
 SPACE
 τ,·,i,y,r,a,$,·sh,∵,𝓂,n,·,w,·,.
 
-Judges 11:24 in vtrad vtbhs
+Judges 11:24 in vtrad vtsef
 h,:_,l,o,(G),α
 SPACE
 α,‥,⅃,τ
@@ -9384,7 +9485,7 @@ SPACE
 SPACE
 n,i,y,r,a,𝓂,$,·sh,.
 
-Judges 11:25 in vtrad vtbhs
+Judges 11:25 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,◆,h
 SPACE
 h,:_,θ,(me),w,o,v
@@ -9413,7 +9514,7 @@ n,i,l,:,x,_,(ti),m.
 SPACE
 v,·,a,𝓂,m.,.
 
-Judges 11:26 in vtrad vtbhs
+Judges 11:26 in vtrad vtsef
 v,·,:,$,·sh,∵,⅃,v,∵,τ
 SPACE
 y,i,⌕,$,·si,:,r,a,α,‥,⌕,l
@@ -9448,7 +9549,7 @@ v,·,a,ʕ,‥,(me),τ
 SPACE
 h,_,h,i,𝓂,y,α,.
 
-Judges 11:27 in vtrad vtbhs
+Judges 11:27 in vtrad vtsef
 w,:,α,a,𝓂,n,o,k,i,y,(p)
 SPACE
 l,o,α,-,x,a,θ,a,⅃,α,τ,i,y
@@ -9487,7 +9588,7 @@ v,·,:,n,‥,(me),y
 SPACE
 ʕ,_,m,·,𝓂,w,o,n.,.
 
-Judges 11:28 in vtrad vtbhs
+Judges 11:28 in vtrad vtsef
 w,:,l,o,⅃,α
 SPACE
 $,·sh,a,m,_,ƶ,ʕ
@@ -9508,7 +9609,7 @@ $,·sh,a,l,_,(ti),x
 SPACE
 α,‥,l,a,𝓂,y,w,.
 
-Judges 11:29 in vtrad vtbhs
+Judges 11:29 in vtrad vtsef
 w,_,τ,·,:,h,i,<,y
 SPACE
 ʕ,_,l,-,y,i,f,:,τ,·,a,x,(p)
@@ -9539,7 +9640,7 @@ v,·,:,n,‥,(me),y
 SPACE
 ʕ,_,m,·,𝓂,w,o,n.,.
 
-Judges 11:30 in vtrad vtbhs
+Judges 11:30 in vtrad vtsef
 w,_,y,·,i,d,·,_,(qa),r
 SPACE
 y,i,f,:,τ,·,a,(me),x
@@ -9560,7 +9661,7 @@ SPACE
 SPACE
 v,·,:,y,a,d,i,𝓂,y,.
 
-Judges 11:31 in vtrad vtbhs
+Judges 11:31 in vtrad vtsef
 w,:,h,a,y,a,⅃,h
 SPACE
 h,_,y,·,w,o,ц,‥,◆,α
@@ -9591,7 +9692,7 @@ w,:,h,_,ʕ,:_,l,i,y,τ,i,(ti),y,h,w,·
 SPACE
 ʕ,o,l,a,𝓂,h,.
 
-Judges 11:32 in vtrad vtbhs
+Judges 11:32 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,v,o,(me),r
 SPACE
 y,i,f,:,τ,·,a,⟓,x
@@ -9610,7 +9711,7 @@ y,:,h,o,w,a,(ti),h
 SPACE
 v,·,:,y,a,d,𝓂,w,o,.
 
-Judges 11:33 in vtrad vtbhs
+Judges 11:33 in vtrad vtsef
 w,_,y,·,_,k,·,‥,μ,m.
 SPACE
 m,‥,ʕ,:_,r,w,o,ʕ,‥,r,(tq)
@@ -9647,7 +9748,7 @@ v,·,:,n,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 11:34 in vtrad vtbhs
+Judges 11:34 in vtrad vtsef
 w,_,y,·,a,v,o,(qa),α
 SPACE
 y,i,f,:,τ,·,a,⅃,x
@@ -9682,7 +9783,7 @@ v,·,‥,(ti),n.
 SPACE
 α,w,o,-,v,_,𝓂,τ,.
 
-Judges 11:35 in vtrad vtbhs
+Judges 11:35 in vtrad vtsef
 w,_,y,:,h,i,y,(tq)
 SPACE
 k,i,r,:,α,w,o,τ,(qa),w,o
@@ -9723,7 +9824,7 @@ SPACE
 SPACE
 l,a,$,·sh,𝓂,w,·,v,.
 
-Judges 11:36 in vtrad vtbhs
+Judges 11:36 in vtrad vtsef
 w,_,τ,·,o,⅃,α,m,∵,r
 SPACE
 α,‥,l,a,◆,y,w
@@ -9764,7 +9865,7 @@ m,i,v,·,:,n,‥,(me),y
 SPACE
 ʕ,_,m,·,𝓂,w,o,n.,.
 
-Judges 11:37 in vtrad vtbhs
+Judges 11:37 in vtrad vtsef
 w,_,τ,·,o,(p),α,m,∵,r,(p)
 SPACE
 α,∵,l,-,α,a,v,i,ƶ,y,h,a
@@ -9799,7 +9900,7 @@ SPACE
 SPACE
 .
 
-Judges 11:38 in vtrad vtbhs
+Judges 11:38 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 l,‥,ƶ,k,i,y
@@ -9824,10 +9925,14 @@ SPACE
 SPACE
 ʕ,_,l,-,h,∵,𝓂,h,a,r,i,𝓂,y,m.,.
 
-Judges 11:39 in vtrad vtbhs
+Judges 11:39 in vtrad vtsef
 w,_,y,:,h,i,(G),y
 SPACE
 m,i,q,·,‥,⅃,ц.
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 $,·sh,:,n,_,⅃,y,i,m.
 SPACE
@@ -9857,8 +9962,12 @@ w,_,τ,·,:,h,i,y,-,x,o,(ti),q
 SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 11:40 in vtrad vtbhs
+Judges 11:40 in vtrad vtsef
 m,i,y,·,a,m,i,⅃,y,m.
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 y,a,m,i,◆,y,m,a,h
 SPACE
@@ -9880,7 +9989,7 @@ y,a,m,i,(ti),y,m.
 SPACE
 v,·,_,$,·sh,·,a,n,a,𝓂,h,.
 
-Judges 12:1 in vtrad vtbhs
+Judges 12:1 in vtrad vtsef
 w,_,y,·,i,ц,·,a,ʕ,‥,q,(p)
 SPACE
 α,i,⅃,y,$,·sh
@@ -9896,8 +10005,16 @@ SPACE
 l,:,y,i,f,:,τ,·,a,(ge),x
 SPACE
 m,_,d,·,⅃,w,·,ʕ,_
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 ʕ,a,v,_,⅃,r,:,τ,·,a
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 l,:,h,i,l,·,a,x,‥,⅃,m.
 SPACE
@@ -9921,7 +10038,7 @@ SPACE
 SPACE
 v,·,a,α,‥,𝓂,$,·sh,.
 
-Judges 12:2 in vtrad vtbhs
+Judges 12:2 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 y,i,f,:,τ,·,a,x,(p)
@@ -9952,7 +10069,7 @@ SPACE
 SPACE
 m,i,y,·,a,d,a,𝓂,m.,.
 
-Judges 12:3 in vtrad vtbhs
+Judges 12:3 in vtrad vtsef
 w,a,α,∵,r,:,α,∵,(G),h
 SPACE
 k,·,i,𝓂,y,-,α,‥,y,n,:,k.,a,⅃
@@ -9991,7 +10108,7 @@ l,:,h,i,l,·,a,(me),x,∵,m.
 SPACE
 v,·,i,𝓂,y,.
 
-Judges 12:4 in vtrad vtbhs
+Judges 12:4 in vtrad vtsef
 w,_,y,·,i,q,:,v,·,o,<,ц.
 SPACE
 y,i,f,:,τ,·,a,x,(p)
@@ -10032,7 +10149,7 @@ v,·,:,τ,(me),w,o,k.,:
 SPACE
 m,:,n,_,$,·sh,·,∵,𝓂,h,.
 
-Judges 12:5 in vtrad vtbhs
+Judges 12:5 in vtrad vtsef
 w,_,y,·,i,l,:,k,·,o,(me),d
 SPACE
 g,·,i,l,:,ʕ,a,⟓,d
@@ -10066,9 +10183,14 @@ SPACE
 α,_,(ti),τ,·,a,h
 SPACE
 w,_,y,·,o,(me),α,m,∵,𝓂,r
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 l,o,𝓂,α,.
 
-Judges 12:6 in vtrad vtbhs
+Judges 12:6 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,:,r,w,·
 SPACE
 l,w,o,(tq)
@@ -10113,7 +10235,7 @@ w,·,$,·sh,:,n,_,(ti),y,i,m.
 SPACE
 α,a,𝓂,l,∵,f.,.
 
-Judges 12:7 in vtrad vtbhs
+Judges 12:7 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,f,·,o,(me),θ
 SPACE
 y,i,f,:,τ,·,a,⟓,x
@@ -10136,7 +10258,7 @@ v,·,:,ʕ,a,r,‥,(me),y
 SPACE
 g,i,l,:,ʕ,a,𝓂,d,.
 
-Judges 12:8 in vtrad vtbhs
+Judges 12:8 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,f,·,o,<,θ
 SPACE
 α,_,𝓂,x,:_,r,a,y,w,(p)
@@ -10149,7 +10271,7 @@ m,i,v,·,‥,(me),y,τ
 SPACE
 l,a,𝓂,x,∵,m.,.
 
-Judges 12:9 in vtrad vtbhs
+Judges 12:9 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,-,l,(G),w,o
 SPACE
 $,·sh,:,l,o,$,·sh,i,⅃,y,m.
@@ -10182,7 +10304,7 @@ $,·sh,∵,(me),v,_,ʕ
 SPACE
 $,·sh,a,n,i,𝓂,y,m.,.
 
-Judges 12:10 in vtrad vtbhs
+Judges 12:10 in vtrad vtsef
 w,_,y,·,a,⅃,m,oa,τ
 SPACE
 α,i,v,:,ц,a,ƶ,n.
@@ -10193,7 +10315,7 @@ v,·,:,v,‥,(me),y,τ
 SPACE
 l,a,𝓂,x,∵,m.,.
 
-Judges 12:11 in vtrad vtbhs
+Judges 12:11 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,f,·,o,<,θ
 SPACE
 α,_,𝓂,x,:_,r,a,y,w,(p)
@@ -10212,7 +10334,7 @@ SPACE
 SPACE
 $,·sh,a,n,i,𝓂,y,m.,.
 
-Judges 12:12 in vtrad vtbhs
+Judges 12:12 in vtrad vtsef
 w,_,y,·,a,(ti),m,oa,τ
 SPACE
 α,‥,y,l,⅃,w,o,n.
@@ -10227,7 +10349,7 @@ v,·,:,α,∵,(me),r,∵,ц.
 SPACE
 z,:,v,w,·,l,u,𝓂,n.,.
 
-Judges 12:13 in vtrad vtbhs
+Judges 12:13 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,f,·,o,(me),θ
 SPACE
 α,_,x,:_,r,a,(ti),y,w
@@ -10240,7 +10362,7 @@ v,·,∵,n.,-,h,i,l,·,‥,(ti),l
 SPACE
 h,_,f,·,i,r,:,ʕ,a,τ,w,o,n,i,𝓂,y,.
 
-Judges 12:14 in vtrad vtbhs
+Judges 12:14 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,-,l,(G),w,o
 SPACE
 α,_,r,:,v,·,a,ʕ,i,⅃,y,m.
@@ -10267,7 +10389,7 @@ $,·sh,:,m,o,n,∵,(me),h
 SPACE
 $,·sh,a,n,i,𝓂,y,m.,.
 
-Judges 12:15 in vtrad vtbhs
+Judges 12:15 in vtrad vtsef
 w,_,y,·,a,⟓,m,oa,τ
 SPACE
 ʕ,_,v,:,d,·,(me),w,o,n.
@@ -10288,7 +10410,7 @@ v,·,:,h,_,(ti),r
 SPACE
 h,a,ʕ,:_,m,a,l,‥,q,i,𝓂,y,.
 
-Judges 13:1 in vtrad vtbhs
+Judges 13:1 in vtrad vtsef
 w,_,y,·,o,σ,i,(p),y,f,w,·,(p)
 SPACE
 v,·,:,n,‥,⅃,y
@@ -10313,7 +10435,7 @@ SPACE
 SPACE
 $,·sh,a,n,a,𝓂,h,.
 
-Judges 13:2 in vtrad vtbhs
+Judges 13:2 in vtrad vtsef
 w,_,y,:,h,i,y,(tq)
 SPACE
 α,i,(qa),y,$,·sh
@@ -10338,7 +10460,7 @@ w,:,l,o,(me),α
 SPACE
 y,a,l,a,𝓂,d,a,h,.
 
-Judges 13:3 in vtrad vtbhs
+Judges 13:3 in vtrad vtsef
 w,_,y,·,‥,r,a,(me),α
 SPACE
 m,_,l,:,α,_,k.,:,-,y,:,h,o,w,a,(ti),h
@@ -10363,7 +10485,7 @@ w,:,y,a,l,_,(me),d,:,τ,·,:
 SPACE
 v,·,‥,𝓂,n.,.
 
-Judges 13:4 in vtrad vtbhs
+Judges 13:4 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,h,(p)
 SPACE
 h,i,$,·sh,·,a,⅃,m,:,r,i,y
@@ -10380,7 +10502,7 @@ w,:,α,_,l,-,τ,·,o,α,k,:,l,i,(ti),y
 SPACE
 k,·,oa,l,-,θ,a,m,‥,𝓂,α,.
 
-Judges 13:5 in vtrad vtbhs
+Judges 13:5 in vtrad vtsef
 k,·,i,y,(tq)
 SPACE
 h,i,n,·,a,(qa),k.,:
@@ -10419,7 +10541,7 @@ m,i,y,·,_,(me),d
 SPACE
 f,·,:,l,i,$,·sh,:,τ,·,i,𝓂,y,m.,.
 
-Judges 13:6 in vtrad vtbhs
+Judges 13:6 in vtrad vtsef
 w,_,τ,·,a,v,o,⅃,α
 SPACE
 h,a,α,i,$,·sh,·,a,◆,h
@@ -10464,7 +10586,7 @@ l,o,α,-,h,i,g,·,i,(me),y,d
 SPACE
 l,i,𝓂,y,.
 
-Judges 13:7 in vtrad vtbhs
+Judges 13:7 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 l,i,ƶ,y
@@ -10480,6 +10602,10 @@ SPACE
 w,:,ʕ,_,τ,·,a,(G),h
 SPACE
 α,_,l,-,τ,·,i,$,·sh,:,τ,·,i,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 y,_,⅃,y,i,n.
 SPACE
@@ -10503,7 +10629,7 @@ SPACE
 SPACE
 m,w,o,τ,𝓂,w,o,.
 
-Judges 13:8 in vtrad vtbhs
+Judges 13:8 in vtrad vtsef
 w,_,y,·,∵,ʕ,:,τ,·,_,(me),r
 SPACE
 m,a,n,⟓,w,o,x,_
@@ -10538,7 +10664,7 @@ l,_,n,·,_,(me),ʕ,_,r
 SPACE
 h,_,y,·,w,·,l,·,a,𝓂,d,.
 
-Judges 13:9 in vtrad vtbhs
+Judges 13:9 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,_,(me),ʕ
 SPACE
 h,a,α,:∵,l,o,h,i,(ti),y,m.
@@ -10571,7 +10697,7 @@ SPACE
 SPACE
 ʕ,i,m,·,a,𝓂,h,·,.
 
-Judges 13:10 in vtrad vtbhs
+Judges 13:10 in vtrad vtsef
 w,_,τ,·,:,m,_,h,‥,r,(p)
 SPACE
 h,a,𝓂,α,i,$,·sh,·,a,ƶ,h
@@ -10600,7 +10726,7 @@ v,_,y,·,(ti),w,o,m.
 SPACE
 α,‥,l,a,𝓂,y,.
 
-Judges 13:11 in vtrad vtbhs
+Judges 13:11 in vtrad vtsef
 w,_,y,·,a,⟓,q,oa,m.
 SPACE
 w,_,y,·,‥,(me),l,∵,k.,:
@@ -10631,7 +10757,7 @@ w,_,y,·,o,(me),α,m,∵,r
 SPACE
 α,a,𝓂,n,i,y,.
 
-Judges 13:12 in vtrad vtbhs
+Judges 13:12 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 m,a,n,ƶ,w,o,x,_
@@ -10648,7 +10774,7 @@ m,i,$,·sh,:,f,·,_,θ,-,h,_,n,·,_,(ti),ʕ,_,r
 SPACE
 w,·,m,_,ʕ,:_,$,·si,‥,𝓂,h,w,·,.
 
-Judges 13:13 in vtrad vtbhs
+Judges 13:13 in vtrad vtsef
 w,_,y,·,o,⟓,α,m,∵,r
 SPACE
 m,_,l,:,α,_,(me),k.,:
@@ -10665,7 +10791,7 @@ SPACE
 SPACE
 τ,·,i,$,·sh,·,a,m,‥,𝓂,r,.
 
-Judges 13:14 in vtrad vtbhs
+Judges 13:14 in vtrad vtsef
 m,i,k,·,o,⅃,l
 SPACE
 α,:_,$,·sh,∵,r,-,y,‥,ц,‥,α,(tq)
@@ -10694,7 +10820,7 @@ SPACE
 SPACE
 τ,·,i,$,·sh,:,m,o,𝓂,r,.
 
-Judges 13:15 in vtrad vtbhs
+Judges 13:15 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
 SPACE
 m,a,n,(ti),w,o,x,_
@@ -10715,7 +10841,7 @@ g,·,:,d,i,(me),y
 SPACE
 ʕ,i,z,·,i,𝓂,y,m.,.
 
-Judges 13:16 in vtrad vtbhs
+Judges 13:16 in vtrad vtsef
 w,_,y,·,o,(tq),α,m,∵,r,(tq)
 SPACE
 m,_,l,:,α,_,(qa),k.,:
@@ -10750,7 +10876,7 @@ y,:,h,o,w,a,(ti),h
 SPACE
 h,𝓂,w,·,α,.
 
-Judges 13:17 in vtrad vtbhs
+Judges 13:17 in vtrad vtsef
 w,_,y,·,o,(da),α,m,∵,r
 SPACE
 m,a,n,⟓,w,o,x,_
@@ -10768,7 +10894,7 @@ SPACE
 SPACE
 w,:,k,i,v,·,_,d,:,n,𝓂,w,·,k.,a,.
 
-Judges 13:18 in vtrad vtbhs
+Judges 13:18 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 l,w,o,(p)
@@ -10787,7 +10913,7 @@ l,i,$,·sh,:,m,i,⅄,y
 SPACE
 w,:,h,w,·,α,-,f,∵,𝓂,l,i,α,y,.
 
-Judges 13:19 in vtrad vtbhs
+Judges 13:19 in vtrad vtsef
 w,_,y,·,i,q,·,_,(qa),x
 SPACE
 m,a,n,(ge),w,o,x,_
@@ -10814,7 +10940,7 @@ w,:,α,i,$,·sh,:,τ,·,(ti),w,o
 SPACE
 r,o,α,i,𝓂,y,m.,.
 
-Judges 13:20 in vtrad vtbhs
+Judges 13:20 in vtrad vtsef
 w,_,y,:,h,i,y,(tq)
 SPACE
 v,_,ʕ,:_,l,(qa),w,o,τ
@@ -10847,7 +10973,7 @@ SPACE
 SPACE
 α,a,𝓂,r,:,ц,a,h,.
 
-Judges 13:21 in vtrad vtbhs
+Judges 13:21 in vtrad vtsef
 w,:,l,o,α,-,y,a,<,σ,_,f.
 SPACE
 ʕ,w,o,d,(p)
@@ -10874,7 +11000,7 @@ y,:,h,o,w,a,(ti),h
 SPACE
 h,𝓂,w,·,α,.
 
-Judges 13:22 in vtrad vtbhs
+Judges 13:22 in vtrad vtsef
 w,_,y,·,o,(da),α,m,∵,r
 SPACE
 m,a,n,⟓,w,o,x,_
@@ -10891,7 +11017,7 @@ SPACE
 SPACE
 r,a,α,i,𝓂,y,n,w,·,.
 
-Judges 13:23 in vtrad vtbhs
+Judges 13:23 in vtrad vtsef
 w,_,τ,·,o,(da),α,m,∵,r
 SPACE
 l,⅃,w,o
@@ -10928,7 +11054,7 @@ h,i,$,·sh,:,m,i,y,ʕ,a,(ti),n,w,·
 SPACE
 k,·,a,z,o,𝓂,α,τ,.
 
-Judges 13:24 in vtrad vtbhs
+Judges 13:24 in vtrad vtsef
 w,_,τ,·,‥,<,l,∵,d
 SPACE
 h,a,𝓂,α,i,$,·sh,·,a,h,(p)
@@ -10949,7 +11075,7 @@ w,_,𝓂,y,:,v,a,r,:,k,‥,(ti),h,w,·
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-Judges 13:25 in vtrad vtbhs
+Judges 13:25 in vtrad vtsef
 w,_,τ,·,a,(p),x,∵,l,(p)
 SPACE
 r,⅃,w,·,x,_
@@ -10968,7 +11094,7 @@ w,·,v,‥,(me),y,n.
 SPACE
 α,∵,$,·sh,:,τ,·,a,α,o,𝓂,l,.
 
-Judges 14:1 in vtrad vtbhs
+Judges 14:1 in vtrad vtsef
 w,_,y,·,‥,(me),r,∵,d
 SPACE
 $,·sh,i,m,:,$,·sh,(ti),w,o,n.
@@ -10985,7 +11111,7 @@ m,i,v,·,:,n,(me),w,o,τ
 SPACE
 f,·,:,l,i,$,·sh,:,τ,·,i,𝓂,y,m.,.
 
-Judges 14:2 in vtrad vtbhs
+Judges 14:2 in vtrad vtsef
 w,_,y,·,_,◆,ʕ,_,l
 SPACE
 w,_,y,·,_,g,·,‥,d,(p)
@@ -11014,7 +11140,7 @@ l,i,(ti),y
 SPACE
 l,:,α,i,$,·sh,·,a,𝓂,h,.
 
-Judges 14:3 in vtrad vtbhs
+Judges 14:3 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 l,(ge),w,o
@@ -11061,7 +11187,7 @@ y,a,$,·sh,:,r,a,(me),h
 SPACE
 v,:,ʕ,‥,y,n,a,𝓂,y,.
 
-Judges 14:4 in vtrad vtbhs
+Judges 14:4 in vtrad vtsef
 w,:,α,a,v,i,(qa),y,w
 SPACE
 w,:,α,i,m,·,(ge),w,o
@@ -11092,7 +11218,7 @@ m,o,$,·sh,:,l,i,(me),y,m.
 SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 14:5 in vtrad vtbhs
+Judges 14:5 in vtrad vtsef
 w,_,y,·,‥,(da),r,∵,d
 SPACE
 $,·sh,i,m,:,$,·sh,⟓,w,o,n.
@@ -11119,7 +11245,7 @@ $,·sh,o,α,‥,(ti),g
 SPACE
 l,i,q,:,r,a,α,τ,𝓂,w,o,.
 
-Judges 14:6 in vtrad vtbhs
+Judges 14:6 in vtrad vtsef
 w,_,τ,·,i,ц,:,l,_,(qa),x
 SPACE
 ʕ,a,l,a,(ge),y,w
@@ -11154,7 +11280,7 @@ SPACE
 SPACE
 ʕ,a,$,·si,a,𝓂,h,.
 
-Judges 14:7 in vtrad vtbhs
+Judges 14:7 in vtrad vtsef
 w,_,y,·,‥,(ti),r,∵,d
 SPACE
 w,_,y,:,d,_,v,·,‥,⅃,r
@@ -11167,7 +11293,7 @@ v,·,:,ʕ,‥,y,n,‥,(me),y
 SPACE
 $,·sh,i,m,:,$,·sh,𝓂,w,o,n.,.
 
-Judges 14:8 in vtrad vtbhs
+Judges 14:8 in vtrad vtsef
 w,_,y,·,a,<,$,·sh,oa,v
 SPACE
 m,i,y,·,a,m,i,y,m.,(p)
@@ -11196,7 +11322,7 @@ h,a,α,_,r,:,y,‥,(ti),h
 SPACE
 w,·,d,:,v,a,𝓂,$,·sh,.
 
-Judges 14:9 in vtrad vtbhs
+Judges 14:9 in vtrad vtsef
 w,_,y,·,i,r,:,d,·,‥,⅃,h,w,·
 SPACE
 α,∵,l,-,k,·,_,f,·,a,◆,y,w
@@ -11233,7 +11359,7 @@ r,a,d,a,(me),h
 SPACE
 h,_,d,·,:,v,a,𝓂,$,·sh,.
 
-Judges 14:10 in vtrad vtbhs
+Judges 14:10 in vtrad vtsef
 w,_,y,·,‥,(me),r,∵,d
 SPACE
 α,a,v,i,(ti),y,h,w,·
@@ -11256,7 +11382,7 @@ y,_,ʕ,:_,$,·si,(ti),w,·
 SPACE
 h,_,v,·,_,x,w,·,r,i,𝓂,y,m.,.
 
-Judges 14:11 in vtrad vtbhs
+Judges 14:11 in vtrad vtsef
 w,_,y,:,h,i,(ti),y
 SPACE
 k,·,i,r,:,α,w,o,τ,a,⅃,m.
@@ -11273,7 +11399,7 @@ w,_,y,·,i,h,:,y,(ti),w,·
 SPACE
 α,i,τ,·,𝓂,w,o,.
 
-Judges 14:12 in vtrad vtbhs
+Judges 14:12 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 l,a,h,∵,m.,(p)
@@ -11316,7 +11442,7 @@ x,:_,l,i,f,o,(me),τ
 SPACE
 v,·,:,g,a,d,i,𝓂,y,m.,.
 
-Judges 14:13 in vtrad vtbhs
+Judges 14:13 in vtrad vtsef
 w,:,α,i,m.,-,l,o,⅃,α
 SPACE
 τ,w,·,k,:,l,w,·,~
@@ -11351,7 +11477,7 @@ x,i,y,d,a,τ,:,k.,a,(ti)
 SPACE
 w,:,n,i,$,·sh,:,m,a,ʕ,∵,𝓂,n,·,a,h,.
 
-Judges 14:14 in vtrad vtbhs
+Judges 14:14 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 l,a,h,∵,◆,m.
@@ -11380,8 +11506,12 @@ $,·sh,:,l,o,(me),$,·sh,∵,τ
 SPACE
 y,a,m,i,𝓂,y,m.,.
 
-Judges 14:15 in vtrad vtbhs
+Judges 14:15 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -11417,7 +11547,7 @@ l,a,(ti),n,w,·
 SPACE
 h,:_,l,o,𝓂,α,.
 
-Judges 14:16 in vtrad vtbhs
+Judges 14:16 in vtrad vtsef
 w,_,τ,·,‥,(tq),v,:,k.,·,:,(tq)
 SPACE
 α,‥,(qa),$,·sh,∵,τ
@@ -11466,7 +11596,7 @@ w,:,l,a,(me),k.,:
 SPACE
 α,_,g,·,i,𝓂,y,d,.
 
-Judges 14:17 in vtrad vtbhs
+Judges 14:17 in vtrad vtsef
 w,_,τ,·,‥,<,v,:,k.,·,:
 SPACE
 ʕ,a,l,a,y,w,(p)
@@ -11482,6 +11612,10 @@ SPACE
 h,_,m,·,i,$,·sh,:,τ,·,∵,⅄,h
 SPACE
 w,_,y,:,h,i,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -11501,7 +11635,7 @@ l,i,v,:,n,‥,(me),y
 SPACE
 ʕ,_,m,·,a,𝓂,h,·,.
 
-Judges 14:18 in vtrad vtbhs
+Judges 14:18 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,:,r,w,·
 SPACE
 l,w,o,(tq)
@@ -11546,7 +11680,7 @@ m,:,ц,a,α,τ,∵,(ti),m.
 SPACE
 x,i,y,d,a,τ,i,𝓂,y,.
 
-Judges 14:19 in vtrad vtbhs
+Judges 14:19 in vtrad vtsef
 w,_,τ,·,i,ц,:,l,_,(qa),x
 SPACE
 ʕ,a,l,a,(ge),y,w
@@ -11562,6 +11696,10 @@ SPACE
 w,_,y,·,_,(me),k.,:
 SPACE
 m,‥,h,∵,⅃,m.
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 $,·sh,:,l,o,$,·sh,i,⅃,y,m.
 SPACE
@@ -11589,7 +11727,7 @@ v,·,‥,(me),y,τ
 SPACE
 α,a,v,i,𝓂,y,h,w,·,.
 
-Judges 14:20 in vtrad vtbhs
+Judges 14:20 in vtrad vtsef
 w,_,τ,·,:,h,i,(ti),y
 SPACE
 α,‥,⅃,$,·sh,∵,τ
@@ -11604,7 +11742,7 @@ r,‥,ʕ,a,(ti),h
 SPACE
 l,𝓂,w,o,.
 
-Judges 15:1 in vtrad vtbhs
+Judges 15:1 in vtrad vtsef
 w,_,y,:,h,i,(qa),y
 SPACE
 m,i,y,·,a,m,i,(ge),y,m.
@@ -11637,7 +11775,7 @@ SPACE
 SPACE
 l,a,v,𝓂,w,o,α,.
 
-Judges 15:2 in vtrad vtbhs
+Judges 15:2 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 α,a,v,i,◆,y,h,a
@@ -11670,7 +11808,7 @@ l,:,k.,a,(ti)
 SPACE
 τ,·,_,x,:,τ,·,∵,𝓂,y,h,a,.
 
-Judges 15:3 in vtrad vtbhs
+Judges 15:3 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 l,a,h,∵,m.,(p)
@@ -11691,7 +11829,7 @@ SPACE
 SPACE
 r,a,ʕ,a,𝓂,h,.
 
-Judges 15:4 in vtrad vtbhs
+Judges 15:4 in vtrad vtsef
 w,_,y,·,‥,⅃,l,∵,k.,:
 SPACE
 $,·sh,i,m,:,$,·sh,ƶ,w,o,n.
@@ -11724,7 +11862,7 @@ h,_,z,·,:,n,a,v,(ti),w,o,τ
 SPACE
 v,·,_,τ,·,a,𝓂,w,∵,k.,:,.
 
-Judges 15:5 in vtrad vtbhs
+Judges 15:5 in vtrad vtsef
 w,_,y,·,_,v,:,ʕ,∵,r,-,α,‥,$,·sh,(p)
 SPACE
 v,·,_,l,·,_,f,·,i,y,d,i,ƶ,y,m.
@@ -11745,7 +11883,7 @@ w,:,ʕ,_,d,-,k,·,∵,(me),r,∵,m.
 SPACE
 z,a,𝓂,y,i,τ,.
 
-Judges 15:6 in vtrad vtbhs
+Judges 15:6 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,⅃,w,·
 SPACE
 f,:,l,i,$,·sh,:,τ,·,i,y,m.,~
@@ -11786,7 +11924,7 @@ w,:,α,∵,τ,-,α,a,v,i,(ti),y,h,a
 SPACE
 v,·,a,α,‥,𝓂,$,·sh,.
 
-Judges 15:7 in vtrad vtbhs
+Judges 15:7 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 l,a,h,∵,m.,(p)
@@ -11807,7 +11945,7 @@ w,:,α,_,x,_,(me),r
 SPACE
 α,∵,x,:,d,·,a,𝓂,l,.
 
-Judges 15:8 in vtrad vtbhs
+Judges 15:8 in vtrad vtsef
 w,_,y,·,_,(qa),k.,:
 SPACE
 α,w,o,τ,a,(me),m.
@@ -11830,7 +11968,7 @@ SPACE
 SPACE
 ʕ,‥,y,θ,a,𝓂,m.,.
 
-Judges 15:9 in vtrad vtbhs
+Judges 15:9 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,l,⅃,w,·
 SPACE
 f,:,l,i,$,·sh,:,τ,·,i,ƶ,y,m.
@@ -11843,7 +11981,7 @@ w,_,y,·,i,n,·,a,θ,:,$,·sh,(ti),w,·
 SPACE
 v,·,_,l,·,∵,𝓂,x,i,y,.
 
-Judges 15:10 in vtrad vtbhs
+Judges 15:10 in vtrad vtsef
 w,_,y,·,o,𝓂,α,m,:,r,w,·,(p)
 SPACE
 α,i,⅃,y,$,·sh
@@ -11874,7 +12012,7 @@ SPACE
 SPACE
 l,a,𝓂,n,w,·,.
 
-Judges 15:11 in vtrad vtbhs
+Judges 15:11 in vtrad vtsef
 w,_,y,·,‥,𝓂,r,:,d,μ,w,·
 SPACE
 $,·sh,:,l,o,(tq),$,·sh,∵,τ,(tq)
@@ -11927,7 +12065,7 @@ SPACE
 SPACE
 l,a,h,∵,𝓂,m.,.
 
-Judges 15:12 in vtrad vtbhs
+Judges 15:12 in vtrad vtsef
 w,_,y,·,o,<,α,m,:,r,w,·
 SPACE
 l,w,o,(p)
@@ -11956,7 +12094,7 @@ v,·,i,(ti),y
 SPACE
 α,_,τ,·,∵,𝓂,m.,.
 
-Judges 15:13 in vtrad vtbhs
+Judges 15:13 in vtrad vtsef
 w,_,y,·,o,(da),α,m,:,r,w,·
 SPACE
 l,⅃,w,o
@@ -11991,7 +12129,7 @@ w,_,𝓂,y,·,_,ʕ,:_,l,(ti),w,·,h,w,·
 SPACE
 m,i,n.,-,h,_,σ,·,a,𝓂,l,_,ʕ,.
 
-Judges 15:14 in vtrad vtbhs
+Judges 15:14 in vtrad vtsef
 h,w,·,α,-,v,a,⅃,α
 SPACE
 ʕ,_,d,-,l,∵,ƶ,x,i,y
@@ -12034,7 +12172,7 @@ m,‥,ʕ,_,(me),l
 SPACE
 y,a,d,a,𝓂,y,w,.
 
-Judges 15:15 in vtrad vtbhs
+Judges 15:15 in vtrad vtsef
 w,_,y,·,i,m,:,ц,a,(me),α
 SPACE
 l,:,x,i,y,-,x,:_,m,(ti),w,o,r
@@ -12053,7 +12191,7 @@ SPACE
 SPACE
 α,i,𝓂,y,$,·sh,.
 
-Judges 15:16 in vtrad vtbhs
+Judges 15:16 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 $,·sh,i,m,:,$,·sh,ƶ,w,o,n.
@@ -12076,7 +12214,7 @@ SPACE
 SPACE
 α,i,𝓂,y,$,·sh,.
 
-Judges 15:17 in vtrad vtbhs
+Judges 15:17 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 k,·,:,k,_,l,·,o,τ,⅃,w,o
@@ -12099,7 +12237,7 @@ r,a,(me),m,_,τ
 SPACE
 l,∵,𝓂,x,i,y,.
 
-Judges 15:18 in vtrad vtbhs
+Judges 15:18 in vtrad vtsef
 w,_,y,·,i,ц,:,m,a,α,~
 SPACE
 m,:,α,o,d,∴
@@ -12134,7 +12272,7 @@ v,·,:,y,_,(me),d
 SPACE
 h,a,ʕ,:_,r,‥,l,i,𝓂,y,m.,.
 
-Judges 15:19 in vtrad vtbhs
+Judges 15:19 in vtrad vtsef
 w,_,y,·,i,v,:,q,_,(qa),ʕ
 SPACE
 α,:∵,l,o,h,i,(ge),y,m.
@@ -12158,6 +12296,10 @@ SPACE
 w,_,y,·,∵,⅄,x,i,y
 SPACE
 ʕ,_,l,-,k,·,‥,⅃,n.
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 q,a,r,a,⅃,α
 SPACE
@@ -12177,7 +12319,7 @@ h,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-Judges 15:20 in vtrad vtbhs
+Judges 15:20 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,f,·,o,(da),θ
 SPACE
 α,∵,τ,-,y,i,$,·si,:,r,a,α,‥,⟓,l
@@ -12190,7 +12332,7 @@ SPACE
 SPACE
 $,·sh,a,n,a,𝓂,h,.
 
-Judges 16:1 in vtrad vtbhs
+Judges 16:1 in vtrad vtsef
 w,_,y,·,‥,(me),l,∵,k.,:
 SPACE
 $,·sh,i,m,:,$,·sh,(ti),w,o,n.
@@ -12207,8 +12349,12 @@ w,_,y,·,a,v,o,(ti),α
 SPACE
 α,‥,l,∵,𝓂,y,h,a,.
 
-Judges 16:2 in vtrad vtbhs
+Judges 16:2 in vtrad vtsef
 l,_,ʕ,_,z,·,a,τ,i,⅃,y,m.
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 l,‥,α,m,o,◆,r
 SPACE
@@ -12240,7 +12386,7 @@ h,_,v,·,o,(ti),q,∵,r
 SPACE
 w,_,h,:_,r,_,g,:,n,u,𝓂,h,w,·,.
 
-Judges 16:3 in vtrad vtbhs
+Judges 16:3 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,⅃,v
 SPACE
 $,·sh,i,m,:,$,·sh,w,o,n.,~
@@ -12250,6 +12396,10 @@ SPACE
 h,_,l,·,_,∴,y,:,l,a,h,∴
 SPACE
 w,_,y,·,a,⅃,q,oa,m.
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 v,·,_,x,:_,ц,i,⅃,y
 SPACE
@@ -12285,7 +12435,7 @@ SPACE
 SPACE
 x,∵,v,:,r,𝓂,w,o,n.,.
 
-Judges 16:4 in vtrad vtbhs
+Judges 16:4 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 α,_,x,:_,r,‥,y,-,k,‥,ƶ,n.
@@ -12302,7 +12452,7 @@ w,·,$,·sh,:,m,a,(ti),h,·
 SPACE
 d,·,:,l,i,y,l,a,𝓂,h,.
 
-Judges 16:5 in vtrad vtbhs
+Judges 16:5 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,l,(qa),w,·
 SPACE
 α,‥,l,∵,(ge),y,h,a
@@ -12349,7 +12499,7 @@ w,·,m,‥,α,a,(ti),h
 SPACE
 k,·,a,𝓂,σ,∵,f.,.
 
-Judges 16:6 in vtrad vtbhs
+Judges 16:6 in vtrad vtsef
 w,_,τ,·,o,<,α,m,∵,r
 SPACE
 d,·,:,l,i,y,l,a,h,(p)
@@ -12372,7 +12522,7 @@ SPACE
 SPACE
 l,:,ʕ,_,n,·,w,o,τ,∵,𝓂,k.,a,.
 
-Judges 16:7 in vtrad vtbhs
+Judges 16:7 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 α,‥,l,∵,(p),y,h,a,(p)
@@ -12399,7 +12549,7 @@ k,·,:,α,_,x,_,(me),d
 SPACE
 h,a,𝓂,α,a,d,a,𝓂,m.,.
 
-Judges 16:8 in vtrad vtbhs
+Judges 16:8 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,l,w,·,-,l,a,(G),h,·
 SPACE
 σ,_,r,:,n,‥,⅃,y
@@ -12420,7 +12570,7 @@ w,_,τ,·,_,α,_,σ,:,r,‥,(ti),h,w,·
 SPACE
 v,·,a,h,∵,𝓂,m.,.
 
-Judges 16:9 in vtrad vtbhs
+Judges 16:9 in vtrad vtsef
 w,:,h,a,α,o,r,‥,◆,v
 SPACE
 y,o,$,·sh,‥,(me),v
@@ -12459,7 +12609,7 @@ n,w,o,d,_,(ti),ʕ
 SPACE
 k,·,o,x,𝓂,w,o,.
 
-Judges 16:10 in vtrad vtbhs
+Judges 16:10 in vtrad vtsef
 w,_,τ,·,o,<,α,m,∵,r
 SPACE
 d,·,:,l,i,y,l,a,h,(p)
@@ -12488,7 +12638,7 @@ v,·,_,m,·,∵,(ti),h
 SPACE
 τ,·,‥,α,a,σ,‥,𝓂,r,.
 
-Judges 16:11 in vtrad vtbhs
+Judges 16:11 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 α,‥,l,∵,ƶ,y,h,a
@@ -12517,7 +12667,7 @@ k,·,:,α,_,x,_,(me),d
 SPACE
 h,a,α,a,d,a,𝓂,m.,.
 
-Judges 16:12 in vtrad vtbhs
+Judges 16:12 in vtrad vtsef
 w,_,τ,·,i,q,·,_,⅃,x
 SPACE
 d,·,:,l,i,y,l,a,h,(tq)
@@ -12554,7 +12704,7 @@ z,:,r,o,ʕ,o,τ,a,(ti),y,w
 SPACE
 k,·,_,x,𝓂,w,·,θ,.
 
-Judges 16:13 in vtrad vtbhs
+Judges 16:13 in vtrad vtsef
 w,_,τ,·,o,(qa),α,m,∵,r
 SPACE
 d,·,:,l,i,y,l,a,(ge),h
@@ -12595,7 +12745,7 @@ r,o,α,$,·sh,i,(ti),y
 SPACE
 ʕ,i,m.,-,h,_,m,·,_,σ,·,a,𝓂,k,∵,τ,.
 
-Judges 16:14 in vtrad vtbhs
+Judges 16:14 in vtrad vtsef
 w,_,τ,·,i,τ,:,q,_,ʕ,(p)
 SPACE
 v,·,_,y,·,a,τ,‥,ƶ,d
@@ -12622,7 +12772,7 @@ h,a,α,∵,(ti),r,∵,g
 SPACE
 w,:,α,∵,τ,-,h,_,m,·,_,σ,·,a,𝓂,k,∵,τ,.
 
-Judges 16:15 in vtrad vtbhs
+Judges 16:15 in vtrad vtsef
 w,_,τ,·,o,⅃,α,m,∵,r
 SPACE
 α,‥,l,a,◆,y,w
@@ -12659,7 +12809,7 @@ k,·,o,x,:_,k.,a,(me)
 SPACE
 g,a,d,𝓂,w,o,l,.
 
-Judges 16:16 in vtrad vtbhs
+Judges 16:16 in vtrad vtsef
 w,_,⌕,y,:,h,i,⌕,y
 SPACE
 k,·,i,𝓂,y,-,h,‥,ц,i,(qa),y,q,a,h
@@ -12678,7 +12828,7 @@ n,_,f,:,$,·sh,(ti),w,o
 SPACE
 l,a,m,𝓂,w,·,τ,.
 
-Judges 16:17 in vtrad vtbhs
+Judges 16:17 in vtrad vtsef
 w,_,y,·,_,g,·,∵,d,-,l,a,⅃,h,·
 SPACE
 α,∵,τ,-,k,·,oa,l,-,l,i,v,·,◆,w,o
@@ -12717,7 +12867,7 @@ w,:,h,a,y,i,(ti),y,τ,i,y
 SPACE
 k,·,:,k,oa,l,-,h,a,α,a,d,a,𝓂,m.,.
 
-Judges 16:18 in vtrad vtbhs
+Judges 16:18 in vtrad vtsef
 w,_,τ,·,‥,⅃,r,∵,α
 SPACE
 d,:,l,i,y,l,a,◆,h
@@ -12761,7 +12911,7 @@ h,_,k,·,∵,(ti),σ,∵,f.
 SPACE
 v,·,:,y,a,d,a,𝓂,m.,.
 
-Judges 16:19 in vtrad vtbhs
+Judges 16:19 in vtrad vtsef
 w,_,τ,·,:,y,_,$,·sh,·,:,n,‥,(p),h,w,·,(p)
 SPACE
 ʕ,_,l,-,v,·,i,r,:,k,·,∵,ƶ,y,h,a
@@ -12788,7 +12938,7 @@ k,·,o,x,(ti),w,o
 SPACE
 m,‥,ʕ,a,l,a,𝓂,y,w,.
 
-Judges 16:20 in vtrad vtbhs
+Judges 16:20 in vtrad vtsef
 w,_,τ,·,o,Ƶ,α,m,∵,r
 SPACE
 f,·,:,l,i,$,·sh,:,τ,·,i,(me),y,m.
@@ -12825,7 +12975,7 @@ SPACE
 SPACE
 m,‥,ʕ,a,l,a,𝓂,y,w,.
 
-Judges 16:21 in vtrad vtbhs
+Judges 16:21 in vtrad vtsef
 w,_,y,·,o,α,x,:_,z,⅃,w,·,h,w,·
 SPACE
 f,:,l,i,$,·sh,:,τ,·,i,ƶ,y,m.
@@ -12852,7 +13002,7 @@ v,·,:,v,‥,(me),y,τ
 SPACE
 .
 
-Judges 16:22 in vtrad vtbhs
+Judges 16:22 in vtrad vtsef
 w,_,y,·,a,(da),x,∵,l
 SPACE
 $,·si,:,ʕ,_,r,-,r,o,α,$,·sh,⟓,w,o
@@ -12863,7 +13013,7 @@ k,·,_,α,:_,$,·sh,∵,(me),r
 SPACE
 g,·,u,l,·,a,𝓂,x,.
 
-Judges 16:23 in vtrad vtbhs
+Judges 16:23 in vtrad vtsef
 w,:,σ,_,r,:,n,‥,⅃,y
 SPACE
 f,:,l,i,$,·sh,:,τ,·,i,◆,y,m.
@@ -12894,7 +13044,7 @@ $,·sh,i,m,:,$,·sh,(me),w,o,n.
 SPACE
 α,w,o,y,:,v,‥,𝓂,n,w,·,.
 
-Judges 16:24 in vtrad vtbhs
+Judges 16:24 in vtrad vtsef
 w,_,y,·,i,r,:,α,<,w,·
 SPACE
 α,o,τ,w,o,(p)
@@ -12929,7 +13079,7 @@ h,i,r,:,v,·,a,(ti),h
 SPACE
 α,∵,τ,-,x,:_,l,a,l,‥,𝓂,y,n,w,·,.
 
-Judges 16:25 in vtrad vtbhs
+Judges 16:25 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 SPACE
@@ -12962,7 +13112,7 @@ v,·,‥,(me),y,n.
 SPACE
 h,a,ʕ,_,m,·,w,·,d,i,𝓂,y,m.,.
 
-Judges 16:26 in vtrad vtbhs
+Judges 16:26 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 $,·sh,i,m,:,$,·sh,(ge),w,o,n.
@@ -12992,7 +13142,7 @@ w,:,α,∵,$,·sh,·,a,ʕ,‥,(ti),n.
 SPACE
 ʕ,:_,l,‥,y,h,∵,𝓂,m.,.
 
-Judges 16:27 in vtrad vtbhs
+Judges 16:27 in vtrad vtsef
 w,:,h,_,v,·,_,◆,y,i,τ
 SPACE
 m,a,l,‥,<,α
@@ -13025,7 +13175,7 @@ v,·,i,$,·si,:,x,(me),w,o,q
 SPACE
 $,·sh,i,m,:,$,·sh,𝓂,w,o,n.,.
 
-Judges 16:28 in vtrad vtbhs
+Judges 16:28 in vtrad vtsef
 w,_,y,·,i,q,:,r,a,(me),α
 SPACE
 $,·sh,i,m,:,$,·sh,⟓,w,o,n.
@@ -13064,12 +13214,16 @@ SPACE
 SPACE
 m,i,f,·,:,l,i,$,·sh,:,τ,·,i,𝓂,y,m.,.
 
-Judges 16:29 in vtrad vtbhs
+Judges 16:29 in vtrad vtsef
 w,_,y,·,i,l,:,f,·,o,(qa),τ
 SPACE
 $,·sh,i,m,:,$,·sh,(ge),w,o,n.
 SPACE
 α,∵,τ,-,$,·sh,:,n,‥,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 ʕ,_,m,·,w,·,d,‥,⅃,y
 SPACE
@@ -13095,7 +13249,7 @@ w,:,α,∵,x,a,(me),d
 SPACE
 v,·,i,$,·si,:,m,o,α,l,𝓂,w,o,.
 
-Judges 16:30 in vtrad vtbhs
+Judges 16:30 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 $,·sh,i,m,:,$,·sh,◆,w,o,n.
@@ -13138,7 +13292,7 @@ h,‥,m,i,(ti),y,τ
 SPACE
 v,·,:,x,_,y,·,a,𝓂,y,w,.
 
-Judges 16:31 in vtrad vtbhs
+Judges 16:31 in vtrad vtsef
 w,_,y,·,‥,r,:,d,(qa),w,·
 SPACE
 α,∵,x,a,(ge),y,w
@@ -13152,6 +13306,10 @@ SPACE
 α,o,τ,w,o,∴
 SPACE
 w,_,𝓂,y,·,_,ʕ,:_,l,⅃,w,·
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 w,_,y,·,i,q,:,v,·,:,r,⅃,w,·
 SPACE
@@ -13181,7 +13339,7 @@ SPACE
 SPACE
 $,·sh,a,n,a,𝓂,h,.
 
-Judges 17:1 in vtrad vtbhs
+Judges 17:1 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,-,α,i,(me),y,$,·sh
 SPACE
 m,‥,h,_,r,-,α,∵,f,:,r,a,(ti),y,i,m.
@@ -13190,7 +13348,7 @@ w,·,$,·sh,:,m,(me),w,o
 SPACE
 m,i,y,k,a,𝓂,y,:,h,w,·,.
 
-Judges 17:2 in vtrad vtbhs
+Judges 17:2 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 l,:,α,i,m,·,μ,w,o
@@ -13232,7 +13390,7 @@ v,·,:,n,i,(ti),y
 SPACE
 l,_,y,h,o,w,a,𝓂,h,.
 
-Judges 17:3 in vtrad vtbhs
+Judges 17:3 in vtrad vtsef
 w,_,y,·,a,⟓,$,·sh,∵,v
 SPACE
 α,∵,τ,-,α,∵,l,∵,f.,-,w,·,m,‥,α,a,(me),h
@@ -13269,7 +13427,7 @@ SPACE
 SPACE
 l,a,𝓂,k.,:,.
 
-Judges 17:4 in vtrad vtbhs
+Judges 17:4 in vtrad vtsef
 w,_,y,·,a,(me),$,·sh,∵,v
 SPACE
 α,∵,τ,-,h,_,k,·,∵,(ti),σ,∵,f.
@@ -13300,7 +13458,7 @@ v,·,:,v,‥,(me),y,τ
 SPACE
 m,i,y,k,a,𝓂,y,:,h,w,·,.
 
-Judges 17:5 in vtrad vtbhs
+Judges 17:5 in vtrad vtsef
 w,:,h,a,α,i,⅃,y,$,·sh
 SPACE
 m,i,y,k,a,ƶ,h
@@ -13329,7 +13487,7 @@ w,_,𝓂,y,:,h,i,y,-,l,(ti),w,o
 SPACE
 l,:,k,o,h,‥,𝓂,n.,.
 
-Judges 17:6 in vtrad vtbhs
+Judges 17:6 in vtrad vtsef
 v,·,_,y,·,a,m,i,⅃,y,m.
 SPACE
 h,a,h,‥,ƶ,m.
@@ -13348,7 +13506,7 @@ v,·,:,ʕ,‥,y,n,a,(ti),y,w
 SPACE
 y,_,ʕ,:_,$,·si,∵,𝓂,h,.
 
-Judges 17:7 in vtrad vtbhs
+Judges 17:7 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,-,n,_,◆,ʕ,_,r
 SPACE
 m,i,v,·,‥,(me),y,τ
@@ -13369,7 +13527,7 @@ w,:,h,(me),w,·,α
 SPACE
 g,a,𝓂,r,-,$,·sh,a,𝓂,m.,.
 
-Judges 17:8 in vtrad vtbhs
+Judges 17:8 in vtrad vtsef
 w,_,y,·,‥,(qa),l,∵,k.,:
 SPACE
 h,a,α,i,(ge),y,$,·sh
@@ -13400,7 +13558,7 @@ l,_,ʕ,:_,$,·si,(me),w,o,τ
 SPACE
 d,·,_,r,:,k,·,𝓂,w,o,.
 
-Judges 17:9 in vtrad vtbhs
+Judges 17:9 in vtrad vtsef
 w,_,y,·,o,𝓂,α,m,∵,r,-,l,(me),w,o
 SPACE
 m,i,y,k,a,(ti),h
@@ -13433,7 +13591,7 @@ v,·,_,α,:_,$,·sh,∵,(me),r
 SPACE
 α,∵,m,:,ц,a,𝓂,α,.
 
-Judges 17:10 in vtrad vtbhs
+Judges 17:10 in vtrad vtsef
 w,_,y,·,o,(tq),α,m,∵,r,(tq)
 SPACE
 l,(qa),w,o
@@ -13470,7 +13628,7 @@ w,_,y,·,‥,(ti),l,∵,k.,:
 SPACE
 h,_,l,·,‥,w,i,𝓂,y,.
 
-Judges 17:11 in vtrad vtbhs
+Judges 17:11 in vtrad vtsef
 w,_,y,·,(me),w,o,α,∵,l
 SPACE
 h,_,l,·,‥,w,i,(ti),y
@@ -13489,7 +13647,7 @@ k,·,:,α,_,x,_,(ti),d
 SPACE
 m,i,v,·,a,n,a,𝓂,y,w,.
 
-Judges 17:12 in vtrad vtbhs
+Judges 17:12 in vtrad vtsef
 w,_,y,:,m,_,l,·,‥,<,α
 SPACE
 m,i,y,k,a,h,(p)
@@ -13510,7 +13668,7 @@ v,·,:,v,‥,(me),y,τ
 SPACE
 m,i,y,k,a,𝓂,h,.
 
-Judges 17:13 in vtrad vtbhs
+Judges 17:13 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 m,i,y,k,a,ƶ,h
@@ -13533,7 +13691,7 @@ h,_,l,·,‥,w,i,(ti),y
 SPACE
 l,:,k,o,h,‥,𝓂,n.,.
 
-Judges 18:1 in vtrad vtbhs
+Judges 18:1 in vtrad vtsef
 v,·,_,y,·,a,m,i,⅃,y,m.
 SPACE
 h,a,h,‥,ƶ,m.
@@ -13574,10 +13732,15 @@ y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 v,·,:,n,_,x,:_,l,a,𝓂,h,.
 
-Judges 18:2 in vtrad vtbhs
+Judges 18:2 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,:,x,⅃,w,·
 SPACE
 v,:,n,‥,y,-,d,a,⅃,n.
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 m,i,𝓂,m,·,i,$,·sh,:,f,·,_,x,:,τ,·,a,μ,m.
 SPACE
 x,:_,m,i,$,·sh,·,a,⅃,h
@@ -13622,7 +13785,7 @@ w,_,y,·,a,l,i,(ti),y,n,w,·
 SPACE
 $,·sh,a,𝓂,m.,.
 
-Judges 18:3 in vtrad vtbhs
+Judges 18:3 in vtrad vtsef
 h,‥,(ye),m,·,a,h
 SPACE
 ʕ,i,m.,-,v,·,‥,⅃,y,τ
@@ -13661,7 +13824,7 @@ w,·,m,_,h,-,l,·,:,k.,a,(me)
 SPACE
 f,o,𝓂,h,.
 
-Judges 18:4 in vtrad vtbhs
+Judges 18:4 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 α,:_,l,‥,h,∵,ƶ,m.
@@ -13682,7 +13845,7 @@ w,a,α,:∵,h,i,y,-,l,(ti),w,o
 SPACE
 l,:,k,o,h,‥,𝓂,n.,.
 
-Judges 18:5 in vtrad vtbhs
+Judges 18:5 in vtrad vtsef
 w,_,y,·,o,(me),α,m,:,r,w,·
 SPACE
 l,(ti),w,o
@@ -13705,7 +13868,7 @@ h,o,l,:,k,i,(me),y,m.
 SPACE
 ʕ,a,l,∵,𝓂,y,h,a,.
 
-Judges 18:6 in vtrad vtbhs
+Judges 18:6 in vtrad vtsef
 w,_,y,·,o,(da),α,m,∵,r
 SPACE
 l,a,h,∵,⟓,m.
@@ -13726,7 +13889,7 @@ SPACE
 SPACE
 τ,·,‥,l,:,k,w,·,-,v,a,𝓂,h,·,.
 
-Judges 18:7 in vtrad vtbhs
+Judges 18:7 in vtrad vtsef
 w,_,y,·,‥,𝓂,l,:,k,w,·,(p)
 SPACE
 x,:_,m,‥,⅃,$,·sh,∵,τ
@@ -13750,6 +13913,10 @@ SPACE
 ц,i,d,o,n,i,(ge),y,m.
 SPACE
 $,·sh,o,q,‥,⅃,θ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 w,·,v,o,θ,‥,◆,x,_
 SPACE
@@ -13775,7 +13942,7 @@ SPACE
 SPACE
 ʕ,i,m.,-,α,a,d,a,𝓂,m.,.
 
-Judges 18:8 in vtrad vtbhs
+Judges 18:8 in vtrad vtsef
 w,_,y,·,a,v,o,(p),α,w,·,(p)
 SPACE
 α,∵,l,-,α,:_,x,‥,y,h,∵,ƶ,m.
@@ -13794,7 +13961,7 @@ m,a,(me),h
 SPACE
 α,_,τ,·,∵,𝓂,m.,.
 
-Judges 18:9 in vtrad vtbhs
+Judges 18:9 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,◆,w,·
 SPACE
 q,(ye),w,·,m,a,h
@@ -13829,10 +13996,14 @@ l,a,r,∵,(me),$,·sh,∵,τ
 SPACE
 α,∵,τ,-,h,a,α,a,𝓂,r,∵,ц.,.
 
-Judges 18:10 in vtrad vtbhs
+Judges 18:10 in vtrad vtsef
 k,·,:,v,o,α,:_,k,∵,(G),m.
 SPACE
 τ,·,a,v,o,⅃,α,w,·
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,∵,l,-,ʕ,_,⅃,m.
 SPACE
@@ -13864,7 +14035,7 @@ SPACE
 SPACE
 v,·,a,α,a,𝓂,r,∵,ц.,.
 
-Judges 18:11 in vtrad vtbhs
+Judges 18:11 in vtrad vtsef
 w,_,y,·,i,σ,:,ʕ,<,w,·
 SPACE
 m,i,$,·sh,·,a,m.,(p)
@@ -13887,7 +14058,7 @@ k,·,:,l,‥,(me),y
 SPACE
 m,i,l,:,x,a,m,a,𝓂,h,.
 
-Judges 18:12 in vtrad vtbhs
+Judges 18:12 in vtrad vtsef
 w,_,𝓂,y,·,_,ʕ,:_,l,◆,w,·
 SPACE
 w,_,𝓂,y,·,_,x,:_,n,⟓,w,·
@@ -13922,7 +14093,7 @@ q,i,r,:,y,_,(me),τ
 SPACE
 y,:,ʕ,a,r,i,𝓂,y,m.,.
 
-Judges 18:13 in vtrad vtbhs
+Judges 18:13 in vtrad vtsef
 w,_,y,·,_,ʕ,_,v,:,r,(me),w,·
 SPACE
 m,i,$,·sh,·,a,(ti),m.
@@ -13935,7 +14106,7 @@ SPACE
 SPACE
 m,i,y,k,a,𝓂,h,.
 
-Judges 18:14 in vtrad vtbhs
+Judges 18:14 in vtrad vtsef
 w,_,𝓂,y,·,_,ʕ,:_,n,(G),w,·
 SPACE
 x,:_,m,‥,⅃,$,·sh,∵,τ
@@ -13978,7 +14149,7 @@ d,·,:,ʕ,(me),w,·
 SPACE
 m,_,𝓂,h,-,τ,·,_,ʕ,:_,$,·si,𝓂,w,·,.
 
-Judges 18:15 in vtrad vtbhs
+Judges 18:15 in vtrad vtsef
 w,_,y,·,a,σ,⅃,w,·,r,w,·
 SPACE
 $,·sh,a,ƶ,m,·,a,h
@@ -13997,7 +14168,7 @@ w,_,y,·,i,$,·sh,:,α,:_,l,w,·,-,l,(ti),w,o
 SPACE
 l,:,$,·sh,a,l,𝓂,w,o,m.,.
 
-Judges 18:16 in vtrad vtbhs
+Judges 18:16 in vtrad vtsef
 w,:,$,·sh,‥,$,·sh,-,m,‥,α,⅃,w,o,τ
 SPACE
 α,i,◆,y,$,·sh
@@ -14018,7 +14189,7 @@ SPACE
 SPACE
 m,i,v,·,:,n,‥,y,-,d,a,𝓂,n.,.
 
-Judges 18:17 in vtrad vtbhs
+Judges 18:17 in vtrad vtsef
 w,_,𝓂,y,·,_,ʕ,:_,l,(G),w,·
 SPACE
 x,:_,m,‥,⅃,$,·sh,∵,τ
@@ -14063,7 +14234,7 @@ k,·,:,l,‥,(me),y
 SPACE
 h,_,m,·,i,l,:,x,a,m,a,𝓂,h,.
 
-Judges 18:18 in vtrad vtbhs
+Judges 18:18 in vtrad vtsef
 w,:,α,‥,◆,l,·,∵,h
 SPACE
 v,·,a,(ye),α,w,·
@@ -14094,7 +14265,7 @@ SPACE
 SPACE
 ʕ,o,$,·si,i,𝓂,y,m.,.
 
-Judges 18:19 in vtrad vtbhs
+Judges 18:19 in vtrad vtsef
 w,_,y,·,o,(tq),α,m,:,r,w,·,(tq)
 SPACE
 l,(qa),w,o
@@ -14116,6 +14287,10 @@ SPACE
 w,·,l,:,k,o,h,‥,⅄,n.
 SPACE
 h,:_,θ,⅃,w,o,v
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 h,:∵,y,w,o,τ,:,k.,a,⅃
 SPACE
@@ -14139,7 +14314,7 @@ w,·,l,:,m,i,$,·sh,:,f,·,a,x,a,(ti),h
 SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 18:20 in vtrad vtbhs
+Judges 18:20 in vtrad vtsef
 w,_,y,·,i,y,θ,_,v,(p)
 SPACE
 l,‥,⅃,v
@@ -14160,7 +14335,7 @@ v,·,:,q,∵,(me),r,∵,v
 SPACE
 h,a,ʕ,a,𝓂,m.,.
 
-Judges 18:21 in vtrad vtbhs
+Judges 18:21 in vtrad vtsef
 w,_,y,·,i,f,:,n,(ti),w,·
 SPACE
 w,_,y,·,‥,l,‥,⅄,k,w,·
@@ -14175,7 +14350,7 @@ w,:,α,∵,τ,-,h,_,k,·,:,v,w,·,d,·,a,(ti),h
 SPACE
 l,i,f,:,n,‥,y,h,∵,𝓂,m.,.
 
-Judges 18:22 in vtrad vtbhs
+Judges 18:22 in vtrad vtsef
 h,‥,(me),m,·,a,h
 SPACE
 h,i,r,:,x,i,(ti),y,q,w,·
@@ -14202,7 +14377,7 @@ w,_,y,·,_,d,:,v,·,i,(ti),y,q,w,·
 SPACE
 α,∵,τ,-,v,·,:,n,‥,y,-,d,a,𝓂,n.,.
 
-Judges 18:23 in vtrad vtbhs
+Judges 18:23 in vtrad vtsef
 w,_,𝓂,y,·,i,q,:,r,:,α,w,·,(p)
 SPACE
 α,∵,l,-,v,·,:,n,‥,y,-,d,a,ƶ,n.
@@ -14221,7 +14396,7 @@ k,·,i,(me),y
 SPACE
 n,i,z,:,ʕ,a,𝓂,q,:,τ,·,a,.
 
-Judges 18:24 in vtrad vtbhs
+Judges 18:24 in vtrad vtsef
 w,_,y,·,o,μ,α,m,∵,r
 SPACE
 α,∵,τ,-,α,:∵,l,o,h,_,y,(tq)
@@ -14246,7 +14421,7 @@ SPACE
 SPACE
 m,_,h,-,l,·,a,𝓂,k.,:,.
 
-Judges 18:25 in vtrad vtbhs
+Judges 18:25 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,<,w,·
 SPACE
 α,‥,l,a,y,w,(p)
@@ -14277,7 +14452,7 @@ w,:,n,∵,(me),f,∵,$,·sh
 SPACE
 v,·,‥,y,τ,∵,𝓂,k.,a,.
 
-Judges 18:26 in vtrad vtbhs
+Judges 18:26 in vtrad vtsef
 w,_,y,·,‥,l,:,k,(me),w,·
 SPACE
 v,:,n,‥,y,-,d,a,(ti),n.
@@ -14300,7 +14475,7 @@ w,_,y,·,a,(me),$,·sh,oa,v
 SPACE
 α,∵,l,-,v,·,‥,y,τ,𝓂,w,o,.
 
-Judges 18:27 in vtrad vtbhs
+Judges 18:27 in vtrad vtsef
 w,:,h,‥,(qa),m,·,a,h
 SPACE
 l,a,q,:,x,(ge),w,·
@@ -14339,7 +14514,7 @@ $,·si,a,r,:,f,(me),w,·
 SPACE
 v,a,α,‥,𝓂,$,·sh,.
 
-Judges 18:28 in vtrad vtbhs
+Judges 18:28 in vtrad vtsef
 w,:,α,‥,(qa),y,n.
 SPACE
 m,_,ц,·,i,(ge),y,l
@@ -14372,7 +14547,7 @@ w,_,y,·,‥,(me),$,·sh,:,v,w,·
 SPACE
 v,a,𝓂,h,·,.
 
-Judges 18:29 in vtrad vtbhs
+Judges 18:29 in vtrad vtsef
 w,_,y,·,i,q,:,r,:,α,<,w,·
 SPACE
 $,·sh,‥,m.,-,h,a,ʕ,i,y,r,(p)
@@ -14399,7 +14574,7 @@ $,·sh,‥,m.,-,h,a,ʕ,i,(ti),y,r
 SPACE
 l,a,r,i,α,$,·sh,o,n,a,𝓂,h,.
 
-Judges 18:30 in vtrad vtbhs
+Judges 18:30 in vtrad vtsef
 w,_,y,·,a,q,i,(da),y,m,w,·
 SPACE
 l,a,h,∵,⟓,m.
@@ -14434,7 +14609,7 @@ g,·,:,l,(me),w,o,τ
 SPACE
 h,a,α,a,𝓂,r,∵,ц.,.
 
-Judges 18:31 in vtrad vtbhs
+Judges 18:31 in vtrad vtsef
 w,_,y,·,a,$,·si,i,⅃,y,m,w,·
 SPACE
 l,a,h,∵,ƶ,m.
@@ -14455,7 +14630,7 @@ v,·,‥,y,τ,-,h,a,α,:∵,l,o,h,i,(ti),y,m.
 SPACE
 v,·,:,$,·sh,i,l,o,𝓂,h,.
 
-Judges 19:1 in vtrad vtbhs
+Judges 19:1 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 v,·,_,y,·,a,m,i,⅃,y,m.
@@ -14469,6 +14644,10 @@ SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,⅄,l
 SPACE
 w,_,y,:,h,i,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,i,⅃,y,$,·sh
 SPACE
@@ -14492,7 +14671,7 @@ l,∵,(ti),x,∵,m.
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-Judges 19:2 in vtrad vtbhs
+Judges 19:2 in vtrad vtsef
 w,_,τ,·,i,z,:,n,∵,<,h
 SPACE
 ʕ,a,l,a,y,w,(p)
@@ -14521,7 +14700,7 @@ SPACE
 SPACE
 x,:a,d,a,$,·sh,i,𝓂,y,m.,.
 
-Judges 19:3 in vtrad vtbhs
+Judges 19:3 in vtrad vtsef
 w,_,y,·,a,(qa),q,oa,m.
 SPACE
 α,i,y,$,·sh,a,(ge),h,·
@@ -14559,7 +14738,7 @@ w,_,y,·,i,$,·si,:,m,_,(ti),x
 SPACE
 l,i,q,:,r,a,α,τ,𝓂,w,o,.
 
-Judges 19:4 in vtrad vtbhs
+Judges 19:4 in vtrad vtsef
 w,_,y,·,_,x,:_,z,∵,q,-,v,·,<,w,o
 SPACE
 x,o,τ,:,n,w,o,(p)
@@ -14584,7 +14763,7 @@ w,_,y,·,a,l,i,(ti),y,n,w,·
 SPACE
 $,·sh,a,𝓂,m.,.
 
-Judges 19:5 in vtrad vtbhs
+Judges 19:5 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 v,·,_,y,·,⅃,w,o,m.
@@ -14617,7 +14796,7 @@ w,:,α,_,x,_,(me),r
 SPACE
 τ,·,‥,l,‥,𝓂,k,w,·,.
 
-Judges 19:6 in vtrad vtbhs
+Judges 19:6 in vtrad vtsef
 w,_,y,·,‥,$,·sh,:,v,◆,w,·
 SPACE
 w,_,y,·,o,α,k,:,l,(da),w,·
@@ -14644,7 +14823,7 @@ w,:,y,i,y,θ,_,(me),v
 SPACE
 l,i,v,·,∵,𝓂,k.,a,.
 
-Judges 19:7 in vtrad vtbhs
+Judges 19:7 in vtrad vtsef
 w,_,y,·,a,(me),q,oa,m.
 SPACE
 h,a,α,i,(ti),y,$,·sh
@@ -14661,7 +14840,7 @@ w,_,y,·,a,(me),l,∵,n.
 SPACE
 $,·sh,a,𝓂,m.,.
 
-Judges 19:8 in vtrad vtbhs
+Judges 19:8 in vtrad vtsef
 w,_,y,·,_,$,·sh,:,k,·,‥,(qa),m.
 SPACE
 v,·,_,v,·,o,(ge),q,∵,r
@@ -14673,6 +14852,10 @@ SPACE
 l,a,l,∵,∴,k,∵,τ,∴
 SPACE
 w,_,y,·,o,⅃,α,m,∵,r
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,:_,v,i,⅃,y
 SPACE
@@ -14692,7 +14875,7 @@ w,_,y,·,o,α,k,:,l,(ti),w,·
 SPACE
 $,·sh,:,n,‥,y,h,∵,𝓂,m.,.
 
-Judges 19:9 in vtrad vtbhs
+Judges 19:9 in vtrad vtsef
 w,_,y,·,a,<,q,oa,m.
 SPACE
 h,a,α,i,y,$,·sh,(p)
@@ -14751,7 +14934,7 @@ w,:,h,a,l,_,k,:,τ,·,a,(ti)
 SPACE
 l,:,α,o,h,a,l,∵,𝓂,k.,a,.
 
-Judges 19:10 in vtrad vtbhs
+Judges 19:10 in vtrad vtsef
 w,:,l,o,𝓂,α,-,α,a,v,a,<,h
 SPACE
 h,a,α,i,y,$,·sh,(p)
@@ -14784,7 +14967,7 @@ w,·,f,i,y,l,_,g,:,$,·sh,(ti),w,o
 SPACE
 ʕ,i,m,·,𝓂,w,o,.
 
-Judges 19:11 in vtrad vtbhs
+Judges 19:11 in vtrad vtsef
 h,‥,⅃,m.
 SPACE
 ʕ,i,m.,-,y,:,v,ƶ,w,·,σ
@@ -14813,7 +14996,7 @@ w,:,n,a,l,i,(me),y,n.
 SPACE
 v,·,a,𝓂,h,·,.
 
-Judges 19:12 in vtrad vtbhs
+Judges 19:12 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 α,‥,l,a,y,w,(p)
@@ -14840,7 +15023,7 @@ w,:,ʕ,a,v,_,(ti),r,:,n,w,·
 SPACE
 ʕ,_,d,-,g,·,i,v,:,ʕ,a,𝓂,h,.
 
-Judges 19:13 in vtrad vtbhs
+Judges 19:13 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 l,:,n,_,𝓂,ʕ,:_,r,ƶ,w,o
@@ -14861,7 +15044,7 @@ SPACE
 SPACE
 v,a,r,a,m,a,𝓂,h,.
 
-Judges 19:14 in vtrad vtbhs
+Judges 19:14 in vtrad vtsef
 w,_,y,·,_,ʕ,_,v,:,r,(ti),w,·
 SPACE
 w,_,y,·,‥,l,‥,⅄,k,w,·
@@ -14880,7 +15063,7 @@ SPACE
 SPACE
 l,:,v,i,n,:,y,a,m,i,𝓂,n.,.
 
-Judges 19:15 in vtrad vtbhs
+Judges 19:15 in vtrad vtsef
 w,_,y,·,a,σ,u,⅃,r,w,·
 SPACE
 $,·sh,a,ƶ,m.
@@ -14909,8 +15092,12 @@ h,_,v,·,_,(ti),y,:,τ,a,h
 SPACE
 l,a,l,𝓂,w,·,n.,.
 
-Judges 19:16 in vtrad vtbhs
+Judges 19:16 in vtrad vtsef
 w,:,h,i,n,·,‥,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,i,⅃,y,$,·sh
 SPACE
@@ -14942,7 +15129,7 @@ v,·,:,n,‥,(me),y
 SPACE
 y,:,m,i,y,n,i,𝓂,y,.
 
-Judges 19:17 in vtrad vtbhs
+Judges 19:17 in vtrad vtsef
 w,_,y,·,i,$,·si,·,a,⅃,α
 SPACE
 ʕ,‥,y,n,a,◆,y,w
@@ -14971,7 +15158,7 @@ w,·,m,‥,α,_,(me),y,i,n.
 SPACE
 τ,·,a,v,𝓂,w,o,α,.
 
-Judges 19:18 in vtrad vtbhs
+Judges 19:18 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 α,‥,l,a,◆,y,w
@@ -15018,7 +15205,7 @@ SPACE
 SPACE
 h,_,v,·,a,𝓂,y,:,τ,a,h,.
 
-Judges 19:19 in vtrad vtbhs
+Judges 19:19 in vtrad vtsef
 w,:,g,_,m.,-,τ,·,∵,<,v,∵,n.
 SPACE
 g,·,_,m.,-,m,i,σ,:,f,·,w,o,α,(p)
@@ -15047,7 +15234,7 @@ m,_,x,:,σ,(ti),w,o,r
 SPACE
 k,·,oa,l,-,d,·,a,v,a,𝓂,r,.
 
-Judges 19:20 in vtrad vtbhs
+Judges 19:20 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 h,a,α,i,<,y,$,·sh
@@ -15070,7 +15257,7 @@ v,·,a,r,:,x,(ti),w,o,v
 SPACE
 α,_,l,-,τ,·,a,l,_,𝓂,n.,.
 
-Judges 19:21 in vtrad vtbhs
+Judges 19:21 in vtrad vtsef
 w,_,y,:,v,i,y,α,‥,⅃,h,w,·
 SPACE
 l,:,v,‥,y,τ,ƶ,w,o
@@ -15086,7 +15273,7 @@ w,_,y,·,o,α,k,:,l,(ti),w,·
 SPACE
 w,_,y,·,i,$,·sh,:,τ,·,𝓂,w,·,.
 
-Judges 19:22 in vtrad vtbhs
+Judges 19:22 in vtrad vtsef
 h,‥,≁,m,·,a,h,~
 SPACE
 m,‥,y,θ,i,y,v,i,⅃,y,m.
@@ -15133,7 +15320,7 @@ SPACE
 SPACE
 w,:,n,‥,d,a,ʕ,∵,𝓂,n,·,w,·,.
 
-Judges 19:23 in vtrad vtbhs
+Judges 19:23 in vtrad vtsef
 w,_,y,·,‥,ц,‥,⅃,α
 SPACE
 α,:_,l,‥,y,h,∵,◆,m.
@@ -15170,7 +15357,7 @@ SPACE
 SPACE
 h,_,z,·,o,𝓂,α,τ,.
 
-Judges 19:24 in vtrad vtbhs
+Judges 19:24 in vtrad vtsef
 h,i,n,·,‥,h,(tq)
 SPACE
 v,i,τ,·,i,(qa),y
@@ -15209,7 +15396,7 @@ h,_,n,·,:,v,a,l,a,(me),h
 SPACE
 h,_,z,·,o,𝓂,α,τ,.
 
-Judges 19:25 in vtrad vtbhs
+Judges 19:25 in vtrad vtsef
 w,:,l,o,𝓂,α,-,α,a,v,<,w,·
 SPACE
 h,a,𝓂,α,:_,n,a,$,·sh,i,y,m.,(p)
@@ -15245,7 +15432,7 @@ SPACE
 SPACE
 h,_,$,·sh,·,a,𝓂,x,_,r,.
 
-Judges 19:26 in vtrad vtbhs
+Judges 19:26 in vtrad vtsef
 w,_,τ,·,a,v,o,(me),α
 SPACE
 h,a,α,i,$,·sh,·,a,(ti),h
@@ -15266,7 +15453,7 @@ $,·sh,·,a,(ti),m.
 SPACE
 ʕ,_,d,-,h,a,α,𝓂,w,o,r,.
 
-Judges 19:27 in vtrad vtbhs
+Judges 19:27 in vtrad vtsef
 w,_,y,·,a,(qa),q,oa,m.
 SPACE
 α,:_,d,o,n,∵,(ge),y,h,a
@@ -15301,7 +15488,7 @@ w,:,y,a,d,∵,(ti),y,h,a
 SPACE
 ʕ,_,l,-,h,_,σ,·,_,𝓂,f.,.
 
-Judges 19:28 in vtrad vtbhs
+Judges 19:28 in vtrad vtsef
 w,_,y,·,o,(da),α,m,∵,r
 SPACE
 α,‥,l,∵,⟓,y,h,a
@@ -15326,7 +15513,7 @@ w,_,y,·,‥,(ti),l,∵,k.,:
 SPACE
 l,i,m,:,q,o,m,𝓂,w,o,.
 
-Judges 19:29 in vtrad vtbhs
+Judges 19:29 in vtrad vtsef
 w,_,y,·,a,v,o,⅃,α
 SPACE
 α,∵,l,-,v,·,‥,y,τ,◆,w,o
@@ -15357,7 +15544,7 @@ g,·,:,v,(me),w,·,l
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 19:30 in vtrad vtbhs
+Judges 19:30 in vtrad vtsef
 w,:,h,a,y,a,⅃,h
 SPACE
 k,oa,l,-,h,a,r,o,α,∵,◆,h
@@ -15394,7 +15581,7 @@ SPACE
 SPACE
 w,:,d,_,v,·,‥,𝓂,r,w,·,.
 
-Judges 20:1 in vtrad vtbhs
+Judges 20:1 in vtrad vtsef
 w,_,y,·,‥,ц,:,α,w,·,~
 SPACE
 k,·,oa,l,-,v,·,:,n,‥,⅃,y
@@ -15423,7 +15610,7 @@ SPACE
 SPACE
 h,_,m,·,i,ц,:,f,·,a,𝓂,h,.
 
-Judges 20:2 in vtrad vtbhs
+Judges 20:2 in vtrad vtsef
 w,_,y,·,i,𝓂,τ,:,y,_,ц,·,:,v,(G),w,·
 SPACE
 f,·,i,n,·,⅃,w,o,τ
@@ -15454,7 +15641,7 @@ r,_,g,:,l,i,(ti),y
 SPACE
 $,·sh,o,(me),l,‥,𝓂,f.,-,x,a,𝓂,r,∵,v,.
 
-Judges 20:3 in vtrad vtbhs
+Judges 20:3 in vtrad vtsef
 w,_,𝓂,y,·,i,$,·sh,:,m,:,ʕ,w,·,(p)
 SPACE
 v,·,:,n,‥,⅃,y
@@ -15483,7 +15670,7 @@ h,a,r,a,ʕ,a,(me),h
 SPACE
 h,_,z,·,o,𝓂,α,τ,.
 
-Judges 20:4 in vtrad vtbhs
+Judges 20:4 in vtrad vtsef
 w,_,y,·,_,(ge),ʕ,_,n.
 SPACE
 h,a,α,i,⅃,y,$,·sh
@@ -15512,7 +15699,7 @@ w,·,f,i,y,l,_,g,:,$,·sh,i,(ti),y
 SPACE
 l,a,l,𝓂,w,·,n.,.
 
-Judges 20:5 in vtrad vtbhs
+Judges 20:5 in vtrad vtsef
 w,_,y,·,a,q,u,<,m,w,·
 SPACE
 ʕ,a,l,_,y,(p)
@@ -15541,7 +15728,7 @@ SPACE
 SPACE
 w,_,τ,·,a,m,o,𝓂,τ,.
 
-Judges 20:6 in vtrad vtbhs
+Judges 20:6 in vtrad vtsef
 w,a,α,o,x,‥,<,z
 SPACE
 v,·,:,f,i,𝓂,y,l,_,g,:,$,·sh,i,y,(p)
@@ -15566,7 +15753,7 @@ w,·,n,:,v,a,l,a,(ti),h
 SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 20:7 in vtrad vtbhs
+Judges 20:7 in vtrad vtsef
 h,i,n,·,‥,(me),h
 SPACE
 k,u,l,·,:,k,∵,(ti),m.
@@ -15585,7 +15772,7 @@ w,:,ʕ,‥,ц,a,(ti),h
 SPACE
 h,:_,l,o,𝓂,m.,.
 
-Judges 20:8 in vtrad vtbhs
+Judges 20:8 in vtrad vtsef
 w,_,y,·,a,(p),q,oa,m.,(p)
 SPACE
 k,·,oa,l,-,h,a,ʕ,a,ƶ,m.
@@ -15612,7 +15799,7 @@ SPACE
 SPACE
 l,:,v,‥,y,τ,𝓂,w,o,.
 
-Judges 20:9 in vtrad vtbhs
+Judges 20:9 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,Ƶ,h
 SPACE
 z,∵,⅃,h
@@ -15629,7 +15816,7 @@ SPACE
 SPACE
 v,·,:,g,w,o,r,a,𝓂,l,.
 
-Judges 20:10 in vtrad vtbhs
+Judges 20:10 in vtrad vtsef
 w,:,l,a,q,_,⅃,x,:,n,w,·
 SPACE
 ʕ,:_,$,·si,a,r,a,h,(tq)
@@ -15639,6 +15826,10 @@ SPACE
 l,_,m,·,‥,α,a,(ge),h
 SPACE
 l,:,k,o,⅃,l
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 $,·sh,i,v,:,θ,‥,⅃,y
 SPACE
@@ -15674,7 +15865,7 @@ SPACE
 SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 20:11 in vtrad vtbhs
+Judges 20:11 in vtrad vtsef
 w,_,y,·,‥,α,a,σ,‥,(G),f.
 SPACE
 k,·,oa,l,-,α,i,<,y,$,·sh
@@ -15689,7 +15880,7 @@ SPACE
 SPACE
 x,:_,v,‥,r,i,𝓂,y,m.,.
 
-Judges 20:12 in vtrad vtbhs
+Judges 20:12 in vtrad vtsef
 w,_,𝓂,y,·,i,$,·sh,:,l,:,x,(G),w,·
 SPACE
 $,·sh,i,v,:,θ,‥,<,y
@@ -15716,7 +15907,7 @@ n,i,h,:,y,:,τ,a,(ti),h
 SPACE
 v,·,a,k,∵,𝓂,m.,.
 
-Judges 20:13 in vtrad vtbhs
+Judges 20:13 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,μ,h
 SPACE
 τ,·,:,n,w,·,(tq)
@@ -15752,7 +15943,7 @@ SPACE
 SPACE
 v,·,:,n,‥,𝓂,y,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 20:14 in vtrad vtbhs
+Judges 20:14 in vtrad vtsef
 w,_,y,·,‥,α,a,𝓂,σ,:,f,(da),w,·
 SPACE
 v,:,n,‥,𝓂,y,-,v,i,n,:,y,a,m,i,⟓,n.
@@ -15769,7 +15960,7 @@ SPACE
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 20:15 in vtrad vtbhs
+Judges 20:15 in vtrad vtsef
 w,_,y,·,i,τ,:,f,·,a,𝓂,q,:,d,w,·,(tq)
 SPACE
 v,:,n,‥,(qa),y
@@ -15810,8 +16001,12 @@ SPACE
 SPACE
 v,·,a,x,𝓂,w,·,r,.
 
-Judges 20:16 in vtrad vtbhs
+Judges 20:16 in vtrad vtsef
 m,i,k,·,o,⅃,l
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 h,a,ʕ,a,⅃,m.
 SPACE
@@ -15841,7 +16036,7 @@ w,:,l,o,(me),α
 SPACE
 y,_,x,:_,θ,i,𝓂,α,.
 
-Judges 20:17 in vtrad vtbhs
+Judges 20:17 in vtrad vtsef
 w,:,α,i,(qa),y,$,·sh
 SPACE
 y,i,$,·si,:,r,a,α,‥,(ge),l
@@ -15870,7 +16065,7 @@ SPACE
 SPACE
 m,i,l,:,x,a,m,a,𝓂,h,.
 
-Judges 20:18 in vtrad vtbhs
+Judges 20:18 in vtrad vtsef
 w,_,y,·,a,q,u,(ge),m,w,·
 SPACE
 w,_,y,·,_,ʕ,:_,l,⅃,w,·
@@ -15907,7 +16102,7 @@ y,:,h,w,·,d,a,(me),h
 SPACE
 v,_,τ,·,:,x,i,l,·,a,𝓂,h,.
 
-Judges 20:19 in vtrad vtbhs
+Judges 20:19 in vtrad vtsef
 w,_,y,·,a,q,(me),w,·,m,w,·
 SPACE
 v,:,n,‥,𝓂,y,-,y,i,$,·si,:,r,a,α,‥,(ti),l
@@ -15918,7 +16113,7 @@ w,_,𝓂,y,·,_,x,:_,n,(ti),w,·
 SPACE
 ʕ,_,l,-,h,_,g,·,i,v,:,ʕ,a,𝓂,h,.
 
-Judges 20:20 in vtrad vtbhs
+Judges 20:20 in vtrad vtsef
 w,_,y,·,‥,ц,‥,α,(p)
 SPACE
 α,i,⅃,y,$,·sh
@@ -15939,7 +16134,7 @@ m,i,l,:,x,a,m,a,(ti),h
 SPACE
 α,∵,l,-,h,_,g,·,i,v,:,ʕ,a,𝓂,h,.
 
-Judges 20:21 in vtrad vtbhs
+Judges 20:21 in vtrad vtsef
 w,_,y,·,‥,ц,:,α,(me),w,·
 SPACE
 v,:,n,‥,y,-,v,i,n,:,y,a,m,i,(ti),n.
@@ -15964,7 +16159,7 @@ SPACE
 SPACE
 α,a,𝓂,r,:,ц,a,h,.
 
-Judges 20:22 in vtrad vtbhs
+Judges 20:22 in vtrad vtsef
 w,_,y,·,i,τ,:,x,_,z,·,‥,(me),q
 SPACE
 h,a,ʕ,a,(ti),m.
@@ -15989,7 +16184,7 @@ v,·,_,y,·,(me),w,o,m.
 SPACE
 h,a,r,i,α,$,·sh,𝓂,w,o,n.,.
 
-Judges 20:23 in vtrad vtbhs
+Judges 20:23 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,l,⅃,w,·
 SPACE
 v,:,n,‥,𝓂,y,-,y,i,$,·si,:,r,a,α,‥,◆,l
@@ -16026,7 +16221,7 @@ SPACE
 SPACE
 α,‥,l,a,𝓂,y,w,.
 
-Judges 20:24 in vtrad vtbhs
+Judges 20:24 in vtrad vtsef
 w,_,y,·,i,q,:,r,:,v,(da),w,·
 SPACE
 v,:,n,‥,𝓂,y,-,y,i,$,·si,:,r,a,α,‥,⟓,l
@@ -16039,11 +16234,21 @@ v,·,_,y,·,(me),w,o,m.
 SPACE
 h,_,$,·sh,·,‥,n,i,𝓂,y,.
 
-Judges 20:25 in vtrad vtbhs
+Judges 20:25 in vtrad vtsef
 w,_,y,·,‥,ц,‥,α,(tq)
 SPACE
 v,i,n,:,y,a,m,i,(qa),n.
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 l,i,q,:,r,a,α,τ,a,(me),m.
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 m,i,𝓂,n.,-,h,_,g,·,i,v,:,ʕ,a,h,~
 SPACE
 v,·,_,y,·,⅃,w,o,m.
@@ -16074,7 +16279,7 @@ $,·sh,o,(me),l,:,f,‥,y
 SPACE
 x,a,𝓂,r,∵,v,.
 
-Judges 20:26 in vtrad vtbhs
+Judges 20:26 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,l,⅃,w,·
 SPACE
 k,oa,l,-,v,·,:,n,‥,y,(tq)
@@ -16113,7 +16318,7 @@ l,i,f,:,n,‥,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-Judges 20:27 in vtrad vtbhs
+Judges 20:27 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,α,:_,l,(me),w,·
 SPACE
 v,:,n,‥,y,-,y,i,$,·si,:,r,a,α,‥,(ti),l
@@ -16132,7 +16337,7 @@ v,·,_,y,·,a,m,i,(ti),y,m.
 SPACE
 h,a,h,‥,𝓂,m.,.
 
-Judges 20:28 in vtrad vtbhs
+Judges 20:28 in vtrad vtsef
 w,·,⌕,f,i,𝓂,y,n,:,x,a,⌕,σ
 SPACE
 v,·,∵,n.,-,α,∵,l,:,ʕ,a,z,a,(qa),r
@@ -16140,6 +16345,10 @@ SPACE
 v,·,∵,𝓂,n.,-,α,_,h,:_,r,o,(ge),n.
 SPACE
 ʕ,o,m,‥,⅃,d
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 l,:,f,a,n,a,◆,y,w
 SPACE
@@ -16177,7 +16386,7 @@ SPACE
 SPACE
 v,:,y,a,d,∵,𝓂,k.,a,.
 
-Judges 20:29 in vtrad vtbhs
+Judges 20:29 in vtrad vtsef
 w,_,y,·,a,<,$,·si,∵,m.
 SPACE
 y,i,$,·si,:,r,a,α,‥,l,(p)
@@ -16188,7 +16397,7 @@ SPACE
 SPACE
 σ,a,v,i,𝓂,y,v,.
 
-Judges 20:30 in vtrad vtbhs
+Judges 20:30 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,l,(da),w,·
 SPACE
 v,:,n,‥,𝓂,y,-,y,i,$,·si,:,r,a,α,‥,⟓,l
@@ -16209,7 +16418,7 @@ k,·,:,f,_,(me),ʕ,_,m.
 SPACE
 v,·,:,f,a,𝓂,ʕ,_,m.,.
 
-Judges 20:31 in vtrad vtbhs
+Judges 20:31 in vtrad vtsef
 w,_,y,·,‥,ц,:,α,<,w,·
 SPACE
 v,:,n,‥,𝓂,y,-,v,i,n,:,y,a,m,i,n.,(p)
@@ -16231,6 +16440,10 @@ SPACE
 x,:_,l,a,l,i,(ge),y,m.
 SPACE
 k,·,:,f,_,⅃,ʕ,_,m.
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 v,·,:,f,_,◆,ʕ,_,m.
 SPACE
@@ -16256,7 +16469,7 @@ SPACE
 SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 20:32 in vtrad vtbhs
+Judges 20:32 in vtrad vtsef
 w,_,y,·,o,𝓂,α,m,:,r,w,·,(p)
 SPACE
 v,·,:,n,‥,⅃,y
@@ -16285,8 +16498,12 @@ m,i,n.,-,h,a,ʕ,i,(ti),y,r
 SPACE
 α,∵,l,-,h,_,𝓂,m,:,σ,i,l,·,𝓂,w,o,τ,.
 
-Judges 20:33 in vtrad vtbhs
+Judges 20:33 in vtrad vtsef
 w,:,k,o,⅃,l
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,i,⅃,y,$,·sh
 SPACE
@@ -16314,7 +16531,7 @@ m,i,m,·,_,(me),ʕ,:_,r,‥,h
 SPACE
 g,a,𝓂,v,_,ʕ,.
 
-Judges 20:34 in vtrad vtbhs
+Judges 20:34 in vtrad vtsef
 w,_,y,·,a,v,o,(tq),α,w,·,(tq)
 SPACE
 m,i,n,·,∵,(qa),g,∵,d
@@ -16347,10 +16564,15 @@ SPACE
 SPACE
 h,a,r,a,ʕ,a,𝓂,h,.
 
-Judges 20:35 in vtrad vtbhs
+Judges 20:35 in vtrad vtsef
 w,_,y,·,i,g,·,o,(qa),f.
 SPACE
 y,:,h,o,w,a,(me),h
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 α,∵,𝓂,τ,-,v,·,i,n,:,y,a,m,i,n.,~
 SPACE
 l,i,f,:,n,‥,⅃,y
@@ -16383,7 +16605,7 @@ k,·,oa,l,-,α,‥,(ti),l,·,∵,h
 SPACE
 $,·sh,o,(me),l,‥,𝓂,f.,-,x,a,𝓂,r,∵,v,.
 
-Judges 20:36 in vtrad vtbhs
+Judges 20:36 in vtrad vtsef
 w,_,y,·,i,r,:,α,(me),w,·
 SPACE
 v,:,n,‥,𝓂,y,-,v,i,n,:,y,a,m,i,(ti),n.
@@ -16410,7 +16632,7 @@ SPACE
 SPACE
 α,∵,l,-,h,_,g,·,i,v,:,ʕ,a,𝓂,h,.
 
-Judges 20:37 in vtrad vtbhs
+Judges 20:37 in vtrad vtsef
 w,:,h,a,α,o,r,‥,⅃,v
 SPACE
 h,‥,x,i,ƶ,y,$,·sh,w,·
@@ -16429,7 +16651,7 @@ SPACE
 SPACE
 l,:,f,i,y,-,x,a,𝓂,r,∵,v,.
 
-Judges 20:38 in vtrad vtbhs
+Judges 20:38 in vtrad vtsef
 w,:,h,_,m,·,w,o,ʕ,‥,◆,d
 SPACE
 h,a,y,a,⟓,h
@@ -16450,7 +16672,7 @@ h,∵,ʕ,a,$,·sh,a,(ti),n.
 SPACE
 m,i,n.,-,h,a,ʕ,i,𝓂,y,r,.
 
-Judges 20:39 in vtrad vtbhs
+Judges 20:39 in vtrad vtsef
 w,_,y,·,_,h,:_,f,o,(me),k.,:
 SPACE
 α,i,𝓂,y,$,·sh,-,y,i,$,·si,:,r,a,α,‥,(ti),l
@@ -16489,7 +16711,7 @@ k,·,_,m,·,i,l,:,x,a,m,a,(ti),h
 SPACE
 h,a,r,i,α,$,·sh,o,n,a,𝓂,h,.
 
-Judges 20:40 in vtrad vtbhs
+Judges 20:40 in vtrad vtsef
 w,:,h,_,m,·,_,$,·si,:,α,‥,◆,τ
 SPACE
 h,‥,x,‥,⟓,l,·,a,h
@@ -16516,7 +16738,7 @@ k,:,l,i,y,l,-,h,a,ʕ,i,(ti),y,r
 SPACE
 h,_,$,·sh,·,a,m,a,𝓂,y,:,m,a,h,.
 
-Judges 20:41 in vtrad vtbhs
+Judges 20:41 in vtrad vtsef
 w,:,α,i,<,y,$,·sh
 SPACE
 y,i,$,·si,:,r,a,α,‥,l,(p)
@@ -16539,7 +16761,7 @@ SPACE
 SPACE
 h,a,𝓂,r,a,ʕ,a,𝓂,h,.
 
-Judges 20:42 in vtrad vtbhs
+Judges 20:42 in vtrad vtsef
 w,_,y,·,i,f,:,n,(G),w,·
 SPACE
 l,i,f,:,n,‥,(qa),y
@@ -16566,7 +16788,7 @@ SPACE
 SPACE
 v,·,:,τ,w,o,k,𝓂,w,o,.
 
-Judges 20:43 in vtrad vtbhs
+Judges 20:43 in vtrad vtsef
 k,·,i,τ,·,:,r,<,w,·
 SPACE
 α,∵,τ,-,v,·,i,n,:,y,a,m,i,n.,(p)
@@ -16585,7 +16807,7 @@ h,_,g,·,i,v,:,ʕ,a,(ti),h
 SPACE
 m,i,m,·,i,z,:,r,_,x,-,$,·sh,a,𝓂,m,∵,$,·sh,.
 
-Judges 20:44 in vtrad vtbhs
+Judges 20:44 in vtrad vtsef
 w,_,𝓂,y,·,i,f,·,:,l,w,·,(p)
 SPACE
 m,i,v,·,i,n,:,y,a,m,i,ƶ,n.
@@ -16600,7 +16822,7 @@ SPACE
 SPACE
 α,_,n,:,$,·sh,‥,y,-,x,a,𝓂,y,i,l,.
 
-Judges 20:45 in vtrad vtbhs
+Judges 20:45 in vtrad vtsef
 w,_,y,·,i,f,:,n,(G),w,·
 SPACE
 w,_,y,·,a,n,u,<,σ,w,·
@@ -16635,7 +16857,7 @@ SPACE
 SPACE
 α,i,𝓂,y,$,·sh,.
 
-Judges 20:46 in vtrad vtbhs
+Judges 20:46 in vtrad vtsef
 w,_,y,:,h,i,y,(tq)
 SPACE
 k,oa,l,-,h,_,n,·,o,(qa),f,:,l,i,(ge),y,m.
@@ -16662,7 +16884,7 @@ SPACE
 SPACE
 α,_,n,:,$,·sh,‥,y,-,x,a,𝓂,y,i,l,.
 
-Judges 20:47 in vtrad vtbhs
+Judges 20:47 in vtrad vtsef
 w,_,y,·,i,f,:,n,(G),w,·
 SPACE
 w,_,y,·,a,n,u,<,σ,w,·
@@ -16689,7 +16911,7 @@ SPACE
 SPACE
 x,:a,d,a,$,·sh,i,𝓂,y,m.,.
 
-Judges 20:48 in vtrad vtbhs
+Judges 20:48 in vtrad vtsef
 w,:,α,i,(qa),y,$,·sh
 SPACE
 y,i,$,·si,:,r,a,α,‥,(ge),l
@@ -16724,7 +16946,7 @@ $,·sh,i,l,·,:,x,(me),w,·
 SPACE
 v,a,α,‥,𝓂,$,·sh,.
 
-Judges 21:1 in vtrad vtbhs
+Judges 21:1 in vtrad vtsef
 w,:,α,i,⅃,y,$,·sh
 SPACE
 y,i,$,·si,:,r,a,α,‥,ƶ,l
@@ -16747,7 +16969,7 @@ l,:,v,i,n,:,y,a,m,i,(ti),n.
 SPACE
 l,:,α,i,$,·sh,·,a,𝓂,h,.
 
-Judges 21:2 in vtrad vtbhs
+Judges 21:2 in vtrad vtsef
 w,_,y,·,a,v,o,<,α
 SPACE
 h,a,ʕ,a,m.,(p)
@@ -16774,7 +16996,7 @@ v,·,:,k,i,(me),y
 SPACE
 g,a,d,𝓂,w,o,l,.
 
-Judges 21:3 in vtrad vtbhs
+Judges 21:3 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,:,r,ƶ,w,·
 SPACE
 l,a,m,a,◆,h
@@ -16801,7 +17023,7 @@ $,·sh,‥,(me),v,∵,θ
 SPACE
 α,∵,x,a,𝓂,d,.
 
-Judges 21:4 in vtrad vtbhs
+Judges 21:4 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 m,i,𝓂,m,·,oa,x,:a,r,a,ƶ,τ
@@ -16820,7 +17042,7 @@ SPACE
 SPACE
 w,·,$,·sh,:,l,a,m,i,𝓂,y,m.,.
 
-Judges 21:5 in vtrad vtbhs
+Judges 21:5 in vtrad vtsef
 w,_,y,·,o,𝓂,α,m,:,r,w,·,(p)
 SPACE
 v,·,:,n,‥,⅃,y
@@ -16863,7 +17085,7 @@ m,(me),w,o,τ
 SPACE
 y,w,·,m,a,𝓂,τ,.
 
-Judges 21:6 in vtrad vtbhs
+Judges 21:6 in vtrad vtsef
 w,_,y,·,i,n,·,a,𝓂,x,:_,m,w,·,(p)
 SPACE
 v,·,:,n,‥,⅃,y
@@ -16886,7 +17108,7 @@ SPACE
 SPACE
 m,i,y,·,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 21:7 in vtrad vtbhs
+Judges 21:7 in vtrad vtsef
 m,_,h,-,n,·,_,ʕ,:_,$,·si,∵,(me),h
 SPACE
 l,a,h,∵,⟓,m.
@@ -16909,7 +17131,7 @@ m,i,v,·,:,n,w,o,τ,‥,(ti),y,n,w,·
 SPACE
 l,:,n,a,$,·sh,i,𝓂,y,m.,.
 
-Judges 21:8 in vtrad vtbhs
+Judges 21:8 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,:,r,ƶ,w,·
 SPACE
 m,i,◆,y
@@ -16942,7 +17164,7 @@ g,·,i,l,:,ʕ,a,(ti),d
 SPACE
 α,∵,l,-,h,_,q,·,a,h,a,𝓂,l,.
 
-Judges 21:9 in vtrad vtbhs
+Judges 21:9 in vtrad vtsef
 w,_,y,·,i,τ,:,f,·,a,q,‥,(ti),d
 SPACE
 h,a,ʕ,a,⅄,m.
@@ -16959,7 +17181,7 @@ y,a,v,‥,(me),$,·sh
 SPACE
 g,·,i,l,:,ʕ,a,𝓂,d,.
 
-Judges 21:10 in vtrad vtbhs
+Judges 21:10 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,:,x,w,·,-,$,·sh,a,⅃,m.
 SPACE
 h,a,ʕ,‥,d,a,◆,h
@@ -16996,7 +17218,7 @@ w,:,h,_,n,·,a,$,·sh,i,(ti),y,m.
 SPACE
 w,:,h,_,θ,·,a,𝓂,f.,.
 
-Judges 21:11 in vtrad vtbhs
+Judges 21:11 in vtrad vtsef
 w,:,z,∵,(me),h
 SPACE
 h,_,d,·,a,v,a,(ti),r
@@ -17015,10 +17237,14 @@ m,i,$,·sh,:,k,·,_,v,-,z,a,k,a,(ti),r
 SPACE
 τ,·,_,x,:_,r,i,𝓂,y,m,w,·,.
 
-Judges 21:12 in vtrad vtbhs
+Judges 21:12 in vtrad vtsef
 w,_,𝓂,y,·,i,m,:,ц,:,α,(G),w,·
 SPACE
 m,i,y,·,w,o,$,·sh,:,v,‥,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 y,a,v,‥,⅃,y,$,·sh
 SPACE
@@ -17056,7 +17282,7 @@ v,·,:,α,∵,(me),r,∵,ц.
 SPACE
 k,·,:,n,a,𝓂,ʕ,_,n.,.
 
-Judges 21:13 in vtrad vtbhs
+Judges 21:13 in vtrad vtsef
 w,_,𝓂,y,·,i,$,·sh,:,l,:,x,w,·,(p)
 SPACE
 k,·,oa,l,-,h,a,⅃,ʕ,‥,d,a,ƶ,h
@@ -17079,7 +17305,7 @@ l,a,h,∵,(ti),m.
 SPACE
 $,·sh,a,l,𝓂,w,o,m.,.
 
-Judges 21:14 in vtrad vtbhs
+Judges 21:14 in vtrad vtsef
 w,_,y,·,a,<,$,·sh,oa,v
 SPACE
 v,·,i,n,:,y,a,m,i,n.,(p)
@@ -17110,7 +17336,7 @@ l,a,h,∵,(ti),m.
 SPACE
 k,·,‥,𝓂,n.,.
 
-Judges 21:15 in vtrad vtbhs
+Judges 21:15 in vtrad vtsef
 w,:,h,a,ʕ,a,(me),m.
 SPACE
 n,i,x,a,(ti),m.
@@ -17127,7 +17353,7 @@ v,·,:,$,·sh,i,v,:,θ,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 21:16 in vtrad vtbhs
+Judges 21:16 in vtrad vtsef
 w,_,y,·,o,𝓂,α,m,:,r,w,·,(p)
 SPACE
 z,i,q,:,n,‥,⅃,y
@@ -17146,7 +17372,7 @@ m,i,v,·,i,n,:,y,a,m,i,(ti),n.
 SPACE
 α,i,$,·sh,·,a,𝓂,h,.
 
-Judges 21:17 in vtrad vtbhs
+Judges 21:17 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,:,r,ƶ,w,·
 SPACE
 y,:,r,u,$,·sh,·,_,(me),τ
@@ -17161,7 +17387,7 @@ $,·sh,‥,(ti),v,∵,θ
 SPACE
 m,i,y,·,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-Judges 21:18 in vtrad vtbhs
+Judges 21:18 in vtrad vtsef
 w,_,α,:_,n,_,◆,x,:,n,w,·
 SPACE
 l,o,(me),α
@@ -17188,7 +17414,7 @@ SPACE
 SPACE
 l,:,v,i,n,:,y,a,m,i,𝓂,n.,.
 
-Judges 21:19 in vtrad vtbhs
+Judges 21:19 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,μ,w,·
 SPACE
 h,i,n,·,‥,h,(tq)
@@ -17198,6 +17424,10 @@ SPACE
 v,·,:,$,·sh,i,l,(ge),w,o
 SPACE
 m,i,y,·,a,m,i,⅃,y,m.
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 y,a,m,i,◆,y,m,a,h
 SPACE
@@ -17223,7 +17453,7 @@ w,·,m,i,n,·,∵,(ti),g,∵,v
 SPACE
 l,i,l,:,v,w,o,n,a,𝓂,h,.
 
-Judges 21:20 in vtrad vtbhs
+Judges 21:20 in vtrad vtsef
 SPACE
 α,∵,τ,-,v,·,:,n,‥,(me),y
 SPACE
@@ -17237,7 +17467,7 @@ w,_,α,:_,r,_,v,:,τ,·,∵,(me),m.
 SPACE
 v,·,_,k,·,:,r,a,m,i,𝓂,y,m.,.
 
-Judges 21:21 in vtrad vtbhs
+Judges 21:21 in vtrad vtsef
 w,·,r,:,α,i,y,τ,∵,◆,m.
 SPACE
 w,:,⌕,h,i,n,·,‥,⌕,h
@@ -17272,7 +17502,7 @@ SPACE
 SPACE
 v,·,i,n,:,y,a,m,i,𝓂,n.,.
 
-Judges 21:22 in vtrad vtbhs
+Judges 21:22 in vtrad vtsef
 w,:,h,a,y,a,μ,h
 SPACE
 k,·,i,𝓂,y,-,y,a,v,o,⅃,α,w,·
@@ -17320,7 +17550,7 @@ k,·,a,ʕ,‥,(me),τ
 SPACE
 τ,·,∵,α,:,$,·sh,a,𝓂,m,w,·,.
 
-Judges 21:23 in vtrad vtbhs
+Judges 21:23 in vtrad vtsef
 w,_,y,·,_,𝓂,ʕ,:_,$,·si,w,·,-,k,‥,n.,(p)
 SPACE
 v,·,:,n,‥,⅃,y
@@ -17353,7 +17583,7 @@ w,_,y,·,‥,$,·sh,:,v,(ti),w,·
 SPACE
 v,·,a,h,∵,𝓂,m.,.
 
-Judges 21:24 in vtrad vtbhs
+Judges 21:24 in vtrad vtsef
 w,_,y,·,i,τ,:,h,_,l,·,:,k,(qa),w,·
 SPACE
 m,i,$,·sh,·,a,<,m.
@@ -17378,7 +17608,7 @@ SPACE
 SPACE
 l,:,n,_,x,:_,l,a,τ,𝓂,w,o,.
 
-Judges 21:25 in vtrad vtbhs
+Judges 21:25 in vtrad vtsef
 v,·,_,y,·,a,m,i,⅃,y,m.
 SPACE
 h,a,h,‥,ƶ,m.

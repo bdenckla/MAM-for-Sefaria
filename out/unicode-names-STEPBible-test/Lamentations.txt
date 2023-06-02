@@ -1,6 +1,10 @@
 unicode_names Lamentations
-Lamentations 1:1 in vtrad vtbhs
+Lamentations 1:1 in vtrad vtsef
 α,‥,y,k,a,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 y,a,$,·sh,:,v,a,⅃,h
 SPACE
@@ -28,7 +32,7 @@ h,a,y,:,τ,a,(ti),h
 SPACE
 l,a,m,_,𝓂,σ,.
 
-Lamentations 1:2 in vtrad vtbhs
+Lamentations 1:2 in vtrad vtsef
 v,·,a,k,(qa),w,o
 SPACE
 τ,i,v,:,k,·,∵,(ge),h
@@ -59,7 +63,7 @@ l,a,(ti),h,·
 SPACE
 l,:,α,o,y,:,v,i,𝓂,y,m.,.
 
-Lamentations 1:3 in vtrad vtbhs
+Lamentations 1:3 in vtrad vtsef
 g,·,a,𝓂,l,:,τ,a,(qa),h
 SPACE
 y,:,h,w,·,d,a,<,h
@@ -90,7 +94,7 @@ v,·,‥,(me),y,n.
 SPACE
 h,_,m,·,:,ц,a,r,i,𝓂,y,m.,.
 
-Lamentations 1:4 in vtrad vtbhs
+Lamentations 1:4 in vtrad vtsef
 d,·,_,r,:,k,‥,(qa),y
 SPACE
 ц,i,y,·,(ge),w,o,n.
@@ -119,7 +123,7 @@ w,:,h,i,(me),y,α
 SPACE
 m,_,r,-,l,a,𝓂,h,·,.
 
-Lamentations 1:5 in vtrad vtbhs
+Lamentations 1:5 in vtrad vtsef
 h,a,y,(qa),w,·
 SPACE
 ц,a,r,∵,<,y,h,a
@@ -146,7 +150,7 @@ $,·sh,:,v,i,(ti),y
 SPACE
 l,i,f,:,n,‥,y,-,ц,a,𝓂,r,.
 
-Lamentations 1:6 in vtrad vtbhs
+Lamentations 1:6 in vtrad vtsef
 w,_,y,·,‥,ц,‥,(me),α
 SPACE
 ц,i,y,·,(ti),w,o,n.
@@ -171,7 +175,7 @@ l,i,f,:,n,‥,(me),y
 SPACE
 r,w,o,d,‥,𝓂,f.,.
 
-Lamentations 1:7 in vtrad vtbhs
+Lamentations 1:7 in vtrad vtsef
 z,a,𝓂,k,:,r,a,⅃,h
 SPACE
 y,:,r,w,·,$,·sh,a,l,_,◆,CGJ,i,m.
@@ -216,7 +220,7 @@ SPACE
 SPACE
 m,i,$,·sh,:,v,·,_,τ,·,∵,𝓂,h,a,.
 
-Lamentations 1:8 in vtrad vtbhs
+Lamentations 1:8 in vtrad vtsef
 x,‥,<,θ,:,α
 SPACE
 x,a,𝓂,θ,:,α,a,h,(p)
@@ -245,7 +249,7 @@ w,_,τ,·,a,(me),$,·sh,oa,v
 SPACE
 α,a,x,𝓂,w,o,r,.
 
-Lamentations 1:9 in vtrad vtbhs
+Lamentations 1:9 in vtrad vtsef
 θ,u,m,:,α,a,τ,a,⅃,h,·
 SPACE
 v,·,:,$,·sh,w,·,l,∵,◆,y,h,a
@@ -278,7 +282,7 @@ h,i,g,:,d,·,i,(ti),y,l
 SPACE
 α,w,o,y,‥,𝓂,v,.
 
-Lamentations 1:10 in vtrad vtbhs
+Lamentations 1:10 in vtrad vtsef
 y,a,d,w,o,(p)
 SPACE
 f,·,a,⅃,r,_,$,·si
@@ -307,7 +311,7 @@ v,_,q,·,a,h,a,(ti),l
 SPACE
 l,a,𝓂,k.,:,.
 
-Lamentations 1:11 in vtrad vtbhs
+Lamentations 1:11 in vtrad vtsef
 k,·,oa,l,-,ʕ,_,m,·,a,<,h,·
 SPACE
 n,∵,α,:∵,n,a,x,i,y,m.,(p)
@@ -337,7 +341,7 @@ h,a,y,i,(ti),y,τ,i,y
 SPACE
 z,w,o,l,‥,l,a,𝓂,h,.
 
-Lamentations 1:12 in vtrad vtbhs
+Lamentations 1:12 in vtrad vtsef
 START small 
 w,o,α
 SPACE
@@ -375,7 +379,7 @@ x,:_,r,(me),w,o,n.
 SPACE
 α,_,f,·,𝓂,w,o,.
 
-Lamentations 1:13 in vtrad vtbhs
+Lamentations 1:13 in vtrad vtsef
 m,i,m,·,a,r,⟓,w,o,m.
 SPACE
 $,·sh,a,𝓂,l,_,x,-,α,‥,(me),$,·sh
@@ -402,7 +406,7 @@ k,·,oa,l,-,h,_,y,·,(ti),w,o,m.
 SPACE
 d,·,a,w,a,𝓂,h,.
 
-Lamentations 1:14 in vtrad vtbhs
+Lamentations 1:14 in vtrad vtsef
 n,i,$,·si,:,q,_,d,(tq)
 SPACE
 ʕ,o,(qa),l
@@ -431,10 +435,15 @@ l,o,α,-,α,w,·,k,_,(me),l
 SPACE
 q,𝓂,w,·,m.,.
 
-Lamentations 1:15 in vtrad vtbhs
+Lamentations 1:15 in vtrad vtsef
 σ,i,l,·,a,(qa),h
 SPACE
 k,oa,l,-,α,_,v,·,i,y,r,_,<,y
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 α,:_,d,o,n,a,y,(p)
 SPACE
 v,·,:,q,i,r,:,v,·,i,ƶ,y
@@ -459,14 +468,23 @@ l,i,v,:,τ,w,·,l,_,(ti),τ
 SPACE
 v,·,_,τ,-,y,:,h,w,·,d,a,𝓂,h,.
 
-Lamentations 1:16 in vtrad vtbhs
+Lamentations 1:16 in vtrad vtsef
 ʕ,_,l,-,α,‥,⅃,l,·,∵,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,:_,n,i,⅃,y
 SPACE
 v,w,o,k,i,y,·,a,◆,h
 SPACE
 ʕ,‥,y,n,i,<,y
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 ʕ,‥,y,n,i,y,(p)
 SPACE
 y,o,⅃,r,:,d,a,h
@@ -495,7 +513,7 @@ g,a,v,_,(ti),r
 SPACE
 α,w,o,y,‥,𝓂,v,.
 
-Lamentations 1:17 in vtrad vtbhs
+Lamentations 1:17 in vtrad vtsef
 f,·,‥,𝓂,r,:,$,·si,a,(qa),h
 SPACE
 ц,i,y,·,(ge),w,o,n.
@@ -526,7 +544,7 @@ l,:,n,i,d,·,a,(ti),h
 SPACE
 v,·,‥,y,n,‥,y,h,∵,𝓂,m.,.
 
-Lamentations 1:18 in vtrad vtbhs
+Lamentations 1:18 in vtrad vtsef
 ц,_,d,·,i,(me),y,q
 SPACE
 h,⟓,w,·,α
@@ -555,7 +573,7 @@ h,a,l,:,k,(me),w,·
 SPACE
 v,_,$,·sh,·,∵,𝓂,v,i,y,.
 
-Lamentations 1:19 in vtrad vtbhs
+Lamentations 1:19 in vtrad vtsef
 q,a,r,a,<,α,τ,i,y
 SPACE
 l,_,𝓂,m,:,α,_,h,:_,v,_,y,(p)
@@ -582,7 +600,7 @@ w,:,y,a,$,·sh,i,(ti),y,v,w,·
 SPACE
 α,∵,τ,-,n,_,f,:,$,·sh,a,𝓂,m.,.
 
-Lamentations 1:20 in vtrad vtbhs
+Lamentations 1:20 in vtrad vtsef
 r,:,α,‥,(qa),h
 SPACE
 y,:,h,o,w,a,<,h
@@ -613,7 +631,7 @@ v,·,_,v,·,_,(me),y,i,τ
 SPACE
 k,·,_,m,·,a,𝓂,w,∵,τ,.
 
-Lamentations 1:21 in vtrad vtbhs
+Lamentations 1:21 in vtrad vtsef
 $,·sh,a,m,:,ʕ,(G),w,·
 SPACE
 k,·,i,(da),y
@@ -650,7 +668,7 @@ w,:,y,i,𝓂,h,:,y,(me),w,·
 SPACE
 k,a,m,o,𝓂,n,i,y,.
 
-Lamentations 1:22 in vtrad vtbhs
+Lamentations 1:22 in vtrad vtsef
 τ,·,a,v,o,(qa),α
 SPACE
 k,oa,l,-,r,a,ʕ,a,τ,a,<,m.
@@ -679,12 +697,17 @@ w,:,l,i,v,·,i,(me),y
 SPACE
 d,_,w,·,a,𝓂,y,.
 
-Lamentations 2:1 in vtrad vtbhs
+Lamentations 2:1 in vtrad vtsef
 α,‥,y,k,a,h,(tq)
 SPACE
 y,a,ʕ,i,(qa),y,v
 SPACE
 v,·,:,α,_,f,·,<,w,o
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 α,:_,d,o,n,a,y,(p)
 SPACE
 α,∵,τ,-,v,·,_,τ,-,ц,i,y,·,ƶ,w,o,n.
@@ -707,7 +730,7 @@ v,·,:,y,(me),w,o,m.
 SPACE
 α,_,f,·,𝓂,w,o,.
 
-Lamentations 2:2 in vtrad vtbhs
+Lamentations 2:2 in vtrad vtsef
 v,·,i,l,·,_,(qa),ʕ
 SPACE
 α,:_,d,o,n,a,(ge),y
@@ -739,7 +762,7 @@ m,_,m,:,l,a,k,a,(ti),h
 SPACE
 w,:,$,·si,a,r,∵,𝓂,y,h,a,.
 
-Lamentations 2:3 in vtrad vtbhs
+Lamentations 2:3 in vtrad vtsef
 g,·,a,d,_,⅃,ʕ
 SPACE
 v,·,oa,𝓂,x,:a,r,i,y,-,α,_,◆,f.
@@ -772,7 +795,7 @@ SPACE
 SPACE
 σ,a,v,i,𝓂,y,v,.
 
-Lamentations 2:4 in vtrad vtbhs
+Lamentations 2:4 in vtrad vtsef
 d,·,a,r,_,(qa),k.,:
 SPACE
 q,_,$,·sh,:,τ,·,(ge),w,o
@@ -801,10 +824,15 @@ k,·,a,α,‥,(ti),$,·sh
 SPACE
 x,:_,m,a,τ,𝓂,w,o,.
 
-Lamentations 2:5 in vtrad vtbhs
+Lamentations 2:5 in vtrad vtsef
 h,a,y,a,(qa),h
 SPACE
 α,:_,d,o,n,a,<,y
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 k,·,:,α,w,o,y,‥,v,(p)
 SPACE
 v,·,i,l,·,_,⅃,ʕ
@@ -827,7 +855,7 @@ SPACE
 SPACE
 w,_,α,:_,n,i,y,·,a,𝓂,h,.
 
-Lamentations 2:6 in vtrad vtbhs
+Lamentations 2:6 in vtrad vtsef
 w,_,y,·,_,x,:,m,o,<,σ
 SPACE
 k,·,_,g,·,_,n.,(p)
@@ -841,6 +869,11 @@ SPACE
 $,·sh,i,k,·,_,(qa),x
 SPACE
 y,:,h,o,w,a,<,h
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 v,·,:,ц,i,y,·,w,o,n.,(p)
 SPACE
 m,w,o,ʕ,‥,⅃,d
@@ -855,10 +888,15 @@ m,∵,(me),l,∵,k.,:
 SPACE
 w,:,k,o,h,‥,𝓂,n.,.
 
-Lamentations 2:7 in vtrad vtbhs
+Lamentations 2:7 in vtrad vtsef
 z,a,n,_,(qa),x
 SPACE
 α,:_,d,o,n,a,<,y
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 m,i,z,:,v,·,:,x,w,o,(p)
 SPACE
 n,i,α,‥,⅃,r
@@ -883,10 +921,15 @@ k,·,:,y,(me),w,o,m.
 SPACE
 m,w,o,ʕ,‥,𝓂,d,.
 
-Lamentations 2:8 in vtrad vtbhs
+Lamentations 2:8 in vtrad vtsef
 x,a,$,·sh,_,(qa),v
 SPACE
 y,:,h,o,w,a,<,h
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 l,:,h,_,$,·sh,:,x,i,y,τ,(p)
 SPACE
 x,w,o,m,_,⅃,τ
@@ -911,7 +954,7 @@ y,_,x,:,d,·,a,(me),w
 SPACE
 α,u,m,:,l,a,𝓂,l,w,·,.
 
-Lamentations 2:9 in vtrad vtbhs
+Lamentations 2:9 in vtrad vtsef
 START small 
 v,:,ʕ,<,w,·
 SPACE
@@ -943,7 +986,7 @@ x,a,z,(ti),w,o,n.
 SPACE
 m,‥,y,:,h,o,w,a,𝓂,h,.
 
-Lamentations 2:10 in vtrad vtbhs
+Lamentations 2:10 in vtrad vtsef
 y,‥,$,·sh,:,v,(qa),w,·
 SPACE
 l,a,α,a,<,r,∵,ц.
@@ -974,7 +1017,7 @@ v,·,:,τ,w,·,l,o,(ti),τ
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-Lamentations 2:11 in vtrad vtbhs
+Lamentations 2:11 in vtrad vtsef
 k,·,a,l,(qa),w,·
 SPACE
 v,_,d,·,:,m,a,ʕ,<,w,o,τ
@@ -1005,7 +1048,7 @@ v,·,i,r,:,x,o,v,(ti),w,o,τ
 SPACE
 q,i,r,:,y,a,𝓂,h,.
 
-Lamentations 2:12 in vtrad vtbhs
+Lamentations 2:12 in vtrad vtsef
 l,:,α,i,m,·,o,τ,a,m.,(p)
 SPACE
 y,o,𝓂,α,m,:,r,ƶ,w,·
@@ -1032,7 +1075,7 @@ SPACE
 SPACE
 α,i,m,·,o,τ,a,𝓂,m.,.
 
-Lamentations 2:13 in vtrad vtbhs
+Lamentations 2:13 in vtrad vtsef
 m,a,𝓂,h,-,α,:_,ʕ,i,y,d,‥,(G),k.,:
 SPACE
 m,a,⅃,h
@@ -1063,7 +1106,7 @@ m,i,(me),y
 SPACE
 y,i,r,:,f,·,a,α,-,l,a,𝓂,k.,:,.
 
-Lamentations 2:14 in vtrad vtbhs
+Lamentations 2:14 in vtrad vtsef
 n,:,v,i,y,α,_,◆,y,i,k.,:
 SPACE
 x,a,<,z,w,·
@@ -1091,7 +1134,7 @@ $,·sh,a,(ti),w,:,α
 SPACE
 w,·,m,_,d,·,w,·,x,i,𝓂,y,m.,.
 
-Lamentations 2:15 in vtrad vtbhs
+Lamentations 2:15 in vtrad vtsef
 σ,a,𝓂,f,:,q,(qa),w,·
 SPACE
 ʕ,a,l,_,<,y,i,k.,:
@@ -1126,7 +1169,7 @@ m,a,$,·si,(ti),w,o,$,·si
 SPACE
 l,:,k,oa,l,-,h,a,α,a,𝓂,r,∵,ц.,.
 
-Lamentations 2:16 in vtrad vtbhs
+Lamentations 2:16 in vtrad vtsef
 f,·,a,ц,(qa),w,·
 SPACE
 ʕ,a,l,_,<,y,i,k.,:
@@ -1155,7 +1198,7 @@ m,a,ц,a,(me),α,n,w,·
 SPACE
 r,a,α,i,𝓂,y,n,w,·,.
 
-Lamentations 2:17 in vtrad vtbhs
+Lamentations 2:17 in vtrad vtsef
 ʕ,a,$,·si,a,(qa),h
 SPACE
 y,:,h,o,w,a,(ge),h
@@ -1192,7 +1235,7 @@ q,∵,(me),r,∵,n.
 SPACE
 ц,a,r,a,𝓂,y,i,k.,:,.
 
-Lamentations 2:18 in vtrad vtbhs
+Lamentations 2:18 in vtrad vtsef
 ц,a,ʕ,_,(me),q
 SPACE
 l,i,v,·,a,(ti),m.
@@ -1223,8 +1266,12 @@ SPACE
 SPACE
 v,·,_,τ,-,ʕ,‥,y,n,‥,𝓂,k.,:,.
 
-Lamentations 2:19 in vtrad vtbhs
+Lamentations 2:19 in vtrad vtsef
 q,⅃,w,·,m,i,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 r,o,⅃,n,·,i,y
 SPACE
@@ -1263,7 +1310,7 @@ v,·,:,r,o,(me),α,$,·sh
 SPACE
 k,·,oa,l,-,x,w,·,ц,𝓂,w,o,τ,.
 
-Lamentations 2:20 in vtrad vtbhs
+Lamentations 2:20 in vtrad vtsef
 r,:,α,‥,<,h
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -1296,7 +1343,7 @@ k,·,o,h,‥,(me),n.
 SPACE
 w,:,n,a,v,i,𝓂,y,α,.
 
-Lamentations 2:21 in vtrad vtbhs
+Lamentations 2:21 in vtrad vtsef
 $,·sh,a,k,:,v,(qa),w,·
 SPACE
 l,a,α,a,<,r,∵,ц.
@@ -1327,7 +1374,7 @@ l,o,(me),α
 SPACE
 x,a,m,a,𝓂,l,:,τ,·,a,.
 
-Lamentations 2:22 in vtrad vtbhs
+Lamentations 2:22 in vtrad vtsef
 τ,·,i,q,:,r,a,α,(tq)
 SPACE
 k,:,y,(qa),w,o,m.
@@ -1358,7 +1405,7 @@ SPACE
 SPACE
 k,i,l,·,a,𝓂,m.,.
 
-Lamentations 3:1 in vtrad vtbhs
+Lamentations 3:1 in vtrad vtsef
 α,:_,n,i,<,y
 SPACE
 h,_,g,·,∵,(p),v,∵,r,(p)
@@ -1371,7 +1418,7 @@ v,·,:,$,·sh,‥,(ti),v,∵,θ
 SPACE
 ʕ,∵,v,:,r,a,τ,𝓂,w,o,.
 
-Lamentations 3:2 in vtrad vtbhs
+Lamentations 3:2 in vtrad vtsef
 α,w,o,τ,i,(me),y
 SPACE
 n,a,h,_,⟓,g
@@ -1382,7 +1429,7 @@ x,o,(me),$,·sh,∵,k.,:
 SPACE
 w,:,l,o,α,-,α,𝓂,w,o,r,.
 
-Lamentations 3:3 in vtrad vtbhs
+Lamentations 3:3 in vtrad vtsef
 α,_,⅃,k.,:
 SPACE
 v,·,i,(me),y
@@ -1395,7 +1442,7 @@ y,a,d,(ti),w,o
 SPACE
 k,·,oa,l,-,h,_,y,·,𝓂,w,o,m.,.
 
-Lamentations 3:4 in vtrad vtbhs
+Lamentations 3:4 in vtrad vtsef
 v,·,i,l,·,a,<,h
 SPACE
 v,:,$,·si,a,r,i,y,(p)
@@ -1406,7 +1453,7 @@ $,·sh,i,v,·,_,(ti),r
 SPACE
 ʕ,_,ц,:,m,w,o,τ,a,𝓂,y,.
 
-Lamentations 3:5 in vtrad vtbhs
+Lamentations 3:5 in vtrad vtsef
 v,·,a,n,a,(me),h
 SPACE
 ʕ,a,l,_,⟓,y
@@ -1417,7 +1464,7 @@ r,o,(me),α,$,·sh
 SPACE
 w,·,τ,:,l,a,α,a,𝓂,h,.
 
-Lamentations 3:6 in vtrad vtbhs
+Lamentations 3:6 in vtrad vtsef
 v,·,:,m,_,x,:_,$,·sh,_,k,·,i,(me),y,m.
 SPACE
 h,w,o,$,·sh,i,y,v,_,(ti),n,i,y
@@ -1426,7 +1473,7 @@ k,·,:,m,‥,τ,‥,(me),y
 SPACE
 ʕ,w,o,l,a,𝓂,m.,.
 
-Lamentations 3:7 in vtrad vtbhs
+Lamentations 3:7 in vtrad vtsef
 g,·,a,d,_,(da),r
 SPACE
 v,·,_,ʕ,:_,d,i,⟓,y
@@ -1439,7 +1486,7 @@ h,i,k,:,v,·,i,(me),y,d
 SPACE
 n,:,x,oa,$,·sh,:,τ,·,i,𝓂,y,.
 
-Lamentations 3:8 in vtrad vtbhs
+Lamentations 3:8 in vtrad vtsef
 g,·,_,⅃,m.
 SPACE
 k,·,i,<,y
@@ -1452,7 +1499,7 @@ $,·si,a,τ,_,(ti),m.
 SPACE
 τ,·,:,f,i,l,·,a,τ,i,𝓂,y,.
 
-Lamentations 3:9 in vtrad vtbhs
+Lamentations 3:9 in vtrad vtsef
 g,·,a,d,_,<,r
 SPACE
 d,·,:,r,a,k,_,y,(p)
@@ -1463,7 +1510,7 @@ n,:,τ,i,y,v,o,τ,_,(ti),y
 SPACE
 ʕ,i,w,·,a,𝓂,h,.
 
-Lamentations 3:10 in vtrad vtbhs
+Lamentations 3:10 in vtrad vtsef
 d,·,o,⅃,v
 SPACE
 α,o,r,‥,(me),v
@@ -1475,7 +1522,7 @@ SPACE
 SPACE
 v,·,:,m,i,σ,:,τ,·,a,r,i,𝓂,y,m.,.
 
-Lamentations 3:11 in vtrad vtbhs
+Lamentations 3:11 in vtrad vtsef
 d,·,:,r,a,k,_,(me),y
 SPACE
 σ,w,o,r,‥,⟓,r
@@ -1486,7 +1533,7 @@ $,·si,a,m,_,(me),n,i,y
 SPACE
 $,·sh,o,m,‥,𝓂,m.,.
 
-Lamentations 3:12 in vtrad vtbhs
+Lamentations 3:12 in vtrad vtsef
 d,·,a,r,_,<,k.,:
 SPACE
 q,_,$,·sh,:,τ,·,w,o,(p)
@@ -1497,7 +1544,7 @@ k,·,_,m,·,_,θ,·,a,r,a,(ti),α
 SPACE
 l,_,x,‥,𝓂,ц.,.
 
-Lamentations 3:13 in vtrad vtbhs
+Lamentations 3:13 in vtrad vtsef
 h,‥,v,i,y,α,(p)
 SPACE
 v,·,:,k,i,l,:,y,o,τ,a,ƶ,y
@@ -1506,7 +1553,7 @@ v,·,:,n,‥,(ti),y
 SPACE
 α,_,$,·sh,:,f,·,a,τ,𝓂,w,o,.
 
-Lamentations 3:14 in vtrad vtbhs
+Lamentations 3:14 in vtrad vtsef
 h,a,y,i,<,y,τ,i,y
 SPACE
 $,·si,·,:,x,o,q,(p)
@@ -1517,7 +1564,7 @@ n,:,g,i,y,n,a,τ,a,(ti),m.
 SPACE
 k,·,oa,l,-,h,_,y,·,𝓂,w,o,m.,.
 
-Lamentations 3:15 in vtrad vtbhs
+Lamentations 3:15 in vtrad vtsef
 h,i,$,·si,:,v,·,i,y,ʕ,_,(me),n,i,y
 SPACE
 v,_,m,·,:,r,w,o,r,i,(ti),y,m.
@@ -1526,7 +1573,7 @@ h,i,r,:,w,_,(me),n,i,y
 SPACE
 l,_,ʕ,:_,n,a,𝓂,h,.
 
-Lamentations 3:16 in vtrad vtbhs
+Lamentations 3:16 in vtrad vtsef
 w,_,y,·,_,g,:,r,‥,<,σ
 SPACE
 v,·,∵,𝓂,x,a,ц,a,ц.,(p)
@@ -1537,7 +1584,7 @@ h,i,k,:,f,·,i,y,$,·sh,_,(ti),n,i,y
 SPACE
 v,·,a,α,‥,𝓂,f,∵,r,.
 
-Lamentations 3:17 in vtrad vtbhs
+Lamentations 3:17 in vtrad vtsef
 w,_,τ,·,i,z,:,n,_,(da),x
 SPACE
 m,i,$,·sh,·,a,l,⟓,w,o,m.
@@ -1548,7 +1595,7 @@ n,a,$,·sh,i,(me),y,τ,i,y
 SPACE
 θ,w,o,v,a,𝓂,h,.
 
-Lamentations 3:18 in vtrad vtbhs
+Lamentations 3:18 in vtrad vtsef
 w,a,α,o,m,_,r,(p)
 SPACE
 α,a,v,_,⅃,d
@@ -1559,7 +1606,7 @@ w,:,τ,w,o,x,_,l,:,τ,·,i,(ti),y
 SPACE
 m,‥,y,:,h,o,w,a,𝓂,h,.
 
-Lamentations 3:19 in vtrad vtbhs
+Lamentations 3:19 in vtrad vtsef
 z,:,k,oa,r,-,ʕ,oa,n,:,y,i,(me),y
 SPACE
 w,·,m,:,r,w,·,d,i,(ti),y
@@ -1568,7 +1615,7 @@ l,_,ʕ,:_,n,a,(me),h
 SPACE
 w,a,r,o,𝓂,α,$,·sh,.
 
-Lamentations 3:20 in vtrad vtbhs
+Lamentations 3:20 in vtrad vtsef
 z,a,k,⅃,w,o,r
 SPACE
 τ,·,i,z,:,k,·,ƶ,w,o,r
@@ -1578,7 +1625,7 @@ SPACE
 SPACE
 n,_,f,:,$,·sh,i,𝓂,y,.
 
-Lamentations 3:21 in vtrad vtbhs
+Lamentations 3:21 in vtrad vtsef
 z,o,⟓,α,τ
 SPACE
 α,a,$,·sh,i,(me),y,v
@@ -1589,7 +1636,7 @@ SPACE
 SPACE
 α,w,o,x,i,𝓂,y,l,.
 
-Lamentations 3:22 in vtrad vtbhs
+Lamentations 3:22 in vtrad vtsef
 x,_,𝓂,σ,:,d,‥,<,y
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -1604,7 +1651,7 @@ l,o,α,-,k,a,l,(ti),w,·
 SPACE
 r,_,x,:_,m,a,𝓂,y,w,.
 
-Lamentations 3:23 in vtrad vtbhs
+Lamentations 3:23 in vtrad vtsef
 x,:_,d,a,$,·sh,i,y,m.,(p)
 SPACE
 l,_,v,·,:,q,a,r,i,ƶ,y,m.
@@ -1613,7 +1660,7 @@ r,_,v,·,a,(ti),h
 SPACE
 α,:∵,m,w,·,n,a,τ,∵,𝓂,k.,a,.
 
-Lamentations 3:24 in vtrad vtbhs
+Lamentations 3:24 in vtrad vtsef
 x,∵,l,:,q,i,<,y
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -1628,7 +1675,7 @@ SPACE
 SPACE
 l,𝓂,w,o,.
 
-Lamentations 3:25 in vtrad vtbhs
+Lamentations 3:25 in vtrad vtsef
 θ,<,w,o,v
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -1639,7 +1686,7 @@ l,:,n,∵,(ti),f,∵,$,·sh
 SPACE
 τ,·,i,d,:,r,:,$,·sh,∵,𝓂,n,·,w,·,.
 
-Lamentations 3:26 in vtrad vtbhs
+Lamentations 3:26 in vtrad vtsef
 θ,<,w,o,v
 SPACE
 w,:,y,a,x,i,y,l,(p)
@@ -1650,7 +1697,7 @@ l,i,τ,:,$,·sh,w,·,ʕ,_,(ti),τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-Lamentations 3:27 in vtrad vtbhs
+Lamentations 3:27 in vtrad vtsef
 θ,⅃,w,o,v
 SPACE
 l,_,g,·,∵,ƶ,v,∵,r
@@ -1661,7 +1708,7 @@ SPACE
 SPACE
 v,·,i,n,:,ʕ,w,·,r,a,𝓂,y,w,.
 
-Lamentations 3:28 in vtrad vtbhs
+Lamentations 3:28 in vtrad vtsef
 y,‥,$,·sh,‥,<,v
 SPACE
 v,·,a,d,a,d,(p)
@@ -1674,7 +1721,7 @@ n,a,θ,_,(ti),l
 SPACE
 ʕ,a,l,a,𝓂,y,w,.
 
-Lamentations 3:29 in vtrad vtbhs
+Lamentations 3:29 in vtrad vtsef
 y,i,τ,·,‥,<,n.
 SPACE
 v,·,∵,𝓂,ʕ,a,f,a,r,(p)
@@ -1687,7 +1734,7 @@ y,‥,(me),$,·sh
 SPACE
 τ,·,i,q,:,w,a,𝓂,h,.
 
-Lamentations 3:30 in vtrad vtbhs
+Lamentations 3:30 in vtrad vtsef
 y,i,τ,·,‥,(da),n.
 SPACE
 l,:,m,_,k,·,‥,⟓,h,w,·
@@ -1698,7 +1745,7 @@ y,i,$,·si,:,v,·,_,(me),ʕ
 SPACE
 v,·,:,x,∵,r,:,f,·,a,𝓂,h,.
 
-Lamentations 3:31 in vtrad vtbhs
+Lamentations 3:31 in vtrad vtsef
 k,·,i,⅃,y
 SPACE
 l,o,(me),α
@@ -1709,7 +1756,7 @@ l,:,ʕ,w,o,l,a,(ti),m.
 SPACE
 α,:_,d,o,n,a,𝓂,y,.
 
-Lamentations 3:32 in vtrad vtbhs
+Lamentations 3:32 in vtrad vtsef
 k,·,i,⅃,y
 SPACE
 α,i,m.,-,h,w,o,g,a,ƶ,h
@@ -1720,7 +1767,7 @@ k,·,:,r,o,(me),v
 SPACE
 x,:_,σ,a,d,a,𝓂,y,w,.
 
-Lamentations 3:33 in vtrad vtbhs
+Lamentations 3:33 in vtrad vtsef
 k,·,i,⅃,y
 SPACE
 l,o,<,α
@@ -1733,7 +1780,7 @@ w,_,y,·,_,g,·,∵,(ti),h
 SPACE
 v,·,:,n,‥,y,-,α,i,𝓂,y,$,·sh,.
 
-Lamentations 3:34 in vtrad vtbhs
+Lamentations 3:34 in vtrad vtsef
 l,:,d,_,k,·,‥,α,(p)
 SPACE
 τ,·,_,⅃,x,_,τ
@@ -1746,7 +1793,7 @@ SPACE
 SPACE
 α,a,𝓂,r,∵,ц.,.
 
-Lamentations 3:35 in vtrad vtbhs
+Lamentations 3:35 in vtrad vtsef
 l,:,h,_,θ,·,w,o,τ,(p)
 SPACE
 m,i,$,·sh,:,f,·,_,θ,-,g,·,a,ƶ,v,∵,r
@@ -1757,7 +1804,7 @@ f,·,:,n,‥,(me),y
 SPACE
 ʕ,∵,l,:,y,𝓂,w,o,n.,.
 
-Lamentations 3:36 in vtrad vtbhs
+Lamentations 3:36 in vtrad vtsef
 l,:
 START small 
 w,·,‥,<,τ
@@ -1772,7 +1819,7 @@ l,o,(me),α
 SPACE
 r,a,α,a,𝓂,h,.
 
-Lamentations 3:37 in vtrad vtbhs
+Lamentations 3:37 in vtrad vtsef
 m,i,⅃,y
 SPACE
 z,∵,<,h
@@ -1787,7 +1834,7 @@ l,o,(me),α
 SPACE
 ц,i,w,·,a,𝓂,h,.
 
-Lamentations 3:38 in vtrad vtbhs
+Lamentations 3:38 in vtrad vtsef
 m,i,f,·,i,<,y
 SPACE
 ʕ,∵,l,:,y,w,o,n.,(p)
@@ -1800,7 +1847,7 @@ h,a,r,a,ʕ,(ti),w,o,τ
 SPACE
 w,:,h,_,θ,·,𝓂,w,o,v,.
 
-Lamentations 3:39 in vtrad vtbhs
+Lamentations 3:39 in vtrad vtsef
 m,_,h,-,y,·,i,τ,:,α,w,o,n,‥,n.,(p)
 SPACE
 α,a,d,a,⅃,m.
@@ -1812,7 +1859,7 @@ SPACE
 ʕ,_,l,-
 .
 
-Lamentations 3:40 in vtrad vtbhs
+Lamentations 3:40 in vtrad vtsef
 n,_,x,:,f,·,:,$,·si,a,<,h
 SPACE
 d,:,r,a,k,‥,(p),y,n,w,·,(p)
@@ -1823,7 +1870,7 @@ w,:,n,a,$,·sh,(ti),w,·,v,a,h
 SPACE
 ʕ,_,d,-,y,:,h,o,w,a,𝓂,h,.
 
-Lamentations 3:41 in vtrad vtbhs
+Lamentations 3:41 in vtrad vtsef
 n,i,$,·si,·,a,<,α
 SPACE
 l,:,v,a,v,‥,(p),n,w,·,(p)
@@ -1834,7 +1881,7 @@ SPACE
 SPACE
 v,·,_,$,·sh,·,a,m,a,𝓂,y,i,m.,.
 
-Lamentations 3:42 in vtrad vtbhs
+Lamentations 3:42 in vtrad vtsef
 n,_,<,x,:,n,w,·
 SPACE
 f,a,$,·sh,_,(p),ʕ,:,n,w,·,(p)
@@ -1847,7 +1894,7 @@ l,o,(me),α
 SPACE
 σ,a,l,a,𝓂,x,:,τ,·,a,.
 
-Lamentations 3:43 in vtrad vtbhs
+Lamentations 3:43 in vtrad vtsef
 σ,_,k,·,<,w,o,τ,a,h
 SPACE
 v,a,α,_,f.,(p)
@@ -1860,7 +1907,7 @@ l,o,(me),α
 SPACE
 x,a,m,a,𝓂,l,:,τ,·,a,.
 
-Lamentations 3:44 in vtrad vtbhs
+Lamentations 3:44 in vtrad vtsef
 σ,_,k,·,<,w,o,τ,a,h
 SPACE
 v,∵,𝓂,ʕ,a,n,a,n.,(p)
@@ -1871,7 +1918,7 @@ m,‥,ʕ,:_,v,(ti),w,o,r
 SPACE
 τ,·,:,f,i,l,·,a,𝓂,h,.
 
-Lamentations 3:45 in vtrad vtbhs
+Lamentations 3:45 in vtrad vtsef
 σ,:,x,i,(da),y
 SPACE
 w,·,m,a,α,⟓,w,o,σ
@@ -1882,7 +1929,7 @@ v,·,:,q,∵,(me),r,∵,v
 SPACE
 h,a,ʕ,_,m,·,i,𝓂,y,m.,.
 
-Lamentations 3:46 in vtrad vtbhs
+Lamentations 3:46 in vtrad vtsef
 f,·,a,ц,(me),w,·
 SPACE
 ʕ,a,l,‥,⟓,y,n,w,·
@@ -1891,7 +1938,7 @@ f,·,i,y,h,∵,(ti),m.
 SPACE
 k,·,oa,l,-,α,o,y,:,v,‥,𝓂,y,n,w,·,.
 
-Lamentations 3:47 in vtrad vtbhs
+Lamentations 3:47 in vtrad vtsef
 f,·,_,(da),x,_,d
 SPACE
 w,a,f,_,⟓,x,_,τ
@@ -1904,7 +1951,7 @@ h,_,$,·sh,·,‥,(me),α,τ
 SPACE
 w,:,h,_,$,·sh,·,a,𝓂,v,∵,r,.
 
-Lamentations 3:48 in vtrad vtbhs
+Lamentations 3:48 in vtrad vtsef
 f,·,_,l,:,g,‥,y,-,m,_,(p),y,i,m.,(p)
 SPACE
 τ,·,‥,r,_,⅃,d
@@ -1915,7 +1962,7 @@ SPACE
 SPACE
 v,·,_,τ,-,ʕ,_,m,·,i,𝓂,y,.
 
-Lamentations 3:49 in vtrad vtbhs
+Lamentations 3:49 in vtrad vtsef
 ʕ,‥,y,n,i,(da),y
 SPACE
 n,i,g,·,:,r,a,⟓,h
@@ -1928,7 +1975,7 @@ m,‥,α,‥,(me),y,n.
 SPACE
 h,:_,f,u,g,𝓂,w,o,τ,.
 
-Lamentations 3:50 in vtrad vtbhs
+Lamentations 3:50 in vtrad vtsef
 ʕ,_,d,-,y,_,$,·sh,:,q,i,⅃,y,f.
 SPACE
 w,:,y,‥,ƶ,r,∵,α
@@ -1937,7 +1984,7 @@ y,:,h,o,w,a,(ti),h
 SPACE
 m,i,$,·sh,·,a,m,a,𝓂,y,i,m.,.
 
-Lamentations 3:51 in vtrad vtbhs
+Lamentations 3:51 in vtrad vtsef
 ʕ,‥,y,n,i,y,(p)
 SPACE
 ʕ,𝓂,w,o,l,:,l,a,⅃,h
@@ -1950,7 +1997,7 @@ v,·,:,n,(me),w,o,τ
 SPACE
 ʕ,i,y,r,i,𝓂,y,.
 
-Lamentations 3:52 in vtrad vtbhs
+Lamentations 3:52 in vtrad vtsef
 ц,(me),w,o,d
 SPACE
 ц,a,d,⟓,w,·,n,i,y
@@ -1961,7 +2008,7 @@ SPACE
 SPACE
 x,i,n,·,a,𝓂,m.,.
 
-Lamentations 3:53 in vtrad vtbhs
+Lamentations 3:53 in vtrad vtsef
 ц,a,𝓂,m,:,τ,<,w,·
 SPACE
 v,_,v,·,w,o,r,(p)
@@ -1972,7 +2019,7 @@ w,_,y,·,_,d,·,w,·,-,α,∵,(ti),v,∵,n.
 SPACE
 v,·,i,𝓂,y,.
 
-Lamentations 3:54 in vtrad vtbhs
+Lamentations 3:54 in vtrad vtsef
 ц,a,𝓂,f,w,·,-,m,_,(me),y,i,m.
 SPACE
 ʕ,_,l,-,r,o,α,$,·sh,i,(ti),y
@@ -1981,7 +2028,7 @@ SPACE
 SPACE
 n,i,g,:,z,a,𝓂,r,:,τ,·,i,y,.
 
-Lamentations 3:55 in vtrad vtbhs
+Lamentations 3:55 in vtrad vtsef
 q,a,r,a,<,α,τ,i,y
 SPACE
 $,·sh,i,m,:,k.,a,(p)
@@ -1992,7 +2039,7 @@ m,i,v,·,(ti),w,o,r
 SPACE
 τ,·,_,x,:,τ,·,i,y,·,𝓂,w,o,τ,.
 
-Lamentations 3:56 in vtrad vtbhs
+Lamentations 3:56 in vtrad vtsef
 q,w,o,l,i,(ti),y
 SPACE
 $,·sh,a,m,a,⅄,ʕ,:,τ,·,a
@@ -2005,7 +2052,7 @@ l,:,r,_,w,:,x,a,τ,i,(ti),y
 SPACE
 l,:,$,·sh,_,w,:,ʕ,a,τ,i,𝓂,y,.
 
-Lamentations 3:57 in vtrad vtbhs
+Lamentations 3:57 in vtrad vtsef
 q,a,r,_,(p),v,:,τ,·,a,(p)
 SPACE
 v,·,:,y,⅃,w,o,m.
@@ -2016,7 +2063,7 @@ SPACE
 SPACE
 α,_,l,-,τ,·,i,y,r,a,𝓂,α,.
 
-Lamentations 3:58 in vtrad vtbhs
+Lamentations 3:58 in vtrad vtsef
 r,_,(da),v,:,τ,·,a
 SPACE
 α,:_,d,o,n,a,⟓,y
@@ -2029,7 +2076,7 @@ g,·,a,α,_,(me),l,:,τ,·,a
 SPACE
 x,_,y,·,a,𝓂,y,.
 
-Lamentations 3:59 in vtrad vtbhs
+Lamentations 3:59 in vtrad vtsef
 r,a,α,i,<,y,τ,a,h
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -2040,7 +2087,7 @@ $,·sh,oa,f,:,θ,a,(ti),h
 SPACE
 m,i,$,·sh,:,f,·,a,θ,i,𝓂,y,.
 
-Lamentations 3:60 in vtrad vtbhs
+Lamentations 3:60 in vtrad vtsef
 r,a,α,i,(p),y,τ,a,h,(p)
 SPACE
 k,·,oa,l,-,n,i,q,:,m,a,τ,a,ƶ,m.
@@ -2049,7 +2096,7 @@ k,·,oa,l,-,m,_,x,:,$,·sh,:,v,o,τ,a,(ti),m.
 SPACE
 l,i,𝓂,y,.
 
-Lamentations 3:61 in vtrad vtbhs
+Lamentations 3:61 in vtrad vtsef
 $,·sh,a,m,_,<,ʕ,:,τ,·,a
 SPACE
 x,∵,r,:,f,·,a,τ,a,m.,(p)
@@ -2060,7 +2107,7 @@ k,·,oa,l,-,m,_,x,:,$,·sh,:,v,o,τ,a,(ti),m.
 SPACE
 ʕ,a,l,a,𝓂,y,.
 
-Lamentations 3:62 in vtrad vtbhs
+Lamentations 3:62 in vtrad vtsef
 $,·si,i,f,:,τ,‥,<,y
 SPACE
 q,a,m,_,y,(p)
@@ -2071,7 +2118,7 @@ SPACE
 SPACE
 k,·,oa,l,-,h,_,y,·,𝓂,w,o,m.,.
 
-Lamentations 3:63 in vtrad vtbhs
+Lamentations 3:63 in vtrad vtsef
 $,·sh,i,v,:,τ,·,a,<,m.
 SPACE
 w,:,q,i,𝓂,y,m,a,τ,a,m.,(p)
@@ -2082,7 +2129,7 @@ SPACE
 SPACE
 m,_,n,:,g,·,i,y,n,a,τ,a,𝓂,m.,.
 
-Lamentations 3:64 in vtrad vtbhs
+Lamentations 3:64 in vtrad vtsef
 τ,·,a,$,·sh,i,(qa),y,v
 SPACE
 l,a,h,∵,(me),m.
@@ -2095,7 +2142,7 @@ k,·,:,m,_,ʕ,:_,$,·si,‥,(me),h
 SPACE
 y,:,d,‥,y,h,∵,𝓂,m.,.
 
-Lamentations 3:65 in vtrad vtbhs
+Lamentations 3:65 in vtrad vtsef
 τ,·,i,τ,·,‥,<,n.
 SPACE
 l,a,h,∵,m.,(p)
@@ -2106,7 +2153,7 @@ SPACE
 SPACE
 l,a,h,∵,𝓂,m.,.
 
-Lamentations 3:66 in vtrad vtbhs
+Lamentations 3:66 in vtrad vtsef
 τ,·,i,r,:,d,·,o,<,f.
 SPACE
 v,·,:,α,_,f.,(p)
@@ -2119,7 +2166,7 @@ $,·sh,:,m,‥,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-Lamentations 4:1 in vtrad vtbhs
+Lamentations 4:1 in vtrad vtsef
 α,‥,y,k,a,h,(p)
 SPACE
 y,w,·,ʕ,_,⅃,m.
@@ -2140,7 +2187,7 @@ v,·,:,r,o,(ti),α,$,·sh
 SPACE
 k,·,oa,l,-,x,w,·,ц,𝓂,w,o,τ,.
 
-Lamentations 4:2 in vtrad vtbhs
+Lamentations 4:2 in vtrad vtsef
 v,·,:,n,‥,<,y
 SPACE
 ц,i,y,·,w,o,n.,(p)
@@ -2163,7 +2210,7 @@ y,:,d,‥,(me),y
 SPACE
 y,w,o,ц,‥,𝓂,r,.
 
-Lamentations 4:3 in vtrad vtbhs
+Lamentations 4:3 in vtrad vtsef
 g,·,_,m.,-
 SPACE
 x,a,⅃,l,:,ц,w,·
@@ -2181,7 +2228,7 @@ SPACE
 SPACE
 v,·,_,m,·,i,d,:,v,·,a,𝓂,r,.
 
-Lamentations 4:4 in vtrad vtbhs
+Lamentations 4:4 in vtrad vtsef
 d,·,a,v,_,(qa),q
 SPACE
 l,:,$,·sh,(me),w,o,n.
@@ -2204,7 +2251,7 @@ SPACE
 SPACE
 l,a,h,∵,𝓂,m.,.
 
-Lamentations 4:5 in vtrad vtbhs
+Lamentations 4:5 in vtrad vtsef
 h,a,α,o,𝓂,k,:,l,i,y,m.,(p)
 SPACE
 l,:,m,_,⅃,ʕ,:_,d,_,n,·,i,ƶ,y,m.
@@ -2223,7 +2270,7 @@ x,i,v,·,:,q,(ti),w,·
 SPACE
 α,_,$,·sh,:,f,·,_,τ,·,𝓂,w,o,τ,.
 
-Lamentations 4:6 in vtrad vtbhs
+Lamentations 4:6 in vtrad vtsef
 w,_,y,·,i,g,:,d,·,_,l,(p)
 SPACE
 ʕ,:_,w,hhfv,⅃,n.
@@ -2244,7 +2291,7 @@ v,a,(ti),h,·
 SPACE
 y,a,d,a,𝓂,y,i,m.,.
 
-Lamentations 4:7 in vtrad vtbhs
+Lamentations 4:7 in vtrad vtsef
 z,_,k,·,<,w,·
 SPACE
 n,:,z,i,y,r,∵,(p),y,h,a,(p)
@@ -2265,7 +2312,7 @@ SPACE
 SPACE
 g,·,i,z,:,r,a,τ,a,𝓂,m.,.
 
-Lamentations 4:8 in vtrad vtbhs
+Lamentations 4:8 in vtrad vtsef
 x,a,$,·sh,_,<,k.,:
 SPACE
 m,i,$,·sh,·,:,x,w,o,r,(p)
@@ -2290,7 +2337,7 @@ h,a,y,a,(me),h
 SPACE
 k,a,ʕ,‥,𝓂,ц.,.
 
-Lamentations 4:9 in vtrad vtbhs
+Lamentations 4:9 in vtrad vtsef
 θ,w,o,v,i,<,y,m.
 SPACE
 h,a,y,w,·,(p)
@@ -2311,7 +2358,7 @@ m,i,τ,·,:,n,w,·,v,o,(ti),τ
 SPACE
 $,·si,a,d,a,𝓂,y,.
 
-Lamentations 4:10 in vtrad vtbhs
+Lamentations 4:10 in vtrad vtsef
 y,:,d,‥,◆,y
 SPACE
 n,a,$,·sh,i,y,m.,(p)
@@ -2332,7 +2379,7 @@ v,·,:,$,·sh,∵,(ti),v,∵,r
 SPACE
 v,·,_,τ,-,ʕ,_,m,·,i,𝓂,y,.
 
-Lamentations 4:11 in vtrad vtbhs
+Lamentations 4:11 in vtrad vtsef
 k,·,i,l,·,a,<,h
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -2353,7 +2400,7 @@ w,_,τ,·,o,(ti),α,k,_,l
 SPACE
 y,:,σ,o,d,o,τ,∵,𝓂,y,h,a,.
 
-Lamentations 4:12 in vtrad vtbhs
+Lamentations 4:12 in vtrad vtsef
 l,o,<,α
 SPACE
 h,∵,α,:∵,m,i,(p),y,n,w,·,(p)
@@ -2377,7 +2424,7 @@ v,·,:,$,·sh,_,ʕ,:_,r,‥,(ti),y
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-Lamentations 4:13 in vtrad vtbhs
+Lamentations 4:13 in vtrad vtsef
 m,‥,𝓂,x,_,θ,·,o,⅃,α,w,τ
 SPACE
 n,:,v,i,y,α,∵,ƶ,y,h,a
@@ -2394,7 +2441,7 @@ d,·,_,(me),m.
 SPACE
 ц,_,d,·,i,y,q,i,𝓂,y,m.,.
 
-Lamentations 4:14 in vtrad vtbhs
+Lamentations 4:14 in vtrad vtsef
 n,a,ʕ,<,w,·
 SPACE
 ʕ,i,w,:,r,i,y,m.,(p)
@@ -2413,7 +2460,7 @@ y,i,g,·,:,ʕ,(ti),w,·
 SPACE
 v,·,i,l,:,v,u,$,·sh,‥,y,h,∵,𝓂,m.,.
 
-Lamentations 4:15 in vtrad vtbhs
+Lamentations 4:15 in vtrad vtsef
 σ,⅃,w,·,r,w,·
 SPACE
 θ,a,m,‥,(G),α
@@ -2444,7 +2491,7 @@ y,w,o,σ,i,(ti),f,w,·
 SPACE
 l,a,g,𝓂,w,·,r,.
 
-Lamentations 4:16 in vtrad vtbhs
+Lamentations 4:16 in vtrad vtsef
 f,·,:,n,‥,<,y
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -2470,7 +2517,7 @@ l,o,(me),α
 SPACE
 x,a,n,a,𝓂,n,w,·,.
 
-Lamentations 4:17 in vtrad vtbhs
+Lamentations 4:17 in vtrad vtsef
 SPACE
 τ,·,i,k,:,l,∵,⅃,y,n,a,h
 SPACE
@@ -2490,7 +2537,7 @@ l,o,(me),α
 SPACE
 y,w,o,$,·sh,i,𝓂,ʕ,_,.
 
-Lamentations 4:18 in vtrad vtbhs
+Lamentations 4:18 in vtrad vtsef
 ц,a,d,⅃,w,·
 SPACE
 ц,:,ʕ,a,d,‥,ƶ,y,n,w,·
@@ -2511,7 +2558,7 @@ k,·,i,y,-,v,a,(me),α
 SPACE
 q,i,ц,·,‥,𝓂,n,w,·,.
 
-Lamentations 4:19 in vtrad vtbhs
+Lamentations 4:19 in vtrad vtsef
 q,_,l,·,i,<,y,m.
 SPACE
 h,a,y,w,·,(p)
@@ -2532,7 +2579,7 @@ SPACE
 SPACE
 l,a,𝓂,n,w,·,.
 
-Lamentations 4:20 in vtrad vtbhs
+Lamentations 4:20 in vtrad vtsef
 r,<,w,·,x,_
 SPACE
 α,_,f,·,‥,(p),y,n,w,·,(p)
@@ -2555,7 +2602,7 @@ n,i,𝓂,x,:,y,∵,(me),h
 SPACE
 v,_,g,·,w,o,y,i,𝓂,m.,.
 
-Lamentations 4:21 in vtrad vtbhs
+Lamentations 4:21 in vtrad vtsef
 $,·si,i,<,y,$,·si,i,y
 SPACE
 w,:,$,·si,i,m,:,x,i,y,(p)
@@ -2575,7 +2622,7 @@ SPACE
 SPACE
 w,:,τ,i,τ,:,ʕ,a,r,i,𝓂,y,.
 
-Lamentations 4:22 in vtrad vtbhs
+Lamentations 4:22 in vtrad vtsef
 τ,·,_,m.,-,ʕ,:_,w,hhfv,n,‥,k.,:,(p)
 SPACE
 v,·,_,τ,-,ц,i,y,·,ƶ,w,o,n.
@@ -2596,7 +2643,7 @@ g,·,i,l,·,a,(ti),h
 SPACE
 ʕ,_,l,-,x,_,θ,·,o,α,τ,a,𝓂,y,i,k.,:,.
 
-Lamentations 5:1 in vtrad vtbhs
+Lamentations 5:1 in vtrad vtsef
 z,:,k,o,<,r
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -2610,7 +2657,7 @@ w,·,r,:,α,‥,(me),h
 SPACE
 α,∵,τ,-,x,∵,r,:,f,·,a,τ,‥,𝓂,n,w,·,.
 
-Lamentations 5:2 in vtrad vtbhs
+Lamentations 5:2 in vtrad vtsef
 n,_,x,:_,l,a,τ,‥,(p),n,w,·,(p)
 SPACE
 n,∵,𝓂,h,∵,f,:,k,a,⅃,h
@@ -2621,7 +2668,7 @@ v,·,a,τ,·,‥,(ti),y,n,w,·
 SPACE
 l,:,n,oa,k,:,r,i,𝓂,y,m.,.
 
-Lamentations 5:3 in vtrad vtbhs
+Lamentations 5:3 in vtrad vtsef
 y,:,τ,w,o,m,i,<,y,m.
 SPACE
 h,a,y,i,(p),y,n,w,·,(p)
@@ -2633,7 +2680,7 @@ SPACE
 SPACE
 k,·,:,α,_,l,:,m,a,n,𝓂,w,o,τ,.
 
-Lamentations 5:4 in vtrad vtbhs
+Lamentations 5:4 in vtrad vtsef
 m,‥,y,m,‥,(p),y,n,w,·,(p)
 SPACE
 v,·,:,k,∵,⅃,σ,∵,f.
@@ -2646,7 +2693,7 @@ v,·,i,m,:,x,i,(me),y,r
 SPACE
 y,a,v,o,𝓂,α,w,·,.
 
-Lamentations 5:5 in vtrad vtbhs
+Lamentations 5:5 in vtrad vtsef
 ʕ,_,<,l
 SPACE
 ц,_,w,·,a,α,r,‥,(p),n,w,·,(p)
@@ -2658,7 +2705,7 @@ SPACE
 SPACE
 h,𝓂,w,·,n,_,𝓂,x,-,l,a,𝓂,n,w,·,.
 
-Lamentations 5:6 in vtrad vtbhs
+Lamentations 5:6 in vtrad vtsef
 m,i,ц,:,r,_,(p),y,i,m.,(p)
 SPACE
 n,a,τ,_,⅃,n,·,w,·
@@ -2671,7 +2718,7 @@ l,i,$,·si,:,v,·,o,(me),ʕ,_,𝓂
 SPACE
 l,a,𝓂,x,∵,m.,.
 
-Lamentations 5:7 in vtrad vtbhs
+Lamentations 5:7 in vtrad vtsef
 α,:_,v,o,τ,‥,<,y,n,w,·
 SPACE
 x,a,𝓂,θ,:,α,w,·,(p)
@@ -2682,7 +2729,7 @@ SPACE
 SPACE
 σ,a,v,a,𝓂,l,:,n,w,·,.
 
-Lamentations 5:8 in vtrad vtbhs
+Lamentations 5:8 in vtrad vtsef
 ʕ,:_,v,a,d,i,y,m.,(p)
 SPACE
 m,a,⅃,$,·sh,:,l,w,·
@@ -2695,7 +2742,7 @@ SPACE
 SPACE
 m,i,y,·,a,d,a,𝓂,m.,.
 
-Lamentations 5:9 in vtrad vtbhs
+Lamentations 5:9 in vtrad vtsef
 v,·,:,n,_,f,:,$,·sh,‥,(p),n,w,·,(p)
 SPACE
 n,a,v,i,⅃,y,α
@@ -2708,7 +2755,7 @@ x,∵,(me),r,∵,v
 SPACE
 h,_,m,·,i,d,:,v,·,a,𝓂,r,.
 
-Lamentations 5:10 in vtrad vtbhs
+Lamentations 5:10 in vtrad vtsef
 ʕ,w,o,r,‥,(p),n,w,·,(p)
 SPACE
 k,·,:,τ,_,n,·,⅃,w,·,r
@@ -2721,7 +2768,7 @@ z,_,l,:,ʕ,:_,f,(me),w,o,τ
 SPACE
 r,a,ʕ,a,𝓂,v,.
 
-Lamentations 5:11 in vtrad vtbhs
+Lamentations 5:11 in vtrad vtsef
 n,a,$,·sh,i,y,m.,(p)
 SPACE
 v,·,:,ц,i,y,·,⅃,w,o,n.
@@ -2734,7 +2781,7 @@ v,·,:,ʕ,a,r,‥,(me),y
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-Lamentations 5:12 in vtrad vtbhs
+Lamentations 5:12 in vtrad vtsef
 $,·si,a,r,i,y,m.,(p)
 SPACE
 v,·,:,y,a,d,a,⅃,m.
@@ -2749,7 +2796,7 @@ l,o,(me),α
 SPACE
 n,∵,h,:,d,·,a,𝓂,r,w,·,.
 
-Lamentations 5:13 in vtrad vtbhs
+Lamentations 5:13 in vtrad vtsef
 v,·,_,x,w,·,r,i,y,m.,(p)
 SPACE
 θ,:,x,⅃,w,o,n.
@@ -2762,7 +2809,7 @@ v,·,a,ʕ,‥,(me),ц.
 SPACE
 k,·,a,$,·sh,a,𝓂,l,w,·,.
 
-Lamentations 5:14 in vtrad vtbhs
+Lamentations 5:14 in vtrad vtsef
 z,:,q,‥,n,i,y,m.,(p)
 SPACE
 m,i,$,·sh,·,_,⅃,ʕ,_,r
@@ -2773,7 +2820,7 @@ v,·,_,x,w,·,r,i,(ti),y,m.
 SPACE
 m,i,n,·,:,g,i,y,n,a,τ,a,𝓂,m.,.
 
-Lamentations 5:15 in vtrad vtbhs
+Lamentations 5:15 in vtrad vtsef
 $,·sh,a,v,_,τ,(p)
 SPACE
 m,:,$,·si,⅃,w,o,$,·si
@@ -2786,7 +2833,7 @@ l,:,α,‥,(ti),v,∵,l
 SPACE
 m,:,x,o,l,‥,𝓂,n,w,·,.
 
-Lamentations 5:16 in vtrad vtbhs
+Lamentations 5:16 in vtrad vtsef
 n,a,𝓂,f,:,l,a,h,(p)
 SPACE
 ʕ,:_,θ,∵,⅃,r,∵,τ
@@ -2801,7 +2848,7 @@ k,·,i,(me),y
 SPACE
 x,a,θ,a,𝓂,α,n,w,·,.
 
-Lamentations 5:17 in vtrad vtbhs
+Lamentations 5:17 in vtrad vtsef
 ʕ,_,l,-,z,∵,◆,h
 SPACE
 h,a,y,a,<,h
@@ -2816,7 +2863,7 @@ x,a,$,·sh,:,k,(me),w,·
 SPACE
 ʕ,‥,y,n,‥,𝓂,y,n,w,·,.
 
-Lamentations 5:18 in vtrad vtbhs
+Lamentations 5:18 in vtrad vtsef
 ʕ,_,<,l
 SPACE
 h,_,r,-,ц,i,y,·,w,o,n.,(p)
@@ -2827,7 +2874,7 @@ $,·sh,w,·,ʕ,a,l,i,(ti),y,m.
 SPACE
 h,i,l,·,:,k,w,·,-,v,𝓂,w,o,.
 
-Lamentations 5:19 in vtrad vtbhs
+Lamentations 5:19 in vtrad vtsef
 α,_,τ,·,a,<,h
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -2842,7 +2889,7 @@ l,:,d,(me),w,o,r
 SPACE
 w,a,d,𝓂,w,o,r,.
 
-Lamentations 5:20 in vtrad vtbhs
+Lamentations 5:20 in vtrad vtsef
 l,a,<,m,·,a,h
 SPACE
 l,a,n,∵,(p),ц,_,x,(p)
@@ -2855,10 +2902,15 @@ l,:,α,o,(me),r,∵,k.,:
 SPACE
 y,a,m,i,𝓂,y,m.,.
 
-Lamentations 5:21 in vtrad vtbhs
+Lamentations 5:21 in vtrad vtsef
 h,:_,$,·sh,i,y,v,‥,(qa),n,w,·
 SPACE
 y,:,h,o,w,a,<,h
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 α,‥,l,∵,(p),y,k.,a,(p)
 SPACE
 SPACE
@@ -2868,7 +2920,7 @@ y,a,m,‥,(ti),y,n,w,·
 SPACE
 k,·,:,q,∵,𝓂,d,∵,m.,.
 
-Lamentations 5:22 in vtrad vtbhs
+Lamentations 5:22 in vtrad vtsef
 k,·,i,(ye),y
 SPACE
 α,i,m.,-,m,a,α,o,⅃,σ

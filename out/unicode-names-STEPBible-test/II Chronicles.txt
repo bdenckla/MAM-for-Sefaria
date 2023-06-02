@@ -1,5 +1,5 @@
 unicode_names II Chronicles
-2Chronicles 1:1 in vtrad vtbhs
+2Chronicles 1:1 in vtrad vtsef
 w,_,y,·,i,τ,:,x,_,z,·,‥,⟓,q
 SPACE
 $,·sh,:,l,o,m,o,(me),h
@@ -18,7 +18,7 @@ w,_,𝓂,y,:,g,_,d,·,:,l,‥,(ti),h,w,·
 SPACE
 l,:,m,a,𝓂,ʕ,:,l,a,h,.
 
-2Chronicles 1:2 in vtrad vtbhs
+2Chronicles 1:2 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 $,·sh,:,l,o,m,o,⅃,h
@@ -43,7 +43,7 @@ r,a,α,$,·sh,‥,(me),y
 SPACE
 h,a,α,a,v,𝓂,w,o,τ,.
 
-2Chronicles 1:3 in vtrad vtbhs
+2Chronicles 1:3 in vtrad vtsef
 w,_,y,·,‥,l,:,k,◆,w,·
 SPACE
 $,·sh,:,l,o,m,o,h,(p)
@@ -78,7 +78,7 @@ SPACE
 SPACE
 v,·,_,m,·,i,d,:,v,·,a,𝓂,r,.
 
-2Chronicles 1:4 in vtrad vtbhs
+2Chronicles 1:4 in vtrad vtsef
 α,:_,v,a,◆,l
 SPACE
 α,:_,r,<,w,o,n.
@@ -107,7 +107,7 @@ SPACE
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 1:5 in vtrad vtbhs
+2Chronicles 1:5 in vtrad vtsef
 w,·,m,i,z,:,v,·,_,⅃,x
 SPACE
 h,_,n,·,:,x,o,◆,$,·sh,∵,τ
@@ -136,7 +136,7 @@ $,·sh,:,l,o,m,o,(ti),h
 SPACE
 w,:,h,_,q,·,a,h,a,𝓂,l,.
 
-2Chronicles 1:6 in vtrad vtbhs
+2Chronicles 1:6 in vtrad vtsef
 w,_,y,·,_,(tq),ʕ,_,l,(tq)
 SPACE
 $,·sh,:,l,o,m,o,(qa),h
@@ -165,7 +165,7 @@ SPACE
 SPACE
 α,a,𝓂,l,∵,f.,.
 
-2Chronicles 1:7 in vtrad vtbhs
+2Chronicles 1:7 in vtrad vtsef
 v,·,_,l,·,_,⅃,y,:,l,a,h
 SPACE
 h,_,h,ƶ,w,·,α
@@ -186,7 +186,7 @@ m,a,(me),h
 SPACE
 α,∵,τ,·,∵,n.,-,l,a,𝓂,k.,:,.
 
-2Chronicles 1:8 in vtrad vtbhs
+2Chronicles 1:8 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 $,·sh,:,l,o,m,o,h,(p)
@@ -209,7 +209,7 @@ w,:,h,i,m,:,l,_,k,:,τ,·,_,(ti),n,i,y
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Chronicles 1:9 in vtrad vtbhs
+2Chronicles 1:9 in vtrad vtsef
 ʕ,_,τ,·,a,h,(p)
 SPACE
 y,:,h,o,w,a,⅃,h
@@ -240,7 +240,7 @@ k,·,_,ʕ,:_,f,_,(me),r
 SPACE
 h,a,α,a,𝓂,r,∵,ц.,.
 
-2Chronicles 1:10 in vtrad vtbhs
+2Chronicles 1:10 in vtrad vtsef
 ʕ,_,τ,·,a,◆,h
 SPACE
 x,oa,k,:,m,a,<,h
@@ -267,10 +267,15 @@ h,_,z,·,∵,(ti),h
 SPACE
 h,_,g,·,a,d,𝓂,w,o,l,.
 
-2Chronicles 1:11 in vtrad vtbhs
+2Chronicles 1:11 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 α,:∵,l,o,h,i,⅃,y,m.
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 l,i,$,·sh,:,l,o,m,o,μ,h
 SPACE
 y,_,⅃,ʕ,_,n.
@@ -323,7 +328,7 @@ h,i,m,:,l,_,k,:,τ,·,i,(ti),y,k.,a
 SPACE
 ʕ,a,l,a,𝓂,y,w,.
 
-2Chronicles 1:12 in vtrad vtbhs
+2Chronicles 1:12 in vtrad vtsef
 h,_,x,oa,k,:,m,a,(me),h
 SPACE
 w,:,h,_,m,·,_,d,·,a,(ti),ʕ
@@ -341,6 +346,10 @@ SPACE
 α,∵,τ,·,∵,n.,-,l,a,ƶ,k.,:
 SPACE
 α,:_,$,·sh,∵,⅃,r
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 l,o,α,-,h,a,⅃,y,a,h
 SPACE
@@ -358,7 +367,7 @@ l,o,(me),α
 SPACE
 y,i,𝓂,h,:,y,∵,h,-,k,·,‥,𝓂,n.,.
 
-2Chronicles 1:13 in vtrad vtbhs
+2Chronicles 1:13 in vtrad vtsef
 w,_,y,·,a,v,o,(qa),α
 SPACE
 $,·sh,:,l,o,m,o,(ge),h
@@ -379,7 +388,7 @@ w,_,y,·,i,m,:,l,o,(ti),k.,:
 SPACE
 ʕ,_,l,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 1:14 in vtrad vtbhs
+2Chronicles 1:14 in vtrad vtsef
 w,_,y,·,∵,𝓂,α,:∵,σ,o,⅃,f.
 SPACE
 $,·sh,:,l,o,m,o,h,~
@@ -412,7 +421,7 @@ w,:,ʕ,i,m.,-,h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 1:15 in vtrad vtbhs
+2Chronicles 1:15 in vtrad vtsef
 w,_,y,·,i,τ,·,‥,(qa),n.
 SPACE
 h,_,m,·,∵,(ge),l,∵,k.,:
@@ -437,7 +446,7 @@ SPACE
 SPACE
 l,a,r,o,𝓂,v,.
 
-2Chronicles 1:16 in vtrad vtbhs
+2Chronicles 1:16 in vtrad vtsef
 w,·,m,w,o,ц,a,(da),α
 SPACE
 h,_,σ,·,w,·,σ,i,⟓,y,m.
@@ -460,7 +469,7 @@ y,i,q,:,x,(ti),w,·
 SPACE
 v,·,i,m,:,x,i,𝓂,y,r,.
 
-2Chronicles 1:17 in vtrad vtbhs
+2Chronicles 1:17 in vtrad vtsef
 w,_,𝓂,⌕,y,·,_,ʕ,:_,l,⌕,w,·
 SPACE
 w,_,y,·,w,o,ц,i,(qa),y,α,w,·
@@ -495,7 +504,7 @@ v,·,:,y,a,d,a,(me),m.
 SPACE
 y,w,o,ц,i,𝓂,y,α,w,·,.
 
-2Chronicles 1:18 in vtrad vtbhs
+2Chronicles 1:18 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 $,·sh,:,l,o,m,o,◆,h
@@ -512,7 +521,7 @@ w,·,v,_,(ti),y,i,τ
 SPACE
 l,:,m,_,l,:,k,w,·,τ,𝓂,w,o,.
 
-2Chronicles 2:1 in vtrad vtbhs
+2Chronicles 2:1 in vtrad vtsef
 w,_,y,·,i,σ,:,f,·,o,(qa),r
 SPACE
 $,·sh,:,l,o,m,o,(ge),h
@@ -547,7 +556,7 @@ w,:,$,·sh,‥,(me),$,·sh
 SPACE
 m,‥,α,𝓂,w,o,τ,.
 
-2Chronicles 2:2 in vtrad vtbhs
+2Chronicles 2:2 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,⅃,x
 SPACE
 $,·sh,:,l,o,m,o,ƶ,h
@@ -578,7 +587,7 @@ l,a,$,·sh,∵,(me),v,∵,τ
 SPACE
 v,·,𝓂,w,o,.
 
-2Chronicles 2:3 in vtrad vtbhs
+2Chronicles 2:3 in vtrad vtsef
 h,i,n,·,‥,h,(tq)
 SPACE
 α,:_,n,i,(qa),y
@@ -586,6 +595,10 @@ SPACE
 v,𝓂,w,o,n,∵,h,-,v,·,_,(ge),y,i,τ
 SPACE
 l,:,$,·sh,‥,⅃,m.
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 y,:,h,o,w,a,⅃,h
 SPACE
@@ -627,7 +640,7 @@ z,o,(me),α,τ
 SPACE
 ʕ,_,l,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 2:4 in vtrad vtbhs
+2Chronicles 2:4 in vtrad vtsef
 w,:,h,_,v,·,_,⟓,y,i,τ
 SPACE
 α,:_,$,·sh,∵,r,-,α,:_,n,i,(me),y
@@ -642,7 +655,7 @@ SPACE
 SPACE
 m,i,k,·,oa,l,-,h,a,α,:∵,l,o,h,i,𝓂,y,m.,.
 
-2Chronicles 2:5 in vtrad vtbhs
+2Chronicles 2:5 in vtrad vtsef
 w,·,m,i,<,y
 SPACE
 y,_,𝓂,ʕ,:_,ц,oa,r,-,k,·,o,(p),x,_,(p)
@@ -679,7 +692,7 @@ SPACE
 SPACE
 l,:,f,a,n,a,𝓂,y,w,.
 
-2Chronicles 2:6 in vtrad vtbhs
+2Chronicles 2:6 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,μ,h
 SPACE
 $,·sh,:,𝓂,l,_,𝓂,x,-,l,i,⅃,y
@@ -726,7 +739,7 @@ d,·,a,w,i,(me),y,d
 SPACE
 α,a,v,i,𝓂,y,.
 
-2Chronicles 2:7 in vtrad vtbhs
+2Chronicles 2:7 in vtrad vtsef
 w,·,𝓂,$,·sh,:,l,_,𝓂,x,-,l,i,y,(tq)
 SPACE
 ʕ,:_,ц,‥,(qa),y
@@ -763,7 +776,7 @@ SPACE
 SPACE
 ʕ,i,m.,-,ʕ,:_,v,a,d,∵,𝓂,y,k.,a,.
 
-2Chronicles 2:8 in vtrad vtbhs
+2Chronicles 2:8 in vtrad vtsef
 w,·,l,:,h,a,k,i,(me),y,n.
 SPACE
 l,i,⟓,y
@@ -784,7 +797,7 @@ g,·,a,d,(me),w,o,l
 SPACE
 w,:,h,_,f,:,l,‥,𝓂,α,.
 
-2Chronicles 2:9 in vtrad vtbhs
+2Chronicles 2:9 in vtrad vtsef
 w,:,h,i,n,·,‥,⅃,h
 SPACE
 l,_,𝓂,x,o,θ,:,v,i,⅃,y,m.
@@ -796,6 +809,11 @@ SPACE
 n,a,τ,_,(tq),τ,·,i,y,(tq)
 SPACE
 x,i,θ,·,i,(qa),y,m.
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 m,_,k,·,(ge),w,o,τ
 SPACE
 l,_,ʕ,:_,v,a,d,∵,◆,y,k.,a
@@ -830,7 +848,7 @@ SPACE
 SPACE
 α,a,𝓂,l,∵,f.,.
 
-2Chronicles 2:10 in vtrad vtbhs
+2Chronicles 2:10 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 x,w,·,r,a,<,m.
@@ -855,7 +873,7 @@ SPACE
 SPACE
 m,∵,𝓂,l,∵,k.,:,.
 
-2Chronicles 2:11 in vtrad vtbhs
+2Chronicles 2:11 in vtrad vtsef
 w,_,y,·,o,≁,α,m,∵,r,~
 SPACE
 x,w,·,r,a,m.,∴
@@ -904,7 +922,7 @@ w,·,v,_,(ti),y,i,τ
 SPACE
 l,:,m,_,l,:,k,w,·,τ,𝓂,w,o,.
 
-2Chronicles 2:12 in vtrad vtbhs
+2Chronicles 2:12 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,◆,h
 SPACE
 $,·sh,a,l,_,(da),x,:,τ,·,i,y
@@ -919,7 +937,7 @@ l,:,x,w,·,r,a,(me),m.
 SPACE
 α,a,v,i,𝓂,y,.
 
-2Chronicles 2:13 in vtrad vtbhs
+2Chronicles 2:13 in vtrad vtsef
 v,·,∵,n.,-,α,i,$,·sh,·,a,(G),h
 SPACE
 m,i,n.,-,v,·,:,n,⅃,w,o,τ
@@ -974,7 +992,7 @@ d,·,a,w,i,(me),y,d
 SPACE
 α,a,v,i,𝓂,y,k.,a,.
 
-2Chronicles 2:14 in vtrad vtbhs
+2Chronicles 2:14 in vtrad vtsef
 w,:,⌕,ʕ,_,τ,·,a,⌕,h
 SPACE
 h,_,x,i,θ,·,i,(qa),y,m.
@@ -995,7 +1013,7 @@ y,i,$,·sh,:,l,_,(ti),x
 SPACE
 l,_,ʕ,:_,v,a,d,a,𝓂,y,w,.
 
-2Chronicles 2:15 in vtrad vtbhs
+2Chronicles 2:15 in vtrad vtsef
 w,_,⌕,α,:_,n,_,⌕,x,:,n,w,·
 SPACE
 n,i,k,:,r,o,(qa),τ
@@ -1024,7 +1042,7 @@ SPACE
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 2:16 in vtrad vtbhs
+2Chronicles 2:16 in vtrad vtsef
 w,_,y,·,i,σ,:,f,·,o,⅃,r
 SPACE
 $,·sh,:,l,o,m,o,◆,h
@@ -1067,7 +1085,7 @@ w,:,$,·sh,‥,(me),$,·sh
 SPACE
 m,‥,α,𝓂,w,o,τ,.
 
-2Chronicles 2:17 in vtrad vtbhs
+2Chronicles 2:17 in vtrad vtsef
 w,_,y,·,_,(qa),ʕ,_,$,·si
 SPACE
 m,‥,h,∵,(ge),m.
@@ -1100,7 +1118,7 @@ l,:,h,_,ʕ,:_,v,i,(me),y,d
 SPACE
 α,∵,τ,-,h,a,ʕ,a,𝓂,m.,.
 
-2Chronicles 3:1 in vtrad vtbhs
+2Chronicles 3:1 in vtrad vtsef
 w,_,y,·,a,⅃,x,∵,l
 SPACE
 $,·sh,:,l,o,m,o,◆,h
@@ -1137,7 +1155,7 @@ SPACE
 SPACE
 h,_,y,:,v,w,·,σ,i,𝓂,y,.
 
-2Chronicles 3:2 in vtrad vtbhs
+2Chronicles 3:2 in vtrad vtsef
 w,_,⌕,y,·,a,⌕,x,∵,l
 SPACE
 l,i,v,:,n,(G),w,o,τ
@@ -1154,7 +1172,7 @@ SPACE
 SPACE
 l,:,m,_,l,:,k,w,·,τ,𝓂,w,o,.
 
-2Chronicles 3:3 in vtrad vtbhs
+2Chronicles 3:3 in vtrad vtsef
 w,:,α,‥,(p),l,·,∵,h,(p)
 SPACE
 h,w,·,σ,_,⅃,d
@@ -1185,7 +1203,7 @@ SPACE
 SPACE
 ʕ,∵,$,·si,:,r,i,𝓂,y,m.,.
 
-2Chronicles 3:4 in vtrad vtbhs
+2Chronicles 3:4 in vtrad vtsef
 w,:,h,a,α,w,·,l,a,μ,m.
 SPACE
 α,:_,$,·sh,∵,r,(tq)
@@ -1216,8 +1234,12 @@ z,a,h,a,(me),v
 SPACE
 θ,a,h,𝓂,w,o,r,.
 
-2Chronicles 3:5 in vtrad vtbhs
+2Chronicles 3:5 in vtrad vtsef
 w,:,α,‥,⅃,τ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 h,_,v,·,_,⅃,y,i,τ
 SPACE
@@ -1243,7 +1265,7 @@ SPACE
 SPACE
 w,:,$,·sh,_,r,:,$,·sh,:,r,o,𝓂,τ,.
 
-2Chronicles 3:6 in vtrad vtbhs
+2Chronicles 3:6 in vtrad vtsef
 w,_,y,:,ц,_,(da),f.
 SPACE
 α,∵,τ,-,h,_,v,·,_,⟓,y,i,τ
@@ -1260,7 +1282,7 @@ z,:,h,_,(me),v
 SPACE
 f,·,_,r,:,w,a,𝓂,y,i,m.,.
 
-2Chronicles 3:7 in vtrad vtbhs
+2Chronicles 3:7 in vtrad vtsef
 w,_,y,:,x,_,(qa),f.
 SPACE
 α,∵,τ,-,h,_,v,·,_,(ge),y,i,τ
@@ -1281,7 +1303,7 @@ k,·,:,r,w,·,v,i,(ti),y,m.
 SPACE
 ʕ,_,l,-,h,_,q,·,i,y,r,𝓂,w,o,τ,.
 
-2Chronicles 3:8 in vtrad vtbhs
+2Chronicles 3:8 in vtrad vtsef
 w,_,y,·,_,(p),ʕ,_,$,·si,(p)
 SPACE
 α,∵,τ,-,v,·,‥,𝓂,y,τ,-,q,o,⅃,d,∵,$,·sh
@@ -1316,7 +1338,7 @@ $,·sh,‥,(me),$,·sh
 SPACE
 m,‥,α,𝓂,w,o,τ,.
 
-2Chronicles 3:9 in vtrad vtbhs
+2Chronicles 3:9 in vtrad vtsef
 w,·,m,i,$,·sh,:,q,a,⟓,l
 SPACE
 l,:,m,i,σ,:,m,:,r,(me),w,o,τ
@@ -1333,7 +1355,7 @@ x,i,f,·,a,(me),h
 SPACE
 z,a,h,a,𝓂,v,.
 
-2Chronicles 3:10 in vtrad vtbhs
+2Chronicles 3:10 in vtrad vtsef
 w,_,y,·,_,(ge),ʕ,_,$,·si
 SPACE
 v,·,:,v,‥,𝓂,y,τ,-,q,o,<,d,∵,$,·sh
@@ -1354,7 +1376,7 @@ SPACE
 SPACE
 z,a,h,a,𝓂,v,.
 
-2Chronicles 3:11 in vtrad vtbhs
+2Chronicles 3:11 in vtrad vtsef
 w,:,k,_,n,:,f,‥,y,(p)
 SPACE
 h,_,k,·,:,r,w,·,v,i,ƶ,y,m.
@@ -1395,7 +1417,7 @@ h,_,k,·,:,r,(me),w,·,v
 SPACE
 h,a,α,_,x,‥,𝓂,r,.
 
-2Chronicles 3:12 in vtrad vtbhs
+2Chronicles 3:12 in vtrad vtsef
 w,·,k,:,n,_,(qa),f.
 SPACE
 h,_,k,·,:,r,<,w,·,v
@@ -1428,7 +1450,7 @@ h,_,k,·,:,r,(me),w,·,v
 SPACE
 h,a,α,_,x,‥,𝓂,r,.
 
-2Chronicles 3:13 in vtrad vtbhs
+2Chronicles 3:13 in vtrad vtsef
 k,·,_,n,:,f,‥,y,(p)
 SPACE
 h,_,k,·,:,r,w,·,v,i,⅃,y,m.
@@ -1451,7 +1473,7 @@ w,·,f,:,n,‥,y,h,∵,(me),m.
 SPACE
 l,_,v,·,a,𝓂,y,i,τ,.
 
-2Chronicles 3:14 in vtrad vtbhs
+2Chronicles 3:14 in vtrad vtsef
 w,_,y,·,_,(p),ʕ,_,$,·si,(p)
 SPACE
 α,∵,τ,-,h,_,f,·,a,r,o,ƶ,k,∵,τ
@@ -1470,7 +1492,7 @@ SPACE
 SPACE
 k,·,:,r,w,·,v,i,𝓂,y,m.,.
 
-2Chronicles 3:15 in vtrad vtbhs
+2Chronicles 3:15 in vtrad vtsef
 w,_,y,·,_,(ge),ʕ,_,$,·si
 SPACE
 l,i,f,:,n,‥,<,y
@@ -1497,7 +1519,7 @@ SPACE
 SPACE
 x,a,m,‥,𝓂,$,·sh,.
 
-2Chronicles 3:16 in vtrad vtbhs
+2Chronicles 3:16 in vtrad vtsef
 w,_,y,·,_,<,ʕ,_,$,·si
 SPACE
 $,·sh,_,r,:,$,·sh,:,r,w,o,τ,(p)
@@ -1520,7 +1542,7 @@ w,_,y,·,i,τ,·,‥,(ti),n.
 SPACE
 v,·,_,𝓂,$,·sh,·,_,r,:,$,·sh,:,r,𝓂,w,o,τ,.
 
-2Chronicles 3:17 in vtrad vtbhs
+2Chronicles 3:17 in vtrad vtsef
 w,_,y,·,a,<,q,∵,m.
 SPACE
 α,∵,τ,-,h,a,𝓂,ʕ,_,m,·,w,·,d,i,y,m.,(p)
@@ -1549,7 +1571,7 @@ h,_,$,·si,·,:,m,a,α,l,i,(ti),y
 SPACE
 v,·,o,𝓂,ʕ,_,z,.
 
-2Chronicles 4:1 in vtrad vtbhs
+2Chronicles 4:1 in vtrad vtsef
 w,_,y,·,_,(p),ʕ,_,$,·si,(p)
 SPACE
 m,i,z,:,v,·,_,⅃,x
@@ -1574,7 +1596,7 @@ SPACE
 SPACE
 q,w,o,m,a,τ,𝓂,w,o,.
 
-2Chronicles 4:2 in vtrad vtbhs
+2Chronicles 4:2 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 α,∵,τ,-,h,_,y,·,a,(ti),m.
@@ -1590,6 +1612,10 @@ SPACE
 α,∵,l,-,$,·si,:,f,a,τ,(ge),w,o
 SPACE
 ʕ,a,g,⅃,w,o,l
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 σ,a,v,i,◆,y,v
 SPACE
@@ -1611,7 +1637,7 @@ SPACE
 SPACE
 σ,a,v,i,𝓂,y,v,.
 
-2Chronicles 4:3 in vtrad vtbhs
+2Chronicles 4:3 in vtrad vtsef
 w,·,d,:,m,⅃,w,·,τ
 SPACE
 v,·,:,q,a,r,i,y,m.,(tq)
@@ -1621,6 +1647,11 @@ SPACE
 l,(ge),w,o
 SPACE
 σ,a,v,i,<,y,v
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 σ,a,v,i,y,v,(p)
 SPACE
 σ,w,o,v,:,v,i,⅃,y,m.
@@ -1647,7 +1678,7 @@ y,:,ц,w,·,q,i,(ti),y,m.
 SPACE
 v,·,:,m,u,ц,_,q,:,τ,·,𝓂,w,o,.
 
-2Chronicles 4:4 in vtrad vtbhs
+2Chronicles 4:4 in vtrad vtsef
 ʕ,w,o,m,‥,(G),d
 SPACE
 ʕ,_,l,-,$,·sh,:,n,‥,(da),y,m.
@@ -1659,14 +1690,28 @@ SPACE
 $,·sh,:,l,o,$,·sh,a,⅃,h
 SPACE
 f,o,n,i,⅃,y,m.
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 ц,a,f,μ,w,o,n,a,h
 SPACE
 w,·,$,·sh,:,l,w,o,$,·sh,a,h,(tq)
 SPACE
 f,o,n,i,(qa),y,m.
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 y,a,(ge),m,·,a,h
 SPACE
 w,·,$,·sh,:,l,o,$,·sh,a,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 f,·,o,n,i,⅃,y,m.
 SPACE
@@ -1688,7 +1733,7 @@ w,:,k,oa,l,-,α,:_,x,o,r,‥,y,h,∵,(ti),m.
 SPACE
 v,·,a,𝓂,y,:,τ,a,h,.
 
-2Chronicles 4:5 in vtrad vtbhs
+2Chronicles 4:5 in vtrad vtsef
 w,:,ʕ,oa,v,:,y,⅃,w,o
 SPACE
 θ,∵,ƶ,f,_,x
@@ -1713,7 +1758,7 @@ SPACE
 SPACE
 y,a,k,i,𝓂,y,l,.
 
-2Chronicles 4:6 in vtrad vtbhs
+2Chronicles 4:6 in vtrad vtsef
 w,_,y,·,_,⅃,ʕ,_,$,·si
 SPACE
 k,·,i,y,·,w,o,r,i,y,m.,~
@@ -1750,7 +1795,7 @@ l,_,k,·,o,h,:_,n,i,(ti),y,m.
 SPACE
 v,·,𝓂,w,o,.
 
-2Chronicles 4:7 in vtrad vtbhs
+2Chronicles 4:7 in vtrad vtsef
 w,_,⌕,y,·,_,⌕,ʕ,_,$,·si
 SPACE
 α,∵,τ,-,m,:,n,o,r,(da),w,o,τ
@@ -1773,7 +1818,7 @@ w,:,x,a,m,‥,(me),$,·sh
 SPACE
 m,i,$,·si,·,:,m,o,𝓂,α,w,l,.
 
-2Chronicles 4:8 in vtrad vtbhs
+2Chronicles 4:8 in vtrad vtsef
 w,_,y,·,_,⅃,ʕ,_,$,·si
 SPACE
 $,·sh,u,l,:,x,a,n,w,o,τ,~
@@ -1800,7 +1845,7 @@ z,a,h,a,(ti),v
 SPACE
 m,‥,α,a,𝓂,h,.
 
-2Chronicles 4:9 in vtrad vtbhs
+2Chronicles 4:9 in vtrad vtsef
 w,_,y,·,_,(p),ʕ,_,$,·si,(p)
 SPACE
 x,:_,ц,_,⅃,r
@@ -1821,7 +1866,7 @@ SPACE
 SPACE
 n,:,x,o,𝓂,$,·sh,∵,τ,.
 
-2Chronicles 4:10 in vtrad vtbhs
+2Chronicles 4:10 in vtrad vtsef
 w,:,α,∵,τ,-,h,_,y,·,a,◆,m.
 SPACE
 n,a,τ,_,(G),n.
@@ -1836,7 +1881,7 @@ m,i,m,·,(me),w,·,l
 SPACE
 n,∵,𝓂,g,:,v,·,a,h,.
 
-2Chronicles 4:11 in vtrad vtbhs
+2Chronicles 4:11 in vtrad vtsef
 w,_,y,·,_,⅃,ʕ,_,$,·si
 SPACE
 x,w,·,r,a,ƶ,m.
@@ -1866,7 +1911,7 @@ v,·,:,v,‥,(me),y,τ
 SPACE
 h,a,α,:∵,l,o,h,i,𝓂,y,m.,.
 
-2Chronicles 4:12 in vtrad vtbhs
+2Chronicles 4:12 in vtrad vtsef
 ʕ,_,m,·,w,·,d,i,⅃,y,m.
 SPACE
 $,·sh,:,n,_,ƶ,y,i,m.
@@ -1899,7 +1944,7 @@ SPACE
 SPACE
 h,a,ʕ,_,m,·,w,·,d,i,𝓂,y,m.,.
 
-2Chronicles 4:13 in vtrad vtbhs
+2Chronicles 4:13 in vtrad vtsef
 w,:,α,∵,τ,-,h,a,r,i,m,·,w,o,n,i,⟓,y,m.
 SPACE
 α,_,r,:,v,·,_,(me),ʕ
@@ -1934,7 +1979,7 @@ SPACE
 SPACE
 h,a,ʕ,_,m,·,w,·,d,i,𝓂,y,m.,.
 
-2Chronicles 4:14 in vtrad vtbhs
+2Chronicles 4:14 in vtrad vtsef
 w,:,α,∵,τ,-,h,_,m,·,:,k,o,n,(ti),w,o,τ
 SPACE
 ʕ,a,$,·si,a,⅄,h
@@ -1945,7 +1990,7 @@ SPACE
 SPACE
 ʕ,_,l,-,h,_,m,·,:,k,o,n,𝓂,w,o,τ,.
 
-2Chronicles 4:15 in vtrad vtbhs
+2Chronicles 4:15 in vtrad vtsef
 α,∵,τ,-,h,_,y,·,a,(ti),m.
 SPACE
 α,∵,x,a,⅄,d
@@ -1956,7 +2001,7 @@ $,·sh,:,n,‥,y,m.,-,ʕ,a,$,·si,a,(ti),r
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Chronicles 4:16 in vtrad vtbhs
+2Chronicles 4:16 in vtrad vtsef
 w,:,α,∵,τ,-,h,_,⌕,σ,·,i,y,r,⌕,w,o,τ
 SPACE
 w,:,α,∵,τ,-,h,_,y,·,a,ʕ,i,<,y,m.
@@ -1983,7 +2028,7 @@ n,:,x,o,(ti),$,·sh,∵,τ
 SPACE
 m,a,r,𝓂,w,·,q,.
 
-2Chronicles 4:17 in vtrad vtbhs
+2Chronicles 4:17 in vtrad vtsef
 v,·,:,k,i,k,·,_,<,r
 SPACE
 h,_,y,·,_,r,:,d,·,‥,n.,(p)
@@ -2004,7 +2049,7 @@ w,·,v,‥,(me),y,n.
 SPACE
 ц,:,r,‥,d,a,𝓂,τ,a,h,.
 
-2Chronicles 4:18 in vtrad vtbhs
+2Chronicles 4:18 in vtrad vtsef
 w,_,y,·,_,(da),ʕ,_,$,·si
 SPACE
 $,·sh,:,l,o,m,o,⟓,h
@@ -2027,7 +2072,7 @@ m,i,$,·sh,:,q,_,(me),l
 SPACE
 h,_,n,·,:,x,o,𝓂,$,·sh,∵,τ,.
 
-2Chronicles 4:19 in vtrad vtbhs
+2Chronicles 4:19 in vtrad vtsef
 w,_,y,·,_,⅃,ʕ,_,$,·si
 SPACE
 $,·sh,:,l,o,m,o,ƶ,h
@@ -2056,7 +2101,7 @@ l,∵,(me),x,∵,m.
 SPACE
 h,_,f,·,a,n,i,𝓂,y,m.,.
 
-2Chronicles 4:20 in vtrad vtbhs
+2Chronicles 4:20 in vtrad vtsef
 w,:,α,∵,τ,-,h,_,m,·,:,n,o,r,(G),w,o,τ
 SPACE
 w,:,n,‥,r,o,𝓂,τ,‥,y,h,∵,◆,m.
@@ -2073,7 +2118,7 @@ z,a,h,a,(me),v
 SPACE
 σ,a,g,𝓂,w,·,r,.
 
-2Chronicles 4:21 in vtrad vtbhs
+2Chronicles 4:21 in vtrad vtsef
 w,:,h,_,f,·,∵,(da),r,_,x
 SPACE
 w,:,h,_,n,·,‥,r,⟓,w,o,τ
@@ -2088,7 +2133,7 @@ m,i,k,:,l,(me),w,o,τ
 SPACE
 z,a,h,a,𝓂,v,.
 
-2Chronicles 4:22 in vtrad vtbhs
+2Chronicles 4:22 in vtrad vtsef
 w,:,h,_,𝓂,m,:,z,_,m,·,:,r,(da),w,o,τ
 SPACE
 w,:,h,_,m,·,i,z,:,r,a,q,⟓,w,o,τ
@@ -2121,7 +2166,7 @@ l,_,𝓂,h,‥,y,k,a,(ti),l
 SPACE
 z,a,h,a,𝓂,v,.
 
-2Chronicles 5:1 in vtrad vtbhs
+2Chronicles 5:1 in vtrad vtsef
 w,_,τ,·,i,$,·sh,:,l,_,m.,(p)
 SPACE
 k,·,oa,l,-,h,_,m,·,:,l,a,α,k,a,ƶ,h
@@ -2150,6 +2195,10 @@ SPACE
 $,·sh,:,l,o,m,o,(ge),h
 SPACE
 α,∵,τ,-,q,oa,d,:,$,·sh,‥,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 d,·,a,w,i,⅃,y,d
 SPACE
@@ -2169,7 +2218,7 @@ v,·,‥,(me),y,τ
 SPACE
 h,a,α,:∵,l,o,h,i,𝓂,y,m.,.
 
-2Chronicles 5:2 in vtrad vtbhs
+2Chronicles 5:2 in vtrad vtsef
 α,a,z,(tq)
 SPACE
 y,_,q,:,h,‥,(qa),y,l
@@ -2208,7 +2257,7 @@ h,i,(me),y,α
 SPACE
 ц,i,y,·,𝓂,w,o,n.,.
 
-2Chronicles 5:3 in vtrad vtbhs
+2Chronicles 5:3 in vtrad vtsef
 w,_,y,·,i,q,·,a,h,:_,l,(da),w,·
 SPACE
 α,∵,l,-,h,_,m,·,∵,⟓,l,∵,k.,:
@@ -2225,7 +2274,7 @@ h,_,x,o,(me),d,∵,$,·sh
 SPACE
 h,_,$,·sh,·,:,v,i,ʕ,i,𝓂,y,.
 
-2Chronicles 5:4 in vtrad vtbhs
+2Chronicles 5:4 in vtrad vtsef
 w,_,y,·,a,v,o,Ƶ,α,w,·
 SPACE
 k,·,o,(ti),l
@@ -2240,7 +2289,7 @@ h,_,l,:,w,i,y,·,i,(ti),m.
 SPACE
 α,∵,τ,-,h,a,α,a,r,𝓂,w,o,n.,.
 
-2Chronicles 5:5 in vtrad vtbhs
+2Chronicles 5:5 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,l,<,w,·
 SPACE
 α,∵,τ,-,h,a,α,a,r,w,o,n.,(p)
@@ -2265,7 +2314,7 @@ h,_,k,·,o,h,:_,n,i,(ti),y,m.
 SPACE
 h,_,l,:,w,i,y,·,i,𝓂,m.,.
 
-2Chronicles 5:6 in vtrad vtbhs
+2Chronicles 5:6 in vtrad vtsef
 w,:,h,_,m,·,∵,⅃,l,∵,k.,:
 SPACE
 $,·sh,:,l,o,m,o,◆,h
@@ -2298,7 +2347,7 @@ y,i,m,·,a,n,(ti),w,·
 SPACE
 m,‥,r,o,𝓂,v,.
 
-2Chronicles 5:7 in vtrad vtbhs
+2Chronicles 5:7 in vtrad vtsef
 w,_,y,·,a,v,i,⅃,y,α,w,·
 SPACE
 h,_,⌕,k,·,o,h,:_,n,i,⌕,y,m.
@@ -2323,7 +2372,7 @@ k,·,_,n,:,f,‥,(me),y
 SPACE
 h,_,k,·,:,r,w,·,v,i,𝓂,y,m.,.
 
-2Chronicles 5:8 in vtrad vtbhs
+2Chronicles 5:8 in vtrad vtsef
 w,_,y,·,i,h,:,y,<,w,·
 SPACE
 h,_,k,·,:,r,w,·,v,i,y,m.,(p)
@@ -2346,7 +2395,7 @@ w,:,ʕ,_,l,-,v,·,_,d,·,a,(ti),y,w
 SPACE
 m,i,l,:,m,a,𝓂,ʕ,:,l,a,h,.
 
-2Chronicles 5:9 in vtrad vtbhs
+2Chronicles 5:9 in vtrad vtsef
 w,_,𝓂,y,·,_,α,:_,r,i,≁,y,k,w,·,~
 SPACE
 h,_,v,·,_,d,·,i,y,m.,∴
@@ -2377,7 +2426,7 @@ h,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Chronicles 5:10 in vtrad vtbhs
+2Chronicles 5:10 in vtrad vtsef
 α,‥,(ye),y,n.
 SPACE
 v,·,a,α,a,r,ƶ,w,o,n.
@@ -2408,7 +2457,7 @@ v,·,:,ц,‥,α,τ,a,(ti),m.
 SPACE
 m,i,m,·,i,ц,:,r,a,𝓂,y,i,m.,.
 
-2Chronicles 5:11 in vtrad vtbhs
+2Chronicles 5:11 in vtrad vtsef
 w,_,y,:,h,i,Ƶ,y
 SPACE
 v,·,:,ц,‥,(me),α,τ
@@ -2431,7 +2480,7 @@ l,i,$,·sh,:,m,(me),w,o,r
 SPACE
 l,:,m,_,x,:,l,:,q,𝓂,w,o,τ,.
 
-2Chronicles 5:12 in vtrad vtbhs
+2Chronicles 5:12 in vtrad vtsef
 w,:,h,_,l,:,w,i,y,·,i,⅃,m.
 SPACE
 h,_,m,:,$,·sh,o,r,:,r,i,⅃,y,m.
@@ -2475,7 +2524,7 @@ SPACE
 SPACE
 v,·,_,x,:_,ц,o,ц,:,r,𝓂,w,o,τ,.
 
-2Chronicles 5:13 in vtrad vtbhs
+2Chronicles 5:13 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
 SPACE
 k,:,⌕,α,∵,x,a,⌕,d
@@ -2529,7 +2578,7 @@ v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 5:14 in vtrad vtbhs
+2Chronicles 5:14 in vtrad vtsef
 w,:,l,o,𝓂,α,-,y,a,k,:,l,(da),w,·
 SPACE
 h,_,k,·,o,h,:_,n,i,⟓,y,m.
@@ -2550,7 +2599,7 @@ SPACE
 SPACE
 h,a,α,:∵,l,o,h,i,𝓂,y,m.,.
 
-2Chronicles 6:1 in vtrad vtbhs
+2Chronicles 6:1 in vtrad vtsef
 α,a,(ti),z
 SPACE
 α,a,m,_,⅃,r
@@ -2565,7 +2614,7 @@ l,i,$,·sh,:,k,·,(ti),w,o,n.
 SPACE
 v,·,a,ʕ,:_,r,a,f,∵,𝓂,l,.
 
-2Chronicles 6:2 in vtrad vtbhs
+2Chronicles 6:2 in vtrad vtsef
 w,_,α,:_,n,i,⟓,y
 SPACE
 v,·,a,n,i,(me),y,τ,i,y
@@ -2580,7 +2629,7 @@ l,:,$,·sh,i,v,:,τ,·,:,k.,a,(ti)
 SPACE
 ʕ,w,o,l,a,m,i,𝓂,y,m.,.
 
-2Chronicles 6:3 in vtrad vtbhs
+2Chronicles 6:3 in vtrad vtsef
 w,_,y,·,_,σ,·,‥,<,v
 SPACE
 h,_,m,·,∵,(p),l,∵,k.,:,(p)
@@ -2601,7 +2650,7 @@ y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 ʕ,w,o,m,‥,𝓂,d,.
 
-2Chronicles 6:4 in vtrad vtbhs
+2Chronicles 6:4 in vtrad vtsef
 w,_,y,·,o,◆,α,m,∵,r
 SPACE
 v,·,a,r,<,w,·,k.,:
@@ -2630,7 +2679,7 @@ m,i,l,·,‥,(ti),α
 SPACE
 l,‥,α,m,o,𝓂,r,.
 
-2Chronicles 6:5 in vtrad vtbhs
+2Chronicles 6:5 in vtrad vtsef
 m,i,n.,-,h,_,y,·,◆,w,o,m.
 SPACE
 α,:_,$,·sh,∵,(qa),r
@@ -2675,7 +2724,7 @@ SPACE
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 6:6 in vtrad vtbhs
+2Chronicles 6:6 in vtrad vtsef
 w,a,𝓂,α,∵,v,:,x,_,r,(p)
 SPACE
 v,·,i,y,r,⅃,w,·,$,·sh,a,l,_,ƶ,CGJ,i,m.
@@ -2696,7 +2745,7 @@ SPACE
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 6:7 in vtrad vtbhs
+2Chronicles 6:7 in vtrad vtsef
 w,_,y,:,h,i,Ƶ,y
 SPACE
 ʕ,i,m.,-,l,:,v,_,(ti),v
@@ -2717,7 +2766,7 @@ SPACE
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 6:8 in vtrad vtbhs
+2Chronicles 6:8 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -2748,7 +2797,7 @@ h,a,y,a,(ti),h
 SPACE
 ʕ,i,m.,-,l,:,v,a,v,∵,𝓂,k.,a,.
 
-2Chronicles 6:9 in vtrad vtbhs
+2Chronicles 6:9 in vtrad vtsef
 r,_,⅃,q
 SPACE
 α,_,τ,·,a,ƶ,h
@@ -2773,7 +2822,7 @@ h,_,v,·,_,(ti),y,i,τ
 SPACE
 l,i,$,·sh,:,m,i,𝓂,y,.
 
-2Chronicles 6:10 in vtrad vtbhs
+2Chronicles 6:10 in vtrad vtsef
 w,_,y,·,a,⅃,q,∵,m.
 SPACE
 y,:,h,o,w,a,ƶ,h
@@ -2793,6 +2842,10 @@ SPACE
 α,a,v,i,(ge),y
 SPACE
 w,a,α,‥,$,·sh,‥,⅃,v
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 ʕ,_,l,-,k,·,i,σ,·,‥,⅃,α
 SPACE
@@ -2816,7 +2869,7 @@ SPACE
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 6:11 in vtrad vtbhs
+2Chronicles 6:11 in vtrad vtsef
 w,a,α,a,$,·si,i,(me),y,m.
 SPACE
 $,·sh,a,m.,(p)
@@ -2837,7 +2890,7 @@ SPACE
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 6:12 in vtrad vtbhs
+2Chronicles 6:12 in vtrad vtsef
 w,_,𝓂,y,·,_,ʕ,:_,m,o,◆,d
 SPACE
 l,i,f,:,n,‥,y,(p)
@@ -2856,7 +2909,7 @@ w,_,y,·,i,f,:,r,o,(ti),$,·si
 SPACE
 k,·,_,f,·,a,𝓂,y,w,.
 
-2Chronicles 6:13 in vtrad vtbhs
+2Chronicles 6:13 in vtrad vtsef
 k,·,i,𝓂,y,-,ʕ,a,$,·si,a,(qa),h
 SPACE
 $,·sh,:,l,o,m,o,(ge),h
@@ -2909,8 +2962,13 @@ k,·,_,f,·,a,(ti),y,w
 SPACE
 h,_,$,·sh,·,a,m,a,𝓂,y,:,m,a,h,.
 
-2Chronicles 6:14 in vtrad vtbhs
+2Chronicles 6:14 in vtrad vtsef
 w,_,y,·,o,α,m,_,◆,r
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+START br class=mam-br-after-pe
 y,:,h,o,w,a,(G),h
 SPACE
 α,:∵,l,o,h,‥,<,y
@@ -2939,7 +2997,7 @@ l,:,f,a,n,∵,(ti),y,k.,a
 SPACE
 v,·,:,k,oa,l,-,l,i,v,·,a,𝓂,m.,.
 
-2Chronicles 6:15 in vtrad vtbhs
+2Chronicles 6:15 in vtrad vtsef
 α,:_,$,·sh,∵,⅃,r
 SPACE
 $,·sh,a,m,_,◆,r,:,τ,·,a
@@ -2968,10 +3026,14 @@ k,·,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Chronicles 6:16 in vtrad vtbhs
+2Chronicles 6:16 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,(G),h
 SPACE
 y,:,h,o,w,a,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,:∵,l,o,h,‥,⅃,y
 SPACE
@@ -3027,7 +3089,7 @@ h,a,l,_,(ti),k,:,τ,·,a
 SPACE
 l,:,f,a,n,a,𝓂,y,.
 
-2Chronicles 6:17 in vtrad vtbhs
+2Chronicles 6:17 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,Ƶ,h
 SPACE
 y,:,h,o,w,a,(ti),h
@@ -3048,7 +3110,7 @@ l,:,ʕ,_,v,:,d,·,:,k.,a,(me)
 SPACE
 l,:,d,a,w,i,𝓂,y,d,.
 
-2Chronicles 6:18 in vtrad vtbhs
+2Chronicles 6:18 in vtrad vtsef
 k,·,i,(ye),y
 SPACE
 h,_,𝓂,α,u,m,:,n,a,ƶ,m.
@@ -3083,7 +3145,7 @@ SPACE
 SPACE
 v,·,a,n,i,𝓂,y,τ,i,y,.
 
-2Chronicles 6:19 in vtrad vtbhs
+2Chronicles 6:19 in vtrad vtsef
 w,·,f,a,n,i,(ge),y,τ,a
 SPACE
 α,∵,l,-,τ,·,:,f,i,l,·,_,(da),τ
@@ -3110,7 +3172,7 @@ m,i,τ,:,f,·,_,l,·,‥,(me),l
 SPACE
 l,:,f,a,n,∵,𝓂,y,k.,a,.
 
-2Chronicles 6:20 in vtrad vtbhs
+2Chronicles 6:20 in vtrad vtsef
 l,i,h,:,y,w,o,τ,(tq)
 SPACE
 ʕ,‥,y,n,∵,(qa),y,k.,a
@@ -3151,7 +3213,7 @@ SPACE
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Chronicles 6:21 in vtrad vtbhs
+2Chronicles 6:21 in vtrad vtsef
 w,:,$,·sh,a,(qa),m,_,ʕ,:,τ,·,a,(ge)
 SPACE
 α,∵,l,-,τ,·,_,x,:_,n,w,·,n,‥,<,y
@@ -3184,7 +3246,7 @@ w,:,$,·sh,a,m,_,ʕ,:,τ,·,a,(ti)
 SPACE
 w,:,σ,a,l,a,𝓂,x,:,τ,·,a,.
 
-2Chronicles 6:22 in vtrad vtbhs
+2Chronicles 6:22 in vtrad vtsef
 α,i,m.,-,y,∵,x,:∵,θ,a,(me),α
 SPACE
 α,i,y,$,·sh,(p)
@@ -3209,8 +3271,12 @@ v,·,_,v,·,_,(me),y,i,τ
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Chronicles 6:23 in vtrad vtbhs
+2Chronicles 6:23 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 τ,·,i,$,·sh,:,m,_,⅃,ʕ
 SPACE
@@ -3242,7 +3308,7 @@ l,(ti),w,o
 SPACE
 k,·,:,ц,i,d,:,q,a,τ,𝓂,w,o,.
 
-2Chronicles 6:24 in vtrad vtbhs
+2Chronicles 6:24 in vtrad vtsef
 w,:,𝓂,α,i,m.,-,y,i,n,·,a,g,‥,(G),f.
 SPACE
 ʕ,_,m,·,:,k.,a,(da)
@@ -3273,7 +3339,7 @@ v,·,_,v,·,_,(me),y,i,τ
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Chronicles 6:25 in vtrad vtbhs
+2Chronicles 6:25 in vtrad vtsef
 w,:,α,_,τ,·,a,h,(p)
 SPACE
 τ,·,i,$,·sh,:,m,_,⅃,ʕ
@@ -3298,7 +3364,7 @@ l,a,h,∵,(ti),m.
 SPACE
 w,:,l,_,α,:_,v,o,τ,‥,y,h,∵,𝓂,m.,.
 
-2Chronicles 6:26 in vtrad vtbhs
+2Chronicles 6:26 in vtrad vtsef
 v,·,:,h,‥,ʕ,a,ц,‥,(da),r
 SPACE
 h,_,$,·sh,·,a,m,_,⟓,y,i,m.
@@ -3329,8 +3395,12 @@ k,·,i,(me),y
 SPACE
 τ,_,ʕ,:_,n,‥,𝓂,m.,.
 
-2Chronicles 6:27 in vtrad vtbhs
+2Chronicles 6:27 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 τ,·,i,$,·sh,:,m,_,⅃,ʕ
 SPACE
@@ -3370,7 +3440,7 @@ l,:,ʕ,_,m,·,:,k.,a,(ti)
 SPACE
 l,:,n,_,x,:_,l,a,𝓂,h,.
 
-2Chronicles 6:28 in vtrad vtbhs
+2Chronicles 6:28 in vtrad vtsef
 r,a,ʕ,a,(G),v
 SPACE
 k,·,i,𝓂,y,-,y,i,h,:,y,∵,⅃,h
@@ -3407,7 +3477,7 @@ k,·,oa,l,-,n,∵,(ti),g,_,ʕ
 SPACE
 w,:,k,oa,𝓂,l,-,m,_,x,:_,l,a,𝓂,h,.
 
-2Chronicles 6:29 in vtrad vtbhs
+2Chronicles 6:29 in vtrad vtsef
 k,·,oa,l,-,τ,·,:,f,i,l,·,a,⅃,h
 SPACE
 k,oa,l,-,τ,·,:,x,i,n,·,a,◆,h
@@ -3442,7 +3512,7 @@ SPACE
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Chronicles 6:30 in vtrad vtbhs
+2Chronicles 6:30 in vtrad vtsef
 w,:,⌕,α,_,τ,·,a,⌕,h
 SPACE
 τ,·,i,$,·sh,:,m,_,(qa),ʕ
@@ -3481,7 +3551,7 @@ v,·,:,n,‥,(me),y
 SPACE
 h,a,α,a,d,a,𝓂,m.,.
 
-2Chronicles 6:31 in vtrad vtbhs
+2Chronicles 6:31 in vtrad vtsef
 l,:,m,_,⅃,ʕ,_,n.
 SPACE
 y,i,y,r,a,α,◆,w,·,k.,a
@@ -3506,7 +3576,7 @@ n,a,τ,_,(ti),τ,·,a,h
 SPACE
 l,_,α,:_,v,o,τ,‥,𝓂,y,n,w,·,.
 
-2Chronicles 6:32 in vtrad vtbhs
+2Chronicles 6:32 in vtrad vtsef
 w,:,g,_,⅃,m.
 SPACE
 α,∵,l,-,h,_,n,·,oa,k,:,r,i,◆,y
@@ -3522,6 +3592,10 @@ SPACE
 h,w,·,α,∴
 SPACE
 w,·,v,a,⅃,α
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 m,‥,α,∵,⅃,r,∵,ц.
 SPACE
@@ -3549,7 +3623,7 @@ SPACE
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Chronicles 6:33 in vtrad vtbhs
+2Chronicles 6:33 in vtrad vtsef
 w,:,α,_,τ,·,a,(G),h
 SPACE
 τ,·,i,$,·sh,:,m,_,<,ʕ
@@ -3602,7 +3676,7 @@ SPACE
 SPACE
 v,·,a,n,i,𝓂,y,τ,i,y,.
 
-2Chronicles 6:34 in vtrad vtbhs
+2Chronicles 6:34 in vtrad vtsef
 k,·,i,𝓂,y,-,y,‥,ц,‥,(qa),α
 SPACE
 ʕ,_,m,·,:,k.,a,<
@@ -3639,7 +3713,7 @@ SPACE
 SPACE
 l,i,$,·sh,:,m,∵,𝓂,k.,a,.
 
-2Chronicles 6:35 in vtrad vtbhs
+2Chronicles 6:35 in vtrad vtsef
 w,:,$,·sh,a,𝓂,m,_,ʕ,:,τ,·,a,(p)
 SPACE
 m,i,n.,-,h,_,$,·sh,·,a,m,_,ƶ,y,i,m.
@@ -3652,7 +3726,7 @@ w,:,ʕ,a,$,·si,i,(ti),y,τ,a
 SPACE
 m,i,$,·sh,:,f,·,a,θ,a,𝓂,m.,.
 
-2Chronicles 6:36 in vtrad vtbhs
+2Chronicles 6:36 in vtrad vtsef
 k,·,i,⅃,y
 SPACE
 y,∵,x,∵,θ,:,α,w,·,-,l,a,◆,k.,:
@@ -3689,7 +3763,7 @@ SPACE
 SPACE
 q,:,r,w,o,v,a,𝓂,h,.
 
-2Chronicles 6:37 in vtrad vtbhs
+2Chronicles 6:37 in vtrad vtsef
 w,:,h,‥,$,·sh,i,(p),y,v,w,·,(p)
 SPACE
 α,∵,l,-,l,:,v,a,v,a,ƶ,m.
@@ -3701,6 +3775,10 @@ SPACE
 n,i,$,·sh,:,v,·,w,·,-,$,·sh,a,⅄,m.
 SPACE
 w,:,$,·sh,a,⅃,v,w,·
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 w,:,h,i,𝓂,τ,:,x,_,n,·,:,n,⅃,w,·
 SPACE
@@ -3718,7 +3796,7 @@ h,∵,ʕ,:∵,w,i,(ti),y,n,w,·
 SPACE
 w,:,r,a,$,·sh,a,𝓂,ʕ,:,n,w,·,.
 
-2Chronicles 6:38 in vtrad vtbhs
+2Chronicles 6:38 in vtrad vtsef
 w,:,$,·sh,a,⅃,v,w,·
 SPACE
 α,‥,l,∵,◆,y,k.,a
@@ -3759,7 +3837,7 @@ SPACE
 SPACE
 l,i,$,·sh,:,m,∵,𝓂,k.,a,.
 
-2Chronicles 6:39 in vtrad vtbhs
+2Chronicles 6:39 in vtrad vtsef
 w,:,$,·sh,a,m,_,ʕ,:,τ,·,a,(qa)
 SPACE
 m,i,n.,-,h,_,$,·sh,·,a,m,_,(ge),y,i,m.
@@ -3784,7 +3862,7 @@ SPACE
 SPACE
 x,a,θ,:,α,w,·,-,l,a,𝓂,k.,:,.
 
-2Chronicles 6:40 in vtrad vtbhs
+2Chronicles 6:40 in vtrad vtsef
 ʕ,_,τ,·,a,⅃,h
 SPACE
 α,:∵,l,o,h,_,◆,y
@@ -3805,7 +3883,7 @@ h,_,m,·,a,q,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Chronicles 6:41 in vtrad vtbhs
+2Chronicles 6:41 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,◆,h
 SPACE
 q,w,·,m,a,(G),h
@@ -3838,7 +3916,7 @@ y,i,$,·si,:,m,:,x,(me),w,·
 SPACE
 v,_,θ,·,𝓂,w,o,v,.
 
-2Chronicles 6:42 in vtrad vtbhs
+2Chronicles 6:42 in vtrad vtsef
 y,:,h,o,w,a,⅃,h
 SPACE
 α,:∵,l,o,h,i,ƶ,y,m.
@@ -3857,7 +3935,7 @@ d,·,a,w,i,(me),y,d
 SPACE
 ʕ,_,v,:,d,·,∵,𝓂,k.,a,.
 
-2Chronicles 7:1 in vtrad vtbhs
+2Chronicles 7:1 in vtrad vtsef
 w,·,k,:,k,_,l,·,<,w,o,τ
 SPACE
 $,·sh,:,l,o,m,o,h,(p)
@@ -3884,7 +3962,7 @@ m,a,l,‥,(me),α
 SPACE
 α,∵,τ,-,h,_,v,·,a,𝓂,y,i,τ,.
 
-2Chronicles 7:2 in vtrad vtbhs
+2Chronicles 7:2 in vtrad vtsef
 w,:,l,o,<,α
 SPACE
 y,a,𝓂,k,:,l,w,·,(p)
@@ -3905,8 +3983,12 @@ SPACE
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 7:3 in vtrad vtbhs
+2Chronicles 7:3 in vtrad vtsef
 w,:,k,o,⅃,l
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 v,·,:,n,‥,⅃,y
 SPACE
@@ -3948,7 +4030,7 @@ l,:,ʕ,w,o,l,a,(ti),m.
 SPACE
 x,_,σ,:,d,·,𝓂,w,o,.
 
-2Chronicles 7:4 in vtrad vtbhs
+2Chronicles 7:4 in vtrad vtsef
 w,:,h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
 w,:,k,oa,l,-,h,a,ʕ,a,⅄,m.
@@ -3961,7 +4043,7 @@ l,i,f,:,n,‥,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 7:5 in vtrad vtbhs
+2Chronicles 7:5 in vtrad vtsef
 w,_,y,·,i,z,:,v,·,_,(G),x
 SPACE
 h,_,m,·,∵,⅃,l,∵,k.,:
@@ -3996,7 +4078,7 @@ h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
 w,:,k,oa,l,-,h,a,ʕ,a,𝓂,m.,.
 
-2Chronicles 7:6 in vtrad vtbhs
+2Chronicles 7:6 in vtrad vtsef
 w,:,h,_,k,·,o,h,:_,n,i,(G),y,m.
 SPACE
 ʕ,_,l,-,m,i,$,·sh,:,m,:,r,w,o,τ,a,⅃,m.
@@ -4040,7 +4122,7 @@ w,:,k,oa,l,-,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 ʕ,o,m,:,d,i,𝓂,y,m.,.
 
-2Chronicles 7:7 in vtrad vtbhs
+2Chronicles 7:7 in vtrad vtsef
 w,_,y,:,q,_,d,·,‥,⅃,$,·sh
 SPACE
 $,·sh,:,l,o,m,o,◆,h
@@ -4089,7 +4171,7 @@ w,:,α,∵,τ,-,h,_,m,·,i,n,:,x,a,(ti),h
 SPACE
 w,:,α,∵,τ,-,h,_,x,:_,l,a,v,i,𝓂,y,m.,.
 
-2Chronicles 7:8 in vtrad vtbhs
+2Chronicles 7:8 in vtrad vtsef
 w,_,y,·,_,⅃,ʕ,_,$,·si
 SPACE
 $,·sh,:,l,o,m,o,⅃,h
@@ -4122,7 +4204,7 @@ SPACE
 SPACE
 m,i,ц,:,r,a,𝓂,y,i,m.,.
 
-2Chronicles 7:9 in vtrad vtbhs
+2Chronicles 7:9 in vtrad vtsef
 w,_,𝓂,y,·,_,ʕ,:_,$,·si,⟓,w,·
 SPACE
 v,·,_,y,·,(me),w,o,m.
@@ -4132,6 +4214,10 @@ SPACE
 ʕ,:_,ц,a,⅄,r,∵,τ
 SPACE
 k,·,i,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 x,:_,n,u,k,·,_,⅃,τ
 SPACE
@@ -4149,7 +4235,7 @@ $,·sh,i,v,:,ʕ,_,(me),τ
 SPACE
 y,a,m,i,𝓂,y,m.,.
 
-2Chronicles 7:10 in vtrad vtbhs
+2Chronicles 7:10 in vtrad vtsef
 w,·,v,:,y,(qa),w,o,m.
 SPACE
 ʕ,∵,$,·si,:,r,i,<,y,m.
@@ -4188,7 +4274,7 @@ w,·,l,:,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 ʕ,_,m,·,𝓂,w,o,.
 
-2Chronicles 7:11 in vtrad vtbhs
+2Chronicles 7:11 in vtrad vtsef
 w,_,y,:,k,_,(da),l
 SPACE
 $,·sh,:,l,o,m,o,⟓,h
@@ -4217,7 +4303,7 @@ w,·,v,:,v,‥,y,τ,(ti),w,o
 SPACE
 h,i,ц,:,l,i,𝓂,y,x,_,.
 
-2Chronicles 7:12 in vtrad vtbhs
+2Chronicles 7:12 in vtrad vtsef
 w,_,y,·,‥,r,a,(da),α
 SPACE
 y,:,h,o,w,a,⟓,h
@@ -4246,7 +4332,7 @@ l,:,v,‥,(me),y,τ
 SPACE
 z,a,𝓂,v,_,x,.
 
-2Chronicles 7:13 in vtrad vtbhs
+2Chronicles 7:13 in vtrad vtsef
 h,‥,⅃,n.
 SPACE
 α,∵,ʕ,:∵,ц,o,<,r
@@ -4271,7 +4357,7 @@ d,·,∵,(ti),v,∵,r
 SPACE
 v,·,:,ʕ,_,m,·,i,𝓂,y,.
 
-2Chronicles 7:14 in vtrad vtbhs
+2Chronicles 7:14 in vtrad vtsef
 w,:,y,i,k,·,a,n,:,ʕ,(qa),w,·
 SPACE
 ʕ,_,m,·,i,(ge),y
@@ -4308,7 +4394,7 @@ w,:,α,∵,r,:,f,·,a,(ti),α
 SPACE
 α,∵,τ,-,α,_,r,:,ц,a,𝓂,m.,.
 
-2Chronicles 7:15 in vtrad vtbhs
+2Chronicles 7:15 in vtrad vtsef
 ʕ,_,τ,·,a,◆,h
 SPACE
 ʕ,‥,y,n,_,y,(p)
@@ -4327,7 +4413,7 @@ h,_,m,·,a,q,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Chronicles 7:16 in vtrad vtbhs
+2Chronicles 7:16 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,◆,h
 SPACE
 v,·,a,x,_,<,r,:,τ,·,i,y
@@ -4354,7 +4440,7 @@ $,·sh,a,(ti),m.
 SPACE
 k,·,oa,l,-,h,_,y,·,a,m,i,𝓂,y,m.,.
 
-2Chronicles 7:17 in vtrad vtbhs
+2Chronicles 7:17 in vtrad vtsef
 w,:,α,_,τ,·,a,(G),h
 SPACE
 α,i,m.,-,τ,·,‥,l,‥,⅃,k.,:
@@ -4383,7 +4469,7 @@ w,·,m,i,$,·sh,:,f,·,a,θ,_,(ti),y
 SPACE
 τ,·,i,$,·sh,:,m,𝓂,w,o,r,.
 
-2Chronicles 7:18 in vtrad vtbhs
+2Chronicles 7:18 in vtrad vtsef
 w,_,h,:_,q,i,⅃,y,m,w,o,τ,i,ƶ,y
 SPACE
 α,‥,(ti),τ
@@ -4412,7 +4498,7 @@ m,w,o,$,·sh,‥,(ti),l
 SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 7:19 in vtrad vtbhs
+2Chronicles 7:19 in vtrad vtsef
 w,:,α,i,m.,-,τ,·,:,$,·sh,w,·,v,⅃,w,·,n.
 SPACE
 α,_,τ,·,∵,ƶ,m.
@@ -4441,7 +4527,7 @@ w,:,h,i,$,·sh,:,τ,·,_,x,:_,w,i,y,τ,∵,(ti),m.
 SPACE
 l,a,h,∵,𝓂,m.,.
 
-2Chronicles 7:20 in vtrad vtbhs
+2Chronicles 7:20 in vtrad vtsef
 w,·,n,:,τ,_,$,·sh,:,τ,·,i,◆,y,m.
 SPACE
 m,‥,ʕ,_,<,l
@@ -4478,7 +4564,7 @@ w,:,l,i,$,·sh,:,n,i,y,n,a,(ti),h
 SPACE
 v,·,:,k,oa,l,-,h,a,ʕ,_,m,·,i,𝓂,y,m.,.
 
-2Chronicles 7:21 in vtrad vtbhs
+2Chronicles 7:21 in vtrad vtsef
 w,:,h,_,v,·,_,<,y,i,τ
 SPACE
 h,_,z,·,∵,h,(p)
@@ -4513,7 +4599,7 @@ w,:,l,_,v,·,_,(me),y,i,τ
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Chronicles 7:22 in vtrad vtbhs
+2Chronicles 7:22 in vtrad vtsef
 w,:,α,a,m,:,r,◆,w,·
 SPACE
 ʕ,_,l,(tq)
@@ -4523,6 +4609,10 @@ SPACE
 ʕ,a,z,:,v,(ge),w,·
 SPACE
 α,∵,τ,-,y,:,h,o,w,a,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,:∵,l,o,h,‥,⅃,y
 SPACE
@@ -4560,10 +4650,14 @@ k,·,oa,l,-,h,a,r,a,ʕ,a,(ti),h
 SPACE
 h,_,z,·,o,𝓂,α,τ,.
 
-2Chronicles 8:1 in vtrad vtbhs
+2Chronicles 8:1 in vtrad vtsef
 w,_,y,:,h,i,(G),y
 SPACE
 m,i,q,·,‥,⅃,ц.
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 ʕ,∵,$,·si,:,r,i,⅃,y,m.
 SPACE
@@ -4581,7 +4675,7 @@ y,:,h,o,w,a,(ti),h
 SPACE
 w,:,α,∵,τ,-,v,·,‥,y,τ,𝓂,w,o,.
 
-2Chronicles 8:2 in vtrad vtbhs
+2Chronicles 8:2 in vtrad vtsef
 w,:,h,∵,ʕ,a,r,i,◆,y,m.
 SPACE
 α,:_,$,·sh,∵,(qa),r
@@ -4606,7 +4700,7 @@ SPACE
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 8:3 in vtrad vtbhs
+2Chronicles 8:3 in vtrad vtsef
 w,_,y,·,‥,<,l,∵,k.,:
 SPACE
 $,·sh,:,l,o,m,o,h,(p)
@@ -4619,7 +4713,7 @@ w,_,y,·,∵,x,:∵,z,_,(ti),q
 SPACE
 ʕ,a,l,∵,𝓂,y,h,a,.
 
-2Chronicles 8:4 in vtrad vtbhs
+2Chronicles 8:4 in vtrad vtsef
 w,_,y,·,i,(me),v,∵,n.
 SPACE
 α,∵,τ,-,τ,·,_,d,:,m,o,(ti),r
@@ -4638,7 +4732,7 @@ v,·,a,n,a,(ti),h
 SPACE
 v,·,_,x,:_,m,a,𝓂,τ,.
 
-2Chronicles 8:5 in vtrad vtbhs
+2Chronicles 8:5 in vtrad vtsef
 w,_,y,·,i,(ge),v,∵,n.
 SPACE
 α,∵,τ,-,v,·,‥,<,y,τ
@@ -4663,7 +4757,7 @@ d,·,:,l,a,τ,_,(me),y,i,m.
 SPACE
 w,·,v,:,r,i,𝓂,y,x,_,.
 
-2Chronicles 8:6 in vtrad vtbhs
+2Chronicles 8:6 in vtrad vtsef
 w,:,α,∵,𝓂,τ,-,v,·,_,ʕ,:_,l,a,◆,τ
 SPACE
 w,:,α,‥,(qa),τ
@@ -4691,6 +4785,10 @@ SPACE
 h,_,f,·,a,r,a,$,·sh,i,⅄,y,m.
 SPACE
 w,:,α,‥,⅃,τ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 k,·,oa,l,-,x,‥,⅃,$,·sh,∵,q
 SPACE
@@ -4712,7 +4810,7 @@ SPACE
 SPACE
 m,∵,m,:,$,·sh,_,l,:,τ,·,𝓂,w,o,.
 
-2Chronicles 8:7 in vtrad vtbhs
+2Chronicles 8:7 in vtrad vtsef
 k,·,oa,l,-,h,a,⌕,ʕ,a,⌕,m.
 SPACE
 h,_,n,·,w,o,τ,a,(qa),r
@@ -4735,7 +4833,7 @@ m,i,y,·,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 h,‥,𝓂,m,·,a,h,.
 
-2Chronicles 8:8 in vtrad vtbhs
+2Chronicles 8:8 in vtrad vtsef
 m,i,n.,-,v,·,:,n,‥,y,h,∵,◆,m.
 SPACE
 α,:_,$,·sh,∵,(qa),r
@@ -4766,7 +4864,7 @@ h,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Chronicles 8:9 in vtrad vtbhs
+2Chronicles 8:9 in vtrad vtsef
 w,·,m,i,n.,-,v,·,:,n,‥,y,(p)
 SPACE
 y,i,$,·si,:,r,a,α,‥,ƶ,l
@@ -4797,7 +4895,7 @@ r,i,k,:,v,·,(ti),w,o
 SPACE
 w,·,f,a,r,a,$,·sh,a,𝓂,y,w,.
 
-2Chronicles 8:10 in vtrad vtbhs
+2Chronicles 8:10 in vtrad vtsef
 w,:,α,‥,(qa),l,·,∵,h
 SPACE
 $,·si,a,r,‥,(da),y
@@ -4815,7 +4913,7 @@ h,a,r,o,d,i,(ti),y,m.
 SPACE
 v,·,a,ʕ,a,𝓂,m.,.
 
-2Chronicles 8:11 in vtrad vtbhs
+2Chronicles 8:11 in vtrad vtsef
 w,:,α,∵,τ,-,v,·,_,τ,-,f,·,_,r,:,ʕ,o,◆,h
 SPACE
 h,∵,ʕ,:∵,l,a,<,h
@@ -4858,7 +4956,7 @@ SPACE
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 8:12 in vtrad vtbhs
+2Chronicles 8:12 in vtrad vtsef
 α,a,⅃,z
 SPACE
 h,∵,ʕ,:∵,l,a,(da),h
@@ -4883,7 +4981,7 @@ l,i,f,:,n,‥,(me),y
 SPACE
 h,a,α,w,·,l,a,𝓂,m.,.
 
-2Chronicles 8:13 in vtrad vtbhs
+2Chronicles 8:13 in vtrad vtsef
 w,·,v,i,d,:,v,_,r,-,y,⅃,w,o,m.
 SPACE
 v,·,:,y,◆,w,o,m.
@@ -4918,7 +5016,7 @@ w,·,v,:,x,_,(me),g
 SPACE
 h,_,σ,·,u,k,·,𝓂,w,o,τ,.
 
-2Chronicles 8:14 in vtrad vtbhs
+2Chronicles 8:14 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,m,‥,⅃,d
 SPACE
 k,·,:,m,i,$,·sh,:,f,·,_,⅃,θ
@@ -4965,7 +5063,7 @@ d,·,a,w,i,(me),y,d
 SPACE
 α,i,y,$,·sh,-,h,a,α,:∵,l,o,h,i,𝓂,y,m.,.
 
-2Chronicles 8:15 in vtrad vtbhs
+2Chronicles 8:15 in vtrad vtsef
 w,:,l,o,⅃,α
 SPACE
 σ,a,(tq),r,w,·,(tq)
@@ -4982,7 +5080,7 @@ l,:,k,oa,l,-,d,·,a,v,a,(ti),r
 SPACE
 w,:,l,a,α,o,ц,a,r,𝓂,w,o,τ,.
 
-2Chronicles 8:16 in vtrad vtbhs
+2Chronicles 8:16 in vtrad vtsef
 w,_,τ,·,i,k,·,o,n.,(p)
 SPACE
 k,·,oa,l,-,m,:,l,∵,⅃,α,k,∵,τ
@@ -5003,7 +5101,7 @@ v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 8:17 in vtrad vtbhs
+2Chronicles 8:17 in vtrad vtsef
 α,a,z,(tq)
 SPACE
 h,a,l,_,(qa),k.,:
@@ -5022,7 +5120,7 @@ v,·,:,α,∵,(me),r,∵,ц.
 SPACE
 α,:∵,d,𝓂,w,o,m.,.
 
-2Chronicles 8:18 in vtrad vtbhs
+2Chronicles 8:18 in vtrad vtsef
 w,_,y,·,i,𝓂,$,·sh,:,l,_,𝓂,x,-,l,w,o,(tq)
 SPACE
 x,w,·,r,a,(qa),m.
@@ -5062,7 +5160,7 @@ SPACE
 SPACE
 $,·sh,:,l,o,m,o,𝓂,h,.
 
-2Chronicles 9:1 in vtrad vtbhs
+2Chronicles 9:1 in vtrad vtsef
 w,·,m,_,𝓂,l,:,k,·,_,τ,-,$,·sh,:,v,a,◆,α
 SPACE
 $,·sh,a,𝓂,m,:,ʕ,a,h,~
@@ -5117,7 +5215,7 @@ h,a,y,a,(ti),h
 SPACE
 ʕ,i,m.,-,l,:,v,a,v,a,𝓂,h,·,.
 
-2Chronicles 9:2 in vtrad vtbhs
+2Chronicles 9:2 in vtrad vtsef
 w,_,y,·,_,g,·,∵,d,-,l,a,(me),h,·
 SPACE
 $,·sh,:,l,o,m,o,(ti),h
@@ -5138,7 +5236,7 @@ h,i,g,·,i,(ti),y,d
 SPACE
 l,a,𝓂,h,·,.
 
-2Chronicles 9:3 in vtrad vtbhs
+2Chronicles 9:3 in vtrad vtsef
 w,_,τ,·,‥,(p),r,∵,α,(p)
 SPACE
 m,_,𝓂,l,:,k,·,_,τ,-,$,·sh,:,v,a,ƶ,α
@@ -5155,7 +5253,7 @@ SPACE
 SPACE
 v,·,a,n,a,𝓂,h,.
 
-2Chronicles 9:4 in vtrad vtbhs
+2Chronicles 9:4 in vtrad vtsef
 w,·,m,_,α,:_,k,_,⅃,l
 SPACE
 $,·sh,u,l,:,x,a,n,μ,w,o
@@ -5192,7 +5290,7 @@ v,·,a,(ti),h,·
 SPACE
 r,𝓂,w,·,x,_,.
 
-2Chronicles 9:5 in vtrad vtbhs
+2Chronicles 9:5 in vtrad vtsef
 w,_,τ,·,o,(p),α,m,∵,r,(p)
 SPACE
 α,∵,l,-,h,_,m,·,∵,ƶ,l,∵,k.,:
@@ -5211,7 +5309,7 @@ SPACE
 SPACE
 w,:,ʕ,_,l,-,x,oa,k,:,m,a,τ,∵,𝓂,k.,a,.
 
-2Chronicles 9:6 in vtrad vtbhs
+2Chronicles 9:6 in vtrad vtsef
 w,:,l,o,α,-,h,∵,α,:∵,m,_,⅃,n,:,τ,·,i,y
 SPACE
 l,:,d,i,v,:,r,‥,y,h,∵,◆,m.
@@ -5244,7 +5342,7 @@ SPACE
 SPACE
 $,·sh,a,m,a,𝓂,ʕ,:,τ,·,i,y,.
 
-2Chronicles 9:7 in vtrad vtbhs
+2Chronicles 9:7 in vtrad vtsef
 α,_,$,·sh,:,r,‥,⅃,y
 SPACE
 α,:_,n,a,$,·sh,∵,ƶ,y,k.,a
@@ -5265,7 +5363,7 @@ w,:,$,·sh,o,m,:,ʕ,i,(ti),y,m.
 SPACE
 α,∵,τ,-,x,oa,k,:,m,a,τ,∵,𝓂,k.,a,.
 
-2Chronicles 9:8 in vtrad vtbhs
+2Chronicles 9:8 in vtrad vtsef
 y,:,h,i,(qa),y
 SPACE
 y,:,h,o,w,a,<,h
@@ -5275,6 +5373,10 @@ SPACE
 v,·,a,r,ƶ,w,·,k.,:
 SPACE
 α,:_,$,·sh,∵,⅃,r
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 x,a,f,‥,⅃,ц.
 SPACE
@@ -5312,7 +5414,7 @@ m,i,$,·sh,:,f,·,a,(ti),θ
 SPACE
 w,·,ц,:,d,a,q,a,𝓂,h,.
 
-2Chronicles 9:9 in vtrad vtbhs
+2Chronicles 9:9 in vtrad vtsef
 w,_,τ,·,i,τ,·,‥,(qa),n.
 SPACE
 l,_,m,·,∵,(ge),l,∵,k.,:
@@ -5320,6 +5422,10 @@ SPACE
 m,‥,α,a,(me),h
 SPACE
 w,:,ʕ,∵,$,·si,:,r,i,⅃,y,m.
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 k,·,i,k,·,_,⅃,r
 SPACE
@@ -5351,7 +5457,7 @@ l,_,m,·,∵,(me),l,∵,k.,:
 SPACE
 $,·sh,:,l,o,m,o,𝓂,h,.
 
-2Chronicles 9:10 in vtrad vtbhs
+2Chronicles 9:10 in vtrad vtsef
 w,:,g,_,m.,-,ʕ,_,v,:,d,‥,<,y
 SPACE
 SPACE
@@ -5375,7 +5481,7 @@ w,:,α,∵,(me),v,∵,n.
 SPACE
 y,:,q,a,r,a,𝓂,h,.
 
-2Chronicles 9:11 in vtrad vtbhs
+2Chronicles 9:11 in vtrad vtsef
 w,_,y,·,_,⅃,ʕ,_,$,·si
 SPACE
 h,_,⌕,m,·,∵,⌕,l,∵,k.,:
@@ -5408,7 +5514,7 @@ v,·,:,α,∵,(me),r,∵,ц.
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Chronicles 9:12 in vtrad vtbhs
+2Chronicles 9:12 in vtrad vtsef
 w,:,h,_,m,·,∵,(qa),l,∵,k.,:
 SPACE
 $,·sh,:,l,o,m,o,(ge),h
@@ -5439,7 +5545,7 @@ h,i,(me),y,α
 SPACE
 w,_,ʕ,:_,v,a,d,∵,𝓂,y,h,a,.
 
-2Chronicles 9:13 in vtrad vtbhs
+2Chronicles 9:13 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 m,i,$,·sh,:,q,_,⅃,l
@@ -5466,7 +5572,7 @@ k,·,i,k,·,:,r,‥,(me),y
 SPACE
 z,a,h,a,𝓂,v,.
 
-2Chronicles 9:14 in vtrad vtbhs
+2Chronicles 9:14 in vtrad vtsef
 l,:,v,_,(qa),d
 SPACE
 m,‥,α,_,n,:,$,·sh,‥,(da),y
@@ -5493,7 +5599,7 @@ w,a,k,∵,(ti),σ,∵,f.
 SPACE
 l,i,$,·sh,:,l,o,m,o,𝓂,h,.
 
-2Chronicles 9:15 in vtrad vtbhs
+2Chronicles 9:15 in vtrad vtsef
 w,_,y,·,_,(qa),ʕ,_,$,·si
 SPACE
 h,_,m,·,∵,(da),l,∵,k.,:
@@ -5522,7 +5628,7 @@ SPACE
 SPACE
 h,a,𝓂,α,∵,x,a,𝓂,τ,.
 
-2Chronicles 9:16 in vtrad vtbhs
+2Chronicles 9:16 in vtrad vtsef
 w,·,$,·sh,:,l,o,$,·sh,-,m,‥,α,<,w,o,τ
 SPACE
 m,a,𝓂,g,i,n,·,i,y,m.,(p)
@@ -5553,7 +5659,7 @@ y,_,(me),ʕ,_,r
 SPACE
 h,_,l,·,:,v,a,n,𝓂,w,o,n.,.
 
-2Chronicles 9:17 in vtrad vtbhs
+2Chronicles 9:17 in vtrad vtsef
 w,_,y,·,_,(da),ʕ,_,$,·si
 SPACE
 h,_,m,·,∵,⟓,l,∵,k.,:
@@ -5568,7 +5674,7 @@ z,a,h,a,(me),v
 SPACE
 θ,a,h,𝓂,w,o,r,.
 
-2Chronicles 9:18 in vtrad vtbhs
+2Chronicles 9:18 in vtrad vtsef
 w,:,$,·sh,‥,⅃,$,·sh
 SPACE
 m,_,ʕ,:_,l,⅃,w,o,τ
@@ -5603,7 +5709,7 @@ SPACE
 SPACE
 h,_,y,·,a,d,𝓂,w,o,τ,.
 
-2Chronicles 9:19 in vtrad vtbhs
+2Chronicles 9:19 in vtrad vtsef
 w,·,$,·sh,:,n,‥,(da),y,m.
 SPACE
 ʕ,a,$,·si,a,⅃,r
@@ -5628,7 +5734,7 @@ k,‥,(ti),n.
 SPACE
 l,:,k,oa,l,-,m,_,m,:,l,a,k,a,𝓂,h,.
 
-2Chronicles 9:20 in vtrad vtbhs
+2Chronicles 9:20 in vtrad vtsef
 w,:,⌕,k,o,⌕,l
 SPACE
 k,·,:,l,‥,(G),y
@@ -5665,7 +5771,7 @@ $,·sh,:,l,o,m,o,(ti),h
 SPACE
 l,i,m,:,α,𝓂,w,·,m,a,h,.
 
-2Chronicles 9:21 in vtrad vtbhs
+2Chronicles 9:21 in vtrad vtsef
 k,·,i,𝓂,y,-,α,:a,n,i,y,·,<,w,o,τ
 SPACE
 l,_,m,·,∵,(p),l,∵,k.,:,(p)
@@ -5687,6 +5793,10 @@ SPACE
 $,·sh,a,n,i,(ge),y,m.
 SPACE
 τ,·,a,v,⅃,w,o,α,n,a,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,:a,n,i,y,·,⅃,w,o,τ
 SPACE
@@ -5704,7 +5814,7 @@ w,:,q,w,o,f,i,(ti),y,m.
 SPACE
 w,:,τ,w,·,k,·,i,y,·,i,𝓂,y,m.,.
 
-2Chronicles 9:22 in vtrad vtbhs
+2Chronicles 9:22 in vtrad vtsef
 w,_,y,·,i,g,:,d,·,_,l,(p)
 SPACE
 h,_,m,·,∵,⅃,l,∵,k.,:
@@ -5721,7 +5831,7 @@ l,:,ʕ,o,(ti),$,·sh,∵,r
 SPACE
 w,:,x,oa,k,:,m,a,𝓂,h,.
 
-2Chronicles 9:23 in vtrad vtbhs
+2Chronicles 9:23 in vtrad vtsef
 w,:,k,o,l,(p)
 SPACE
 m,_,l,:,k,‥,⅃,y
@@ -5744,7 +5854,7 @@ h,a,α,:∵,l,o,h,i,(ti),y,m.
 SPACE
 v,·,:,l,i,v,·,𝓂,w,o,.
 
-2Chronicles 9:24 in vtrad vtbhs
+2Chronicles 9:24 in vtrad vtsef
 w,:,h,‥,⅃,m.
 SPACE
 m,:,v,i,y,α,i,⅃,y,m.
@@ -5775,7 +5885,7 @@ d,·,:,v,_,r,-,$,·sh,a,n,a,(ti),h
 SPACE
 v,·,:,$,·sh,a,n,a,𝓂,h,.
 
-2Chronicles 9:25 in vtrad vtbhs
+2Chronicles 9:25 in vtrad vtsef
 w,_,y,:,h,i,(qa),y
 SPACE
 l,i,$,·sh,:,l,o,m,o,(ge),h
@@ -5806,7 +5916,7 @@ w,:,ʕ,i,m.,-,h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 9:26 in vtrad vtbhs
+2Chronicles 9:26 in vtrad vtsef
 w,_,y,:,h,i,(me),y
 SPACE
 m,w,o,$,·sh,‥,(ti),l
@@ -5825,7 +5935,7 @@ g,·,:,v,(me),w,·,l
 SPACE
 m,i,ц,:,r,a,𝓂,y,i,m.,.
 
-2Chronicles 9:27 in vtrad vtbhs
+2Chronicles 9:27 in vtrad vtsef
 w,_,y,·,i,τ,·,‥,(qa),n.
 SPACE
 h,_,m,·,∵,(da),l,∵,k.,:
@@ -5848,7 +5958,7 @@ SPACE
 SPACE
 l,a,r,o,𝓂,v,.
 
-2Chronicles 9:28 in vtrad vtbhs
+2Chronicles 9:28 in vtrad vtsef
 w,·,m,w,o,ц,i,y,α,i,(qa),y,m.
 SPACE
 σ,w,·,σ,i,(da),y,m.
@@ -5859,7 +5969,7 @@ l,i,$,·sh,:,l,o,m,o,(ti),h
 SPACE
 w,·,m,i,k,·,oa,l,-,h,a,α,:_,r,a,ц,𝓂,w,o,τ,.
 
-2Chronicles 9:29 in vtrad vtbhs
+2Chronicles 9:29 in vtrad vtsef
 w,·,$,·sh,:,α,a,r,(p)
 SPACE
 d,·,i,v,:,r,‥,⅃,y
@@ -5895,7 +6005,7 @@ SPACE
 SPACE
 v,·,∵,n.,-,n,:,v,a,𝓂,θ,.
 
-2Chronicles 9:30 in vtrad vtbhs
+2Chronicles 9:30 in vtrad vtsef
 w,_,y,·,i,m,:,l,o,(qa),k.,:
 SPACE
 $,·sh,:,l,o,m,o,(da),h
@@ -5908,7 +6018,7 @@ SPACE
 SPACE
 $,·sh,a,n,a,𝓂,h,.
 
-2Chronicles 9:31 in vtrad vtbhs
+2Chronicles 9:31 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,<,v
 SPACE
 $,·sh,:,l,o,m,o,h,(p)
@@ -5931,7 +6041,7 @@ v,·,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Chronicles 10:1 in vtrad vtbhs
+2Chronicles 10:1 in vtrad vtsef
 w,_,y,·,‥,(me),l,∵,k.,:
 SPACE
 r,:,x,_,v,:,ʕ,a,(ti),m.
@@ -5950,7 +6060,7 @@ l,:,h,_,m,:,l,i,(me),y,k.,:
 SPACE
 α,o,τ,𝓂,w,o,.
 
-2Chronicles 10:2 in vtrad vtbhs
+2Chronicles 10:2 in vtrad vtsef
 w,_,y,:,h,i,(G),y
 SPACE
 k,·,i,$,·sh,:,m,o,(qa),ʕ,_
@@ -5979,7 +6089,7 @@ y,a,r,oa,v,:,ʕ,a,(ti),m.
 SPACE
 m,i,m,·,i,ц,:,r,a,𝓂,y,i,m.,.
 
-2Chronicles 10:3 in vtrad vtbhs
+2Chronicles 10:3 in vtrad vtsef
 w,_,𝓂,y,·,i,$,·sh,:,l,:,x,w,·,(p)
 SPACE
 w,_,y,·,i,q,:,r,:,α,w,·,-,l,ƶ,w,o
@@ -5996,7 +6106,7 @@ SPACE
 SPACE
 l,‥,α,m,o,𝓂,r,.
 
-2Chronicles 10:4 in vtrad vtbhs
+2Chronicles 10:4 in vtrad vtsef
 α,a,v,i,(ti),y,k.,a
 SPACE
 h,i,q,:,$,·sh,a,⅃,h
@@ -6023,7 +6133,7 @@ SPACE
 SPACE
 w,:,n,_,ʕ,_,v,:,d,∵,𝓂,k.,·,a,.
 
-2Chronicles 10:5 in vtrad vtbhs
+2Chronicles 10:5 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 α,:_,l,‥,h,∵,◆,m.
@@ -6042,7 +6152,7 @@ w,_,y,·,‥,(ti),l,∵,k.,:
 SPACE
 h,a,ʕ,a,𝓂,m.,.
 
-2Chronicles 10:6 in vtrad vtbhs
+2Chronicles 10:6 in vtrad vtsef
 w,_,y,·,i,w,·,a,ʕ,_,(G),ц.
 SPACE
 h,_,m,·,∵,⅃,l,∵,k.,:
@@ -6079,7 +6189,7 @@ l,a,ʕ,a,m.,-,h,_,z,·,∵,(ti),h
 SPACE
 d,·,a,v,a,𝓂,r,.
 
-2Chronicles 10:7 in vtrad vtbhs
+2Chronicles 10:7 in vtrad vtsef
 w,_,y,:,d,_,v,·,:,r,(qa),w,·
 SPACE
 α,‥,l,a,(ge),y,w
@@ -6112,7 +6222,7 @@ SPACE
 SPACE
 k,·,oa,l,-,h,_,y,·,a,m,i,𝓂,y,m.,.
 
-2Chronicles 10:8 in vtrad vtbhs
+2Chronicles 10:8 in vtrad vtsef
 w,_,𝓂,y,·,_,ʕ,:_,z,o,⟓,v
 SPACE
 α,∵,τ,-,ʕ,:_,ц,_,(me),τ
@@ -6137,7 +6247,7 @@ h,a,ʕ,o,m,:,d,i,(ti),y,m.
 SPACE
 l,:,f,a,n,a,𝓂,y,w,.
 
-2Chronicles 10:9 in vtrad vtbhs
+2Chronicles 10:9 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 α,:_,l,‥,h,∵,◆,m.
@@ -6174,7 +6284,7 @@ SPACE
 SPACE
 ʕ,a,l,‥,𝓂,y,n,w,·,.
 
-2Chronicles 10:10 in vtrad vtbhs
+2Chronicles 10:10 in vtrad vtsef
 w,_,y,:,d,_,v,·,:,r,⅃,w,·
 SPACE
 α,i,τ,·,◆,w,o
@@ -6225,7 +6335,7 @@ m,i,m,·,oa,τ,:,n,‥,(me),y
 SPACE
 α,a,v,i,𝓂,y,.
 
-2Chronicles 10:11 in vtrad vtbhs
+2Chronicles 10:11 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,◆,h
 SPACE
 α,a,v,i,y,(p)
@@ -6256,7 +6366,7 @@ w,_,α,:_,n,i,(ti),y
 SPACE
 v,·,a,ʕ,_,q,:,r,_,v,·,i,𝓂,y,m.,.
 
-2Chronicles 10:12 in vtrad vtbhs
+2Chronicles 10:12 in vtrad vtsef
 w,_,y,·,a,v,o,(qa),α
 SPACE
 y,a,r,oa,v,:,ʕ,a,(da),m.
@@ -6285,7 +6395,7 @@ v,·,_,y,·,(me),w,o,m.
 SPACE
 h,_,$,·sh,·,:,l,i,$,·sh,i,𝓂,y,.
 
-2Chronicles 10:13 in vtrad vtbhs
+2Chronicles 10:13 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,n,‥,(me),m.
 SPACE
 h,_,m,·,∵,(ti),l,∵,k.,:
@@ -6304,7 +6414,7 @@ SPACE
 SPACE
 h,_,z,·,:,q,‥,n,i,𝓂,y,m.,.
 
-2Chronicles 10:14 in vtrad vtbhs
+2Chronicles 10:14 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,⅃,r
 SPACE
 α,:_,l,‥,h,∵,◆,m.
@@ -6337,7 +6447,7 @@ w,_,α,:_,n,i,(ti),y
 SPACE
 v,·,a,ʕ,_,q,:,r,_,v,·,i,𝓂,y,m.,.
 
-2Chronicles 10:15 in vtrad vtbhs
+2Chronicles 10:15 in vtrad vtsef
 w,:,l,o,α,-,$,·sh,a,m,_,(me),ʕ
 SPACE
 h,_,m,·,∵,(ti),l,∵,k.,:
@@ -6374,7 +6484,7 @@ SPACE
 SPACE
 v,·,∵,n.,-,n,:,v,a,𝓂,θ,.
 
-2Chronicles 10:16 in vtrad vtbhs
+2Chronicles 10:16 in vtrad vtsef
 w,:,k,oa,l,-,y,i,$,·si,:,r,a,α,‥,◆,l
 SPACE
 k,·,i,⌕,y
@@ -6390,6 +6500,11 @@ SPACE
 h,a,ʕ,a,⅃,m.
 SPACE
 α,∵,τ,-,h,_,m,·,∵,⅃,l,∵,k.,:
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 l,‥,α,m,o,μ,r
 SPACE
 m,_,h,-,l,·,a,(tq),n,w,·,(tq)
@@ -6422,7 +6537,7 @@ k,·,oa,l,-,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 l,:,α,o,h,a,l,a,𝓂,y,w,.
 
-2Chronicles 10:17 in vtrad vtbhs
+2Chronicles 10:17 in vtrad vtsef
 w,·,v,:,n,‥,⅃,y
 SPACE
 y,i,$,·si,:,r,a,α,‥,ƶ,l
@@ -6439,7 +6554,7 @@ SPACE
 SPACE
 r,:,x,_,v,:,ʕ,a,𝓂,m.,.
 
-2Chronicles 10:18 in vtrad vtbhs
+2Chronicles 10:18 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,(G),x
 SPACE
 h,_,m,·,∵,⅃,l,∵,k.,:
@@ -6485,7 +6600,7 @@ l,a,n,(ti),w,·,σ
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 10:19 in vtrad vtbhs
+2Chronicles 10:19 in vtrad vtsef
 w,_,y,·,i,f,:,$,·sh,:,ʕ,<,w,·
 SPACE
 y,i,$,·si,:,r,a,α,‥,l,(p)
@@ -6500,7 +6615,7 @@ h,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Chronicles 11:1 in vtrad vtbhs
+2Chronicles 11:1 in vtrad vtsef
 w,_,y,·,a,v,o,⅃,α
 SPACE
 r,:,x,_,v,:,ʕ,a,m.,~
@@ -6537,7 +6652,7 @@ SPACE
 SPACE
 l,i,r,:,x,_,v,:,ʕ,a,𝓂,m.,.
 
-2Chronicles 11:2 in vtrad vtbhs
+2Chronicles 11:2 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 d,·,:,v,_,r,-,y,:,h,o,w,a,ƶ,h
@@ -6548,7 +6663,7 @@ SPACE
 SPACE
 l,‥,α,m,o,𝓂,r,.
 
-2Chronicles 11:3 in vtrad vtbhs
+2Chronicles 11:3 in vtrad vtsef
 α,:∵,m,o,Ƶ,r
 SPACE
 α,∵,l,-,r,:,x,_,v,:,ʕ,a,(me),m.
@@ -6569,7 +6684,7 @@ w,·,v,i,n,:,y,a,m,i,(ti),n.
 SPACE
 l,‥,α,m,o,𝓂,r,.
 
-2Chronicles 11:4 in vtrad vtbhs
+2Chronicles 11:4 in vtrad vtsef
 k,·,o,⅃,h
 SPACE
 α,a,m,_,⅃,r
@@ -6610,7 +6725,7 @@ m,i,l,·,∵,(me),k,∵,τ
 SPACE
 α,∵,l,-,y,a,r,oa,v,:,ʕ,a,𝓂,m.,.
 
-2Chronicles 11:5 in vtrad vtbhs
+2Chronicles 11:5 in vtrad vtsef
 w,_,y,·,‥,(me),$,·sh,∵,v
 SPACE
 r,:,x,_,v,:,ʕ,a,(ti),m.
@@ -6625,7 +6740,7 @@ l,:,m,a,ц,(ti),w,o,r
 SPACE
 v,·,i,y,h,w,·,d,a,𝓂,h,.
 
-2Chronicles 11:6 in vtrad vtbhs
+2Chronicles 11:6 in vtrad vtsef
 w,_,y,·,i,(da),v,∵,n.
 SPACE
 α,∵,τ,-,v,·,‥,𝓂,y,τ,-,l,∵,⟓,x,∵,m.
@@ -6634,28 +6749,28 @@ w,:,α,∵,τ,-,ʕ,‥,y,θ,a,(ti),m.
 SPACE
 w,:,α,∵,τ,-,τ,·,:,q,𝓂,w,o,ʕ,_,.
 
-2Chronicles 11:7 in vtrad vtbhs
+2Chronicles 11:7 in vtrad vtsef
 w,:,α,∵,τ,-,v,·,‥,𝓂,y,τ,-,ц,(me),w,·,r
 SPACE
 w,:,α,∵,τ,-,$,·si,w,o,k,(ti),w,o
 SPACE
 w,:,α,∵,τ,-,ʕ,:_,d,u,l,·,a,𝓂,m.,.
 
-2Chronicles 11:8 in vtrad vtbhs
+2Chronicles 11:8 in vtrad vtsef
 w,:,α,∵,τ,-,g,·,_,(me),τ
 SPACE
 w,:,α,∵,τ,-,m,a,r,‥,$,·sh,a,(ti),h
 SPACE
 w,:,α,∵,τ,-,z,i,𝓂,y,f.,.
 
-2Chronicles 11:9 in vtrad vtbhs
+2Chronicles 11:9 in vtrad vtsef
 w,:,α,∵,τ,-,α,:_,d,w,o,r,_,(me),y,i,m.
 SPACE
 w,:,α,∵,τ,-,l,a,k,i,(ti),y,$,·sh
 SPACE
 w,:,α,∵,τ,-,ʕ,:_,z,‥,q,a,𝓂,h,.
 
-2Chronicles 11:10 in vtrad vtbhs
+2Chronicles 11:10 in vtrad vtsef
 w,:,α,∵,τ,-,ц,oa,r,:,ʕ,a,h,(p)
 SPACE
 w,:,α,∵,τ,-,α,_,y,·,a,l,ƶ,w,o,n.
@@ -6672,7 +6787,7 @@ SPACE
 SPACE
 m,:,ц,u,r,𝓂,w,o,τ,.
 
-2Chronicles 11:11 in vtrad vtbhs
+2Chronicles 11:11 in vtrad vtsef
 w,_,y,:,x,_,z,·,‥,(ti),q
 SPACE
 α,∵,τ,-,h,_,m,·,:,ц,w,·,r,⅄,w,o,τ
@@ -6691,7 +6806,7 @@ w,:,$,·sh,∵,(me),m,∵,n.
 SPACE
 w,a,y,a,𝓂,y,i,n.,.
 
-2Chronicles 11:12 in vtrad vtbhs
+2Chronicles 11:12 in vtrad vtsef
 w,·,v,:,k,oa,l,-,ʕ,i,<,y,r
 SPACE
 w,a,ʕ,i,y,r,(p)
@@ -6712,7 +6827,7 @@ y,:,h,w,·,d,a,(me),h
 SPACE
 w,·,v,i,n,:,y,a,m,i,𝓂,n.,.
 
-2Chronicles 11:13 in vtrad vtbhs
+2Chronicles 11:13 in vtrad vtsef
 w,:,h,_,k,·,o,𝓂,h,:_,n,i,y,m.,(p)
 SPACE
 w,:,h,_,l,:,w,i,y,·,i,ƶ,m.
@@ -6727,7 +6842,7 @@ SPACE
 SPACE
 m,i,k,·,oa,l,-,g,·,:,v,w,·,l,a,𝓂,m.,.
 
-2Chronicles 11:14 in vtrad vtbhs
+2Chronicles 11:14 in vtrad vtsef
 k,·,i,𝓂,y,-,ʕ,a,z,:,v,⅃,w,·
 SPACE
 h,_,l,:,w,i,y,·,i,◆,m.
@@ -6752,7 +6867,7 @@ m,i,k,·,_,h,‥,(ti),n.
 SPACE
 l,_,y,h,o,w,a,𝓂,h,.
 
-2Chronicles 11:15 in vtrad vtbhs
+2Chronicles 11:15 in vtrad vtsef
 w,_,y,·,_,𝓂,ʕ,:_,m,∵,d,-,l,w,o,(p)
 SPACE
 k,·,o,𝓂,h,:_,n,i,ƶ,y,m.
@@ -6767,7 +6882,7 @@ SPACE
 SPACE
 ʕ,a,$,·si,a,𝓂,h,.
 
-2Chronicles 11:16 in vtrad vtbhs
+2Chronicles 11:16 in vtrad vtsef
 w,:,α,_,𝓂,x,:_,r,‥,y,h,∵,◆,m.
 SPACE
 m,i,k,·,o,l,(p)
@@ -6800,7 +6915,7 @@ SPACE
 SPACE
 α,:_,v,w,o,τ,‥,y,h,∵,𝓂,m.,.
 
-2Chronicles 11:17 in vtrad vtbhs
+2Chronicles 11:17 in vtrad vtsef
 w,_,𝓂,y,:,x,_,z,·,:,q,w,·,(p)
 SPACE
 α,∵,τ,-,m,_,l,:,k,⅃,w,·,τ
@@ -6831,7 +6946,7 @@ l,:,$,·sh,a,n,i,(me),y,m.
 SPACE
 $,·sh,a,l,𝓂,w,o,$,·sh,.
 
-2Chronicles 11:18 in vtrad vtbhs
+2Chronicles 11:18 in vtrad vtsef
 w,_,y,·,i,𝓂,q,·,_,𝓂,x,-,l,<,w,o
 SPACE
 r,:,x,_,v,:,ʕ,a,m.,(p)
@@ -6850,7 +6965,7 @@ v,·,_,τ,-,α,:∵,l,i,y,α,a,(ti),v
 SPACE
 v,·,∵,n.,-,y,i,$,·sh,a,𝓂,y,.
 
-2Chronicles 11:19 in vtrad vtbhs
+2Chronicles 11:19 in vtrad vtsef
 w,_,τ,·,‥,(me),l,∵,d
 SPACE
 l,(ti),w,o
@@ -6863,7 +6978,7 @@ w,:,α,∵,τ,-,$,·sh,:,m,_,r,:,y,a,(ti),h
 SPACE
 w,:,α,∵,τ,-,z,a,𝓂,h,_,m.,.
 
-2Chronicles 11:20 in vtrad vtbhs
+2Chronicles 11:20 in vtrad vtsef
 w,:,α,_,x,:_,r,∵,⅃,y,h,a
 SPACE
 l,a,q,_,ƶ,x
@@ -6884,7 +6999,7 @@ w,:,α,∵,τ,-,z,i,y,z,a,(ti),α
 SPACE
 w,:,α,∵,τ,-,$,·sh,:,l,o,m,i,𝓂,y,τ,.
 
-2Chronicles 11:21 in vtrad vtbhs
+2Chronicles 11:21 in vtrad vtsef
 w,_,y,·,∵,α,:∵,h,_,(qa),v
 SPACE
 r,:,x,_,v,:,ʕ,a,(ge),m.
@@ -6921,7 +7036,7 @@ w,:,$,·sh,i,$,·sh,·,i,(me),y,m.
 SPACE
 v,·,a,n,𝓂,w,o,τ,.
 
-2Chronicles 11:22 in vtrad vtbhs
+2Chronicles 11:22 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,m,‥,(qa),d
 SPACE
 l,a,r,o,(da),α,$,·sh
@@ -6940,7 +7055,7 @@ k,·,i,(ti),y
 SPACE
 l,:,h,_,m,:,l,i,y,k,𝓂,w,o,.
 
-2Chronicles 11:23 in vtrad vtbhs
+2Chronicles 11:23 in vtrad vtsef
 w,_,y,·,a,(tq),v,∵,n.,(tq)
 SPACE
 w,_,y,·,i,f,:,r,o,(qa),ц.
@@ -6973,7 +7088,7 @@ h,:_,m,(me),w,o,n.
 SPACE
 n,a,$,·sh,i,𝓂,y,m.,.
 
-2Chronicles 12:1 in vtrad vtbhs
+2Chronicles 12:1 in vtrad vtsef
 w,_,y,:,h,i,◆,y
 SPACE
 k,·,:,h,a,k,i,(G),y,n.
@@ -6994,7 +7109,7 @@ w,:,k,oa,l,-,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 ʕ,i,m,·,𝓂,w,o,.
 
-2Chronicles 12:2 in vtrad vtbhs
+2Chronicles 12:2 in vtrad vtsef
 w,_,y,:,h,i,(G),y
 SPACE
 v,·,_,$,·sh,·,a,n,a,<,h
@@ -7019,7 +7134,7 @@ m,a,ʕ,:_,l,(ti),w,·
 SPACE
 v,·,_,y,h,o,w,a,𝓂,h,.
 
-2Chronicles 12:3 in vtrad vtbhs
+2Chronicles 12:3 in vtrad vtsef
 v,·,:,α,∵,<,l,∵,f.
 SPACE
 w,·,m,a,α,τ,_,(p),y,i,m.,(p)
@@ -7050,7 +7165,7 @@ SPACE
 SPACE
 w,:,k,w,·,$,·sh,i,𝓂,y,m.,.
 
-2Chronicles 12:4 in vtrad vtbhs
+2Chronicles 12:4 in vtrad vtsef
 w,_,y,·,i,l,:,k,·,o,⟓,d
 SPACE
 α,∵,τ,-,ʕ,a,r,‥,(me),y
@@ -7065,7 +7180,7 @@ w,_,y,·,a,v,o,(ti),α
 SPACE
 ʕ,_,d,-,y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 12:5 in vtrad vtbhs
+2Chronicles 12:5 in vtrad vtsef
 w,·,𝓂,$,·sh,:,m,_,ʕ,:,y,a,<,h
 SPACE
 h,_,n,·,a,v,i,y,α,(p)
@@ -7108,7 +7223,7 @@ SPACE
 SPACE
 v,·,:,y,_,d,-,$,·sh,i,y,$,·sh,a,𝓂,q,.
 
-2Chronicles 12:6 in vtrad vtbhs
+2Chronicles 12:6 in vtrad vtsef
 w,_,y,·,i,k,·,a,n,:,ʕ,(me),w,·
 SPACE
 $,·si,a,r,‥,𝓂,y,-,y,i,$,·si,:,r,a,α,‥,(ti),l
@@ -7118,9 +7233,14 @@ SPACE
 w,_,y,·,o,α,m,:,r,(ti),w,·
 SPACE
 ц,_,d,·,i,(me),y,q
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 12:7 in vtrad vtbhs
+2Chronicles 12:7 in vtrad vtsef
 w,·,v,i,r,:,α,<,w,o,τ
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -7134,6 +7254,11 @@ SPACE
 d,:,v,_,r,-,y,:,h,o,w,a,(qa),h
 SPACE
 α,∵,l,-,$,·sh,:,m,_,ʕ,:,y,a,(da),h
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 l,‥,α,m,o,⟓,r
 SPACE
 n,i,k,:,n,:,ʕ,(ti),w,·
@@ -7158,7 +7283,7 @@ v,·,i,y,r,w,·,$,·sh,a,l,_,(ti),CGJ,i,m.
 SPACE
 v,·,:,y,_,d,-,$,·sh,i,y,$,·sh,a,𝓂,q,.
 
-2Chronicles 12:8 in vtrad vtbhs
+2Chronicles 12:8 in vtrad vtsef
 k,·,i,(me),y
 SPACE
 y,i,𝓂,h,:,y,w,·,-,l,(ti),w,o
@@ -7175,7 +7300,7 @@ m,_,m,:,l,:,k,(me),w,o,τ
 SPACE
 h,a,α,:_,r,a,ц,𝓂,w,o,τ,.
 
-2Chronicles 12:9 in vtrad vtbhs
+2Chronicles 12:9 in vtrad vtsef
 w,_,y,·,_,(qa),ʕ,_,l
 SPACE
 $,·sh,i,y,$,·sh,_,(me),q
@@ -7212,7 +7337,7 @@ SPACE
 SPACE
 $,·sh,:,l,o,m,o,𝓂,h,.
 
-2Chronicles 12:10 in vtrad vtbhs
+2Chronicles 12:10 in vtrad vtsef
 w,_,y,·,_,(qa),ʕ,_,$,·si
 SPACE
 h,_,m,·,∵,<,l,∵,k.,:
@@ -7241,7 +7366,7 @@ v,·,‥,(me),y,τ
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-2Chronicles 12:11 in vtrad vtbhs
+2Chronicles 12:11 in vtrad vtsef
 w,_,y,:,h,i,⟓,y
 SPACE
 m,i,d,·,‥,y,-,v,(me),w,o,α
@@ -7264,7 +7389,7 @@ SPACE
 SPACE
 h,a,r,a,ц,i,𝓂,y,m.,.
 
-2Chronicles 12:12 in vtrad vtbhs
+2Chronicles 12:12 in vtrad vtsef
 w,·,v,:,h,i,k,·,a,𝓂,n,:,ʕ,◆,w,o
 SPACE
 $,·sh,a,<,v
@@ -7289,7 +7414,7 @@ d,·,:,v,a,r,i,(me),y,m.
 SPACE
 θ,w,o,v,i,𝓂,y,m.,.
 
-2Chronicles 12:13 in vtrad vtbhs
+2Chronicles 12:13 in vtrad vtsef
 w,_,y,·,i,τ,:,x,_,z,·,‥,(G),q
 SPACE
 h,_,m,·,∵,(da),l,∵,k.,:
@@ -7317,6 +7442,10 @@ SPACE
 ʕ,∵,$,·si,:,r,‥,(me),h
 SPACE
 $,·sh,a,n,a,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 m,a,l,_,⅃,k.,:
 SPACE
@@ -7348,7 +7477,7 @@ n,_,ʕ,:_,m,a,(ti),h
 SPACE
 h,a,ʕ,_,m,·,o,n,i,𝓂,y,τ,.
 
-2Chronicles 12:14 in vtrad vtbhs
+2Chronicles 12:14 in vtrad vtsef
 w,_,y,·,_,(ti),ʕ,_,$,·si
 SPACE
 h,a,r,a,⅄,ʕ
@@ -7365,7 +7494,7 @@ l,i,d,:,r,(ti),w,o,$,·sh
 SPACE
 α,∵,τ,-,y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 12:15 in vtrad vtbhs
+2Chronicles 12:15 in vtrad vtsef
 w,:,d,i,v,:,r,‥,⅃,y
 SPACE
 r,:,x,_,v,:,ʕ,a,◆,m.
@@ -7398,7 +7527,7 @@ w,:,y,a,r,oa,v,:,ʕ,a,(ti),m.
 SPACE
 k,·,oa,l,-,h,_,y,·,a,m,i,𝓂,y,m.,.
 
-2Chronicles 12:16 in vtrad vtbhs
+2Chronicles 12:16 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,<,v
 SPACE
 r,:,x,_,v,:,ʕ,a,m.,(p)
@@ -7419,7 +7548,7 @@ v,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Chronicles 13:1 in vtrad vtbhs
+2Chronicles 13:1 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,⟓,τ
 SPACE
 $,·sh,:,m,w,o,n,∵,(me),h
@@ -7436,7 +7565,7 @@ SPACE
 SPACE
 ʕ,_,l,-,y,:,h,w,·,d,a,𝓂,h,.
 
-2Chronicles 13:2 in vtrad vtbhs
+2Chronicles 13:2 in vtrad vtsef
 $,·sh,a,l,⅃,w,o,$,·sh
 SPACE
 $,·sh,a,n,i,◆,y,m.
@@ -7467,7 +7596,7 @@ w,·,v,‥,(me),y,n.
 SPACE
 y,a,r,oa,v,:,ʕ,a,𝓂,m.,.
 
-2Chronicles 13:3 in vtrad vtbhs
+2Chronicles 13:3 in vtrad vtsef
 w,_,y,·,∵,α,:,σ,o,(qa),r
 SPACE
 α,:_,v,i,y,·,a,(ge),h
@@ -7521,7 +7650,7 @@ g,·,i,v,·,(me),w,o,r
 SPACE
 x,a,𝓂,y,i,l,.
 
-2Chronicles 13:4 in vtrad vtbhs
+2Chronicles 13:4 in vtrad vtsef
 w,_,y,·,a,⅃,q,oa,m.
 SPACE
 α,:_,v,i,y,·,a,◆,h
@@ -7546,7 +7675,7 @@ y,a,r,oa,v,:,ʕ,a,(me),m.
 SPACE
 w,:,k,oa,l,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 13:5 in vtrad vtbhs
+2Chronicles 13:5 in vtrad vtsef
 h,:_,l,o,<,α
 SPACE
 l,a,k,∵,m.,(p)
@@ -7556,6 +7685,10 @@ SPACE
 k,·,i,(G),y
 SPACE
 y,:,h,o,w,a,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,:∵,l,o,h,‥,⅃,y
 SPACE
@@ -7579,7 +7712,7 @@ v,·,:,r,i,(me),y,τ
 SPACE
 m,∵,𝓂,l,_,x,.
 
-2Chronicles 13:6 in vtrad vtbhs
+2Chronicles 13:6 in vtrad vtsef
 w,_,y,·,a,(p),q,oa,m.,(p)
 SPACE
 y,a,r,oa,v,:,ʕ,a,⅃,m.
@@ -7596,7 +7729,7 @@ w,_,y,·,i,m,:,r,o,(ti),d
 SPACE
 ʕ,_,l,-,α,:_,d,o,n,a,𝓂,y,w,.
 
-2Chronicles 13:7 in vtrad vtbhs
+2Chronicles 13:7 in vtrad vtsef
 w,_,y,·,i,q,·,a,v,:,ц,⅃,w,·
 SPACE
 ʕ,a,l,a,◆,y,w
@@ -7629,8 +7762,12 @@ h,i,τ,:,x,_,z,·,_,(ti),q
 SPACE
 l,i,f,:,n,‥,y,h,∵,𝓂,m.,.
 
-2Chronicles 13:8 in vtrad vtbhs
+2Chronicles 13:8 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,_,τ,·,∵,⅃,m.
 SPACE
@@ -7672,7 +7809,7 @@ y,a,r,oa,v,:,ʕ,a,(ti),m.
 SPACE
 l,‥,α,l,o,h,i,𝓂,y,m.,.
 
-2Chronicles 13:9 in vtrad vtbhs
+2Chronicles 13:9 in vtrad vtsef
 h,:_,l,o,<,α
 SPACE
 h,i,d,·,_,x,:,τ,·,∵,m.,(p)
@@ -7719,7 +7856,7 @@ l,:,l,o,(me),α
 SPACE
 α,:∵,l,o,h,i,𝓂,y,m.,.
 
-2Chronicles 13:10 in vtrad vtbhs
+2Chronicles 13:10 in vtrad vtsef
 w,_,α,:_,n,_,⟓,x,:,n,w,·
 SPACE
 y,:,h,o,w,a,(me),h
@@ -7744,7 +7881,7 @@ w,:,h,_,l,:,w,i,y,·,i,(ti),m.
 SPACE
 v,·,_,m,:,l,a,𝓂,α,k,∵,τ,.
 
-2Chronicles 13:11 in vtrad vtbhs
+2Chronicles 13:11 in vtrad vtsef
 w,·,m,_,q,:,θ,i,r,i,⅃,y,m.
 SPACE
 l,_,y,h,o,w,a,μ,h
@@ -7793,7 +7930,7 @@ SPACE
 SPACE
 α,o,τ,𝓂,w,o,.
 
-2Chronicles 13:12 in vtrad vtbhs
+2Chronicles 13:12 in vtrad vtsef
 w,:,h,i,n,·,‥,h,(tq)
 SPACE
 ʕ,i,m,·,a,(qa),n,w,·
@@ -7801,6 +7938,11 @@ SPACE
 v,a,r,o,(ge),α,$,·sh
 SPACE
 h,a,α,:∵,l,o,h,i,(da),y,m.
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 w,:,k,o,h,:_,n,a,⟓,y,w
 SPACE
 w,_,x,:_,ц,o,ц,:,r,(me),w,o,τ
@@ -7825,7 +7967,7 @@ k,·,i,y,-,l,o,(me),α
 SPACE
 τ,_,ц,:,l,i,𝓂,y,x,w,·,.
 
-2Chronicles 13:13 in vtrad vtbhs
+2Chronicles 13:13 in vtrad vtsef
 w,:,y,a,r,oa,v,:,ʕ,a,◆,m.
 SPACE
 h,‥,σ,‥,v,(p)
@@ -7846,7 +7988,7 @@ w,:,h,_,m,·,_,α,:,r,a,(ti),v
 SPACE
 m,‥,α,_,x,:_,r,‥,y,h,∵,𝓂,m.,.
 
-2Chronicles 13:14 in vtrad vtbhs
+2Chronicles 13:14 in vtrad vtsef
 w,_,y,·,i,f,:,n,⅃,w,·
 SPACE
 y,:,h,w,·,d,a,◆,h
@@ -7870,7 +8012,7 @@ SPACE
 SPACE
 v,·,_,x,:_,ц,o,ц,:,r,𝓂,w,o,τ,.
 
-2Chronicles 13:15 in vtrad vtbhs
+2Chronicles 13:15 in vtrad vtsef
 w,_,y,·,a,r,i,(ti),y,ʕ,w,·
 SPACE
 α,i,⅃,y,$,·sh
@@ -7899,7 +8041,7 @@ SPACE
 SPACE
 w,i,y,h,w,·,d,a,𝓂,h,.
 
-2Chronicles 13:16 in vtrad vtbhs
+2Chronicles 13:16 in vtrad vtsef
 w,_,y,·,a,n,(me),w,·,σ,w,·
 SPACE
 v,:,n,‥,𝓂,y,-,y,i,$,·si,:,r,a,α,‥,(ti),l
@@ -7914,7 +8056,7 @@ SPACE
 SPACE
 v,·,:,y,a,d,a,𝓂,m.,.
 
-2Chronicles 13:17 in vtrad vtbhs
+2Chronicles 13:17 in vtrad vtsef
 w,_,y,·,_,k,·,(me),w,·
 SPACE
 v,a,h,∵,⟓,m.
@@ -7941,7 +8083,7 @@ SPACE
 SPACE
 v,·,a,x,𝓂,w,·,r,.
 
-2Chronicles 13:18 in vtrad vtbhs
+2Chronicles 13:18 in vtrad vtsef
 w,_,y,·,i,k,·,a,n,:,ʕ,(me),w,·
 SPACE
 v,:,n,‥,𝓂,y,-,y,i,$,·si,:,r,a,α,‥,(ti),l
@@ -7966,7 +8108,7 @@ SPACE
 SPACE
 α,:_,v,w,o,τ,‥,y,h,∵,𝓂,m.,.
 
-2Chronicles 13:19 in vtrad vtbhs
+2Chronicles 13:19 in vtrad vtsef
 w,_,y,·,i,r,:,d,·,o,⅃,f.
 SPACE
 α,:_,v,i,y,·,a,h,~
@@ -7993,7 +8135,7 @@ w,:,α,∵,τ,-
 SPACE
 w,·,v,:,n,o,τ,∵,𝓂,y,h,a,.
 
-2Chronicles 13:20 in vtrad vtbhs
+2Chronicles 13:20 in vtrad vtsef
 w,:,l,o,𝓂,α,-,ʕ,a,ц,_,(da),r
 SPACE
 k,·,o,𝓂,x,_,-,y,a,r,oa,v,:,ʕ,a,⟓,m.
@@ -8010,7 +8152,7 @@ y,:,h,o,w,a,(ti),h
 SPACE
 w,_,y,·,a,m,o,𝓂,τ,.
 
-2Chronicles 13:21 in vtrad vtbhs
+2Chronicles 13:21 in vtrad vtsef
 w,_,y,·,i,τ,:,x,_,z,·,‥,⅃,q
 SPACE
 α,:_,v,i,y,·,a,ƶ,h,w,·
@@ -8037,7 +8179,7 @@ SPACE
 SPACE
 v,·,a,n,𝓂,w,o,τ,.
 
-2Chronicles 13:22 in vtrad vtbhs
+2Chronicles 13:22 in vtrad vtsef
 w,:,y,∵,(p),τ,∵,r,(p)
 SPACE
 d,·,i,v,:,r,‥,⅃,y
@@ -8056,7 +8198,7 @@ h,_,n,·,a,v,i,(me),y,α
 SPACE
 ʕ,i,d,·,𝓂,w,o,.
 
-2Chronicles 13:23 in vtrad vtbhs
+2Chronicles 13:23 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,(qa),v
 SPACE
 α,:_,v,i,y,·,a,(ge),h
@@ -8089,7 +8231,7 @@ SPACE
 SPACE
 $,·sh,a,n,i,𝓂,y,m.,.
 
-2Chronicles 14:1 in vtrad vtbhs
+2Chronicles 14:1 in vtrad vtsef
 w,_,y,·,_,<,ʕ,_,$,·si
 SPACE
 α,a,σ,a,α,(p)
@@ -8104,7 +8246,7 @@ y,:,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,a,𝓂,y,w,.
 
-2Chronicles 14:2 in vtrad vtbhs
+2Chronicles 14:2 in vtrad vtsef
 w,_,y,·,a,⟓,σ,_,r
 SPACE
 α,∵,τ,-,m,i,z,:,v,·,:,x,(me),w,o,τ
@@ -8121,7 +8263,7 @@ w,_,y,:,g,_,d,·,_,(ti),ʕ
 SPACE
 α,∵,τ,-,h,a,α,:_,$,·sh,‥,r,i,𝓂,y,m.,.
 
-2Chronicles 14:3 in vtrad vtbhs
+2Chronicles 14:3 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
 SPACE
 l,i,𝓂,y,h,w,·,d,a,ƶ,h
@@ -8140,7 +8282,7 @@ h,_,τ,·,w,o,r,a,(me),h
 SPACE
 w,:,h,_,m,·,i,ц,:,w,a,𝓂,h,.
 
-2Chronicles 14:4 in vtrad vtbhs
+2Chronicles 14:4 in vtrad vtsef
 w,_,y,·,a,(p),σ,_,r,(p)
 SPACE
 m,i,k,·,oa,l,-,ʕ,a,r,‥,⅃,y
@@ -8157,7 +8299,7 @@ h,_,m,·,_,m,:,l,a,k,a,(ti),h
 SPACE
 l,:,f,a,n,a,𝓂,y,w,.
 
-2Chronicles 14:5 in vtrad vtbhs
+2Chronicles 14:5 in vtrad vtsef
 w,_,y,·,i,⟓,v,∵,n.
 SPACE
 ʕ,a,r,‥,(me),y
@@ -8184,12 +8326,16 @@ y,:,h,o,w,a,(ti),h
 SPACE
 l,𝓂,w,o,.
 
-2Chronicles 14:6 in vtrad vtbhs
+2Chronicles 14:6 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 l,i,y,h,w,·,d,a,(ge),h
 SPACE
 n,i,v,:,n,∵,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,∵,τ,-,h,∵,ʕ,a,r,i,⅃,y,m.
 SPACE
@@ -8229,7 +8375,7 @@ w,_,y,·,i,v,:,n,(ti),w,·
 SPACE
 w,_,y,·,_,ц,:,l,i,𝓂,y,x,w,·,.
 
-2Chronicles 14:7 in vtrad vtbhs
+2Chronicles 14:7 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
 SPACE
 l,:,α,a,σ,a,◆,α
@@ -8249,6 +8395,18 @@ SPACE
 m,‥,α,⅃,w,o,τ
 SPACE
 α,∵,ƶ,l,∵,f.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 w,·,m,i,v,·,i,n,:,y,a,m,i,◆,n.
 SPACE
 n,o,$,·si,:,α,‥,<,y
@@ -8271,7 +8429,7 @@ g,·,i,v,·,(me),w,o,r,‥,y
 SPACE
 x,a,𝓂,y,i,l,.
 
-2Chronicles 14:8 in vtrad vtbhs
+2Chronicles 14:8 in vtrad vtsef
 w,_,y,·,‥,ц,‥,(qa),α
 SPACE
 α,:_,l,‥,y,h,∵,(ge),m.
@@ -8296,7 +8454,7 @@ w,_,y,·,a,v,o,(ti),α
 SPACE
 ʕ,_,d,-,m,a,r,‥,$,·sh,a,𝓂,h,.
 
-2Chronicles 14:9 in vtrad vtbhs
+2Chronicles 14:9 in vtrad vtsef
 w,_,y,·,‥,ц,‥,(me),α
 SPACE
 α,a,σ,a,(ti),α
@@ -8313,7 +8471,7 @@ SPACE
 SPACE
 l,:,m,a,r,‥,$,·sh,a,𝓂,h,.
 
-2Chronicles 14:10 in vtrad vtbhs
+2Chronicles 14:10 in vtrad vtsef
 w,_,y,·,i,q,:,r,a,(qa),α
 SPACE
 α,a,σ,a,(ge),α
@@ -8368,7 +8526,7 @@ SPACE
 SPACE
 α,:∵,n,𝓂,w,o,$,·sh,.
 
-2Chronicles 14:11 in vtrad vtbhs
+2Chronicles 14:11 in vtrad vtsef
 w,_,y,·,i,g,·,o,<,f.
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -8387,7 +8545,7 @@ w,_,y,·,a,n,u,(ti),σ,w,·
 SPACE
 h,_,k,·,w,·,$,·sh,i,𝓂,y,m.,.
 
-2Chronicles 14:12 in vtrad vtbhs
+2Chronicles 14:12 in vtrad vtsef
 w,_,y,·,i,r,:,d,·,:,f,‥,(qa),m.
 SPACE
 α,a,σ,a,(ge),α
@@ -8424,7 +8582,7 @@ h,_,r,:,v,·,‥,(me),h
 SPACE
 m,:,α,o,𝓂,d,.
 
-2Chronicles 14:13 in vtrad vtbhs
+2Chronicles 14:13 in vtrad vtsef
 w,_,y,·,_,k,·,◆,w,·
 SPACE
 α,‥,<,τ
@@ -8453,7 +8611,7 @@ h,a,y,:,τ,a,(me),h
 SPACE
 v,a,h,∵,𝓂,m.,.
 
-2Chronicles 14:14 in vtrad vtbhs
+2Chronicles 14:14 in vtrad vtsef
 w,:,g,_,m.,-,α,oa,h,:a,l,‥,(me),y
 SPACE
 m,i,q,:,n,∵,(ti),h
@@ -8472,7 +8630,7 @@ w,_,y,·,a,$,·sh,u,(ti),v,w,·
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 15:1 in vtrad vtbhs
+2Chronicles 15:1 in vtrad vtsef
 w,_,ʕ,:_,z,_,r,:,y,a,(p),h,w,·,(p)
 SPACE
 v,·,∵,n.,-,ʕ,w,o,d,‥,ƶ,d
@@ -8485,7 +8643,7 @@ r,(me),w,·,x,_
 SPACE
 α,:∵,l,o,h,i,𝓂,y,m.,.
 
-2Chronicles 15:2 in vtrad vtbhs
+2Chronicles 15:2 in vtrad vtsef
 w,_,y,·,‥,ц,‥,α,~
 SPACE
 l,i,f,:,n,‥,⅃,y
@@ -8524,7 +8682,7 @@ y,_,ʕ,:_,z,o,(me),v
 SPACE
 α,∵,τ,:,k,∵,𝓂,m.,.
 
-2Chronicles 15:3 in vtrad vtbhs
+2Chronicles 15:3 in vtrad vtsef
 w,:,y,a,m,i,(me),y,m.
 SPACE
 r,_,v,·,i,(ti),y,m.
@@ -8532,6 +8690,10 @@ SPACE
 l,:,y,i,$,·si,:,r,a,α,‥,⅄,l
 SPACE
 l,:,l,o,⅃,α
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,:∵,l,o,h,‥,⅃,y
 SPACE
@@ -8547,7 +8709,7 @@ w,·,l,:,l,o,(me),α
 SPACE
 τ,w,o,r,a,𝓂,h,.
 
-2Chronicles 15:4 in vtrad vtbhs
+2Chronicles 15:4 in vtrad vtsef
 w,_,y,·,a,(p),$,·sh,oa,v,(p)
 SPACE
 v,·,_,ц,·,_,r,-,l,ƶ,w,o
@@ -8564,7 +8726,7 @@ w,_,y,·,i,m,·,a,ц,‥,(me),α
 SPACE
 l,a,h,∵,𝓂,m.,.
 
-2Chronicles 15:5 in vtrad vtbhs
+2Chronicles 15:5 in vtrad vtsef
 w,·,v,a,ʕ,i,τ,·,i,⅃,y,m.
 SPACE
 h,a,h,‥,ƶ,m.
@@ -8589,7 +8751,7 @@ k,·,oa,l,-,y,o,$,·sh,:,v,‥,(ti),y
 SPACE
 h,a,α,:_,r,a,ц,𝓂,w,o,τ,.
 
-2Chronicles 15:6 in vtrad vtbhs
+2Chronicles 15:6 in vtrad vtsef
 w,:,k,u,τ,·,:,τ,(me),w,·
 SPACE
 g,w,o,y,-,v,·,:,g,(ti),w,o,y
@@ -8604,7 +8766,7 @@ h,:_,m,a,m,a,(ti),m.
 SPACE
 v,·,:,k,oa,l,-,ц,a,r,a,𝓂,h,.
 
-2Chronicles 15:7 in vtrad vtbhs
+2Chronicles 15:7 in vtrad vtsef
 w,:,α,_,τ,·,∵,⅃,m.
 SPACE
 x,i,z,:,q,ƶ,w,·
@@ -8621,7 +8783,7 @@ $,·si,a,k,a,(ti),r
 SPACE
 l,i,f,:,ʕ,u,l,·,_,τ,:,k,∵,𝓂,m.,.
 
-2Chronicles 15:8 in vtrad vtbhs
+2Chronicles 15:8 in vtrad vtsef
 w,:,k,i,$,·sh,:,m,o,(qa),ʕ,_
 SPACE
 α,a,σ,a,(ge),α
@@ -8672,7 +8834,7 @@ SPACE
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 15:9 in vtrad vtbhs
+2Chronicles 15:9 in vtrad vtsef
 w,_,y,·,i,q,:,v,·,o,◆,ц.
 SPACE
 α,∵,τ,-,k,·,oa,l,-,y,:,h,w,·,d,a,h,(p)
@@ -8705,7 +8867,7 @@ SPACE
 SPACE
 ʕ,i,m,·,𝓂,w,o,.
 
-2Chronicles 15:10 in vtrad vtbhs
+2Chronicles 15:10 in vtrad vtsef
 w,_,y,·,i,q,·,a,v,:,ц,(me),w,·
 SPACE
 y,:,r,w,·,$,·sh,a,l,_,(ti),CGJ,i,m.
@@ -8722,7 +8884,7 @@ l,:,m,_,l,:,k,(me),w,·,τ
 SPACE
 α,a,σ,a,𝓂,α,.
 
-2Chronicles 15:11 in vtrad vtbhs
+2Chronicles 15:11 in vtrad vtsef
 w,_,y,·,i,z,:,v,·,:,x,<,w,·
 SPACE
 l,_,𝓂,y,h,o,w,a,h,(p)
@@ -8747,7 +8909,7 @@ $,·sh,i,v,:,ʕ,_,(me),τ
 SPACE
 α,:_,l,a,f,i,𝓂,y,m.,.
 
-2Chronicles 15:12 in vtrad vtbhs
+2Chronicles 15:12 in vtrad vtsef
 w,_,y,·,a,v,o,⅃,α,w,·
 SPACE
 v,_,v,·,:,r,i,ƶ,y,τ
@@ -8764,7 +8926,7 @@ v,·,:,k,oa,l,-,l,:,v,a,v,a,(ti),m.
 SPACE
 w,·,v,:,k,oa,l,-,n,_,f,:,$,·sh,a,𝓂,m.,.
 
-2Chronicles 15:13 in vtrad vtbhs
+2Chronicles 15:13 in vtrad vtsef
 w,:,k,o,(qa),l
 SPACE
 α,:_,$,·sh,∵,(da),r
@@ -8785,7 +8947,7 @@ l,:,m,‥,α,i,(ti),y,$,·sh
 SPACE
 w,:,ʕ,_,d,-,α,i,$,·sh,·,a,𝓂,h,.
 
-2Chronicles 15:14 in vtrad vtbhs
+2Chronicles 15:14 in vtrad vtsef
 w,_,y,·,i,$,·sh,·,a,𝓂,v,:,ʕ,w,·,(p)
 SPACE
 l,_,𝓂,y,h,o,w,a,ƶ,h
@@ -8800,7 +8962,7 @@ w,·,v,_,x,:_,ц,o,ц,:,r,(ti),w,o,τ
 SPACE
 w,·,v,:,$,·sh,w,o,f,a,r,𝓂,w,o,τ,.
 
-2Chronicles 15:15 in vtrad vtbhs
+2Chronicles 15:15 in vtrad vtsef
 w,_,y,·,i,$,·si,:,m,:,x,(qa),w,·
 SPACE
 k,oa,l,-,y,:,h,w,·,d,a,(ge),h
@@ -8829,10 +8991,14 @@ l,a,h,∵,(ti),m.
 SPACE
 m,i,σ,·,a,v,i,𝓂,y,v,.
 
-2Chronicles 15:16 in vtrad vtbhs
+2Chronicles 15:16 in vtrad vtsef
 w,:,g,_,𝓂,m.,-,m,_,ʕ,:_,k,a,(G),h
 SPACE
 α,‥,⅃,m.
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,a,σ,a,⅃,α
 SPACE
@@ -8862,7 +9028,7 @@ v,·,:,n,_,(me),x,_,l
 SPACE
 q,i,d,:,r,𝓂,w,o,n.,.
 
-2Chronicles 15:17 in vtrad vtbhs
+2Chronicles 15:17 in vtrad vtsef
 w,:,h,_,(qa),v,·,a,m,ƶ,w,o,τ
 SPACE
 l,o,α,-,σ,a,(ti),r,w,·
@@ -8879,7 +9045,7 @@ $,·sh,a,l,‥,(ti),m.
 SPACE
 k,·,oa,l,-,y,a,m,a,𝓂,y,w,.
 
-2Chronicles 15:18 in vtrad vtbhs
+2Chronicles 15:18 in vtrad vtsef
 w,_,y,·,a,v,‥,(G),α
 SPACE
 α,∵,τ,-,q,oa,d,:,$,·sh,‥,(me),y
@@ -8898,7 +9064,7 @@ w,:,z,a,h,a,(ti),v
 SPACE
 w,:,k,‥,l,i,𝓂,y,m.,.
 
-2Chronicles 15:19 in vtrad vtbhs
+2Chronicles 15:19 in vtrad vtsef
 w,·,m,i,l,:,x,a,m,a,(ti),h
 SPACE
 l,o,⅃,α
@@ -8915,7 +9081,7 @@ l,:,m,_,l,:,k,(me),w,·,τ
 SPACE
 α,a,σ,a,𝓂,α,.
 
-2Chronicles 16:1 in vtrad vtbhs
+2Chronicles 16:1 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,(qa),τ
 SPACE
 $,·sh,:,l,o,$,·sh,i,<,y,m.
@@ -8952,7 +9118,7 @@ m,∵,(me),l,∵,k.,:
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Chronicles 16:2 in vtrad vtbhs
+2Chronicles 16:2 in vtrad vtsef
 w,_,y,·,o,ц,‥,(qa),α
 SPACE
 α,a,σ,a,(ge),α
@@ -8985,7 +9151,7 @@ v,·,:,d,_,r,:,m,∵,(ti),$,·si,∵,q
 SPACE
 l,‥,α,m,o,𝓂,r,.
 
-2Chronicles 16:3 in vtrad vtbhs
+2Chronicles 16:3 in vtrad vtsef
 v,·,:,r,i,y,τ,(p)
 SPACE
 v,·,‥,y,n,i,⅃,y
@@ -9026,7 +9192,7 @@ w,:,y,_,ʕ,:_,l,∵,(ti),h
 SPACE
 m,‥,ʕ,a,l,a,𝓂,y,.
 
-2Chronicles 16:4 in vtrad vtbhs
+2Chronicles 16:4 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,_,(qa),ʕ
 SPACE
 v,·,∵,n.,-,h,:_,d,_,(ge),d
@@ -9067,7 +9233,7 @@ SPACE
 SPACE
 n,_,f,:,τ,·,a,l,i,𝓂,y,.
 
-2Chronicles 16:5 in vtrad vtbhs
+2Chronicles 16:5 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 k,·,i,$,·sh,:,m,o,⅃,ʕ,_
@@ -9084,7 +9250,7 @@ w,_,y,·,_,$,·sh,:,v,·,‥,(ti),τ
 SPACE
 α,∵,τ,-,m,:,l,_,α,k,:,τ,·,𝓂,w,o,.
 
-2Chronicles 16:6 in vtrad vtbhs
+2Chronicles 16:6 in vtrad vtsef
 w,:,α,a,σ,a,⅃,α
 SPACE
 h,_,m,·,∵,◆,l,∵,k.,:
@@ -9115,7 +9281,7 @@ SPACE
 SPACE
 w,:,α,∵,τ,-,h,_,m,·,i,ц,:,f,·,a,𝓂,h,.
 
-2Chronicles 16:7 in vtrad vtbhs
+2Chronicles 16:7 in vtrad vtsef
 w,·,v,a,ʕ,‥,⅃,τ
 SPACE
 h,_,h,i,◆,y,α
@@ -9160,7 +9326,7 @@ m,∵,l,∵,k.,:,-,α,:_,r,a,(ti),m.
 SPACE
 m,i,y,·,a,d,∵,𝓂,k.,a,.
 
-2Chronicles 16:8 in vtrad vtbhs
+2Chronicles 16:8 in vtrad vtsef
 h,:_,l,o,(da),α
 SPACE
 h,_,k,·,w,·,$,·sh,i,⅃,y,m.
@@ -9170,6 +9336,11 @@ SPACE
 h,a,y,(qa),w,·
 SPACE
 l,:,x,_,(da),y,i,l
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 l,a,r,o,⟓,v
 SPACE
 l,:,r,∵,(me),k,∵,v
@@ -9188,7 +9359,7 @@ n,:,τ,a,n,a,(me),m.
 SPACE
 v,·,:,y,a,d,∵,𝓂,k.,a,.
 
-2Chronicles 16:9 in vtrad vtbhs
+2Chronicles 16:9 in vtrad vtsef
 k,·,i,⅃,y
 SPACE
 y,:,h,o,w,a,◆,h
@@ -9221,7 +9392,7 @@ SPACE
 SPACE
 m,i,l,:,x,a,m,𝓂,w,o,τ,.
 
-2Chronicles 16:10 in vtrad vtbhs
+2Chronicles 16:10 in vtrad vtsef
 w,_,y,·,i,k,:,ʕ,_,(qa),σ
 SPACE
 α,a,σ,a,(ge),α
@@ -9250,7 +9421,7 @@ v,·,a,ʕ,‥,(me),τ
 SPACE
 h,_,h,i,𝓂,y,α,.
 
-2Chronicles 16:11 in vtrad vtbhs
+2Chronicles 16:11 in vtrad vtsef
 w,:,h,i,n,·,‥,h,(p)
 SPACE
 d,·,i,v,:,r,‥,⅃,y
@@ -9273,7 +9444,7 @@ l,i,y,h,w,·,d,a,(ti),h
 SPACE
 w,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 16:12 in vtrad vtbhs
+2Chronicles 16:12 in vtrad vtsef
 w,_,y,·,∵,x,:∵,l,∵,⅃,α
 SPACE
 α,a,σ,a,μ,α
@@ -9302,7 +9473,7 @@ k,·,i,(ti),y
 SPACE
 v,·,a,r,o,f,:,α,i,𝓂,y,m.,.
 
-2Chronicles 16:13 in vtrad vtbhs
+2Chronicles 16:13 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,(me),v
 SPACE
 α,a,σ,a,(ti),α
@@ -9319,7 +9490,7 @@ w,:,α,_,x,_,(ti),τ
 SPACE
 l,:,m,oa,l,:,k,𝓂,w,o,.
 
-2Chronicles 16:14 in vtrad vtbhs
+2Chronicles 16:14 in vtrad vtsef
 w,_,y,·,i,q,:,v,·,:,r,u,⅃,h,w,·
 SPACE
 v,:,q,i,v,:,r,o,τ,a,◆,y,w
@@ -9358,7 +9529,7 @@ g,·,:,d,w,o,l,a,(me),h
 SPACE
 ʕ,_,d,-,l,i,m,:,α,o,𝓂,d,.
 
-2Chronicles 17:1 in vtrad vtbhs
+2Chronicles 17:1 in vtrad vtsef
 w,_,y,·,i,m,:,l,o,⟓,k.,:
 SPACE
 y,:,h,w,o,$,·sh,a,f,a,(me),θ
@@ -9371,7 +9542,7 @@ w,_,y,·,i,τ,:,x,_,z,·,‥,(ti),q
 SPACE
 ʕ,_,l,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 17:2 in vtrad vtbhs
+2Chronicles 17:2 in vtrad vtsef
 w,_,y,·,i,(qa),τ,·,∵,n.,-,x,_,ƶ,y,i,l
 SPACE
 v,·,:,k,oa,l,-,ʕ,a,r,‥,(me),y
@@ -9400,7 +9571,7 @@ SPACE
 SPACE
 α,a,v,i,𝓂,y,w,.
 
-2Chronicles 17:3 in vtrad vtbhs
+2Chronicles 17:3 in vtrad vtsef
 w,_,y,:,h,i,(me),y
 SPACE
 y,:,h,o,w,a,(ti),h
@@ -9425,7 +9596,7 @@ d,a,r,_,(ti),$,·sh
 SPACE
 l,_,v,·,:,ʕ,a,l,i,𝓂,y,m.,.
 
-2Chronicles 17:4 in vtrad vtbhs
+2Chronicles 17:4 in vtrad vtsef
 k,·,i,⌕,y
 SPACE
 l,‥,α,l,o,h,‥,<,y
@@ -9444,7 +9615,7 @@ k,·,:,m,_,ʕ,:_,$,·si,‥,(me),h
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 17:5 in vtrad vtbhs
+2Chronicles 17:5 in vtrad vtsef
 w,_,y,·,a,(qa),k,∵,n.
 SPACE
 y,:,h,o,w,a,<,h
@@ -9467,7 +9638,7 @@ SPACE
 SPACE
 l,a,r,o,𝓂,v,.
 
-2Chronicles 17:6 in vtrad vtbhs
+2Chronicles 17:6 in vtrad vtsef
 w,_,y,·,i,g,:,v,·,_,(me),h,·
 SPACE
 l,i,v,·,(ti),w,o
@@ -9486,7 +9657,7 @@ w,:,α,∵,τ,-,h,a,α,:_,$,·sh,‥,r,i,(ti),y,m.
 SPACE
 m,i,y,h,w,·,d,a,𝓂,h,.
 
-2Chronicles 17:7 in vtrad vtbhs
+2Chronicles 17:7 in vtrad vtsef
 w,·,v,i,$,·sh,:,n,_,(qa),τ
 SPACE
 $,·sh,a,l,(ge),w,o,$,·sh
@@ -9513,7 +9684,7 @@ v,·,:,ʕ,a,r,‥,(me),y
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Chronicles 17:8 in vtrad vtbhs
+2Chronicles 17:8 in vtrad vtsef
 w,:,ʕ,i,m,·,a,h,∵,⅃,m.
 SPACE
 h,_,l,:,w,i,y,·,i,◆,m.
@@ -9547,7 +9718,7 @@ w,i,y,h,w,o,r,a,(ti),m.
 SPACE
 h,_,k,·,o,h,:_,n,i,𝓂,y,m.,.
 
-2Chronicles 17:9 in vtrad vtbhs
+2Chronicles 17:9 in vtrad vtsef
 w,_,𝓂,y,:,l,_,m,·,:,d,w,·,(p)
 SPACE
 v,·,i,y,h,w,·,d,a,ƶ,h
@@ -9570,8 +9741,12 @@ w,_,𝓂,y,:,l,_,m,·,:,d,(ti),w,·
 SPACE
 v,·,a,ʕ,a,𝓂,m.,.
 
-2Chronicles 17:10 in vtrad vtbhs
+2Chronicles 17:10 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 f,·,_,⅃,x,_,d
 SPACE
@@ -9595,7 +9770,7 @@ n,i,l,:,x,:_,m,(ti),w,·
 SPACE
 ʕ,i,m.,-,y,:,h,w,o,$,·sh,a,f,a,𝓂,θ,.
 
-2Chronicles 17:11 in vtrad vtbhs
+2Chronicles 17:11 in vtrad vtsef
 w,·,m,i,n.,-,f,·,:,l,i,$,·sh,:,τ,·,i,◆,y,m.
 SPACE
 m,:,v,i,y,α,i,(da),y,m.
@@ -9638,7 +9813,7 @@ w,·,$,·sh,:,v,_,(me),ʕ
 SPACE
 m,‥,α,𝓂,w,o,τ,.
 
-2Chronicles 17:12 in vtrad vtbhs
+2Chronicles 17:12 in vtrad vtsef
 w,_,y,:,h,i,(da),y
 SPACE
 y,:,h,w,o,$,·sh,a,f,a,⟓,θ
@@ -9659,7 +9834,7 @@ w,:,ʕ,a,r,‥,(me),y
 SPACE
 m,i,σ,:,k,·,:,n,𝓂,w,o,τ,.
 
-2Chronicles 17:13 in vtrad vtbhs
+2Chronicles 17:13 in vtrad vtsef
 w,·,m,:,l,a,α,k,a,(me),h
 SPACE
 r,_,v,·,a,⟓,h
@@ -9682,7 +9857,7 @@ x,_,(ti),y,i,l
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 17:14 in vtrad vtbhs
+2Chronicles 17:14 in vtrad vtsef
 w,:,α,‥,(me),l,·,∵,h
 SPACE
 f,:,q,u,d,·,a,τ,a,(ti),m.
@@ -9724,7 +9899,7 @@ m,‥,α,(ti),w,o,τ
 SPACE
 α,a,𝓂,l,∵,f.,.
 
-2Chronicles 17:15 in vtrad vtbhs
+2Chronicles 17:15 in vtrad vtsef
 w,:,ʕ,_,l,-,y,a,d,(ti),w,o
 SPACE
 y,:,h,w,o,x,a,n,a,⅃,n.
@@ -9739,7 +9914,7 @@ w,·,$,·sh,:,m,w,o,n,i,(ti),y,m.
 SPACE
 α,a,𝓂,l,∵,f.,.
 
-2Chronicles 17:16 in vtrad vtbhs
+2Chronicles 17:16 in vtrad vtsef
 w,:,ʕ,_,l,-,y,a,d,w,o,(p)
 SPACE
 ʕ,:_,m,_,σ,:,y,a,⅃,h
@@ -9760,7 +9935,7 @@ g,·,i,v,·,(me),w,o,r
 SPACE
 x,a,𝓂,y,i,l,.
 
-2Chronicles 17:17 in vtrad vtbhs
+2Chronicles 17:17 in vtrad vtsef
 w,·,m,i,(qa),n.,-,v,·,i,n,:,y,a,m,i,ƶ,n.
 SPACE
 g,·,i,v,·,(me),w,o,r
@@ -9779,7 +9954,7 @@ m,a,α,τ,_,(me),y,i,m.
 SPACE
 α,a,𝓂,l,∵,f.,.
 
-2Chronicles 17:18 in vtrad vtbhs
+2Chronicles 17:18 in vtrad vtsef
 w,:,ʕ,_,l,-,y,a,d,(ti),w,o
 SPACE
 y,:,h,w,o,z,a,v,a,⅄,d
@@ -9794,7 +9969,7 @@ x,:_,l,w,·,ц,‥,(me),y
 SPACE
 ц,a,v,a,𝓂,α,.
 
-2Chronicles 17:19 in vtrad vtbhs
+2Chronicles 17:19 in vtrad vtsef
 α,‥,(ti),l,·,∵,h
 SPACE
 h,_,m,:,$,·sh,a,r,:,τ,i,⅃,y,m.
@@ -9813,7 +9988,7 @@ h,_,m,·,i,v,:,ц,a,(ti),r
 SPACE
 v,·,:,k,oa,l,-,y,:,h,w,·,d,a,𝓂,h,.
 
-2Chronicles 18:1 in vtrad vtbhs
+2Chronicles 18:1 in vtrad vtsef
 w,_,y,:,h,i,(da),y
 SPACE
 l,i,y,h,w,o,$,·sh,a,f,a,⟓,θ
@@ -9828,7 +10003,7 @@ w,_,y,·,i,τ,:,x,_,τ,·,‥,(ti),n.
 SPACE
 l,:,α,_,x,:,α,a,𝓂,v,.
 
-2Chronicles 18:2 in vtrad vtbhs
+2Chronicles 18:2 in vtrad vtsef
 w,_,y,·,‥,(tq),r,∵,d,(tq)
 SPACE
 l,:,q,‥,(qa),ц.
@@ -9863,7 +10038,7 @@ SPACE
 SPACE
 g,·,i,l,:,ʕ,a,𝓂,d,.
 
-2Chronicles 18:3 in vtrad vtbhs
+2Chronicles 18:3 in vtrad vtsef
 w,_,y,·,o,(ge),α,m,∵,r
 SPACE
 α,_,x,:,α,a,⅃,v
@@ -9900,7 +10075,7 @@ w,:,ʕ,i,m,·,:,k.,a,(ti)
 SPACE
 v,·,_,m,·,i,l,:,x,a,m,a,𝓂,h,.
 
-2Chronicles 18:4 in vtrad vtbhs
+2Chronicles 18:4 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
 SPACE
 y,:,h,w,o,$,·sh,a,f,a,(ti),θ
@@ -9917,7 +10092,7 @@ SPACE
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 18:5 in vtrad vtbhs
+2Chronicles 18:5 in vtrad vtsef
 w,_,y,·,i,q,:,v,·,o,(qa),ц.
 SPACE
 m,∵,l,∵,k.,:,-,y,i,$,·si,:,r,a,α,‥,(me),l
@@ -9956,7 +10131,7 @@ v,·,:,y,_,(me),d
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-2Chronicles 18:6 in vtrad vtbhs
+2Chronicles 18:6 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
 SPACE
 y,:,h,⅃,w,o,$,·sh,a,f,a,ƶ,θ
@@ -9975,10 +10150,15 @@ w,:,n,i,d,:,r,:,$,·sh,a,(ti),h
 SPACE
 m,‥,α,o,τ,𝓂,w,o,.
 
-2Chronicles 18:7 in vtrad vtbhs
+2Chronicles 18:7 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 m,∵,l,∵,k.,:,-,y,i,$,·si,:,r,a,α,‥,⅃,l
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 α,∵,𝓂,l,-,y,:,h,w,o,$,·sh,a,f,a,μ,θ
 SPACE
 ʕ,⅃,w,o,d
@@ -10025,7 +10205,7 @@ h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
 k,·,‥,𝓂,n.,.
 
-2Chronicles 18:8 in vtrad vtbhs
+2Chronicles 18:8 in vtrad vtsef
 w,_,y,·,i,q,:,r,a,α,(p)
 SPACE
 m,∵,⅃,l,∵,k.,:
@@ -10043,7 +10223,7 @@ SPACE
 SPACE
 v,∵,n.,-,y,i,m,:,l,a,𝓂,α,.
 
-2Chronicles 18:9 in vtrad vtbhs
+2Chronicles 18:9 in vtrad vtsef
 w,·,m,∵,⅃,l,∵,k.,:
 SPACE
 y,i,$,·si,:,r,a,α,‥,μ,l
@@ -10078,7 +10258,7 @@ m,i,𝓂,τ,:,n,_,v,·,:,α,i,(ti),y,m.
 SPACE
 l,i,f,:,n,‥,y,h,∵,𝓂,m.,.
 
-2Chronicles 18:10 in vtrad vtbhs
+2Chronicles 18:10 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 l,⟓,w,o
@@ -10105,7 +10285,7 @@ SPACE
 SPACE
 ʕ,_,d,-,k,·,_,l,·,w,o,τ,a,𝓂,m.,.
 
-2Chronicles 18:11 in vtrad vtbhs
+2Chronicles 18:11 in vtrad vtsef
 w,:,k,oa,(qa),l,-,h,_,n,·,:,v,i,α,i,ƶ,y,m.
 SPACE
 n,i,v,·,:,α,i,(me),y,m.
@@ -10130,10 +10310,14 @@ v,·,:,y,_,(me),d
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-2Chronicles 18:12 in vtrad vtbhs
+2Chronicles 18:12 in vtrad vtsef
 w,:,h,_,m,·,_,l,:,α,a,(G),k.,:
 SPACE
 α,:_,$,·sh,∵,r,-,h,a,l,_,⅃,k.,:
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 l,i,q,:,r,o,⅃,α
 SPACE
@@ -10169,7 +10353,7 @@ w,:,d,i,v,·,_,(me),r,:,τ,·,a
 SPACE
 θ,·,𝓂,w,o,v,.
 
-2Chronicles 18:13 in vtrad vtbhs
+2Chronicles 18:13 in vtrad vtsef
 w,_,y,·,o,(ti),α,m,∵,r
 SPACE
 m,i,y,k,a,⅄,y,:,h,w,·
@@ -10186,7 +10370,7 @@ SPACE
 SPACE
 α,:_,d,_,v,·,‥,𝓂,r,.
 
-2Chronicles 18:14 in vtrad vtbhs
+2Chronicles 18:14 in vtrad vtsef
 w,_,y,·,a,v,o,α,~
 SPACE
 α,∵,l,-,h,_,m,·,∵,∴,l,∵,k.,:,∴
@@ -10219,7 +10403,7 @@ w,:,y,i,n,·,a,τ,:,n,(ti),w,·
 SPACE
 v,·,:,y,∵,d,:,k,∵,𝓂,m.,.
 
-2Chronicles 18:15 in vtrad vtbhs
+2Chronicles 18:15 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 α,‥,l,a,y,w,(p)
@@ -10246,7 +10430,7 @@ v,·,:,$,·sh,‥,(me),m.
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 18:16 in vtrad vtbhs
+2Chronicles 18:16 in vtrad vtsef
 w,_,y,·,o,◆,α,m,∵,r
 SPACE
 r,a,α,i,<,y,τ,i,y
@@ -10279,7 +10463,7 @@ SPACE
 SPACE
 v,·,:,$,·sh,a,l,𝓂,w,o,m.,.
 
-2Chronicles 18:17 in vtrad vtbhs
+2Chronicles 18:17 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
 SPACE
 m,∵,l,∵,k.,:,-,y,i,$,·si,:,r,a,α,‥,(ti),l
@@ -10302,7 +10486,7 @@ k,·,i,(me),y
 SPACE
 α,i,m.,-,l,:,r,a,𝓂,ʕ,.
 
-2Chronicles 18:18 in vtrad vtbhs
+2Chronicles 18:18 in vtrad vtsef
 w,_,y,·,o,Ƶ,α,m,∵,r
 SPACE
 l,a,k,‥,(ti),n.
@@ -10329,7 +10513,7 @@ SPACE
 SPACE
 w,·,$,·si,:,m,o,α,l,𝓂,w,o,.
 
-2Chronicles 18:19 in vtrad vtbhs
+2Chronicles 18:19 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 y,:,h,o,w,a,◆,h
@@ -10364,7 +10548,7 @@ SPACE
 SPACE
 k,·,a,𝓂,k,a,h,.
 
-2Chronicles 18:20 in vtrad vtbhs
+2Chronicles 18:20 in vtrad vtsef
 w,_,y,·,‥,ц,‥,⅃,α
 SPACE
 h,a,r,◆,w,·,x,_
@@ -10389,7 +10573,7 @@ SPACE
 SPACE
 v,·,_,m,·,a,𝓂,h,.
 
-2Chronicles 18:21 in vtrad vtbhs
+2Chronicles 18:21 in vtrad vtsef
 w,_,y,·,o,◆,α,m,∵,r
 SPACE
 α,‥,ц,‥,α,(p)
@@ -10414,7 +10598,7 @@ SPACE
 SPACE
 w,_,ʕ,:_,$,·si,‥,h,-,k,‥,𝓂,n.,.
 
-2Chronicles 18:22 in vtrad vtbhs
+2Chronicles 18:22 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,◆,h
 SPACE
 h,i,n,·,‥,(qa),h
@@ -10441,7 +10625,7 @@ SPACE
 SPACE
 r,a,ʕ,a,𝓂,h,.
 
-2Chronicles 18:23 in vtrad vtbhs
+2Chronicles 18:23 in vtrad vtsef
 w,_,y,·,i,g,·,_,$,·sh,(p)
 SPACE
 ц,i,d,:,q,i,y,·,a,⅃,h,w,·
@@ -10472,7 +10656,7 @@ l,:,d,_,v,·,‥,(me),r
 SPACE
 α,o,τ,a,𝓂,k.,:,.
 
-2Chronicles 18:24 in vtrad vtbhs
+2Chronicles 18:24 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 m,i,y,k,a,ƶ,y,:,h,w,·
@@ -10495,7 +10679,7 @@ v,·,:,x,∵,(ti),d,∵,r
 SPACE
 l,:,h,‥,x,a,v,‥,𝓂,α,.
 
-2Chronicles 18:25 in vtrad vtbhs
+2Chronicles 18:25 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
 SPACE
 m,∵,⅃,l,∵,k.,:
@@ -10516,7 +10700,7 @@ w,:,α,∵,l,-,y,w,o,α,a,(ti),$,·sh
 SPACE
 v,·,∵,n.,-,h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-2Chronicles 18:26 in vtrad vtbhs
+2Chronicles 18:26 in vtrad vtsef
 w,_,α,:_,m,_,r,:,τ,·,∵,◆,m.
 SPACE
 k,·,o,(ye),h
@@ -10549,7 +10733,7 @@ $,·sh,w,·,v,i,(me),y
 SPACE
 v,:,$,·sh,a,l,𝓂,w,o,m.,.
 
-2Chronicles 18:27 in vtrad vtbhs
+2Chronicles 18:27 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 m,i,y,k,a,ƶ,y,:,h,w,·
@@ -10574,7 +10758,7 @@ SPACE
 SPACE
 k,·,u,l,·,a,𝓂,m.,.
 
-2Chronicles 18:28 in vtrad vtbhs
+2Chronicles 18:28 in vtrad vtsef
 w,_,y,·,_,(da),ʕ,_,l
 SPACE
 m,∵,l,∵,k.,:,-,y,i,$,·si,:,r,a,α,‥,⟓,l
@@ -10587,7 +10771,7 @@ SPACE
 SPACE
 g,·,i,l,:,ʕ,a,𝓂,d,.
 
-2Chronicles 18:29 in vtrad vtbhs
+2Chronicles 18:29 in vtrad vtsef
 w,_,y,·,o,(tq),α,m,∵,r,(tq)
 SPACE
 m,∵,(qa),l,∵,k.,:
@@ -10618,7 +10802,7 @@ w,_,y,·,a,v,o,(ti),α,w,·
 SPACE
 v,·,_,m,·,i,l,:,x,a,m,a,𝓂,h,.
 
-2Chronicles 18:30 in vtrad vtbhs
+2Chronicles 18:30 in vtrad vtsef
 w,·,m,∵,⅃,l,∵,k.,:
 SPACE
 α,:_,r,a,μ,m.
@@ -10649,7 +10833,7 @@ y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 l,:,v,_,d,·,𝓂,w,o,.
 
-2Chronicles 18:31 in vtrad vtbhs
+2Chronicles 18:31 in vtrad vtsef
 w,_,y,:,h,i,μ,y
 SPACE
 k,·,i,r,:,α,w,o,τ,(tq)
@@ -10690,7 +10874,7 @@ SPACE
 SPACE
 m,i,m,·,∵,𝓂,n,·,w,·,.
 
-2Chronicles 18:32 in vtrad vtbhs
+2Chronicles 18:32 in vtrad vtsef
 w,_,y,:,h,i,◆,y
 SPACE
 k,·,i,r,:,α,w,o,τ,(p)
@@ -10711,7 +10895,7 @@ w,_,y,·,a,$,·sh,(ti),w,·,v,w,·
 SPACE
 m,‥,α,_,x,:_,r,a,𝓂,y,w,.
 
-2Chronicles 18:33 in vtrad vtbhs
+2Chronicles 18:33 in vtrad vtsef
 w,:,α,i,◆,y,$,·sh
 SPACE
 m,a,$,·sh,_,<,k.,:
@@ -10749,7 +10933,7 @@ k,·,i,(me),y
 SPACE
 h,oa,𝓂,x,:a,l,‥,𝓂,y,τ,i,y,.
 
-2Chronicles 18:34 in vtrad vtbhs
+2Chronicles 18:34 in vtrad vtsef
 w,_,τ,·,_,<,ʕ,_,l
 SPACE
 h,_,m,·,i,l,:,x,a,m,a,h,(p)
@@ -10782,7 +10966,7 @@ v,·,(me),w,o,α
 SPACE
 h,_,$,·sh,·,a,𝓂,m,∵,$,·sh,.
 
-2Chronicles 19:1 in vtrad vtbhs
+2Chronicles 19:1 in vtrad vtsef
 w,_,⌕,y,·,a,⌕,$,·sh,oa,v
 SPACE
 y,:,h,w,o,$,·sh,a,f,a,(qa),θ
@@ -10795,7 +10979,7 @@ v,·,:,$,·sh,a,l,(ti),w,o,m.
 SPACE
 l,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 19:2 in vtrad vtbhs
+2Chronicles 19:2 in vtrad vtsef
 w,_,y,·,‥,ц,‥,⅃,α
 SPACE
 α,∵,l,-,f,·,a,n,a,◆,y,w
@@ -10832,7 +11016,7 @@ m,i,l,·,i,f,:,n,‥,(ti),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 19:3 in vtrad vtbhs
+2Chronicles 19:3 in vtrad vtsef
 α,:_,v,a,Ƶ,l
 SPACE
 d,·,:,v,a,r,i,(me),y,m.
@@ -10857,7 +11041,7 @@ l,i,d,:,r,o,(me),$,·sh
 SPACE
 h,a,α,:∵,l,o,h,i,𝓂,y,m.,.
 
-2Chronicles 19:4 in vtrad vtbhs
+2Chronicles 19:4 in vtrad vtsef
 w,_,y,·,‥,(me),$,·sh,∵,v
 SPACE
 y,:,h,w,o,$,·sh,a,f,a,(ti),θ
@@ -10886,7 +11070,7 @@ SPACE
 SPACE
 α,:_,v,w,o,τ,‥,y,h,∵,𝓂,m.,.
 
-2Chronicles 19:5 in vtrad vtbhs
+2Chronicles 19:5 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,m,‥,(qa),d
 SPACE
 $,·sh,o,f,:,θ,i,(ge),y,m.
@@ -10903,7 +11087,7 @@ l,:,ʕ,i,(me),y,r
 SPACE
 w,a,ʕ,i,𝓂,y,r,.
 
-2Chronicles 19:6 in vtrad vtbhs
+2Chronicles 19:6 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 α,∵,l,-,h,_,$,·sh,·,o,f,:,θ,i,◆,y,m.
@@ -10932,7 +11116,7 @@ v,·,i,d,:,v,_,(me),r
 SPACE
 m,i,$,·sh,:,f,·,a,𝓂,θ,.
 
-2Chronicles 19:7 in vtrad vtbhs
+2Chronicles 19:7 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,Ƶ,h
 SPACE
 y,:,h,i,(me),y
@@ -10959,7 +11143,7 @@ f,a,n,i,(ti),y,m.
 SPACE
 w,·,m,i,q,·,_,x,-,$,·sh,o,𝓂,x,_,d,.
 
-2Chronicles 19:8 in vtrad vtbhs
+2Chronicles 19:8 in vtrad vtsef
 w,:,g,_,⅃,m.
 SPACE
 v,·,i,⌕,y,r,w,·,$,·sh,a,l,_,⌕,CGJ,i,m.
@@ -10988,7 +11172,7 @@ w,_,y,·,a,$,·sh,u,(ti),v,w,·
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 19:9 in vtrad vtbhs
+2Chronicles 19:9 in vtrad vtsef
 w,_,y,:,ц,_,(me),w
 SPACE
 ʕ,:_,l,‥,y,h,∵,(ti),m.
@@ -11009,7 +11193,7 @@ w,·,v,:,l,‥,v,a,(me),v
 SPACE
 $,·sh,a,l,‥,𝓂,m.,.
 
-2Chronicles 19:10 in vtrad vtbhs
+2Chronicles 19:10 in vtrad vtsef
 w,:,k,oa,l,-,r,i,y,v,(tq)
 SPACE
 α,:_,$,·sh,∵,r,-,y,a,v,(qa),w,o,α
@@ -11017,12 +11201,21 @@ SPACE
 ʕ,:_,l,‥,y,k,∵,(ge),m.
 SPACE
 m,‥,α,:_,x,‥,y,k,∵,⅃,m.
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 h,_,y,·,o,$,·sh,:,v,i,⅃,y,m.
 SPACE
 v,·,:,ʕ,a,r,‥,y,h,∵,◆,m.
 SPACE
 v,·,‥,𝓂,y,n.,-,d,·,a,⅃,m.
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 l,:,d,a,m.,~
 SPACE
 v,·,‥,y,n.,-,τ,·,w,o,r,a,⅃,h
@@ -11057,7 +11250,7 @@ w,:,l,o,(me),α
 SPACE
 τ,∵,α,:,$,·sh,a,𝓂,m,w,·,.
 
-2Chronicles 19:11 in vtrad vtbhs
+2Chronicles 19:11 in vtrad vtsef
 w,:,h,i,n,·,‥,μ,h
 SPACE
 α,:_,m,_,r,:,y,a,⅃,h,w,·
@@ -11100,7 +11293,7 @@ y,:,h,o,w,a,(ti),h
 SPACE
 ʕ,i,m.,-,h,_,θ,·,𝓂,w,o,v,.
 
-2Chronicles 20:1 in vtrad vtbhs
+2Chronicles 20:1 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
 SPACE
 α,_,x,:_,r,‥,y,-,k,‥,μ,n.
@@ -11114,13 +11307,18 @@ SPACE
 ʕ,_,m,·,(ge),w,o,n.
 SPACE
 w,:,ʕ,i,m,·,a,h,∵,(da),m.
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 m,‥,h,a,ʕ,_,m,·,w,o,n,i,⟓,y,m.
 SPACE
 ʕ,_,l,-,y,:,h,w,o,$,·sh,a,f,a,(ti),θ
 SPACE
 l,_,m,·,i,l,:,x,a,m,a,𝓂,h,.
 
-2Chronicles 20:2 in vtrad vtbhs
+2Chronicles 20:2 in vtrad vtsef
 w,_,y,·,a,v,o,◆,α,w,·
 SPACE
 w,_,y,·,_,g,·,i,<,y,d,w,·
@@ -11155,7 +11353,7 @@ SPACE
 SPACE
 g,·,∵,𝓂,d,i,y,.
 
-2Chronicles 20:3 in vtrad vtbhs
+2Chronicles 20:3 in vtrad vtsef
 w,_,y,·,i,r,a,Ƶ,α
 SPACE
 w,_,y,·,i,τ,·,‥,(da),n.
@@ -11172,7 +11370,7 @@ w,_,y,·,i,q,:,r,a,α,-,ц,(ti),w,o,m.
 SPACE
 ʕ,_,l,-,k,·,oa,l,-,y,:,h,w,·,d,a,𝓂,h,.
 
-2Chronicles 20:4 in vtrad vtbhs
+2Chronicles 20:4 in vtrad vtsef
 w,_,y,·,i,q,·,a,v,:,ц,⅃,w,·
 SPACE
 y,:,h,w,·,d,a,ƶ,h
@@ -11193,7 +11391,7 @@ l,:,v,_,q,·,‥,(me),$,·sh
 SPACE
 α,∵,τ,-,y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 20:5 in vtrad vtbhs
+2Chronicles 20:5 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,m,o,⅃,d
 SPACE
 y,:,h,𝓂,w,o,$,·sh,a,f,a,◆,θ
@@ -11214,7 +11412,7 @@ h,∵,x,a,ц,‥,(me),r
 SPACE
 h,_,x,:_,d,a,$,·sh,a,𝓂,h,.
 
-2Chronicles 20:6 in vtrad vtbhs
+2Chronicles 20:6 in vtrad vtsef
 w,_,y,·,o,α,m,_,◆,r
 SPACE
 y,:,h,o,w,a,(G),h
@@ -11253,8 +11451,12 @@ SPACE
 SPACE
 l,:,h,i,τ,:,y,_,ц,·,‥,𝓂,v,.
 
-2Chronicles 20:7 in vtrad vtbhs
+2Chronicles 20:7 in vtrad vtsef
 h,:_,l,o,⅃,α
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,_,τ,·,a,⅃,h
 SPACE
@@ -11284,12 +11486,17 @@ SPACE
 SPACE
 l,:,ʕ,w,o,l,a,𝓂,m.,.
 
-2Chronicles 20:8 in vtrad vtbhs
+2Chronicles 20:8 in vtrad vtsef
 w,_,y,·,‥,$,·sh,:,v,(ti),w,·,-,v,a,⅄,h,·
 SPACE
 w,_,y,·,i,v,:,n,(qa),w,·
 SPACE
 l,:,k.,a,(da)
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 v,·,a,⟓,h,·
 SPACE
 m,i,q,:,d,·,a,(ti),$,·sh
@@ -11298,7 +11505,7 @@ l,:,$,·sh,i,m,:,k.,a,(me)
 SPACE
 l,‥,α,m,o,𝓂,r,.
 
-2Chronicles 20:9 in vtrad vtbhs
+2Chronicles 20:9 in vtrad vtsef
 α,i,m.,-,τ,·,a,v,(qa),w,o,α
 SPACE
 ʕ,a,l,‥,(ge),y,n,w,·
@@ -11341,7 +11548,7 @@ w,:,τ,i,$,·sh,:,m,_,(me),ʕ
 SPACE
 w,:,τ,w,o,$,·sh,i,𝓂,y,ʕ,_,.
 
-2Chronicles 20:10 in vtrad vtbhs
+2Chronicles 20:10 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,μ,h
 SPACE
 h,i,n,·,‥,h,(tq)
@@ -11378,7 +11585,7 @@ w,:,l,o,(me),α
 SPACE
 h,i,$,·sh,:,m,i,y,d,𝓂,w,·,m.,.
 
-2Chronicles 20:11 in vtrad vtbhs
+2Chronicles 20:11 in vtrad vtsef
 w,:,h,i,(qa),n,·,‥,h,-,h,‥,ƶ,m.
 SPACE
 g,·,o,m,:,l,i,(ti),y,m.
@@ -11395,7 +11602,7 @@ SPACE
 SPACE
 h,w,o,r,_,$,·sh,:,τ,·,a,𝓂,n,w,·,.
 
-2Chronicles 20:12 in vtrad vtbhs
+2Chronicles 20:12 in vtrad vtsef
 α,:∵,l,o,h,‥,(p),y,n,w,·,(p)
 SPACE
 h,:_,l,o,⅃,α
@@ -11436,7 +11643,7 @@ SPACE
 SPACE
 ʕ,‥,y,n,‥,𝓂,y,n,w,·,.
 
-2Chronicles 20:13 in vtrad vtbhs
+2Chronicles 20:13 in vtrad vtsef
 w,:,k,oa,(qa),l,-,y,:,h,w,·,d,a,ƶ,h
 SPACE
 ʕ,o,m,:,d,i,(ti),y,m.
@@ -11451,7 +11658,7 @@ n,:,$,·sh,‥,y,h,∵,(me),m.
 SPACE
 w,·,v,:,n,‥,y,h,∵,𝓂,m.,.
 
-2Chronicles 20:14 in vtrad vtbhs
+2Chronicles 20:14 in vtrad vtsef
 w,:,y,_,x,:_,z,i,y,α,‥,μ,l
 SPACE
 v,·,∵,n.,-,z,:,k,_,r,:,y,a,μ,h,w,·
@@ -11480,7 +11687,7 @@ v,·,:,τ,(ti),w,o,k.,:
 SPACE
 h,_,q,·,a,h,a,𝓂,l,.
 
-2Chronicles 20:15 in vtrad vtbhs
+2Chronicles 20:15 in vtrad vtsef
 w,_,y,·,o,◆,α,m,∵,r
 SPACE
 h,_,q,:,$,·sh,i,<,y,v,w,·
@@ -11527,7 +11734,7 @@ k,·,i,(me),y
 SPACE
 l,‥,α,l,o,h,i,𝓂,y,m.,.
 
-2Chronicles 20:16 in vtrad vtbhs
+2Chronicles 20:16 in vtrad vtsef
 m,a,x,a,r,(p)
 SPACE
 r,:,d,⅃,w,·
@@ -11556,7 +11763,7 @@ m,i,d,:,v,·,_,(me),r
 SPACE
 y,:,r,w,·,α,‥,𝓂,l,.
 
-2Chronicles 20:17 in vtrad vtbhs
+2Chronicles 20:17 in vtrad vtsef
 l,o,(me),α
 SPACE
 l,a,k,∵,(ti),m.
@@ -11595,7 +11802,7 @@ w,_,y,h,o,w,a,(ti),h
 SPACE
 ʕ,i,m,·,a,k,∵,𝓂,m.,.
 
-2Chronicles 20:18 in vtrad vtbhs
+2Chronicles 20:18 in vtrad vtsef
 w,_,y,·,i,q,·,o,(da),d
 SPACE
 y,:,h,w,o,$,·sh,a,f,a,⟓,θ
@@ -11620,7 +11827,7 @@ l,:,h,i,𝓂,$,·sh,:,τ,·,_,x,:_,w,hhfv,(ti),τ
 SPACE
 l,_,y,h,o,w,a,𝓂,h,.
 
-2Chronicles 20:19 in vtrad vtbhs
+2Chronicles 20:19 in vtrad vtsef
 w,_,y,·,a,q,u,(da),m,w,·
 SPACE
 h,_,l,:,w,i,y,·,i,⟓,m.
@@ -11647,7 +11854,7 @@ g,·,a,d,(ti),w,o,l
 SPACE
 l,:,m,a,𝓂,ʕ,:,l,a,h,.
 
-2Chronicles 20:20 in vtrad vtbhs
+2Chronicles 20:20 in vtrad vtsef
 w,_,y,·,_,$,·sh,:,k,·,i,⅃,y,m,w,·
 SPACE
 v,_,v,·,o,ƶ,q,∵,r
@@ -11688,7 +11895,7 @@ v,i,n,:,v,i,y,α,a,(ti),y,w
 SPACE
 w,:,h,_,ц,:,l,i,𝓂,y,x,w,·,.
 
-2Chronicles 20:21 in vtrad vtbhs
+2Chronicles 20:21 in vtrad vtsef
 w,_,y,·,i,w,·,a,ʕ,_,ц.,(p)
 SPACE
 α,∵,l,-,h,a,ʕ,a,ƶ,m.
@@ -11721,7 +11928,7 @@ l,:,ʕ,w,o,l,a,(ti),m.
 SPACE
 x,_,σ,:,d,·,𝓂,w,o,.
 
-2Chronicles 20:22 in vtrad vtbhs
+2Chronicles 20:22 in vtrad vtsef
 w,·,v,:,ʕ,‥,τ,(tq)
 SPACE
 h,‥,x,‥,(qa),l,·,w,·
@@ -11733,6 +11940,11 @@ SPACE
 n,a,τ,_,⅃,n.
 SPACE
 y,:,h,o,w,a,⅃,h
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 m,:,⌕,α,a,𝓂,r,:,v,i,⌕,y,m.
 SPACE
 ʕ,_,l,-,v,·,:,n,‥,(qa),y
@@ -11749,7 +11961,7 @@ l,i,𝓂,y,h,w,·,d,a,(ti),h
 SPACE
 w,_,y,·,i,n,·,a,g,‥,𝓂,f,w,·,.
 
-2Chronicles 20:23 in vtrad vtbhs
+2Chronicles 20:23 in vtrad vtsef
 w,_,⌕,y,·,_,ʕ,_,m,:,d,⌕,w,·
 SPACE
 v,·,:,n,‥,(qa),y
@@ -11778,7 +11990,7 @@ SPACE
 SPACE
 l,:,m,_,$,·sh,:,x,i,𝓂,y,τ,.
 
-2Chronicles 20:24 in vtrad vtbhs
+2Chronicles 20:24 in vtrad vtsef
 w,i,y,h,w,·,d,a,⟓,h
 SPACE
 v,·,a,(me),α
@@ -11803,7 +12015,7 @@ w,:,α,‥,(me),y,n.
 SPACE
 f,·,:,l,‥,y,θ,a,𝓂,h,.
 
-2Chronicles 20:25 in vtrad vtbhs
+2Chronicles 20:25 in vtrad vtsef
 w,_,y,·,a,v,o,(qa),α
 SPACE
 y,:,h,w,o,$,·sh,a,f,a,⅃,θ
@@ -11850,7 +12062,7 @@ k,·,i,(me),y
 SPACE
 r,_,v,-,h,𝓂,w,·,α,.
 
-2Chronicles 20:26 in vtrad vtbhs
+2Chronicles 20:26 in vtrad vtsef
 w,·,v,_,y,·,⅃,w,o,m.
 SPACE
 h,a,r,:,v,i,ʕ,i,◆,y
@@ -11883,7 +12095,7 @@ v,·,:,r,a,k,a,(ti),h
 SPACE
 ʕ,_,d,-,h,_,y,·,𝓂,w,o,m.,.
 
-2Chronicles 20:27 in vtrad vtbhs
+2Chronicles 20:27 in vtrad vtsef
 w,_,⌕,y,·,a,$,·sh,u,v,⌕,w,·
 SPACE
 k,·,oa,l,-,α,i,(qa),y,$,·sh
@@ -11908,7 +12120,7 @@ y,:,h,o,w,a,(ti),h
 SPACE
 m,‥,α,w,o,y,:,v,‥,y,h,∵,𝓂,m.,.
 
-2Chronicles 20:28 in vtrad vtbhs
+2Chronicles 20:28 in vtrad vtsef
 w,_,y,·,a,v,o,(p),α,w,·,(p)
 SPACE
 y,:,r,⅃,w,·,$,·sh,a,l,_,ƶ,CGJ,i,m.
@@ -11923,7 +12135,7 @@ SPACE
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 20:29 in vtrad vtbhs
+2Chronicles 20:29 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 f,·,_,⅃,x,_,d
@@ -11950,7 +12162,7 @@ SPACE
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 20:30 in vtrad vtbhs
+2Chronicles 20:30 in vtrad vtsef
 w,_,τ,·,i,$,·sh,:,q,o,(ti),θ
 SPACE
 m,_,l,:,k,⅃,w,·,τ
@@ -11965,7 +12177,7 @@ SPACE
 SPACE
 m,i,σ,·,a,v,i,𝓂,y,v,.
 
-2Chronicles 20:31 in vtrad vtbhs
+2Chronicles 20:31 in vtrad vtsef
 w,_,y,·,i,m,:,l,o,(me),k.,:
 SPACE
 y,:,h,w,o,$,·sh,a,f,a,(ti),θ
@@ -11998,7 +12210,7 @@ SPACE
 SPACE
 v,·,_,τ,-,$,·sh,i,l,:,x,i,𝓂,y,.
 
-2Chronicles 20:32 in vtrad vtbhs
+2Chronicles 20:32 in vtrad vtsef
 w,_,y,·,‥,◆,l,∵,k.,:
 SPACE
 v,·,:,d,∵,⟓,r,∵,k.,:
@@ -12019,7 +12231,7 @@ v,·,:,ʕ,‥,y,n,‥,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 20:33 in vtrad vtbhs
+2Chronicles 20:33 in vtrad vtsef
 α,_,(me),k.,:
 SPACE
 h,_,v,·,a,m,(ti),w,o,τ
@@ -12038,7 +12250,7 @@ l,‥,α,l,o,h,‥,(ti),y
 SPACE
 α,:_,v,o,τ,‥,y,h,∵,𝓂,m.,.
 
-2Chronicles 20:34 in vtrad vtbhs
+2Chronicles 20:34 in vtrad vtsef
 w,:,y,∵,(p),τ,∵,r,(p)
 SPACE
 d,·,i,v,:,r,‥,⅃,y
@@ -12069,7 +12281,7 @@ m,_,l,:,k,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 20:35 in vtrad vtbhs
+2Chronicles 20:35 in vtrad vtsef
 w,:,α,_,x,:_,r,‥,y,-,k,‥,◆,n.
 SPACE
 α,∵,τ,:,x,_,v,·,_,r,(p)
@@ -12090,7 +12302,7 @@ h,i,r,:,$,·sh,i,(me),y,ʕ,_
 SPACE
 l,_,ʕ,:_,$,·si,𝓂,w,o,τ,.
 
-2Chronicles 20:36 in vtrad vtbhs
+2Chronicles 20:36 in vtrad vtsef
 w,_,y,:,x,_,v,·,:,r,‥,⅃,h,w,·
 SPACE
 ʕ,i,m,·,ƶ,w,o
@@ -12111,7 +12323,7 @@ v,·,:,ʕ,∵,ц,:,y,(me),w,o,n.
 SPACE
 g,·,a,𝓂,v,∵,r,.
 
-2Chronicles 20:37 in vtrad vtbhs
+2Chronicles 20:37 in vtrad vtsef
 w,_,y,·,i,τ,:,n,_,v,·,‥,(G),α
 SPACE
 α,:∵,l,i,y,ʕ,∵,<,z,∵,r
@@ -12146,7 +12358,7 @@ l,a,l,∵,(me),k,∵,τ
 SPACE
 α,∵,l,-,τ,·,_,r,:,$,·sh,i,𝓂,y,$,·sh,.
 
-2Chronicles 21:1 in vtrad vtbhs
+2Chronicles 21:1 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,<,v
 SPACE
 y,:,h,w,o,$,·sh,a,f,a,θ,(p)
@@ -12169,7 +12381,7 @@ v,·,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Chronicles 21:2 in vtrad vtbhs
+2Chronicles 21:2 in vtrad vtsef
 w,:,l,w,o,-,α,_,x,i,(G),y,m.
 SPACE
 v,·,:,n,‥,⅃,y
@@ -12196,10 +12408,15 @@ y,:,h,w,o,$,·sh,a,f,a,(me),θ
 SPACE
 m,∵,l,∵,k.,:,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 21:3 in vtrad vtbhs
+2Chronicles 21:3 in vtrad vtsef
 w,_,y,·,i,τ,·,‥,⅃,n.
 SPACE
 l,a,h,∵,⅃,m.
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 α,:_,⌕,v,i,y,h,∵,⌕,m.
 SPACE
 m,_,τ,·,a,n,(qa),w,o,τ
@@ -12228,7 +12445,7 @@ k,·,i,y,-,h,(me),w,·,α
 SPACE
 h,_,v,·,:,k,𝓂,w,o,r,.
 
-2Chronicles 21:4 in vtrad vtbhs
+2Chronicles 21:4 in vtrad vtsef
 w,_,y,·,a,(qa),q,oa,m.
 SPACE
 y,:,h,w,o,r,a,(ge),m.
@@ -12251,7 +12468,7 @@ m,i,$,·si,·,a,r,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 21:5 in vtrad vtbhs
+2Chronicles 21:5 in vtrad vtsef
 v,·,∵,n.,-,$,·sh,:,l,o,$,·sh,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,τ,·,_,⟓,y,i,m.
@@ -12270,10 +12487,14 @@ m,a,l,_,(ti),k.,:
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 21:6 in vtrad vtbhs
+2Chronicles 21:6 in vtrad vtsef
 w,_,y,·,‥,(ge),l,∵,k.,:
 SPACE
 v,·,:,d,∵,⅃,r,∵,k.,:
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 m,_,l,:,k,‥,⅃,y
 SPACE
@@ -12305,7 +12526,7 @@ v,·,:,ʕ,‥,y,n,‥,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 21:7 in vtrad vtbhs
+2Chronicles 21:7 in vtrad vtsef
 w,:,l,o,α,-,α,a,v,a,⅃,h
 SPACE
 y,:,h,o,w,a,◆,h
@@ -12340,7 +12561,7 @@ w,·,l,:,v,a,n,a,(ti),y,w
 SPACE
 k,·,oa,l,-,h,_,y,·,a,m,i,𝓂,y,m.,.
 
-2Chronicles 21:8 in vtrad vtbhs
+2Chronicles 21:8 in vtrad vtsef
 v,·,:,y,a,m,a,y,w,(p)
 SPACE
 f,·,a,$,·sh,_,⅃,ʕ
@@ -12357,7 +12578,7 @@ SPACE
 SPACE
 m,∵,𝓂,l,∵,k.,:,.
 
-2Chronicles 21:9 in vtrad vtbhs
+2Chronicles 21:9 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,v,o,<,r
 SPACE
 y,:,h,w,o,r,a,m.,(p)
@@ -12388,7 +12609,7 @@ $,·si,a,r,‥,(me),y
 SPACE
 h,a,r,a,𝓂,k,∵,v,.
 
-2Chronicles 21:10 in vtrad vtbhs
+2Chronicles 21:10 in vtrad vtsef
 w,_,y,·,i,f,:,$,·sh,_,(qa),ʕ
 SPACE
 α,:∵,d,(ge),w,o,m.
@@ -12427,7 +12648,7 @@ SPACE
 SPACE
 α,:_,v,o,τ,a,𝓂,y,w,.
 
-2Chronicles 21:11 in vtrad vtbhs
+2Chronicles 21:11 in vtrad vtsef
 g,·,_,m.,-,h,(me),w,·,α
 SPACE
 ʕ,a,$,·si,a,𝓂,h,-,v,a,m,(ti),w,o,τ
@@ -12446,7 +12667,7 @@ w,_,y,·,_,d,·,_,(ti),x
 SPACE
 α,∵,τ,-,y,:,h,w,·,d,a,𝓂,h,.
 
-2Chronicles 21:12 in vtrad vtbhs
+2Chronicles 21:12 in vtrad vtsef
 w,_,y,·,a,v,o,<,α
 SPACE
 α,‥,l,a,y,w,(p)
@@ -12460,6 +12681,10 @@ SPACE
 l,‥,α,m,o,⅄,r
 SPACE
 k,·,o,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -12489,7 +12714,7 @@ SPACE
 SPACE
 m,∵,𝓂,l,∵,k.,:,-,y,:,h,w,·,d,a,𝓂,h,.
 
-2Chronicles 21:13 in vtrad vtbhs
+2Chronicles 21:13 in vtrad vtsef
 w,_,τ,·,‥,◆,l,∵,k.,:
 SPACE
 v,·,:,d,∵,(p),r,∵,k.,:,(p)
@@ -12524,7 +12749,7 @@ m,i,m,·,:,k.,a,(ti)
 SPACE
 h,a,r,a,𝓂,g,:,τ,·,a,.
 
-2Chronicles 21:14 in vtrad vtbhs
+2Chronicles 21:14 in vtrad vtsef
 h,i,n,·,‥,⅃,h
 SPACE
 y,:,h,o,w,a,◆,h
@@ -12543,7 +12768,7 @@ w,·,v,:,n,a,$,·sh,∵,(ti),y,k.,a
 SPACE
 w,·,v,:,k,oa,l,-,r,:,k,w,·,$,·sh,∵,𝓂,k.,a,.
 
-2Chronicles 21:15 in vtrad vtbhs
+2Chronicles 21:15 in vtrad vtsef
 w,:,α,_,τ,·,a,⟓,h
 SPACE
 v,·,oa,x,:a,l,a,y,i,(me),y,m.
@@ -12564,7 +12789,7 @@ y,a,m,i,(ti),y,m.
 SPACE
 ʕ,_,l,-,y,a,m,i,𝓂,y,m.,.
 
-2Chronicles 21:16 in vtrad vtbhs
+2Chronicles 21:16 in vtrad vtsef
 w,_,y,·,a,(qa),ʕ,_,r
 SPACE
 y,:,h,o,w,a,(ge),h
@@ -12585,7 +12810,7 @@ SPACE
 SPACE
 k,·,w,·,$,·sh,i,𝓂,y,m.,.
 
-2Chronicles 21:17 in vtrad vtbhs
+2Chronicles 21:17 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,l,<,w,·
 SPACE
 v,i,y,h,w,·,d,a,h,(p)
@@ -12620,7 +12845,7 @@ q,:,θ,o,(me),n.
 SPACE
 v,·,a,n,a,𝓂,y,w,.
 
-2Chronicles 21:18 in vtrad vtbhs
+2Chronicles 21:18 in vtrad vtsef
 w,:,α,_,x,:_,r,‥,(ti),y
 SPACE
 k,·,oa,l,-,z,o,⅄,α,τ
@@ -12628,6 +12853,11 @@ SPACE
 n,:,g,a,f,(qa),w,o
 SPACE
 y,:,h,o,w,a,(da),h
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 v,·,:,m,‥,ʕ,a,⟓,y,w
 SPACE
 l,oa,x,:a,l,i,(ti),y
@@ -12636,10 +12866,15 @@ l,:,α,‥,(me),y,n.
 SPACE
 m,_,r,:,f,·,‥,𝓂,α,.
 
-2Chronicles 21:19 in vtrad vtbhs
+2Chronicles 21:19 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
 SPACE
 l,:,y,a,m,i,⅃,y,m.
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 m,i,y,·,a,m,i,μ,y,m.
 SPACE
 w,·,k,:,ʕ,‥,τ,(tq)
@@ -12649,6 +12884,10 @@ SPACE
 h,_,q,·,‥,(ge),ц.
 SPACE
 l,:,y,a,m,i,⅃,y,m.
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 $,·sh,:,n,_,◆,y,i,m.
 SPACE
@@ -12676,7 +12915,7 @@ k,·,i,$,·si,:,r,‥,f,_,(me),τ
 SPACE
 α,:_,v,o,τ,a,𝓂,y,w,.
 
-2Chronicles 21:20 in vtrad vtbhs
+2Chronicles 21:20 in vtrad vtsef
 v,·,∵,n.,-,$,·sh,:,l,o,$,·sh,i,<,y,m.
 SPACE
 w,·,$,·sh,:,τ,·,_,(p),y,i,m.,(p)
@@ -12711,7 +12950,7 @@ v,·,:,q,i,v,:,r,(me),w,o,τ
 SPACE
 h,_,m,·,:,l,a,k,i,𝓂,y,m.,.
 
-2Chronicles 22:1 in vtrad vtbhs
+2Chronicles 22:1 in vtrad vtsef
 w,_,y,·,_,m,:,l,i,(tq),y,k,w,·,(tq)
 SPACE
 y,w,o,$,·sh,:,v,‥,(qa),y
@@ -12750,7 +12989,7 @@ m,∵,(me),l,∵,k.,:
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Chronicles 22:2 in vtrad vtbhs
+2Chronicles 22:2 in vtrad vtsef
 v,·,∵,n.,-,α,_,r,:,v,·,a,ʕ,i,(qa),y,m.
 SPACE
 w,·,$,·sh,:,τ,·,_,<,y,i,m.
@@ -12777,7 +13016,7 @@ SPACE
 SPACE
 v,·,_,τ,-,ʕ,oa,m,:,r,i,𝓂,y,.
 
-2Chronicles 22:3 in vtrad vtbhs
+2Chronicles 22:3 in vtrad vtsef
 g,·,_,m.,-,h,⅃,w,·,α
 SPACE
 h,a,l,_,ƶ,k.,:
@@ -12798,7 +13037,7 @@ y,w,o,ʕ,_,ц,:,τ,·,(ti),w,o
 SPACE
 l,:,h,_,r,:,$,·sh,i,𝓂,y,ʕ,_,.
 
-2Chronicles 22:4 in vtrad vtbhs
+2Chronicles 22:4 in vtrad vtsef
 w,_,y,·,_,(da),ʕ,_,$,·si
 SPACE
 h,a,r,_,⟓,ʕ
@@ -12827,7 +13066,7 @@ l,:,m,_,$,·sh,:,x,i,(me),y,τ
 SPACE
 l,𝓂,w,o,.
 
-2Chronicles 22:5 in vtrad vtbhs
+2Chronicles 22:5 in vtrad vtsef
 g,·,_,⅃,m.
 SPACE
 v,·,_,ʕ,:_,ц,a,τ,a,m.,~
@@ -12860,7 +13099,7 @@ h,a,r,_,m,·,i,(ti),y,m.
 SPACE
 α,∵,τ,-,y,w,o,r,a,𝓂,m.,.
 
-2Chronicles 22:6 in vtrad vtbhs
+2Chronicles 22:6 in vtrad vtsef
 w,_,y,·,a,(ge),$,·sh,oa,v
 SPACE
 l,:,h,i,τ,:,r,_,f,·,‥,⅃,α
@@ -12907,7 +13146,7 @@ k,·,i,y,-,x,o,l,∵,(me),h
 SPACE
 h,𝓂,w,·,α,.
 
-2Chronicles 22:7 in vtrad vtbhs
+2Chronicles 22:7 in vtrad vtsef
 w,·,m,‥,α,:∵,l,o,h,i,◆,y,m.
 SPACE
 h,a,𝓂,y,:,τ,a,h,(p)
@@ -12942,7 +13181,7 @@ SPACE
 SPACE
 α,_,x,:,α,a,𝓂,v,.
 
-2Chronicles 22:8 in vtrad vtbhs
+2Chronicles 22:8 in vtrad vtsef
 w,_,y,:,h,i,Ƶ,y
 SPACE
 k,·,:,h,i,$,·sh,·,a,f,‥,(me),θ
@@ -12971,7 +13210,7 @@ l,_,α,:_,x,_,z,:,y,a,(ti),h,w,·
 SPACE
 w,_,y,·,_,h,_,r,:,g,‥,𝓂,m.,.
 
-2Chronicles 22:9 in vtrad vtbhs
+2Chronicles 22:9 in vtrad vtsef
 w,_,y,:,v,_,q,·,‥,$,·sh,(tq)
 SPACE
 α,∵,τ,-,α,:_,x,_,z,:,y,a,(qa),h,w,·
@@ -13018,7 +13257,7 @@ k,·,o,(ti),x,_
 SPACE
 l,:,m,_,m,:,l,a,k,a,𝓂,h,.
 
-2Chronicles 22:10 in vtrad vtbhs
+2Chronicles 22:10 in vtrad vtsef
 w,_,ʕ,:_,τ,_,l,:,y,a,(p),h,w,·,(p)
 SPACE
 α,‥,⅃,m.
@@ -13045,7 +13284,7 @@ l,:,v,‥,(me),y,τ
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Chronicles 22:11 in vtrad vtbhs
+2Chronicles 22:11 in vtrad vtsef
 w,_,τ,·,i,q,·,_,x,(tq)
 SPACE
 y,:,h,w,o,$,·sh,_,v,:,ʕ,_,(qa),τ
@@ -13108,7 +13347,7 @@ w,:,l,o,(me),α
 SPACE
 h,:∵,m,i,y,τ,a,𝓂,τ,:,h,w,·,.
 
-2Chronicles 22:12 in vtrad vtbhs
+2Chronicles 22:12 in vtrad vtsef
 w,_,y,:,h,i,<,y
 SPACE
 α,i,τ,·,a,m.,(p)
@@ -13129,7 +13368,7 @@ m,o,l,∵,(me),k,∵,τ
 SPACE
 ʕ,_,l,-,h,a,α,a,𝓂,r,∵,ц.,.
 
-2Chronicles 23:1 in vtrad vtbhs
+2Chronicles 23:1 in vtrad vtsef
 w,·,v,_,$,·sh,·,a,n,a,(qa),h
 SPACE
 h,_,$,·sh,·,:,v,i,ʕ,i,(ge),y,τ
@@ -13168,7 +13407,7 @@ SPACE
 SPACE
 v,_,v,·,:,r,i,𝓂,y,τ,.
 
-2Chronicles 23:2 in vtrad vtbhs
+2Chronicles 23:2 in vtrad vtsef
 w,_,y,·,a,σ,o,(p),v,·,w,·,(p)
 SPACE
 v,·,i,𝓂,y,h,w,·,d,a,ƶ,h
@@ -13191,7 +13430,7 @@ w,_,y,·,a,v,o,(ti),α,w,·
 SPACE
 α,∵,l,-,y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 23:3 in vtrad vtbhs
+2Chronicles 23:3 in vtrad vtsef
 w,_,y,·,i,k,:,r,o,(qa),τ
 SPACE
 k,·,oa,l,-,h,_,q,·,a,h,a,(me),l
@@ -13224,7 +13463,7 @@ SPACE
 SPACE
 d,a,w,i,𝓂,y,d,.
 
-2Chronicles 23:4 in vtrad vtbhs
+2Chronicles 23:4 in vtrad vtsef
 z,∵,(me),h
 SPACE
 h,_,d,·,a,v,a,(ti),r
@@ -13249,7 +13488,7 @@ l,:,$,·sh,o,ʕ,:_,r,‥,(ti),y
 SPACE
 h,_,σ,·,i,f,·,i,𝓂,y,m.,.
 
-2Chronicles 23:5 in vtrad vtbhs
+2Chronicles 23:5 in vtrad vtsef
 w,:,h,_,$,·sh,·,:,l,i,$,·sh,i,y,τ,(p)
 SPACE
 v,·,:,v,‥,⅃,y,τ
@@ -13270,7 +13509,7 @@ v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 23:6 in vtrad vtbhs
+2Chronicles 23:6 in vtrad vtsef
 w,:,α,_,l,-,y,a,v,⅃,w,o,α
 SPACE
 v,‥,y,τ,-,y,:,h,o,w,a,◆,h
@@ -13299,7 +13538,7 @@ m,i,$,·sh,:,m,∵,(me),r,∵,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 23:7 in vtrad vtbhs
+2Chronicles 23:7 in vtrad vtsef
 w,:,h,i,q,·,i,(tq),y,f,w,·,(tq)
 SPACE
 h,_,l,:,w,i,y,·,i,(qa),m.
@@ -13328,7 +13567,7 @@ v,·,:,v,o,α,(me),w,o
 SPACE
 w,·,v,:,ц,‥,α,τ,𝓂,w,o,.
 
-2Chronicles 23:8 in vtrad vtbhs
+2Chronicles 23:8 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,$,·si,(qa),w,·
 SPACE
 h,_,l,:,w,i,y,·,i,(ge),m.
@@ -13371,7 +13610,7 @@ h,_,k,·,o,h,‥,(ti),n.
 SPACE
 α,∵,τ,-,h,_,𝓂,m,·,_,x,:,l,:,q,𝓂,w,o,τ,.
 
-2Chronicles 23:9 in vtrad vtbhs
+2Chronicles 23:9 in vtrad vtsef
 w,_,y,·,i,τ,·,‥,n.,(tq)
 SPACE
 y,:,h,w,o,y,a,d,a,(qa),ʕ
@@ -13400,12 +13639,16 @@ v,·,‥,(me),y,τ
 SPACE
 h,a,α,:∵,l,o,h,i,𝓂,y,m.,.
 
-2Chronicles 23:10 in vtrad vtbhs
+2Chronicles 23:10 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,m,‥,(qa),d
 SPACE
 α,∵,τ,-,k,·,oa,l,-,h,a,ʕ,a,(ge),m.
 SPACE
 w,:,α,i,⅃,y,$,·sh
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 $,·sh,i,l,:,x,⅃,w,o
 SPACE
@@ -13431,7 +13674,7 @@ SPACE
 SPACE
 σ,a,v,i,𝓂,y,v,.
 
-2Chronicles 23:11 in vtrad vtbhs
+2Chronicles 23:11 in vtrad vtsef
 w,_,y,·,w,o,ц,i,⅃,y,α,w,·
 SPACE
 α,∵,τ,-,v,·,∵,n.,-,h,_,m,·,∵,◆,l,∵,k.,:
@@ -13460,7 +13703,7 @@ y,:,x,i,(me),y
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-2Chronicles 23:12 in vtrad vtbhs
+2Chronicles 23:12 in vtrad vtsef
 w,_,τ,·,i,$,·sh,:,m,_,⅃,ʕ
 SPACE
 ʕ,:_,τ,_,l,:,y,a,◆,h,w,·
@@ -13483,7 +13726,7 @@ v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 23:13 in vtrad vtbhs
+2Chronicles 23:13 in vtrad vtsef
 w,_,τ,·,‥,μ,r,∵,α
 SPACE
 w,:,h,i,n,·,‥,⅃,h
@@ -13534,7 +13777,7 @@ q,∵,(me),$,·sh,∵,r
 SPACE
 q,a,𝓂,$,·sh,∵,r,.
 
-2Chronicles 23:14 in vtrad vtbhs
+2Chronicles 23:14 in vtrad vtsef
 w,_,y,·,w,o,ц,‥,α,(tq)
 SPACE
 y,:,h,𝓂,w,o,y,a,d,a,(qa),ʕ
@@ -13544,6 +13787,10 @@ SPACE
 α,∵,τ,-,$,·si,a,r,‥,(me),y
 SPACE
 h,_,m,·,‥,α,⅃,w,o,τ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 f,·,:,q,w,·,d,‥,⅃,y
 SPACE
@@ -13581,7 +13828,7 @@ v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 23:15 in vtrad vtbhs
+2Chronicles 23:15 in vtrad vtsef
 w,_,y,·,a,$,·si,i,<,y,m,w,·
 SPACE
 l,a,h,·,(p)
@@ -13602,7 +13849,7 @@ w,_,y,:,m,i,y,τ,(ti),w,·,h,a
 SPACE
 $,·sh,a,𝓂,m.,.
 
-2Chronicles 23:16 in vtrad vtbhs
+2Chronicles 23:16 in vtrad vtsef
 w,_,y,·,i,k,:,r,o,<,τ
 SPACE
 y,:,h,𝓂,w,o,y,a,d,a,ʕ,(p)
@@ -13625,7 +13872,7 @@ l,:,ʕ,a,(ti),m.
 SPACE
 l,_,𝓂,y,h,o,w,a,𝓂,h,.
 
-2Chronicles 23:17 in vtrad vtbhs
+2Chronicles 23:17 in vtrad vtsef
 w,_,y,·,a,v,o,(qa),α,w,·
 SPACE
 k,oa,l,-,h,a,ʕ,a,<,m.
@@ -13654,7 +13901,7 @@ l,i,f,:,n,‥,(me),y
 SPACE
 h,_,𝓂,m,·,i,z,:,v,·,:,x,𝓂,w,o,τ,.
 
-2Chronicles 23:18 in vtrad vtbhs
+2Chronicles 23:18 in vtrad vtsef
 w,_,y,·,a,(tq),$,·si,∵,m.,(tq)
 SPACE
 y,:,h,w,o,y,a,d,a,(qa),ʕ
@@ -13703,7 +13950,7 @@ y,:,d,‥,(me),y
 SPACE
 d,a,w,i,𝓂,y,d,.
 
-2Chronicles 23:19 in vtrad vtbhs
+2Chronicles 23:19 in vtrad vtsef
 w,_,𝓂,y,·,_,ʕ,:_,m,‥,d,(p)
 SPACE
 h,_,$,·sh,·,⅃,w,o,ʕ,:_,r,i,ƶ,y,m.
@@ -13720,7 +13967,7 @@ SPACE
 SPACE
 l,:,k,oa,l,-,d,·,a,v,a,𝓂,r,.
 
-2Chronicles 23:20 in vtrad vtbhs
+2Chronicles 23:20 in vtrad vtsef
 w,_,y,·,i,q,·,_,⅃,x
 SPACE
 α,∵,τ,-,$,·si,a,r,‥,⅃,y
@@ -13734,6 +13981,10 @@ SPACE
 v,·,a,ʕ,a,(ge),m.
 SPACE
 w,:,α,‥,⅃,τ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 k,·,oa,l,-,ʕ,_,⅃,m.
 SPACE
@@ -13767,7 +14018,7 @@ k,·,i,σ,·,‥,(me),α
 SPACE
 h,_,m,·,_,m,:,l,a,k,a,𝓂,h,.
 
-2Chronicles 23:21 in vtrad vtbhs
+2Chronicles 23:21 in vtrad vtsef
 w,_,y,·,i,$,·si,:,m,:,x,(me),w,·
 SPACE
 k,oa,l,-,ʕ,_,m.,-,h,a,α,a,(ti),r,∵,ц.
@@ -13782,7 +14033,7 @@ h,‥,m,i,(me),y,τ,w,·
 SPACE
 v,∵,x,a,𝓂,r,∵,v,.
 
-2Chronicles 24:1 in vtrad vtbhs
+2Chronicles 24:1 in vtrad vtsef
 v,·,∵,n.,-,$,·sh,∵,<,v,_,ʕ
 SPACE
 $,·sh,a,n,i,y,m.,(p)
@@ -13809,7 +14060,7 @@ m,i,v,·,:,α,‥,(me),r
 SPACE
 $,·sh,a,𝓂,v,_,ʕ,.
 
-2Chronicles 24:2 in vtrad vtbhs
+2Chronicles 24:2 in vtrad vtsef
 w,_,y,·,_,(da),ʕ,_,$,·si
 SPACE
 y,w,o,α,a,⟓,$,·sh
@@ -13826,7 +14077,7 @@ y,:,h,w,o,y,a,d,a,(me),ʕ
 SPACE
 h,_,k,·,o,h,‥,𝓂,n.,.
 
-2Chronicles 24:3 in vtrad vtbhs
+2Chronicles 24:3 in vtrad vtsef
 w,_,y,·,i,$,·si,·,a,α,-,l,(me),w,o
 SPACE
 y,:,h,w,o,y,a,d,a,(ti),ʕ
@@ -13841,7 +14092,7 @@ v,·,a,n,i,(me),y,m.
 SPACE
 w,·,v,a,n,𝓂,w,o,τ,.
 
-2Chronicles 24:4 in vtrad vtbhs
+2Chronicles 24:4 in vtrad vtsef
 w,_,y,:,h,i,(ti),y
 SPACE
 α,_,x,:_,r,‥,y,-,k,‥,⅄,n.
@@ -13858,7 +14109,7 @@ SPACE
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 24:5 in vtrad vtbhs
+2Chronicles 24:5 in vtrad vtsef
 w,_,y,·,i,q,:,v,·,o,ц.,~
 SPACE
 α,∵,τ,-,h,_,k,·,o,h,:_,n,i,⅃,y,m.
@@ -13882,6 +14133,10 @@ SPACE
 k,·,∵,(ge),σ,∵,f.
 SPACE
 l,:,x,_,z,·,‥,⅃,q
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,∵,τ,-,v,·,‥,⅃,y,τ
 SPACE
@@ -13905,7 +14160,7 @@ m,i,h,:_,r,(ti),w,·
 SPACE
 h,_,l,:,w,i,y,·,i,𝓂,m.,.
 
-2Chronicles 24:6 in vtrad vtbhs
+2Chronicles 24:6 in vtrad vtsef
 w,_,y,·,i,q,:,r,a,⅃,α
 SPACE
 h,_,m,·,∵,≁,l,∵,k.,:,~
@@ -13944,7 +14199,7 @@ l,:,α,o,(ti),h,∵,l
 SPACE
 h,a,ʕ,‥,d,𝓂,w,·,τ,.
 
-2Chronicles 24:7 in vtrad vtbhs
+2Chronicles 24:7 in vtrad vtsef
 k,·,i,<,y
 SPACE
 ʕ,:_,τ,_,l,:,y,a,(p),h,w,·,(p)
@@ -13969,7 +14224,7 @@ SPACE
 SPACE
 l,_,v,·,:,ʕ,a,l,i,𝓂,y,m.,.
 
-2Chronicles 24:8 in vtrad vtbhs
+2Chronicles 24:8 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 h,_,m,·,∵,ƶ,l,∵,k.,:
@@ -13988,7 +14243,7 @@ v,·,‥,y,τ,-,y,:,h,o,w,a,(ti),h
 SPACE
 x,𝓂,w,·,ц,a,h,.
 
-2Chronicles 24:9 in vtrad vtbhs
+2Chronicles 24:9 in vtrad vtsef
 w,_,y,·,i,τ,·,:,n,w,·,-,q,(G),w,o,l
 SPACE
 v,·,i,y,h,w,·,d,a,⅃,h
@@ -14009,7 +14264,7 @@ SPACE
 SPACE
 v,·,_,m,·,i,d,:,v,·,a,𝓂,r,.
 
-2Chronicles 24:10 in vtrad vtbhs
+2Chronicles 24:10 in vtrad vtsef
 w,_,y,·,i,$,·si,:,m,:,x,(me),w,·
 SPACE
 k,oa,l,-,h,_,$,·si,·,a,r,i,(ti),y,m.
@@ -14024,7 +14279,7 @@ l,a,α,a,r,(ti),w,o,n.
 SPACE
 ʕ,_,d,-,l,:,k,_,l,·,‥,𝓂,h,.
 
-2Chronicles 24:11 in vtrad vtbhs
+2Chronicles 24:11 in vtrad vtsef
 w,_,y,:,h,i,μ,y
 SPACE
 v,·,:,ʕ,‥,τ,(tq)
@@ -14074,13 +14329,18 @@ SPACE
 ʕ,a,$,·si,w,·,(p)
 SPACE
 l,:,y,⅃,w,o,m.
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 v,·,:,y,ƶ,w,o,m.
 SPACE
 w,_,y,·,_,α,_,σ,:,f,w,·,-,k,∵,(ti),σ,∵,f.
 SPACE
 l,a,r,o,𝓂,v,.
 
-2Chronicles 24:12 in vtrad vtbhs
+2Chronicles 24:12 in vtrad vtsef
 w,_,y,·,i,τ,·,:,n,‥,(qa),h,w,·
 SPACE
 h,_,m,·,∵,(ge),l,∵,k.,:
@@ -14123,7 +14383,7 @@ SPACE
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 24:13 in vtrad vtbhs
+2Chronicles 24:13 in vtrad vtsef
 w,_,𝓂,y,·,_,ʕ,:_,$,·si,w,·,(p)
 SPACE
 ʕ,o,$,·si,‥,⅃,y
@@ -14148,7 +14408,7 @@ SPACE
 SPACE
 w,_,𝓂,y,:,α,_,m,·,:,ц,u,𝓂,h,w,·,.
 
-2Chronicles 24:14 in vtrad vtbhs
+2Chronicles 24:14 in vtrad vtsef
 w,·,𝓂,k,:,k,_,l,·,w,o,τ,a,μ,m.
 SPACE
 h,‥,v,i,⅃,y,α,w,·
@@ -14199,7 +14459,7 @@ y,:,m,‥,(me),y
 SPACE
 y,:,h,w,o,y,a,d,a,𝓂,ʕ,.
 
-2Chronicles 24:15 in vtrad vtbhs
+2Chronicles 24:15 in vtrad vtsef
 w,_,y,·,i,z,:,q,_,(da),n.
 SPACE
 y,:,h,w,o,y,a,d,a,⟓,ʕ
@@ -14218,7 +14478,7 @@ $,·sh,a,n,a,(ti),h
 SPACE
 v,·,:,m,w,o,τ,𝓂,w,o,.
 
-2Chronicles 24:16 in vtrad vtbhs
+2Chronicles 24:16 in vtrad vtsef
 w,_,y,·,i,q,:,v,·,:,r,u,(me),h,w,·
 SPACE
 v,:,ʕ,i,y,r,-,d,·,a,w,i,(ti),y,d
@@ -14237,7 +14497,7 @@ h,a,α,:∵,l,o,h,i,(ti),y,m.
 SPACE
 w,·,v,‥,y,τ,𝓂,w,o,.
 
-2Chronicles 24:17 in vtrad vtbhs
+2Chronicles 24:17 in vtrad vtsef
 w,:,α,_,x,:_,r,‥,(me),y
 SPACE
 m,w,o,τ,(p)
@@ -14262,7 +14522,7 @@ h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
 α,:_,l,‥,y,h,∵,𝓂,m.,.
 
-2Chronicles 24:18 in vtrad vtbhs
+2Chronicles 24:18 in vtrad vtsef
 w,_,y,·,_,ʕ,_,z,:,v,◆,w,·
 SPACE
 α,∵,τ,-,v,·,‥,<,y,τ
@@ -14289,7 +14549,7 @@ v,·,:,α,_,$,·sh,:,m,a,τ,a,(ti),m.
 SPACE
 z,o,𝓂,α,τ,.
 
-2Chronicles 24:19 in vtrad vtbhs
+2Chronicles 24:19 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,<,x
 SPACE
 v,·,a,h,∵,m.,(p)
@@ -14308,7 +14568,7 @@ w,:,l,o,(me),α
 SPACE
 h,∵,α,:∵,z,i,𝓂,y,n,w,·,.
 
-2Chronicles 24:20 in vtrad vtbhs
+2Chronicles 24:20 in vtrad vtsef
 w,:,r,⅃,w,·,x,_
 SPACE
 α,:∵,l,o,h,i,◆,y,m.
@@ -14332,6 +14592,10 @@ SPACE
 l,a,h,∵,(ge),m.
 SPACE
 k,·,o,⅃,h
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -14359,7 +14623,7 @@ w,_,y,·,_,ʕ,:_,z,o,(me),v
 SPACE
 α,∵,τ,:,k,∵,𝓂,m.,.
 
-2Chronicles 24:21 in vtrad vtbhs
+2Chronicles 24:21 in vtrad vtsef
 w,_,y,·,i,q,:,$,·sh,:,r,⅃,w,·
 SPACE
 ʕ,a,l,a,ƶ,y,w
@@ -14378,7 +14642,7 @@ v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 24:22 in vtrad vtbhs
+2Chronicles 24:22 in vtrad vtsef
 w,:,l,o,α,-,z,a,k,_,(G),r
 SPACE
 y,w,o,α,a,⅃,$,·sh
@@ -14411,8 +14675,12 @@ y,:,h,o,w,a,(ti),h
 SPACE
 w,:,y,i,d,:,r,o,𝓂,$,·sh,.
 
-2Chronicles 24:23 in vtrad vtbhs
+2Chronicles 24:23 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 l,i,τ,:,q,w,·,f,_,⅃,τ
 SPACE
@@ -14448,7 +14716,7 @@ l,:,m,∵,(me),l,∵,k.,:
 SPACE
 d,·,_,r,:,m,a,𝓂,$,·si,∵,q,.
 
-2Chronicles 24:24 in vtrad vtbhs
+2Chronicles 24:24 in vtrad vtsef
 k,·,i,y,(tq)
 SPACE
 v,:,m,i,ц,:,ʕ,_,(qa),r
@@ -14456,6 +14724,10 @@ SPACE
 α,:_,n,a,$,·sh,i,(ge),y,m.
 SPACE
 v,·,a,⅃,α,w,·
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 x,‥,⅃,y,l
 SPACE
@@ -14489,7 +14761,7 @@ SPACE
 SPACE
 $,·sh,:,f,a,θ,i,𝓂,y,m.,.
 
-2Chronicles 24:25 in vtrad vtbhs
+2Chronicles 24:25 in vtrad vtsef
 w,·,v,:,l,∵,k,:,τ,·,a,⅃,m.
 SPACE
 m,i,m,·,∵,◆,n,·,w,·
@@ -14536,7 +14808,7 @@ v,·,:,q,i,v,:,r,(me),w,o,τ
 SPACE
 h,_,m,·,:,l,a,k,i,𝓂,y,m.,.
 
-2Chronicles 24:26 in vtrad vtbhs
+2Chronicles 24:26 in vtrad vtsef
 w,:,α,‥,(ti),l,·,∵,h
 SPACE
 h,_,m,·,i,τ,:,q,_,$,·sh,·,:,r,i,⅃,y,m.
@@ -14555,7 +14827,7 @@ v,·,∵,n.,-,$,·sh,i,m,:,r,i,(ti),y,τ
 SPACE
 h,_,m,·,w,o,α,a,v,i,𝓂,y,τ,.
 
-2Chronicles 24:27 in vtrad vtbhs
+2Chronicles 24:27 in vtrad vtsef
 w,·,v,a,n,a,(G),y,w
 SPACE
 SPACE
@@ -14587,7 +14859,7 @@ v,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Chronicles 25:1 in vtrad vtbhs
+2Chronicles 25:1 in vtrad vtsef
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,(qa),y,m.
 SPACE
 w,:,x,a,m,‥,<,$,·sh
@@ -14616,7 +14888,7 @@ y,:,h,w,o,ʕ,_,d,·,a,(ti),n.
 SPACE
 m,i,y,r,w,·,$,·sh,a,l,a,𝓂,y,i,m.,.
 
-2Chronicles 25:2 in vtrad vtbhs
+2Chronicles 25:2 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 h,_,y,·,a,$,·sh,a,(ti),r
@@ -14633,7 +14905,7 @@ v,·,:,l,‥,v,a,(me),v
 SPACE
 $,·sh,a,l,‥,𝓂,m.,.
 
-2Chronicles 25:3 in vtrad vtbhs
+2Chronicles 25:3 in vtrad vtsef
 w,_,y,:,h,i,Ƶ,y
 SPACE
 k,·,_,α,:_,$,·sh,∵,⟓,r
@@ -14654,7 +14926,7 @@ SPACE
 SPACE
 α,a,v,i,𝓂,y,w,.
 
-2Chronicles 25:4 in vtrad vtbhs
+2Chronicles 25:4 in vtrad vtsef
 w,:,α,∵,τ,-,v,·,:,n,‥,y,h,∵,(ti),m.
 SPACE
 l,o,⅃,α
@@ -14697,7 +14969,7 @@ v,·,:,x,∵,θ,:,α,(ti),w,o
 SPACE
 y,a,m,𝓂,w,·,τ,w,·,.
 
-2Chronicles 25:5 in vtrad vtbhs
+2Chronicles 25:5 in vtrad vtsef
 w,_,y,·,i,q,:,v,·,o,<,ц.
 SPACE
 α,:_,m,_,ц,:,y,a,(p),h,w,·,(p)
@@ -14748,7 +15020,7 @@ r,o,(me),m,_,x
 SPACE
 w,:,ц,i,n,·,a,𝓂,h,.
 
-2Chronicles 25:6 in vtrad vtbhs
+2Chronicles 25:6 in vtrad vtsef
 w,_,y,·,i,$,·si,:,k,·,o,⅃,r
 SPACE
 m,i,y,·,i,$,·si,:,r,a,α,‥,◆,l
@@ -14765,7 +15037,7 @@ v,·,:,m,‥,α,a,(me),h
 SPACE
 k,i,k,·,_,r,-,k,·,a,𝓂,σ,∵,f.,.
 
-2Chronicles 25:7 in vtrad vtbhs
+2Chronicles 25:7 in vtrad vtsef
 w,:,α,i,⅃,y,$,·sh
 SPACE
 h,a,α,:∵,l,o,h,i,◆,y,m.
@@ -14800,7 +15072,7 @@ v,·,:,n,‥,(me),y
 SPACE
 α,∵,f,:,r,a,𝓂,y,i,m.,.
 
-2Chronicles 25:8 in vtrad vtbhs
+2Chronicles 25:8 in vtrad vtsef
 k,·,i,(ye),y
 SPACE
 α,i,m.,-,v,·,o,⅃,α
@@ -14831,7 +15103,7 @@ l,_,ʕ,:,z,(me),w,o,r
 SPACE
 w,·,l,:,h,_,k,:,$,·sh,i,𝓂,y,l,.
 
-2Chronicles 25:9 in vtrad vtbhs
+2Chronicles 25:9 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 α,:_,m,_,ц,:,y,a,(p),h,w,·,(p)
@@ -14872,7 +15144,7 @@ h,_,r,:,v,·,‥,(me),h
 SPACE
 m,i,z,·,∵,𝓂,h,.
 
-2Chronicles 25:10 in vtrad vtbhs
+2Chronicles 25:10 in vtrad vtsef
 w,_,y,·,_,v,:,d,·,i,y,l,‥,⅃,m.
 SPACE
 α,:_,m,_,ц,:,y,a,◆,h,w,·
@@ -14903,7 +15175,7 @@ l,i,m,:,q,w,o,m,a,(ti),m.
 SPACE
 v,·,oa,x,:a,r,i,y,-,α,a,𝓂,f.,.
 
-2Chronicles 25:11 in vtrad vtbhs
+2Chronicles 25:11 in vtrad vtsef
 w,_,α,:_,m,_,ц,:,y,a,(p),h,w,·,(p)
 SPACE
 h,i,τ,:,x,_,z,·,_,ƶ,q
@@ -14926,7 +15198,7 @@ SPACE
 SPACE
 α,:_,l,a,f,i,𝓂,y,m.,.
 
-2Chronicles 25:12 in vtrad vtbhs
+2Chronicles 25:12 in vtrad vtsef
 w,_,ʕ,:_,$,·si,∵,(qa),r,∵,τ
 SPACE
 α,:_,l,a,f,i,(ge),y,m.
@@ -14953,7 +15225,7 @@ w,:,k,u,l,·,a,(me),m.
 SPACE
 n,i,v,:,q,a,𝓂,ʕ,w,·,.
 
-2Chronicles 25:13 in vtrad vtbhs
+2Chronicles 25:13 in vtrad vtsef
 w,·,v,:,n,‥,⅃,y
 SPACE
 h,_,g,·,:,d,◆,w,·,d
@@ -14996,7 +15268,7 @@ v,·,i,z,·,a,(me),h
 SPACE
 r,_,v,·,a,𝓂,h,.
 
-2Chronicles 25:14 in vtrad vtbhs
+2Chronicles 25:14 in vtrad vtsef
 w,_,y,:,h,i,◆,y
 SPACE
 α,_,x,:_,r,‥,(qa),y
@@ -15031,7 +15303,7 @@ w,:,l,a,h,∵,(me),m.
 SPACE
 y,:,q,_,θ,·,‥,𝓂,r,.
 
-2Chronicles 25:15 in vtrad vtbhs
+2Chronicles 25:15 in vtrad vtsef
 w,_,y,·,i,𝓂,x,_,r,-,α,_,(me),f.
 SPACE
 y,:,h,o,w,a,(ti),h
@@ -15064,8 +15336,12 @@ SPACE
 SPACE
 m,i,y,·,a,d,∵,𝓂,k.,a,.
 
-2Chronicles 25:16 in vtrad vtbhs
+2Chronicles 25:16 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 v,·,:,d,_,v,·,:,r,⅃,w,o
 SPACE
@@ -15111,7 +15387,7 @@ $,·sh,a,m,_,(ti),ʕ,:,τ,·,a
 SPACE
 l,_,ʕ,:_,ц,a,τ,i,𝓂,y,.
 
-2Chronicles 25:17 in vtrad vtbhs
+2Chronicles 25:17 in vtrad vtsef
 w,_,y,·,i,w,·,a,ʕ,_,◆,ц.
 SPACE
 α,:_,m,_,ц,:,y,a,(p),h,w,·,(p)
@@ -15140,7 +15416,7 @@ n,i,τ,:,r,a,α,∵,(me),h
 SPACE
 f,a,n,i,𝓂,y,m.,.
 
-2Chronicles 25:18 in vtrad vtbhs
+2Chronicles 25:18 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,(G),x
 SPACE
 y,w,o,α,a,⅃,$,·sh
@@ -15189,7 +15465,7 @@ w,_,τ,·,i,r,:,m,o,(ti),σ
 SPACE
 α,∵,τ,-,h,_,x,𝓂,w,o,x,_,.
 
-2Chronicles 25:19 in vtrad vtbhs
+2Chronicles 25:19 in vtrad vtsef
 α,a,m,_,◆,r,:,τ,·,a
 SPACE
 h,i,n,·,‥,<,h
@@ -15224,7 +15500,7 @@ w,i,y,h,w,·,d,a,(me),h
 SPACE
 ʕ,i,m,·,a,𝓂,k.,:,.
 
-2Chronicles 25:20 in vtrad vtbhs
+2Chronicles 25:20 in vtrad vtsef
 w,:,l,o,α,-,$,·sh,a,m,_,⅃,ʕ
 SPACE
 α,:_,m,_,ц,:,y,a,ƶ,h,w,·
@@ -15251,7 +15527,7 @@ SPACE
 SPACE
 α,:∵,d,𝓂,w,o,m.,.
 
-2Chronicles 25:21 in vtrad vtbhs
+2Chronicles 25:21 in vtrad vtsef
 w,_,y,·,_,(qa),ʕ,_,l
 SPACE
 y,w,o,α,a,<,$,·sh
@@ -15276,7 +15552,7 @@ SPACE
 SPACE
 l,i,y,h,w,·,d,a,𝓂,h,.
 
-2Chronicles 25:22 in vtrad vtbhs
+2Chronicles 25:22 in vtrad vtsef
 w,_,y,·,i,n,·,a,(me),g,∵,f.
 SPACE
 y,:,h,w,·,d,a,(ti),h
@@ -15291,7 +15567,7 @@ SPACE
 SPACE
 l,:,α,o,h,a,l,a,𝓂,y,w,.
 
-2Chronicles 25:23 in vtrad vtbhs
+2Chronicles 25:23 in vtrad vtsef
 w,:,α,‥,τ,(tq)
 SPACE
 α,:_,m,_,ц,:,y,a,(qa),h,w,·
@@ -15336,7 +15612,7 @@ m,‥,α,(ti),w,o,τ
 SPACE
 α,_,m,·,a,𝓂,h,.
 
-2Chronicles 25:24 in vtrad vtbhs
+2Chronicles 25:24 in vtrad vtsef
 w,:,k,oa,𝓂,l,-,h,_,z,·,a,h,a,⅃,v
 SPACE
 w,:,h,_,k,·,∵,μ,σ,∵,f.
@@ -15369,7 +15645,7 @@ w,_,y,·,a,(ti),$,·sh,oa,v
 SPACE
 $,·sh,o,m,:,r,𝓂,w,o,n.,.
 
-2Chronicles 25:25 in vtrad vtbhs
+2Chronicles 25:25 in vtrad vtsef
 w,_,y,:,x,i,(qa),y
 SPACE
 α,:_,m,_,ц,:,y,a,<,h,w,·
@@ -15398,7 +15674,7 @@ SPACE
 SPACE
 $,·sh,a,n,a,𝓂,h,.
 
-2Chronicles 25:26 in vtrad vtbhs
+2Chronicles 25:26 in vtrad vtsef
 w,:,y,∵,(p),τ,∵,r,(p)
 SPACE
 d,·,i,v,:,r,‥,⅃,y
@@ -15421,7 +15697,7 @@ m,_,l,:,k,‥,𝓂,y,-,y,:,h,w,·,d,a,(ti),h
 SPACE
 w,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 25:27 in vtrad vtbhs
+2Chronicles 25:27 in vtrad vtsef
 w,·,m,‥,ʕ,‥,◆,τ
 SPACE
 α,:_,$,·sh,∵,r,-,σ,a,<,r
@@ -15454,7 +15730,7 @@ w,_,y,:,m,i,y,τ,u,(ti),h,w,·
 SPACE
 $,·sh,a,𝓂,m.,.
 
-2Chronicles 25:28 in vtrad vtbhs
+2Chronicles 25:28 in vtrad vtsef
 w,_,y,·,i,$,·si,·,a,α,u,(ti),h,w,·
 SPACE
 ʕ,_,l,-,h,_,σ,·,w,·,σ,i,⅄,y,m.
@@ -15469,7 +15745,7 @@ v,·,:,ʕ,i,(me),y,r
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Chronicles 26:1 in vtrad vtbhs
+2Chronicles 26:1 in vtrad vtsef
 w,_,y,·,i,q,:,x,(G),w,·
 SPACE
 k,·,oa,l,-,ʕ,_,<,m.
@@ -15496,7 +15772,7 @@ SPACE
 SPACE
 α,:_,m,_,ц,:,y,a,𝓂,h,w,·,.
 
-2Chronicles 26:2 in vtrad vtbhs
+2Chronicles 26:2 in vtrad vtsef
 h,(ye),w,·,α
 SPACE
 v,·,a,n,a,⅃,h
@@ -15513,7 +15789,7 @@ $,·sh,:,k,_,𝓂,v,-,h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
 ʕ,i,m.,-,α,:_,v,o,τ,a,𝓂,y,w,.
 
-2Chronicles 26:3 in vtrad vtbhs
+2Chronicles 26:3 in vtrad vtsef
 v,·,∵,n.,-,$,·sh,‥,(qa),$,·sh
 SPACE
 ʕ,∵,$,·si,:,r,‥,<,h
@@ -15541,7 +15817,7 @@ SPACE
 SPACE
 m,i,n.,-,y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 26:4 in vtrad vtbhs
+2Chronicles 26:4 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 h,_,y,·,a,$,·sh,a,(ti),r
@@ -15558,7 +15834,7 @@ SPACE
 SPACE
 α,a,v,i,𝓂,y,w,.
 
-2Chronicles 26:5 in vtrad vtbhs
+2Chronicles 26:5 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 l,i,d,:,r,o,⅃,$,·sh
@@ -15585,7 +15861,7 @@ h,i,ц,:,l,i,y,x,(ti),w,o
 SPACE
 h,a,α,:∵,l,o,h,i,𝓂,y,m.,.
 
-2Chronicles 26:6 in vtrad vtbhs
+2Chronicles 26:6 in vtrad vtsef
 w,_,y,·,‥,ц,‥,α,(p)
 SPACE
 w,_,y,·,i,l,·,a,⅃,x,∵,m.
@@ -15618,7 +15894,7 @@ v,·,:,α,_,$,·sh,:,d,·,(ti),w,o,d
 SPACE
 w,·,v,_,f,·,:,l,i,$,·sh,:,τ,·,i,𝓂,y,m.,.
 
-2Chronicles 26:7 in vtrad vtbhs
+2Chronicles 26:7 in vtrad vtsef
 w,_,y,·,_,ʕ,:,z,:,r,‥,(qa),h,w,·
 SPACE
 h,a,α,:∵,l,o,h,i,(ge),y,m.
@@ -15633,7 +15909,7 @@ v,·,:,g,w,·,r,-,v,·,a,(ti),ʕ,_,l
 SPACE
 w,:,h,_,m,·,:,ʕ,w,·,n,i,𝓂,y,m.,.
 
-2Chronicles 26:8 in vtrad vtbhs
+2Chronicles 26:8 in vtrad vtsef
 w,_,y,·,i,τ,·,:,n,(da),w,·
 SPACE
 h,a,ʕ,_,m,·,w,o,n,i,⟓,y,m.
@@ -15656,7 +15932,7 @@ h,∵,x,:∵,z,i,(ti),y,q
 SPACE
 ʕ,_,d,-,l,:,m,a,𝓂,ʕ,:,l,a,h,.
 
-2Chronicles 26:9 in vtrad vtbhs
+2Chronicles 26:9 in vtrad vtsef
 w,_,y,·,i,(qa),v,∵,n.
 SPACE
 ʕ,u,z,·,i,y,·,a,<,h,w,·
@@ -15677,7 +15953,7 @@ w,:,ʕ,_,l,-,h,_,m,·,i,q,:,ц,⅄,w,o,ʕ,_
 SPACE
 w,_,𝓂,y,:,x,_,z,·,:,q,‥,𝓂,m.,.
 
-2Chronicles 26:10 in vtrad vtbhs
+2Chronicles 26:10 in vtrad vtsef
 w,_,y,·,i,(qa),v,∵,n.
 SPACE
 m,i,g,:,d,·,a,l,i,(ge),y,m.
@@ -15716,7 +15992,7 @@ SPACE
 SPACE
 h,a,y,a,𝓂,h,.
 
-2Chronicles 26:11 in vtrad vtbhs
+2Chronicles 26:11 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
 SPACE
 l,:,ʕ,u,z,·,i,y,·,a,μ,h,w,·
@@ -15754,7 +16030,7 @@ m,i,$,·si,·,a,r,‥,(ti),y
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-2Chronicles 26:12 in vtrad vtbhs
+2Chronicles 26:12 in vtrad vtsef
 k,·,o,⌕,l
 SPACE
 m,i,σ,:,f,·,_,(G),r
@@ -15773,7 +16049,7 @@ w,:,$,·sh,‥,(me),$,·sh
 SPACE
 m,‥,α,𝓂,w,o,τ,.
 
-2Chronicles 26:13 in vtrad vtbhs
+2Chronicles 26:13 in vtrad vtsef
 w,:,ʕ,_,l,-,y,a,d,a,m.,(tq)
 SPACE
 x,‥,(qa),y,l
@@ -15808,7 +16084,7 @@ l,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
 ʕ,_,l,-,h,a,𝓂,α,w,o,y,‥,𝓂,v,.
 
-2Chronicles 26:14 in vtrad vtbhs
+2Chronicles 26:14 in vtrad vtsef
 w,_,y,·,a,(tq),k,∵,n.,(tq)
 SPACE
 l,a,h,∵,(qa),m.
@@ -15831,8 +16107,12 @@ w,·,l,:,α,_,v,:,n,‥,(ti),y
 SPACE
 q,:,l,a,ʕ,i,𝓂,y,m.,.
 
-2Chronicles 26:15 in vtrad vtbhs
+2Chronicles 26:15 in vtrad vtsef
 w,_,y,·,_,⅃,ʕ,_,$,·si
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,_,(qa),CGJ,i,m.
 SPACE
@@ -15870,7 +16150,7 @@ SPACE
 SPACE
 k,·,i,𝓂,y,-,x,a,z,a,𝓂,q,.
 
-2Chronicles 26:16 in vtrad vtbhs
+2Chronicles 26:16 in vtrad vtsef
 w,·,k,:,x,∵,z,:,q,a,τ,◆,w,o
 SPACE
 g,·,a,v,_,<,h,·
@@ -15897,7 +16177,7 @@ SPACE
 SPACE
 h,_,q,·,:,θ,o,𝓂,r,∵,τ,.
 
-2Chronicles 26:17 in vtrad vtbhs
+2Chronicles 26:17 in vtrad vtsef
 w,_,y,·,a,v,o,(me),α
 SPACE
 α,_,x,:_,r,a,(ti),y,w
@@ -15909,13 +16189,18 @@ SPACE
 w,:,ʕ,i,m,·,(G),w,o
 SPACE
 k,·,o,h,:_,n,i,(da),y,m.
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 l,_,y,h,o,w,a,⟓,h
 SPACE
 $,·sh,:,m,w,o,n,i,(ti),y,m.
 SPACE
 v,·,:,n,‥,y,-,x,a,𝓂,y,i,l,.
 
-2Chronicles 26:18 in vtrad vtbhs
+2Chronicles 26:18 in vtrad vtsef
 w,_,y,·,_,ʕ,_,m,:,d,(G),w,·
 SPACE
 ʕ,_,l,-,ʕ,u,z,·,i,y,·,a,⅃,h,w,·
@@ -15960,7 +16245,7 @@ m,‥,y,:,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,i,𝓂,y,m.,.
 
-2Chronicles 26:19 in vtrad vtbhs
+2Chronicles 26:19 in vtrad vtsef
 w,_,y,·,i,z,:,ʕ,_,f.,(p)
 SPACE
 ʕ,u,z,·,i,y,·,a,ƶ,h,w,·
@@ -15995,7 +16280,7 @@ l,:,m,i,z,:,v,·,_,(me),x
 SPACE
 h,_,q,·,:,θ,o,𝓂,r,∵,τ,.
 
-2Chronicles 26:20 in vtrad vtbhs
+2Chronicles 26:20 in vtrad vtsef
 w,_,y,·,i,⅃,f,∵,n.
 SPACE
 α,‥,l,a,μ,y,w
@@ -16030,7 +16315,7 @@ n,i,g,·,:,ʕ,(ti),w,o
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 26:21 in vtrad vtbhs
+2Chronicles 26:21 in vtrad vtsef
 w,_,y,:,h,i,y,(tq)
 SPACE
 ʕ,u,z,·,i,y,·,a,(qa),h,w,·
@@ -16038,6 +16323,10 @@ SPACE
 h,_,m,·,∵,(ge),l,∵,k.,:
 SPACE
 m,:,ц,o,r,a,⅃,ʕ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 ʕ,_,d,-,y,⅃,w,o,m.
 SPACE
@@ -16072,7 +16361,7 @@ SPACE
 SPACE
 h,a,α,a,𝓂,r,∵,ц.,.
 
-2Chronicles 26:22 in vtrad vtbhs
+2Chronicles 26:22 in vtrad vtsef
 w,:,y,∵,(p),τ,∵,r,(p)
 SPACE
 d,·,i,v,:,r,‥,⅃,y
@@ -16091,7 +16380,7 @@ v,∵,n.,-,α,a,m,(ti),w,o,ц.
 SPACE
 h,_,n,·,a,v,i,𝓂,y,α,.
 
-2Chronicles 26:23 in vtrad vtbhs
+2Chronicles 26:23 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,(qa),v
 SPACE
 ʕ,u,z,·,i,y,·,a,(ge),h,w,·
@@ -16128,7 +16417,7 @@ v,·,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Chronicles 27:1 in vtrad vtbhs
+2Chronicles 27:1 in vtrad vtsef
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,(qa),y,m.
 SPACE
 w,:,x,a,m,‥,<,$,·sh
@@ -16155,7 +16444,7 @@ y,:,r,w,·,$,·sh,a,(ti),h
 SPACE
 v,·,_,τ,-,ц,a,d,𝓂,w,o,q,.
 
-2Chronicles 27:2 in vtrad vtbhs
+2Chronicles 27:2 in vtrad vtsef
 w,_,y,·,_,(qa),ʕ,_,$,·si
 SPACE
 h,_,y,·,a,$,·sh,a,(ge),r
@@ -16186,7 +16475,7 @@ h,a,ʕ,a,(ti),m.
 SPACE
 m,_,$,·sh,:,x,i,y,τ,i,𝓂,y,m.,.
 
-2Chronicles 27:3 in vtrad vtbhs
+2Chronicles 27:3 in vtrad vtsef
 h,◆,w,·,α
 SPACE
 v,·,a,n,a,⟓,h
@@ -16205,7 +16494,7 @@ v,·,a,n,a,(ti),h
 SPACE
 l,a,r,o,𝓂,v,.
 
-2Chronicles 27:4 in vtrad vtbhs
+2Chronicles 27:4 in vtrad vtsef
 w,:,ʕ,a,r,i,(me),y,m.
 SPACE
 v,·,a,n,a,(ti),h
@@ -16220,7 +16509,7 @@ v,·,i,y,r,a,n,i,y,·,(ti),w,o,τ
 SPACE
 w,·,m,i,g,:,d,·,a,l,i,𝓂,y,m.,.
 
-2Chronicles 27:5 in vtrad vtbhs
+2Chronicles 27:5 in vtrad vtsef
 w,:,⌕,h,⌕,w,·,α
 SPACE
 n,i,l,:,x,_,(G),m.
@@ -16275,7 +16564,7 @@ h,_,$,·sh,·,‥,n,i,(ti),y,τ
 SPACE
 w,:,h,_,$,·sh,·,:,l,i,$,·sh,i,𝓂,y,τ,.
 
-2Chronicles 27:6 in vtrad vtbhs
+2Chronicles 27:6 in vtrad vtsef
 w,_,y,·,i,τ,:,x,_,z,·,‥,(ti),q
 SPACE
 y,w,o,τ,a,⅄,m.
@@ -16292,7 +16581,7 @@ y,:,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,a,𝓂,y,w,.
 
-2Chronicles 27:7 in vtrad vtbhs
+2Chronicles 27:7 in vtrad vtsef
 w,:,y,∵,(p),τ,∵,r,(p)
 SPACE
 d,·,i,v,:,r,‥,⅃,y
@@ -16313,7 +16602,7 @@ m,_,l,:,k,‥,𝓂,y,-,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 w,i,y,h,w,·,d,a,𝓂,h,.
 
-2Chronicles 27:8 in vtrad vtbhs
+2Chronicles 27:8 in vtrad vtsef
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,(da),y,m.
 SPACE
 w,:,x,a,m,‥,⟓,$,·sh
@@ -16332,7 +16621,7 @@ m,a,l,_,(ti),k.,:
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 27:9 in vtrad vtbhs
+2Chronicles 27:9 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,<,v
 SPACE
 y,w,o,τ,a,m.,(p)
@@ -16355,7 +16644,7 @@ v,·,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Chronicles 28:1 in vtrad vtbhs
+2Chronicles 28:1 in vtrad vtsef
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,<,y,m.
 SPACE
 $,·sh,a,n,a,h,(p)
@@ -16384,7 +16673,7 @@ k,·,:,d,a,w,i,(me),y,d
 SPACE
 α,a,v,i,𝓂,y,w,.
 
-2Chronicles 28:2 in vtrad vtbhs
+2Chronicles 28:2 in vtrad vtsef
 w,_,y,·,‥,Ƶ,l,∵,k.,:
 SPACE
 v,·,:,d,_,r,:,k,‥,(ti),y
@@ -16401,7 +16690,7 @@ SPACE
 SPACE
 l,_,v,·,:,ʕ,a,l,i,𝓂,y,m.,.
 
-2Chronicles 28:3 in vtrad vtbhs
+2Chronicles 28:3 in vtrad vtsef
 w,:,h,(me),w,·,α
 SPACE
 h,i,q,:,θ,i,(ti),y,r
@@ -16432,7 +16721,7 @@ v,·,:,n,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 28:4 in vtrad vtbhs
+2Chronicles 28:4 in vtrad vtsef
 w,_,y,:,z,_,v,·,‥,(da),x,_
 SPACE
 w,_,y,:,q,_,θ,·,‥,⟓,r
@@ -16447,7 +16736,7 @@ k,·,oa,l,-,ʕ,‥,(me),ц.
 SPACE
 r,_,𝓂,ʕ,:_,n,a,𝓂,n.,.
 
-2Chronicles 28:5 in vtrad vtbhs
+2Chronicles 28:5 in vtrad vtsef
 w,_,𝓂,y,·,i,τ,·,:,n,‥,(ge),h,w,·
 SPACE
 y,:,h,o,w,a,⅃,h
@@ -16488,7 +16777,7 @@ m,_,k,·,a,(me),h
 SPACE
 g,:,d,w,o,l,a,𝓂,h,.
 
-2Chronicles 28:6 in vtrad vtbhs
+2Chronicles 28:6 in vtrad vtsef
 w,_,y,·,_,h,:_,r,o,g,(tq)
 SPACE
 f,·,∵,(qa),q,_,x
@@ -16519,10 +16808,14 @@ SPACE
 SPACE
 α,:_,v,w,o,τ,a,𝓂,m.,.
 
-2Chronicles 28:7 in vtrad vtbhs
+2Chronicles 28:7 in vtrad vtsef
 w,_,𝓂,y,·,_,h,:_,r,o,(G),g
 SPACE
 z,i,k,:,r,i,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 g,·,i,v,·,⅃,w,o,r
 SPACE
@@ -16544,7 +16837,7 @@ m,i,$,·sh,:,n,‥,(me),h
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-2Chronicles 28:8 in vtrad vtbhs
+2Chronicles 28:8 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,v,·,w,·,(tq)
 SPACE
 v,:,n,‥,𝓂,y,-,y,i,$,·si,:,r,a,α,‥,(qa),l
@@ -16575,7 +16868,7 @@ SPACE
 SPACE
 l,:,$,·sh,o,m,:,r,𝓂,w,o,n.,.
 
-2Chronicles 28:9 in vtrad vtbhs
+2Chronicles 28:9 in vtrad vtsef
 w,:,⌕,$,·sh,a,⌕,m.
 SPACE
 h,a,y,a,(qa),h
@@ -16626,7 +16919,7 @@ l,_,$,·sh,·,a,m,_,(ti),y,i,m.
 SPACE
 h,i,g,·,i,𝓂,y,ʕ,_,.
 
-2Chronicles 28:10 in vtrad vtbhs
+2Chronicles 28:10 in vtrad vtsef
 w,:,⌕,ʕ,_,τ,·,a,⌕,h
 SPACE
 v,·,:,n,‥,𝓂,y,-,y,:,h,w,·,d,a,<,h
@@ -16657,7 +16950,7 @@ l,_,y,h,o,w,a,(ti),h
 SPACE
 α,:∵,l,o,h,‥,y,k,∵,𝓂,m.,.
 
-2Chronicles 28:11 in vtrad vtbhs
+2Chronicles 28:11 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,⅃,h
 SPACE
 $,·sh,:,m,a,ʕ,ƶ,w,·,n,i,y
@@ -16680,7 +16973,7 @@ SPACE
 SPACE
 ʕ,:_,l,‥,y,k,∵,𝓂,m.,.
 
-2Chronicles 28:12 in vtrad vtbhs
+2Chronicles 28:12 in vtrad vtsef
 w,_,y,·,a,q,u,(qa),m,w,·
 SPACE
 α,:_,n,a,$,·sh,i,(ge),y,m.
@@ -16709,7 +17002,7 @@ SPACE
 SPACE
 m,i,n.,-,h,_,ц,·,a,v,a,𝓂,α,.
 
-2Chronicles 28:13 in vtrad vtbhs
+2Chronicles 28:13 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,⅃,w,·
 SPACE
 l,a,h,∵,◆,m.
@@ -16750,7 +17043,7 @@ SPACE
 SPACE
 ʕ,_,l,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 28:14 in vtrad vtbhs
+2Chronicles 28:14 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,z,o,⅃,v
 SPACE
 h,∵,x,a,l,◆,w,·,ц.
@@ -16765,7 +17058,7 @@ h,_,$,·si,·,a,r,i,(ti),y,m.
 SPACE
 w,:,k,oa,l,-,h,_,q,·,a,h,a,𝓂,l,.
 
-2Chronicles 28:15 in vtrad vtbhs
+2Chronicles 28:15 in vtrad vtsef
 w,_,y,·,a,q,u,⅃,m,w,·
 SPACE
 h,a,α,:_,n,a,$,·sh,i,y,m.,(tq)
@@ -16814,7 +17107,7 @@ w,_,y,·,a,$,·sh,(ti),w,·,v,w,·
 SPACE
 $,·sh,o,m,:,r,𝓂,w,o,n.,.
 
-2Chronicles 28:16 in vtrad vtbhs
+2Chronicles 28:16 in vtrad vtsef
 v,·,a,ʕ,‥,⅃,τ
 SPACE
 h,_,h,i,◆,y,α
@@ -16833,7 +17126,7 @@ l,_,ʕ,:,z,o,(me),r
 SPACE
 l,𝓂,w,o,.
 
-2Chronicles 28:17 in vtrad vtbhs
+2Chronicles 28:17 in vtrad vtsef
 w,:,ʕ,(me),w,o,d
 SPACE
 α,:_,d,w,o,m,i,(ti),y,m.
@@ -16846,7 +17139,7 @@ v,i,y,h,w,·,d,a,(ti),h
 SPACE
 w,_,y,·,i,$,·sh,:,v,·,w,·,-,$,·sh,∵,𝓂,v,i,y,.
 
-2Chronicles 28:18 in vtrad vtbhs
+2Chronicles 28:18 in vtrad vtsef
 w,·,f,:,l,i,$,·sh,:,τ,·,i,⅃,y,m.
 SPACE
 f,·,a,𝓂,$,·sh,:,θ,◆,w,·
@@ -16883,7 +17176,7 @@ w,_,y,·,‥,$,·sh,:,v,(ti),w,·
 SPACE
 $,·sh,a,𝓂,m.,.
 
-2Chronicles 28:19 in vtrad vtbhs
+2Chronicles 28:19 in vtrad vtsef
 k,·,i,𝓂,y,-,h,i,k,:,n,i,<,y,ʕ,_
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -16908,7 +17201,7 @@ m,_,(ti),ʕ,_,l
 SPACE
 v,·,_,y,h,o,w,a,𝓂,h,.
 
-2Chronicles 28:20 in vtrad vtbhs
+2Chronicles 28:20 in vtrad vtsef
 w,_,y,·,a,v,o,⅃,α
 SPACE
 ʕ,a,l,a,ƶ,y,w
@@ -16929,7 +17222,7 @@ w,:,l,o,(me),α
 SPACE
 x,:_,z,a,q,𝓂,w,o,.
 
-2Chronicles 28:21 in vtrad vtbhs
+2Chronicles 28:21 in vtrad vtsef
 k,·,i,𝓂,y,-,x,a,l,_,<,q
 SPACE
 α,a,x,a,z,(p)
@@ -16956,7 +17249,7 @@ l,:,ʕ,∵,z,:,r,a,(ti),h
 SPACE
 l,𝓂,w,o,.
 
-2Chronicles 28:22 in vtrad vtbhs
+2Chronicles 28:22 in vtrad vtsef
 w,·,v,:,ʕ,‥,τ,(p)
 SPACE
 h,a,ц,‥,⅃,r
@@ -16975,7 +17268,7 @@ h,_,m,·,∵,(me),l,∵,k.,:
 SPACE
 α,a,x,a,𝓂,z,.
 
-2Chronicles 28:23 in vtrad vtbhs
+2Chronicles 28:23 in vtrad vtsef
 w,_,y,·,i,z,:,v,·,_,◆,x
 SPACE
 l,‥,α,l,o,h,‥,⅃,y
@@ -17014,7 +17307,7 @@ l,:,h,_,k,:,$,·sh,i,y,l,(ti),w,o
 SPACE
 w,·,l,:,k,oa,l,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 28:24 in vtrad vtbhs
+2Chronicles 28:24 in vtrad vtsef
 w,_,y,·,∵,α,:∵,σ,o,(qa),f.
 SPACE
 α,a,x,a,(ge),z
@@ -17045,7 +17338,7 @@ v,·,:,k,oa,l,-,f,·,i,n,·,a,(ti),h
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 28:25 in vtrad vtbhs
+2Chronicles 28:25 in vtrad vtsef
 w,·,v,:,k,oa,l,-,ʕ,i,(qa),y,r
 SPACE
 w,a,ʕ,i,<,y,r
@@ -17070,7 +17363,7 @@ SPACE
 SPACE
 α,:_,v,o,τ,a,𝓂,y,w,.
 
-2Chronicles 28:26 in vtrad vtbhs
+2Chronicles 28:26 in vtrad vtsef
 w,:,y,∵,<,τ,∵,r
 SPACE
 d,·,:,v,a,r,a,y,w,(p)
@@ -17091,7 +17384,7 @@ m,_,l,:,k,‥,𝓂,y,-,y,:,h,w,·,d,a,(ti),h
 SPACE
 w,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 28:27 in vtrad vtbhs
+2Chronicles 28:27 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,(qa),v
 SPACE
 α,a,x,a,(ge),z
@@ -17124,7 +17417,7 @@ v,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Chronicles 29:1 in vtrad vtbhs
+2Chronicles 29:1 in vtrad vtsef
 y,:,x,i,z,:,q,i,y,·,a,⅃,h,w,·
 SPACE
 m,a,l,_,◆,k.,:
@@ -17153,7 +17446,7 @@ SPACE
 SPACE
 v,·,_,τ,-,z,:,k,_,r,:,y,a,𝓂,h,w,·,.
 
-2Chronicles 29:2 in vtrad vtbhs
+2Chronicles 29:2 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 h,_,y,·,a,$,·sh,a,(ti),r
@@ -17170,7 +17463,7 @@ d,·,a,w,i,(me),y,d
 SPACE
 α,a,v,i,𝓂,y,w,.
 
-2Chronicles 29:3 in vtrad vtbhs
+2Chronicles 29:3 in vtrad vtsef
 h,⅃,w,·,α
 SPACE
 v,_,$,·sh,·,a,n,a,h,(tq)
@@ -17191,7 +17484,7 @@ v,·,‥,y,τ,-,y,:,h,o,w,a,(ti),h
 SPACE
 w,_,𝓂,y,:,x,_,z,·,:,q,‥,𝓂,m.,.
 
-2Chronicles 29:4 in vtrad vtbhs
+2Chronicles 29:4 in vtrad vtsef
 w,_,y,·,a,v,‥,(me),α
 SPACE
 α,∵,τ,-,h,_,k,·,o,h,:_,n,i,(ti),y,m.
@@ -17204,7 +17497,7 @@ l,i,r,:,x,(me),w,o,v
 SPACE
 h,_,m,·,i,z,:,r,a,𝓂,x,.
 
-2Chronicles 29:5 in vtrad vtbhs
+2Chronicles 29:5 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
 SPACE
 l,a,h,∵,(ti),m.
@@ -17233,7 +17526,7 @@ SPACE
 SPACE
 m,i,n.,-,h,_,q,·,o,𝓂,d,∵,$,·sh,.
 
-2Chronicles 29:6 in vtrad vtbhs
+2Chronicles 29:6 in vtrad vtsef
 k,·,i,𝓂,y,-,m,a,ʕ,:_,l,⅃,w,·
 SPACE
 α,:_,v,o,τ,‥,◆,y,n,w,·
@@ -17258,7 +17551,7 @@ y,:,h,o,w,a,(ti),h
 SPACE
 w,_,y,·,i,τ,·,:,n,w,·,-,ʕ,o,𝓂,r,∵,f.,.
 
-2Chronicles 29:7 in vtrad vtbhs
+2Chronicles 29:7 in vtrad vtsef
 g,·,_,⅃,m.
 SPACE
 σ,a,g,:,r,(G),w,·
@@ -17287,7 +17580,7 @@ l,‥,α,l,o,h,‥,(ti),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 29:8 in vtrad vtbhs
+2Chronicles 29:8 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 q,∵,⅃,ц,∵,f.
@@ -17313,7 +17606,7 @@ r,o,α,i,(ti),y,m.
 SPACE
 v,·,:,ʕ,‥,y,n,‥,y,k,∵,𝓂,m.,.
 
-2Chronicles 29:9 in vtrad vtbhs
+2Chronicles 29:9 in vtrad vtsef
 w,:,h,i,n,·,‥,⟓,h
 SPACE
 n,a,f,:,l,(me),w,·
@@ -17332,7 +17625,7 @@ v,·,_,$,·sh,·,:,v,i,(ti),y
 SPACE
 ʕ,_,l,-,z,o,𝓂,α,τ,.
 
-2Chronicles 29:10 in vtrad vtbhs
+2Chronicles 29:10 in vtrad vtsef
 ʕ,_,τ,·,a,h,(p)
 SPACE
 ʕ,i,m.,-,l,:,v,a,v,i,ƶ,y
@@ -17355,7 +17648,7 @@ x,:_,r,(me),w,o,n.
 SPACE
 α,_,f,·,𝓂,w,o,.
 
-2Chronicles 29:11 in vtrad vtbhs
+2Chronicles 29:11 in vtrad vtsef
 v,·,a,n,_,Ƶ,y
 SPACE
 ʕ,_,τ,·,a,(ti),h
@@ -17382,7 +17675,7 @@ m,:,$,·sh,a,r,:,τ,i,(me),y,m.
 SPACE
 w,·,m,_,q,:,θ,i,r,i,𝓂,y,m.,.
 
-2Chronicles 29:12 in vtrad vtbhs
+2Chronicles 29:12 in vtrad vtsef
 w,_,y,·,a,q,u,⅃,m,w,·
 SPACE
 h,_,⌕,l,:,w,i,y,·,i,⌕,m.
@@ -17410,6 +17703,18 @@ SPACE
 w,_,ʕ,:_,z,_,r,:,y,a,(ti),h,w,·
 SPACE
 v,·,∵,n.,-,y,:,h,_,l,·,∵,l,:,α,‥,⅄,l
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 w,·,m,i,n.,-,h,_,g,·,‥,⅃,r,:,$,·sh,u,n,·,i,ƶ,y
 SPACE
 y,w,o,α,a,x,(p)
@@ -17420,7 +17725,7 @@ w,:,ʕ,‥,(ti),d,∵,n.
 SPACE
 v,·,∵,n.,-,y,w,o,α,a,𝓂,x,.
 
-2Chronicles 29:13 in vtrad vtbhs
+2Chronicles 29:13 in vtrad vtsef
 w,·,m,i,n.,-,v,·,:,n,‥,y,(p)
 SPACE
 α,:∵,l,i,⅃,y,ц,a,f,a,ƶ,n.
@@ -17436,13 +17741,25 @@ z,:,k,_,r,:,y,a,(ti),h,w,·
 SPACE
 w,·,m,_,τ,·,_,n,:,y,a,𝓂,h,w,·,.
 
-2Chronicles 29:14 in vtrad vtbhs
+2Chronicles 29:14 in vtrad vtsef
 w,·,m,i,n.,-,v,·,:,n,‥,(me),y
 SPACE
 h,‥,y,m,a,(ti),n.
 SPACE
 SPACE
 w,:,$,·sh,i,m,:,ʕ,i,⅄,y
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 w,·,m,i,n.,-,v,·,:,n,‥,⅃,y
 SPACE
 y,:,d,w,·,τ,ƶ,w,·,n.
@@ -17451,7 +17768,7 @@ $,·sh,:,m,_,𝓂,ʕ,:,y,a,(ti),h
 SPACE
 w,:,ʕ,u,z,·,i,y,α,‥,𝓂,l,.
 
-2Chronicles 29:15 in vtrad vtbhs
+2Chronicles 29:15 in vtrad vtsef
 w,_,y,·,_,α,_,σ,:,f,<,w,·
 SPACE
 α,∵,τ,-,α,:_,x,‥,y,h,∵,m.,(p)
@@ -17472,7 +17789,7 @@ v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 29:16 in vtrad vtbhs
+2Chronicles 29:16 in vtrad vtsef
 w,_,y,·,a,v,o,⅃,α,w,·
 SPACE
 h,_,⌕,k,·,o,h,:_,n,i,⌕,y,m.
@@ -17513,7 +17830,7 @@ l,:,n,_,x,_,l,-,q,i,d,:,r,(ti),w,o,n.
 SPACE
 x,𝓂,w,·,ц,a,h,.
 
-2Chronicles 29:17 in vtrad vtbhs
+2Chronicles 29:17 in vtrad vtsef
 w,_,⌕,y,·,a,x,‥,⌕,l,·,w,·
 SPACE
 v,·,:,α,∵,x,a,(G),d
@@ -17556,7 +17873,7 @@ h,a,r,i,α,$,·sh,(ti),w,o,n.
 SPACE
 k,·,i,l,·,𝓂,w,·,.
 
-2Chronicles 29:18 in vtrad vtbhs
+2Chronicles 29:18 in vtrad vtsef
 w,_,y,·,a,v,<,w,o,α,w,·
 SPACE
 f,:,n,i,(p),y,m,a,h,(p)
@@ -17585,7 +17902,7 @@ h,_,𝓂,m,·,_,ʕ,:_,r,∵,(ti),k,∵,τ
 SPACE
 w,:,α,∵,τ,-,k,·,oa,l,-,k,·,‥,l,a,𝓂,y,w,.
 
-2Chronicles 29:19 in vtrad vtbhs
+2Chronicles 29:19 in vtrad vtsef
 w,:,α,‥,⅃,τ
 SPACE
 k,·,oa,l,-,h,_,k,·,‥,l,i,◆,y,m.
@@ -17614,7 +17931,7 @@ m,i,z,:,v,·,_,(me),x
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 29:20 in vtrad vtbhs
+2Chronicles 29:20 in vtrad vtsef
 w,_,y,·,_,$,·sh,:,k,·,‥,m.,(p)
 SPACE
 y,:,x,i,z,:,q,i,y,·,a,⅃,h,w,·
@@ -17635,7 +17952,7 @@ v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 29:21 in vtrad vtbhs
+2Chronicles 29:21 in vtrad vtsef
 w,_,y,·,a,v,i,⅃,y,α,w,·
 SPACE
 f,a,𝓂,r,i,y,m.,-,$,·sh,i,v,:,ʕ,a,h,(tq)
@@ -17676,7 +17993,7 @@ SPACE
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 29:22 in vtrad vtbhs
+2Chronicles 29:22 in vtrad vtsef
 w,_,𝓂,y,·,i,$,·sh,:,x,:_,θ,w,·,(p)
 SPACE
 h,_,v,·,a,q,a,ƶ,r
@@ -17711,7 +18028,7 @@ h,_,d,·,a,(ti),m.
 SPACE
 h,_,m,·,i,z,:,v,·,‥,𝓂,x,a,h,.
 
-2Chronicles 29:23 in vtrad vtbhs
+2Chronicles 29:23 in vtrad vtsef
 w,_,y,·,_,g,·,i,(p),y,$,·sh,w,·,(p)
 SPACE
 α,∵,τ,-,$,·si,:,ʕ,i,y,r,‥,⅃,y
@@ -17730,7 +18047,7 @@ y,:,d,‥,y,h,∵,(ti),m.
 SPACE
 ʕ,:_,l,‥,y,h,∵,𝓂,m.,.
 
-2Chronicles 29:24 in vtrad vtbhs
+2Chronicles 29:24 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,x,a,θ,w,·,m.,(p)
 SPACE
 h,_,k,·,o,⅃,h,:_,n,i,ƶ,y,m.
@@ -17757,7 +18074,7 @@ h,a,ʕ,w,o,l,a,(ti),h
 SPACE
 w,:,h,_,x,_,θ,·,a,𝓂,α,τ,.
 
-2Chronicles 29:25 in vtrad vtbhs
+2Chronicles 29:25 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,m,‥,(qa),d
 SPACE
 α,∵,τ,-,h,_,l,:,w,i,y,·,i,(ge),m.
@@ -17792,7 +18109,7 @@ h,_,m,·,i,ц,:,w,a,(ti),h
 SPACE
 v,·,:,y,_,d,-,n,:,v,i,y,α,a,𝓂,y,w,.
 
-2Chronicles 29:26 in vtrad vtbhs
+2Chronicles 29:26 in vtrad vtsef
 w,_,y,·,_,ʕ,_,m,:,d,<,w,·
 SPACE
 h,_,l,:,w,i,y,·,i,m.,(p)
@@ -17805,7 +18122,7 @@ w,:,h,_,k,·,o,h,:_,n,i,(ti),y,m.
 SPACE
 v,·,_,x,:_,ц,o,ц,:,r,𝓂,w,o,τ,.
 
-2Chronicles 29:27 in vtrad vtbhs
+2Chronicles 29:27 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
 SPACE
 x,i,z,:,q,i,y,·,a,ƶ,h,w,·
@@ -17836,7 +18153,7 @@ d,·,a,w,i,(me),y,d
 SPACE
 m,∵,l,∵,k.,:,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 29:28 in vtrad vtbhs
+2Chronicles 29:28 in vtrad vtsef
 w,:,k,oa,l,-,h,_,q,·,a,h,a,l,(p)
 SPACE
 m,i,𝓂,$,·sh,:,τ,·,_,x,:_,w,i,ƶ,y,m.
@@ -17856,7 +18173,7 @@ l,i,k,:,l,(me),w,o,τ
 SPACE
 h,a,ʕ,o,l,a,𝓂,h,.
 
-2Chronicles 29:29 in vtrad vtbhs
+2Chronicles 29:29 in vtrad vtsef
 w,·,k,:,k,_,l,·,(ti),w,o,τ
 SPACE
 l,:,h,_,ʕ,:_,l,⅄,w,o,τ
@@ -17871,7 +18188,7 @@ SPACE
 SPACE
 w,_,y,·,i,𝓂,$,·sh,:,τ,·,_,x,:_,w,𝓂,w,·,.
 
-2Chronicles 29:30 in vtrad vtbhs
+2Chronicles 29:30 in vtrad vtsef
 w,_,⌕,y,·,o,⌕,α,m,∵,r
 SPACE
 y,:,x,i,z,:,q,i,y,·,a,(qa),h,w,·
@@ -17902,7 +18219,7 @@ w,_,𝓂,y,·,i,q,·,:,d,(ti),w,·
 SPACE
 w,_,y,·,i,𝓂,$,·sh,:,τ,·,_,x,:_,w,𝓂,w,·,.
 
-2Chronicles 29:31 in vtrad vtbhs
+2Chronicles 29:31 in vtrad vtsef
 w,_,y,·,_,(qa),ʕ,_,n.
 SPACE
 y,:,x,i,z,:,q,i,y,·,a,(ge),h,w,·
@@ -17943,7 +18260,7 @@ l,‥,(ti),v
 SPACE
 ʕ,o,l,𝓂,w,o,τ,.
 
-2Chronicles 29:32 in vtrad vtbhs
+2Chronicles 29:32 in vtrad vtsef
 w,_,y,:,h,i,(G),y
 SPACE
 m,i,σ,:,f,·,_,⅃,r
@@ -17974,7 +18291,7 @@ l,_,𝓂,y,h,o,w,a,(ti),h
 SPACE
 k,·,oa,l,-,α,‥,𝓂,l,·,∵,h,.
 
-2Chronicles 29:33 in vtrad vtbhs
+2Chronicles 29:33 in vtrad vtsef
 w,:,𝓂,h,_,q,·,:a,d,a,$,·sh,i,⅄,y,m.
 SPACE
 v,·,a,q,a,r,(p)
@@ -17989,7 +18306,7 @@ $,·sh,:,l,o,(me),$,·sh,∵,τ
 SPACE
 α,:_,l,a,f,i,𝓂,y,m.,.
 
-2Chronicles 29:34 in vtrad vtbhs
+2Chronicles 29:34 in vtrad vtsef
 r,_,<,q
 SPACE
 h,_,k,·,o,𝓂,h,:_,n,i,y,m.,(p)
@@ -18034,7 +18351,7 @@ l,:,h,i,τ,:,q,_,d,·,‥,(ti),$,·sh
 SPACE
 m,‥,h,_,k,·,o,h,:_,n,i,𝓂,y,m.,.
 
-2Chronicles 29:35 in vtrad vtbhs
+2Chronicles 29:35 in vtrad vtsef
 w,:,g,_,m.,-,ʕ,o,l,a,(qa),h
 SPACE
 l,a,r,o,(ge),v
@@ -18053,7 +18370,7 @@ SPACE
 SPACE
 v,·,‥,y,τ,-,y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 29:36 in vtrad vtbhs
+2Chronicles 29:36 in vtrad vtsef
 w,_,y,·,i,$,·si,:,m,_,<,x
 SPACE
 y,:,x,i,z,:,q,i,y,·,a,(p),h,w,·,(p)
@@ -18076,7 +18393,7 @@ h,a,y,a,(me),h
 SPACE
 h,_,d,·,a,v,a,𝓂,r,.
 
-2Chronicles 30:1 in vtrad vtbhs
+2Chronicles 30:1 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,(qa),x
 SPACE
 y,:,x,i,z,:,q,i,y,·,a,(ge),h,w,·
@@ -18109,7 +18426,7 @@ SPACE
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 30:2 in vtrad vtbhs
+2Chronicles 30:2 in vtrad vtsef
 w,_,y,·,i,w,·,a,ʕ,_,(qa),ц.
 SPACE
 h,_,m,·,∵,(da),l,∵,k.,:
@@ -18128,7 +18445,7 @@ v,·,_,x,o,(me),d,∵,$,·sh
 SPACE
 h,_,$,·sh,·,‥,n,i,𝓂,y,.
 
-2Chronicles 30:3 in vtrad vtbhs
+2Chronicles 30:3 in vtrad vtsef
 k,·,i,⅃,y
 SPACE
 l,o,(da),α
@@ -18155,7 +18472,7 @@ l,o,α,-,n,∵,α,∵,σ,:,f,(me),w,·
 SPACE
 l,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 30:4 in vtrad vtbhs
+2Chronicles 30:4 in vtrad vtsef
 w,_,y,·,i,y,$,·sh,_,(me),r
 SPACE
 h,_,d,·,a,v,a,(ti),r
@@ -18168,7 +18485,7 @@ w,·,v,:,ʕ,‥,y,n,‥,(ti),y
 SPACE
 k,·,oa,l,-,h,_,q,·,a,h,a,𝓂,l,.
 
-2Chronicles 30:5 in vtrad vtbhs
+2Chronicles 30:5 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,m,i,⅃,y,d,w,·
 SPACE
 d,a,v,a,◆,r
@@ -18205,7 +18522,7 @@ SPACE
 SPACE
 k,·,_,k,·,a,τ,𝓂,w,·,v,.
 
-2Chronicles 30:6 in vtrad vtbhs
+2Chronicles 30:6 in vtrad vtsef
 w,_,y,·,‥,l,:,k,w,·,(tq)
 SPACE
 h,a,r,a,ц,i,(qa),y,m.
@@ -18258,7 +18575,7 @@ m,_,l,:,k,‥,(me),y
 SPACE
 α,_,$,·sh,·,𝓂,w,·,r,.
 
-2Chronicles 30:7 in vtrad vtbhs
+2Chronicles 30:7 in vtrad vtsef
 w,:,α,_,l,-,τ,·,i,𝓂,h,:,y,◆,w,·
 SPACE
 k,·,_,α,:_,v,𝓂,w,o,τ,‥,y,k,∵,m.,(p)
@@ -18285,7 +18602,7 @@ SPACE
 SPACE
 r,o,α,i,𝓂,y,m.,.
 
-2Chronicles 30:8 in vtrad vtbhs
+2Chronicles 30:8 in vtrad vtsef
 ʕ,_,τ,·,a,Ƶ,h
 SPACE
 α,_,l,-,τ,·,_,q,:,$,·sh,(me),w,·
@@ -18322,7 +18639,7 @@ x,:_,r,(me),w,o,n.
 SPACE
 α,_,f,·,𝓂,w,o,.
 
-2Chronicles 30:9 in vtrad vtbhs
+2Chronicles 30:9 in vtrad vtsef
 k,·,i,⅃,y
 SPACE
 v,:,$,·sh,w,·,v,:,k,∵,(G),m.
@@ -18363,7 +18680,7 @@ SPACE
 SPACE
 α,‥,l,a,𝓂,y,w,.
 
-2Chronicles 30:10 in vtrad vtbhs
+2Chronicles 30:10 in vtrad vtsef
 w,_,y,·,i,h,:,y,(qa),w,·
 SPACE
 h,a,r,a,ц,i,(ge),y,m.
@@ -18371,6 +18688,11 @@ SPACE
 ʕ,o,v,:,r,i,(qa),y,m.
 SPACE
 m,‥,ʕ,i,(da),y,r
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 l,a,ʕ,i,⟓,y,r
 SPACE
 v,·,:,α,∵,r,∵,ц.,-,α,∵,f,:,r,_,(me),y,i,m.
@@ -18389,7 +18711,7 @@ w,·,m,_,l,:,ʕ,i,g,i,(ti),y,m.
 SPACE
 v,·,a,𝓂,m.,.
 
-2Chronicles 30:11 in vtrad vtbhs
+2Chronicles 30:11 in vtrad vtsef
 α,_,k.,:,-,α,:_,n,a,$,·sh,i,⟓,y,m.
 SPACE
 m,‥,α,a,$,·sh,‥,(me),r
@@ -18404,7 +18726,7 @@ w,_,y,·,a,v,o,(ti),α,w,·
 SPACE
 l,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 30:12 in vtrad vtbhs
+2Chronicles 30:12 in vtrad vtsef
 g,·,_,⅃,m.
 SPACE
 v,·,i,y,h,w,·,d,a,◆,h
@@ -18435,7 +18757,7 @@ v,·,i,d,:,v,_,(me),r
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 30:13 in vtrad vtbhs
+2Chronicles 30:13 in vtrad vtsef
 w,_,y,·,‥,α,a,σ,:,f,<,w,·
 SPACE
 y,:,r,w,·,$,·sh,a,l,_,(p),CGJ,i,m.,(p)
@@ -18458,7 +18780,7 @@ l,a,r,o,(me),v
 SPACE
 m,:,α,o,𝓂,d,.
 
-2Chronicles 30:14 in vtrad vtbhs
+2Chronicles 30:14 in vtrad vtsef
 w,_,y,·,a,q,u,Ƶ,m,w,·
 SPACE
 w,_,y,·,a,σ,i,(p),y,r,w,·,(p)
@@ -18481,7 +18803,7 @@ l,:,n,_,(me),x,_,l
 SPACE
 q,i,d,:,r,𝓂,w,o,n.,.
 
-2Chronicles 30:15 in vtrad vtbhs
+2Chronicles 30:15 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,x,:_,θ,⅃,w,·
 SPACE
 h,_,f,·,∵,ƶ,σ,_,x
@@ -18510,7 +18832,7 @@ v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 30:16 in vtrad vtbhs
+2Chronicles 30:16 in vtrad vtsef
 w,_,y,·,_,ʕ,_,m,:,d,<,w,·
 SPACE
 ʕ,_,l,-,ʕ,oa,m,:,d,a,m.,(p)
@@ -18533,7 +18855,7 @@ m,i,y,·,_,(ti),d
 SPACE
 h,_,l,:,w,i,y,·,i,𝓂,m.,.
 
-2Chronicles 30:17 in vtrad vtbhs
+2Chronicles 30:17 in vtrad vtsef
 k,·,i,y,-,r,_,v,·,_,(me),τ
 SPACE
 v,·,_,q,·,a,h,a,(ti),l
@@ -18558,7 +18880,7 @@ l,:,h,_,q,:,d,·,i,(ti),y,$,·sh
 SPACE
 l,_,y,h,o,w,a,𝓂,h,.
 
-2Chronicles 30:18 in vtrad vtbhs
+2Chronicles 30:18 in vtrad vtsef
 k,·,i,⅃,y
 SPACE
 m,_,r,:,v,·,i,⅃,y,τ
@@ -18605,7 +18927,7 @@ y,:,k,_,f,·,‥,(me),r
 SPACE
 v,·,:,ʕ,_,𝓂,d,.
 
-2Chronicles 30:19 in vtrad vtbhs
+2Chronicles 30:19 in vtrad vtsef
 k,·,oa,l,-,l,:,v,a,v,⅃,w,o
 SPACE
 h,‥,k,i,ƶ,y,n.
@@ -18613,6 +18935,11 @@ SPACE
 l,i,d,:,r,⟓,w,o,$,·sh
 SPACE
 h,a,α,:∵,l,o,h,i,(me),y,m.
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
 α,:∵,l,o,h,‥,⅃,y
@@ -18625,7 +18952,7 @@ k,·,:,θ,oa,h,:a,r,_,(me),τ
 SPACE
 h,_,q,·,o,𝓂,d,∵,$,·sh,.
 
-2Chronicles 30:20 in vtrad vtbhs
+2Chronicles 30:20 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,_,<,ʕ
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -18636,7 +18963,7 @@ w,_,y,·,i,r,:,f,·,a,(ti),α
 SPACE
 α,∵,τ,-,h,a,ʕ,a,𝓂,m.,.
 
-2Chronicles 30:21 in vtrad vtbhs
+2Chronicles 30:21 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,$,·si,⅃,w,·
 SPACE
 v,:,n,‥,𝓂,y,-,y,i,⌕,$,·si,:,r,a,α,‥,⌕,l
@@ -18662,6 +18989,11 @@ SPACE
 l,_,⌕,y,h,o,w,a,⌕,h
 SPACE
 y,⅃,w,o,m.
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 v,·,:,y,(G),w,o,m.
 SPACE
 h,_,l,:,w,i,y,·,i,(da),m.
@@ -18672,7 +19004,7 @@ v,·,i,k,:,l,‥,y,-,ʕ,o,(ti),z
 SPACE
 l,_,y,h,o,w,a,𝓂,h,.
 
-2Chronicles 30:22 in vtrad vtbhs
+2Chronicles 30:22 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,⅃,r
 SPACE
 y,:,x,i,z,:,q,i,y,·,a,◆,h,w,·
@@ -18709,7 +19041,7 @@ SPACE
 SPACE
 α,:_,v,w,o,τ,‥,y,h,∵,𝓂,m.,.
 
-2Chronicles 30:23 in vtrad vtbhs
+2Chronicles 30:23 in vtrad vtsef
 w,_,y,·,i,w,·,a,𝓂,ʕ,:_,ц,w,·,(p)
 SPACE
 k,·,oa,l,-,h,_,q,·,a,h,a,ƶ,l
@@ -18728,7 +19060,7 @@ $,·sh,i,v,:,ʕ,_,τ,-,y,a,m,i,(ti),y,m.
 SPACE
 $,·si,i,m,:,x,a,𝓂,h,.
 
-2Chronicles 30:24 in vtrad vtbhs
+2Chronicles 30:24 in vtrad vtsef
 k,·,i,⅃,y
 SPACE
 x,i,z,:,q,i,y,·,a,⅃,h,w,·
@@ -18748,6 +19080,18 @@ SPACE
 α,:_,l,a,f,i,⅃,y,m.
 SPACE
 ц,o,α,n.,∴
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 w,:,h,_,$,·si,·,a,r,i,(G),y,m.
 SPACE
 h,‥,r,i,<,y,m,w,·
@@ -18770,8 +19114,12 @@ k,o,h,:_,n,i,(ti),y,m.
 SPACE
 l,a,r,o,𝓂,v,.
 
-2Chronicles 30:25 in vtrad vtbhs
+2Chronicles 30:25 in vtrad vtsef
 w,_,𝓂,y,·,i,$,·si,:,m,:,x,⅃,w,·
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 k,·,oa,l,-,q,:,h,_,⅃,l
 SPACE
@@ -18799,7 +19147,7 @@ w,:,h,_,y,·,w,o,$,·sh,:,v,i,(ti),y,m.
 SPACE
 v,·,i,y,h,w,·,d,a,𝓂,h,.
 
-2Chronicles 30:26 in vtrad vtbhs
+2Chronicles 30:26 in vtrad vtsef
 w,_,τ,·,:,h,i,(me),y
 SPACE
 $,·si,i,m,:,x,a,𝓂,h,-,g,:,d,w,o,l,a,(ti),h
@@ -18824,7 +19172,7 @@ k,a,z,o,(ti),α,τ
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 30:27 in vtrad vtbhs
+2Chronicles 30:27 in vtrad vtsef
 w,_,y,·,a,q,u,(ge),m,w,·
 SPACE
 h,_,k,·,o,h,:_,n,i,<,y,m.
@@ -18849,7 +19197,7 @@ q,oa,d,:,$,·sh,(ti),w,o
 SPACE
 l,_,$,·sh,·,a,m,a,𝓂,y,i,m.,.
 
-2Chronicles 31:1 in vtrad vtbhs
+2Chronicles 31:1 in vtrad vtsef
 w,·,k,:,k,_,l,·,⅃,w,o,τ
 SPACE
 k,·,oa,l,-,z,o,◆,α,τ
@@ -18900,7 +19248,7 @@ l,_,α,:_,x,u,z,·,a,τ,(ti),w,o
 SPACE
 l,:,ʕ,a,r,‥,y,h,∵,𝓂,m.,.
 
-2Chronicles 31:2 in vtrad vtbhs
+2Chronicles 31:2 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,m,‥,⅃,d
 SPACE
 y,:,x,i,z,:,q,i,y,·,a,μ,h,w,·
@@ -18914,6 +19262,10 @@ SPACE
 ʕ,_,𝓂,l,-,m,_,x,:,l,:,q,w,o,τ,a,(G),m.
 SPACE
 α,i,⅃,y,$,·sh
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 k,·,:,f,i,⅃,y
 SPACE
@@ -18939,7 +19291,7 @@ m,_,x,:_,n,(me),w,o,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 31:3 in vtrad vtbhs
+2Chronicles 31:3 in vtrad vtsef
 w,·,m,:,n,a,τ,(tq)
 SPACE
 h,_,m,·,∵,(qa),l,∵,k.,:
@@ -18968,7 +19320,7 @@ v,·,:,τ,w,o,r,_,(me),τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 31:4 in vtrad vtbhs
+2Chronicles 31:4 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 l,a,ʕ,a,m.,(p)
@@ -18993,7 +19345,7 @@ v,·,:,τ,w,o,r,_,(me),τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 31:5 in vtrad vtbhs
+2Chronicles 31:5 in vtrad vtsef
 w,:,k,i,f,:,r,o,⅃,ц.
 SPACE
 h,_,d,·,a,v,a,◆,r
@@ -19026,7 +19378,7 @@ l,a,r,o,(ti),v
 SPACE
 h,‥,v,i,𝓂,y,α,w,·,.
 
-2Chronicles 31:6 in vtrad vtbhs
+2Chronicles 31:6 in vtrad vtsef
 w,·,v,:,n,‥,(da),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,⅃,l
@@ -19065,7 +19417,7 @@ SPACE
 SPACE
 ʕ,:_,r,‥,m,𝓂,w,o,τ,.
 
-2Chronicles 31:7 in vtrad vtbhs
+2Chronicles 31:7 in vtrad vtsef
 v,·,_,x,o,(p),d,∵,$,·sh,(p)
 SPACE
 h,_,$,·sh,·,:,l,i,$,·sh,i,ƶ,y
@@ -19082,7 +19434,7 @@ h,_,$,·sh,·,:,v,i,y,ʕ,i,(ti),y
 SPACE
 k,·,i,l,·,𝓂,w,·,.
 
-2Chronicles 31:8 in vtrad vtbhs
+2Chronicles 31:8 in vtrad vtsef
 w,_,y,·,a,v,o,(p),α,w,·,(p)
 SPACE
 y,:,x,i,z,:,q,i,y,·,a,⅃,h,w,·
@@ -19103,7 +19455,7 @@ SPACE
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 31:9 in vtrad vtbhs
+2Chronicles 31:9 in vtrad vtsef
 w,_,y,·,i,d,:,r,o,⅃,$,·sh
 SPACE
 y,:,x,i,z,:,q,i,y,·,a,◆,h,w,·
@@ -19114,7 +19466,7 @@ w,:,h,_,l,:,w,i,y,·,i,(ti),m.
 SPACE
 ʕ,_,l,-,h,a,ʕ,:_,r,‥,m,𝓂,w,o,τ,.
 
-2Chronicles 31:10 in vtrad vtbhs
+2Chronicles 31:10 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 α,‥,l,a,◆,y,w
@@ -19161,7 +19513,7 @@ SPACE
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Chronicles 31:11 in vtrad vtbhs
+2Chronicles 31:11 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 y,:,x,i,z,:,q,i,y,·,a,◆,h,w,·
@@ -19176,7 +19528,7 @@ y,:,h,o,w,a,(ti),h
 SPACE
 w,_,y,·,a,k,i,𝓂,y,n,w,·,.
 
-2Chronicles 31:12 in vtrad vtbhs
+2Chronicles 31:12 in vtrad vtsef
 w,_,y,·,a,v,i,(qa),y,α,w,·
 SPACE
 α,∵,τ,-,h,_,τ,·,:,r,w,·,m,a,(da),h
@@ -19200,7 +19552,7 @@ SPACE
 SPACE
 m,i,$,·sh,:,n,∵,𝓂,h,.
 
-2Chronicles 31:13 in vtrad vtbhs
+2Chronicles 31:13 in vtrad vtsef
 w,i,y,x,i,y,α,‥,μ,l
 SPACE
 w,_,⌕,ʕ,:_,z,_,z,:,y,a,⌕,h,w,·
@@ -19242,7 +19594,7 @@ n,:,g,i,(me),y,d
 SPACE
 v,·,‥,y,τ,-,h,a,α,:∵,l,o,h,i,𝓂,y,m.,.
 
-2Chronicles 31:14 in vtrad vtbhs
+2Chronicles 31:14 in vtrad vtsef
 w,:,q,w,o,r,‥,(qa),α
 SPACE
 v,∵,n.,-,y,i,m,:,n,a,<,h
@@ -19269,7 +19621,7 @@ w,:,q,oa,d,:,$,·sh,‥,(ti),y
 SPACE
 h,_,q,·,:a,d,a,$,·sh,i,𝓂,y,m.,.
 
-2Chronicles 31:15 in vtrad vtbhs
+2Chronicles 31:15 in vtrad vtsef
 w,:,ʕ,_,l,-,y,a,d,μ,w,o
 SPACE
 ʕ,‥,⅃,d,∵,n.
@@ -19300,7 +19652,7 @@ k,·,_,g,·,a,d,(ti),w,o,l
 SPACE
 k,·,_,q,·,a,θ,a,𝓂,n.,.
 
-2Chronicles 31:16 in vtrad vtbhs
+2Chronicles 31:16 in vtrad vtsef
 m,i,l,·,:,v,_,(G),d
 SPACE
 h,i,τ,:,y,_,x,:,$,·si,a,⅃,m.
@@ -19329,7 +19681,7 @@ v,·,:,m,i,$,·sh,:,m,:,r,w,o,τ,a,(ti),m.
 SPACE
 k,·,:,m,_,x,:,l,:,q,w,o,τ,‥,y,h,∵,𝓂,m.,.
 
-2Chronicles 31:17 in vtrad vtbhs
+2Chronicles 31:17 in vtrad vtsef
 w,:,α,‥,(qa),τ
 SPACE
 h,i,τ,:,y,_,x,‥,<,$,·si
@@ -19354,7 +19706,7 @@ v,·,:,m,i,$,·sh,:,m,:,r,w,o,τ,‥,y,h,∵,(ti),m.
 SPACE
 v,·,:,m,_,x,:,l,:,q,w,o,τ,‥,y,h,∵,𝓂,m.,.
 
-2Chronicles 31:18 in vtrad vtbhs
+2Chronicles 31:18 in vtrad vtsef
 w,·,l,:,h,i,τ,:,y,_,x,‥,◆,$,·si
 SPACE
 v,·,:,k,oa,l,-,θ,_,f,·,a,⟓,m.
@@ -19373,7 +19725,7 @@ v,∵,α,:∵,m,w,·,n,a,τ,a,(ti),m.
 SPACE
 y,i,τ,:,q,_,d,·,:,$,·sh,w,·,-,q,o,𝓂,d,∵,$,·sh,.
 
-2Chronicles 31:19 in vtrad vtbhs
+2Chronicles 31:19 in vtrad vtsef
 w,:,l,i,v,:,n,‥,y,(tq)
 SPACE
 α,_,h,:_,r,o,(qa),n.
@@ -19410,7 +19762,7 @@ w,·,l,:,k,oa,l,-,h,i,τ,:,y,_,x,‥,(ti),$,·si
 SPACE
 v,·,_,l,:,w,i,y,·,i,𝓂,m.,.
 
-2Chronicles 31:20 in vtrad vtbhs
+2Chronicles 31:20 in vtrad vtsef
 w,_,y,·,_,(da),ʕ,_,$,·si
 SPACE
 k,·,a,z,o,⟓,α,τ
@@ -19433,10 +19785,14 @@ y,:,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,a,𝓂,y,w,.
 
-2Chronicles 31:21 in vtrad vtbhs
+2Chronicles 31:21 in vtrad vtsef
 w,·,v,:,k,oa,𝓂,l,-,m,_,ʕ,:_,$,·si,∵,(G),h
 SPACE
 α,:_,$,·sh,∵,r,-,h,‥,x,‥,⅃,l
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 v,·,_,ʕ,:_,v,w,o,d,_,⅃,τ
 SPACE
@@ -19456,7 +19812,7 @@ SPACE
 SPACE
 w,:,h,i,ц,:,l,i,𝓂,y,x,_,.
 
-2Chronicles 32:1 in vtrad vtbhs
+2Chronicles 32:1 in vtrad vtsef
 α,_,x,:_,r,‥,(qa),y
 SPACE
 h,_,d,·,:,v,a,r,i,<,y,m.
@@ -19487,7 +19843,7 @@ l,:,v,i,q,:,ʕ,a,(me),m.
 SPACE
 α,‥,l,a,𝓂,y,w,.
 
-2Chronicles 32:2 in vtrad vtbhs
+2Chronicles 32:2 in vtrad vtsef
 w,_,y,·,_,r,:,α,(p)
 SPACE
 y,:,x,i,z,:,q,i,y,·,a,ƶ,h,w,·
@@ -19502,7 +19858,7 @@ l,_,m,·,i,l,:,x,a,m,a,(ti),h
 SPACE
 ʕ,_,l,-,y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 32:3 in vtrad vtbhs
+2Chronicles 32:3 in vtrad vtsef
 w,_,y,·,i,w,·,a,ʕ,_,◆,ц.
 SPACE
 ʕ,i,m.,-,$,·si,a,r,a,y,w,(p)
@@ -19523,7 +19879,7 @@ l,a,ʕ,i,⅄,y,r
 SPACE
 w,_,𝓂,y,·,_,ʕ,:,z,:,r,𝓂,w,·,h,w,·,.
 
-2Chronicles 32:4 in vtrad vtbhs
+2Chronicles 32:4 in vtrad vtsef
 w,_,y,·,i,q,·,a,v,:,ц,⅃,w,·
 SPACE
 ʕ,_,m.,-,r,a,ƶ,v
@@ -19554,7 +19910,7 @@ m,_,(me),y,i,m.
 SPACE
 r,_,v,·,i,𝓂,y,m.,.
 
-2Chronicles 32:5 in vtrad vtbhs
+2Chronicles 32:5 in vtrad vtsef
 w,_,y,·,i,τ,:,x,_,z,·,_,μ,q
 SPACE
 w,_,y,·,i,(tq),v,∵,n.,(tq)
@@ -19589,7 +19945,7 @@ l,a,r,o,(ti),v
 SPACE
 w,·,m,a,g,i,n,·,i,𝓂,y,m.,.
 
-2Chronicles 32:6 in vtrad vtbhs
+2Chronicles 32:6 in vtrad vtsef
 w,_,y,·,i,τ,·,‥,⟓,n.
 SPACE
 $,·si,a,r,‥,(me),y
@@ -19614,7 +19970,7 @@ SPACE
 SPACE
 l,‥,α,m,o,𝓂,r,.
 
-2Chronicles 32:7 in vtrad vtbhs
+2Chronicles 32:7 in vtrad vtsef
 x,i,z,:,q,⅃,w,·
 SPACE
 w,:,α,i,m,:,ц,ƶ,w,·
@@ -19641,7 +19997,7 @@ r,_,(ti),v
 SPACE
 m,‥,𝓂,ʕ,i,m,·,𝓂,w,o,.
 
-2Chronicles 32:8 in vtrad vtbhs
+2Chronicles 32:8 in vtrad vtsef
 ʕ,i,m,·,w,o,(p)
 SPACE
 z,:,r,⅃,w,o,ʕ,_
@@ -19670,7 +20026,7 @@ y,:,x,i,z,:,q,i,y,·,a,(me),h,w,·
 SPACE
 m,∵,l,∵,k.,:,-,y,:,h,w,·,d,a,𝓂,h,.
 
-2Chronicles 32:9 in vtrad vtbhs
+2Chronicles 32:9 in vtrad vtsef
 α,_,⅃,x,_,r
 SPACE
 z,∵,◆,h
@@ -19707,7 +20063,7 @@ v,·,i,y,r,w,·,$,·sh,a,l,_,(ti),CGJ,i,m.
 SPACE
 l,‥,α,m,o,𝓂,r,.
 
-2Chronicles 32:10 in vtrad vtbhs
+2Chronicles 32:10 in vtrad vtsef
 k,·,o,⅃,h
 SPACE
 α,a,m,_,ƶ,r
@@ -19730,7 +20086,7 @@ v,·,:,m,a,ц,(ti),w,o,r
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 32:11 in vtrad vtbhs
+2Chronicles 32:11 in vtrad vtsef
 h,:_,l,o,<,α
 SPACE
 y,:,x,i,z,:,q,i,y,·,a,(p),h,w,·,(p)
@@ -19763,7 +20119,7 @@ m,∵,(me),l,∵,k.,:
 SPACE
 α,_,$,·sh,·,𝓂,w,·,r,.
 
-2Chronicles 32:12 in vtrad vtbhs
+2Chronicles 32:12 in vtrad vtsef
 h,:_,l,o,α,-,h,w,·,α,(p)
 SPACE
 y,:,x,i,z,:,q,i,y,·,a,ƶ,h,w,·
@@ -19794,7 +20150,7 @@ w,:,ʕ,a,l,a,(me),y,w
 SPACE
 τ,·,_,q,:,θ,i,𝓂,y,r,w,·,.
 
-2Chronicles 32:13 in vtrad vtbhs
+2Chronicles 32:13 in vtrad vtsef
 h,:_,l,o,⅃,α
 SPACE
 τ,‥,d,:,ʕ,◆,w,·
@@ -19829,7 +20185,7 @@ SPACE
 SPACE
 m,i,y,·,a,d,i,𝓂,y,.
 
-2Chronicles 32:14 in vtrad vtbhs
+2Chronicles 32:14 in vtrad vtsef
 m,i,⌕,y
 SPACE
 v,·,:,𝓂,k,oa,l,-,α,:∵,l,o,h,‥,(G),y
@@ -19866,7 +20222,7 @@ SPACE
 SPACE
 m,i,y,·,a,d,i,𝓂,y,.
 
-2Chronicles 32:15 in vtrad vtbhs
+2Chronicles 32:15 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,μ,h
 SPACE
 α,_,l,-,y,_,$,·sh,·,i,y,α,(tq)
@@ -19917,7 +20273,7 @@ SPACE
 SPACE
 m,i,y,·,a,d,i,𝓂,y,.
 
-2Chronicles 32:16 in vtrad vtbhs
+2Chronicles 32:16 in vtrad vtsef
 w,:,ʕ,w,o,d,(p)
 SPACE
 d,·,i,v,·,:,r,⅃,w,·
@@ -19934,7 +20290,7 @@ y,:,x,i,z,:,q,i,y,·,a,(me),h,w,·
 SPACE
 ʕ,_,v,:,d,·,𝓂,w,o,.
 
-2Chronicles 32:17 in vtrad vtbhs
+2Chronicles 32:17 in vtrad vtsef
 w,·,σ,:,f,a,r,i,⅃,y,m.
 SPACE
 k,·,a,τ,_,ƶ,v
@@ -19979,7 +20335,7 @@ SPACE
 SPACE
 m,i,y,·,a,d,i,𝓂,y,.
 
-2Chronicles 32:18 in vtrad vtbhs
+2Chronicles 32:18 in vtrad vtsef
 w,_,y,·,i,q,:,r,:,α,(qa),w,·
 SPACE
 v,:,q,w,o,l,-,g,·,a,d,(ge),w,o,l
@@ -20004,7 +20360,7 @@ y,i,l,:,k,·,:,d,(me),w,·
 SPACE
 α,∵,τ,-,h,a,ʕ,i,𝓂,y,r,.
 
-2Chronicles 32:19 in vtrad vtbhs
+2Chronicles 32:19 in vtrad vtsef
 w,_,𝓂,y,:,d,_,v,·,:,r,ƶ,w,·
 SPACE
 α,∵,l,-,α,:∵,l,o,h,‥,(ti),y
@@ -20025,7 +20381,7 @@ y,:,d,‥,(me),y
 SPACE
 h,a,α,a,d,a,𝓂,m.,.
 
-2Chronicles 32:20 in vtrad vtbhs
+2Chronicles 32:20 in vtrad vtsef
 w,_,y,·,i,τ,:,f,·,_,l,·,‥,(G),l
 SPACE
 y,:,x,i,z,:,q,i,y,·,a,⅃,h,w,·
@@ -20044,7 +20400,7 @@ w,_,𝓂,y,·,i,z,:,ʕ,:_,q,(ti),w,·
 SPACE
 h,_,$,·sh,·,a,m,a,𝓂,y,i,m.,.
 
-2Chronicles 32:21 in vtrad vtbhs
+2Chronicles 32:21 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,<,x
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -20090,7 +20446,7 @@ h,i,f,·,i,y,l,u,(me),h,w,·
 SPACE
 v,∵,x,a,𝓂,r,∵,v,.
 
-2Chronicles 32:22 in vtrad vtbhs
+2Chronicles 32:22 in vtrad vtsef
 w,_,y,·,(tq),w,o,$,·sh,_,ʕ,(tq)
 SPACE
 y,:,h,o,w,a,(qa),h
@@ -20098,6 +20454,10 @@ SPACE
 α,∵,τ,-,y,:,x,i,z,:,q,i,y,·,a,(ge),h,w,·
 SPACE
 w,:,α,‥,⅃,τ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 y,o,$,·sh,:,v,‥,⅃,y
 SPACE
@@ -20115,7 +20475,7 @@ w,_,𝓂,y,:,n,_,h,:_,l,‥,(ti),m.
 SPACE
 m,i,σ,·,a,v,i,𝓂,y,v,.
 
-2Chronicles 32:23 in vtrad vtbhs
+2Chronicles 32:23 in vtrad vtsef
 w,:,⌕,r,_,v,·,i,⌕,y,m.
 SPACE
 m,:,v,i,y,α,i,(qa),y,m.
@@ -20142,7 +20502,7 @@ k,oa,l,-,h,_,g,·,w,o,y,i,(ti),m.
 SPACE
 m,‥,α,_,x,:_,r,‥,y,-,k,‥,𝓂,n.,.
 
-2Chronicles 32:24 in vtrad vtbhs
+2Chronicles 32:24 in vtrad vtsef
 v,·,_,y,·,a,m,i,⅃,y,m.
 SPACE
 h,a,h,‥,ƶ,m.
@@ -20167,7 +20527,7 @@ n,a,(me),τ,_,n.
 SPACE
 l,𝓂,w,o,.
 
-2Chronicles 32:25 in vtrad vtbhs
+2Chronicles 32:25 in vtrad vtsef
 w,:,l,o,𝓂,α,-,k,i,g,:,m,u,<,l
 SPACE
 ʕ,a,l,a,y,w,(p)
@@ -20192,7 +20552,7 @@ w,:,ʕ,_,l,-,y,:,h,w,·,d,a,(ti),h
 SPACE
 w,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 32:26 in vtrad vtbhs
+2Chronicles 32:26 in vtrad vtsef
 w,_,y,·,i,k,·,a,n,_,<,ʕ
 SPACE
 y,:,x,i,z,:,q,i,y,·,a,(p),h,w,·,(p)
@@ -20219,7 +20579,7 @@ v,·,i,y,m,‥,(ti),y
 SPACE
 y,:,x,i,z,:,q,i,y,·,a,𝓂,h,w,·,.
 
-2Chronicles 32:27 in vtrad vtbhs
+2Chronicles 32:27 in vtrad vtsef
 w,_,y,:,h,i,(da),y
 SPACE
 l,i,y,x,i,z,:,q,i,y,·,a,⟓,h,w,·
@@ -20254,7 +20614,7 @@ k,·,:,l,‥,(me),y
 SPACE
 x,∵,m,:,d,·,a,𝓂,h,.
 
-2Chronicles 32:28 in vtrad vtbhs
+2Chronicles 32:28 in vtrad vtsef
 w,·,m,i,(qa),σ,:,k,·,:,n,ƶ,w,o,τ
 SPACE
 l,i,τ,:,v,w,·,α,_,(me),τ
@@ -20275,7 +20635,7 @@ w,_,ʕ,:_,d,a,r,i,(ti),y,m.
 SPACE
 l,a,α,:_,w,‥,r,o,𝓂,τ,.
 
-2Chronicles 32:29 in vtrad vtbhs
+2Chronicles 32:29 in vtrad vtsef
 w,:,ʕ,a,r,i,y,m.,(p)
 SPACE
 ʕ,a,⅃,$,·si,a,h
@@ -20300,7 +20660,7 @@ r,_,(me),v
 SPACE
 m,:,α,o,𝓂,d,.
 
-2Chronicles 32:30 in vtrad vtbhs
+2Chronicles 32:30 in vtrad vtsef
 w,:,h,⅃,w,·,α
 SPACE
 y,:,x,i,z,:,q,i,y,·,a,◆,h,w,·
@@ -20329,10 +20689,14 @@ y,:,x,i,z,:,q,i,y,·,a,(ti),h,w,·
 SPACE
 v,·,:,k,oa,𝓂,l,-,m,_,ʕ,:_,$,·si,‥,𝓂,h,w,·,.
 
-2Chronicles 32:31 in vtrad vtbhs
+2Chronicles 32:31 in vtrad vtsef
 w,:,k,‥,(G),n.
 SPACE
 v,·,i,m,:,l,i,y,ц,‥,⅃,y
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 $,·si,a,r,‥,⅃,y
 SPACE
@@ -20362,7 +20726,7 @@ l,a,d,_,(ti),ʕ,_,τ
 SPACE
 k,·,oa,l,-,v,·,i,l,:,v,a,v,𝓂,w,o,.
 
-2Chronicles 32:32 in vtrad vtbhs
+2Chronicles 32:32 in vtrad vtsef
 w,:,y,∵,⟓,τ,∵,r
 SPACE
 d,·,i,v,:,r,‥,(me),y
@@ -20389,7 +20753,7 @@ m,_,l,:,k,‥,𝓂,y,-,y,:,h,w,·,d,a,(ti),h
 SPACE
 w,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 32:33 in vtrad vtbhs
+2Chronicles 32:33 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,(qa),v
 SPACE
 y,:,x,i,z,:,q,i,y,·,a,(ge),h,w,·
@@ -20424,7 +20788,7 @@ v,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Chronicles 33:1 in vtrad vtbhs
+2Chronicles 33:1 in vtrad vtsef
 v,·,∵,n.,-,$,·sh,:,τ,·,‥,(me),y,m.
 SPACE
 ʕ,∵,$,·si,:,r,‥,⟓,h
@@ -20445,7 +20809,7 @@ m,a,l,_,(ti),k.,:
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 33:2 in vtrad vtbhs
+2Chronicles 33:2 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 h,a,r,_,(ti),ʕ
@@ -20470,7 +20834,7 @@ v,·,:,n,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 33:3 in vtrad vtbhs
+2Chronicles 33:3 in vtrad vtsef
 w,_,y,·,a,◆,$,·sh,oa,v
 SPACE
 w,_,y,·,i,(p),v,∵,n.,(p)
@@ -20505,7 +20869,7 @@ w,_,𝓂,y,·,_,ʕ,:_,v,o,(ti),d
 SPACE
 α,o,τ,a,𝓂,m.,.
 
-2Chronicles 33:4 in vtrad vtbhs
+2Chronicles 33:4 in vtrad vtsef
 w,·,v,a,n,a,(me),h
 SPACE
 m,i,z,:,v,·,:,x,(ti),w,o,τ
@@ -20526,7 +20890,7 @@ y,i,𝓂,h,:,y,∵,h,-,$,·sh,·,:,m,i,(ti),y
 SPACE
 l,:,ʕ,w,o,l,a,𝓂,m.,.
 
-2Chronicles 33:5 in vtrad vtbhs
+2Chronicles 33:5 in vtrad vtsef
 w,_,y,·,i,(me),v,∵,n.
 SPACE
 m,i,z,:,v,·,:,x,(ti),w,o,τ
@@ -20541,7 +20905,7 @@ x,_,ц,:,r,(me),w,o,τ
 SPACE
 v,·,‥,y,τ,-,y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 33:6 in vtrad vtbhs
+2Chronicles 33:6 in vtrad vtsef
 w,:,h,w,·,α,(tq)
 SPACE
 h,∵,ʕ,:∵,v,i,(qa),y,r
@@ -20578,7 +20942,7 @@ y,:,h,o,w,a,(ti),h
 SPACE
 l,:,h,_,k,:,ʕ,i,y,σ,𝓂,w,o,.
 
-2Chronicles 33:7 in vtrad vtbhs
+2Chronicles 33:7 in vtrad vtsef
 w,_,y,·,a,Ƶ,$,·si,∵,m.
 SPACE
 α,∵,τ,-,f,·,∵,(me),σ,∵,l
@@ -20627,7 +20991,7 @@ SPACE
 SPACE
 l,:,ʕ,‥,y,l,𝓂,w,o,m.,.
 
-2Chronicles 33:8 in vtrad vtbhs
+2Chronicles 33:8 in vtrad vtsef
 w,:,l,o,⅃,α
 SPACE
 α,o,σ,i,◆,y,f.
@@ -20649,6 +21013,10 @@ SPACE
 l,_,α,:_,v,𝓂,w,o,τ,‥,y,k,∵,⅄,m.
 SPACE
 r,_,⅃,q
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,i,m.,-,y,i,$,·sh,:,m,:,r,⅃,w,·
 SPACE
@@ -20668,7 +21036,7 @@ w,:,h,_,m,·,i,$,·sh,:,f,·,a,θ,i,(ti),y,m.
 SPACE
 v,·,:,y,_,d,-,m,o,$,·sh,∵,𝓂,h,.
 
-2Chronicles 33:9 in vtrad vtbhs
+2Chronicles 33:9 in vtrad vtsef
 w,_,y,·,∵,⅃,τ,_,ʕ
 SPACE
 m,:,n,_,$,·sh,·,∵,ƶ,h
@@ -20697,7 +21065,7 @@ v,·,:,n,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 33:10 in vtrad vtbhs
+2Chronicles 33:10 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(da),r
 SPACE
 y,:,h,o,w,a,⟓,h
@@ -20710,7 +21078,7 @@ w,:,l,o,(me),α
 SPACE
 h,i,q,:,$,·sh,i,𝓂,y,v,w,·,.
 
-2Chronicles 33:11 in vtrad vtbhs
+2Chronicles 33:11 in vtrad vtsef
 w,_,y,·,a,v,‥,(qa),α
 SPACE
 y,:,h,o,w,a,(ge),h
@@ -20741,7 +21109,7 @@ w,_,y,·,w,o,l,i,y,k,u,(ti),h,w,·
 SPACE
 v,·,a,v,∵,𝓂,l,a,h,.
 
-2Chronicles 33:12 in vtrad vtbhs
+2Chronicles 33:12 in vtrad vtsef
 w,·,k,:,h,a,ц,‥,⅃,r
 SPACE
 l,ƶ,w,o
@@ -20764,7 +21132,7 @@ SPACE
 SPACE
 α,:_,v,o,τ,a,𝓂,y,w,.
 
-2Chronicles 33:13 in vtrad vtbhs
+2Chronicles 33:13 in vtrad vtsef
 w,_,y,·,i,τ,:,f,·,_,l,·,‥,⅃,l
 SPACE
 α,‥,l,a,◆,y,w
@@ -20795,7 +21163,7 @@ h,(me),w,·,α
 SPACE
 h,a,α,:∵,l,o,h,i,𝓂,y,m.,.
 
-2Chronicles 33:14 in vtrad vtbhs
+2Chronicles 33:14 in vtrad vtsef
 w,:,α,_,x,:_,r,‥,y,-,k,‥,μ,n.
 SPACE
 v,·,a,n,a,⅃,h
@@ -20803,6 +21171,11 @@ SPACE
 x,w,o,m,a,⅃,h
 SPACE
 x,i,y,ц,w,o,n,a,⅃,h
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 l,:,ʕ,i,y,r,-,d,·,a,w,i,μ,y,d
 SPACE
 m,_,ʕ,:,r,a,(tq),v,a,h,(tq)
@@ -20835,7 +21208,7 @@ h,_,v,·,:,ц,u,r,(ti),w,o,τ
 SPACE
 v,·,i,y,h,w,·,d,a,𝓂,h,.
 
-2Chronicles 33:15 in vtrad vtbhs
+2Chronicles 33:15 in vtrad vtsef
 w,_,⌕,y,·,a,⌕,σ,_,r
 SPACE
 α,∵,τ,-,α,:∵,l,o,h,‥,(qa),y
@@ -20866,7 +21239,7 @@ x,(me),w,·,ц,a,h
 SPACE
 l,a,ʕ,i,𝓂,y,r,.
 
-2Chronicles 33:16 in vtrad vtbhs
+2Chronicles 33:16 in vtrad vtsef
 SPACE
 α,∵,τ,-,m,i,z,:,v,·,_,⅃,x
 SPACE
@@ -20894,7 +21267,7 @@ SPACE
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 33:17 in vtrad vtbhs
+2Chronicles 33:17 in vtrad vtsef
 α,:_,v,a,l,(p)
 SPACE
 ʕ,⅃,w,o,d
@@ -20911,7 +21284,7 @@ l,_,y,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,‥,y,h,∵,𝓂,m.,.
 
-2Chronicles 33:18 in vtrad vtbhs
+2Chronicles 33:18 in vtrad vtsef
 w,:,y,∵,(qa),τ,∵,r
 SPACE
 d,·,i,v,:,r,‥,⅃,y
@@ -20946,7 +21319,7 @@ m,_,l,:,k,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 33:19 in vtrad vtbhs
+2Chronicles 33:19 in vtrad vtsef
 w,·,τ,:,f,i,l,·,a,τ,⅃,w,o
 SPACE
 w,:,h,‥,ʕ,a,τ,∵,r,-,l,w,o,~
@@ -20985,7 +21358,7 @@ d,·,i,v,:,r,‥,(me),y
 SPACE
 x,w,o,z,a,𝓂,y,.
 
-2Chronicles 33:20 in vtrad vtbhs
+2Chronicles 33:20 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,_,<,v
 SPACE
 m,:,n,_,$,·sh,·,∵,h,(p)
@@ -21004,7 +21377,7 @@ v,·,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Chronicles 33:21 in vtrad vtbhs
+2Chronicles 33:21 in vtrad vtsef
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,τ,·,_,⟓,y,i,m.
@@ -21023,7 +21396,7 @@ m,a,l,_,(ti),k.,:
 SPACE
 v,·,i,y,r,𝓂,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 33:22 in vtrad vtbhs
+2Chronicles 33:22 in vtrad vtsef
 w,_,y,·,_,<,ʕ,_,$,·si
 SPACE
 h,a,r,_,ʕ,(p)
@@ -21056,7 +21429,7 @@ SPACE
 SPACE
 w,_,y,·,_,ʕ,_,v,:,d,‥,𝓂,m.,.
 
-2Chronicles 33:23 in vtrad vtbhs
+2Chronicles 33:23 in vtrad vtsef
 w,:,l,o,<,α
 SPACE
 n,i,k,:,n,_,ʕ,(p)
@@ -21081,7 +21454,7 @@ h,i,r,:,v,·,a,(me),h
 SPACE
 α,_,$,·sh,:,m,a,𝓂,h,.
 
-2Chronicles 33:24 in vtrad vtbhs
+2Chronicles 33:24 in vtrad vtsef
 w,_,y,·,i,q,:,$,·sh,:,r,<,w,·
 SPACE
 ʕ,a,l,a,y,w,(p)
@@ -21092,7 +21465,7 @@ w,_,y,:,m,i,y,τ,u,(ti),h,w,·
 SPACE
 v,·,:,v,‥,y,τ,𝓂,w,o,.
 
-2Chronicles 33:25 in vtrad vtbhs
+2Chronicles 33:25 in vtrad vtsef
 w,_,y,·,_,k,·,w,·,(p)
 SPACE
 ʕ,_,m.,-,h,a,α,a,ƶ,r,∵,ц.
@@ -21115,7 +21488,7 @@ v,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Chronicles 34:1 in vtrad vtbhs
+2Chronicles 34:1 in vtrad vtsef
 v,·,∵,n.,-,$,·sh,:,m,w,o,n,∵,(me),h
 SPACE
 $,·sh,a,n,i,(ti),y,m.
@@ -21134,7 +21507,7 @@ m,a,l,_,(ti),k.,:
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 34:2 in vtrad vtbhs
+2Chronicles 34:2 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 h,_,y,·,a,$,·sh,a,(ti),r
@@ -21157,7 +21530,7 @@ y,a,m,i,(me),y,n.
 SPACE
 w,·,$,·si,:,m,o,𝓂,α,w,l,.
 
-2Chronicles 34:3 in vtrad vtbhs
+2Chronicles 34:3 in vtrad vtsef
 w,·,v,i,$,·sh,:,m,w,o,n,∵,(qa),h
 SPACE
 $,·sh,a,n,i,(ge),y,m.
@@ -21202,7 +21575,7 @@ w,:,h,_,f,·,:,σ,i,l,i,(ti),y,m.
 SPACE
 w,:,h,_,m,·,_,σ,·,‥,k,𝓂,w,o,τ,.
 
-2Chronicles 34:4 in vtrad vtbhs
+2Chronicles 34:4 in vtrad vtsef
 w,_,y,:,n,_,τ,·,:,ц,⅃,w,·
 SPACE
 l,:,f,a,n,a,◆,y,w
@@ -21241,7 +21614,7 @@ h,_,z,·,o,v,:,x,i,(ti),y,m.
 SPACE
 l,a,h,∵,𝓂,m.,.
 
-2Chronicles 34:5 in vtrad vtbhs
+2Chronicles 34:5 in vtrad vtsef
 w,:,ʕ,_,ц,:,m,w,o,τ,(p)
 SPACE
 k,·,o,𝓂,h,:_,n,i,ƶ,y,m.
@@ -21256,7 +21629,7 @@ SPACE
 SPACE
 w,:,α,∵,τ,-,y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 34:6 in vtrad vtbhs
+2Chronicles 34:6 in vtrad vtsef
 w,·,v,:,ʕ,a,r,‥,(qa),y
 SPACE
 m,:,n,_,$,·sh,·,∵,(da),h
@@ -21270,7 +21643,7 @@ SPACE
 SPACE
 σ,a,v,i,𝓂,y,v,.
 
-2Chronicles 34:7 in vtrad vtbhs
+2Chronicles 34:7 in vtrad vtsef
 w,_,y,:,n,_,τ,·,‥,⅃,ц.
 SPACE
 α,∵,τ,-,h,_,𝓂,m,·,i,z,:,v,·,:,x,◆,w,o,τ
@@ -21295,7 +21668,7 @@ w,_,y,·,a,(ti),$,·sh,oa,v
 SPACE
 l,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 34:8 in vtrad vtbhs
+2Chronicles 34:8 in vtrad vtsef
 w,·,v,i,$,·sh,:,n,_,(qa),τ
 SPACE
 $,·sh,:,m,w,o,n,∵,<,h
@@ -21336,10 +21709,14 @@ y,:,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,a,𝓂,y,w,.
 
-2Chronicles 34:9 in vtrad vtbhs
+2Chronicles 34:9 in vtrad vtsef
 w,_,y,·,a,v,o,(ge),α,w,·
 SPACE
 α,∵,l,-,x,i,l,:,q,i,y,·,a,⅃,h,w,·
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 h,_,k,·,o,h,‥,⅃,n.
 SPACE
@@ -21380,7 +21757,7 @@ SPACE
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 34:10 in vtrad vtbhs
+2Chronicles 34:10 in vtrad vtsef
 w,_,𝓂,y,·,i,τ,·,:,n,◆,w,·
 SPACE
 ʕ,_,l,-,y,_,d,(p)
@@ -21417,7 +21794,7 @@ w,·,l,:,x,_,z,·,‥,(ti),q
 SPACE
 h,_,v,·,a,𝓂,y,i,τ,.
 
-2Chronicles 34:11 in vtrad vtbhs
+2Chronicles 34:11 in vtrad vtsef
 w,_,𝓂,y,·,i,τ,·,:,n,◆,w,·
 SPACE
 l,∵,x,a,𝓂,r,a,$,·sh,i,y,m.,(p)
@@ -21446,7 +21823,7 @@ m,_,l,:,k,‥,(me),y
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Chronicles 34:12 in vtrad vtbhs
+2Chronicles 34:12 in vtrad vtsef
 w,:,h,a,α,:_,n,a,$,·sh,i,y,m.,(tq)
 SPACE
 ʕ,o,$,·si,i,(qa),y,m.
@@ -21456,6 +21833,11 @@ SPACE
 v,·,_,m,·,:,l,a,α,k,a,◆,h
 SPACE
 w,_,ʕ,:_,l,‥,y,h,∵,⅃,m.
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 m,u,⌕,f,:,q,a,d,i,⌕,y,m.
 SPACE
 y,_,⅃,x,_,τ
@@ -21484,7 +21866,7 @@ k,·,oa,l,-,m,‥,v,i,(ti),y,n.
 SPACE
 v,·,i,k,:,l,‥,y,-,$,·sh,i,𝓂,y,r,.
 
-2Chronicles 34:13 in vtrad vtbhs
+2Chronicles 34:13 in vtrad vtsef
 w,:,ʕ,_,⅃,l
 SPACE
 h,_,σ,·,_,v,·,a,l,i,◆,y,m.
@@ -21509,7 +21891,7 @@ w,:,$,·sh,o,θ,:,r,i,(ti),y,m.
 SPACE
 w,:,$,·sh,w,o,ʕ,:_,r,i,𝓂,y,m.,.
 
-2Chronicles 34:14 in vtrad vtbhs
+2Chronicles 34:14 in vtrad vtsef
 w,·,v,:,h,w,o,ц,i,y,α,a,⅃,m.
 SPACE
 α,∵,τ,-,h,_,k,·,∵,ƶ,σ,∵,f.
@@ -21532,7 +21914,7 @@ SPACE
 SPACE
 v,·,:,y,_,d,-,m,o,$,·sh,∵,𝓂,h,.
 
-2Chronicles 34:15 in vtrad vtbhs
+2Chronicles 34:15 in vtrad vtsef
 w,_,y,·,_,⅃,ʕ,_,n.
 SPACE
 x,i,l,:,q,i,y,·,a,◆,h,w,·
@@ -21561,7 +21943,7 @@ SPACE
 SPACE
 α,∵,l,-,$,·sh,a,f,a,𝓂,n.,.
 
-2Chronicles 34:16 in vtrad vtbhs
+2Chronicles 34:16 in vtrad vtsef
 w,_,y,·,a,v,‥,(qa),α
 SPACE
 $,·sh,a,f,a,<,n.
@@ -21590,7 +21972,7 @@ h,‥,(me),m.
 SPACE
 ʕ,o,$,·si,i,𝓂,y,m.,.
 
-2Chronicles 34:17 in vtrad vtbhs
+2Chronicles 34:17 in vtrad vtsef
 w,_,y,·,_,τ,·,i,Ƶ,y,k,w,·
 SPACE
 α,∵,τ,-,h,_,k,·,∵,(ti),σ,∵,f.
@@ -21611,7 +21993,7 @@ SPACE
 SPACE
 h,_,m,·,:,l,a,α,k,a,𝓂,h,.
 
-2Chronicles 34:18 in vtrad vtbhs
+2Chronicles 34:18 in vtrad vtsef
 w,_,y,·,_,g,·,‥,(G),d
 SPACE
 $,·sh,a,f,a,<,n.
@@ -21640,7 +22022,7 @@ l,i,f,:,n,‥,(me),y
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-2Chronicles 34:19 in vtrad vtbhs
+2Chronicles 34:19 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
 k,·,i,$,·sh,:,m,o,⅃,ʕ,_
@@ -21657,7 +22039,7 @@ w,_,y,·,i,q,:,r,_,(ti),ʕ
 SPACE
 α,∵,τ,-,v,·,:,g,a,d,a,𝓂,y,w,.
 
-2Chronicles 34:20 in vtrad vtbhs
+2Chronicles 34:20 in vtrad vtsef
 w,_,y,:,ц,_,⅃,w
 SPACE
 h,_,m,·,∵,μ,l,∵,k.,:
@@ -21673,6 +22055,10 @@ SPACE
 v,·,∵,n.,-,m,i,y,k,a,(ge),h
 SPACE
 w,:,α,‥,⅃,τ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 $,·sh,a,f,a,⅃,n.
 SPACE
@@ -21686,7 +22072,7 @@ SPACE
 SPACE
 l,‥,α,m,o,𝓂,r,.
 
-2Chronicles 34:21 in vtrad vtbhs
+2Chronicles 34:21 in vtrad vtsef
 l,:,k,w,·,(tq)
 SPACE
 d,i,r,:,$,·sh,(qa),w,·
@@ -21741,7 +22127,7 @@ SPACE
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Chronicles 34:22 in vtrad vtbhs
+2Chronicles 34:22 in vtrad vtsef
 w,_,y,·,‥,(qa),l,∵,k.,:
 SPACE
 x,i,l,:,q,i,y,·,a,(ge),h,w,·
@@ -21755,6 +22141,10 @@ SPACE
 h,_,n,·,:,v,i,y,α,a,(ge),h
 SPACE
 α,‥,⅃,$,·sh,∵,τ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 $,·sh,_,l,·,u,⅃,m.
 SPACE
@@ -21780,7 +22170,7 @@ SPACE
 SPACE
 k,·,a,z,o,𝓂,α,τ,.
 
-2Chronicles 34:23 in vtrad vtbhs
+2Chronicles 34:23 in vtrad vtsef
 w,_,τ,·,o,⅃,α,m,∵,r
 SPACE
 l,a,h,∵,ƶ,m.
@@ -21803,7 +22193,7 @@ SPACE
 SPACE
 α,‥,l,a,𝓂,y,.
 
-2Chronicles 34:24 in vtrad vtbhs
+2Chronicles 34:24 in vtrad vtsef
 k,·,o,(ye),h
 SPACE
 α,a,m,_,⅃,r
@@ -21840,8 +22230,12 @@ m,∵,(me),l,∵,k.,:
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
-2Chronicles 34:25 in vtrad vtbhs
+2Chronicles 34:25 in vtrad vtsef
 τ,·,_,⅃,x,_,τ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 α,:_,$,·sh,∵,⅃,r
 SPACE
@@ -21874,7 +22268,7 @@ w,:,l,o,(me),α
 SPACE
 τ,i,k,:,v,·,∵,𝓂,h,.
 
-2Chronicles 34:26 in vtrad vtbhs
+2Chronicles 34:26 in vtrad vtsef
 w,:,α,∵,l,-,m,∵,⅃,l,∵,k.,:
 SPACE
 y,:,h,w,·,d,a,◆,h
@@ -21918,12 +22312,16 @@ SPACE
 SPACE
 $,·sh,a,m,a,𝓂,ʕ,:,τ,·,a,.
 
-2Chronicles 34:27 in vtrad vtbhs
+2Chronicles 34:27 in vtrad vtsef
 y,_,⌕,ʕ,_,n.
 SPACE
 r,_,k.,:,-,l,:,v,a,(qa),v,:,k.,a,(ge)
 SPACE
 w,_,τ,·,i,k,·,a,n,_,⅃,ʕ
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 m,i,l,·,i,f,:,n,‥,⅃,y
 SPACE
@@ -21957,7 +22355,7 @@ $,·sh,a,m,_,(ti),ʕ,:,τ,·,i,y
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 34:28 in vtrad vtbhs
+2Chronicles 34:28 in vtrad vtsef
 h,i,n,:,n,i,(qa),y
 SPACE
 α,o,σ,i,f,:,k.,a,(ge)
@@ -21996,7 +22394,7 @@ SPACE
 SPACE
 d,·,a,v,a,𝓂,r,.
 
-2Chronicles 34:29 in vtrad vtbhs
+2Chronicles 34:29 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,(ti),x
 SPACE
 h,_,m,·,∵,⅄,l,∵,k.,:
@@ -22009,7 +22407,7 @@ y,:,h,w,·,d,a,(ti),h
 SPACE
 w,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 34:30 in vtrad vtbhs
+2Chronicles 34:30 in vtrad vtsef
 w,_,y,·,_,⅃,ʕ,_,l
 SPACE
 h,_,m,·,∵,⅃,l,∵,k.,:
@@ -22050,7 +22448,7 @@ v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 34:31 in vtrad vtbhs
+2Chronicles 34:31 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,m,o,(qa),d
 SPACE
 h,_,m,·,∵,(ge),l,∵,k.,:
@@ -22095,7 +22493,7 @@ SPACE
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Chronicles 34:32 in vtrad vtbhs
+2Chronicles 34:32 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,m,‥,Ƶ,d
 SPACE
 α,‥,⟓,τ
@@ -22120,7 +22518,7 @@ SPACE
 SPACE
 α,:_,v,w,o,τ,‥,y,h,∵,𝓂,m.,.
 
-2Chronicles 34:33 in vtrad vtbhs
+2Chronicles 34:33 in vtrad vtsef
 w,_,y,·,a,(qa),σ,_,r
 SPACE
 y,o,α,$,·sh,i,y,·,a,(ge),h,w,·
@@ -22163,7 +22561,7 @@ SPACE
 SPACE
 α,:_,v,w,o,τ,‥,y,h,∵,𝓂,m.,.
 
-2Chronicles 35:1 in vtrad vtbhs
+2Chronicles 35:1 in vtrad vtsef
 w,_,y,·,_,(qa),ʕ,_,$,·si
 SPACE
 y,o,α,$,·sh,i,y,·,a,(da),h,w,·
@@ -22186,7 +22584,7 @@ l,_,x,o,(me),d,∵,$,·sh
 SPACE
 h,a,r,i,α,$,·sh,𝓂,w,o,n.,.
 
-2Chronicles 35:2 in vtrad vtbhs
+2Chronicles 35:2 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,m,‥,(me),d
 SPACE
 h,_,k,·,o,h,:_,n,i,(ti),y,m.
@@ -22201,7 +22599,7 @@ v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 35:3 in vtrad vtbhs
+2Chronicles 35:3 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 l,_,⌕,l,:,w,i,y,·,i,⌕,m.
@@ -22251,7 +22649,7 @@ SPACE
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 35:4 in vtrad vtbhs
+2Chronicles 35:4 in vtrad vtsef
 SPACE
 l,:,v,‥,y,τ,-,α,:_,v,w,o,τ,‥,y,k,∵,(ti),m.
 SPACE
@@ -22271,7 +22669,7 @@ $,·sh,:,l,o,m,o,(me),h
 SPACE
 v,:,n,𝓂,w,o,.
 
-2Chronicles 35:5 in vtrad vtbhs
+2Chronicles 35:5 in vtrad vtsef
 w,:,ʕ,i,m,:,d,⅃,w,·
 SPACE
 v,_,q,·,o,◆,d,∵,$,·sh
@@ -22294,7 +22692,7 @@ v,·,‥,𝓂,y,τ,-,α,a,(ti),v
 SPACE
 l,_,l,:,w,i,y,·,i,𝓂,m.,.
 
-2Chronicles 35:6 in vtrad vtbhs
+2Chronicles 35:6 in vtrad vtsef
 w,:,$,·sh,_,x,:_,θ,(ti),w,·
 SPACE
 h,_,f,·,a,⅄,σ,_,x
@@ -22311,7 +22709,7 @@ k,·,i,d,:,v,_,r,-,y,:,h,o,w,a,(ti),h
 SPACE
 v,·,:,y,_,d,-,m,o,$,·sh,∵,𝓂,h,.
 
-2Chronicles 35:7 in vtrad vtbhs
+2Chronicles 35:7 in vtrad vtsef
 w,_,y,·,a,⅃,r,∵,m.
 SPACE
 y,o,α,$,·sh,i,y,·,a,⅃,h,w,·
@@ -22350,7 +22748,7 @@ m,‥,r,:,k,(me),w,·,$,·sh
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-2Chronicles 35:8 in vtrad vtbhs
+2Chronicles 35:8 in vtrad vtsef
 w,:,$,·si,a,r,a,(G),y,w
 SPACE
 l,i,n,:,d,a,v,a,(me),h
@@ -22393,7 +22791,7 @@ $,·sh,:,l,o,(me),$,·sh
 SPACE
 m,‥,α,𝓂,w,o,τ,.
 
-2Chronicles 35:9 in vtrad vtbhs
+2Chronicles 35:9 in vtrad vtsef
 SPACE
 w,·,$,·sh,:,m,_,ʕ,:,y,a,(qa),h,w,·
 SPACE
@@ -22427,7 +22825,7 @@ x,:_,m,‥,(me),$,·sh
 SPACE
 m,‥,α,𝓂,w,o,τ,.
 
-2Chronicles 35:10 in vtrad vtbhs
+2Chronicles 35:10 in vtrad vtsef
 w,_,τ,·,i,k,·,(ti),w,o,n.
 SPACE
 h,a,ʕ,:_,v,w,o,d,a,⅄,h
@@ -22446,7 +22844,7 @@ k,·,:,m,i,ц,:,w,_,(me),τ
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
-2Chronicles 35:11 in vtrad vtbhs
+2Chronicles 35:11 in vtrad vtsef
 w,_,𝓂,y,·,i,$,·sh,:,x,:_,θ,(ti),w,·
 SPACE
 h,_,f,·,a,⅄,σ,_,x
@@ -22461,7 +22859,7 @@ w,:,h,_,l,:,w,i,y,·,i,(ti),m.
 SPACE
 m,_,f,:,$,·sh,i,y,θ,i,𝓂,y,m.,.
 
-2Chronicles 35:12 in vtrad vtbhs
+2Chronicles 35:12 in vtrad vtsef
 w,_,y,·,a,σ,i,(qa),y,r,w,·
 SPACE
 h,a,ʕ,o,l,a,(ge),h
@@ -22490,7 +22888,7 @@ w,:,k,‥,(ti),n.
 SPACE
 l,_,v,·,a,q,a,𝓂,r,.
 
-2Chronicles 35:13 in vtrad vtbhs
+2Chronicles 35:13 in vtrad vtsef
 w,_,𝓂,y,:,v,_,$,·sh,·,:,l,(me),w,·
 SPACE
 h,_,f,·,∵,⟓,σ,_,x
@@ -22515,7 +22913,7 @@ l,:,k,oa,l,-,v,·,:,n,‥,(me),y
 SPACE
 h,a,ʕ,a,𝓂,m.,.
 
-2Chronicles 35:14 in vtrad vtbhs
+2Chronicles 35:14 in vtrad vtsef
 w,:,α,_,x,_,◆,r
 SPACE
 h,‥,k,i,<,y,n,w,·
@@ -22552,7 +22950,7 @@ v,·,:,n,‥,(me),y
 SPACE
 α,_,h,:_,r,o,𝓂,n.,.
 
-2Chronicles 35:15 in vtrad vtbhs
+2Chronicles 35:15 in vtrad vtsef
 w,:,h,_,m,:,$,·sh,o,r,:,r,i,(qa),y,m.
 SPACE
 v,·,:,n,‥,y,-,α,a,σ,a,(ge),f.
@@ -22597,7 +22995,7 @@ h,‥,k,i,(me),y,n,w,·
 SPACE
 l,a,h,∵,𝓂,m.,.
 
-2Chronicles 35:16 in vtrad vtbhs
+2Chronicles 35:16 in vtrad vtsef
 w,_,⌕,τ,·,i,k,·,⌕,w,o,n.
 SPACE
 k,·,oa,l,-,ʕ,:_,v,w,o,d,_,(qa),τ
@@ -22628,7 +23026,7 @@ h,_,m,·,∵,(me),l,∵,k.,:
 SPACE
 y,o,α,$,·sh,i,y,·,a,𝓂,h,w,·,.
 
-2Chronicles 35:17 in vtrad vtbhs
+2Chronicles 35:17 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,$,·si,(qa),w,·
 SPACE
 v,:,n,‥,y,-,y,i,$,·si,:,r,a,α,‥,(da),l
@@ -22649,7 +23047,7 @@ $,·sh,i,v,:,ʕ,_,(me),τ
 SPACE
 y,a,m,i,𝓂,y,m.,.
 
-2Chronicles 35:18 in vtrad vtbhs
+2Chronicles 35:18 in vtrad vtsef
 w,:,l,o,α,-,n,_,ʕ,:_,$,·si,a,(qa),h
 SPACE
 f,∵,<,σ,_,x
@@ -22667,6 +23065,11 @@ SPACE
 w,:,k,oa,l,-,m,_,l,:,k,‥,⅃,y
 SPACE
 y,i,$,·si,:,r,a,α,‥,⅃,l
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 l,o,𝓂,α,-,ʕ,a,$,·si,μ,w,·
 SPACE
 k,·,_,f,·,∵,⅃,σ,_,x
@@ -22689,7 +23092,7 @@ w,:,y,w,o,$,·sh,:,v,‥,(ti),y
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 35:19 in vtrad vtbhs
+2Chronicles 35:19 in vtrad vtsef
 v,·,i,$,·sh,:,m,w,o,n,∵,<,h
 SPACE
 ʕ,∵,$,·si,:,r,‥,h,(p)
@@ -22706,7 +23109,7 @@ h,_,f,·,∵,(me),σ,_,x
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
-2Chronicles 35:20 in vtrad vtbhs
+2Chronicles 35:20 in vtrad vtsef
 α,_,x,:_,r,‥,⅃,y
 SPACE
 k,oa,l,-,z,o,◆,α,τ
@@ -22737,13 +23140,23 @@ l,i,q,:,r,a,α,τ,(ti),w,o
 SPACE
 y,o,α,$,·sh,i,y,·,a,𝓂,h,w,·,.
 
-2Chronicles 35:21 in vtrad vtbhs
+2Chronicles 35:21 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,⅃,x
 SPACE
 α,‥,l,a,⅃,y,w
 SPACE
 m,_,l,:,α,a,k,i,⅃,y,m.
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 l,‥,α,m,o,r,(tq)
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 m,_,h,-,l,·,i,(qa),y
 SPACE
 w,a,l,a,(ge),k.,:
@@ -22778,7 +23191,7 @@ SPACE
 SPACE
 w,:,α,_,l,-,y,_,$,·sh,:,x,i,y,τ,∵,𝓂,k.,a,.
 
-2Chronicles 35:22 in vtrad vtbhs
+2Chronicles 35:22 in vtrad vtsef
 w,:,l,o,α,-,h,‥,σ,‥,v,(tq)
 SPACE
 y,o,𝓂,α,$,·sh,i,y,·,a,(qa),h,w,·
@@ -22813,7 +23226,7 @@ v,·,:,v,i,q,:,ʕ,_,(me),τ
 SPACE
 m,:,g,i,d,·,𝓂,w,o,.
 
-2Chronicles 35:23 in vtrad vtbhs
+2Chronicles 35:23 in vtrad vtsef
 w,_,y,·,o,r,w,·,(p)
 SPACE
 h,_,y,·,o,r,i,ƶ,y,m.
@@ -22836,7 +23249,7 @@ h,oa,x,:a,l,‥,(ti),y,τ,i,y
 SPACE
 m,:,α,o,𝓂,d,.
 
-2Chronicles 35:24 in vtrad vtbhs
+2Chronicles 35:24 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,v,i,y,r,u,(qa),h,w,·
 SPACE
 ʕ,:_,v,a,d,a,(ge),y,w
@@ -22873,7 +23286,7 @@ m,i,𝓂,τ,:,α,_,v,·,:,l,i,(ti),y,m.
 SPACE
 ʕ,_,l,-,y,o,α,$,·sh,i,y,·,a,𝓂,h,w,·,.
 
-2Chronicles 35:25 in vtrad vtbhs
+2Chronicles 35:25 in vtrad vtsef
 w,_,y,:,q,w,o,n,‥,⅃,n.
 SPACE
 y,i,r,:,m,:,y,a,≁,h,w,·,~
@@ -22883,6 +23296,11 @@ SPACE
 w,_,y,·,o,α,m,:,r,⅃,w,·
 SPACE
 k,oa,𝓂,l,-,h,_,$,·sh,·,a,r,i,⅃,y,m.
+THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE
 w,:,⌕,h,_,$,·sh,·,a,r,⌕,w,o,τ
 SPACE
 v,·,:,q,i,y,n,(qa),w,o,τ,‥,y,h,∵,<,m.
@@ -22903,7 +23321,7 @@ k,·,:,τ,w,·,v,i,(ti),y,m.
 SPACE
 ʕ,_,l,-,h,_,q,·,i,y,n,𝓂,w,o,τ,.
 
-2Chronicles 35:26 in vtrad vtbhs
+2Chronicles 35:26 in vtrad vtsef
 w,:,y,∵,⟓,τ,∵,r
 SPACE
 d,·,i,v,:,r,‥,(me),y
@@ -22918,7 +23336,7 @@ v,·,:,τ,w,o,r,_,(me),τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 35:27 in vtrad vtbhs
+2Chronicles 35:27 in vtrad vtsef
 w,·,d,:,v,a,r,a,Ƶ,y,w
 SPACE
 h,a,r,i,α,$,·sh,o,n,i,(ti),y,m.
@@ -22935,7 +23353,7 @@ m,_,l,:,k,‥,𝓂,y,-,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 w,i,y,h,w,·,d,a,𝓂,h,.
 
-2Chronicles 36:1 in vtrad vtbhs
+2Chronicles 36:1 in vtrad vtsef
 w,_,y,·,i,q,:,x,w,·,(p)
 SPACE
 ʕ,_,m.,-,h,a,α,a,ƶ,r,∵,ц.
@@ -22950,7 +23368,7 @@ SPACE
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 36:2 in vtrad vtbhs
+2Chronicles 36:2 in vtrad vtsef
 v,·,∵,n.,-,$,·sh,a,l,(da),w,o,$,·sh
 SPACE
 w,:,ʕ,∵,$,·si,:,r,i,⟓,y,m.
@@ -22969,7 +23387,7 @@ m,a,l,_,(ti),k.,:
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 36:3 in vtrad vtbhs
+2Chronicles 36:3 in vtrad vtsef
 w,_,y,:,σ,i,y,r,‥,(me),h,w,·
 SPACE
 m,∵,l,∵,k.,:,-,m,i,ц,:,r,_,(ti),y,i,m.
@@ -22988,7 +23406,7 @@ w,:,k,i,k,·,_,(me),r
 SPACE
 z,a,h,a,𝓂,v,.
 
-2Chronicles 36:4 in vtrad vtbhs
+2Chronicles 36:4 in vtrad vtsef
 w,_,y,·,_,m,:,l,‥,(qa),k.,:
 SPACE
 m,∵,l,∵,k.,:,-,m,i,ц,:,r,_,(ge),y,i,m.
@@ -23019,7 +23437,7 @@ w,_,y,:,v,i,y,α,‥,(ti),h,w,·
 SPACE
 m,i,ц,:,r,a,𝓂,y,:,m,a,h,.
 
-2Chronicles 36:5 in vtrad vtbhs
+2Chronicles 36:5 in vtrad vtsef
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,(qa),y,m.
 SPACE
 w,:,x,a,m,‥,<,$,·sh
@@ -23050,7 +23468,7 @@ y,:,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,a,𝓂,y,w,.
 
-2Chronicles 36:6 in vtrad vtbhs
+2Chronicles 36:6 in vtrad vtsef
 ʕ,a,l,a,⅃,y,w
 SPACE
 ʕ,a,l,a,ƶ,h
@@ -23069,7 +23487,7 @@ l,:,h,o,l,i,y,k,(ti),w,o
 SPACE
 v,·,a,v,∵,𝓂,l,a,h,.
 
-2Chronicles 36:7 in vtrad vtbhs
+2Chronicles 36:7 in vtrad vtsef
 w,·,m,i,k,·,:,l,‥,y,(p)
 SPACE
 v,·,‥,⅃,y,τ
@@ -23088,7 +23506,7 @@ v,·,:,h,‥,y,k,a,l,(ti),w,o
 SPACE
 v,·,:,v,a,v,∵,𝓂,l,.
 
-2Chronicles 36:8 in vtrad vtbhs
+2Chronicles 36:8 in vtrad vtsef
 w,:,y,∵,(tq),τ,∵,r,(tq)
 SPACE
 d,·,i,v,:,r,‥,(qa),y
@@ -23123,7 +23541,7 @@ v,·,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
 
-2Chronicles 36:9 in vtrad vtbhs
+2Chronicles 36:9 in vtrad vtsef
 v,·,∵,n.,-,$,·sh,:,m,w,o,n,∵,<,h
 SPACE
 $,·sh,a,n,i,y,m.,(p)
@@ -23152,7 +23570,7 @@ v,·,:,ʕ,‥,y,n,‥,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 36:10 in vtrad vtbhs
+2Chronicles 36:10 in vtrad vtsef
 w,:,l,i,τ,:,$,·sh,w,·,v,_,⅃,τ
 SPACE
 h,_,$,·sh,·,a,n,a,◆,h
@@ -23183,7 +23601,7 @@ SPACE
 SPACE
 w,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 36:11 in vtrad vtbhs
+2Chronicles 36:11 in vtrad vtsef
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,(da),y,m.
 SPACE
 w,:,α,_,x,_,⟓,τ
@@ -23204,7 +23622,7 @@ m,a,l,_,(ti),k.,:
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 36:12 in vtrad vtbhs
+2Chronicles 36:12 in vtrad vtsef
 w,_,y,·,_,⅃,ʕ,_,$,·si
 SPACE
 h,a,r,_,ƶ,ʕ
@@ -23229,7 +23647,7 @@ m,i,f,·,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
-2Chronicles 36:13 in vtrad vtbhs
+2Chronicles 36:13 in vtrad vtsef
 w,:,⌕,g,_,⌕,m.
 SPACE
 v,·,_,m,·,∵,<,l,∵,k.,:
@@ -23260,7 +23678,7 @@ SPACE
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
-2Chronicles 36:14 in vtrad vtbhs
+2Chronicles 36:14 in vtrad vtsef
 g,·,_,⌕,m.
 SPACE
 k,·,oa,l,-,$,·si,a,r,‥,(qa),y
@@ -23291,7 +23709,7 @@ h,i,q,:,d,·,i,(ti),y,$,·sh
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
-2Chronicles 36:15 in vtrad vtbhs
+2Chronicles 36:15 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,μ,x
 SPACE
 y,:,h,o,w,a,h,(tq)
@@ -23316,7 +23734,7 @@ SPACE
 SPACE
 w,:,ʕ,_,l,-,m,:,ʕ,w,o,n,𝓂,w,o,.
 
-2Chronicles 36:16 in vtrad vtbhs
+2Chronicles 36:16 in vtrad vtsef
 w,_,y,·,i,h,:,y,<,w,·
 SPACE
 m,_,l,:,ʕ,i,v,i,y,m.,(p)
@@ -23345,7 +23763,7 @@ SPACE
 SPACE
 m,_,r,:,f,·,‥,𝓂,α,.
 
-2Chronicles 36:17 in vtrad vtbhs
+2Chronicles 36:17 in vtrad vtsef
 w,_,y,·,_,(qa),ʕ,_,l
 SPACE
 ʕ,:_,l,‥,y,h,∵,(ge),m.
@@ -23381,7 +23799,7 @@ n,a,τ,_,(me),n.
 SPACE
 v,·,:,y,a,d,𝓂,w,o,.
 
-2Chronicles 36:18 in vtrad vtbhs
+2Chronicles 36:18 in vtrad vtsef
 w,:,⌕,k,o,⌕,l
 SPACE
 k,·,:,l,‥,(G),y
@@ -23412,7 +23830,7 @@ h,‥,v,i,(me),y,α
 SPACE
 v,a,v,∵,𝓂,l,.
 
-2Chronicles 36:19 in vtrad vtbhs
+2Chronicles 36:19 in vtrad vtsef
 w,_,𝓂,y,·,i,$,·si,:,r,:,f,w,·,(p)
 SPACE
 α,∵,τ,-,v,·,‥,⅃,y,τ
@@ -23439,7 +23857,7 @@ m,_,x,:_,m,_,d,·,∵,(ti),y,h,a
 SPACE
 l,:,h,_,$,·sh,:,x,i,𝓂,y,τ,.
 
-2Chronicles 36:20 in vtrad vtbhs
+2Chronicles 36:20 in vtrad vtsef
 w,_,y,·,∵,⟓,g,∵,l
 SPACE
 h,_,$,·sh,·,:,α,‥,r,i,(me),y,τ
@@ -23460,7 +23878,7 @@ m,_,l,:,k,(me),w,·,τ
 SPACE
 f,·,a,r,a,𝓂,σ,.
 
-2Chronicles 36:21 in vtrad vtbhs
+2Chronicles 36:21 in vtrad vtsef
 l,:,m,_,l,·,o,<,α,w,τ
 SPACE
 d,·,:,v,_,r,-,y,:,h,o,w,a,h,(p)
@@ -23487,7 +23905,7 @@ $,·sh,i,v,:,ʕ,i,(me),y,m.
 SPACE
 $,·sh,a,n,a,𝓂,h,.
 
-2Chronicles 36:22 in vtrad vtbhs
+2Chronicles 36:22 in vtrad vtsef
 w,·,v,i,$,·sh,:,n,_,⅃,τ
 SPACE
 α,_,x,_,◆,τ
@@ -23524,10 +23942,14 @@ w,:,g,_,m.,-,v,·,:,m,i,k,:,τ,·,a,(ti),v
 SPACE
 l,‥,α,m,o,𝓂,r,.
 
-2Chronicles 36:23 in vtrad vtbhs
+2Chronicles 36:23 in vtrad vtsef
 k,·,o,𝓂,h,-,α,a,m,_,(G),r
 SPACE
 k,·,⅃,w,o,r,∵,$,·sh
+THIN SPACE
+START b 
+|
+STOP b 
 SPACE
 m,∵,⅃,l,∵,k.,:
 SPACE
