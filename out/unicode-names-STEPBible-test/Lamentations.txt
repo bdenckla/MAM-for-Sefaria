@@ -1,7 +1,6 @@
 unicode_names Lamentations
 Lamentations 1:1 in vtrad vtsef
-α,‥,y,k,a,⅃,h
-THIN SPACE
+α,‥,y,k,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -628,13 +627,11 @@ NO-BREAK SPACE
 Lamentations 1:15 in vtrad vtsef
 σ,i,l,·,a,(qa),h
 SPACE
-k,oa,l,-,α,_,v,·,i,y,r,_,<,y
-THIN SPACE
+k,oa,l,-,α,_,v,·,i,y,r,_,<,y,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,:_,d,o,n,a,y,(p)
+THIN SPACE,α,:_,d,o,n,a,y,(p)
 SPACE
 v,·,:,q,i,r,:,v,·,i,ƶ,y
 SPACE
@@ -671,8 +668,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 1:16 in vtrad vtsef
-ʕ,_,l,-,α,‥,⅃,l,·,∵,h
-THIN SPACE
+ʕ,_,l,-,α,‥,⅃,l,·,∵,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -681,13 +677,11 @@ SPACE
 SPACE
 v,w,o,k,i,y,·,a,◆,h
 SPACE
-ʕ,‥,y,n,i,<,y
-THIN SPACE
+ʕ,‥,y,n,i,<,y,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-ʕ,‥,y,n,i,y,(p)
+THIN SPACE,ʕ,‥,y,n,i,y,(p)
 SPACE
 y,o,⅃,r,:,d,a,h
 SPACE
@@ -990,13 +984,11 @@ Lamentations 2:1 in vtrad vtsef
 SPACE
 y,a,ʕ,i,(qa),y,v
 SPACE
-v,·,:,α,_,f,·,<,w,o
-THIN SPACE
+v,·,:,α,_,f,·,<,w,o,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,:_,d,o,n,a,y,(p)
+THIN SPACE,α,:_,d,o,n,a,y,(p)
 SPACE
 α,∵,τ,-,v,·,_,τ,-,ц,i,y,·,ƶ,w,o,n.
 SPACE
@@ -1172,13 +1164,11 @@ NO-BREAK SPACE
 Lamentations 2:5 in vtrad vtsef
 h,a,y,a,(qa),h
 SPACE
-α,:_,d,o,n,a,<,y
-THIN SPACE
+α,:_,d,o,n,a,<,y,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-k,·,:,α,w,o,y,‥,v,(p)
+THIN SPACE,k,·,:,α,w,o,y,‥,v,(p)
 SPACE
 v,·,i,l,·,_,⅃,ʕ
 SPACE
@@ -1225,13 +1215,11 @@ m,o,ʕ,:_,d,⅄,w,o
 SPACE
 $,·sh,i,k,·,_,(qa),x
 SPACE
-y,:,h,o,w,a,<,h
-THIN SPACE
+y,:,h,o,w,a,<,h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-v,·,:,ц,i,y,·,w,o,n.,(p)
+THIN SPACE,v,·,:,ц,i,y,·,w,o,n.,(p)
 SPACE
 m,w,o,ʕ,‥,⅃,d
 SPACE
@@ -1260,13 +1248,11 @@ NO-BREAK SPACE
 Lamentations 2:7 in vtrad vtsef
 z,a,n,_,(qa),x
 SPACE
-α,:_,d,o,n,a,<,y
-THIN SPACE
+α,:_,d,o,n,a,<,y,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-m,i,z,:,v,·,:,x,w,o,(p)
+THIN SPACE,m,i,z,:,v,·,:,x,w,o,(p)
 SPACE
 n,i,α,‥,⅃,r
 SPACE
@@ -1305,13 +1291,11 @@ NO-BREAK SPACE
 Lamentations 2:8 in vtrad vtsef
 x,a,$,·sh,_,(qa),v
 SPACE
-y,:,h,o,w,a,<,h
-THIN SPACE
+y,:,h,o,w,a,<,h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,:,h,_,$,·sh,:,x,i,y,τ,(p)
+THIN SPACE,l,:,h,_,$,·sh,:,x,i,y,τ,(p)
 SPACE
 x,w,o,m,_,⅃,τ
 SPACE
@@ -1791,8 +1775,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 2:19 in vtrad vtsef
-q,⅃,w,·,m,i,y
-THIN SPACE
+q,⅃,w,·,m,i,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -4650,13 +4633,11 @@ y,a,m,i,𝓂,y,m.,.
 Lamentations 5:21 in vtrad vtsef
 h,:_,$,·sh,i,y,v,‥,(qa),n,w,·
 SPACE
-y,:,h,o,w,a,<,h
-THIN SPACE
+y,:,h,o,w,a,<,h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,‥,l,∵,(p),y,k.,a,(p)
+THIN SPACE,α,‥,l,∵,(p),y,k.,a,(p)
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k

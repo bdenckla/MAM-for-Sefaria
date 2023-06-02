@@ -4,8 +4,7 @@ Psalms 1:1 in vtrad vtsef
 SPACE
 h,a,α,i,◆,y,$,·sh
 SPACE
-α,:_,$,·sh,∵,<,r
-THIN SPACE
+α,:_,$,·sh,∵,<,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -61,12 +60,14 @@ SPACE
 $,·sh,a,τ,(ah),w,·,l
 SPACE
 ʕ,_,𝓂,l,-,f,·,_,l,:,g,‥,(ol),y
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 m,a,(me),y,i,m.
 SPACE
 α,:_,$,·sh,∵,<,r
 SPACE
-f,·,i,r,:,y,(qa),w,o
-THIN SPACE
+f,·,i,r,:,y,(qa),w,o,THIN SPACE
 START b 
 |
 STOP b 
@@ -99,8 +100,7 @@ SPACE
 r,𝓂,w,·,x,_,.
 
 Psalms 1:5 in vtrad vtsef
-ʕ,_,l,-,k,·,‥,<,n.
-THIN SPACE
+ʕ,_,l,-,k,·,‥,<,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -149,8 +149,7 @@ SPACE
 y,∵,h,:,g,·,w,·,-,r,i,𝓂,y,q,.
 
 Psalms 2:2 in vtrad vtsef
-y,i,(me),τ,:,y,_,ц,·,:,v,(qa),w,·
-THIN SPACE
+y,i,(me),τ,:,y,_,ц,·,:,v,(qa),w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -215,6 +214,9 @@ Psalms 2:7 in vtrad vtsef
 α,:_,σ,_,f,·,:,r,a,◆,h
 SPACE
 α,∵,𝓂,(ol),l
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 x,o,(me),q
 SPACE
 y,:,𝓂,h,o,w,a,◆,h
@@ -288,8 +290,7 @@ v,·,i,r,:,ʕ,a,d,a,𝓂,h,.
 Psalms 2:12 in vtrad vtsef
 n,_,$,·sh,·,:,q,w,·,-,v,_,μ,r
 SPACE
-f,·,∵,n.,-,y,∵,α,:∵,n,_,<,f.
-THIN SPACE
+f,·,∵,n.,-,y,∵,α,:∵,n,_,<,f.,THIN SPACE
 START b 
 |
 STOP b 
@@ -322,8 +323,7 @@ l,:,d,a,w,i,⅄,d
 SPACE
 v,·,:,γ,v,oa,r,:,x,◆,w,o
 SPACE
-m,i,f,·,:,n,‥,<,y
-THIN SPACE
+m,i,f,·,:,n,‥,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -425,8 +425,7 @@ SPACE
 Psalms 3:8 in vtrad vtsef
 q,≁,w,·,m,a,<,h
 SPACE
-y,:,h,o,w,a,(qa),h
-THIN SPACE
+y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -475,8 +474,7 @@ l,:,d,a,w,i,𝓂,d,.
 Psalms 4:2 in vtrad vtsef
 v,·,:,q,oa,r,:,α,i,μ,y
 SPACE
-ʕ,:_,n,‥,<,n,i,y
-THIN SPACE
+ʕ,:_,n,‥,<,n,i,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -629,21 +627,18 @@ l,:,d,a,w,i,𝓂,d,.
 Psalms 5:2 in vtrad vtsef
 α,:_,m,a,r,_,(ti),y
 SPACE
-h,_,α,:_,z,i,(me),y,n,a,h
-THIN SPACE
+h,_,α,:_,z,i,(me),y,n,a,h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,h,o,w,a,◆,h
+THIN SPACE,y,:,h,o,w,a,◆,h
 SPACE
 v,·,i,⅃,y,n,a,h
 SPACE
 h,:_,g,i,y,g,i,𝓂,y,.
 
 Psalms 5:3 in vtrad vtsef
-h,_,q,:,$,·sh,i,<,y,v,a,h
-THIN SPACE
+h,_,q,:,$,·sh,i,<,y,v,a,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -676,8 +671,7 @@ SPACE
 w,_,α,:_,ц,_,f,·,∵,𝓂,h,.
 
 Psalms 5:5 in vtrad vtsef
-k,·,i,<,y
-THIN SPACE
+k,·,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -686,13 +680,11 @@ l,o,<,α
 SPACE
 α,‥,𝓂,l,-,x,a,f,‥,≁,ц.
 SPACE
-r,∵,(me),$,·sh,_,ʕ
-THIN SPACE
+r,∵,(me),$,·sh,_,ʕ,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,a,⅄,τ,·,a,h
+THIN SPACE,α,a,⅄,τ,·,a,h
 SPACE
 l,o,(ti),α
 SPACE
@@ -726,13 +718,11 @@ SPACE
 SPACE
 w,·,m,i,r,:,m,a,◆,h
 SPACE
-y,:,τ,a,≁,ʕ,‥,(me),v
-THIN SPACE
+y,:,τ,a,≁,ʕ,‥,(me),v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,h,o,w,a,𝓂,h,.
+THIN SPACE,y,:,h,o,w,a,𝓂,h,.
 
 Psalms 5:8 in vtrad vtsef
 w,_,α,:_,n,i,◆,y
@@ -752,8 +742,7 @@ SPACE
 v,·,:,y,i,r,:,α,a,τ,∵,𝓂,k.,a,.
 
 Psalms 5:9 in vtrad vtsef
-y,:,h,o,w,a,<,h
-THIN SPACE
+y,:,h,o,w,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -802,8 +791,7 @@ SPACE
 y,_,x,:_,l,i,y,q,𝓂,w,·,n.,.
 
 Psalms 5:11 in vtrad vtsef
-h,_,(me),α,:_,$,·sh,i,y,m,‥,(qa),m.
-THIN SPACE
+h,_,(me),α,:_,$,·sh,i,y,m,‥,(qa),m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -897,6 +885,9 @@ SPACE
 k,·,i,<,y
 SPACE
 α,u,m,:,l,_,(ol),l
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 α,a,(me),n,i,y
 SPACE
 r,:,f,a,α,‥,(me),n,i,y
@@ -961,8 +952,7 @@ SPACE
 y,𝓂,w,o,d,∵,h,-,l,·,a,𝓂,k.,:,.
 
 Psalms 6:7 in vtrad vtsef
-y,a,g,_,<,ʕ,:,τ,·,i,y
-THIN SPACE
+y,a,g,_,<,ʕ,:,τ,·,i,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -1023,8 +1013,7 @@ SPACE
 y,i,q,·,a,𝓂,x,.
 
 Psalms 6:11 in vtrad vtsef
-y,‥,v,o,<,$,·sh,w,·
-THIN SPACE
+y,‥,v,o,<,$,·sh,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -1114,8 +1103,7 @@ SPACE
 r,‥,y,q,a,𝓂,m.,.
 
 Psalms 7:6 in vtrad vtsef
-y,i,(me),r,_,d,·,o,𝓂,f.,-,α,w,o,y,‥,(qa),v
-THIN SPACE
+y,i,(me),r,_,d,·,o,𝓂,f.,-,α,w,o,y,‥,(qa),v,THIN SPACE
 START b 
 |
 STOP b 
@@ -1130,8 +1118,7 @@ l,a,α,a,⅃,r,∵,ц.
 SPACE
 x,_,y,·,a,⅄,y
 SPACE
-w,·,k,:,v,w,o,d,i,(sh),y
-THIN SPACE
+w,·,k,:,v,w,o,d,i,(sh),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -1145,8 +1132,7 @@ SPACE
 Psalms 7:7 in vtrad vtsef
 q,≁,w,·,m,a,<,h
 SPACE
-y,:,h,o,w,a,(qa),h
-THIN SPACE
+y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -1200,8 +1186,7 @@ SPACE
 Psalms 7:10 in vtrad vtsef
 y,i,g,:,m,oa,r,-,n,a,(il),α
 SPACE
-r,_,(qa),ʕ
-THIN SPACE
+r,_,(qa),ʕ,THIN SPACE
 START b 
 |
 STOP b 
@@ -1362,8 +1347,7 @@ SPACE
 Psalms 8:3 in vtrad vtsef
 m,i,f,·,i,<,y
 SPACE
-ʕ,w,o,l,:,l,i,(qa),y,m.
-THIN SPACE
+ʕ,w,o,l,:,l,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -1561,8 +1545,7 @@ SPACE
 w,a,ʕ,∵,𝓂,d,.
 
 Psalms 9:7 in vtrad vtsef
-h,a,𝓂,α,w,o,y,‥,(qa),v
-THIN SPACE
+h,a,𝓂,α,w,o,y,‥,(qa),v,THIN SPACE
 START b 
 |
 STOP b 
@@ -1730,8 +1713,7 @@ SPACE
 r,_,g,:,l,a,𝓂,m.,.
 
 Psalms 9:17 in vtrad vtsef
-n,<,w,o,d,_,(qa),ʕ
-THIN SPACE
+n,<,w,o,d,_,(qa),ʕ,THIN SPACE
 START b 
 |
 STOP b 
@@ -1812,8 +1794,7 @@ SPACE
 Psalms 9:21 in vtrad vtsef
 $,·sh,i,≁,y,τ,a,<,h
 SPACE
-y,:,h,o,w,a,(qa),h
-THIN SPACE
+y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -1861,8 +1842,7 @@ y,i,d,:,l,_,⅃,q
 SPACE
 ʕ,a,n,i,⅄,y
 SPACE
-y,i,τ,·,a,𝓂,f,:,$,·si,(sh),w,·
-THIN SPACE
+y,i,τ,·,a,𝓂,f,:,$,·si,(sh),w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -1886,13 +1866,11 @@ w,·,v,o,ц,‥,(me),ʕ,_
 SPACE
 v,·,‥,γ,r,‥,◆,k.,:
 SPACE
-n,i,≁,α,‥,(me),ц.
-THIN SPACE
+n,i,≁,α,‥,(me),ц.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,h,o,w,a,𝓂,h,.
+THIN SPACE,y,:,h,o,w,a,𝓂,h,.
 
 Psalms 10:4 in vtrad vtsef
 r,a,$,·sh,a,◆,ʕ
@@ -1913,8 +1891,7 @@ Psalms 10:5 in vtrad vtsef
 y,a,≁,x,i,<,y,l,w,·
 SPACE
 START span class=mam-kq-trivial
-d,:,r,a,k,a,(qa),w
-THIN SPACE
+d,:,r,a,k,a,(qa),w,THIN SPACE
 START b 
 |
 STOP b 
@@ -1950,8 +1927,7 @@ SPACE
 l,o,𝓂,α,-,v,:,r,a,𝓂,ʕ,.
 
 Psalms 10:7 in vtrad vtsef
-α,a,l,a,<,h
-THIN SPACE
+α,a,l,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -1973,8 +1949,7 @@ SPACE
 w,a,α,a,𝓂,w,∵,n.,.
 
 Psalms 10:8 in vtrad vtsef
-y,‥,$,·sh,‥,<,v
-THIN SPACE
+y,‥,$,·sh,‥,<,v,THIN SPACE
 START b 
 |
 STOP b 
@@ -1998,8 +1973,7 @@ y,i,ц,:,f,·,o,𝓂,n,w,·,.
 Psalms 10:9 in vtrad vtsef
 y,∵,α,:∵,r,o,(il),v
 SPACE
-v,·,_,m,·,i,σ,:,τ,·,a,(qa),r
-THIN SPACE
+v,·,_,m,·,i,σ,:,τ,·,a,(qa),r,THIN SPACE
 START b 
 |
 STOP b 
@@ -2094,21 +2068,18 @@ STOP span class=mam-kq
 .
 
 Psalms 10:13 in vtrad vtsef
-ʕ,_,l,-,m,∵,<,h
-THIN SPACE
+ʕ,_,l,-,m,∵,<,h,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
 n,i,α,‥,(ti),ц.
 SPACE
-r,a,$,·sh,a,(me),ʕ
-THIN SPACE
+r,a,$,·sh,a,(me),ʕ,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,:∵,l,o,h,i,⅄,y,m.
+THIN SPACE,α,:∵,l,o,h,i,⅄,y,m.
 SPACE
 α,a,m,_,(me),r
 SPACE
@@ -2121,16 +2092,14 @@ SPACE
 Psalms 10:14 in vtrad vtsef
 r,a,α,i,μ,τ,a,h
 SPACE
-k,·,i,y,-,α,_,τ,·,a,<,h
-THIN SPACE
+k,·,i,y,-,α,_,τ,·,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
 ʕ,a,≁,m,a,<,l
 SPACE
-w,a,k,_,(qa),ʕ,_,σ
-THIN SPACE
+w,a,k,_,(qa),ʕ,_,σ,THIN SPACE
 START b 
 |
 STOP b 
@@ -2149,8 +2118,7 @@ x,‥,l,‥,⅄,k,a,h
 SPACE
 y,a,γ,τ,◆,w,o,m.
 SPACE
-α,_,τ,·,a,<,h
-THIN SPACE
+α,_,τ,·,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -2231,8 +2199,7 @@ l,_,m,:,n,_,ц,·,‥,◆,x,_
 SPACE
 l,:,d,a,(ol),w,i,(me),d
 SPACE
-v,·,_,𝓂,y,h,o,w,a,(qa),h
-THIN SPACE
+v,·,_,𝓂,y,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -2294,8 +2261,7 @@ SPACE
 m,_,h,-,f,·,a,ʕ,a,𝓂,l,.
 
 Psalms 11:4 in vtrad vtsef
-y,:,h,o,w,a,<,h
-THIN SPACE
+y,:,h,o,w,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -2405,8 +2371,7 @@ SPACE
 α,a,d,a,𝓂,m.,.
 
 Psalms 12:3 in vtrad vtsef
-$,·sh,a,<,w,:,α
-THIN SPACE
+$,·sh,a,<,w,:,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -2445,8 +2410,7 @@ g,·,:,d,o,l,𝓂,w,o,τ,.
 Psalms 12:5 in vtrad vtsef
 α,:_,$,·sh,∵,<,r
 SPACE
-α,a,m,:,r,(qa),w,·
-THIN SPACE
+α,a,m,:,r,(qa),w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -2514,8 +2478,7 @@ Psalms 12:8 in vtrad vtsef
 SPACE
 τ,·,i,$,·sh,:,m,:,r,‥,⅄,m.
 SPACE
-τ,·,i,ц,·,:,r,∵,(sh),n,·,w,·
-THIN SPACE
+τ,·,i,ц,·,:,r,∵,(sh),n,·,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -2562,8 +2525,7 @@ SPACE
 SPACE
 n,∵,⅄,ц,_,x
 SPACE
-ʕ,_,d,-,α,a,(sh),n,a,h
-THIN SPACE
+ʕ,_,d,-,α,a,(sh),n,a,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -2589,8 +2551,7 @@ v,·,i,l,:,v,a,v,i,⅃,y
 SPACE
 y,w,o,m,a,⅄,m.
 SPACE
-ʕ,_,d,-,α,a,(sh),n,a,h
-THIN SPACE
+ʕ,_,d,-,α,a,(sh),n,a,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -2634,8 +2595,7 @@ SPACE
 α,∵,m,·,𝓂,w,o,θ,.
 
 Psalms 13:6 in vtrad vtsef
-w,_,α,:_,n,i,<,y
-THIN SPACE
+w,_,α,:_,n,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -2750,8 +2710,7 @@ SPACE
 q,a,r,a,𝓂,α,w,·,.
 
 Psalms 14:5 in vtrad vtsef
-$,·sh,a,<,m.
-THIN SPACE
+$,·sh,a,<,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -2842,8 +2801,7 @@ SPACE
 v,·,i,l,:,v,a,v,𝓂,w,o,.
 
 Psalms 15:3 in vtrad vtsef
-l,o,𝓂,α,-,r,a,g,_,(qa),l
-THIN SPACE
+l,o,𝓂,α,-,r,a,g,_,(qa),l,THIN SPACE
 START b 
 |
 STOP b 
@@ -2863,8 +2821,7 @@ SPACE
 ʕ,_,l,-,q,:,r,o,v,𝓂,w,o,.
 
 Psalms 15:4 in vtrad vtsef
-n,i,v,:,z,∵,<,h
-THIN SPACE
+n,i,v,:,z,∵,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -2888,8 +2845,7 @@ SPACE
 y,a,m,i,𝓂,r,.
 
 Psalms 15:5 in vtrad vtsef
-k,·,_,σ,:,f,·,<,w,o
-THIN SPACE
+k,·,_,σ,:,f,·,<,w,o,THIN SPACE
 START b 
 |
 STOP b 
@@ -3034,8 +2990,7 @@ SPACE
 v,·,_,l,-,α,∵,m,·,𝓂,w,o,θ,.
 
 Psalms 16:9 in vtrad vtsef
-l,a,k,‥,<,n.
-THIN SPACE
+l,a,k,‥,<,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -3055,8 +3010,7 @@ SPACE
 l,a,v,∵,𝓂,θ,_,x,.
 
 Psalms 16:10 in vtrad vtsef
-k,·,i,<,y
-THIN SPACE
+k,·,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -3106,8 +3060,7 @@ l,:,d,a,(ol),w,i,(me),d
 SPACE
 $,·sh,i,m,:,ʕ,a,<,h
 SPACE
-y,:,h,o,w,a,(qa),h
-THIN SPACE
+y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -3144,8 +3097,7 @@ m,‥,y,$,·sh,a,r,i,𝓂,y,m.,.
 Psalms 17:3 in vtrad vtsef
 v,·,a,≁,x,_,<,n,:,τ,·,a
 SPACE
-l,i,v,·,i,(qa),y
-THIN SPACE
+l,i,v,·,i,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -3317,8 +3269,7 @@ SPACE
 x,_,r,:,v,·,∵,𝓂,k.,a,.
 
 Psalms 17:14 in vtrad vtsef
-m,i,(me),m,:,τ,i,𝓂,y,m.,-,y,a,d,:,k.,a,(qa)
-THIN SPACE
+m,i,(me),m,:,τ,i,𝓂,y,m.,-,y,a,d,:,k.,a,(qa),THIN SPACE
 START b 
 |
 STOP b 
@@ -3378,8 +3329,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Psalms 18:1 in vtrad vtsef
-l,_,m,:,n,_,ц,·,‥,<,x,_
-THIN SPACE
+l,_,m,:,n,_,ц,·,‥,<,x,_,THIN SPACE
 START b 
 |
 STOP b 
@@ -3392,8 +3342,7 @@ l,:,d,a,(ol),w,i,(me),d
 SPACE
 α,:_,$,·sh,∵,<,r
 SPACE
-d,·,i,v,·,∵,(qa),r
-THIN SPACE
+d,·,i,v,·,∵,(qa),r,THIN SPACE
 START b 
 |
 STOP b 
@@ -3430,8 +3379,7 @@ SPACE
 x,i,z,:,q,i,𝓂,y,.
 
 Psalms 18:3 in vtrad vtsef
-y,:,h,o,w,a,<,h
-THIN SPACE
+y,:,h,o,w,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -3490,8 +3438,7 @@ SPACE
 m,a,𝓂,w,∵,τ,.
 
 Psalms 18:7 in vtrad vtsef
-v,·,_,ц,·,_,r,-,l,i,<,y
-THIN SPACE
+v,·,_,ц,·,_,r,-,l,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -3512,8 +3459,7 @@ q,w,o,l,i,⅄,y
 SPACE
 w,:,γ,$,·sh,_,w,:,ʕ,a,τ,i,◆,y
 SPACE
-l,:,f,a,n,a,<,y,w
-THIN SPACE
+l,:,f,a,n,a,<,y,w,THIN SPACE
 START b 
 |
 STOP b 
@@ -3525,8 +3471,7 @@ v,:,α,oa,z,:,n,a,𝓂,y,w,.
 Psalms 18:8 in vtrad vtsef
 w,_,τ,·,i,g,:,ʕ,_,(il),$,·sh
 SPACE
-w,_,τ,·,i,r,:,ʕ,_,(qa),$,·sh
-THIN SPACE
+w,_,τ,·,i,r,:,ʕ,_,(qa),$,·sh,THIN SPACE
 START b 
 |
 STOP b 
@@ -3548,8 +3493,7 @@ l,𝓂,w,o,.
 Psalms 18:9 in vtrad vtsef
 ʕ,a,≁,l,a,<,h
 SPACE
-ʕ,a,$,·sh,a,(qa),n.
-THIN SPACE
+ʕ,a,$,·sh,a,(qa),n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -3593,8 +3537,7 @@ SPACE
 Psalms 18:12 in vtrad vtsef
 y,a,<,$,·sh,∵,τ
 SPACE
-x,o,(qa),$,·sh,∵,k.,:
-THIN SPACE
+x,o,(qa),$,·sh,∵,k.,:,THIN SPACE
 START b 
 |
 STOP b 
@@ -3627,8 +3570,7 @@ w,:,g,_,𝓂,x,:_,l,‥,y,-,α,‥,𝓂,$,·sh,.
 Psalms 18:14 in vtrad vtsef
 w,_,y,·,_,r,:,ʕ,‥,(il),m.
 SPACE
-v,·,_,$,·sh,·,a,m,_,(qa),y,i,m.
-THIN SPACE
+v,·,_,$,·sh,·,a,m,_,(qa),y,i,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -3659,8 +3601,7 @@ SPACE
 w,_,y,:,h,u,m,·,‥,𝓂,m.,.
 
 Psalms 18:16 in vtrad vtsef
-w,_,y,·,‥,<,r,a,α,(qa),w,·
-THIN SPACE
+w,_,y,·,‥,<,r,a,α,(qa),w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -3874,8 +3815,7 @@ m,a,g,‥,(me),n.
 SPACE
 h,γ,◆,w,·,α
 SPACE
-l,:,k,o,<,l
-THIN SPACE
+l,:,k,o,<,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -4131,21 +4071,18 @@ SPACE
 τ,·,_,ц,·,i,y,l,‥,𝓂,n,i,y,.
 
 Psalms 18:50 in vtrad vtsef
-ʕ,_,l,-,k,·,‥,<,n.
-THIN SPACE
+ʕ,_,l,-,k,·,‥,<,n.,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
 α,w,o,d,:,k.,a,(ti)
 SPACE
-v,_,g,·,w,o,y,i,(me),m.
-THIN SPACE
+v,_,g,·,w,o,y,i,(me),m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,h,o,w,a,⅄,h
+THIN SPACE,y,:,h,o,w,a,⅄,h
 SPACE
 w,·,l,:,$,·sh,i,m,:,k.,a,(me)
 SPACE
@@ -4162,8 +4099,7 @@ m,_,(ol),l,:,k,·,(me),w,o
 SPACE
 w,:,ʕ,o,<,$,·si,∵,h
 SPACE
-x,∵,(qa),σ,∵,d
-THIN SPACE
+x,∵,(qa),σ,∵,d,THIN SPACE
 START b 
 |
 STOP b 
@@ -4232,8 +4168,7 @@ SPACE
 q,w,o,l,a,𝓂,m.,.
 
 Psalms 19:5 in vtrad vtsef
-v,·,:,k,oa,l,-,h,a,α,a,(qa),r,∵,ц.
-THIN SPACE
+v,·,:,k,oa,l,-,h,a,α,a,(qa),r,∵,ц.,THIN SPACE
 START b 
 |
 STOP b 
@@ -4274,8 +4209,7 @@ SPACE
 Psalms 19:7 in vtrad vtsef
 m,i,q,:,ц,‥,<,h
 SPACE
-h,_,$,·sh,·,a,m,_,(qa),y,i,m.
-THIN SPACE
+h,_,$,·sh,·,a,m,_,(qa),y,i,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -4335,8 +4269,7 @@ SPACE
 Psalms 19:10 in vtrad vtsef
 y,i,r,:,α,_,<,τ
 SPACE
-y,:,h,o,w,a,(qa),h
-THIN SPACE
+y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -4397,8 +4330,7 @@ n,_,q,·,‥,𝓂,n,i,y,.
 Psalms 19:14 in vtrad vtsef
 g,·,_,<,m.
 SPACE
-m,i,z,·,‥,d,i,(qa),y,m.
-THIN SPACE
+m,i,z,·,‥,d,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -4420,8 +4352,7 @@ SPACE
 r,a,𝓂,v,.
 
 Psalms 19:15 in vtrad vtsef
-y,i,(me),h,:,y,𝓂,w,·,-,l,:,r,a,ц,(qa),w,o,n.
-THIN SPACE
+y,i,(me),h,:,y,𝓂,w,·,-,l,:,r,a,ц,(qa),w,o,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -4463,8 +4394,7 @@ SPACE
 SPACE
 y,:,γ,$,·si,_,g,·,∵,v,:,k.,a,◆
 SPACE
-$,·sh,‥,<,m.
-THIN SPACE
+$,·sh,‥,<,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -4503,8 +4433,7 @@ SPACE
 y,:,m,_,l,·,‥,𝓂,α,.
 
 Psalms 20:6 in vtrad vtsef
-n,:,r,_,n,·,:,n,a,<,h
-THIN SPACE
+n,:,r,_,n,·,:,n,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -4528,13 +4457,11 @@ y,a,d,_,◆,ʕ,:,τ,·,i,y
 SPACE
 k,·,i,<,y
 SPACE
-h,w,o,$,·sh,i,(me),y,ʕ,_
-THIN SPACE
+h,w,o,$,·sh,i,(me),y,ʕ,_,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,h,o,w,a,◆,h
+THIN SPACE,y,:,h,o,w,a,◆,h
 SPACE
 m,:,$,·sh,i,(ol),y,x,(me),w,o
 SPACE
@@ -4559,8 +4486,7 @@ w,:,α,‥,⅃,l,·,∵,h
 SPACE
 v,_,σ,·,w,·,σ,i,⅄,y,m.
 SPACE
-w,_,α,:_,n,_,(sh),x,:,n,w,·
-THIN SPACE
+w,_,α,:_,n,_,(sh),x,:,n,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -4662,8 +4588,7 @@ SPACE
 f,·,a,𝓂,z,.
 
 Psalms 21:5 in vtrad vtsef
-x,_,y,·,i,<,y,m.
-THIN SPACE
+x,_,y,·,i,<,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -4739,8 +4664,7 @@ SPACE
 $,·si,o,n,:,α,∵,𝓂,y,k.,a,.
 
 Psalms 21:10 in vtrad vtsef
-τ,·,:,$,·sh,i,y,τ,‥,<,m,w,o
-THIN SPACE
+τ,·,:,$,·sh,i,y,τ,‥,<,m,w,o,THIN SPACE
 START b 
 |
 STOP b 
@@ -5036,8 +4960,7 @@ m,‥,ʕ,a,𝓂,y,.
 Psalms 22:16 in vtrad vtsef
 y,a,≁,v,‥,<,$,·sh
 SPACE
-k,·,_,x,∵,(qa),r,∵,$,·si
-THIN SPACE
+k,·,_,x,∵,(qa),r,∵,$,·si,THIN SPACE
 START b 
 |
 STOP b 
@@ -5150,8 +5073,7 @@ SPACE
 Psalms 22:24 in vtrad vtsef
 y,i,r,:,α,‥,<,y
 SPACE
-y,:,h,o,w,a,(qa),h
-THIN SPACE
+y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -5217,8 +5139,7 @@ y,:,r,‥,α,a,𝓂,y,w,.
 Psalms 22:27 in vtrad vtsef
 y,o,α,k,:,l,(il),w,·
 SPACE
-ʕ,:_,n,a,w,i,(qa),y,m.
-THIN SPACE
+ʕ,:_,n,a,w,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -5238,8 +5159,7 @@ SPACE
 l,a,ʕ,_,𝓂,d,.
 
 Psalms 22:28 in vtrad vtsef
-y,i,z,:,k,·,:,r,<,w,·
-THIN SPACE
+y,i,z,:,k,·,:,r,<,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -5272,8 +5192,7 @@ v,·,_,g,·,w,o,y,i,𝓂,m.,.
 Psalms 22:30 in vtrad vtsef
 α,a,k,:,l,(il),w,·
 SPACE
-w,_,y,·,i,𝓂,$,·sh,:,τ,·,_,x,:_,w,(qa),w,·
-THIN SPACE
+w,_,y,·,i,𝓂,$,·sh,:,τ,·,_,x,:_,w,(qa),w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -5392,8 +5311,7 @@ y,:,n,_,𝓂,x,:_,m,u,𝓂,n,i,y,.
 Psalms 23:5 in vtrad vtsef
 τ,·,_,ʕ,:_,r,o,(il),k.,:
 SPACE
-l,:,f,a,n,_,(qa),y
-THIN SPACE
+l,:,f,a,n,_,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -5415,8 +5333,7 @@ SPACE
 r,:,w,a,y,a,𝓂,h,.
 
 Psalms 23:6 in vtrad vtsef
-α,_,<,k.,:
-THIN SPACE
+α,_,<,k.,:,THIN SPACE
 START b 
 |
 STOP b 
@@ -5490,8 +5407,7 @@ k,_,f,·,_,◆,y,i,m.
 SPACE
 w,·,𝓂,v,_,r,-,l,‥,(ol),v,a,(me),v
 SPACE
-α,:_,$,·sh,∵,<,r
-THIN SPACE
+α,:_,$,·sh,∵,<,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -5541,8 +5457,7 @@ SPACE
 Psalms 24:7 in vtrad vtsef
 $,·si,:,α,<,w,·
 SPACE
-$,·sh,:,ʕ,a,r,i,(qa),y,m.
-THIN SPACE
+$,·sh,:,ʕ,a,r,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -5585,8 +5500,7 @@ m,i,l,:,x,a,m,a,𝓂,h,.
 Psalms 24:9 in vtrad vtsef
 $,·si,:,α,<,w,·
 SPACE
-$,·sh,:,ʕ,a,r,i,(qa),y,m.
-THIN SPACE
+$,·sh,:,ʕ,a,r,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -5688,8 +5602,7 @@ l,_,m,·,:,d,‥,𝓂,n,i,y,.
 Psalms 25:5 in vtrad vtsef
 h,_,d,:,r,i,≁,y,k,‥,<,n,i,y
 SPACE
-v,_,α,:_,m,i,τ,·,∵,(qa),k.,a
-THIN SPACE
+v,_,α,:_,m,i,τ,·,∵,(qa),k.,a,THIN SPACE
 START b 
 |
 STOP b 
@@ -5724,8 +5637,7 @@ h,‥,𝓂,m,·,a,h,.
 Psalms 25:7 in vtrad vtsef
 x,_,θ,·,o,<,α,w,τ
 SPACE
-n,:,ʕ,w,·,r,_,(qa),y
-THIN SPACE
+n,:,ʕ,w,·,r,_,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -5935,8 +5847,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Psalms 26:1 in vtrad vtsef
-l,:,d,a,w,i,(qa),d
-THIN SPACE
+l,:,d,a,w,i,(qa),d,THIN SPACE
 START b 
 |
 STOP b 
@@ -6110,14 +6021,12 @@ STOP span class=mam-spi-pe
 START br 
 
 Psalms 27:1 in vtrad vtsef
-l,:,d,a,w,i,(qa),d
-THIN SPACE
+l,:,d,a,w,i,(qa),d,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
-y,:,h,o,w,a,<,h
-THIN SPACE
+y,:,h,o,w,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -6141,8 +6050,7 @@ SPACE
 Psalms 27:2 in vtrad vtsef
 v,·,i,q,:,r,o,<,v
 SPACE
-ʕ,a,l,_,(qa),y
-THIN SPACE
+ʕ,a,l,_,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -6168,8 +6076,7 @@ w,:,n,a,f,a,𝓂,l,w,·,.
 Psalms 27:3 in vtrad vtsef
 α,i,m.,-,τ,·,_,x,:_,n,∵,(il),h
 SPACE
-ʕ,a,l,_,(qa),y
-THIN SPACE
+ʕ,a,l,_,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -6193,8 +6100,7 @@ SPACE
 v,w,o,θ,‥,𝓂,x,_,.
 
 Psalms 27:4 in vtrad vtsef
-α,_,x,_,<,τ
-THIN SPACE
+α,_,x,_,<,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -6226,8 +6132,7 @@ v,·,:,h,‥,𝓂,y,k,a,l,𝓂,w,o,.
 Psalms 27:5 in vtrad vtsef
 k,·,i,<,y
 SPACE
-y,i,ц,:,f,·,:,n,‥,(qa),n,i,y
-THIN SPACE
+y,i,ц,:,f,·,:,n,‥,(qa),n,i,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -6287,8 +6192,7 @@ SPACE
 w,_,𝓂,ʕ,:_,n,‥,𝓂,n,i,y,.
 
 Psalms 27:8 in vtrad vtsef
-l,:,k.,a,<
-THIN SPACE
+l,:,k.,a,<,THIN SPACE
 START b 
 |
 STOP b 
@@ -6310,8 +6214,7 @@ SPACE
 Psalms 27:9 in vtrad vtsef
 α,_,l,-,τ,·,_,σ,:,τ,·,‥,(il),r
 SPACE
-f,·,a,n,∵,(qa),y,k.,a
-THIN SPACE
+f,·,a,n,∵,(qa),y,k.,a,THIN SPACE
 START b 
 |
 STOP b 
@@ -6419,8 +6322,7 @@ l,:,d,a,w,i,μ,d
 SPACE
 α,‥,≁,l,∵,<,y,k.,a
 SPACE
-y,:,h,o,w,a,(qa),h
-THIN SPACE
+y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -6537,8 +6439,7 @@ SPACE
 τ,·,_,x,:_,n,w,·,n,a,𝓂,y,.
 
 Psalms 28:7 in vtrad vtsef
-y,:,h,o,w,a,<,h
-THIN SPACE
+y,:,h,o,w,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -6577,8 +6478,7 @@ SPACE
 h,𝓂,w,·,α,.
 
 Psalms 28:9 in vtrad vtsef
-h,w,o,$,·sh,i,<,y,ʕ,a,h
-THIN SPACE
+h,w,o,$,·sh,i,<,y,ʕ,a,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -6723,8 +6623,7 @@ q,a,d,‥,𝓂,$,·sh,.
 Psalms 29:9 in vtrad vtsef
 q,<,w,o,l
 SPACE
-y,:,h,o,w,a,(qa),h
-THIN SPACE
+y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -6769,8 +6668,7 @@ l,:,ʕ,_,m,·,⅃,w,o
 SPACE
 y,i,τ,·,‥,⅄,n.
 SPACE
-y,:,h,o,w,a,(sh),h
-THIN SPACE
+y,:,h,o,w,a,(sh),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -6859,8 +6757,7 @@ q,oa,d,:,$,·sh,𝓂,w,o,.
 Psalms 30:6 in vtrad vtsef
 k,·,i,<,y
 SPACE
-r,∵,(qa),g,_,ʕ
-THIN SPACE
+r,∵,(qa),g,_,ʕ,THIN SPACE
 START b 
 |
 STOP b 
@@ -6900,6 +6797,9 @@ SPACE
 h,∵,ʕ,:∵,m,_,(ah),d,:,τ,·,a,h
 SPACE
 l,:,𝓂,h,_,r,:,r,i,(ol),y
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 ʕ,o,(me),z
 SPACE
 h,i,σ,:,τ,·,_,(me),r,:,τ,·,a
@@ -6929,6 +6829,9 @@ SPACE
 v,·,:,r,i,d,:,τ,·,i,(ah),y
 SPACE
 α,∵,(ol),l
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 $,·sh,a,(me),x,_,τ
 SPACE
 h,:_,y,w,o,d,:,k.,a,(me)
@@ -6968,8 +6871,7 @@ SPACE
 $,·si,i,m,:,x,a,𝓂,h,.
 
 Psalms 30:13 in vtrad vtsef
-l,:,m,_,<,ʕ,_,n.
-THIN SPACE
+l,:,m,_,<,ʕ,_,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -7018,8 +6920,7 @@ f,_,l,·,:,θ,‥,𝓂,n,i,y,.
 Psalms 31:3 in vtrad vtsef
 h,_,θ,·,‥,<,h
 SPACE
-α,‥,l,_,(qa),y
-THIN SPACE
+α,‥,l,_,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -7032,8 +6933,7 @@ h,_,ц,·,i,(ol),y,l,‥,(me),n,i,y
 SPACE
 h,:∵,y,‥,<,h
 SPACE
-l,i,(qa),y
-THIN SPACE
+l,i,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -7146,6 +7046,9 @@ SPACE
 k,·,i,<,y
 SPACE
 ц,_,(ol),r
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 l,i,(me),y
 SPACE
 ʕ,a,$,·sh,:,$,·sh,a,(ti),h
@@ -7188,8 +7091,7 @@ h,a,y,i,(yy),y,τ,i,y
 SPACE
 x,∵,r,:,f,·,a,μ,h
 SPACE
-w,:,l,i,(me),$,·sh,:,k,‥,n,_,(qa),y
-THIN SPACE
+w,:,l,i,(me),$,·sh,:,k,‥,n,_,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -7224,8 +7126,7 @@ SPACE
 Psalms 31:14 in vtrad vtsef
 k,·,i,<,y
 SPACE
-$,·sh,a,m,_,(qa),ʕ,:,τ,·,i,y
-THIN SPACE
+$,·sh,a,m,_,(qa),ʕ,:,τ,·,i,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -7251,8 +7152,7 @@ SPACE
 z,a,m,a,𝓂,m,w,·,.
 
 Psalms 31:15 in vtrad vtsef
-w,_,α,:_,n,i,<,y
-THIN SPACE
+w,_,α,:_,n,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -7312,6 +7212,9 @@ Psalms 31:19 in vtrad vtsef
 τ,·,‥,(me),α,a,l,_,◆,m,:,n,a,h
 SPACE
 $,·si,i,f,:,τ,‥,(ol),y
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 $,·sh,a,(me),q,∵,r
 SPACE
 h,_,d,·,o,v,:,r,(ti),w,o,τ
@@ -7346,8 +7249,7 @@ SPACE
 α,a,d,a,𝓂,m.,.
 
 Psalms 31:21 in vtrad vtsef
-τ,·,_,σ,:,τ,·,i,y,r,‥,<,m.
-THIN SPACE
+τ,·,_,σ,:,τ,·,i,y,r,‥,<,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -7357,6 +7259,9 @@ SPACE
 f,·,a,n,∵,y,k.,a,~
 SPACE
 m,‥,r,u,k,:,σ,‥,(ol),y
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 α,i,(me),y,$,·sh
 SPACE
 τ,·,i,ц,:,f,·,:,n,‥,(me),m.
@@ -7385,8 +7290,7 @@ SPACE
 m,a,ц,𝓂,w,o,r,.
 
 Psalms 31:23 in vtrad vtsef
-w,_,α,:_,n,i,<,y
-THIN SPACE
+w,_,α,:_,n,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -7496,8 +7400,7 @@ SPACE
 k,·,oa,l,-,h,_,y,·,𝓂,w,o,m.,.
 
 Psalms 32:4 in vtrad vtsef
-k,·,i,<,y
-THIN SPACE
+k,·,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -7556,8 +7459,7 @@ Psalms 32:6 in vtrad vtsef
 SPACE
 y,i,τ,:,f,·,_,l,·,‥,(il),l
 SPACE
-k,·,oa,l,-,x,a,σ,i,(qa),y,d
-THIN SPACE
+k,·,oa,l,-,x,a,σ,i,(qa),y,d,THIN SPACE
 START b 
 |
 STOP b 
@@ -7583,8 +7485,7 @@ SPACE
 y,_,g,·,i,𝓂,y,ʕ,w,·,.
 
 Psalms 32:7 in vtrad vtsef
-α,_,τ,·,a,<,h
-THIN SPACE
+α,_,τ,·,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -7606,8 +7507,7 @@ SPACE
 σ,∵,𝓂,l,a,h,.
 
 Psalms 32:8 in vtrad vtsef
-α,_,$,·si,:,k,·,i,𝓂,y,l,:,k.,a,(qa)
-THIN SPACE
+α,_,$,·si,:,k,·,i,𝓂,y,l,:,k.,a,(qa),THIN SPACE
 START b 
 |
 STOP b 
@@ -7625,8 +7525,7 @@ SPACE
 ʕ,‥,y,n,i,𝓂,y,.
 
 Psalms 32:9 in vtrad vtsef
-α,_,l,-,τ,·,i,h,:,y,<,w,·
-THIN SPACE
+α,_,l,-,τ,·,i,h,:,y,<,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -7844,8 +7743,7 @@ SPACE
 SPACE
 α,:∵,l,o,h,a,⅄,y,w
 SPACE
-h,a,ʕ,a,(sh),m.
-THIN SPACE
+h,a,ʕ,a,(sh),m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -8296,8 +8194,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Psalms 35:1 in vtrad vtsef
-l,:,d,a,w,i,(qa),d
-THIN SPACE
+l,:,d,a,w,i,(qa),d,THIN SPACE
 START b 
 |
 STOP b 
@@ -8432,8 +8329,10 @@ v,·,i,y,$,·sh,w,·,ʕ,a,τ,𝓂,w,o,.
 
 Psalms 35:10 in vtrad vtsef
 k,·,oa,(me),l
-ʕ,_,ц,:,m,w,o,τ,_,(qa),y
-THIN SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
+ʕ,_,ц,:,m,w,o,τ,_,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -8487,8 +8386,7 @@ SPACE
 l,:,n,_,f,:,$,·sh,i,𝓂,y,.
 
 Psalms 35:13 in vtrad vtsef
-w,_,α,:_,n,i,<,y
-THIN SPACE
+w,_,α,:_,n,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -8629,13 +8527,11 @@ f,·,i,(ol),y,h,∵,(me),m.
 SPACE
 α,a,(de),m,:,r,w,·
 SPACE
-h,∵,α,a,⅃,x
-THIN SPACE
+h,∵,α,a,⅃,x,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-h,∵,α,a,⅄,x
+THIN SPACE,h,∵,α,a,⅄,x
 SPACE
 r,a,𝓂,α,:_,τ,a,(me),h
 SPACE
@@ -8694,8 +8590,7 @@ v,·,i,𝓂,l,·,_,ʕ,:_,n,𝓂,w,·,h,w,·,.
 Psalms 35:26 in vtrad vtsef
 y,‥,≁,v,o,<,$,·sh,w,·
 SPACE
-w,:,y,_,x,:,f,·,:,r,(qa),w,·
-THIN SPACE
+w,:,y,_,x,:,f,·,:,r,(qa),w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -8754,13 +8649,11 @@ STOP span class=mam-spi-pe
 START br 
 
 Psalms 36:1 in vtrad vtsef
-l,_,m,:,n,_,ц,·,‥,(il),x,_
-THIN SPACE
+l,_,m,:,n,_,ц,·,‥,(il),x,_,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,:,ʕ,∵,v,∵,d,-,y,:,h,o,w,a,(il),h
+THIN SPACE,l,:,ʕ,∵,v,∵,d,-,y,:,h,o,w,a,(il),h
 SPACE
 l,:,d,a,w,i,𝓂,d,.
 
@@ -8808,8 +8701,7 @@ SPACE
 l,:,h,‥,y,θ,i,𝓂,y,v,.
 
 Psalms 36:5 in vtrad vtsef
-α,a,<,w,∵,n.
-THIN SPACE
+α,a,<,w,∵,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -8842,8 +8734,7 @@ SPACE
 ʕ,_,d,-,$,·sh,:,x,a,q,i,𝓂,y,m.,.
 
 Psalms 36:7 in vtrad vtsef
-ц,i,d,:,q,a,τ,:,k.,a,(qa)
-THIN SPACE
+ц,i,d,:,q,a,τ,:,k.,a,(qa),THIN SPACE
 START b 
 |
 STOP b 
@@ -8948,8 +8839,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Psalms 37:1 in vtrad vtsef
-l,:,d,a,w,i,(qa),d
-THIN SPACE
+l,:,d,a,w,i,(qa),d,THIN SPACE
 START b 
 |
 STOP b 
@@ -9030,8 +8920,7 @@ SPACE
 k,·,_,𝓂,ц,·,oa,h,:a,r,a,𝓂,y,i,m.,.
 
 Psalms 37:7 in vtrad vtsef
-d,·,<,w,o,m.
-THIN SPACE
+d,·,<,w,o,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -9131,8 +9020,7 @@ SPACE
 y,w,o,m,𝓂,w,o,.
 
 Psalms 37:14 in vtrad vtsef
-x,∵,<,r,∵,v
-THIN SPACE
+x,∵,<,r,∵,v,THIN SPACE
 START b 
 |
 STOP b 
@@ -9223,8 +9111,7 @@ y,i,$,·si,:,v,·,a,𝓂,ʕ,w,·,.
 Psalms 37:20 in vtrad vtsef
 k,·,i,<,y
 SPACE
-r,:,$,·sh,a,ʕ,i,(qa),y,m.
-THIN SPACE
+r,:,$,·sh,a,ʕ,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -9296,8 +9183,7 @@ SPACE
 y,a,d,𝓂,w,o,.
 
 Psalms 37:25 in vtrad vtsef
-n,_,<,ʕ,_,r
-THIN SPACE
+n,_,<,ʕ,_,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -9341,8 +9227,7 @@ l,:,ʕ,w,o,l,a,𝓂,m.,.
 Psalms 37:28 in vtrad vtsef
 k,·,i,<,y
 SPACE
-y,:,h,o,w,a,(qa),h
-THIN SPACE
+y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -9429,8 +9314,7 @@ v,·,:,h,i,$,·sh,·,a,f,:,θ,𝓂,w,o,.
 Psalms 37:34 in vtrad vtsef
 q,_,w,·,‥,<,h
 SPACE
-α,∵,l,-,y,:,h,o,w,a,(qa),h
-THIN SPACE
+α,∵,l,-,y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -9684,8 +9568,7 @@ SPACE
 α,i,τ,·,i,𝓂,y,.
 
 Psalms 38:12 in vtrad vtsef
-α,o,𝓂,h,:_,v,_,(qa),y
-THIN SPACE
+α,o,𝓂,h,:_,v,_,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -9705,8 +9588,7 @@ SPACE
 ʕ,a,m,a,𝓂,d,w,·,.
 
 Psalms 38:13 in vtrad vtsef
-w,_,y,:,n,_,q,:,$,·sh,<,w,·
-THIN SPACE
+w,_,y,:,n,_,q,:,$,·sh,<,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -9925,8 +9807,7 @@ SPACE
 n,∵,ʕ,:,k,·,a,𝓂,r,.
 
 Psalms 39:4 in vtrad vtsef
-x,_,m.,-,l,i,v,·,i,(qa),y
-THIN SPACE
+x,_,m.,-,l,i,v,·,i,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -9944,8 +9825,7 @@ v,·,i,l,:,$,·sh,w,o,n,i,𝓂,y,.
 Psalms 39:5 in vtrad vtsef
 h,w,o,d,i,≁,y,ʕ,‥,<,n,i,y
 SPACE
-y,:,h,o,w,a,(qa),h
-THIN SPACE
+y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -9967,8 +9847,7 @@ SPACE
 Psalms 39:6 in vtrad vtsef
 h,i,n,·,‥,<,h
 SPACE
-θ,:,f,a,x,(qa),w,o,τ
-THIN SPACE
+θ,:,f,a,x,(qa),w,o,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -9994,8 +9873,7 @@ SPACE
 σ,∵,𝓂,l,a,h,.
 
 Psalms 39:7 in vtrad vtsef
-α,_,k.,:,-,v,·,:,ц,∵,<,l,∵,m.
-THIN SPACE
+α,_,k.,:,-,v,·,:,ц,∵,<,l,∵,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -10067,8 +9945,7 @@ k,a,l,i,𝓂,y,τ,i,y,.
 Psalms 39:12 in vtrad vtsef
 v,·,:,𝓂,τ,w,o,k,a,≁,x,<,w,o,τ
 SPACE
-ʕ,_,l,-,ʕ,a,w,hhfv,(qa),n.
-THIN SPACE
+ʕ,_,l,-,ʕ,a,w,hhfv,(qa),n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -10094,16 +9971,14 @@ SPACE
 Psalms 39:13 in vtrad vtsef
 $,·sh,i,(me),m,:,ʕ,a,𝓂,h
 SPACE
-τ,:,f,i,l,·,a,τ,i,(qa),y
-THIN SPACE
+τ,:,f,i,l,·,a,τ,i,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
 y,:,h,o,w,a,μ,h
 SPACE
-w,:,$,·sh,_,w,:,ʕ,a,τ,i,(qa),y
-THIN SPACE
+w,:,$,·sh,_,w,:,ʕ,a,τ,i,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -10167,8 +10042,7 @@ SPACE
 $,·sh,_,w,:,ʕ,a,τ,i,𝓂,y,.
 
 Psalms 40:3 in vtrad vtsef
-w,_,y,·,_,ʕ,:_,l,‥,<,n,i,y
-THIN SPACE
+w,_,y,·,_,ʕ,:_,l,‥,<,n,i,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -10194,8 +10068,7 @@ SPACE
 Psalms 40:4 in vtrad vtsef
 w,_,y,·,i,τ,·,‥,(il),n.
 SPACE
-v,·,:,f,i,(qa),y
-THIN SPACE
+v,·,:,f,i,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -10240,14 +10113,12 @@ k,a,z,a,𝓂,v,.
 Psalms 40:6 in vtrad vtsef
 r,_,v,·,<,w,o,τ
 SPACE
-ʕ,a,$,·si,i,(qa),y,τ,a
-THIN SPACE
+ʕ,a,$,·si,i,(qa),y,τ,a,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
-α,_,τ,·,a,<,h
-THIN SPACE
+α,_,τ,·,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -10262,8 +10133,7 @@ w,·,m,_,x,:,$,·sh,:,v,o,τ,∵,◆,y,k.,a
 SPACE
 α,‥,(ol),l,‥,(me),y,n,w,·
 SPACE
-α,‥,<,y,n.
-THIN SPACE
+α,‥,<,y,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -10283,8 +10153,7 @@ m,i,σ,·,_,f,·,‥,𝓂,r,.
 Psalms 40:7 in vtrad vtsef
 z,∵,<,v,_,x
 SPACE
-w,·,m,i,n,:,x,a,(qa),h
-THIN SPACE
+w,·,m,i,n,:,x,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -10334,8 +10203,7 @@ m,‥,ʕ,a,𝓂,y,.
 Psalms 40:10 in vtrad vtsef
 v,·,i,$,·si,·,_,<,r,:,τ,·,i,y
 SPACE
-ц,∵,(qa),d,∵,q
-THIN SPACE
+ц,∵,(qa),d,∵,q,THIN SPACE
 START b 
 |
 STOP b 
@@ -10361,8 +10229,7 @@ y,a,d,a,𝓂,ʕ,:,τ,·,a,.
 Psalms 40:11 in vtrad vtsef
 ц,i,d,:,q,a,τ,:,k.,a,(il)
 SPACE
-l,o,𝓂,α,-,k,i,σ,·,i,(qa),y,τ,i,y
-THIN SPACE
+l,o,𝓂,α,-,k,i,σ,·,i,(qa),y,τ,i,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -10409,8 +10276,7 @@ y,i,ц,·,:,r,𝓂,w,·,n,i,y,.
 Psalms 40:13 in vtrad vtsef
 k,·,i,<,y
 SPACE
-α,a,f,:,f,𝓂,w,·,-,ʕ,a,l,_,(qa),y
-THIN SPACE
+α,a,f,:,f,𝓂,w,·,-,ʕ,a,l,_,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -10455,8 +10321,7 @@ x,𝓂,w,·,$,·sh,a,h,.
 Psalms 40:15 in vtrad vtsef
 y,‥,≁,v,o,<,$,·sh,w,·
 SPACE
-w,:,y,_,x,:,f,·,:,r,(qa),w,·
-THIN SPACE
+w,:,y,_,x,:,f,·,:,r,(qa),w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -10490,19 +10355,16 @@ h,a,α,o,m,:,r,i,(me),y,m.
 SPACE
 l,i,γ,◆,y
 SPACE
-h,∵,≁,α,a,(me),x
-THIN SPACE
+h,∵,≁,α,a,(me),x,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-h,∵,α,a,𝓂,x,.
+THIN SPACE,h,∵,α,a,𝓂,x,.
 
 Psalms 40:17 in vtrad vtsef
 y,a,≁,$,·si,i,<,y,$,·si,w,·
 SPACE
-w,:,y,i,$,·si,:,m,:,x,(qa),w,·
-THIN SPACE
+w,:,y,i,$,·si,:,m,:,x,(qa),w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -10524,8 +10386,7 @@ SPACE
 τ,·,:,$,·sh,w,·,ʕ,a,τ,∵,𝓂,k.,a,.
 
 Psalms 40:18 in vtrad vtsef
-w,_,α,:_,n,i,<,y
-THIN SPACE
+w,_,α,:_,n,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -10537,6 +10398,9 @@ SPACE
 α,:_,d,o,n,a,(ah),y
 SPACE
 y,_,x,:_,$,·sh,oa,(ol),v
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 l,i,(me),y
 SPACE
 ʕ,∵,z,:,r,a,τ,i,⅃,y
@@ -10577,8 +10441,7 @@ SPACE
 y,:,h,o,w,a,𝓂,h,.
 
 Psalms 41:3 in vtrad vtsef
-y,:,h,o,w,a,<,h
-THIN SPACE
+y,:,h,o,w,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -10655,8 +10518,7 @@ $,·sh,:,m,𝓂,w,o,.
 Psalms 41:7 in vtrad vtsef
 w,:,α,i,m.,-,v,·,a,<,α
 SPACE
-l,i,r,:,α,(qa),w,o,τ
-THIN SPACE
+l,i,r,:,α,(qa),w,o,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -10686,8 +10548,7 @@ y,i,(de),τ,:,l,_,x,:_,$,·sh,w,·
 SPACE
 k,·,oa,l,-,$,·si,o,n,:,α,a,⅄,y
 SPACE
-ʕ,a,l,_,(sh),y
-THIN SPACE
+ʕ,a,l,_,(sh),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -10716,8 +10577,7 @@ l,a,q,𝓂,w,·,m.,.
 Psalms 41:10 in vtrad vtsef
 g,·,_,m.,-,α,i,<,y,$,·sh
 SPACE
-$,·sh,:,l,w,o,m,i,(qa),y
-THIN SPACE
+$,·sh,:,l,w,o,m,i,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -10784,8 +10644,7 @@ l,:,ʕ,w,o,l,a,𝓂,m.,.
 Psalms 41:14 in vtrad vtsef
 v,·,a,≁,r,<,w,·,k.,:
 SPACE
-y,:,h,o,w,a,(qa),h
-THIN SPACE
+y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -10800,13 +10659,11 @@ w,:,ʕ,_,(me),d
 SPACE
 h,a,ʕ,w,o,l,a,◆,m.
 SPACE
-α,a,≁,m,‥,(me),n.
-THIN SPACE
+α,a,≁,m,‥,(me),n.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-w,:,α,a,m,‥,𝓂,n.,.
+THIN SPACE,w,:,α,a,m,‥,𝓂,n.,.
 
 Psalms 42:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,◆,x,_
@@ -10835,8 +10692,7 @@ SPACE
 Psalms 42:3 in vtrad vtsef
 ц,a,m,:,α,a,(il),h
 SPACE
-n,_,f,:,$,·sh,i,(qa),y
-THIN SPACE
+n,_,f,:,$,·sh,i,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -10881,16 +10737,14 @@ SPACE
 Psalms 42:5 in vtrad vtsef
 α,‥,<,l,·,∵,h
 SPACE
-α,∵,z,:,k,·,:,r,a,(qa),h
-THIN SPACE
+α,∵,z,:,k,·,:,r,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
 w,:,α,∵,$,·sh,:,f,·,:,k,a,(il),h
 SPACE
-ʕ,a,l,_,(qa),y
-THIN SPACE
+ʕ,a,l,_,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -10899,8 +10753,7 @@ n,_,f,:,$,·sh,i,◆,y
 SPACE
 k,·,i,<,y
 SPACE
-α,∵,ʕ,:∵,v,o,(qa),r
-THIN SPACE
+α,∵,ʕ,:∵,v,o,(qa),r,THIN SPACE
 START b 
 |
 STOP b 
@@ -10922,8 +10775,7 @@ SPACE
 x,w,o,g,‥,𝓂,g,.
 
 Psalms 42:6 in vtrad vtsef
-m,_,h,-,τ,·,i,$,·sh,:,τ,·,(il),w,o,x,:_,x,i,(qa),y
-THIN SPACE
+m,_,h,-,τ,·,i,$,·sh,:,τ,·,(il),w,o,x,:_,x,i,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -10987,16 +10839,14 @@ SPACE
 ʕ,a,v,a,𝓂,r,w,·,.
 
 Psalms 42:9 in vtrad vtsef
-y,w,o,m,a,<,m.
-THIN SPACE
+y,w,o,m,a,<,m.,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
 y,:,ц,_,w,·,∵,(il),h
 SPACE
-y,:,h,o,w,a,(qa),h
-THIN SPACE
+y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -11016,8 +10866,7 @@ SPACE
 x,_,y,·,a,𝓂,y,.
 
 Psalms 42:10 in vtrad vtsef
-α,w,o,m,:,r,a,<,h
-THIN SPACE
+α,w,o,m,:,r,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -11039,8 +10888,7 @@ SPACE
 α,w,o,y,‥,𝓂,v,.
 
 Psalms 42:11 in vtrad vtsef
-v,·,:,r,∵,<,ц,_,x
-THIN SPACE
+v,·,:,r,∵,<,ц,_,x,THIN SPACE
 START b 
 |
 STOP b 
@@ -11062,8 +10910,7 @@ SPACE
 α,:∵,l,o,h,∵,𝓂,y,k.,a,.
 
 Psalms 42:12 in vtrad vtsef
-m,_,h,-,τ,·,i,$,·sh,:,τ,·,(il),w,o,x,:_,x,i,(qa),y
-THIN SPACE
+m,_,h,-,τ,·,i,$,·sh,:,τ,·,(il),w,o,x,:_,x,i,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -11096,8 +10943,7 @@ START br
 Psalms 43:1 in vtrad vtsef
 $,·sh,oa,f,:,θ,‥,<,n,i,y
 SPACE
-α,:∵,l,o,h,i,(qa),y,m.
-THIN SPACE
+α,:∵,l,o,h,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -11119,8 +10965,7 @@ SPACE
 τ,:,f,_,l,·,:,θ,‥,𝓂,n,i,y,.
 
 Psalms 43:2 in vtrad vtsef
-k,·,i,𝓂,y,-,α,_,τ,·,a,<,h
-THIN SPACE
+k,·,i,𝓂,y,-,α,_,τ,·,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -11157,8 +11002,7 @@ SPACE
 w,:,α,∵,l,-,m,i,$,·sh,:,k,·,:,n,w,o,τ,∵,𝓂,y,k.,a,.
 
 Psalms 43:4 in vtrad vtsef
-w,:,α,a,v,<,w,o,α,a,h
-THIN SPACE
+w,:,α,a,v,<,w,o,α,a,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -11182,8 +11026,7 @@ SPACE
 α,:∵,l,o,h,a,𝓂,y,.
 
 Psalms 43:5 in vtrad vtsef
-m,_,h,-,τ,·,i,$,·sh,:,τ,·,(il),w,o,x,:_,x,i,(qa),y
-THIN SPACE
+m,_,h,-,τ,·,i,$,·sh,:,τ,·,(il),w,o,x,:_,x,i,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -11214,19 +11057,16 @@ STOP span class=mam-spi-pe
 START br 
 
 Psalms 44:1 in vtrad vtsef
-l,_,m,:,n,_,ц,·,‥,(il),x,_
-THIN SPACE
+l,_,m,:,n,_,ц,·,‥,(il),x,_,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,i,v,:,n,‥,y,-,q,o,(il),r,_,x
+THIN SPACE,l,i,v,:,n,‥,y,-,q,o,(il),r,_,x
 SPACE
 m,_,$,·si,:,k,·,i,𝓂,y,l,.
 
 Psalms 44:2 in vtrad vtsef
-α,:∵,l,o,h,i,<,y,m.
-THIN SPACE
+α,:∵,l,o,h,i,<,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -11250,8 +11090,7 @@ SPACE
 q,∵,𝓂,d,∵,m.,.
 
 Psalms 44:3 in vtrad vtsef
-α,_,τ,·,a,<,h
-THIN SPACE
+α,_,τ,·,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -11358,8 +11197,7 @@ h,i,l,·,_,⅃,l,:,n,w,·
 SPACE
 k,oa,l,-,h,_,y,·,⅄,w,o,m.
 SPACE
-w,:,$,·sh,i,m,:,k.,a,(sh)
-THIN SPACE
+w,:,$,·sh,i,m,:,k.,a,(sh),THIN SPACE
 START b 
 |
 STOP b 
@@ -11549,21 +11387,18 @@ SPACE
 θ,i,v,:,x,a,𝓂,h,.
 
 Psalms 44:24 in vtrad vtsef
-ʕ,<,w,·,r,a,h
-THIN SPACE
+ʕ,<,w,·,r,a,h,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
 l,a,(ti),m,·,a,h
 SPACE
-τ,i,y,$,·sh,_,(me),n.
-THIN SPACE
+τ,i,y,$,·sh,_,(me),n.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,:_,d,o,n,a,⅄,y
+THIN SPACE,α,:_,d,o,n,a,⅄,y
 SPACE
 h,a,γ,q,i,◆,y,ц,a,h
 SPACE
@@ -11631,8 +11466,7 @@ y,:,d,i,y,d,o,𝓂,τ,.
 Psalms 45:2 in vtrad vtsef
 r,a,≁,x,_,<,$,·sh
 SPACE
-l,i,v,·,i,(qa),y
-THIN SPACE
+l,i,v,·,i,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -11651,8 +11485,7 @@ l,:,m,∵,⅄,l,∵,k.,:
 SPACE
 l,:,γ,$,·sh,w,o,n,i,◆,y
 SPACE
-ʕ,‥,<,θ
-THIN SPACE
+ʕ,‥,<,θ,THIN SPACE
 START b 
 |
 STOP b 
@@ -11694,8 +11527,7 @@ SPACE
 w,_,h,:_,d,a,r,∵,𝓂,k.,a,.
 
 Psalms 45:5 in vtrad vtsef
-w,_,h,:_,d,a,(il),r,:,k.,a,(qa)
-THIN SPACE
+w,_,h,:_,d,a,(il),r,:,k.,a,(qa),THIN SPACE
 START b 
 |
 STOP b 
@@ -11754,10 +11586,12 @@ SPACE
 ц,·,∵,d,∵,q,~
 SPACE
 w,_,τ,·,i,$,·si,:,n,a,(ol),α
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 r,∵,(me),$,·sh,_,ʕ
 SPACE
-ʕ,_,l,-,k,·,‥,<,n.
-THIN SPACE
+ʕ,_,l,-,k,·,‥,<,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -11837,8 +11671,7 @@ SPACE
 w,:,h,i,$,·sh,:,τ,·,_,𝓂,x,:_,w,i,y,-,l,𝓂,w,o,.
 
 Psalms 45:13 in vtrad vtsef
-w,·,v,_,𝓂,τ,-,ц,o,(qa),r
-THIN SPACE
+w,·,v,_,𝓂,τ,-,ц,o,(qa),r,THIN SPACE
 START b 
 |
 STOP b 
@@ -12129,13 +11962,11 @@ STOP span class=mam-spi-pe
 START br 
 
 Psalms 47:1 in vtrad vtsef
-l,_,m,:,n,_,ц,·,‥,(il),x,_
-THIN SPACE
+l,_,m,:,n,_,ц,·,‥,(il),x,_,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,i,v,:,n,‥,y,-,q,o,(il),r,_,x
+THIN SPACE,l,i,v,:,n,‥,y,-,q,o,(il),r,_,x
 SPACE
 m,i,z,:,m,𝓂,w,o,r,.
 
@@ -12184,6 +12015,9 @@ SPACE
 α,∵,τ,-,n,_,x,:_,l,a,τ,‥,⅄,n,w,·
 SPACE
 α,∵,(me),τ
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 g,·,:,α,(qa),w,o,n.
 SPACE
 y,_,ʕ,:_,q,o,(ti),v
@@ -12240,8 +12074,7 @@ SPACE
 SPACE
 α,:∵,γ,l,o,h,i,◆,y,m.
 SPACE
-y,a,$,·sh,_,<,v
-THIN SPACE
+y,a,$,·sh,_,<,v,THIN SPACE
 START b 
 |
 STOP b 
@@ -12253,8 +12086,7 @@ q,oa,d,:,$,·sh,𝓂,w,o,.
 Psalms 47:10 in vtrad vtsef
 n,:,d,i,≁,y,v,‥,<,y
 SPACE
-ʕ,_,m,·,i,(qa),y,m.
-THIN SPACE
+ʕ,_,m,·,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -12383,8 +12215,7 @@ SPACE
 Psalms 48:9 in vtrad vtsef
 k,·,_,α,:_,$,·sh,∵,<,r
 SPACE
-$,·sh,a,m,_,(qa),ʕ,:,n,w,·
-THIN SPACE
+$,·sh,a,m,_,(qa),ʕ,:,n,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -12438,8 +12269,7 @@ SPACE
 y,:,m,i,y,n,∵,𝓂,k.,a,.
 
 Psalms 48:12 in vtrad vtsef
-y,i,$,·si,:,m,_,<,x
-THIN SPACE
+y,i,$,·si,:,m,_,<,x,THIN SPACE
 START b 
 |
 STOP b 
@@ -12470,8 +12300,7 @@ m,i,g,:,d,·,a,l,∵,𝓂,y,h,a,.
 Psalms 48:14 in vtrad vtsef
 $,·sh,i,<,y,τ,w,·
 SPACE
-l,i,v,·,:,k,∵,(qa),m.
-THIN SPACE
+l,i,v,·,:,k,∵,(qa),m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -12493,8 +12322,7 @@ SPACE
 Psalms 48:15 in vtrad vtsef
 k,·,i,<,y
 SPACE
-z,∵,(qa),h
-THIN SPACE
+z,∵,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -12519,13 +12347,11 @@ STOP span class=mam-spi-pe
 START br 
 
 Psalms 49:1 in vtrad vtsef
-l,_,m,:,n,_,ц,·,‥,(il),x,_
-THIN SPACE
+l,_,m,:,n,_,ц,·,‥,(il),x,_,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,i,v,:,n,‥,y,-,q,o,(il),r,_,x
+THIN SPACE,l,i,v,:,n,‥,y,-,q,o,(il),r,_,x
 SPACE
 m,i,z,:,m,𝓂,w,o,r,.
 
@@ -12645,8 +12471,7 @@ h,_,$,·sh,·,a,𝓂,x,_,τ,.
 Psalms 49:11 in vtrad vtsef
 k,·,i,<,y
 SPACE
-y,i,r,:,α,∵,(qa),h
-THIN SPACE
+y,i,r,:,α,∵,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -12672,8 +12497,7 @@ x,‥,y,l,a,𝓂,m.,.
 Psalms 49:12 in vtrad vtsef
 q,i,r,:,v,·,a,<,m.
 SPACE
-v,·,a,τ,·,‥,(qa),y,m,w,o
-THIN SPACE
+v,·,a,τ,·,‥,(qa),y,m,w,o,THIN SPACE
 START b 
 |
 STOP b 
@@ -12716,8 +12540,7 @@ k,·,‥,⅃,σ,∵,l
 SPACE
 l,a,⅄,m,w,o
 SPACE
-w,:,α,_,x,:_,r,‥,y,h,∵,(sh),m.
-THIN SPACE
+w,:,α,_,x,:_,r,‥,y,h,∵,(sh),m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -12729,8 +12552,7 @@ SPACE
 σ,∵,𝓂,l,a,h,.
 
 Psalms 49:15 in vtrad vtsef
-k,·,_,ц,·,o,<,α,n.
-THIN SPACE
+k,·,_,ц,·,o,<,α,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -12747,8 +12569,7 @@ w,_,y,·,i,r,:,d,·,≁,w,·
 SPACE
 v,a,<,m.
 SPACE
-y,:,$,·sh,a,r,i,(qa),y,m.
-THIN SPACE
+y,:,$,·sh,a,r,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -12869,8 +12690,7 @@ m,i,z,:,m,◆,w,o,r
 SPACE
 l,:,α,a,(ol),σ,a,(me),f.
 SPACE
-α,‥,<,l
-THIN SPACE
+α,‥,<,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -12944,8 +12764,7 @@ $,·sh,a,m,_,⅃,y,i,m.
 SPACE
 ц,i,d,:,q,⅄,w,o
 SPACE
-k,·,i,𝓂,y,-,α,:∵,l,o,h,i,(sh),y,m.
-THIN SPACE
+k,·,i,𝓂,y,-,α,:∵,l,o,h,i,(sh),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -12959,8 +12778,7 @@ SPACE
 Psalms 50:7 in vtrad vtsef
 $,·sh,i,m,:,ʕ,a,<,h
 SPACE
-ʕ,_,m,·,i,(qa),y
-THIN SPACE
+ʕ,_,m,·,i,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -13076,8 +12894,7 @@ SPACE
 w,·,𝓂,τ,:,k,_,v,·,:,d,‥,𝓂,n,i,y,.
 
 Psalms 50:16 in vtrad vtsef
-w,:,l,a,<,r,a,$,·sh,a,(qa),ʕ
-THIN SPACE
+w,:,l,a,<,r,a,$,·sh,a,(qa),ʕ,THIN SPACE
 START b 
 |
 STOP b 
@@ -13153,8 +12970,7 @@ SPACE
 Psalms 50:21 in vtrad vtsef
 α,‥,<,l,·,∵,h
 SPACE
-ʕ,a,$,·si,i,(qa),y,τ,a
-THIN SPACE
+ʕ,a,$,·si,i,(qa),y,τ,a,THIN SPACE
 START b 
 |
 STOP b 
@@ -13278,8 +13094,7 @@ SPACE
 Psalms 51:6 in vtrad vtsef
 l,:,k.,a,<
 SPACE
-l,:,v,_,d,·,:,k.,a,(qa)
-THIN SPACE
+l,:,v,_,d,·,:,k.,a,(qa),THIN SPACE
 START b 
 |
 STOP b 
@@ -13424,8 +13239,7 @@ y,a,$,·sh,𝓂,w,·,v,w,·,.
 Psalms 51:16 in vtrad vtsef
 h,_,ц,·,i,≁,y,l,‥,<,n,i,y
 SPACE
-m,i,d,·,a,m,i,(qa),y,m.
-THIN SPACE
+m,i,d,·,a,m,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -13456,8 +13270,7 @@ SPACE
 τ,·,:,h,i,l,·,a,τ,∵,𝓂,k.,a,.
 
 Psalms 51:18 in vtrad vtsef
-k,·,i,<,y
-THIN SPACE
+k,·,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -13538,8 +13351,7 @@ SPACE
 l,:,d,a,w,i,𝓂,d,.
 
 Psalms 52:2 in vtrad vtsef
-v,·,:,v,<,w,o,α
-THIN SPACE
+v,·,:,v,<,w,o,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -13599,8 +13411,7 @@ r,·,a,⅃,ʕ
 SPACE
 m,i,θ,·,⅄,w,o,v
 SPACE
-$,·sh,∵,(sh),q,∵,r
-THIN SPACE
+$,·sh,∵,(sh),q,∵,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -13676,8 +13487,7 @@ SPACE
 v,·,:,h,_,w,·,a,τ,𝓂,w,o,.
 
 Psalms 52:10 in vtrad vtsef
-w,_,α,:_,n,i,<,y
-THIN SPACE
+w,_,α,:_,n,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -13812,8 +13622,7 @@ SPACE
 q,a,r,a,𝓂,α,w,·,.
 
 Psalms 53:6 in vtrad vtsef
-$,·sh,a,<,m.
-THIN SPACE
+$,·sh,a,<,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -13923,8 +13732,7 @@ l,:,α,i,m,:,r,‥,y,-,f,i,𝓂,y,.
 Psalms 54:5 in vtrad vtsef
 k,·,i,<,y
 SPACE
-z,a,r,i,(qa),y,m.
-THIN SPACE
+z,a,r,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -14300,14 +14108,12 @@ SPACE
 ʕ,i,m,·,a,d,i,𝓂,y,.
 
 Psalms 55:20 in vtrad vtsef
-y,i,$,·sh,:,m,_,<,ʕ
-THIN SPACE
+y,i,$,·sh,:,m,_,<,ʕ,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
-α,‥,(qa),l
-THIN SPACE
+α,‥,(qa),l,THIN SPACE
 START b 
 |
 STOP b 
@@ -14346,8 +14152,7 @@ SPACE
 v,·,:,r,i,y,τ,𝓂,w,o,.
 
 Psalms 55:22 in vtrad vtsef
-x,a,l,:,q,<,w,·
-THIN SPACE
+x,a,l,:,q,<,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -14371,8 +14176,7 @@ f,:,τ,i,x,𝓂,w,o,τ,.
 Psalms 55:23 in vtrad vtsef
 h,_,$,·sh,:,l,‥,<,k.,:
 SPACE
-ʕ,_,l,-,y,:,h,o,w,a,(qa),h
-THIN SPACE
+ʕ,_,l,-,y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -14394,19 +14198,16 @@ l,_,ц,·,_,d,·,i,𝓂,y,q,.
 Psalms 55:24 in vtrad vtsef
 w,:,α,_,τ,·,a,<,h
 SPACE
-α,:∵,l,o,h,i,(qa),y,m.
-THIN SPACE
+α,:∵,l,o,h,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
-τ,·,w,o,r,i,d,‥,(il),m.
-THIN SPACE
+τ,·,w,o,r,i,d,‥,(il),m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,i,v,:,α,‥,(il),r
+THIN SPACE,l,i,v,:,α,‥,(il),r
 SPACE
 $,·sh,_,◆,x,_,τ
 SPACE
@@ -14430,8 +14231,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Psalms 56:1 in vtrad vtsef
-l,_,m,:,n,_,ц,·,‥,<,x,_
-THIN SPACE
+l,_,m,:,n,_,ц,·,‥,<,x,_,THIN SPACE
 START b 
 |
 STOP b 
@@ -14530,8 +14330,7 @@ SPACE
 l,a,r,a,𝓂,ʕ,.
 
 Psalms 56:7 in vtrad vtsef
-y,a,g,<,w,·,r,w,·
-THIN SPACE
+y,a,g,<,w,·,r,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -14565,8 +14364,7 @@ f,·,_,l,·,∵,θ,-,l,a,⅄,m,w,o
 SPACE
 v,·,:,γ,α,_,◆,f.
 SPACE
-ʕ,_,m,·,i,<,y,m.
-THIN SPACE
+ʕ,_,m,·,i,<,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -14700,8 +14498,7 @@ v,·,_,m,·,:,ʕ,a,r,a,𝓂,h,.
 Psalms 57:2 in vtrad vtsef
 x,oa,n,·,‥,<,n,i,y
 SPACE
-α,:∵,l,o,h,i,(qa),y,m.
-THIN SPACE
+α,:∵,l,o,h,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -14742,8 +14539,7 @@ SPACE
 Psalms 57:4 in vtrad vtsef
 y,i,$,·sh,:,l,_,<,x
 SPACE
-m,i,$,·sh,·,a,m,_,(qa),y,i,m.
-THIN SPACE
+m,i,$,·sh,·,a,m,_,(qa),y,i,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -14765,8 +14561,7 @@ SPACE
 w,_,α,:_,m,i,τ,·,𝓂,w,o,.
 
 Psalms 57:5 in vtrad vtsef
-n,_,f,:,$,·sh,i,<,y
-THIN SPACE
+n,_,f,:,$,·sh,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -14807,8 +14602,7 @@ SPACE
 k,·,:,v,w,o,d,∵,𝓂,k.,a,.
 
 Psalms 57:7 in vtrad vtsef
-r,∵,<,$,·sh,∵,τ
-THIN SPACE
+r,∵,<,$,·sh,∵,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -14866,13 +14660,11 @@ $,·sh,·,a,𝓂,x,_,r,.
 Psalms 57:10 in vtrad vtsef
 α,w,o,d,:,k.,a,(ti)
 SPACE
-v,a,ʕ,_,m,·,i,(me),y,m.
-THIN SPACE
+v,a,ʕ,_,m,·,i,(me),y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,:_,d,o,n,a,⅄,y
+THIN SPACE,α,:_,d,o,n,a,⅄,y
 SPACE
 α,:_,γ,z,_,m,·,∵,r,:,k.,a,◆
 SPACE
@@ -15004,13 +14796,11 @@ m,_,l,:,τ,·,:,ʕ,(me),w,o,τ
 SPACE
 k,·,:,γ,f,i,y,r,i,◆,y,m.
 SPACE
-n,:,τ,o,⅃,ц.
-THIN SPACE
+n,:,τ,o,⅃,ц.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,h,o,w,a,𝓂,h,.
+THIN SPACE,y,:,h,o,w,a,𝓂,h,.
 
 Psalms 58:8 in vtrad vtsef
 y,i,m,·,a,α,:_,σ,⅃,w,·
@@ -15047,8 +14837,7 @@ SPACE
 $,·sh,a,𝓂,m,∵,$,·sh,.
 
 Psalms 58:10 in vtrad vtsef
-v,·,:,θ,∵,<,r,∵,m.
-THIN SPACE
+v,·,:,θ,∵,<,r,∵,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -15126,13 +14915,11 @@ l,_,h,:_,m,i,y,τ,𝓂,w,o,.
 Psalms 59:2 in vtrad vtsef
 h,_,ц,·,i,y,l,‥,(ti),n,i,y
 SPACE
-m,‥,α,o,y,:,v,_,(me),y
-THIN SPACE
+m,‥,α,o,y,:,v,_,(me),y,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,:∵,l,o,h,a,⅄,y
+THIN SPACE,α,:∵,l,o,h,a,⅄,y
 SPACE
 m,i,𝓂,m,·,i,τ,:,q,w,o,m,:,m,_,(me),y
 SPACE
@@ -15188,13 +14975,11 @@ w,·,r,:,α,‥,𝓂,h,.
 Psalms 59:6 in vtrad vtsef
 w,:,α,_,τ,·,a,<,h
 SPACE
-y,:,h,o,w,a,𝓂,h,-,α,:∵,l,o,h,i,(me),y,m.
-THIN SPACE
+y,:,h,o,w,a,𝓂,h,-,α,:∵,l,o,h,i,(me),y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-ц,:,v,a,α,μ,w,o,τ
+THIN SPACE,ц,:,v,a,α,μ,w,o,τ
 SPACE
 α,:∵,l,o,≁,h,‥,<,y
 SPACE
@@ -15228,8 +15013,7 @@ SPACE
 ʕ,i,𝓂,y,r,.
 
 Psalms 59:8 in vtrad vtsef
-h,i,n,·,‥,<,h
-THIN SPACE
+h,i,n,·,‥,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -15290,8 +15074,7 @@ SPACE
 v,:,$,·sh,o,r,:,r,a,𝓂,y,.
 
 Psalms 59:12 in vtrad vtsef
-α,_,l,-,τ,·,_,h,_,r,:,g,‥,<,m.
-THIN SPACE
+α,_,l,-,τ,·,_,h,_,r,:,g,‥,<,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -15383,8 +15166,7 @@ SPACE
 w,_,y,·,a,l,i,𝓂,y,n,w,·,.
 
 Psalms 59:17 in vtrad vtsef
-w,_,α,:_,n,i,<,y
-THIN SPACE
+w,_,α,:_,n,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -15445,13 +15227,15 @@ SPACE
 l,:,l,_,m,·,‥,𝓂,d,.
 
 Psalms 60:2 in vtrad vtsef
-v,·,:,h,_,ц,·,w,o,τ,(qa),w,o
-THIN SPACE
+v,·,:,h,_,ц,·,w,o,τ,(qa),w,o,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
 α,∵,(me),τ
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 α,:_,r,_,⅃,m.
 SPACE
 n,_,h,:_,r,_,y,i,m.,~
@@ -15553,8 +15337,7 @@ STOP span class=mam-kq
 .
 
 Psalms 60:8 in vtrad vtsef
-α,:∵,l,o,h,i,<,y,m.
-THIN SPACE
+α,:∵,l,o,h,i,<,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -15578,8 +15361,7 @@ SPACE
 Psalms 60:9 in vtrad vtsef
 l,i,<,y
 SPACE
-g,i,l,:,ʕ,a,(qa),d
-THIN SPACE
+g,i,l,:,ʕ,a,(qa),d,THIN SPACE
 START b 
 |
 STOP b 
@@ -15599,8 +15381,7 @@ SPACE
 m,:,x,o,𝓂,q,:,q,i,𝓂,y,.
 
 Psalms 60:10 in vtrad vtsef
-m,w,o,α,a,<,v
-THIN SPACE
+m,w,o,α,a,<,v,THIN SPACE
 START b 
 |
 STOP b 
@@ -15679,13 +15460,11 @@ STOP span class=mam-spi-pe
 START br 
 
 Psalms 61:1 in vtrad vtsef
-l,_,m,:,n,_,ц,·,‥,(il),x,_
-THIN SPACE
+l,_,m,:,n,_,ц,·,‥,(il),x,_,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-ʕ,_,𝓂,l,-,n,:,g,i,y,n,_,(il),τ
+THIN SPACE,ʕ,_,𝓂,l,-,n,:,g,i,y,n,_,(il),τ
 SPACE
 l,:,d,a,w,i,𝓂,d,.
 
@@ -15703,8 +15482,7 @@ SPACE
 Psalms 61:3 in vtrad vtsef
 m,i,q,:,ц,‥,<,h
 SPACE
-h,a,α,a,(qa),r,∵,ц.
-THIN SPACE
+h,a,α,a,(qa),r,∵,ц.,THIN SPACE
 START b 
 |
 STOP b 
@@ -15811,13 +15589,11 @@ l,:,𝓂,$,·sh,_,l,·,:,m,i,(me),y
 SPACE
 n,:,γ,d,a,r,_,◆,y
 SPACE
-y,⅃,w,o,m.
-THIN SPACE
+y,⅃,w,o,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,𝓂,w,o,m.,.
+THIN SPACE,y,𝓂,w,o,m.,.
 NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
@@ -15860,8 +15636,7 @@ SPACE
 r,_,v,·,a,𝓂,h,.
 
 Psalms 62:4 in vtrad vtsef
-ʕ,_,d,-,α,a,<,n,a,h
-THIN SPACE
+ʕ,_,d,-,α,a,<,n,a,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -15885,8 +15660,7 @@ h,_,d,·,:,x,w,·,y,a,𝓂,h,.
 Psalms 62:5 in vtrad vtsef
 α,_,<,k.,:
 SPACE
-m,i,$,·si,·,:,α,‥,τ,(qa),w,o
-THIN SPACE
+m,i,$,·si,·,:,α,‥,τ,(qa),w,o,THIN SPACE
 START b 
 |
 STOP b 
@@ -15951,8 +15725,7 @@ v,·,i,θ,:,x,≁,w,·
 SPACE
 v,<,w,o
 SPACE
-v,:,k,oa,l,-,ʕ,‥,(qa),τ
-THIN SPACE
+v,:,k,oa,l,-,ʕ,‥,(qa),τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -15970,8 +15743,7 @@ SPACE
 σ,∵,𝓂,l,a,h,.
 
 Psalms 62:10 in vtrad vtsef
-α,_,<,k.,:
-THIN SPACE
+α,_,<,k.,:,THIN SPACE
 START b 
 |
 STOP b 
@@ -15983,6 +15755,9 @@ SPACE
 k,·,a,z,a,(ah),v
 SPACE
 v,·,:,n,‥,(ol),y
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 α,i,(me),y,$,·sh
 SPACE
 v,·,:,m,o,α,z,:,n,_,(me),y,i,m.
@@ -16004,8 +15779,7 @@ w,·,v,:,g,a,z,‥,(ah),l
 SPACE
 α,_,l,-,τ,·,∵,(ol),h,:,v,·,a,(me),l,w,·
 SPACE
-x,_,<,y,i,l
-THIN SPACE
+x,_,<,y,i,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -16017,8 +15791,7 @@ SPACE
 l,‥,𝓂,v,.
 
 Psalms 62:12 in vtrad vtsef
-α,_,x,_,<,τ
-THIN SPACE
+α,_,x,_,<,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -16067,8 +15840,7 @@ SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
 Psalms 63:2 in vtrad vtsef
-α,:∵,l,o,h,i,<,y,m.
-THIN SPACE
+α,:∵,l,o,h,i,<,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -16081,8 +15853,7 @@ SPACE
 SPACE
 ц,a,m,:,α,a,(il),h
 SPACE
-l,:,k.,a,(qa)
-THIN SPACE
+l,:,k.,a,(qa),THIN SPACE
 START b 
 |
 STOP b 
@@ -16310,8 +16081,7 @@ SPACE
 y,i,y,r,a,𝓂,α,w,·,.
 
 Psalms 64:6 in vtrad vtsef
-y,:,x,_,z,·,:,q,w,·,-,l,a,(qa),m,w,o
-THIN SPACE
+y,:,x,_,z,·,:,q,w,·,-,l,a,(qa),m,w,o,THIN SPACE
 START b 
 |
 STOP b 
@@ -16463,8 +16233,7 @@ SPACE
 τ,:,k,_,f,·,:,r,‥,𝓂,m.,.
 
 Psalms 65:5 in vtrad vtsef
-α,_,$,·sh,:,r,‥,<,y
-THIN SPACE
+α,_,$,·sh,:,r,‥,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -16488,8 +16257,7 @@ SPACE
 h,‥,y,k,a,l,∵,𝓂,k.,a,.
 
 Psalms 65:6 in vtrad vtsef
-n,<,w,o,r,a,α,(qa),w,o,τ
-THIN SPACE
+n,<,w,o,r,a,α,(qa),w,o,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -16522,8 +16290,7 @@ SPACE
 v,·,i,g,:,v,w,·,r,a,𝓂,h,.
 
 Psalms 65:8 in vtrad vtsef
-m,_,$,·sh,:,v,·,i,<,y,x,_
-THIN SPACE
+m,_,$,·sh,:,v,·,i,<,y,x,_,THIN SPACE
 START b 
 |
 STOP b 
@@ -16541,8 +16308,7 @@ SPACE
 l,:,α,u,m,·,i,𝓂,y,m.,.
 
 Psalms 65:9 in vtrad vtsef
-w,_,y,·,i,<,y,r,:,α,(qa),w,·
-THIN SPACE
+w,_,y,·,i,<,y,r,:,α,(qa),w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -16634,8 +16400,7 @@ SPACE
 Psalms 65:14 in vtrad vtsef
 l,a,v,:,$,·sh,(il),w,·
 SPACE
-k,a,r,i,(qa),y,m.
-THIN SPACE
+k,a,r,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -16699,8 +16464,7 @@ SPACE
 α,o,y,:,v,∵,𝓂,y,k.,a,.
 
 Psalms 66:4 in vtrad vtsef
-k,·,oa,l,-,h,a,α,a,<,r,∵,ц.
-THIN SPACE
+k,·,oa,l,-,h,a,α,a,<,r,∵,ц.,THIN SPACE
 START b 
 |
 STOP b 
@@ -16737,8 +16501,7 @@ SPACE
 Psalms 66:6 in vtrad vtsef
 h,a,<,f,_,k.,:
 SPACE
-y,a,(qa),m.
-THIN SPACE
+y,a,(qa),m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -16758,8 +16521,7 @@ n,i,$,·si,:,m,:,x,a,h,-,v,·,𝓂,w,o,.
 Psalms 66:7 in vtrad vtsef
 m,o,≁,$,·sh,‥,<,l
 SPACE
-v,·,i,g,:,v,w,·,r,a,τ,(qa),w,o
-THIN SPACE
+v,·,i,g,:,v,w,·,r,a,τ,(qa),w,o,THIN SPACE
 START b 
 |
 STOP b 
@@ -16772,8 +16534,7 @@ v,·,_,g,·,w,o,y,i,⅃,m.
 SPACE
 τ,·,i,ц,:,f,·,∵,⅄,y,n,a,h
 SPACE
-h,_,σ,·,w,o,r,:,r,i,(sh),y,m.
-THIN SPACE
+h,_,σ,·,w,o,r,:,r,i,(sh),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -16796,13 +16557,11 @@ SPACE
 Psalms 66:8 in vtrad vtsef
 v,·,a,r,:,k,(ti),w,·
 SPACE
-ʕ,_,m,·,i,(me),y,m.
-THIN SPACE
+ʕ,_,m,·,i,(me),y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,:∵,l,o,h,‥,⅄,y,n,w,·
+THIN SPACE,α,:∵,l,o,h,‥,⅄,y,n,w,·
 SPACE
 w,:,γ,h,_,$,·sh,:,m,i,◆,y,ʕ,w,·
 SPACE
@@ -16934,13 +16693,11 @@ v,:,l,i,v,·,i,⅄,y
 SPACE
 l,o,(ti),α
 SPACE
-y,i,$,·sh,:,m,_,⅃,ʕ
-THIN SPACE
+y,i,$,·sh,:,m,_,⅃,ʕ,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,:_,d,o,n,a,𝓂,y,.
+THIN SPACE,α,:_,d,o,n,a,𝓂,y,.
 
 Psalms 66:19 in vtrad vtsef
 α,a,(de),k,‥,n.
@@ -17013,13 +16770,11 @@ y,:,$,·sh,w,·,ʕ,a,τ,∵,𝓂,k.,a,.
 Psalms 67:4 in vtrad vtsef
 y,w,o,d,(ti),w,·,k.,a
 SPACE
-ʕ,_,m,·,i,(me),y,m.
-THIN SPACE
+ʕ,_,m,·,i,(me),y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,:∵,l,o,h,i,⅄,y,m.
+THIN SPACE,α,:∵,l,o,h,i,⅄,y,m.
 SPACE
 y,γ,w,o,d,◆,w,·,k.,a
 SPACE
@@ -17040,8 +16795,7 @@ SPACE
 SPACE
 m,i,y,$,·sh,o,⅄,r
 SPACE
-w,·,l,:,α,u,m,·,i,(sh),y,m.
-THIN SPACE
+w,·,l,:,α,u,m,·,i,(sh),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -17055,13 +16809,11 @@ SPACE
 Psalms 67:6 in vtrad vtsef
 y,w,o,d,(ti),w,·,k.,a
 SPACE
-ʕ,_,m,·,i,(me),y,m.
-THIN SPACE
+ʕ,_,m,·,i,(me),y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,:∵,l,o,h,i,⅄,y,m.
+THIN SPACE,α,:∵,l,o,h,i,⅄,y,m.
 SPACE
 y,γ,w,o,d,◆,w,·,k.,a
 SPACE
@@ -17159,8 +16911,7 @@ SPACE
 v,:,$,·si,i,m,:,x,a,𝓂,h,.
 
 Psalms 68:5 in vtrad vtsef
-$,·sh,i,<,y,r,w,·
-THIN SPACE
+$,·sh,i,<,y,r,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -17201,16 +16952,14 @@ SPACE
 q,oa,d,:,$,·sh,𝓂,w,o,.
 
 Psalms 68:7 in vtrad vtsef
-α,:∵,l,o,h,i,<,y,m.
-THIN SPACE
+α,:∵,l,o,h,i,<,y,m.,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
 m,≁,w,o,$,·sh,i,<,y,v
 SPACE
-y,:,x,i,y,d,i,(qa),y,m.
-THIN SPACE
+y,:,x,i,y,d,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -17249,8 +16998,7 @@ SPACE
 Psalms 68:9 in vtrad vtsef
 α,∵,<,r,∵,ц.
 SPACE
-r,a,ʕ,a,(qa),$,·sh,a,h
-THIN SPACE
+r,a,ʕ,a,(qa),$,·sh,a,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -17377,8 +17125,7 @@ SPACE
 h,_,r,-,v,·,a,$,·sh,a,𝓂,n.,.
 
 Psalms 68:17 in vtrad vtsef
-l,a,<,m,·,a,h
-THIN SPACE
+l,a,<,m,·,a,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -17425,8 +17172,7 @@ v,·,_,q,·,o,𝓂,d,∵,$,·sh,.
 Psalms 68:19 in vtrad vtsef
 ʕ,a,≁,l,i,<,y,τ,a
 SPACE
-l,_,m,·,a,r,(qa),w,o,m.
-THIN SPACE
+l,_,m,·,a,r,(qa),w,o,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -17445,8 +17191,7 @@ w,:,α,_,(me),f.
 SPACE
 σ,γ,w,o,r,:,r,i,◆,y,m.
 SPACE
-l,i,$,·sh,:,k,·,o,<,n.
-THIN SPACE
+l,i,$,·sh,:,k,·,o,<,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -17460,8 +17205,7 @@ v,·,a,<,r,⅃,w,·,k.,:
 SPACE
 α,:_,d,o,n,a,y,~
 SPACE
-y,<,w,o,m.
-THIN SPACE
+y,<,w,o,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -17477,13 +17221,11 @@ SPACE
 σ,∵,𝓂,l,a,h,.
 
 Psalms 68:21 in vtrad vtsef
-h,a,<,α,‥,⅃,l
-THIN SPACE
+h,a,<,α,‥,⅃,l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,a,n,w,·,~
+THIN SPACE,l,a,n,w,·,~
 SPACE
 α,‥,<,l
 SPACE
@@ -17530,8 +17272,7 @@ SPACE
 y,a,𝓂,m.,.
 
 Psalms 68:24 in vtrad vtsef
-l,:,m,_,<,ʕ,_,n.
-THIN SPACE
+l,:,m,_,<,ʕ,_,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -17596,8 +17337,7 @@ y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 Psalms 68:28 in vtrad vtsef
 $,·sh,a,<,m.
 SPACE
-v,·,i,n,:,y,a,m,i,(qa),n.
-THIN SPACE
+v,·,i,n,:,y,a,m,i,(qa),n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -17659,8 +17399,7 @@ q,a,n,∵,μ,h
 SPACE
 ʕ,:_,d,_,<,τ
 SPACE
-α,_,v,·,i,y,r,i,(qa),y,m.
-THIN SPACE
+α,_,v,·,i,y,r,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -17758,8 +17497,7 @@ y,i,$,·si,:,r,a,α,‥,◆,l
 SPACE
 h,<,w,·,α
 SPACE
-n,o,τ,‥,(qa),n.
-THIN SPACE
+n,o,τ,‥,(qa),n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -17780,13 +17518,11 @@ STOP span class=mam-spi-pe
 START br 
 
 Psalms 69:1 in vtrad vtsef
-l,_,m,:,n,_,ц,·,‥,(il),x,_
-THIN SPACE
+l,_,m,:,n,_,ц,·,‥,(il),x,_,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-ʕ,_,𝓂,l,-,$,·sh,w,o,$,·sh,_,n,·,i,(il),y,m.
+THIN SPACE,ʕ,_,𝓂,l,-,$,·sh,w,o,$,·sh,_,n,·,i,(il),y,m.
 SPACE
 l,:,d,a,w,i,𝓂,d,.
 
@@ -17804,8 +17540,7 @@ SPACE
 ʕ,_,d,-,n,a,𝓂,f,∵,$,·sh,.
 
 Psalms 69:3 in vtrad vtsef
-θ,a,v,_,<,ʕ,:,τ,·,i,y
-THIN SPACE
+θ,a,v,_,<,ʕ,:,τ,·,i,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -17844,8 +17579,7 @@ SPACE
 l,‥,α,l,o,h,a,𝓂,y,.
 
 Psalms 69:5 in vtrad vtsef
-r,_,v,·,<,w,·
-THIN SPACE
+r,_,v,·,<,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -17892,8 +17626,7 @@ l,o,𝓂,α,-,n,i,k,:,x,a,𝓂,d,w,·,.
 Psalms 69:7 in vtrad vtsef
 α,_,l,-,y,‥,≁,v,o,<,$,·sh,w,·
 SPACE
-v,i,(qa),y
-THIN SPACE
+v,i,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -18001,8 +17734,7 @@ $,·sh,‥,k,a,𝓂,r,.
 Psalms 69:14 in vtrad vtsef
 w,_,α,:_,n,i,<,y
 SPACE
-τ,:,f,i,l,·,a,𝓂,τ,i,y,-,l,:,k.,a,(qa)
-THIN SPACE
+τ,:,f,i,l,·,a,𝓂,τ,i,y,-,l,:,k.,a,(qa),THIN SPACE
 START b 
 |
 STOP b 
@@ -18039,8 +17771,7 @@ SPACE
 m,a,𝓂,y,i,m.,.
 
 Psalms 69:16 in vtrad vtsef
-α,_,l,-,τ,·,i,$,·sh,:,θ,:,f,‥,<,n,i,y
-THIN SPACE
+α,_,l,-,τ,·,i,$,·sh,:,θ,:,f,‥,<,n,i,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -18118,8 +17849,7 @@ SPACE
 k,·,oa,l,-,ц,w,o,r,:,r,a,𝓂,y,.
 
 Psalms 69:21 in vtrad vtsef
-x,∵,r,:,f,·,a,<,h
-THIN SPACE
+x,∵,r,:,f,·,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -18317,8 +18047,7 @@ v,·,a,𝓂,m.,.
 Psalms 69:36 in vtrad vtsef
 k,·,i,<,y
 SPACE
-α,:∵,l,o,h,i,(qa),y,m.
-THIN SPACE
+α,:∵,l,o,h,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -18403,19 +18132,16 @@ v,·,oa,$,·sh,:,τ,·,a,⅄,m.
 SPACE
 h,a,γ,α,o,m,:,r,i,◆,y,m.
 SPACE
-h,∵,≁,α,a,(me),x
-THIN SPACE
+h,∵,≁,α,a,(me),x,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-h,∵,α,a,𝓂,x,.
+THIN SPACE,h,∵,α,a,𝓂,x,.
 
 Psalms 70:5 in vtrad vtsef
 y,a,≁,$,·si,i,<,y,$,·si,w,·
 SPACE
-w,:,y,i,$,·si,:,m,:,x,(qa),w,·
-THIN SPACE
+w,:,y,i,$,·si,:,m,:,x,(qa),w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -18437,8 +18163,7 @@ SPACE
 y,:,$,·sh,w,·,ʕ,a,τ,∵,𝓂,k.,a,.
 
 Psalms 70:6 in vtrad vtsef
-w,_,α,:_,n,i,<,y
-THIN SPACE
+w,_,α,:_,n,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -18491,8 +18216,7 @@ w,:,h,w,o,$,·sh,i,y,ʕ,‥,𝓂,n,i,y,.
 Psalms 71:3 in vtrad vtsef
 h,:∵,y,‥,<,h
 SPACE
-l,i,(qa),y
-THIN SPACE
+l,i,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -18544,8 +18268,7 @@ SPACE
 m,i,n,·,:,ʕ,w,·,r,a,𝓂,y,.
 
 Psalms 71:6 in vtrad vtsef
-ʕ,a,l,∵,<,y,k.,a
-THIN SPACE
+ʕ,a,l,∵,<,y,k.,a,THIN SPACE
 START b 
 |
 STOP b 
@@ -18686,8 +18409,7 @@ SPACE
 ʕ,_,l,-,k,·,oa,l,-,τ,·,:,h,i,l,·,a,τ,∵,𝓂,k.,a,.
 
 Psalms 71:15 in vtrad vtsef
-f,·,i,<,y
-THIN SPACE
+f,·,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -18739,8 +18461,7 @@ n,i,f,:,l,:,α,w,o,τ,∵,𝓂,y,k.,a,.
 Psalms 71:18 in vtrad vtsef
 w,:,g,_,<,m.
 SPACE
-ʕ,_,d,-,z,i,q,:,n,a,(qa),h
-THIN SPACE
+ʕ,_,d,-,z,i,q,:,n,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -18822,8 +18543,7 @@ SPACE
 τ,·,_,ʕ,:_,l,‥,𝓂,n,i,y,.
 
 Psalms 71:21 in vtrad vtsef
-τ,·,∵,<,r,∵,v
-THIN SPACE
+τ,·,∵,<,r,∵,v,THIN SPACE
 START b 
 |
 STOP b 
@@ -18835,8 +18555,7 @@ SPACE
 τ,·,:,𝓂,n,_,x,:_,m,‥,𝓂,n,i,y,.
 
 Psalms 71:22 in vtrad vtsef
-g,·,_,m.,-,α,:_,n,i,<,y
-THIN SPACE
+g,·,_,m.,-,α,:_,n,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -18897,8 +18616,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Psalms 72:1 in vtrad vtsef
-l,i,$,·sh,:,l,o,m,o,(qa),h
-THIN SPACE
+l,i,$,·sh,:,l,o,m,o,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -18940,8 +18658,7 @@ SPACE
 v,·,i,ц,:,d,a,q,a,𝓂,h,.
 
 Psalms 72:4 in vtrad vtsef
-y,i,$,·sh,:,f,·,o,<,θ
-THIN SPACE
+y,i,$,·sh,:,f,·,o,<,θ,THIN SPACE
 START b 
 |
 STOP b 
@@ -19114,8 +18831,7 @@ y,:,v,a,r,:,k,∵,𝓂,n,:,h,w,·,.
 Psalms 72:16 in vtrad vtsef
 y,:,h,i,<,y
 SPACE
-f,i,σ,·,_,τ,-,v,·,_,(qa),r
-THIN SPACE
+f,i,σ,·,_,τ,-,v,·,_,(qa),r,THIN SPACE
 START b 
 |
 STOP b 
@@ -19143,8 +18859,7 @@ h,a,α,a,𝓂,r,∵,ц.,.
 Psalms 72:17 in vtrad vtsef
 y,:,h,i,<,y
 SPACE
-$,·sh,:,m,(qa),w,o
-THIN SPACE
+$,·sh,:,m,(qa),w,o,THIN SPACE
 START b 
 |
 STOP b 
@@ -19174,8 +18889,7 @@ SPACE
 y,:,α,_,$,·sh,·,:,r,𝓂,w,·,h,w,·,.
 
 Psalms 72:18 in vtrad vtsef
-v,·,a,r,<,w,·,k.,:
-THIN SPACE
+v,·,a,r,<,w,·,k.,:,THIN SPACE
 START b 
 |
 STOP b 
@@ -19195,8 +18909,7 @@ SPACE
 l,:,v,_,d,·,𝓂,w,o,.
 
 Psalms 72:19 in vtrad vtsef
-w,·,v,a,r,<,w,·,k.,:
-THIN SPACE
+w,·,v,a,r,<,w,·,k.,:,THIN SPACE
 START b 
 |
 STOP b 
@@ -19215,13 +18928,11 @@ SPACE
 SPACE
 h,a,α,a,◆,r,∵,ц.
 SPACE
-α,a,≁,m,‥,(me),n.
-THIN SPACE
+α,a,≁,m,‥,(me),n.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-w,:,α,a,m,‥,𝓂,n.,.
+THIN SPACE,w,:,α,a,m,‥,𝓂,n.,.
 
 Psalms 72:20 in vtrad vtsef
 k,·,a,l,·,(me),w,·
@@ -19344,8 +19055,7 @@ SPACE
 l,‥,v,a,𝓂,v,.
 
 Psalms 73:8 in vtrad vtsef
-y,a,m,i,<,y,q,w,·
-THIN SPACE
+y,a,m,i,<,y,q,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -19374,8 +19084,7 @@ SPACE
 v,·,a,α,a,𝓂,r,∵,ц.,.
 
 Psalms 73:10 in vtrad vtsef
-l,a,k,‥,<,n.
-THIN SPACE
+l,a,k,‥,<,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -19530,8 +19239,7 @@ m,‥,h,a,q,i,⅄,y,ц.
 SPACE
 α,:_,γ,d,o,n,a,◆,y
 SPACE
-v,·,a,ʕ,i,<,y,r
-THIN SPACE
+v,·,a,ʕ,i,<,y,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -19626,8 +19334,7 @@ SPACE
 m,i,m,·,∵,𝓂,k.,·,a,.
 
 Psalms 73:28 in vtrad vtsef
-w,_,α,:_,n,i,<,y
-THIN SPACE
+w,_,α,:_,n,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -19637,10 +19344,12 @@ SPACE
 α,:∵,l,o,h,i,◆,y,m.
 SPACE
 l,i,(ol),y
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 θ,(me),w,o,v
 SPACE
-$,·sh,_,τ,·,i,<,y
-THIN SPACE
+$,·sh,_,τ,·,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -19684,8 +19393,7 @@ m,_,r,:,ʕ,i,y,τ,∵,𝓂,k.,a,.
 Psalms 74:2 in vtrad vtsef
 z,:,k,o,<,r
 SPACE
-ʕ,:_,d,a,𝓂,τ,:,k.,a,(qa)
-THIN SPACE
+ʕ,:_,d,a,𝓂,τ,:,k.,a,(qa),THIN SPACE
 START b 
 |
 STOP b 
@@ -19702,8 +19410,7 @@ n,_,x,:_,l,a,τ,∵,⅄,k.,a
 SPACE
 h,_,r,-,ц,i,γ,y,·,◆,w,o,n.
 SPACE
-z,∵,<,h
-THIN SPACE
+z,∵,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -19964,13 +19671,11 @@ z,:,k,oa,r,-,z,o,◆,α,τ
 SPACE
 α,(de),w,o,y,‥,v
 SPACE
-x,‥,r,‥,⅃,f.
-THIN SPACE
+x,‥,r,‥,⅃,f.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,h,o,w,a,⅄,h
+THIN SPACE,y,:,h,o,w,a,⅄,h
 SPACE
 w,:,ʕ,_,(me),m.
 SPACE
@@ -20078,8 +19783,7 @@ $,·sh,i,𝓂,y,r,.
 Psalms 75:2 in vtrad vtsef
 h,≁,w,o,d,i,<,y,n,w,·
 SPACE
-l,·,:,k.,a,(qa)
-THIN SPACE
+l,·,:,k.,a,(qa),THIN SPACE
 START b 
 |
 STOP b 
@@ -20187,8 +19891,7 @@ v,·,:,𝓂,y,_,d,-,y,:,h,o,w,a,μ,h
 SPACE
 w,:,y,_,<,y,i,n.
 SPACE
-x,a,m,_,(qa),r
-THIN SPACE
+x,a,m,_,(qa),r,THIN SPACE
 START b 
 |
 STOP b 
@@ -20302,8 +20005,7 @@ SPACE
 m,‥,𝓂,h,_,r,:,r,‥,y,-,θ,a,𝓂,r,∵,f.,.
 
 Psalms 76:6 in vtrad vtsef
-α,∵,$,·sh,:,τ,·,𝓂,w,o,l,:,l,(qa),w,·
-THIN SPACE
+α,∵,$,·sh,:,τ,·,𝓂,w,o,l,:,l,(qa),w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -20336,8 +20038,7 @@ SPACE
 w,a,σ,𝓂,w,·,σ,.
 
 Psalms 76:8 in vtrad vtsef
-α,_,τ,·,a,<,h
-THIN SPACE
+α,_,τ,·,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -20466,8 +20167,7 @@ SPACE
 SPACE
 d,·,a,(ol),r,a,(me),$,·sh,:,τ,·,i,y
 SPACE
-y,a,d,i,<,y
-THIN SPACE
+y,a,d,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -20493,8 +20193,7 @@ SPACE
 SPACE
 w,:,α,∵,h,:∵,m,a,⅄,y,a,h
 SPACE
-α,a,$,·si,i,(sh),y,x,a,h
-THIN SPACE
+α,a,$,·si,i,(sh),y,x,a,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -20547,13 +20246,11 @@ r,w,·,x,i,𝓂,y,.
 Psalms 77:8 in vtrad vtsef
 h,_,(de),l,:,ʕ,w,o,l,a,m,i,y,m.
 SPACE
-y,i,z,:,n,_,(me),x
-THIN SPACE
+y,i,z,:,n,_,(me),x,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,:_,d,o,n,a,⅄,y
+THIN SPACE,α,:_,d,o,n,a,⅄,y
 SPACE
 w,:,l,o,α,-,y,o,σ,i,(ti),y,f.
 SPACE
@@ -20676,8 +20373,7 @@ SPACE
 Psalms 77:17 in vtrad vtsef
 r,a,≁,α,<,w,·,k.,a
 SPACE
-m,·,_,(qa),y,i,m.
-THIN SPACE
+m,·,_,(qa),y,i,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -20699,8 +20395,7 @@ SPACE
 Psalms 77:18 in vtrad vtsef
 z,o,<,r,:,m,w,·
 SPACE
-m,_,(qa),y,i,m.
-THIN SPACE
+m,_,(qa),y,i,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -20720,8 +20415,7 @@ y,i,τ,:,h,_,l,·,a,𝓂,k,w,·,.
 Psalms 77:19 in vtrad vtsef
 q,<,w,o,l
 SPACE
-r,_,𝓂,ʕ,_,m,:,k.,a,(qa)
-THIN SPACE
+r,_,𝓂,ʕ,_,m,:,k.,a,(qa),THIN SPACE
 START b 
 |
 STOP b 
@@ -20825,8 +20519,7 @@ SPACE
 Psalms 78:4 in vtrad vtsef
 l,o,<,α
 SPACE
-n,:,k,_,x,‥,(qa),d
-THIN SPACE
+n,:,k,_,x,‥,(qa),d,THIN SPACE
 START b 
 |
 STOP b 
@@ -20854,8 +20547,7 @@ SPACE
 Psalms 78:5 in vtrad vtsef
 w,_,y,·,a,<,q,∵,m.
 SPACE
-ʕ,‥,d,(qa),w,·,τ
-THIN SPACE
+ʕ,‥,d,(qa),w,·,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -20881,8 +20573,7 @@ l,i,v,:,n,‥,y,h,∵,𝓂,m.,.
 Psalms 78:6 in vtrad vtsef
 l,:,m,_,<,ʕ,_,n.
 SPACE
-y,‥,d,:,ʕ,(qa),w,·
-THIN SPACE
+y,‥,d,:,ʕ,(qa),w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -20921,8 +20612,7 @@ y,i,n,:,ц,o,𝓂,r,w,·,.
 Psalms 78:8 in vtrad vtsef
 w,:,l,o,<,α
 SPACE
-y,i,h,:,y,(qa),w,·
-THIN SPACE
+y,i,h,:,y,(qa),w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -21093,8 +20783,7 @@ v,·,_,m,·,i,d,:,v,·,a,𝓂,r,.
 Psalms 78:20 in vtrad vtsef
 h,‥,<,n.
 SPACE
-h,i,k,·,a,h,-,ц,(qa),w,·,r
-THIN SPACE
+h,i,k,·,a,h,-,ц,(qa),w,·,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -21120,8 +20809,7 @@ SPACE
 l,:,ʕ,_,m,·,𝓂,w,o,.
 
 Psalms 78:21 in vtrad vtsef
-l,a,k,‥,<,n.
-THIN SPACE
+l,a,k,‥,<,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -21272,8 +20960,7 @@ v,·,:,f,i,y,h,∵,𝓂,m.,.
 Psalms 78:31 in vtrad vtsef
 w,:,α,_,<,f.
 SPACE
-α,:∵,l,o,h,i,(qa),y,m.
-THIN SPACE
+α,:∵,l,o,h,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -21357,8 +21044,7 @@ v,·,i,v,:,r,i,y,τ,𝓂,w,o,.
 Psalms 78:38 in vtrad vtsef
 w,:,h,<,w,·,α
 SPACE
-r,_,x,(qa),w,·,m.
-THIN SPACE
+r,_,x,(qa),w,·,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -21498,8 +21184,7 @@ SPACE
 l,a,r,:,$,·sh,a,f,i,𝓂,y,m.,.
 
 Psalms 78:49 in vtrad vtsef
-y,:,$,·sh,_,l,·,_,x,-,v,·,a,(qa),m.
-THIN SPACE
+y,:,$,·sh,_,l,·,_,x,-,v,·,a,(qa),m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -21596,8 +21281,7 @@ y,:,m,i,y,n,𝓂,w,o,.
 Psalms 78:55 in vtrad vtsef
 w,_,y,:,g,a,<,r,∵,$,·sh
 SPACE
-m,i,f,·,:,n,‥,y,h,∵,(qa),m.
-THIN SPACE
+m,i,f,·,:,n,‥,y,h,∵,(qa),m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -21730,13 +21414,11 @@ SPACE
 Psalms 78:65 in vtrad vtsef
 w,_,y,·,i,q,_,(ti),ц.
 SPACE
-k,·,:,y,a,$,·sh,‥,(me),n.
-THIN SPACE
+k,·,:,y,a,$,·sh,‥,(me),n.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,:_,d,o,n,a,⅄,y
+THIN SPACE,α,:_,d,o,n,a,⅄,y
 SPACE
 k,·,:,γ,g,i,v,·,◆,w,o,r
 SPACE
@@ -21857,8 +21539,7 @@ SPACE
 SPACE
 v,·,a,<,α,w,·
 SPACE
-g,w,o,y,i,(qa),m.
-THIN SPACE
+g,w,o,y,i,(qa),m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -21899,8 +21580,7 @@ l,:,x,_,y,:,τ,w,o,-,α,a,𝓂,r,∵,ц.,.
 Psalms 79:3 in vtrad vtsef
 $,·sh,a,f,:,k,(il),w,·
 SPACE
-d,a,m,a,(qa),m.
-THIN SPACE
+d,a,m,a,(qa),m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -21997,8 +21677,7 @@ SPACE
 m,:,α,o,𝓂,d,.
 
 Psalms 79:9 in vtrad vtsef
-ʕ,oa,z,:,r,‥,<,n,w,·
-THIN SPACE
+ʕ,oa,z,:,r,‥,<,n,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -22022,8 +21701,7 @@ SPACE
 $,·sh,:,m,∵,𝓂,k.,a,.
 
 Psalms 79:10 in vtrad vtsef
-l,a,<,m,·,a,h
-THIN SPACE
+l,a,<,m,·,a,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -22095,8 +21773,7 @@ SPACE
 Psalms 79:13 in vtrad vtsef
 w,_,α,:_,n,_,<,x,:,n,w,·
 SPACE
-ʕ,_,m,·,:,k.,a,(qa)
-THIN SPACE
+ʕ,_,m,·,:,k.,a,(qa),THIN SPACE
 START b 
 |
 STOP b 
@@ -22138,8 +21815,7 @@ m,i,z,:,m,𝓂,w,o,r,.
 Psalms 80:2 in vtrad vtsef
 r,o,≁,ʕ,‥,<,h
 SPACE
-y,i,$,·si,:,r,a,α,‥,(qa),l
-THIN SPACE
+y,i,$,·si,:,r,a,α,‥,(qa),l,THIN SPACE
 START b 
 |
 STOP b 
@@ -22161,8 +21837,7 @@ h,w,o,f,i,𝓂,y,ʕ,a,h,.
 Psalms 80:3 in vtrad vtsef
 l,i,f,:,n,‥,<,y
 SPACE
-α,∵,f,:,r,_,(qa),y,i,m.
-THIN SPACE
+α,∵,f,:,r,_,(qa),y,i,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -22326,6 +22001,9 @@ SPACE
 ц,:,v,a,α,w,o,τ,~
 SPACE
 $,·sh,𝓂,(ol),w,·,v
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 n,a,(me),α
 SPACE
 h,_,v,·,‥,⅃,θ
@@ -22415,13 +22093,11 @@ STOP span class=mam-spi-pe
 START br 
 
 Psalms 81:1 in vtrad vtsef
-l,_,m,:,n,_,ц,·,‥,(il),x,_
-THIN SPACE
+l,_,m,:,n,_,ц,·,‥,(il),x,_,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-ʕ,_,𝓂,l,-,h,_,g,·,i,τ,·,i,(il),y,τ
+THIN SPACE,ʕ,_,𝓂,l,-,h,_,g,·,i,τ,·,i,(il),y,τ
 SPACE
 l,:,α,a,σ,a,𝓂,f.,.
 
@@ -22478,8 +22154,7 @@ SPACE
 y,_,ʕ,:_,q,o,𝓂,v,.
 
 Psalms 81:6 in vtrad vtsef
-ʕ,‥,d,<,w,·,τ
-THIN SPACE
+ʕ,‥,d,<,w,·,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -22565,8 +22240,7 @@ SPACE
 n,‥,k,a,𝓂,r,.
 
 Psalms 81:11 in vtrad vtsef
-α,a,𝓂,n,o,k,i,(qa),y
-THIN SPACE
+α,a,𝓂,n,o,k,i,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -22723,8 +22397,7 @@ h,_,ц,·,i,𝓂,y,l,w,·,.
 Psalms 82:5 in vtrad vtsef
 l,o,<,α
 SPACE
-y,a,d,:,ʕ,(qa),w,·
-THIN SPACE
+y,a,d,:,ʕ,(qa),w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -23052,8 +22725,7 @@ SPACE
 Psalms 84:3 in vtrad vtsef
 n,i,k,:,σ,:,f,a,(il),h
 SPACE
-w,:,g,_,m.,-,k,·,a,𝓂,l,:,τ,a,(qa),h
-THIN SPACE
+w,:,g,_,m.,-,k,·,a,𝓂,l,:,τ,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -23081,8 +22753,7 @@ m,a,(yy),ц,:,α,a,h
 SPACE
 v,_,μ,y,i,τ
 SPACE
-w,·,d,:,r,<,w,o,r
-THIN SPACE
+w,·,d,:,r,<,w,o,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -23135,8 +22806,7 @@ SPACE
 v,·,i,l,:,v,a,v,a,𝓂,m.,.
 
 Psalms 84:7 in vtrad vtsef
-ʕ,o,v,:,r,‥,<,y
-THIN SPACE
+ʕ,o,v,:,r,‥,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -23224,8 +22894,7 @@ v,·,:,α,oa,h,:a,l,‥,y,-,r,∵,𝓂,$,·sh,_,ʕ,.
 Psalms 84:12 in vtrad vtsef
 k,·,i,<,y
 SPACE
-$,·sh,∵,(qa),m,∵,$,·sh
-THIN SPACE
+$,·sh,∵,(qa),m,∵,$,·sh,THIN SPACE
 START b 
 |
 STOP b 
@@ -23271,13 +22940,11 @@ STOP span class=mam-spi-pe
 START br 
 
 Psalms 85:1 in vtrad vtsef
-l,_,m,:,n,_,ц,·,‥,(il),x,_
-THIN SPACE
+l,_,m,:,n,_,ц,·,‥,(il),x,_,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,i,v,:,n,‥,y,-,q,o,(il),r,_,x
+THIN SPACE,l,i,v,:,n,‥,y,-,q,o,(il),r,_,x
 SPACE
 m,i,z,:,m,𝓂,w,o,r,.
 
@@ -23379,16 +23046,13 @@ Psalms 85:9 in vtrad vtsef
 SPACE
 m,_,h,-,y,:,d,_,v,·,‥,r,~
 SPACE
-h,a,α,‥,(ah),l
-THIN SPACE
+h,a,α,‥,(ah),l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,(ol),h,o,w,a,(me),h
+THIN SPACE,y,:,(ol),h,o,w,a,(me),h
 SPACE
-k,·,i,<,y
-THIN SPACE
+k,·,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -23583,21 +23247,18 @@ SPACE
 Psalms 86:8 in vtrad vtsef
 α,‥,y,n.,-,k,·,a,m,(ti),w,o,k.,a
 SPACE
-v,a,α,:∵,l,o,h,i,(me),y,m.
-THIN SPACE
+v,a,α,:∵,l,o,h,i,(me),y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,:_,d,o,n,a,◆,y
+THIN SPACE,α,:_,d,o,n,a,◆,y
 SPACE
 w,:,α,‥,⅃,y,n.
 SPACE
 k,·,:,𝓂,m,_,ʕ,:_,$,·si,∵,𝓂,y,k.,a,.
 
 Psalms 86:9 in vtrad vtsef
-k,·,oa,l,-,g,·,w,o,y,i,<,m.
-THIN SPACE
+k,·,oa,l,-,g,·,w,o,y,i,<,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -23606,8 +23267,7 @@ SPACE
 SPACE
 ʕ,a,$,·si,i,◆,y,τ,a
 SPACE
-y,a,v,<,w,o,α,w,·
-THIN SPACE
+y,a,v,<,w,o,α,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -23640,8 +23300,7 @@ l,:,v,_,d,·,∵,𝓂,k.,a,.
 Psalms 86:11 in vtrad vtsef
 h,≁,w,o,r,‥,<,n,i,y
 SPACE
-y,:,h,o,w,a,(qa),h
-THIN SPACE
+y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -23661,8 +23320,7 @@ SPACE
 $,·sh,:,m,∵,𝓂,k.,a,.
 
 Psalms 86:12 in vtrad vtsef
-α,w,o,d,:,k.,a,<
-THIN SPACE
+α,w,o,d,:,k.,a,<,THIN SPACE
 START b 
 |
 STOP b 
@@ -23695,8 +23353,7 @@ SPACE
 τ,·,_,x,:,τ,·,i,y,·,a,𝓂,h,.
 
 Psalms 86:14 in vtrad vtsef
-α,:∵,l,o,h,i,<,y,m.
-THIN SPACE
+α,:∵,l,o,h,i,<,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -23817,8 +23474,7 @@ SPACE
 σ,∵,𝓂,l,a,h,.
 
 Psalms 87:4 in vtrad vtsef
-α,_,z,:,k,·,i,<,y,r
-THIN SPACE
+α,_,z,:,k,·,i,<,y,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -23842,8 +23498,7 @@ SPACE
 y,u,l,·,_,d,-,$,·sh,a,𝓂,m.,.
 
 Psalms 87:5 in vtrad vtsef
-w,·,(me),l,:,ц,i,y,·,(qa),w,o,n.
-THIN SPACE
+w,·,(me),l,:,ц,i,y,·,(qa),w,o,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -23897,6 +23552,9 @@ SPACE
 m,i,z,:,m,◆,w,o,r
 SPACE
 l,i,v,:,n,‥,(ol),y
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 q,o,(me),r,_,x
 SPACE
 l,_,m,:,n,_,ц,·,‥,⅃,x,_
@@ -23970,8 +23628,7 @@ x,oa,(ol),f,:,$,·sh,i,(me),y
 SPACE
 k,·,:,m,<,w,o
 SPACE
-x,:_,l,a,l,i,(qa),y,m.
-THIN SPACE
+x,:_,l,a,l,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -24043,6 +23700,9 @@ SPACE
 d,a,α,:_,v,a,◆,h
 SPACE
 m,i,n,·,i,(ol),y
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 ʕ,o,(me),n,i,y
 SPACE
 q,:,r,a,α,τ,i,⅃,y,k.,a
@@ -24064,8 +23724,7 @@ SPACE
 SPACE
 α,i,m.,-,r,:,γ,f,a,α,i,◆,y,m.
 SPACE
-y,a,q,<,w,·,m,w,·
-THIN SPACE
+y,a,q,<,w,·,m,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -24099,8 +23758,7 @@ SPACE
 n,:,$,·sh,i,y,·,a,𝓂,h,.
 
 Psalms 88:14 in vtrad vtsef
-w,_,α,:_,n,i,<,y
-THIN SPACE
+w,_,α,:_,n,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -24207,8 +23865,7 @@ SPACE
 SPACE
 l,:,d,o,(me),r
 SPACE
-w,a,d,o,(sh),r
-THIN SPACE
+w,a,d,o,(sh),r,THIN SPACE
 START b 
 |
 STOP b 
@@ -24228,8 +23885,7 @@ x,∵,⅃,σ,∵,d
 SPACE
 y,i,v,·,a,n,∵,⅄,h
 SPACE
-$,·sh,a,m,_,(sh),y,i,m.
-THIN SPACE
+$,·sh,a,m,_,(sh),y,i,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -24316,8 +23972,7 @@ SPACE
 ʕ,_,l,-,k,·,oa,l,-,σ,:,v,i,y,v,a,𝓂,y,w,.
 
 Psalms 89:9 in vtrad vtsef
-y,:,h,o,w,a,<,h
-THIN SPACE
+y,:,h,o,w,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -24328,13 +23983,11 @@ SPACE
 SPACE
 m,i,𝓂,y,-,k,a,m,(ti),w,o,k.,a,𝓂
 SPACE
-x,:_,σ,i,(me),y,n.
-THIN SPACE
+x,:_,σ,i,(me),y,n.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,a,⅄,h,·
+THIN SPACE,y,a,⅄,h,·
 SPACE
 w,∵,γ,α,:∵,m,(me),w,·,n,a,τ,:,k.,a,◆
 SPACE
@@ -24898,21 +24551,18 @@ SPACE
 σ,∵,𝓂,l,a,h,.
 
 Psalms 89:50 in vtrad vtsef
-α,_,y,·,‥,<,h
-THIN SPACE
+α,_,y,·,‥,<,h,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
 x,:_,σ,a,d,∵,(ti),y,k.,a
 SPACE
-h,a,r,i,α,$,·sh,o,n,i,(me),y,m.
-THIN SPACE
+h,a,r,i,α,$,·sh,o,n,i,(me),y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,:_,d,o,n,a,⅄,y
+THIN SPACE,α,:_,d,o,n,a,⅄,y
 SPACE
 n,i,$,·sh,:,v,·,_,(me),ʕ,:,τ,·,a
 SPACE
@@ -24942,13 +24592,11 @@ Psalms 89:52 in vtrad vtsef
 SPACE
 x,‥,r,:,f,(ti),w,·
 SPACE
-α,w,o,y,:,v,∵,(me),y,k.,a
-THIN SPACE
+α,w,o,y,:,v,∵,(me),y,k.,a,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,h,o,w,a,⅄,h
+THIN SPACE,y,:,h,o,w,a,⅄,h
 SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
@@ -24965,13 +24613,11 @@ y,:,h,o,w,a,(me),h
 SPACE
 l,:,ʕ,w,o,l,a,◆,m.
 SPACE
-α,a,≁,m,‥,(me),n.
-THIN SPACE
+α,a,≁,m,‥,(me),n.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-w,:,α,a,m,‥,𝓂,n.,.
+THIN SPACE,w,:,α,a,m,‥,𝓂,n.,.
 
 Psalms 90:1 in vtrad vtsef
 τ,·,:,f,i,l,·,a,h,~
@@ -24995,8 +24641,7 @@ SPACE
 w,a,d,o,𝓂,r,.
 
 Psalms 90:2 in vtrad vtsef
-v,·,:,θ,∵,<,r,∵,m.
-THIN SPACE
+v,·,:,θ,∵,<,r,∵,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -25129,8 +24774,7 @@ $,·sh,a,n,a,μ,h
 SPACE
 w,:,α,i,<,m.
 SPACE
-v,·,i,g,:,v,w,·,r,o,(qa),τ
-THIN SPACE
+v,·,i,g,:,v,w,·,r,o,(qa),τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -25226,8 +24870,7 @@ SPACE
 ʕ,_,l,-,v,·,:,n,‥,y,h,∵,𝓂,m.,.
 
 Psalms 90:17 in vtrad vtsef
-w,i,y,h,i,<,y
-THIN SPACE
+w,i,y,h,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -25301,8 +24944,7 @@ SPACE
 h,_,w,·,𝓂,w,o,τ,.
 
 Psalms 91:4 in vtrad vtsef
-v,·,:,α,∵,v,:,r,a,τ,(qa),w,o
-THIN SPACE
+v,·,:,α,∵,v,:,r,a,τ,(qa),w,o,THIN SPACE
 START b 
 |
 STOP b 
@@ -25350,8 +24992,7 @@ SPACE
 Psalms 91:7 in vtrad vtsef
 y,i,f,·,o,<,l
 SPACE
-m,i,ц,·,i,d,·,:,k.,a,(qa)
-THIN SPACE
+m,i,ц,·,i,d,·,:,k.,a,(qa),THIN SPACE
 START b 
 |
 STOP b 
@@ -25458,8 +25099,7 @@ SPACE
 $,·sh,:,m,i,𝓂,y,.
 
 Psalms 91:15 in vtrad vtsef
-y,i,q,:,r,a,α,‥,(qa),n,i,y
-THIN SPACE
+y,i,q,:,r,a,α,‥,(qa),n,i,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -25578,8 +25218,7 @@ SPACE
 Psalms 92:8 in vtrad vtsef
 v,·,i,f,:,r,o,<,x,_
 SPACE
-r,:,$,·sh,a,ʕ,i,(qa),y,m.
-THIN SPACE
+r,:,$,·sh,a,ʕ,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -25759,8 +25398,7 @@ SPACE
 Psalms 93:3 in vtrad vtsef
 n,a,$,·si,:,α,<,w,·
 SPACE
-n,:,h,a,r,(qa),w,o,τ
-THIN SPACE
+n,:,h,a,r,(qa),w,o,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -25780,8 +25418,7 @@ SPACE
 d,·,oa,k,:,y,a,𝓂,m.,.
 
 Psalms 93:4 in vtrad vtsef
-m,i,q,·,o,l,(qa),w,o,τ
-THIN SPACE
+m,i,q,·,o,l,(qa),w,o,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -25801,8 +25438,7 @@ SPACE
 y,:,h,o,w,a,𝓂,h,.
 
 Psalms 93:5 in vtrad vtsef
-ʕ,‥,𝓂,d,o,τ,∵,(qa),y,k.,a
-THIN SPACE
+ʕ,‥,𝓂,d,o,τ,∵,(qa),y,k.,a,THIN SPACE
 START b 
 |
 STOP b 
@@ -25853,13 +25489,11 @@ SPACE
 Psalms 94:3 in vtrad vtsef
 ʕ,_,d,-,m,a,τ,_,(ti),y
 SPACE
-r,:,$,·sh,a,ʕ,i,(me),y,m.
-THIN SPACE
+r,:,$,·sh,a,ʕ,i,(me),y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,h,o,w,a,⅄,h
+THIN SPACE,y,:,h,o,w,a,⅄,h
 SPACE
 ʕ,_,d,-,m,a,γ,τ,_,◆,y
 SPACE
@@ -25974,8 +25608,7 @@ SPACE
 h,a,𝓂,v,∵,l,.
 
 Psalms 94:12 in vtrad vtsef
-α,_,$,·sh,:,r,‥,<,y
-THIN SPACE
+α,_,$,·sh,:,r,‥,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -26008,8 +25641,7 @@ SPACE
 $,·sh,a,𝓂,x,_,τ,.
 
 Psalms 94:14 in vtrad vtsef
-k,·,i,<,y
-THIN SPACE
+k,·,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -26061,8 +25693,7 @@ SPACE
 SPACE
 l,·,i,⅄,y
 SPACE
-k,·,i,m,:,ʕ,_,(sh),θ
-THIN SPACE
+k,·,i,m,:,ʕ,_,(sh),θ,THIN SPACE
 START b 
 |
 STOP b 
@@ -26143,8 +25774,7 @@ m,_,x,:,σ,i,𝓂,y,.
 Psalms 94:23 in vtrad vtsef
 w,_,y,·,a,<,$,·sh,∵,v
 SPACE
-ʕ,:_,l,‥,y,h,∵,(qa),m.
-THIN SPACE
+ʕ,:_,l,‥,y,h,∵,(qa),m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -26300,8 +25930,7 @@ f,oa,ʕ,:a,l,i,𝓂,y,.
 Psalms 95:10 in vtrad vtsef
 α,_,r,:,v,·,a,≁,ʕ,i,<,y,m.
 SPACE
-$,·sh,a,n,a,(qa),h
-THIN SPACE
+$,·sh,a,n,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -26399,8 +26028,7 @@ SPACE
 ʕ,_,l,-,k,·,oa,l,-,α,:∵,l,o,h,i,𝓂,y,m.,.
 
 Psalms 96:5 in vtrad vtsef
-k,·,i,<,y
-THIN SPACE
+k,·,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -26476,8 +26104,7 @@ k,·,oa,l,-,h,a,α,a,𝓂,r,∵,ц.,.
 Psalms 96:10 in vtrad vtsef
 α,i,m,:,r,<,w,·
 SPACE
-v,_,g,·,w,o,y,i,(qa),m.
-THIN SPACE
+v,_,g,·,w,o,y,i,(qa),m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -26529,8 +26156,7 @@ k,·,oa,l,-,ʕ,:_,ц,‥,y,-,y,a,𝓂,ʕ,_,r,.
 Psalms 96:13 in vtrad vtsef
 l,i,f,:,n,‥,<,y
 SPACE
-y,:,h,o,w,a,(qa),h
-THIN SPACE
+y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -26647,8 +26273,7 @@ SPACE
 k,·,:,v,w,o,d,𝓂,w,o,.
 
 Psalms 97:7 in vtrad vtsef
-y,‥,v,o,<,$,·sh,w,·
-THIN SPACE
+y,‥,v,o,<,$,·sh,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -26668,8 +26293,7 @@ k,·,oa,l,-,α,:∵,l,o,h,i,𝓂,y,m.,.
 Psalms 97:8 in vtrad vtsef
 $,·sh,a,m,:,ʕ,a,(il),h
 SPACE
-w,_,τ,·,i,$,·si,:,m,_,(qa),x
-THIN SPACE
+w,_,τ,·,i,$,·si,:,m,_,(qa),x,THIN SPACE
 START b 
 |
 STOP b 
@@ -26709,6 +26333,9 @@ SPACE
 y,:,h,o,w,a,◆,h
 SPACE
 $,·si,i,n,:,α,(ol),w,·
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 r,a,(me),ʕ
 SPACE
 $,·sh,o,(de),m,‥,r
@@ -26757,8 +26384,7 @@ m,i,z,:,m,μ,w,o,r
 SPACE
 $,·sh,i,<,y,r,w,·
 SPACE
-l,_,y,h,o,w,a,(qa),h
-THIN SPACE
+l,_,y,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -26797,8 +26423,7 @@ SPACE
 Psalms 98:3 in vtrad vtsef
 z,a,≁,k,_,<,r
 SPACE
-x,_,σ,:,d,·,(qa),w,o
-THIN SPACE
+x,_,σ,:,d,·,(qa),w,o,THIN SPACE
 START b 
 |
 STOP b 
@@ -26854,8 +26479,7 @@ $,·sh,w,o,f,a,⅄,r
 SPACE
 h,a,γ,r,i,◆,y,ʕ,w,·
 SPACE
-l,i,f,:,n,‥,<,y
-THIN SPACE
+l,i,f,:,n,‥,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -26976,8 +26600,7 @@ m,i,$,·sh,:,f,·,a,(me),θ
 SPACE
 w,·,γ,ц,:,d,a,q,a,◆,h
 SPACE
-v,·,:,y,_,ʕ,:_,q,o,<,v
-THIN SPACE
+v,·,:,y,_,ʕ,:_,q,o,<,v,THIN SPACE
 START b 
 |
 STOP b 
@@ -27006,8 +26629,7 @@ h,𝓂,w,·,α,.
 Psalms 99:6 in vtrad vtsef
 m,o,≁,$,·sh,∵,<,h
 SPACE
-w,:,α,_,𝓂,h,:_,r,o,(qa),n.
-THIN SPACE
+w,:,α,_,𝓂,h,:_,r,o,(qa),n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -27146,8 +26768,7 @@ m,_,r,:,ʕ,i,y,τ,𝓂,w,o,.
 Psalms 100:4 in vtrad vtsef
 v,·,o,<,α,w,·
 SPACE
-$,·sh,:,ʕ,a,r,a,(qa),y,w
-THIN SPACE
+$,·sh,:,ʕ,a,r,a,(qa),y,w,THIN SPACE
 START b 
 |
 STOP b 
@@ -27200,8 +26821,7 @@ SPACE
 α,:_,z,_,m,·,‥,𝓂,r,a,h,.
 
 Psalms 101:2 in vtrad vtsef
-α,_,$,·si,:,k,·,i,<,y,l,a,h
-THIN SPACE
+α,_,$,·si,:,k,·,i,<,y,l,a,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -27225,8 +26845,7 @@ SPACE
 v,·,‥,y,τ,i,𝓂,y,.
 
 Psalms 101:3 in vtrad vtsef
-l,o,𝓂,α,-,α,a,$,·sh,i,(qa),y,τ
-THIN SPACE
+l,o,𝓂,α,-,α,a,$,·sh,i,(qa),y,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -27273,8 +26892,7 @@ LEFT SQUARE BRACKET,m,:,l,oa,$,·sh,:,n,i,(il),y,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
-v,_,σ,·,‥,(qa),τ,∵,r
-THIN SPACE
+v,_,σ,·,‥,(qa),τ,∵,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -27298,8 +26916,7 @@ SPACE
 α,w,·,k,a,𝓂,l,.
 
 Psalms 101:6 in vtrad vtsef
-ʕ,‥,y,n,_,<,y
-THIN SPACE
+ʕ,‥,y,n,_,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -27321,8 +26938,7 @@ SPACE
 y,:,$,·sh,a,r,:,τ,‥,𝓂,n,i,y,.
 
 Psalms 101:7 in vtrad vtsef
-l,o,𝓂,α,-,y,‥,$,·sh,‥,(qa),v
-THIN SPACE
+l,o,𝓂,α,-,y,‥,$,·sh,‥,(qa),v,THIN SPACE
 START b 
 |
 STOP b 
@@ -27396,8 +27012,7 @@ SPACE
 Psalms 102:3 in vtrad vtsef
 α,_,l,-,τ,·,_,σ,:,τ,·,‥,(il),r
 SPACE
-f,·,a,n,∵,(qa),y,k.,a
-THIN SPACE
+f,·,a,n,∵,(qa),y,k.,a,THIN SPACE
 START b 
 |
 STOP b 
@@ -27407,6 +27022,9 @@ SPACE
 v,·,:,y,(ah),w,o,m.
 SPACE
 ц,_,(ol),r
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 l,i,(me),y
 SPACE
 h,_,θ,·,‥,𝓂,h,-,α,‥,l,_,(me),y
@@ -27636,8 +27254,7 @@ q,oa,d,:,$,·sh,⅄,w,o
 SPACE
 y,:,γ,h,o,w,a,◆,h
 SPACE
-m,i,$,·sh,·,a,m,_,<,y,i,m.
-THIN SPACE
+m,i,$,·sh,·,a,m,_,<,y,i,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -27735,8 +27352,7 @@ SPACE
 $,·sh,a,m,a,𝓂,y,i,m.,.
 
 Psalms 102:27 in vtrad vtsef
-h,‥,<,m,·,a,h
-THIN SPACE
+h,‥,<,m,·,a,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -27785,8 +27401,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Psalms 103:1 in vtrad vtsef
-l,:,d,a,w,i,(qa),d
-THIN SPACE
+l,:,d,a,w,i,(qa),d,THIN SPACE
 START b 
 |
 STOP b 
@@ -28001,8 +27616,7 @@ m,:,q,w,o,m,𝓂,w,o,.
 Psalms 103:17 in vtrad vtsef
 w,:,x,∵,<,σ,∵,d
 SPACE
-y,:,h,o,w,a,(qa),h
-THIN SPACE
+y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -28082,8 +27696,7 @@ r,:,ц,w,o,n,𝓂,w,o,.
 Psalms 103:22 in vtrad vtsef
 v,·,a,r,:,k,<,w,·
 SPACE
-y,:,h,o,w,a,(qa),h
-THIN SPACE
+y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -28211,8 +27824,7 @@ v,:,q,a,ʕ,⅄,w,o,τ
 SPACE
 α,∵,l,-,m,:,γ,q,◆,w,o,m.
 SPACE
-z,∵,<,h
-THIN SPACE
+z,∵,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -28289,8 +27901,7 @@ h,a,α,a,𝓂,r,∵,ц.,.
 Psalms 104:14 in vtrad vtsef
 m,_,ц,:,m,i,<,y,x,_
 SPACE
-x,a,ц,i,(qa),y,r
-THIN SPACE
+x,a,ц,i,(qa),y,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -28310,8 +27921,7 @@ SPACE
 m,i,n.,-,h,a,α,a,𝓂,r,∵,ц.,.
 
 Psalms 104:15 in vtrad vtsef
-w,:,y,_,<,y,i,n.
-THIN SPACE
+w,:,y,_,<,y,i,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -28435,8 +28045,7 @@ SPACE
 Psalms 104:24 in vtrad vtsef
 m,a,h,-,r,_,v,·,(il),w,·
 SPACE
-m,_,ʕ,:_,$,·si,∵,(qa),y,k.,a
-THIN SPACE
+m,_,ʕ,:_,$,·si,∵,(qa),y,k.,a,THIN SPACE
 START b 
 |
 STOP b 
@@ -28456,8 +28065,7 @@ SPACE
 q,i,n,:,y,a,n,∵,𝓂,k.,a,.
 
 Psalms 104:25 in vtrad vtsef
-z,∵,<,h
-THIN SPACE
+z,∵,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -28610,16 +28218,14 @@ v,·,_,y,h,o,w,a,𝓂,h,.
 Psalms 104:35 in vtrad vtsef
 y,i,τ,·,_,<,m,·,w,·
 SPACE
-x,_,θ,·,a,α,i,(qa),y,m.
-THIN SPACE
+x,_,θ,·,a,α,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
 m,i,n.,-,h,a,α,a,μ,r,∵,ц.
 SPACE
-w,·,r,:,$,·sh,a,ʕ,i,<,y,m.
-THIN SPACE
+w,·,r,:,$,·sh,a,ʕ,i,<,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -28674,8 +28280,7 @@ q,oa,d,:,$,·sh,⅄,w,o
 SPACE
 y,i,γ,$,·si,:,m,_,◆,x
 SPACE
-l,‥,<,v
-THIN SPACE
+l,‥,<,v,THIN SPACE
 START b 
 |
 STOP b 
@@ -29208,8 +28813,7 @@ SPACE
 y,i,y,r,a,𝓂,$,·sh,w,·,.
 
 Psalms 105:45 in vtrad vtsef
-v,·,_,ʕ,:_,v,<,w,·,r
-THIN SPACE
+v,·,_,ʕ,:_,v,<,w,·,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -29231,8 +28835,10 @@ START br
 
 Psalms 106:1 in vtrad vtsef
 h,_,(me),l,:,l,w,·
-y,a,(qa),h,·
-THIN SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
+y,a,(qa),h,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -29289,8 +28895,7 @@ SPACE
 v,·,i,y,$,·sh,w,·,ʕ,a,τ,∵,𝓂,k.,a,.
 
 Psalms 106:5 in vtrad vtsef
-l,i,r,:,α,<,w,o,τ
-THIN SPACE
+l,i,r,:,α,<,w,o,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -29321,8 +28926,7 @@ h,i,r,:,$,·sh,a,𝓂,ʕ,:,n,w,·,.
 Psalms 106:7 in vtrad vtsef
 α,:_,v,≁,w,o,τ,‥,<,y,n,w,·
 SPACE
-v,:,m,i,ц,:,r,_,(qa),y,i,m.
-THIN SPACE
+v,:,m,i,ц,:,r,_,(qa),y,i,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -29826,8 +29430,7 @@ SPACE
 k,·,oa,l,-,$,·sh,w,o,v,‥,y,h,∵,𝓂,m.,.
 
 Psalms 106:47 in vtrad vtsef
-h,w,o,$,·sh,i,y,ʕ,‥,(qa),n,w,·
-THIN SPACE
+h,w,o,$,·sh,i,y,ʕ,‥,(qa),n,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -29859,8 +29462,7 @@ SPACE
 SPACE
 y,i,$,·si,:,r,a,α,‥,μ,l
 SPACE
-m,i,n.,-,h,a,<,ʕ,w,o,l,a,(qa),m.
-THIN SPACE
+m,i,n.,-,h,a,<,ʕ,w,o,l,a,(qa),m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -30463,13 +30065,11 @@ $,·sh,·,a,𝓂,x,_,r,.
 Psalms 108:4 in vtrad vtsef
 α,w,o,d,:,k.,a,(ti)
 SPACE
-v,a,ʕ,_,m,·,i,(me),y,m.
-THIN SPACE
+v,a,ʕ,_,m,·,i,(me),y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,h,o,w,a,⅄,h
+THIN SPACE,y,:,h,o,w,a,⅄,h
 SPACE
 w,_,γ,α,:_,z,_,m,·,∵,r,:,k.,a,◆
 SPACE
@@ -30513,8 +30113,7 @@ SPACE
 w,_,ʕ,:_,n,‥,𝓂,n,i,y,.
 
 Psalms 108:8 in vtrad vtsef
-α,:∵,l,o,h,i,<,y,m.
-THIN SPACE
+α,:∵,l,o,h,i,<,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -30538,8 +30137,7 @@ SPACE
 Psalms 108:9 in vtrad vtsef
 l,i,<,y
 SPACE
-g,i,l,:,ʕ,a,(qa),d
-THIN SPACE
+g,i,l,:,ʕ,a,(qa),d,THIN SPACE
 START b 
 |
 STOP b 
@@ -30559,8 +30157,7 @@ SPACE
 m,:,x,o,q,:,q,i,𝓂,y,.
 
 Psalms 108:10 in vtrad vtsef
-m,w,o,α,a,<,v
-THIN SPACE
+m,w,o,α,a,<,v,THIN SPACE
 START b 
 |
 STOP b 
@@ -30804,8 +30401,7 @@ SPACE
 $,·sh,:,m,a,𝓂,m.,.
 
 Psalms 109:14 in vtrad vtsef
-y,i,z,·,a,k,‥,<,r
-THIN SPACE
+y,i,z,·,a,k,‥,<,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -30838,8 +30434,7 @@ z,i,k,:,r,a,𝓂,m.,.
 Psalms 109:16 in vtrad vtsef
 y,_,◆,ʕ,_,n.
 SPACE
-α,:_,$,·sh,∵,<,r
-THIN SPACE
+α,:_,$,·sh,∵,<,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -30927,8 +30522,7 @@ SPACE
 ʕ,_,l,-,n,_,f,:,$,·sh,i,𝓂,y,.
 
 Psalms 109:21 in vtrad vtsef
-w,:,α,_,τ,·,a,<,h
-THIN SPACE
+w,:,α,_,τ,·,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -30985,8 +30579,7 @@ SPACE
 m,i,$,·sh,·,a,𝓂,m,∵,n.,.
 
 Psalms 109:25 in vtrad vtsef
-w,_,α,:_,n,i,<,y
-THIN SPACE
+w,_,α,:_,n,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -31034,8 +30627,7 @@ w,:,α,_,τ,·,a,(ah),h
 SPACE
 τ,:,v,a,(ol),r,‥,(me),k.,:
 SPACE
-q,a,<,m,w,·
-THIN SPACE
+q,a,<,m,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -31099,8 +30691,7 @@ m,i,(ol),z,:,m,(me),w,o,r
 SPACE
 n,:,α,u,<,m.
 SPACE
-y,:,h,o,w,a,(qa),h
-THIN SPACE
+y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -31158,8 +30749,7 @@ y,_,l,:,d,u,τ,∵,𝓂,y,k.,a,.
 Psalms 110:4 in vtrad vtsef
 n,i,$,·sh,:,v,·,_,<,ʕ
 SPACE
-y,:,h,o,w,a,(qa),h
-THIN SPACE
+y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -31224,8 +30814,10 @@ START br
 
 Psalms 111:1 in vtrad vtsef
 h,_,(me),l,:,l,w,·
-y,a,(qa),h,·
-THIN SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
+y,a,(qa),h,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -31334,8 +30926,7 @@ SPACE
 w,:,y,a,$,·sh,a,𝓂,r,.
 
 Psalms 111:9 in vtrad vtsef
-f,·,:,d,<,w,·,τ
-THIN SPACE
+f,·,:,d,<,w,·,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -31357,8 +30948,7 @@ $,·sh,:,m,𝓂,w,o,.
 Psalms 111:10 in vtrad vtsef
 r,‥,≁,α,$,·sh,i,<,y,τ
 SPACE
-x,oa,k,:,m,a,(qa),h
-THIN SPACE
+x,oa,k,:,m,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -31386,8 +30976,10 @@ START br
 
 Psalms 112:1 in vtrad vtsef
 h,_,(me),l,:,l,w,·
-y,a,(qa),h,·
-THIN SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
+y,a,(qa),h,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -31504,8 +31096,7 @@ SPACE
 v,:,ц,a,r,a,𝓂,y,w,.
 
 Psalms 112:9 in vtrad vtsef
-f,·,i,z,·,_,<,r
-THIN SPACE
+f,·,i,z,·,_,<,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -31529,8 +31120,7 @@ v,·,:,k,a,v,𝓂,w,o,d,.
 Psalms 112:10 in vtrad vtsef
 r,a,≁,$,·sh,a,<,ʕ
 SPACE
-y,i,r,:,α,∵,(qa),h
-THIN SPACE
+y,i,r,:,α,∵,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -31556,8 +31146,10 @@ START br
 
 Psalms 113:1 in vtrad vtsef
 h,_,(me),l,:,l,w,·
-y,a,(qa),h,·
-THIN SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
+y,a,(qa),h,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -31601,13 +31193,11 @@ y,:,h,o,w,a,𝓂,h,.
 Psalms 113:4 in vtrad vtsef
 r,a,(ti),m.
 SPACE
-ʕ,_,l,-,k,·,oa,l,-,g,·,w,o,y,i,(me),m.
-THIN SPACE
+ʕ,_,l,-,k,·,oa,l,-,g,·,w,o,y,i,(me),m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,h,o,w,a,⅄,h
+THIN SPACE,y,:,h,o,w,a,⅄,h
 SPACE
 ʕ,_,(ti),l
 SPACE
@@ -31660,8 +31250,7 @@ SPACE
 ʕ,_,m,·,𝓂,w,o,.
 
 Psalms 113:9 in vtrad vtsef
-m,𝓂,w,o,$,·sh,i,y,v,i,(qa),y
-THIN SPACE
+m,𝓂,w,o,$,·sh,i,y,v,i,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -31870,8 +31459,7 @@ SPACE
 y,:,r,i,y,x,𝓂,w,·,n.,.
 
 Psalms 115:7 in vtrad vtsef
-y,:,d,‥,y,h,∵,<,m.
-THIN SPACE
+y,:,d,‥,y,h,∵,<,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -32027,8 +31615,7 @@ SPACE
 d,w,·,m,a,𝓂,h,.
 
 Psalms 115:18 in vtrad vtsef
-w,_,α,:_,n,_,<,x,:,n,w,·
-THIN SPACE
+w,_,α,:_,n,_,<,x,:,n,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -32051,13 +31638,11 @@ START br
 Psalms 116:1 in vtrad vtsef
 α,a,(de),h,_,v,:,τ,·,i,y
 SPACE
-k,·,i,y,-,y,i,$,·sh,:,m,_,(me),ʕ
-THIN SPACE
+k,·,i,y,-,y,i,$,·sh,:,m,_,(me),ʕ,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,h,o,w,a,⅄,h
+THIN SPACE,y,:,h,o,w,a,⅄,h
 SPACE
 α,∵,τ,-,q,γ,w,o,l,i,◆,y
 SPACE
@@ -32075,8 +31660,7 @@ SPACE
 α,∵,q,:,r,a,𝓂,α,.
 
 Psalms 116:3 in vtrad vtsef
-α,:_,f,a,f,<,w,·,n,i,y
-THIN SPACE
+α,:_,f,a,f,<,w,·,n,i,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -32281,8 +31865,7 @@ SPACE
 l,:,k,oa,l,-,ʕ,_,m,·,𝓂,w,o,.
 
 Psalms 116:19 in vtrad vtsef
-v,·,:,x,_,ц,:,r,<,w,o,τ
-THIN SPACE
+v,·,:,x,_,ц,:,r,<,w,o,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -32318,8 +31901,7 @@ k,·,i,(me),y
 SPACE
 g,a,≁,v,_,<,r
 SPACE
-ʕ,a,l,‥,(qa),y,n,w,·
-THIN SPACE
+ʕ,a,l,‥,(qa),y,n,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -32516,8 +32098,7 @@ SPACE
 l,i,y,$,·sh,w,·,ʕ,a,𝓂,h,.
 
 Psalms 118:15 in vtrad vtsef
-q,<,w,o,l
-THIN SPACE
+q,<,w,o,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -32684,8 +32265,7 @@ SPACE
 y,:,h,o,w,a,𝓂,h,.
 
 Psalms 118:27 in vtrad vtsef
-α,‥,<,l
-THIN SPACE
+α,‥,<,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -33341,13 +32921,11 @@ z,a,≁,k,_,<,r,:,τ,·,i,y
 SPACE
 m,i,$,·sh,:,f,·,a,θ,∵,(ti),y,k.,a
 SPACE
-m,‥,ʕ,w,o,l,a,(me),m.
-THIN SPACE
+m,‥,ʕ,w,o,l,a,(me),m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,h,o,w,a,◆,h
+THIN SPACE,y,:,h,o,w,a,◆,h
 SPACE
 w,a,α,∵,τ,:,n,∵,x,a,𝓂,m.,.
 
@@ -33566,8 +33144,7 @@ z,‥,d,i,⅄,y,m.
 SPACE
 α,:_,γ,n,i,◆,y
 SPACE
-v,·,:,k,oa,l,-,l,‥,<,v
-THIN SPACE
+v,·,:,k,oa,l,-,l,‥,<,v,THIN SPACE
 START b 
 |
 STOP b 
@@ -34027,8 +33604,7 @@ SPACE
 SPACE
 ʕ,_,l,-,k,·,‥,γ,◆,n.
 SPACE
-$,·si,a,n,‥,<,α,τ,i,y
-THIN SPACE
+$,·si,a,n,‥,<,α,τ,i,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -34314,8 +33890,7 @@ SPACE
 w,·,m,i,f,·,a,𝓂,z,.
 
 Psalms 119:128 in vtrad vtsef
-ʕ,_,l,-,k,·,‥,<,n.
-THIN SPACE
+ʕ,_,l,-,k,·,‥,<,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -34668,13 +34243,11 @@ d,a,r,a,𝓂,$,·sh,w,·,.
 Psalms 119:156 in vtrad vtsef
 r,_,x,:_,m,∵,(ti),y,k.,a
 SPACE
-r,_,v,·,i,(me),y,m.
-THIN SPACE
+r,_,v,·,i,(me),y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,h,o,w,a,⅄,h
+THIN SPACE,y,:,h,o,w,a,⅄,h
 SPACE
 k,·,:,𝓂,m,i,$,·sh,:,f,·,a,θ,∵,(me),y,k.,a
 SPACE
@@ -35217,8 +34790,7 @@ y,:,h,o,w,a,𝓂,h,.
 Psalms 122:5 in vtrad vtsef
 k,·,i,<,y
 SPACE
-$,·sh,a,(qa),m,·,a,h
-THIN SPACE
+$,·sh,a,(qa),m,·,a,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -35682,8 +35254,7 @@ y,i,q,:,ц,o,𝓂,r,w,·,.
 Psalms 126:6 in vtrad vtsef
 h,a,≁,l,<,w,o,k.,:
 SPACE
-y,‥,l,‥,(qa),k.,:
-THIN SPACE
+y,‥,l,‥,(qa),k.,:,THIN SPACE
 START b 
 |
 STOP b 
@@ -35714,8 +35285,7 @@ h,_,𝓂,m,·,_,ʕ,:_,l,◆,w,o,τ
 SPACE
 l,i,$,·sh,:,l,o,(ol),m,o,(me),h
 SPACE
-α,i,m.,-,y,:,h,o,w,a,<,h
-THIN SPACE
+α,i,m.,-,y,:,h,o,w,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -35736,8 +35306,7 @@ SPACE
 SPACE
 l,o,α,-,y,i,$,·sh,:,m,oa,r,-,ʕ,i,γ,◆,y,r
 SPACE
-$,·sh,a,<,w,:,α
-THIN SPACE
+$,·sh,a,<,w,:,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -35854,8 +35423,7 @@ SPACE
 l,a,𝓂,k.,:,.
 
 Psalms 128:3 in vtrad vtsef
-α,∵,$,·sh,:,τ,·,:,k.,a,<
-THIN SPACE
+α,∵,$,·sh,:,τ,·,:,k.,a,<,THIN SPACE
 START b 
 |
 STOP b 
@@ -36025,8 +35593,7 @@ m,:,ʕ,_,m,·,‥,𝓂,r,.
 Psalms 129:8 in vtrad vtsef
 w,:,l,o,<,α
 SPACE
-α,a,m,:,r,(qa),w,·
-THIN SPACE
+α,a,m,:,r,(qa),w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -36164,8 +35731,7 @@ h,_,𝓂,m,·,_,ʕ,:_,l,◆,w,o,τ
 SPACE
 l,:,d,a,(ol),w,i,(me),d
 SPACE
-y,:,h,o,w,a,<,h
-THIN SPACE
+y,:,h,o,w,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -36178,8 +35744,7 @@ w,:,l,o,α,-,r,a,m,⅃,w,·
 SPACE
 ʕ,‥,y,n,_,⅄,y
 SPACE
-w,:,l,o,𝓂,α,-,h,i,l,·,_,(sh),k,:,τ,·,i,y
-THIN SPACE
+w,:,l,o,𝓂,α,-,h,i,l,·,_,(sh),k,:,τ,·,i,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -36193,8 +35758,7 @@ m,i,m,·,∵,𝓂,n,·,i,y,.
 Psalms 131:2 in vtrad vtsef
 α,i,m.,-,l,o,<,α
 SPACE
-$,·sh,i,w,·,i,(qa),y,τ,i,y
-THIN SPACE
+$,·sh,i,w,·,i,(qa),y,τ,i,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -36350,8 +35914,7 @@ SPACE
 m,:,$,·sh,i,y,x,∵,𝓂,k.,a,.
 
 Psalms 132:11 in vtrad vtsef
-n,i,$,·sh,:,v,·,_,𝓂,ʕ,-,y,:,h,o,w,a,(qa),h
-THIN SPACE
+n,i,$,·sh,:,v,·,_,𝓂,ʕ,-,y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -36375,8 +35938,7 @@ l,:,k,i,σ,·,‥,α,-,l,a,𝓂,k.,:,.
 Psalms 132:12 in vtrad vtsef
 α,i,𝓂,m.,-,y,i,$,·sh,:,m,:,r,(il),w,·
 SPACE
-v,a,n,∵,(qa),y,k.,a
-THIN SPACE
+v,a,n,∵,(qa),y,k.,a,THIN SPACE
 START b 
 |
 STOP b 
@@ -36502,8 +36064,7 @@ g,·,_,m.,-,y,a,𝓂,x,_,d,.
 Psalms 133:2 in vtrad vtsef
 k,·,_,$,·sh,·,∵,<,m,∵,n.
 SPACE
-h,_,θ,·,(qa),w,o,v
-THIN SPACE
+h,_,θ,·,(qa),w,o,v,THIN SPACE
 START b 
 |
 STOP b 
@@ -36533,8 +36094,7 @@ SPACE
 SPACE
 k,·,i,<,y
 SPACE
-$,·sh,a,(qa),m.
-THIN SPACE
+$,·sh,a,(qa),m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -36559,8 +36119,7 @@ $,·sh,i,◆,y,r
 SPACE
 h,_,𝓂,m,·,_,(ol),ʕ,:_,l,(me),w,o,τ
 SPACE
-h,i,n,·,‥,<,h
-THIN SPACE
+h,i,n,·,‥,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -36608,8 +36167,10 @@ START br
 
 Psalms 135:1 in vtrad vtsef
 h,_,(me),l,:,l,w,·
-y,a,(qa),h,·
-THIN SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
+y,a,(qa),h,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -36730,8 +36291,7 @@ SPACE
 ʕ,_,d,-,v,·,:,h,‥,m,a,𝓂,h,.
 
 Psalms 135:9 in vtrad vtsef
-$,·sh,a,l,_,<,x
-THIN SPACE
+$,·sh,a,l,_,<,x,THIN SPACE
 START b 
 |
 STOP b 
@@ -36762,8 +36322,7 @@ SPACE
 ʕ,:_,ц,w,·,m,i,𝓂,y,m.,.
 
 Psalms 135:11 in vtrad vtsef
-l,:,σ,i,y,x,<,w,o,n.
-THIN SPACE
+l,:,σ,i,y,x,<,w,o,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -36916,8 +36475,7 @@ SPACE
 Psalms 135:21 in vtrad vtsef
 v,·,a,≁,r,<,w,·,k.,:
 SPACE
-y,:,h,o,w,a,(qa),h
-THIN SPACE
+y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -37287,8 +36845,7 @@ START br
 Psalms 137:1 in vtrad vtsef
 ʕ,_,(me),l
 SPACE
-n,_,h,:_,r,(qa),w,o,τ
-THIN SPACE
+n,_,h,:_,r,(qa),w,o,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -37360,8 +36917,7 @@ SPACE
 y,:,m,i,y,n,i,𝓂,y,.
 
 Psalms 137:6 in vtrad vtsef
-τ,·,i,d,:,v,·,_,𝓂,q,-,l,:,$,·sh,w,o,n,i,(qa),y
-THIN SPACE
+τ,·,i,d,:,v,·,_,𝓂,q,-,l,:,$,·sh,w,o,n,i,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -37387,8 +36943,7 @@ $,·si,i,m,:,x,a,τ,i,𝓂,y,.
 Psalms 137:7 in vtrad vtsef
 z,:,k,o,<,r
 SPACE
-y,:,h,o,w,a,(qa),h
-THIN SPACE
+y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -37405,8 +36960,7 @@ y,:,𝓂,r,(ol),w,·,$,·sh,a,l,a,(me),CGJ,i,m.
 SPACE
 h,a,(de),α,o,⅃,m,:,r,i,y,m.
 SPACE
-ʕ,a,<,r,w,·
-THIN SPACE
+ʕ,a,<,r,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -37435,8 +36989,7 @@ SPACE
 l,a,𝓂,n,w,·,.
 
 Psalms 137:9 in vtrad vtsef
-α,_,$,·sh,:,r,‥,<,y
-THIN SPACE
+α,_,$,·sh,:,r,‥,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -37455,8 +37008,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Psalms 138:1 in vtrad vtsef
-l,:,d,a,w,i,(qa),d
-THIN SPACE
+l,:,d,a,w,i,(qa),d,THIN SPACE
 START b 
 |
 STOP b 
@@ -37547,8 +37099,7 @@ SPACE
 y,:,y,‥,d,a,𝓂,ʕ,.
 
 Psalms 138:7 in vtrad vtsef
-α,i,m.,-,α,‥,l,‥,<,k.,:
-THIN SPACE
+α,i,m.,-,α,‥,l,‥,<,k.,:,THIN SPACE
 START b 
 |
 STOP b 
@@ -37819,8 +37370,7 @@ SPACE
 α,a,𝓂,r,∵,ц.,.
 
 Psalms 139:16 in vtrad vtsef
-g,·,oa,l,:,m,i,<,y
-THIN SPACE
+g,·,oa,l,:,m,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -37884,13 +37434,11 @@ SPACE
 Psalms 139:19 in vtrad vtsef
 α,i,m.,-,τ,·,i,q,:,θ,o,(ti),l
 SPACE
-α,:∵,l,(me),w,o,h,·,_
-THIN SPACE
+α,:∵,l,(me),w,o,h,·,_,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-r,a,$,·sh,a,⅄,ʕ
+THIN SPACE,r,a,$,·sh,a,⅄,ʕ
 SPACE
 w,:,α,_,n,:,$,·sh,‥,(me),y
 SPACE
@@ -37916,13 +37464,11 @@ SPACE
 Psalms 139:21 in vtrad vtsef
 h,:_,l,𝓂,w,o,α,-,m,:,$,·si,_,n,:,α,∵,(ti),y,k.,a
 SPACE
-y,:,h,o,w,a,(me),h
-THIN SPACE
+y,:,h,o,w,a,(me),h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,∵,$,·si,:,n,a,⅄,α
+THIN SPACE,α,∵,$,·si,:,n,a,⅄,α
 SPACE
 w,·,γ,v,i,τ,:,q,w,o,m,:,m,∵,◆,y,k.,a
 SPACE
@@ -38031,8 +37577,7 @@ SPACE
 Psalms 140:5 in vtrad vtsef
 $,·sh,oa,m,:,r,‥,<,n,i,y
 SPACE
-y,:,h,o,w,a,(qa),h
-THIN SPACE
+y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -38056,8 +37601,7 @@ SPACE
 f,·,:,ʕ,a,m,a,𝓂,y,.
 
 Psalms 140:6 in vtrad vtsef
-θ,a,(me),m,:,n,𝓂,w,·,-,g,‥,α,i,(qa),y,m.
-THIN SPACE
+θ,a,(me),m,:,n,𝓂,w,·,-,g,‥,α,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -38286,18 +37830,15 @@ $,·si,:,f,a,τ,a,𝓂,y,.
 Psalms 141:4 in vtrad vtsef
 α,_,l,-,τ,·,_,θ,-,l,i,v,·,i,(qa),y
 SPACE
-l,:,d,a,v,a,(yy),r
-THIN SPACE
+l,:,d,a,v,a,(yy),r,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-r,a,μ,ʕ
+THIN SPACE,r,a,μ,ʕ
 SPACE
 l,:,h,i,τ,:,ʕ,≁,w,o,l,‥,<,l
 SPACE
-ʕ,:_,l,i,l,(qa),w,o,τ
-THIN SPACE
+ʕ,:_,l,i,l,(qa),w,o,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -38315,8 +37856,7 @@ v,·,:,m,_,n,:,ʕ,_,m,·,‥,y,h,∵,𝓂,m.,.
 Psalms 141:5 in vtrad vtsef
 y,∵,(me),h,∵,l,:,m,‥,𝓂,n,i,y
 SPACE
-ц,_,d,·,i,(qa),y,q
-THIN SPACE
+ц,_,d,·,i,(qa),y,q,THIN SPACE
 START b 
 |
 STOP b 
@@ -38374,8 +37914,7 @@ $,·sh,:,α,𝓂,w,o,l,.
 Psalms 141:8 in vtrad vtsef
 k,·,i,<,y
 SPACE
-α,‥,l,∵,(qa),y,k.,a
-THIN SPACE
+α,‥,l,∵,(qa),y,k.,a,THIN SPACE
 START b 
 |
 STOP b 
@@ -38469,8 +38008,7 @@ SPACE
 Psalms 142:4 in vtrad vtsef
 v,·,:,h,i,τ,:,ʕ,_,θ,·,‥,(il),f.
 SPACE
-ʕ,a,l,_,(qa),y
-THIN SPACE
+ʕ,a,l,_,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -38496,8 +38034,7 @@ l,i,𝓂,y,.
 Psalms 142:5 in vtrad vtsef
 h,_,v,·,‥,<,y,θ
 SPACE
-y,a,m,i,(qa),y,n.
-THIN SPACE
+y,a,m,i,(qa),y,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -38540,8 +38077,7 @@ SPACE
 h,_,x,_,y,·,i,𝓂,y,m.,.
 
 Psalms 142:7 in vtrad vtsef
-h,_,q,:,$,·sh,i,<,y,v,a,h
-THIN SPACE
+h,_,q,:,$,·sh,i,<,y,v,a,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -38565,8 +38101,7 @@ m,i,m,·,∵,𝓂,n,·,i,y,.
 Psalms 142:8 in vtrad vtsef
 h,≁,w,o,ц,i,<,y,α,a,h
 SPACE
-m,i,m,·,_,σ,:,g,·,‥,(qa),r
-THIN SPACE
+m,i,m,·,_,σ,:,g,·,‥,(qa),r,THIN SPACE
 START b 
 |
 STOP b 
@@ -38599,8 +38134,7 @@ m,i,z,:,m,◆,w,o,r
 SPACE
 l,:,d,a,(ol),w,i,(me),d
 SPACE
-y,:,h,o,w,a,<,h
-THIN SPACE
+y,:,h,o,w,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -38639,8 +38173,7 @@ k,·,i,(me),y
 SPACE
 r,a,≁,d,_,<,f.
 SPACE
-α,w,o,y,‥,(qa),v
-THIN SPACE
+α,w,o,y,‥,(qa),v,THIN SPACE
 START b 
 |
 STOP b 
@@ -38677,8 +38210,7 @@ l,i,v,·,i,𝓂,y,.
 Psalms 143:5 in vtrad vtsef
 z,a,≁,k,_,<,r,:,τ,·,i,y
 SPACE
-y,a,m,i,(qa),y,m.
-THIN SPACE
+y,a,m,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -38702,8 +38234,7 @@ y,a,d,_,⅃,y
 SPACE
 α,‥,l,∵,⅄,y,k.,a
 SPACE
-n,_,f,:,$,·sh,i,(sh),y
-THIN SPACE
+n,_,f,:,$,·sh,i,(sh),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -38717,8 +38248,7 @@ SPACE
 Psalms 143:7 in vtrad vtsef
 m,_,≁,h,‥,<,r
 SPACE
-ʕ,:_,n,‥,(qa),n,i,y
-THIN SPACE
+ʕ,:_,n,‥,(qa),n,i,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -38744,8 +38274,7 @@ v,𝓂,w,o,r,.
 Psalms 143:8 in vtrad vtsef
 h,_,$,·sh,:,m,i,≁,y,ʕ,‥,<,n,i,y
 SPACE
-v,_,v,·,o,(qa),q,∵,r
-THIN SPACE
+v,_,v,·,o,(qa),q,∵,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -38771,21 +38300,18 @@ n,_,f,:,$,·sh,i,𝓂,y,.
 Psalms 143:9 in vtrad vtsef
 h,_,ц,·,i,y,l,‥,(ti),n,i,y
 SPACE
-m,‥,α,o,y,:,v,_,(me),y
-THIN SPACE
+m,‥,α,o,y,:,v,_,(me),y,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,h,o,w,a,◆,h
+THIN SPACE,y,:,h,o,w,a,◆,h
 SPACE
 α,‥,l,∵,(me),y,k.,a
 SPACE
 k,i,σ,·,i,𝓂,τ,i,y,.
 
 Psalms 143:10 in vtrad vtsef
-l,_,m,·,:,d,‥,<,n,i,y
-THIN SPACE
+l,_,m,·,:,d,‥,<,n,i,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -38815,8 +38341,7 @@ y,:,h,o,w,a,⅃,h
 SPACE
 τ,·,:,x,_,y,·,‥,⅄,n,i,y
 SPACE
-v,·,:,ц,i,d,:,q,a,τ,:,k.,a,(sh)
-THIN SPACE
+v,·,:,ц,i,d,:,q,a,τ,:,k.,a,(sh),THIN SPACE
 START b 
 |
 STOP b 
@@ -38852,16 +38377,14 @@ STOP span class=mam-spi-pe
 START br 
 
 Psalms 144:1 in vtrad vtsef
-l,:,d,a,w,i,(qa),d
-THIN SPACE
+l,:,d,a,w,i,(qa),d,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
 v,·,a,≁,r,<,w,·,k.,:
 SPACE
-y,:,h,o,w,a,(qa),h
-THIN SPACE
+y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -38886,6 +38409,9 @@ SPACE
 m,i,$,·si,:,g,·,_,v,·,i,(ah),y
 SPACE
 w,·,𝓂,m,:,f,_,l,:,θ,i,(ol),y
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 l,i,(me),y
 SPACE
 m,a,(de),g,i,n,·,i,y
@@ -39042,8 +38568,7 @@ $,·sh,a,𝓂,q,∵,r,.
 Psalms 144:12 in vtrad vtsef
 α,:_,$,·sh,∵,<,r
 SPACE
-v,·,a,n,‥,(qa),y,n,w,·
-THIN SPACE
+v,·,a,n,‥,(qa),y,n,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -39074,6 +38599,9 @@ SPACE
 m,i,z,·,_,◆,n.
 SPACE
 α,∵,(ol),l
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 z,_,(me),n.
 SPACE
 ц,o,α,w,n,‥,⅃,n,w,·
@@ -39271,8 +38799,7 @@ SPACE
 y,:,d,_,v,·,‥,𝓂,r,w,·,.
 
 Psalms 145:12 in vtrad vtsef
-l,:,h,w,o,d,i,<,y,ʕ,_
-THIN SPACE
+l,:,h,w,o,d,i,<,y,ʕ,_,THIN SPACE
 START b 
 |
 STOP b 
@@ -39395,6 +38922,9 @@ SPACE
 y,:,h,o,w,a,◆,h
 SPACE
 y,:,𝓂,d,_,v,·,∵,(ol),r
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 f,·,i,(me),y
 SPACE
 w,i,y,v,a,r,‥,⅃,k.,:
@@ -39441,8 +38971,7 @@ Psalms 146:3 in vtrad vtsef
 SPACE
 v,i,n,:,d,i,y,v,i,⅄,y,m.
 SPACE
-v,·,:,v,∵,n.,-,α,a,d,a,(sh),m.
-THIN SPACE
+v,·,:,v,∵,n.,-,α,a,d,a,(sh),m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -39486,8 +39015,7 @@ SPACE
 α,:∵,l,o,h,a,𝓂,y,w,.
 
 Psalms 146:6 in vtrad vtsef
-ʕ,o,$,·si,∵,<,h
-THIN SPACE
+ʕ,o,$,·si,∵,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -39509,8 +39037,7 @@ l,:,ʕ,w,o,l,a,𝓂,m.,.
 Psalms 146:7 in vtrad vtsef
 ʕ,o,$,·si,∵,<,h
 SPACE
-m,i,$,·sh,:,f,·,a,(qa),θ
-THIN SPACE
+m,i,$,·sh,:,f,·,a,(qa),θ,THIN SPACE
 START b 
 |
 STOP b 
@@ -39530,8 +39057,7 @@ SPACE
 α,:_,σ,w,·,r,i,𝓂,y,m.,.
 
 Psalms 146:8 in vtrad vtsef
-y,:,h,o,w,a,<,h
-THIN SPACE
+y,:,h,o,w,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -39553,8 +39079,7 @@ SPACE
 ц,_,d,·,i,y,q,i,𝓂,y,m.,.
 
 Psalms 146:9 in vtrad vtsef
-y,:,h,o,w,a,<,h
-THIN SPACE
+y,:,h,o,w,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -39578,8 +39103,7 @@ y,:,ʕ,_,w,·,‥,𝓂,τ,.
 Psalms 146:10 in vtrad vtsef
 y,i,m,:,l,o,<,k.,:
 SPACE
-y,:,h,o,w,a,(qa),h
-THIN SPACE
+y,:,h,o,w,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -39603,8 +39127,10 @@ START br
 
 Psalms 147:1 in vtrad vtsef
 h,_,(me),l,:,l,w,·
-y,a,(qa),h,·
-THIN SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
+y,a,(qa),h,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -39700,8 +39226,7 @@ v,:,k,i,n,·,𝓂,w,o,r,.
 Psalms 147:8 in vtrad vtsef
 h,_,𝓂,m,:,k,_,σ,·,∵,(il),h
 SPACE
-$,·sh,a,m,_,(qa),y,i,m.
-THIN SPACE
+$,·sh,a,m,_,(qa),y,i,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -39872,8 +39397,7 @@ l,o,≁,α
 SPACE
 ʕ,a,<,$,·si,a,h
 SPACE
-k,‥,(qa),n.
-THIN SPACE
+k,‥,(qa),n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -39893,8 +39417,10 @@ START br
 
 Psalms 148:1 in vtrad vtsef
 h,_,(me),l,:,l,w,·
-y,a,(qa),h,·
-THIN SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
+y,a,(qa),h,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -39944,8 +39470,7 @@ h,_,$,·sh,·,a,m,a,⅄,y,i,m.
 SPACE
 w,:,γ,h,_,m,·,_,◆,y,i,m.
 SPACE
-α,:_,$,·sh,∵,<,r
-THIN SPACE
+α,:_,$,·sh,∵,<,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -40053,8 +39578,7 @@ SPACE
 ʕ,i,m.,-,n,:,ʕ,a,r,i,𝓂,y,m.,.
 
 Psalms 148:13 in vtrad vtsef
-y,:,h,_,l,:,l,<,w,·
-THIN SPACE
+y,:,h,_,l,:,l,<,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -40078,8 +39602,7 @@ w,:,$,·sh,a,m,a,𝓂,y,i,m.,.
 Psalms 148:14 in vtrad vtsef
 w,_,y,·,a,<,r,∵,m.
 SPACE
-q,∵,(qa),r,∵,n.
-THIN SPACE
+q,∵,(qa),r,∵,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -40107,8 +39630,10 @@ START br
 
 Psalms 149:1 in vtrad vtsef
 h,_,(me),l,:,l,w,·
-y,a,(qa),h,·
-THIN SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
+y,a,(qa),h,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -40217,8 +39742,7 @@ v,_,r,:,z,∵,𝓂,l,.
 Psalms 149:9 in vtrad vtsef
 l,_,ʕ,:_,$,·si,<,w,o,τ
 SPACE
-v,·,a,h,∵,(qa),m.
-THIN SPACE
+v,·,a,h,∵,(qa),m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -40242,8 +39766,10 @@ START br
 
 Psalms 150:1 in vtrad vtsef
 h,_,(me),l,:,l,w,·
-y,a,(qa),h,·
-THIN SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
+y,a,(qa),h,·,THIN SPACE
 START b 
 |
 STOP b 

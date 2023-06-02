@@ -1,7 +1,6 @@
 unicode_names Hosea
 Hosea 1:1 in vtrad vtsef
-d,·,:,v,_,r,-,y,:,h,o,w,a,⅃,h
-THIN SPACE
+d,·,:,v,_,r,-,y,:,h,o,w,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -813,8 +812,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Hosea 2:23 in vtrad vtsef
-w,:,h,a,y,a,⅃,h
-THIN SPACE
+w,:,h,a,y,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -972,8 +970,7 @@ SPACE
 α,‥,l,a,𝓂,y,i,k.,:,.
 
 Hosea 3:4 in vtrad vtsef
-k,·,i,⅃,y
-THIN SPACE
+k,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -1097,8 +1094,7 @@ SPACE
 n,a,g,a,𝓂,ʕ,w,·,.
 
 Hosea 4:3 in vtrad vtsef
-ʕ,_,l,-,k,·,‥,⅃,n.
-THIN SPACE
+ʕ,_,l,-,k,·,‥,⅃,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -1463,8 +1459,7 @@ $,·sh,i,m,:,ʕ,w,·,-,z,o,(qa),α,τ
 SPACE
 h,_,k,·,o,h,:_,n,i,(ge),y,m.
 SPACE
-w,:,h,_,q,:,$,·sh,i,⅃,y,v,w,·
-THIN SPACE
+w,:,h,_,q,:,$,·sh,i,⅃,y,v,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -2355,8 +2350,7 @@ SPACE
 y,:,x,_,$,·sh,·,:,v,w,·,-,r,a,𝓂,ʕ,.
 
 Hosea 7:16 in vtrad vtsef
-y,a,$,·sh,⅃,w,·,v,w,·
-THIN SPACE
+y,a,$,·sh,⅃,w,·,v,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -2704,13 +2698,11 @@ START br
 Hosea 9:1 in vtrad vtsef
 α,_,l,-,τ,·,i,$,·si,:,m,_,(qa),x
 SPACE
-y,i,$,·si,:,r,a,α,‥,<,l
-THIN SPACE
+y,i,$,·si,:,r,a,α,‥,<,l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,∵,l,-,g,·,i,y,l,(p)
+THIN SPACE,α,∵,l,-,g,·,i,y,l,(p)
 SPACE
 k,·,a,ʕ,_,m,·,i,ƶ,y,m.
 SPACE
@@ -2771,13 +2763,11 @@ y,o,α,k,‥,𝓂,l,w,·,.
 Hosea 9:4 in vtrad vtsef
 l,o,α,-,y,i,σ,·,:,k,(qa),w,·
 SPACE
-l,_,y,h,o,w,a,(me),h
-THIN SPACE
+l,_,y,h,o,w,a,(me),h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,_,≁,y,i,n.,~
+THIN SPACE,y,_,≁,y,i,n.,~
 SPACE
 w,:,l,o,⅃,α
 SPACE
@@ -2846,8 +2836,7 @@ SPACE
 v,·,:,α,oa,h,:a,l,‥,y,h,∵,𝓂,m.,.
 
 Hosea 9:7 in vtrad vtsef
-v,·,a,⅃,α,w,·
-THIN SPACE
+v,·,a,⅃,α,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -4090,8 +4079,7 @@ SPACE
 w,_,y,·,a,m,o,𝓂,τ,.
 
 Hosea 13:2 in vtrad vtsef
-w,:,ʕ,_,τ,·,a,⅃,h
-THIN SPACE
+w,:,ʕ,_,τ,·,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -4469,8 +4457,7 @@ SPACE
 $,·si,:,f,a,τ,‥,𝓂,y,n,w,·,.
 
 Hosea 14:4 in vtrad vtsef
-α,_,$,·sh,·,⅃,w,·,r
-THIN SPACE
+α,_,$,·sh,·,⅃,w,·,r,THIN SPACE
 START b 
 |
 STOP b 

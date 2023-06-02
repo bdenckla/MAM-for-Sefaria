@@ -10,8 +10,7 @@ SPACE
 SPACE
 $,·sh,:,m,⅄,w,o
 SPACE
-w,:,h,a,y,a,⅃,h
-THIN SPACE
+w,:,h,a,y,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -429,8 +428,7 @@ SPACE
 l,a,𝓂,k.,:,.
 
 Job 1:16 in vtrad vtsef
-ʕ,⅃,w,o,d
-THIN SPACE
+ʕ,⅃,w,o,d,THIN SPACE
 START b 
 |
 STOP b 
@@ -472,8 +470,7 @@ SPACE
 l,a,𝓂,k.,:,.
 
 Job 1:17 in vtrad vtsef
-ʕ,⅃,w,o,d
-THIN SPACE
+ʕ,⅃,w,o,d,THIN SPACE
 START b 
 |
 STOP b 
@@ -490,8 +487,7 @@ w,_,y,·,o,α,m,_,r,∴
 SPACE
 k,·,_,$,·si,:,d,·,i,(G),y,m.
 SPACE
-$,·si,a,⅃,m,w,·
-THIN SPACE
+$,·si,a,⅃,m,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -558,8 +554,7 @@ r,(qa),w,·,x,_
 SPACE
 g,·,:,d,w,o,l,a,(ge),h
 SPACE
-v,·,a,⅃,α,a,h
-THIN SPACE
+v,·,a,⅃,α,a,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -942,8 +937,7 @@ START br
 Job 2:11 in vtrad vtsef
 w,_,𝓂,y,·,i,$,·sh,:,m,:,ʕ,(G),w,·
 SPACE
-$,·sh,:,l,o,⅃,$,·sh,∵,τ
-THIN SPACE
+$,·sh,:,l,o,⅃,$,·sh,∵,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -1100,6 +1094,9 @@ SPACE
 h,_,h,◆,w,·,α
 SPACE
 y,:,𝓂,h,i,(ol),y
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 x,o,(me),$,·sh,∵,k.,:
 SPACE
 α,_,𝓂,l,-,y,i,d,:,r,:,$,·sh,‥,⅃,h,w,·
@@ -1249,8 +1246,7 @@ w,:,α,∵,$,·sh,:,q,⅄,w,o,θ
 SPACE
 y,a,γ,$,·sh,_,◆,n,:,τ,·,i,y
 SPACE
-α,a,<,z
-THIN SPACE
+α,a,<,z,THIN SPACE
 START b 
 |
 STOP b 
@@ -1436,8 +1432,7 @@ l,i,𝓂,y,.
 Job 3:26 in vtrad vtsef
 l,o,<,α
 SPACE
-$,·sh,a,l,_,(qa),w,:,τ,·,i,y
-THIN SPACE
+$,·sh,a,l,_,(qa),w,:,τ,·,i,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -1512,8 +1507,7 @@ SPACE
 Job 4:5 in vtrad vtsef
 k,·,i,<,y
 SPACE
-ʕ,_,τ,·,a,(qa),h
-THIN SPACE
+ʕ,_,τ,·,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -1671,8 +1665,7 @@ SPACE
 v,·,:,$,·si,a,r,i,𝓂,y,.
 
 Job 4:16 in vtrad vtsef
-y,_,ʕ,:_,m,o,<,d
-THIN SPACE
+y,_,ʕ,:_,m,o,<,d,THIN SPACE
 START b 
 |
 STOP b 
@@ -1722,8 +1715,7 @@ SPACE
 τ,·,oa,h,:a,l,a,𝓂,h,.
 
 Job 4:19 in vtrad vtsef
-α,_,<,f.
-THIN SPACE
+α,_,<,f.,THIN SPACE
 START b 
 |
 STOP b 
@@ -1823,8 +1815,7 @@ m,_,ц,·,i,𝓂,y,l,.
 Job 5:5 in vtrad vtsef
 α,:_,$,·sh,∵,<,r
 SPACE
-q,:,ц,i,y,r,(qa),w,o
-THIN SPACE
+q,:,ц,i,y,r,(qa),w,o,THIN SPACE
 START b 
 |
 STOP b 
@@ -1844,8 +1835,7 @@ SPACE
 x,‥,y,l,a,𝓂,m.,.
 
 Job 5:6 in vtrad vtsef
-k,·,i,<,y
-THIN SPACE
+k,·,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -2037,8 +2027,7 @@ SPACE
 SPACE
 y,_,ц,·,i,y,l,∵,⅄,k.,·,a
 SPACE
-w,·,v,:,$,·sh,∵,(sh),v,_,ʕ
-THIN SPACE
+w,·,v,:,$,·sh,∵,(sh),v,_,ʕ,THIN SPACE
 START b 
 |
 STOP b 
@@ -2296,8 +2285,7 @@ SPACE
 w,i,y,v,_,ц,·,:,ʕ,‥,𝓂,n,i,y,.
 
 Job 6:10 in vtrad vtsef
-w,·,(me),τ,:,h,i,y,-,ʕ,(qa),w,o,d
-THIN SPACE
+w,·,(me),τ,:,h,i,y,-,ʕ,(qa),w,o,d,THIN SPACE
 START b 
 |
 STOP b 
@@ -2739,6 +2727,9 @@ SPACE
 l,o,<,α
 SPACE
 α,∵,x,:∵,$,·si,oa,(ol),k.,:
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 f,·,i,(me),y
 SPACE
 α,:_,𝓂,(de),d,_,v,·,:,r,a,h
@@ -2852,8 +2843,7 @@ x,a,θ,a,μ,α,τ,i,y
 SPACE
 m,a,<,h
 SPACE
-α,∵,f,:,ʕ,_,(qa),l
-THIN SPACE
+α,∵,f,:,ʕ,_,(qa),l,THIN SPACE
 START b 
 |
 STOP b 
@@ -2879,8 +2869,7 @@ SPACE
 l,:,m,_,$,·si,·,a,𝓂,α,.
 
 Job 7:21 in vtrad vtsef
-w,·,m,∵,<,h
-THIN SPACE
+w,·,m,∵,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -3499,8 +3488,7 @@ SPACE
 y,i,l,:,ʕ,a,𝓂,g,.
 
 Job 9:24 in vtrad vtsef
-α,∵,<,r,∵,ц.
-THIN SPACE
+α,∵,<,r,∵,ц.,THIN SPACE
 START b 
 |
 STOP b 
@@ -3702,8 +3690,7 @@ m,_,h,-,τ,·,:,r,i,y,v,‥,𝓂,n,i,y,.
 Job 10:3 in vtrad vtsef
 h,:_,θ,<,w,o,v
 SPACE
-l,:,k.,a,(qa)
-THIN SPACE
+l,:,k.,a,(qa),THIN SPACE
 START b 
 |
 STOP b 
@@ -3892,8 +3879,7 @@ SPACE
 Job 10:17 in vtrad vtsef
 τ,·,:,x,_,d,·,‥,(il),$,·sh
 SPACE
-ʕ,‥,d,∵,(qa),y,k.,a
-THIN SPACE
+ʕ,‥,d,∵,(qa),y,k.,a,THIN SPACE
 START b 
 |
 STOP b 
@@ -3987,8 +3973,7 @@ w,:,ц,_,l,:,m,a,𝓂,w,∵,τ,.
 Job 10:22 in vtrad vtsef
 α,∵,<,r,∵,ц.
 SPACE
-ʕ,‥,f,a,(qa),τ,a,h
-THIN SPACE
+ʕ,‥,f,a,(qa),τ,a,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -4078,8 +4063,7 @@ SPACE
 ʕ,i,m,·,a,𝓂,k.,:,.
 
 Job 11:6 in vtrad vtsef
-w,:,y,_,g,·,∵,d,-,l,:,k.,a,(qa)
-THIN SPACE
+w,:,y,_,g,·,∵,d,-,l,:,k.,a,(qa),THIN SPACE
 START b 
 |
 STOP b 
@@ -4207,8 +4191,7 @@ SPACE
 ʕ,_,w,:,l,a,𝓂,h,.
 
 Job 11:15 in vtrad vtsef
-k,·,i,y,-,α,a,<,z
-THIN SPACE
+k,·,i,y,-,α,a,<,z,THIN SPACE
 START b 
 |
 STOP b 
@@ -4324,8 +4307,7 @@ x,oa,k,:,m,a,𝓂,h,.
 Job 12:3 in vtrad vtsef
 g,·,_,m.,-,l,i,<,y
 SPACE
-l,‥,v,a,(qa),v
-THIN SPACE
+l,‥,v,a,(qa),v,THIN SPACE
 START b 
 |
 STOP b 
@@ -4345,8 +4327,7 @@ k,·,:,m,w,o,-,α,‥,𝓂,l,·,∵,h,.
 Job 12:4 in vtrad vtsef
 $,·si,:,x,o,<,q
 SPACE
-l,:,r,‥,ʕ,‥,(qa),h,w,·
-THIN SPACE
+l,:,r,‥,ʕ,‥,(qa),h,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -4383,8 +4364,7 @@ r,a,𝓂,g,∵,l,.
 Job 12:6 in vtrad vtsef
 y,i,$,·sh,:,l,a,<,y,w,·
 SPACE
-α,o,h,a,l,i,(qa),y,m.
-THIN SPACE
+α,o,h,a,l,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -4826,8 +4806,7 @@ SPACE
 m,a,𝓂,h,.
 
 Job 13:14 in vtrad vtsef
-ʕ,_,l,-,m,a,<,h
-THIN SPACE
+ʕ,_,l,-,m,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -5009,8 +4988,7 @@ n,:,ʕ,w,·,r,a,𝓂,y,.
 Job 13:27 in vtrad vtsef
 w,:,τ,a,≁,$,·si,‥,<,m.
 SPACE
-v,·,_,σ,·,_,(qa),d
-THIN SPACE
+v,·,_,σ,·,_,(qa),d,THIN SPACE
 START b 
 |
 STOP b 
@@ -5097,8 +5075,7 @@ SPACE
 Job 14:5 in vtrad vtsef
 α,i,(me),m.
 SPACE
-x,:_,r,w,·,ц,i,(qa),y,m.
-THIN SPACE
+x,:_,r,w,·,ц,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -5223,8 +5200,7 @@ m,i,$,·sh,·,:,n,a,τ,a,𝓂,m.,.
 Job 14:13 in vtrad vtsef
 m,i,<,y
 SPACE
-y,i,τ,·,‥,(qa),n.
-THIN SPACE
+y,i,τ,·,‥,(qa),n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -5313,8 +5289,7 @@ SPACE
 m,i,m,·,:,q,o,m,𝓂,w,o,.
 
 Job 14:19 in vtrad vtsef
-α,:_,v,a,n,i,<,y,m.
-THIN SPACE
+α,:_,v,a,n,i,<,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -5676,8 +5651,7 @@ l,_,l,·,∵,⅃,x,∵,m.
 SPACE
 α,_,y,·,‥,⅄,h
 SPACE
-y,a,d,_,(sh),ʕ
-THIN SPACE
+y,a,d,_,(sh),ʕ,THIN SPACE
 START b 
 |
 STOP b 
@@ -5697,8 +5671,7 @@ w,·,m,:,ц,w,·,q,a,⅄,h
 SPACE
 τ,·,i,γ,τ,:,q,:,f,‥,◆,h,w,·
 SPACE
-k,·,:,m,∵,<,l,∵,k.,:
-THIN SPACE
+k,·,:,m,∵,<,l,∵,k.,:,THIN SPACE
 START b 
 |
 STOP b 
@@ -5745,8 +5718,7 @@ SPACE
 ʕ,:_,l,‥,y,-,k,a,𝓂,σ,∵,l,.
 
 Job 15:28 in vtrad vtsef
-w,_,y,·,i,$,·sh,:,k,·,<,w,o,n.
-THIN SPACE
+w,_,y,·,i,$,·sh,:,k,·,<,w,o,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -5781,8 +5753,7 @@ SPACE
 m,i,n,:,l,a,𝓂,m.,.
 
 Job 15:30 in vtrad vtsef
-l,o,𝓂,α,-,y,a,σ,(qa),w,·,r
-THIN SPACE
+l,o,𝓂,α,-,y,a,σ,(qa),w,·,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -5905,8 +5876,7 @@ SPACE
 τ,_,𝓂,ʕ,:_,n,∵,𝓂,h,.
 
 Job 16:4 in vtrad vtsef
-g,·,_,<,m.
-THIN SPACE
+g,·,_,<,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -5994,8 +5964,7 @@ y,_,ʕ,:_,n,∵,𝓂,h,.
 Job 16:9 in vtrad vtsef
 α,_,f,·,<,w,o
 SPACE
-θ,a,r,_,(qa),f.
-THIN SPACE
+θ,a,r,_,(qa),f.,THIN SPACE
 START b 
 |
 STOP b 
@@ -6008,8 +5977,7 @@ SPACE
 SPACE
 v,·,:,$,·sh,i,n,·,a,⅄,y,w
 SPACE
-ц,a,r,i,(sh),y
-THIN SPACE
+ц,a,r,i,(sh),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -6023,8 +5991,7 @@ l,i,𝓂,y,.
 Job 16:10 in vtrad vtsef
 f,·,a,ʕ,:_,r,(il),w,·
 SPACE
-ʕ,a,l,_,(qa),y
-THIN SPACE
+ʕ,a,l,_,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -6061,8 +6028,7 @@ y,i,r,:,θ,‥,𝓂,n,i,y,.
 Job 16:12 in vtrad vtsef
 $,·sh,a,≁,l,‥,<,w
 SPACE
-h,a,y,i,(qa),y,τ,i,y
-THIN SPACE
+h,a,y,i,(qa),y,τ,i,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -6084,8 +6050,7 @@ l,:,m,_,θ,·,a,r,a,𝓂,h,.
 Job 16:13 in vtrad vtsef
 y,a,≁,σ,o,<,v,·,w,·
 SPACE
-ʕ,a,l,_,(qa),y
-THIN SPACE
+ʕ,a,l,_,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -6459,8 +6424,7 @@ SPACE
 w,_,y,·,o,α,m,_,𝓂,r,.
 
 Job 18:2 in vtrad vtsef
-ʕ,_,d,-,α,a,<,n,a,h
-THIN SPACE
+ʕ,_,d,-,α,a,<,n,a,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -6869,8 +6833,7 @@ SPACE
 k,:,ц,a,r,a,𝓂,y,w,.
 
 Job 19:12 in vtrad vtsef
-y,_,<,x,_,d
-THIN SPACE
+y,_,<,x,_,d,THIN SPACE
 START b 
 |
 STOP b 
@@ -7080,8 +7043,7 @@ SPACE
 Job 19:27 in vtrad vtsef
 α,:_,$,·sh,∵,<,r
 SPACE
-α,:_,n,i,(qa),y
-THIN SPACE
+α,:_,n,i,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -7116,8 +7078,7 @@ n,i,m,:,ц,a,α,-,v,i,𝓂,y,.
 Job 19:29 in vtrad vtsef
 g,·,<,w,·,r,w,·
 SPACE
-l,a,k,∵,(qa),m.
-THIN SPACE
+l,a,k,∵,(qa),m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -7410,8 +7371,7 @@ SPACE
 y,i,v,:,n,‥,𝓂,h,w,·,.
 
 Job 20:20 in vtrad vtsef
-k,·,i,<,y
-THIN SPACE
+k,·,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -7455,8 +7415,7 @@ SPACE
 τ,·,:,v,o,α,∵,𝓂,n,·,w,·,.
 
 Job 20:23 in vtrad vtsef
-y,:,h,i,<,y
-THIN SPACE
+y,:,h,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -7553,8 +7512,7 @@ SPACE
 α,_,f,·,𝓂,w,o,.
 
 Job 20:29 in vtrad vtsef
-z,∵,<,h
-THIN SPACE
+z,∵,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -7791,8 +7749,7 @@ SPACE
 m,∵,𝓂,n,·,i,y,.
 
 Job 21:17 in vtrad vtsef
-k,·,_,m,·,a,<,h
-THIN SPACE
+k,·,_,m,·,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -7958,8 +7915,7 @@ v,‥,y,τ,-,n,a,d,i,⅄,y,v
 SPACE
 w,:,γ,α,_,y,·,‥,◆,h
 SPACE
-α,o,<,h,∵,l
-THIN SPACE
+α,o,<,h,∵,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -8028,6 +7984,9 @@ Job 21:33 in vtrad vtsef
 m,a,𝓂,τ,:,q,w,·,-,l,◆,w,o
 SPACE
 r,i,g,:,v,‥,(ol),y
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 n,a,(me),x,_,l
 SPACE
 w,:,(de),α,_,x,:_,r,a,y,w
@@ -8719,8 +8678,7 @@ SPACE
 Job 24:5 in vtrad vtsef
 h,‥,<,n.
 SPACE
-f,·,:,r,a,α,i,(qa),y,m.
-THIN SPACE
+f,·,:,r,a,α,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -8832,8 +8790,7 @@ w,_,y,·,i,ц,:,m,a,𝓂,α,w,·,.
 Job 24:12 in vtrad vtsef
 m,‥,≁,ʕ,i,<,y,r
 SPACE
-m,:,τ,i,(qa),y,m.
-THIN SPACE
+m,:,τ,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -8851,8 +8808,7 @@ SPACE
 τ,·,i,f,:,l,a,𝓂,h,.
 
 Job 24:13 in vtrad vtsef
-h,‥,<,m,·,a,h
-THIN SPACE
+h,‥,<,m,·,a,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -8860,6 +8816,9 @@ SPACE
 h,a,y,w,·,~
 SPACE
 v,·,:,𝓂,m,o,r,:,d,‥,(ol),y
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 α,(me),w,o,r
 SPACE
 l,o,α,-,h,i,k,·,i,(me),y,r,w,·
@@ -8892,8 +8851,7 @@ k,_,g,·,_,n,·,a,𝓂,v,.
 Job 24:15 in vtrad vtsef
 w,:,ʕ,‥,<,y,n.
 SPACE
-n,o,α,‥,(qa),f.
-THIN SPACE
+n,o,α,‥,(qa),f.,THIN SPACE
 START b 
 |
 STOP b 
@@ -8932,8 +8890,7 @@ SPACE
 Job 24:17 in vtrad vtsef
 k,·,i,<,y
 SPACE
-y,_,x,:,d,·,a,(qa),w
-THIN SPACE
+y,_,x,:,d,·,a,(qa),w,THIN SPACE
 START b 
 |
 STOP b 
@@ -8951,8 +8908,7 @@ SPACE
 ц,_,l,:,m,a,𝓂,w,∵,τ,.
 
 Job 24:18 in vtrad vtsef
-q,_,l,-,h,<,w,·,α
-THIN SPACE
+q,_,l,-,h,<,w,·,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -8987,8 +8943,7 @@ x,a,θ,a,𝓂,α,w,·,.
 Job 24:20 in vtrad vtsef
 y,i,$,·sh,:,k,·,a,≁,x,‥,<,h,w,·
 SPACE
-r,∵,(qa),x,∵,m.
-THIN SPACE
+r,∵,(qa),x,∵,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -9049,8 +9004,7 @@ SPACE
 Job 24:24 in vtrad vtsef
 r,<,w,o,m,·,w,·
 SPACE
-m,·,:,ʕ,_,(qa),θ
-THIN SPACE
+m,·,:,ʕ,_,(qa),θ,THIN SPACE
 START b 
 |
 STOP b 
@@ -9330,8 +9284,7 @@ SPACE
 v,·,a,r,i,𝓂,x,_,.
 
 Job 26:14 in vtrad vtsef
-h,∵,n.,-,α,‥,<,l,·,∵,h
-THIN SPACE
+h,∵,n.,-,α,‥,<,l,·,∵,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -9476,13 +9429,11 @@ n,_,f,:,$,·sh,𝓂,w,o,.
 Job 27:9 in vtrad vtsef
 h,:_,𝓂,(de),ц,_,ʕ,:_,q,a,τ,w,o
 SPACE
-y,i,$,·sh,:,m,_,(me),ʕ
-THIN SPACE
+y,i,$,·sh,:,m,_,(me),ʕ,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,‥,⅄,l
+THIN SPACE,α,‥,⅄,l
 SPACE
 k,·,i,𝓂,y,-,τ,a,v,(ti),w,o,α
 SPACE
@@ -9530,21 +9481,18 @@ SPACE
 τ,·,∵,h,:,v,·,a,𝓂,l,w,·,.
 
 Job 27:13 in vtrad vtsef
-z,∵,<,h
-THIN SPACE
+z,∵,<,h,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
 x,‥,l,∵,q,-,α,a,d,a,(ti),m.
 SPACE
-r,a,$,·sh,a,(me),ʕ
-THIN SPACE
+r,a,$,·sh,a,(me),ʕ,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-ʕ,i,m.,-,α,‥,⅄,l
+THIN SPACE,ʕ,i,m.,-,α,‥,⅄,l
 SPACE
 w,:,𝓂,n,_,x,:_,l,_,(me),τ
 SPACE
@@ -9717,8 +9665,7 @@ SPACE
 n,:,x,w,·,$,·sh,a,𝓂,h,.
 
 Job 28:3 in vtrad vtsef
-q,‥,<,ц.
-THIN SPACE
+q,‥,<,ц.,THIN SPACE
 START b 
 |
 STOP b 
@@ -9742,8 +9689,7 @@ w,:,ц,_,l,:,m,a,𝓂,w,∵,τ,.
 Job 28:4 in vtrad vtsef
 f,·,a,<,r,_,ц.
 SPACE
-n,_,(qa),x,_,l
-THIN SPACE
+n,_,(qa),x,_,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -10073,8 +10019,7 @@ SPACE
 w,:,g,_,m.,-,x,:_,q,a,r,a,𝓂,h,·,.
 
 Job 28:28 in vtrad vtsef
-w,_,y,·,o,<,α,m,∵,r
-THIN SPACE
+w,_,y,·,o,<,α,m,∵,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -10444,8 +10389,7 @@ SPACE
 y,:,n,_,x,‥,𝓂,m.,.
 
 Job 30:1 in vtrad vtsef
-w,:,ʕ,_,τ,·,a,<,h
-THIN SPACE
+w,:,ʕ,_,τ,·,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -10910,8 +10854,7 @@ SPACE
 ʕ,_,l,-,v,·,:,τ,w,·,l,a,𝓂,h,.
 
 Job 31:2 in vtrad vtsef
-w,·,m,∵,<,h
-THIN SPACE
+w,·,m,∵,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -11371,8 +11314,7 @@ SPACE
 Job 31:34 in vtrad vtsef
 k,·,i,<,y
 SPACE
-α,∵,ʕ,:∵,r,(qa),w,o,ц.
-THIN SPACE
+α,∵,ʕ,:∵,r,(qa),w,o,ц.,THIN SPACE
 START b 
 |
 STOP b 
@@ -11394,8 +11336,7 @@ f,a,𝓂,τ,_,x,.
 Job 31:35 in vtrad vtsef
 m,i,<,y
 SPACE
-y,i,τ,·,∵,n.,-,l,i,(qa),y
-THIN SPACE
+y,i,τ,·,∵,n.,-,l,i,(qa),y,THIN SPACE
 START b 
 |
 STOP b 
@@ -11471,8 +11412,7 @@ h,i,f,·,a,𝓂,x,:,τ,·,i,y,.
 Job 31:40 in vtrad vtsef
 τ,·,_,<,x,_,τ
 SPACE
-x,i,θ,·,a,(qa),h
-THIN SPACE
+x,i,θ,·,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -11525,8 +11465,7 @@ START br
 Job 32:2 in vtrad vtsef
 w,_,y,·,i,<,x,_,r
 SPACE
-α,_,(qa),f.
-THIN SPACE
+α,_,(qa),f.,THIN SPACE
 START b 
 |
 STOP b 
@@ -11618,8 +11557,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Job 32:6 in vtrad vtsef
-w,_,y,·,_,<,ʕ,_,n.
-THIN SPACE
+w,_,y,·,_,<,ʕ,_,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -11646,8 +11584,7 @@ SPACE
 SPACE
 z,a,x,_,(me),l,:,τ,·,i,y
 SPACE
-w,a,α,i,y,r,a,(sh),α
-THIN SPACE
+w,a,α,i,y,r,a,(sh),α,THIN SPACE
 START b 
 |
 STOP b 
@@ -11713,8 +11650,7 @@ SPACE
 Job 32:11 in vtrad vtsef
 h,‥,<,n.
 SPACE
-h,w,o,x,_,(qa),l,:,τ,·,i,y
-THIN SPACE
+h,w,o,x,_,(qa),l,:,τ,·,i,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -11988,6 +11924,9 @@ SPACE
 α,:_,n,i,◆,y
 SPACE
 v,·,:,𝓂,l,i,(ol),y
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 f,a,(me),$,·sh,_,ʕ
 SPACE
 START small 
@@ -12069,8 +12008,7 @@ SPACE
 y,:,$,·sh,w,·,r,∵,𝓂,n,·,a,h,.
 
 Job 33:15 in vtrad vtsef
-v,·,_,x,:_,l,<,w,o,m.
-THIN SPACE
+v,·,_,x,:_,l,<,w,o,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -12201,8 +12139,7 @@ l,_,𝓂,m,:,m,i,τ,i,𝓂,y,m.,.
 Job 33:23 in vtrad vtsef
 α,i,m.,-,y,‥,<,$,·sh
 SPACE
-ʕ,a,l,a,(qa),y,w
-THIN SPACE
+ʕ,a,l,a,(qa),y,w,THIN SPACE
 START b 
 |
 STOP b 
@@ -12252,8 +12189,7 @@ SPACE
 Job 33:26 in vtrad vtsef
 y,∵,ʕ,:,τ,·,_,<,r
 SPACE
-α,∵,l,-,α,:∵,l,(qa),w,o,h,·,_
-THIN SPACE
+α,∵,l,-,α,:∵,l,(qa),w,o,h,·,_,THIN SPACE
 START b 
 |
 STOP b 
@@ -12273,8 +12209,7 @@ SPACE
 ц,i,d,:,q,a,τ,𝓂,w,o,.
 
 Job 33:27 in vtrad vtsef
-y,a,$,·sh,o,<,r
-THIN SPACE
+y,a,$,·sh,o,<,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -12492,8 +12427,7 @@ SPACE
 ʕ,i,m.,-,α,:∵,l,o,h,i,𝓂,y,m.,.
 
 Job 34:10 in vtrad vtsef
-l,a,k,‥,<,n.
-THIN SPACE
+l,a,k,‥,<,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -12503,6 +12437,9 @@ SPACE
 l,‥,v,a,◆,v
 SPACE
 $,·sh,i,m,:,ʕ,(ol),w,·
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 l,i,(me),y
 SPACE
 x,a,l,i,(ti),l,a,h
@@ -12626,8 +12563,7 @@ SPACE
 Job 34:19 in vtrad vtsef
 α,:_,$,·sh,∵,<,r
 SPACE
-l,o,𝓂,α,-,n,a,$,·si,a,(qa),α
-THIN SPACE
+l,o,𝓂,α,-,n,a,$,·si,a,(qa),α,THIN SPACE
 START b 
 |
 STOP b 
@@ -12649,8 +12585,7 @@ SPACE
 k,·,u,l,·,a,𝓂,m.,.
 
 Job 34:20 in vtrad vtsef
-r,∵,<,g,_,ʕ
-THIN SPACE
+r,∵,<,g,_,ʕ,THIN SPACE
 START b 
 |
 STOP b 
@@ -12782,8 +12717,7 @@ y,i,$,·sh,:,m,a,𝓂,ʕ,.
 Job 34:29 in vtrad vtsef
 w,:,h,<,w,·,α
 SPACE
-y,_,$,·sh,:,q,i,(qa),θ
-THIN SPACE
+y,_,$,·sh,:,q,i,(qa),θ,THIN SPACE
 START b 
 |
 STOP b 
@@ -12848,8 +12782,7 @@ SPACE
 Job 34:33 in vtrad vtsef
 h,:_,𝓂,m,‥,ʕ,i,m,·,:,k.,a,(il)
 SPACE
-y,:,$,·sh,_,l,·,:,m,∵,(qa),n,·,a,h
-THIN SPACE
+y,:,$,·sh,_,l,·,:,m,∵,(qa),n,·,a,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -13078,13 +13011,11 @@ r,a,ʕ,i,𝓂,y,m.,.
 Job 35:13 in vtrad vtsef
 α,_,k.,:,-,$,·sh,a,(de),w,:,α
 SPACE
-l,o,α,-,y,i,$,·sh,:,m,_,(me),ʕ
-THIN SPACE
+l,o,α,-,y,i,$,·sh,:,m,_,(me),ʕ,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,‥,⅄,l
+THIN SPACE,α,‥,⅄,l
 SPACE
 w,:,γ,$,·sh,_,d,·,_,◆,y
 SPACE
@@ -13336,8 +13267,7 @@ SPACE
 Job 36:16 in vtrad vtsef
 w,:,α,_,<,f.
 SPACE
-h,:_,σ,i,𝓂,y,τ,:,k.,a,(qa)
-THIN SPACE
+h,:_,σ,i,𝓂,y,τ,:,k.,a,(qa),THIN SPACE
 START b 
 |
 STOP b 
@@ -13502,8 +13432,7 @@ $,·sh,:,x,a,q,i,⅄,y,m.
 SPACE
 y,i,γ,r,:,ʕ,:_,f,◆,w,·
 SPACE
-ʕ,:_,l,‥,<,y
-THIN SPACE
+ʕ,:_,l,‥,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -13609,8 +13538,7 @@ SPACE
 h,a,α,a,𝓂,r,∵,ц.,.
 
 Job 37:4 in vtrad vtsef
-α,_,x,:_,r,a,<,y,w
-THIN SPACE
+α,_,x,:_,r,a,<,y,w,THIN SPACE
 START b 
 |
 STOP b 
@@ -13651,8 +13579,7 @@ n,‥,d,a,𝓂,ʕ,.
 Job 37:6 in vtrad vtsef
 k,·,i,<,y
 SPACE
-l,_,$,·sh,·,∵,(qa),l,∵,g
-THIN SPACE
+l,_,$,·sh,·,∵,(qa),l,∵,g,THIN SPACE
 START b 
 |
 STOP b 
@@ -13660,6 +13587,9 @@ SPACE
 y,o,α,m,_,◆,r
 SPACE
 h,:∵,w,‥,(ol),α
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 α,a,(me),r,∵,ц.
 SPACE
 w,:,g,∵,(me),$,·sh,∵,m.
@@ -13732,8 +13662,7 @@ SPACE
 Job 37:12 in vtrad vtsef
 w,:,h,<,w,·,α
 SPACE
-m,:,σ,i,v,·,(qa),w,o,τ
-THIN SPACE
+m,:,σ,i,v,·,(qa),w,o,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -13750,8 +13679,7 @@ k,·,o,(ti),l
 SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
-y,:,ц,_,w,·,‥,(sh),m.
-THIN SPACE
+y,:,ц,_,w,·,‥,(sh),m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -13780,8 +13708,7 @@ SPACE
 SPACE
 ʕ,:_,γ,m,o,◆,d
 SPACE
-w,:,h,i,τ,:,v,·,w,o,n,‥,<,n.
-THIN SPACE
+w,:,h,i,τ,:,v,·,w,o,n,‥,<,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -13865,8 +13792,7 @@ SPACE
 y,:,v,u,l,·,a,𝓂,ʕ,.
 
 Job 37:21 in vtrad vtsef
-w,:,ʕ,_,τ,·,a,<,h
-THIN SPACE
+w,:,ʕ,_,τ,·,a,<,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -13957,8 +13883,7 @@ w,_,y,·,o,α,m,_,𝓂,r,.
 Job 38:2 in vtrad vtsef
 m,i,<,y
 SPACE
-z,∵,(qa),h
-THIN SPACE
+z,∵,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -14832,8 +14757,7 @@ $,·sh,w,o,f,a,𝓂,r,.
 Job 39:25 in vtrad vtsef
 v,·,:,d,‥,<,y
 SPACE
-$,·sh,o,f,a,(qa),r
-THIN SPACE
+$,·sh,o,f,a,(qa),r,THIN SPACE
 START b 
 |
 STOP b 
@@ -15041,13 +14965,11 @@ SPACE
 Job 40:9 in vtrad vtsef
 w,:,α,i,m.,-,z,:,r,(ti),w,o,ʕ,_
 SPACE
-k,·,a,α,‥,(me),l
-THIN SPACE
+k,·,a,α,‥,(me),l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,a,⅄,k.,:
+THIN SPACE,l,a,⅄,k.,:
 SPACE
 w,·,γ,v,:,q,◆,w,o,l
 SPACE
@@ -15235,8 +15157,7 @@ l,o,⅃,α
 SPACE
 y,_,x,:,f,·,⅄,w,o,z
 SPACE
-y,i,v,:,θ,_,(sh),x
-THIN SPACE
+y,i,v,:,θ,_,(sh),x,THIN SPACE
 START b 
 |
 STOP b 
@@ -15729,8 +15650,7 @@ m,:,z,i,m,·,a,𝓂,h,.
 Job 42:3 in vtrad vtsef
 m,i,<,y
 SPACE
-z,∵,(qa),h
-THIN SPACE
+z,∵,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -15740,6 +15660,9 @@ SPACE
 ʕ,‥,ц,a,◆,h
 SPACE
 v,·,:,𝓂,l,i,(ol),y
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 d,a,(me),ʕ,_,τ
 SPACE
 l,a,k,‥,⅃,n.
@@ -15866,8 +15789,7 @@ w,:,$,·sh,i,v,:,ʕ,a,(qa),h
 SPACE
 α,‥,y,l,i,(ge),y,m.
 SPACE
-w,·,l,:,k,⅃,w,·
-THIN SPACE
+w,·,l,:,k,⅃,w,·,THIN SPACE
 START b 
 |
 STOP b 

@@ -295,8 +295,7 @@ SPACE
 l,‥,α,m,o,𝓂,r,.
 
 Joshua 1:11 in vtrad vtsef
-ʕ,i,v,:,r,⅃,w,·
-THIN SPACE
+ʕ,i,v,:,r,⅃,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -319,8 +318,7 @@ SPACE
 SPACE
 k,·,i,(G),y
 SPACE
-v,·,:,ʕ,⅃,w,o,d
-THIN SPACE
+v,·,:,ʕ,⅃,w,o,d,THIN SPACE
 START b 
 |
 STOP b 
@@ -458,13 +456,11 @@ Joshua 1:15 in vtrad vtsef
 SPACE
 α,:_,$,·sh,∵,r,-,y,a,n,i,(qa),y,x,_
 SPACE
-y,:,h,o,w,a,(me),h
-THIN SPACE
+y,:,h,o,w,a,(me),h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,_,α,:_,x,‥,y,k,∵,m.,~
+THIN SPACE,l,_,α,:_,x,‥,y,k,∵,m.,~
 SPACE
 k,·,a,k,∵,m.,∴
 SPACE
@@ -492,8 +488,7 @@ w,i,y,r,i,$,·sh,:,τ,·,∵,⅃,m.
 SPACE
 α,w,o,τ,a,ƶ,h,·
 SPACE
-α,:_,$,·sh,∵,⅃,r
-THIN SPACE
+α,:_,$,·sh,∵,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -698,8 +693,7 @@ h,a,α,:_,n,a,$,·sh,i,(ti),y,m.
 SPACE
 w,_,𝓂,τ,·,i,ц,:,f,·,:,n,⅄,w,o
 SPACE
-w,_,τ,·,o,⅃,α,m,∵,r
-THIN SPACE
+w,_,τ,·,o,⅃,α,m,∵,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -1164,13 +1158,11 @@ SPACE
 SPACE
 m,i,d,·,_,l,:,τ,‥,(qa),y
 SPACE
-v,‥,y,τ,‥,(da),k.,:
-THIN SPACE
+v,‥,y,τ,‥,(da),k.,:,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-h,_,x,⟓,w,·,ц,a,h
+THIN SPACE,h,_,x,⟓,w,·,ц,a,h
 SPACE
 d,·,a,m,(me),w,o
 SPACE
@@ -1405,8 +1397,7 @@ SPACE
 α,_,x,:_,r,a,𝓂,y,w,.
 
 Joshua 3:4 in vtrad vtsef
-α,_,⅃,k.,:
-THIN SPACE
+α,_,⅃,k.,:,THIN SPACE
 START b 
 |
 STOP b 
@@ -2734,8 +2725,7 @@ m,i,m,·,i,ц,:,r,_,(qa),y,i,m.
 SPACE
 h,_,z,·,:,k,a,r,i,(ge),y,m.
 SPACE
-k,·,o,⅃,l
-THIN SPACE
+k,·,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -2778,8 +2768,7 @@ SPACE
 l,o,α,-,m,a,𝓂,l,w,·,.
 
 Joshua 5:6 in vtrad vtsef
-k,·,i,⅃,y
-THIN SPACE
+k,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -3067,8 +3056,7 @@ SPACE
 α,i,m.,-,l,:,ц,a,r,‥,𝓂,y,n,w,·,.
 
 Joshua 5:14 in vtrad vtsef
-w,_,y,·,o,⅃,α,m,∵,r
-THIN SPACE
+w,_,y,·,o,⅃,α,m,∵,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -3263,8 +3251,7 @@ v,·,_,$,·sh,·,w,o,f,a,r,𝓂,w,o,τ,.
 Joshua 6:5 in vtrad vtsef
 w,:,h,a,y,a,(G),h
 SPACE
-v,·,i,m,:,$,·sh,o,⅃,k.,:
-THIN SPACE
+v,·,i,m,:,$,·sh,o,⅃,k.,:,THIN SPACE
 START b 
 |
 STOP b 
@@ -3612,8 +3599,7 @@ SPACE
 y,a,m,i,𝓂,y,m.,.
 
 Joshua 6:15 in vtrad vtsef
-w,_,y,:,h,i,⅃,y
-THIN SPACE
+w,_,y,:,h,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -3748,8 +3734,7 @@ SPACE
 α,w,o,τ,𝓂,w,o,.
 
 Joshua 6:19 in vtrad vtsef
-w,:,k,o,⅃,l
-THIN SPACE
+w,:,k,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -3923,8 +3908,7 @@ v,a,α,‥,(ti),$,·sh
 SPACE
 w,:,k,oa,l,-,α,:_,$,·sh,∵,r,-,v,·,a,⅄,h,·
 SPACE
-r,_,⅃,q
-THIN SPACE
+r,_,⅃,q,THIN SPACE
 START b 
 |
 STOP b 
@@ -4278,8 +4262,7 @@ w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 y,:,h,w,o,$,·sh,u,(ge),ʕ,_
 SPACE
-α,:_,h,a,⅃,h,·
-THIN SPACE
+α,:_,h,a,⅃,h,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -4975,8 +4958,7 @@ SPACE
 SPACE
 h,a,ʕ,a,⅄,y
 SPACE
-r,:,α,‥,⅃,h
-THIN SPACE
+r,:,α,‥,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -5935,29 +5917,23 @@ w,:,k,oa,l,-,y,i,$,·si,:,r,a,α,‥,μ,l
 SPACE
 w,·,z,:,q,‥,n,a,μ,y,w
 SPACE
-w,:,$,·sh,o,θ,:,r,i,⅃,y,m.
-THIN SPACE
+w,:,$,·sh,o,θ,:,r,i,⅃,y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-w,:,$,·sh,o,f,:,θ,a,μ,y,w
+THIN SPACE,w,:,$,·sh,o,f,:,θ,a,μ,y,w
 SPACE
 ʕ,o,m,:,d,i,⅃,y,m.
 SPACE
-m,i,z,·,∵,⅃,h
-THIN SPACE
+m,i,z,·,∵,⅃,h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-w,·,m,i,z,·,∵,⅃,h
-THIN SPACE
+THIN SPACE,w,·,m,i,z,·,∵,⅃,h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,a,α,a,r,μ,w,o,n.
+THIN SPACE,l,a,α,a,r,μ,w,o,n.
 SPACE
 n,∵,(tq),g,∵,d,(tq)
 SPACE
@@ -5965,8 +5941,7 @@ h,_,k,·,o,h,:_,n,i,(qa),y,m.
 SPACE
 h,_,l,:,w,i,y,·,i,(ge),m.
 SPACE
-n,o,$,·si,:,α,‥,⅃,y
-THIN SPACE
+n,o,$,·si,:,α,‥,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -6319,8 +6294,7 @@ SPACE
 v,·,:,m,i,ц,:,r,a,𝓂,y,i,m.,.
 
 Joshua 9:10 in vtrad vtsef
-w,:,α,‥,⅃,τ
-THIN SPACE
+w,:,α,‥,⅃,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -6395,8 +6369,7 @@ SPACE
 v,:,r,i,𝓂,y,τ,.
 
 Joshua 9:12 in vtrad vtsef
-z,∵,⅃,h
-THIN SPACE
+z,∵,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -6984,8 +6957,7 @@ w,_,y,·,‥,α,a,σ,:,f,(qa),w,·
 SPACE
 w,_,𝓂,y,·,_,ʕ,:_,l,(ge),w,·
 SPACE
-x,:_,m,‥,⅃,$,·sh,∵,τ
-THIN SPACE
+x,:_,m,‥,⅃,$,·sh,∵,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -7163,8 +7135,7 @@ w,:,ʕ,_,d,-,m,_,q,·,‥,d,a,𝓂,h,.
 Joshua 10:11 in vtrad vtsef
 w,_,y,:,h,i,(G),y
 SPACE
-v,·,:,n,u,σ,a,⅃,m.
-THIN SPACE
+v,·,:,n,u,σ,a,⅃,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -7248,8 +7219,7 @@ v,·,:,n,‥,⅃,y
 SPACE
 y,i,$,·si,:,r,a,α,‥,⅄,l
 SPACE
-w,_,y,·,o,⅃,α,m,∵,r
-THIN SPACE
+w,_,y,·,o,⅃,α,m,∵,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -7545,8 +7515,7 @@ h,a,α,‥,(ti),l,·,∵,h
 SPACE
 m,i,n.,-,h,_,m,·,:,ʕ,a,r,a,⅄,h
 SPACE
-α,‥,⅃,τ
-THIN SPACE
+α,‥,⅃,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -7683,8 +7652,7 @@ SPACE
 Joshua 10:27 in vtrad vtsef
 w,_,y,:,h,i,(G),y
 SPACE
-l,:,ʕ,‥,⅃,τ
-THIN SPACE
+l,:,ʕ,‥,⅃,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -8775,13 +8743,11 @@ k,·,i,⅃,y
 SPACE
 m,‥,α,‥,⅃,τ
 SPACE
-y,:,h,o,w,a,⅃,h
-THIN SPACE
+y,:,h,o,w,a,⅃,h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-h,a,𝓂,y,:,τ,a,μ,h
+THIN SPACE,h,a,𝓂,y,:,τ,a,μ,h
 SPACE
 l,:,x,_,z,·,‥,⅃,q
 SPACE
@@ -8937,8 +8903,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Joshua 12:1 in vtrad vtsef
-w,:,α,‥,⅃,l,·,∵,h
-THIN SPACE
+w,:,α,‥,⅃,l,·,∵,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -9601,8 +9566,7 @@ w,:,k,oa,l,-,h,_,g,·,:,$,·sh,w,·,r,i,𝓂,y,.
 Joshua 13:3 in vtrad vtsef
 m,i,𝓂,n.,-,h,_,$,·sh,·,i,y,x,(G),w,o,r
 SPACE
-α,:_,$,·sh,∵,⅃,r
-THIN SPACE
+α,:_,$,·sh,∵,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -9623,8 +9587,7 @@ l,_,𝓂,k,·,:,n,_,ʕ,:_,n,i,(ti),y
 SPACE
 τ,·,‥,x,a,$,·sh,‥,⅄,v
 SPACE
-x,:_,m,‥,⅃,$,·sh,∵,τ
-THIN SPACE
+x,:_,m,‥,⅃,$,·sh,∵,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -10054,8 +10017,7 @@ h,i,k,·,a,(qa),h
 SPACE
 m,o,$,·sh,∵,(ge),h
 SPACE
-α,o,τ,⅃,w,o
-THIN SPACE
+α,o,τ,⅃,w,o,THIN SPACE
 START b 
 |
 STOP b 
@@ -10276,8 +10238,7 @@ m,i,m,·,_,x,:_,n,_,(qa),y,i,m.
 SPACE
 k,·,oa,𝓂,l,-,h,_,v,·,a,$,·sh,a,(ge),n.
 SPACE
-k,·,oa,𝓂,l,-,m,_,m,:,l,:,k,⅃,w,·,τ
-THIN SPACE
+k,·,oa,𝓂,l,-,m,_,m,:,l,:,k,⅃,w,·,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -10685,13 +10646,11 @@ h,i,n,·,‥,h,(tq)
 SPACE
 h,∵,x,:∵,y,a,(qa),h
 SPACE
-y,:,h,o,w,a,⅃,h
-THIN SPACE
+y,:,h,o,w,a,⅃,h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,w,o,τ,i,y,~
+THIN SPACE,α,w,o,τ,i,y,~
 SPACE
 k,·,_,α,:_,$,·sh,∵,⅃,r
 SPACE
@@ -11066,13 +11025,11 @@ v,·,∵,n.,-,r,:,α,w,·,v,‥,𝓂,n.,.
 Joshua 15:7 in vtrad vtsef
 w,:,ʕ,a,l,a,(qa),h
 SPACE
-h,_,g,·,:,v,(me),w,·,l
-THIN SPACE
+h,_,g,·,:,v,(me),w,·,l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-d,·,:,v,i,≁,r,a,h,~
+THIN SPACE,d,·,:,v,i,≁,r,a,h,~
 SPACE
 m,‥,ʕ,‥,⅃,m,∵,q
 SPACE
@@ -11385,8 +11342,7 @@ SPACE
 l,:,α,i,$,·sh,·,a,𝓂,h,.
 
 Joshua 15:18 in vtrad vtsef
-w,_,y,:,h,i,⅃,y
-THIN SPACE
+w,_,y,:,h,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -11511,13 +11467,11 @@ SPACE
 w,·,v,:,ʕ,a,l,𝓂,w,o,τ,.
 
 Joshua 15:25 in vtrad vtsef
-w,:,x,a,ц,<,w,o,r
-THIN SPACE
+w,:,x,a,ц,<,w,o,r,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-x,:_,d,_,τ,·,a,h,(p)
+THIN SPACE,x,:_,d,_,τ,·,a,h,(p)
 SPACE
 w,·,q,:,r,i,y,·,ƶ,w,o,τ
 SPACE
@@ -11947,13 +11901,11 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Joshua 15:55 in vtrad vtsef
-m,a,ʕ,(me),w,o,n.
-THIN SPACE
+m,a,ʕ,(me),w,o,n.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-k,·,_,r,:,m,∵,(ti),l
+THIN SPACE,k,·,_,r,:,m,∵,(ti),l
 SPACE
 w,a,z,i,(me),y,f.
 SPACE
@@ -12473,8 +12425,7 @@ SPACE
 SPACE
 h,_,k,·,o,h,‥,(ge),n.
 SPACE
-w,:,l,i,f,:,n,‥,⅃,y
-THIN SPACE
+w,:,l,i,f,:,n,‥,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -13824,13 +13775,11 @@ SPACE
 w,:,x,_,ц,:,r,‥,y,h,∵,𝓂,n.,.
 
 Joshua 19:7 in vtrad vtsef
-ʕ,_,(me),y,i,n.
-THIN SPACE
+ʕ,_,(me),y,i,n.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-r,i,m,·,(ti),w,o,n.
+THIN SPACE,r,i,m,·,(ti),w,o,n.
 SPACE
 w,a,ʕ,∵,⅃,τ,∵,r
 SPACE
@@ -13931,13 +13880,11 @@ SPACE
 Joshua 19:11 in vtrad vtsef
 w,:,ʕ,a,l,a,(qa),h
 SPACE
-g,:,v,w,·,l,a,(da),m.
-THIN SPACE
+g,:,v,w,·,l,a,(da),m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,_,y,·,a,⟓,m,·,a,h
+THIN SPACE,l,_,y,·,a,⟓,m,·,a,h
 SPACE
 w,·,m,_,r,:,ʕ,:_,l,a,(ti),h
 SPACE
@@ -14569,8 +14516,7 @@ SPACE
 SPACE
 w,_,y,·,i,l,:,k,·,:,d,(me),w,·
 SPACE
-α,w,o,τ,a,⅃,h,·
-THIN SPACE
+α,w,o,τ,a,⅃,h,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -14689,13 +14635,11 @@ n,i,x,:_,l,⅃,w,·
 SPACE
 α,∵,l,:,ʕ,a,z,a,⅃,r
 SPACE
-h,_,k,·,o,h,‥,⅃,n.
-THIN SPACE
+h,_,k,·,o,h,‥,⅃,n.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-w,i,y,h,w,o,$,·sh,u,(yy),ʕ,_
+THIN SPACE,w,i,y,h,w,o,$,·sh,u,(yy),ʕ,_
 SPACE
 v,·,i,n.,-,n,(qp),w,·,n.
 SPACE
@@ -14705,19 +14649,15 @@ h,a,α,a,v,⅃,w,o,τ
 SPACE
 l,:,m,_,θ,·,w,o,τ,(tq)
 SPACE
-v,·,:,n,‥,y,-,y,i,$,·si,:,r,a,α,‥,(qa),l
-THIN SPACE
+v,·,:,n,‥,y,-,y,i,$,·si,:,r,a,α,‥,(qa),l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-v,·,:,g,w,o,r,a,<,l
-THIN SPACE
+THIN SPACE,v,·,:,g,w,o,r,a,<,l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-v,·,:,$,·sh,i,l,o,h,(p)
+THIN SPACE,v,·,:,$,·sh,i,l,o,h,(p)
 SPACE
 l,i,f,:,n,‥,⅃,y
 SPACE
@@ -14798,8 +14738,7 @@ h,_,d,·,a,𝓂,m.,.
 Joshua 20:4 in vtrad vtsef
 w,:,n,a,(G),σ
 SPACE
-α,∵,l,-,α,_,x,_,⅃,τ
-THIN SPACE
+α,∵,l,-,α,_,x,_,⅃,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -14878,8 +14817,7 @@ SPACE
 $,·sh,i,l,:,$,·sh,𝓂,w,o,m.,.
 
 Joshua 20:6 in vtrad vtsef
-w,:,y,a,$,·sh,_,⅃,v
-THIN SPACE
+w,:,y,a,$,·sh,_,⅃,v,THIN SPACE
 START b 
 |
 STOP b 
@@ -14910,8 +14848,7 @@ v,·,_,y,·,a,m,i,⅃,y,m.
 SPACE
 h,a,h,‥,⅄,m.
 SPACE
-α,a,⅃,z
-THIN SPACE
+α,a,⅃,z,THIN SPACE
 START b 
 |
 STOP b 
@@ -15014,8 +14951,7 @@ SPACE
 SPACE
 h,_,m,·,w,·,ʕ,a,d,a,(ge),h
 SPACE
-l,:,k,o,⅃,l
-THIN SPACE
+l,:,k,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -15438,8 +15374,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Joshua 21:13 in vtrad vtsef
-w,:,l,i,v,:,n,‥,⅃,y
-THIN SPACE
+w,:,l,i,v,:,n,‥,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -15854,8 +15789,7 @@ w,·,m,i,m,·,_,θ,·,‥,(qa),h
 SPACE
 n,_,f,:,τ,·,a,l,i,(ge),y
 SPACE
-α,∵,τ,-,ʕ,i,⅃,y,r
-THIN SPACE
+α,∵,τ,-,ʕ,i,⅃,y,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -16266,8 +16200,7 @@ SPACE
 SPACE
 α,:_,x,u,z,·,_,τ,:,k,∵,ƶ,m.
 SPACE
-α,:_,$,·sh,∵,⅃,r
-THIN SPACE
+α,:_,$,·sh,∵,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -16287,8 +16220,7 @@ SPACE
 h,_,y,·,_,r,:,d,·,‥,𝓂,n.,.
 
 Joshua 22:5 in vtrad vtsef
-r,_,⅃,q
-THIN SPACE
+r,_,⅃,q,THIN SPACE
 START b 
 |
 STOP b 
@@ -16352,8 +16284,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Joshua 22:7 in vtrad vtsef
-w,:,l,_,𝓂,x,:_,ц,i,⅃,y
-THIN SPACE
+w,:,l,_,𝓂,x,:_,ц,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -16453,8 +16384,7 @@ v,·,:,n,‥,𝓂,y,-,r,:,α,w,·,v,‥,(qa),n.
 SPACE
 w,·,v,:,n,‥,y,-,g,a,(ge),d
 SPACE
-w,_,x,:_,ц,i,⅃,y
-THIN SPACE
+w,_,x,:_,ц,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -16683,8 +16613,7 @@ k,·,o,⅃,h
 SPACE
 α,a,m,:,r,(G),w,·
 SPACE
-k,·,o,⅃,l
-THIN SPACE
+k,·,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -16835,8 +16764,7 @@ SPACE
 α,:∵,l,o,h,‥,𝓂,y,n,w,·,.
 
 Joshua 22:20 in vtrad vtsef
-h,:_,l,⅃,w,o,α
-THIN SPACE
+h,:_,l,⅃,w,o,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -16905,33 +16833,25 @@ SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 Joshua 22:22 in vtrad vtsef
-α,‥,l,(tq)
-THIN SPACE
+α,‥,l,(tq),THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,:∵,l,o,h,i,(qa),y,m.
-THIN SPACE
+THIN SPACE,α,:∵,l,o,h,i,(qa),y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,h,o,w,a,(ge),h
+THIN SPACE,y,:,h,o,w,a,(ge),h
 SPACE
-α,‥,⅃,l
-THIN SPACE
+α,‥,⅃,l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,:∵,l,o,h,i,<,y,m.
-THIN SPACE
+THIN SPACE,α,:∵,l,o,h,i,<,y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,h,o,w,a,h,(p)
+THIN SPACE,y,:,h,o,w,a,h,(p)
 SPACE
 h,⅃,w,·,α
 SPACE
@@ -17265,13 +17185,11 @@ w,:,α,∵,l,-,v,·,:,n,‥,⅃,y
 SPACE
 m,:,n,_,$,·sh,·,∵,◆,h
 SPACE
-h,_,y,·,<,w,o,m.
-THIN SPACE
+h,_,y,·,<,w,o,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,a,d,_,(p),ʕ,:,n,w,·,(p)
+THIN SPACE,y,a,d,_,(p),ʕ,:,n,w,·,(p)
 SPACE
 k,·,i,𝓂,y,-,v,:,τ,w,o,k,‥,⅃,n,w,·
 SPACE
@@ -17306,13 +17224,11 @@ f,·,i,𝓂,y,n,:,x,a,⅃,σ
 SPACE
 v,·,∵,n.,-,α,∵,l,:,ʕ,a,z,a,⅃,r
 SPACE
-h,_,k,·,o,h,‥,⅃,n.
-THIN SPACE
+h,_,k,·,o,h,‥,⅃,n.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-w,:,h,_,n,·,:,$,·si,i,y,α,i,μ,y,m.
+THIN SPACE,w,:,h,_,n,·,:,$,·si,i,y,α,i,μ,y,m.
 SPACE
 m,‥,α,‥,⅃,τ
 SPACE
@@ -17675,8 +17591,7 @@ m,i,k,·,∵,(ti),m.
 SPACE
 y,i,r,:,d,·,oa,f.,-,α,a,⅄,l,∵,f.
 SPACE
-k,·,i,⅃,y
-THIN SPACE
+k,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -17711,8 +17626,7 @@ SPACE
 α,:∵,l,o,𝓂,h,‥,y,k,∵,𝓂,m.,.
 
 Joshua 23:12 in vtrad vtsef
-k,·,i,⅃,y
-THIN SPACE
+k,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -17833,8 +17747,7 @@ d,·,a,v,a,(qa),r
 SPACE
 α,∵,x,a,(ge),d
 SPACE
-m,i,k,·,o,⅃,l
-THIN SPACE
+m,i,k,·,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -18169,8 +18082,7 @@ w,_,y,·,a,(qa),$,·si,∵,m.
 SPACE
 m,_,α,:_,f,‥,(ge),l
 SPACE
-v,·,‥,y,n,‥,y,k,∵,⅃,m.
-THIN SPACE
+v,·,‥,y,n,‥,y,k,∵,⅃,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -18361,8 +18273,7 @@ w,a,α,∵,τ,·,‥,(qa),n.
 SPACE
 l,a,k,∵,(ge),m.
 SPACE
-α,∵,⅃,r,∵,ц.
-THIN SPACE
+α,∵,⅃,r,∵,ц.,THIN SPACE
 START b 
 |
 STOP b 
@@ -18924,8 +18835,7 @@ y,:,m,‥,⅃,y
 SPACE
 y,:,h,w,o,$,·sh,u,⅄,ʕ,_
 SPACE
-w,:,k,o,⅃,l
-THIN SPACE
+w,:,k,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -18967,13 +18877,11 @@ y,⌕,w,o,σ,‥,⌕,f.
 SPACE
 α,:_,$,·sh,∵,r,-,h,∵,ʕ,:∵,l,(qa),w,·
 SPACE
-v,:,n,‥,y,-,y,i,$,·si,:,r,a,α,‥,(me),l
-THIN SPACE
+v,:,n,‥,y,-,y,i,$,·si,:,r,a,α,‥,(me),l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-m,i,m,·,i,ц,:,r,_,≁,y,i,m.,~
+THIN SPACE,m,i,m,·,i,ц,:,r,_,≁,y,i,m.,~
 SPACE
 q,a,v,:,r,⅃,w,·
 SPACE

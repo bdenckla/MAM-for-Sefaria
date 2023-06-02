@@ -166,8 +166,7 @@ SPACE
 h,_,z,·,∵,𝓂,h,.
 
 Deuter 1:7 in vtrad vtsef
-f,·,:,n,⅃,w,·
-THIN SPACE
+f,·,:,n,⅃,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -737,8 +736,7 @@ SPACE
 l,:,h,_,$,·sh,:,m,i,y,d,‥,𝓂,n,w,·,.
 
 Deuter 1:28 in vtrad vtsef
-α,a,n,a,⅃,h
-THIN SPACE
+α,a,n,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -878,8 +876,7 @@ m,a,q,(ti),w,o,m.
 SPACE
 l,_,x,:_,n,o,𝓂,τ,:,k,∵,⅄,m.
 SPACE
-v,·,a,α,‥,⅃,$,·sh
-THIN SPACE
+v,·,a,α,‥,⅃,$,·sh,THIN SPACE
 START b 
 |
 STOP b 
@@ -1068,8 +1065,7 @@ SPACE
 y,_,m.,-,σ,𝓂,w,·,f.,.
 
 Deuter 1:41 in vtrad vtsef
-w,_,𝓂,τ,·,_,ʕ,:_,n,⅃,w,·
-THIN SPACE
+w,_,𝓂,τ,·,_,ʕ,:_,n,⅃,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -1396,8 +1392,7 @@ h,_,g,·,a,d,o,(ti),l
 SPACE
 h,_,z,·,∵,⅄,h
 SPACE
-z,∵,⅃,h
-THIN SPACE
+z,∵,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -1596,8 +1591,7 @@ z,a,𝓂,r,∵,d,.
 Deuter 2:14 in vtrad vtsef
 w,:,h,_,y,·,a,m,i,(G),y,m.
 SPACE
-α,:_,$,·sh,∵,r,-,h,a,l,_,⅃,k,:,n,w,·
-THIN SPACE
+α,:_,$,·sh,∵,r,-,h,a,l,_,⅃,k,:,n,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -2464,8 +2458,7 @@ SPACE
 $,·si,:,n,i,𝓂,y,r,.
 
 Deuter 3:10 in vtrad vtsef
-k,·,o,⅃,l
-THIN SPACE
+k,·,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -2770,13 +2763,11 @@ Deuter 3:20 in vtrad vtsef
 SPACE
 α,:_,$,·sh,∵,r,-,y,a,n,i,(qa),y,x,_
 SPACE
-y,:,h,o,w,a,(me),h
-THIN SPACE
+y,:,h,o,w,a,(me),h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,_,𝓂,α,:_,x,‥,y,k,∵,m.,~
+THIN SPACE,l,_,𝓂,α,:_,x,‥,y,k,∵,m.,~
 SPACE
 k,·,a,k,∵,m.,∴
 SPACE
@@ -2989,8 +2980,7 @@ SPACE
 h,_,z,·,∵,𝓂,h,.
 
 Deuter 3:27 in vtrad vtsef
-ʕ,:_,l,‥,⅃,h
-THIN SPACE
+ʕ,:_,l,‥,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -3201,8 +3191,7 @@ SPACE
 h,_,y,·,𝓂,w,o,m.,.
 
 Deuter 4:5 in vtrad vtsef
-r,:,α,‥,⅃,h
-THIN SPACE
+r,:,α,‥,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -4061,13 +4050,11 @@ SPACE
 SPACE
 v,·,a,r,a,(qa),α
 SPACE
-α,:∵,l,o,h,i,<,y,m.
-THIN SPACE
+α,:∵,l,o,h,i,<,y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,a,d,a,m.,(p)
+THIN SPACE,α,a,d,a,m.,(p)
 SPACE
 ʕ,_,l,-,h,a,α,a,ƶ,r,∵,ц.
 SPACE
@@ -4113,8 +4100,7 @@ SPACE
 w,_,y,·,∵,𝓂,x,i,y,.
 
 Deuter 4:34 in vtrad vtsef
-α,⅃,w,o
-THIN SPACE
+α,⅃,w,o,THIN SPACE
 START b 
 |
 STOP b 
@@ -4505,8 +4491,7 @@ w,_,y,·,i,𝓂,y,r,:,$,·sh,(qa),w,·
 SPACE
 α,∵,τ,-,α,_,r,:,ц,(ge),w,o
 SPACE
-w,:,α,∵,τ,-,α,∵,⅃,r,∵,ц.
-THIN SPACE
+w,:,α,∵,τ,-,α,∵,⅃,r,∵,ц.,THIN SPACE
 START b 
 |
 STOP b 
@@ -4654,8 +4639,7 @@ SPACE
 x,_,y,·,i,𝓂,y,m.,.
 
 Deuter 5:4 in vtrad vtsef
-f,·,a,n,i,⅃,y,m.
-THIN SPACE
+f,·,a,n,i,⅃,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -4752,23 +4736,19 @@ SPACE
 Deuter 5:8 in vtrad vtsef
 l,o,𝓂,⅃,α,-,τ,_,ʕ,:_,$,·si,∵,𝓂,(qa),h,-,l,:,k.,a,(me),⅃
 SPACE
-f,∵,⅃,(p),σ,∵,l,(p)
-THIN SPACE
+f,∵,⅃,(p),σ,∵,l,(p),THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-k,·,oa,l,-,τ,·,:,m,w,·,n,a,ƶ,μ,h
+THIN SPACE,k,·,oa,l,-,τ,·,:,m,w,·,n,a,ƶ,μ,h
 SPACE
 α,:_,$,·sh,∵,<,⅃,r
 SPACE
-v,·,_,$,·sh,·,a,m,_,⅃,(p),y,i,m.,(p)
-THIN SPACE
+v,·,_,$,·sh,·,a,m,_,⅃,(p),y,i,m.,(p),THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-m,i,m,·,_,ƶ,μ,ʕ,_,l
+THIN SPACE,m,i,m,·,_,ƶ,μ,ʕ,_,l
 SPACE
 w,_,α,:_,$,·sh,∵,(me),r,(tq)
 SPACE
@@ -4778,8 +4758,7 @@ m,i,τ,·,a,⅄,CGJ,_,(ge),x,_,τ
 SPACE
 w,_,α,:_,$,·sh,∵,(me),r
 SPACE
-v,·,_,m,·,_,(ti),⅃,y,i,m.
-THIN SPACE
+v,·,_,m,·,_,(ti),⅃,y,i,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -4907,8 +4886,7 @@ l,:,q,_,d,·,:,$,·sh,⅄,(ge),w,o
 SPACE
 k,·,_,α,:_,$,·sh,∵,(me),r
 SPACE
-ц,i,w,·,:,k.,a,(ti),⅃
-THIN SPACE
+ц,i,w,·,:,k.,a,(ti),⅃,THIN SPACE
 START b 
 |
 STOP b 
@@ -4933,8 +4911,7 @@ w,:,y,(qa),w,o,m.,(p)
 SPACE
 h,_,$,·sh,·,:,v,i,y,ʕ,i,ƶ,(ge),y
 SPACE
-$,·sh,_,v,·,a,(ti),⅃,τ
-THIN SPACE
+$,·sh,_,v,·,a,(ti),⅃,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -4982,8 +4959,7 @@ w,:,z,a,k,_,r,:,τ,·,a,◆,(G)
 SPACE
 k,·,i,⅃,y,-,ʕ,∵,<,(me),v,∵,d
 SPACE
-h,a,y,i,⅃,(p),y,τ,a,(p)
-THIN SPACE
+h,a,y,i,⅃,(p),y,τ,a,(p),THIN SPACE
 START b 
 |
 STOP b 
@@ -5049,8 +5025,7 @@ y,:,h,o,w,a,⅃,h
 SPACE
 α,:∵,l,o,h,∵,⅄,y,k.,a
 SPACE
-l,:,m,_,⅃,ʕ,_,n.
-THIN SPACE
+l,:,m,_,⅃,ʕ,_,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -5339,8 +5314,7 @@ h,_,g,·,:,d,o,l,a,(ti),h
 SPACE
 h,_,z,·,o,⅄,α,τ
 SPACE
-α,i,m.,-,y,o,σ,:,f,i,⅃,y,m.
-THIN SPACE
+α,i,m.,-,y,o,σ,:,f,i,⅃,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -5401,8 +5375,7 @@ y,:,h,o,w,a,⅃,h
 SPACE
 α,:∵,l,o,h,‥,⅄,y,n,w,·
 SPACE
-w,:,α,_,⅃,τ,·,:
-THIN SPACE
+w,:,α,_,⅃,τ,·,:,THIN SPACE
 START b 
 |
 STOP b 
@@ -5739,13 +5712,11 @@ y,:,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,‥,(ti),y,n,w,·
 SPACE
-y,:,h,o,w,a,(me),h
-THIN SPACE
+y,:,h,o,w,a,(me),h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,∵,x,a,𝓂
+THIN SPACE,α,∵,x,a,𝓂
 START big 
 d
 STOP big 
@@ -5845,8 +5816,7 @@ w,:,h,a,y,a,(G),h
 SPACE
 k,·,i,(me),y
 SPACE
-y,:,v,i,y,α,:_,k.,a,⅃
-THIN SPACE
+y,:,v,i,y,α,:_,k.,a,⅃,THIN SPACE
 START b 
 |
 STOP b 
@@ -6161,13 +6131,11 @@ w,·,⌕,m,o,f,:,τ,i,⌕,y,m.
 SPACE
 g,·,:,d,o,l,i,(qa),y,m.
 SPACE
-w,:,r,a,ʕ,i,(da),y,m.
-THIN SPACE
+w,:,r,a,ʕ,i,(da),y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-v,·,:,m,i,ц,:,r,_,⟓,y,i,m.
+THIN SPACE,v,·,:,m,i,ц,:,r,_,⟓,y,i,m.
 SPACE
 v,·,:,f,_,r,:,ʕ,o,(me),h
 SPACE
@@ -6283,13 +6251,11 @@ l,:,r,i,$,·sh,:,τ,·,a,⅄,h,·
 SPACE
 w,:,n,a,$,·sh,_,⅃,l
 SPACE
-g,·,𝓂,w,o,y,i,m.,-,r,_,v,·,i,⅃,y,m.
-THIN SPACE
+g,·,𝓂,w,o,y,i,m.,-,r,_,v,·,i,⅃,y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-m,i,f,·,a,n,∵,μ,y,k.,a
+THIN SPACE,m,i,f,·,a,n,∵,μ,y,k.,a
 SPACE
 h,_,𝓂,x,i,τ,·,i,y,(tq)
 SPACE
@@ -6424,8 +6390,7 @@ SPACE
 SPACE
 v,·,:,k.,a,(G)
 SPACE
-v,·,a,x,_,⅃,r
-THIN SPACE
+v,·,a,x,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -6593,8 +6558,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Deuter 7:12 in vtrad vtsef
-w,:,h,a,y,a,⅃,h
-THIN SPACE
+w,:,h,a,y,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -7017,21 +6981,17 @@ x,‥,(ti),r,∵,m.
 SPACE
 k,·,a,m,o,⅄,h,w,·
 SPACE
-$,·sh,_,q,·,‥,(da),ц.
-THIN SPACE
+$,·sh,_,q,·,‥,(da),ц.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-τ,·,:,$,·sh,_,q,·,:,ц,∵,⟓,n,·,w,·
+THIN SPACE,τ,·,:,$,·sh,_,q,·,:,ц,∵,⟓,n,·,w,·
 SPACE
-w,:,τ,_,ʕ,‥,(me),v
-THIN SPACE
+w,:,τ,_,ʕ,‥,(me),v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-τ,·,:,𝓂,τ,_,ʕ,:_,v,∵,(ti),n,·,w,·
+THIN SPACE,τ,·,:,𝓂,τ,_,ʕ,:_,v,∵,(ti),n,·,w,·
 SPACE
 k,·,i,y,-,x,‥,(me),r,∵,m.
 SPACE
@@ -7405,8 +7365,7 @@ SPACE
 Deuter 8:15 in vtrad vtsef
 h,_,m,·,w,o,l,i,(qa),y,k,:,k.,a,(ge)
 SPACE
-v,·,_,m,·,i,d,:,v,·,a,⅃,r
-THIN SPACE
+v,·,_,m,·,i,d,:,v,·,a,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -7415,13 +7374,11 @@ h,_,g,·,a,d,o,⅃,l
 SPACE
 w,:,h,_,n,·,w,o,r,a,◆,α
 SPACE
-n,a,x,a,<,$,·sh
-THIN SPACE
+n,a,x,a,<,$,·sh,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-$,·si,a,r,a,f.,(p)
+THIN SPACE,$,·si,a,r,a,f.,(p)
 SPACE
 w,:,ʕ,_,q,:,r,a,ƶ,v
 SPACE
@@ -7710,13 +7667,11 @@ y,:,h,o,w,a,h,(tq)
 SPACE
 α,:∵,l,o,h,∵,(qa),y,k.,a
 SPACE
-α,o,τ,a,(me),m.
-THIN SPACE
+α,o,τ,a,(me),m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-m,i,l,·,:,f,a,n,∵,≁,y,k.,a,~
+THIN SPACE,m,i,l,·,:,f,a,n,∵,≁,y,k.,a,~
 SPACE
 l,‥,α,m,o,r,∴
 SPACE
@@ -7763,8 +7718,7 @@ SPACE
 SPACE
 k,·,i,(G),y
 SPACE
-v,·,:,r,i,$,·sh,:,ʕ,_,⅃,τ
-THIN SPACE
+v,·,:,r,i,$,·sh,:,ʕ,_,⅃,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -7849,8 +7803,7 @@ v,·,_,m,·,i,d,:,v,·,a,⅄,r
 SPACE
 l,:,m,i,n.,-,h,_,y,·,(G),w,o,m.
 SPACE
-α,:_,$,·sh,∵,r,-,y,a,ц,a,⅃,α,τ,a
-THIN SPACE
+α,:_,$,·sh,∵,r,-,y,a,ц,a,⅃,α,τ,a,THIN SPACE
 START b 
 |
 STOP b 
@@ -8281,13 +8234,11 @@ l,a,q,_,≁,x,:,τ,·,i,y,~
 SPACE
 w,a,α,∵,$,·si,:,r,o,⅃,f.
 SPACE
-α,o,τ,⅃,w,o
-THIN SPACE
+α,o,τ,⅃,w,o,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-v,·,a,α,‥,$,·sh,∴
+THIN SPACE,v,·,a,α,‥,$,·sh,∴
 SPACE
 w,a,α,∵,k,·,o,(qa),τ
 SPACE
@@ -9153,8 +9104,7 @@ w,i,𝓂,y,d,_,ʕ,:,τ,·,∵,m.,~
 SPACE
 h,_,y,·,w,o,m.,∴
 SPACE
-k,·,i,⅃,y
-THIN SPACE
+k,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -9848,8 +9798,7 @@ f,·,_,x,:,d,·,:,k,∵,(qa),m.
 SPACE
 w,·,m,w,o,r,_,𝓂,α,:_,k,∵,(ge),m.
 SPACE
-y,i,τ,·,‥,⅃,n.
-THIN SPACE
+y,i,τ,·,‥,⅃,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -10498,8 +10447,7 @@ v,·,:,k,oa,l,-,α,_,w,·,_,(qa),τ
 SPACE
 n,_,f,:,$,·sh,:,k.,a,(ge)
 SPACE
-τ,·,i,z,:,v,·,_,⅃,x
-THIN SPACE
+τ,·,i,z,:,v,·,_,⅃,x,THIN SPACE
 START b 
 |
 STOP b 
@@ -11209,8 +11157,7 @@ SPACE
 SPACE
 h,_,m,·,w,o,ц,i,(me),y,α
 SPACE
-α,∵,τ,:,k,∵,⅃,m.
-THIN SPACE
+α,∵,τ,:,k,∵,⅃,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -11272,8 +11219,7 @@ SPACE
 SPACE
 α,𝓂,w,o,-,v,i,τ,·,:,k.,a,(ge)
 SPACE
-α,⅃,w,o
-THIN SPACE
+α,⅃,w,o,THIN SPACE
 START b 
 |
 STOP b 
@@ -12106,8 +12052,7 @@ $,·sh,a,n,a,𝓂,h,.
 Deuter 14:23 in vtrad vtsef
 w,:,α,a,k,_,l,:,τ,·,a,(G)
 SPACE
-l,i,f,:,n,‥,⅃,y
-THIN SPACE
+l,i,f,:,n,‥,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -12297,8 +12242,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Deuter 14:28 in vtrad vtsef
-m,i,q,:,ц,‥,⅃,h
-THIN SPACE
+m,i,q,:,ц,‥,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -12674,8 +12618,7 @@ l,⅄,w,o
 SPACE
 k,·,i,(G),y
 SPACE
-v,·,i,g,:,l,_,⅃,l
-THIN SPACE
+v,·,i,g,:,l,_,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -13354,8 +13297,7 @@ SPACE
 Deuter 16:11 in vtrad vtsef
 w,:,$,·si,a,m,_,x,:,τ,·,a,(G)
 SPACE
-l,i,f,:,n,‥,⅃,y
-THIN SPACE
+l,i,f,:,n,‥,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -13518,20 +13460,17 @@ $,·si,a,m,‥,𝓂,x,_,.
 Deuter 16:16 in vtrad vtsef
 $,·sh,a,l,⅃,w,o,$,·sh
 SPACE
-f,·,:,ʕ,a,m,i,⅃,y,m.
-THIN SPACE
+f,·,:,ʕ,a,m,i,⅃,y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-v,·,_,$,·sh,·,a,n,a,μ,h
+THIN SPACE,v,·,_,$,·sh,·,a,n,a,μ,h
 SPACE
 y,‥,r,a,α,∵,(qa),h
 SPACE
 k,oa,l,-,z,:,k,w,·,r,:,k.,a,(ge)
 SPACE
-α,∵,τ,-,f,·,:,n,‥,⅃,y
-THIN SPACE
+α,∵,τ,-,f,·,:,n,‥,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -13833,8 +13772,7 @@ w,_,y,·,i,$,·sh,:,τ,·,_,(ti),x,w,·
 SPACE
 l,a,h,∵,⅄,m.
 SPACE
-w,:,l,_,$,·sh,·,∵,⅃,m,∵,$,·sh
-THIN SPACE
+w,:,l,_,$,·sh,·,∵,⅃,m,∵,$,·sh,THIN SPACE
 START b 
 |
 STOP b 
@@ -13916,8 +13854,7 @@ SPACE
 w,a,m,‥,𝓂,τ,w,·,.
 
 Deuter 17:6 in vtrad vtsef
-ʕ,_,l,-,f,·,i,⅃,y
-THIN SPACE
+ʕ,_,l,-,f,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -13985,13 +13922,11 @@ d,a,v,a,(ge),r
 SPACE
 l,_,m,·,i,$,·sh,:,f,·,a,◆,θ
 SPACE
-v,·,‥,𝓂,y,n.,-,d,·,a,(qa),m.
-THIN SPACE
+v,·,‥,𝓂,y,n.,-,d,·,a,(qa),m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,:,d,a,(ge),m.
+THIN SPACE,l,:,d,a,(ge),m.
 SPACE
 v,·,‥,𝓂,y,n.,-,d,·,i,⅃,y,n.
 SPACE
@@ -14753,8 +14688,7 @@ SPACE
 α,:∵,l,o,h,∵,𝓂,y,k.,a,.
 
 Deuter 18:14 in vtrad vtsef
-k,·,i,⅃,y
-THIN SPACE
+k,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -15515,8 +15449,7 @@ SPACE
 SPACE
 y,∵,𝓂,x,:∵,θ,a,⅄,α
 SPACE
-ʕ,_,l,-,f,·,i,⅃,y
-THIN SPACE
+ʕ,_,l,-,f,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -17129,18 +17062,15 @@ v,q,w,HPU GERSHAYIM,f.
 SPACE
 g,d,w,l,h,RIGHT PARENTHESIS
 STOP i class=footnote
-q,_,n.,-,ц,i,f,·,⅃,w,o,r
-THIN SPACE
+q,_,n.,-,ц,i,f,·,⅃,w,o,r,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,:,f,a,n,∵,μ,y,k.,a
+THIN SPACE,l,:,f,a,n,∵,μ,y,k.,a
 SPACE
 v,·,_,d,·,∵,(ge),r,∵,k.,:
 SPACE
-v,·,:,k,oa,l,-,ʕ,‥,⅃,ц.
-THIN SPACE
+v,·,:,k,oa,l,-,ʕ,‥,⅃,ц.,THIN SPACE
 START b 
 |
 STOP b 
@@ -17591,8 +17521,7 @@ k,·,i,𝓂,y,-,y,i,m,·,a,ц,‥,(qa),α
 SPACE
 α,i,(ge),y,$,·sh
 SPACE
-$,·sh,o,k,‥,⅃,v
-THIN SPACE
+$,·sh,o,k,‥,⅃,v,THIN SPACE
 START b 
 |
 STOP b 
@@ -17661,8 +17590,7 @@ w,:,h,w,o,ц,‥,α,τ,∵,(qa),m.
 SPACE
 α,∵,τ,-,$,·sh,:,n,‥,y,h,∵,(ge),m.
 SPACE
-α,∵,l,-,$,·sh,_,⅃,ʕ,_,r
-THIN SPACE
+α,∵,l,-,$,·sh,_,⅃,ʕ,_,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -18277,8 +18205,7 @@ y,:,h,o,w,a,(qa),h
 SPACE
 α,:∵,l,o,h,∵,(ge),y,k.,a
 SPACE
-m,i,τ,:,h,_,l,·,‥,⅃,k.,:
-THIN SPACE
+m,i,τ,:,h,_,l,·,‥,⅃,k.,:,THIN SPACE
 START b 
 |
 STOP b 
@@ -19840,13 +19767,11 @@ v,·,:,h,a,n,i,⅃,y,x,_
 SPACE
 y,:,h,o,w,a,⅃,h
 SPACE
-α,:∵,l,o,h,∵,⅃,y,k.,a
-THIN SPACE
+α,:∵,l,o,h,∵,⅃,y,k.,a,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,:,⌕,k.,a,⌕
+THIN SPACE,l,:,⌕,k.,a,⌕
 SPACE
 m,i,k,·,oa,l,-,α,o,(qa),y,:,v,∵,(ge),y,k.,a
 SPACE
@@ -19913,8 +19838,7 @@ v,·,a,𝓂,h,·,.
 Deuter 26:2 in vtrad vtsef
 w,:,l,a,q,_,x,:,τ,·,a,(G)
 SPACE
-m,‥,r,‥,α,$,·sh,i,⅃,y,τ
-THIN SPACE
+m,‥,r,‥,α,$,·sh,i,⅃,y,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -20026,8 +19950,7 @@ w,:,ʕ,a,n,i,(qa),y,τ,a
 SPACE
 w,:,α,a,m,_,r,:,τ,·,a,(ge)
 SPACE
-l,i,f,:,n,‥,⅃,y
-THIN SPACE
+l,i,f,:,n,‥,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -20584,8 +20507,7 @@ SPACE
 SPACE
 α,:_,𝓂,$,·sh,∵,r,-,y,:,h,o,w,a,(me),h
 SPACE
-α,:∵,l,o,h,∵,⅃,y,k.,a
-THIN SPACE
+α,:∵,l,o,h,∵,⅃,y,k.,a,THIN SPACE
 START b 
 |
 STOP b 
@@ -20748,13 +20670,11 @@ k,·,oa,l,-,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 l,‥,α,m,o,⅄,r
 SPACE
-h,_,σ,:,k,·,‥,<,τ
-THIN SPACE
+h,_,σ,:,k,·,‥,<,τ,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-w,·,$,·sh,:,m,_,ʕ,(p)
+THIN SPACE,w,·,$,·sh,:,m,_,ʕ,(p)
 SPACE
 y,i,$,·si,:,r,a,α,‥,ƶ,l
 SPACE
@@ -21524,13 +21444,11 @@ l,a,𝓂,k.,:,.
 Deuter 28:12 in vtrad vtsef
 y,i,f,:,τ,·,_,⅃,x
 SPACE
-y,:,h,o,w,a,⅃,h
-THIN SPACE
+y,:,h,o,w,a,⅃,h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,:,⌕,k.,a,⌕
+THIN SPACE,l,:,⌕,k.,a,⌕
 SPACE
 α,∵,τ,-,α,w,o,ц,a,r,(qa),w,o
 SPACE
@@ -21589,8 +21507,7 @@ l,:,m,a,⅄,θ,·,a,h
 SPACE
 k,·,i,𝓂,y,-,τ,i,$,·sh,:,m,_,(G),ʕ
 SPACE
-α,∵,l,-,m,i,ц,:,w,hhfv,⅃,τ
-THIN SPACE
+α,∵,l,-,m,i,ц,:,w,hhfv,⅃,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -21739,13 +21656,11 @@ v,·,:,ц,‥,α,τ,∵,𝓂,k.,a,.
 Deuter 28:20 in vtrad vtsef
 y,:,$,·sh,_,l,·,_,⅃,x
 SPACE
-y,:,h,o,w,a,⅃,h
-THIN SPACE
+y,:,h,o,w,a,⅃,h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-v,·,:,⌕,k.,a,⌕
+THIN SPACE,v,·,:,⌕,k.,a,⌕
 SPACE
 α,∵,τ,-,h,_,m,·,:,α,‥,r,a,<,h
 SPACE
@@ -21872,13 +21787,11 @@ h,i,$,·sh,·,a,m,:,d,a,𝓂,k.,:,.
 Deuter 28:25 in vtrad vtsef
 y,i,τ,·,∵,n,:,k.,a,(qa)
 SPACE
-y,:,h,o,w,a,(me),h
-THIN SPACE
+y,:,h,o,w,a,(me),h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-n,i,g,·,a,f.,~
+THIN SPACE,n,i,g,·,a,f.,~
 SPACE
 l,i,f,:,n,‥,⅃,y
 SPACE
@@ -22662,8 +22575,7 @@ SPACE
 y,w,o,τ,i,𝓂,y,r,.
 
 Deuter 28:55 in vtrad vtsef
-m,i,τ,·,‥,⅃,τ
-THIN SPACE
+m,i,τ,·,‥,⅃,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -22736,8 +22648,7 @@ w,·,v,:,v,i,τ,·,a,𝓂,h,·,.
 Deuter 28:57 in vtrad vtsef
 w,·,𝓂,v,:,$,·sh,i,l,:,y,a,τ,a,(G),h,·
 SPACE
-h,_,y,·,w,o,ц,‥,⅃,τ
-THIN SPACE
+h,_,y,·,w,o,ц,‥,⅃,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -23085,13 +22996,11 @@ SPACE
 Deuter 28:68 in vtrad vtsef
 w,∵,h,:∵,$,·sh,i,𝓂,y,v,:,k.,a,(qa)
 SPACE
-y,:,h,o,w,a,(me),h
-THIN SPACE
+y,:,h,o,w,a,(me),h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-m,i,ц,:,r,_,≁,y,i,m.,~
+THIN SPACE,m,i,ц,:,r,_,≁,y,i,m.,~
 SPACE
 v,·,oa,α,:a,n,i,y,·,w,o,τ,∴
 SPACE
@@ -23454,13 +23363,11 @@ l,:,m,_,⅃,ʕ,_,n.
 SPACE
 h,a,q,i,𝓂,y,m.,-,α,o,τ,:,k.,a,(tq)
 SPACE
-h,_,y,·,(qa),w,o,m.
-THIN SPACE
+h,_,y,·,(qa),w,o,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,(ge),w,o
+THIN SPACE,l,(ge),w,o
 SPACE
 l,:,ʕ,a,◆,m.
 SPACE
@@ -24217,8 +24124,7 @@ y,:,h,o,w,a,(qa),h
 SPACE
 α,:∵,l,o,h,∵,(ge),y,k.,a
 SPACE
-v,·,:,k,o,⅃,l
-THIN SPACE
+v,·,:,k,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -24241,8 +24147,7 @@ SPACE
 SPACE
 l,:,θ,o,v,a,⅄,h
 SPACE
-k,·,i,⅃,y
-THIN SPACE
+k,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -24670,8 +24575,7 @@ y,:,h,o,w,a,(qa),h
 SPACE
 α,:∵,l,o,h,∵,(ge),y,k.,a
 SPACE
-h,⅃,w,·,α
-THIN SPACE
+h,⅃,w,·,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -24761,8 +24665,7 @@ w,:,α,_,l,-,τ,·,_,ʕ,_,r,:,ц,(ti),w,·
 SPACE
 m,i,f,·,:,n,‥,y,h,∵,⅄,m.
 SPACE
-k,·,i,⅃,y
-THIN SPACE
+k,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -24849,8 +24752,7 @@ SPACE
 Deuter 31:8 in vtrad vtsef
 w,_,y,h,o,w,a,(G),h
 SPACE
-h,⅃,w,·,α
-THIN SPACE
+h,⅃,w,·,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -24919,8 +24821,7 @@ SPACE
 SPACE
 l,‥,α,m,o,⅄,r
 SPACE
-m,i,q,·,‥,⅃,ц.
-THIN SPACE
+m,i,q,·,‥,⅃,ц.,THIN SPACE
 START b 
 |
 STOP b 
@@ -25134,14 +25035,12 @@ h,a,ʕ,a,(qa),m.
 SPACE
 h,_,z,·,∵,(ge),h
 SPACE
-w,:,z,a,n,a,⅃,h
-THIN SPACE
+w,:,z,a,n,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
-α,_,x,:_,r,‥,⅃,y
-THIN SPACE
+α,_,x,:_,r,‥,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -25286,8 +25185,7 @@ y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 Deuter 31:20 in vtrad vtsef
 k,·,i,𝓂,y,-,α,:_,v,i,y,α,∵,(ge),n,·,w,·
 SPACE
-α,∵,𝓂,l,-,h,a,α,:_,d,a,m,a,⅃,h
-THIN SPACE
+α,∵,𝓂,l,-,h,a,α,:_,d,a,m,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -25434,8 +25332,7 @@ SPACE
 ʕ,i,m,·,a,𝓂,k.,:,.
 
 Deuter 31:24 in vtrad vtsef
-w,_,y,:,h,i,⅃,y
-THIN SPACE
+w,_,y,:,h,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -26854,8 +26751,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Deuter 32:39 in vtrad vtsef
-r,:,α,⅃,w,·
-THIN SPACE
+r,:,α,⅃,w,·,THIN SPACE
 START b 
 |
 STOP b 

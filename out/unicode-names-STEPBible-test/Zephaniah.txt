@@ -1,7 +1,6 @@
 unicode_names Zephaniah
 Tsefaniah 1:1 in vtrad vtsef
-d,·,:,v,_,r,-,y,:,h,o,w,a,⅃,h
-THIN SPACE
+d,·,:,v,_,r,-,y,:,h,o,w,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -513,8 +512,7 @@ SPACE
 SPACE
 y,⅄,w,o,m.
 SPACE
-v,·,:,θ,∵,⅃,r,∵,m.
-THIN SPACE
+v,·,:,θ,∵,⅃,r,∵,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -899,8 +897,7 @@ w,:,α,_,f,:,σ,i,⅃,y
 SPACE
 ʕ,⅄,w,o,d
 SPACE
-α,‥,⅃,y,k.,:
-THIN SPACE
+α,‥,⅃,y,k.,:,THIN SPACE
 START b 
 |
 STOP b 
@@ -1199,8 +1196,7 @@ f,·,a,$,·sh,_,(ti),ʕ,_,τ,·,:
 SPACE
 v,·,i,⅄,y
 SPACE
-k,·,i,y,-,α,a,⅃,z
-THIN SPACE
+k,·,i,y,-,α,a,⅃,z,THIN SPACE
 START b 
 |
 STOP b 
@@ -1308,13 +1304,11 @@ SPACE
 SPACE
 m,∵,⅃,l,∵,k.,:
 SPACE
-y,i,$,·si,:,r,a,α,‥,<,l
-THIN SPACE
+y,i,$,·si,:,r,a,α,‥,<,l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,h,o,w,a,h,(p)
+THIN SPACE,y,:,h,o,w,a,h,(p)
 SPACE
 v,·,:,q,i,r,:,v,·,‥,ƶ,k.,:
 SPACE

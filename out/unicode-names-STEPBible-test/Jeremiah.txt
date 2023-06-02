@@ -224,8 +224,7 @@ v,·,:,f,i,𝓂,y,k.,a,.
 Jeremiah 1:10 in vtrad vtsef
 r,:,α,‥,(G),h
 SPACE
-h,i,f,:,q,_,d,:,τ,·,i,⅃,y,k.,a
-THIN SPACE
+h,i,f,:,q,_,d,:,τ,·,i,⅃,y,k.,a,THIN SPACE
 START b 
 |
 STOP b 
@@ -314,13 +313,11 @@ NO-BREAK SPACE
 Jeremiah 1:13 in vtrad vtsef
 w,_,y,:,h,i,(qa),y
 SPACE
-d,:,v,_,r,-,y,:,h,o,w,a,<,h
-THIN SPACE
+d,:,v,_,r,-,y,:,h,o,w,a,<,h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,‥,l,_,y,(p)
+THIN SPACE,α,‥,l,_,y,(p)
 SPACE
 $,·sh,‥,n,i,⅃,y,τ
 SPACE
@@ -368,8 +365,7 @@ SPACE
 h,a,α,a,𝓂,r,∵,ц.,.
 
 Jeremiah 1:15 in vtrad vtsef
-k,·,i,⅃,y
-THIN SPACE
+k,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -394,8 +390,7 @@ SPACE
 SPACE
 k,·,i,σ,:,α,(ge),w,o
 SPACE
-f,·,∵,⅃,τ,_,x
-THIN SPACE
+f,·,∵,⅃,τ,_,x,THIN SPACE
 START b 
 |
 STOP b 
@@ -623,8 +618,7 @@ SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 Jeremiah 2:5 in vtrad vtsef
-k,·,o,⅃,h
-THIN SPACE
+k,·,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -863,8 +857,7 @@ SPACE
 SPACE
 ʕ,a,z,:,v,(ge),w,·
 SPACE
-m,:,q,⅃,w,o,r
-THIN SPACE
+m,:,q,⅃,w,o,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -1166,8 +1159,7 @@ SPACE
 d,·,:,r,a,k,∵,𝓂,y,h,a,.
 
 Jeremiah 2:24 in vtrad vtsef
-f,·,∵,⅃,r,∵,h
-THIN SPACE
+f,·,∵,⅃,r,∵,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -2378,13 +2370,11 @@ NO-BREAK SPACE
 Jeremiah 4:1 in vtrad vtsef
 α,i,m.,-,τ,·,a,$,·sh,(qa),w,·,v
 SPACE
-y,i,$,·si,:,r,a,α,‥,(da),l
-THIN SPACE
+y,i,$,·si,:,r,a,α,‥,(da),l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-n,:,α,u,m.,-,y,:,h,o,w,a,⟓,h
+THIN SPACE,n,:,α,u,m.,-,y,:,h,o,w,a,⟓,h
 SPACE
 α,‥,l,_,(ti),y
 SPACE
@@ -2434,8 +2424,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Jeremiah 4:3 in vtrad vtsef
-k,·,i,y,-,k,o,⅃,h
-THIN SPACE
+k,·,i,y,-,k,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -2654,8 +2643,7 @@ NO-BREAK SPACE
 Jeremiah 4:10 in vtrad vtsef
 w,a,𝓂,α,o,m,_,(G),r
 SPACE
-α,:_,h,a,⅃,h,·
-THIN SPACE
+α,:_,h,a,⅃,h,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -2743,8 +2731,7 @@ SPACE
 α,w,o,τ,a,𝓂,m.,.
 
 Jeremiah 4:13 in vtrad vtsef
-h,i,n,·,‥,⅃,h
-THIN SPACE
+h,i,n,·,‥,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -2886,14 +2873,12 @@ STOP span class=mam-spi-pe
 START br 
 
 Jeremiah 4:19 in vtrad vtsef
-m,‥,ʕ,_,⅃,y
-THIN SPACE
+m,‥,ʕ,_,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
-m,‥,ʕ,_,(qa),y
-THIN SPACE
+m,‥,ʕ,_,(qa),y,THIN SPACE
 START small 
 |
 STOP small 
@@ -2982,8 +2967,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Jeremiah 4:22 in vtrad vtsef
-k,·,i,⅃,y
-THIN SPACE
+k,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -3670,8 +3654,7 @@ y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,⅄,h
 SPACE
-g,·,⅃,w,o,y
-THIN SPACE
+g,·,⅃,w,o,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -4112,8 +4095,7 @@ SPACE
 l,:,α,_,x,:_,r,i,y,τ,a,𝓂,h,·,.
 
 Jeremiah 6:1 in vtrad vtsef
-h,a,ʕ,i,⅃,z,w,·
-THIN SPACE
+h,a,ʕ,i,⅃,z,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -4390,13 +4372,11 @@ w,:,α,‥,τ,(tq)
 SPACE
 x,:_,m,_,(qa),τ
 SPACE
-y,:,h,o,w,a,<,h
-THIN SPACE
+y,:,h,o,w,a,<,h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-m,a,l,‥,(p),α,τ,i,y,(p)
+THIN SPACE,m,a,l,‥,(p),α,τ,i,y,(p)
 SPACE
 n,i,l,:,α,‥,⅃,y,τ,i,y
 SPACE
@@ -4485,13 +4465,11 @@ SPACE
 SPACE
 l,‥,α,m,o,(ti),r
 SPACE
-$,·sh,a,l,⅃,w,o,m.
-THIN SPACE
+$,·sh,a,l,⅃,w,o,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-$,·sh,a,l,⅄,w,o,m.
+THIN SPACE,$,·sh,a,l,⅄,w,o,m.
 SPACE
 w,:,α,‥,(ti),y,n.
 SPACE
@@ -4555,8 +4533,7 @@ SPACE
 SPACE
 w,·,r,:,α,(ge),w,·
 SPACE
-w,:,$,·sh,_,α,:_,l,⅃,w,·
-THIN SPACE
+w,:,$,·sh,_,α,:_,l,⅃,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -5173,13 +5150,11 @@ SPACE
 h,w,o,ʕ,i,𝓂,y,l,.
 
 Jeremiah 7:9 in vtrad vtsef
-h,:_,g,a,n,o,<,v
-THIN SPACE
+h,:_,g,a,n,o,<,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-r,a,ц,o,(p),x,_,(p)
+THIN SPACE,r,a,ц,o,(p),x,_,(p)
 SPACE
 w,:,𝓂,n,a,α,o,ƶ,f.
 SPACE
@@ -5334,8 +5309,7 @@ SPACE
 Jeremiah 7:14 in vtrad vtsef
 w,:,ʕ,a,$,·si,i,(ge),y,τ,i,y
 SPACE
-l,_,v,·,_,⅃,y,i,τ
-THIN SPACE
+l,_,v,·,_,⅃,y,i,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -5397,8 +5371,7 @@ START br
 Jeremiah 7:16 in vtrad vtsef
 w,:,α,_,τ,·,a,(G),h
 SPACE
-α,_,l,-,τ,·,i,τ,:,f,·,_,l,·,‥,⅃,l
-THIN SPACE
+α,_,l,-,τ,·,i,τ,:,f,·,_,l,·,‥,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -5503,8 +5476,7 @@ f,·,:,n,‥,y,h,∵,𝓂,m.,.
 Jeremiah 7:20 in vtrad vtsef
 l,a,k,‥,(G),n.
 SPACE
-k,·,o,h,-,α,a,m,_,⅃,r
-THIN SPACE
+k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -5943,8 +5915,7 @@ SPACE
 m,_,x,:_,r,i,𝓂,y,d,.
 
 Jeremiah 7:34 in vtrad vtsef
-w,:,h,i,$,·sh,:,v,·,_,τ,·,i,⅃,y
-THIN SPACE
+w,:,h,i,$,·sh,:,v,·,_,τ,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -6008,8 +5979,7 @@ w,:,α,∵,τ,-,ʕ,_,ц,:,m,(qa),w,o,τ
 SPACE
 h,_,k,·,o,h,:_,n,i,(ge),y,m.
 SPACE
-w,:,α,‥,⅃,τ
-THIN SPACE
+w,:,α,‥,⅃,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -6033,8 +6003,7 @@ l,_,$,·sh,·,∵,(qa),m,∵,$,·sh
 SPACE
 w,:,l,_,y,·,a,r,‥,(ge),x,_
 SPACE
-w,·,l,:,k,o,⅃,l
-THIN SPACE
+w,·,l,:,k,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -6356,13 +6325,11 @@ SPACE
 SPACE
 l,‥,α,m,o,(ti),r
 SPACE
-$,·sh,a,l,⅃,w,o,m.
-THIN SPACE
+$,·sh,a,l,⅃,w,o,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-$,·sh,a,l,⅄,w,o,m.
+THIN SPACE,$,·sh,a,l,⅄,w,o,m.
 SPACE
 w,:,α,‥,(ti),y,n.
 SPACE
@@ -6760,13 +6727,11 @@ k,·,i,y,(tq)
 SPACE
 m,‥,r,a,ʕ,a,(qa),h
 SPACE
-α,∵,l,-,r,a,ʕ,a,(da),h
-THIN SPACE
+α,∵,l,-,r,a,ʕ,a,(da),h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,a,ц,a,⟓,α,w,·
+THIN SPACE,y,a,ц,a,⟓,α,w,·
 SPACE
 w,:,α,o,τ,i,(me),y
 SPACE
@@ -7336,8 +7301,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Jeremiah 9:22 in vtrad vtsef
-k,·,o,⅃,h
-THIN SPACE
+k,·,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -7486,8 +7450,7 @@ SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 Jeremiah 10:2 in vtrad vtsef
-k,·,o,⅃,h
-THIN SPACE
+k,·,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -8290,13 +8253,11 @@ w,a,α,_,(me),ʕ,_,n.
 SPACE
 w,a,α,o,m,_,(ti),r
 SPACE
-α,a,m,‥,(me),n.
-THIN SPACE
+α,a,m,‥,(me),n.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,h,o,w,a,𝓂,h,.
+THIN SPACE,y,:,h,o,w,a,𝓂,h,.
 NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
@@ -8620,8 +8581,7 @@ r,i,n,·,a,⅃,h
 SPACE
 w,·,τ,:,f,i,l,·,a,⅄,h
 SPACE
-k,·,i,⅃,y
-THIN SPACE
+k,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -8694,8 +8654,7 @@ y,:,h,o,w,a,(ti),h
 SPACE
 $,·sh,:,m,‥,⅄,k.,:
 SPACE
-l,:,q,⅃,w,o,l
-THIN SPACE
+l,:,q,⅃,w,o,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -8782,8 +8741,7 @@ l,i,θ,:,v,⅄,w,o,x,_
 SPACE
 w,:,l,o,𝓂,α,-,y,a,d,_,(ge),ʕ,:,τ,·,i,y
 SPACE
-k,·,i,𝓂,y,-,ʕ,a,l,_,⅃,y
-THIN SPACE
+k,·,i,𝓂,y,-,ʕ,a,l,_,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -9075,13 +9033,11 @@ SPACE
 Jeremiah 12:5 in vtrad vtsef
 k,·,i,⅃,y
 SPACE
-α,∵,τ,-,r,_,g,:,l,i,(me),y,m.
-THIN SPACE
+α,∵,τ,-,r,_,g,:,l,i,(me),y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-r,_,(p),ц,:,τ,·,a,h,(p)
+THIN SPACE,r,_,(p),ц,:,τ,·,a,h,(p)
 SPACE
 w,_,y,·,_,l,:,α,ƶ,w,·,k.,a
 SPACE
@@ -9333,8 +9289,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Jeremiah 12:14 in vtrad vtsef
-k,·,o,⅃,h
-THIN SPACE
+k,·,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -9662,8 +9617,7 @@ h,_,z,·,∵,(qa),h
 SPACE
 h,a,r,a,(ge),ʕ
 SPACE
-h,_,𝓂,m,·,‥,α,:_,n,i,⅃,y,m.
-THIN SPACE
+h,_,𝓂,m,·,‥,α,:_,n,i,⅃,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -10566,8 +10520,7 @@ NO-BREAK SPACE
 Jeremiah 14:13 in vtrad vtsef
 w,a,α,o,m,_,(G),r
 SPACE
-α,:_,h,a,⅃,h,·
-THIN SPACE
+α,:_,h,a,⅃,h,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -10747,8 +10700,7 @@ v,·,:,x,u,ц,(qa),w,o,τ
 SPACE
 y,:,r,w,·,$,·sh,a,l,_,(ge),CGJ,i,m.
 SPACE
-m,i,f,·,:,n,‥,⅃,y
-THIN SPACE
+m,i,f,·,:,n,‥,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -11327,8 +11279,7 @@ STOP span class=mam-kq
 SPACE
 l,:,θ,⅄,w,o,v
 SPACE
-α,i,m.,-,l,⅃,w,o,α
-THIN SPACE
+α,i,m.,-,l,⅃,w,o,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -11350,13 +11301,11 @@ SPACE
 Jeremiah 15:12 in vtrad vtsef
 h,:_,y,a,r,o,(qa),ʕ,_
 SPACE
-v,·,_,r,:,z,∵,(da),l
-THIN SPACE
+v,·,_,r,:,z,∵,(da),l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-v,·,_,r,:,z,∵,⟓,l
+THIN SPACE,v,·,_,r,:,z,∵,⟓,l
 SPACE
 m,i,ц,·,a,f,(ti),w,o,n.
 SPACE
@@ -11692,8 +11641,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Jeremiah 16:3 in vtrad vtsef
-k,·,i,y,-,k,o,⅃,h
-THIN SPACE
+k,·,i,y,-,k,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -11784,8 +11732,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Jeremiah 16:5 in vtrad vtsef
-k,·,i,y,-,k,o,⅃,h
-THIN SPACE
+k,·,i,y,-,k,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -12459,8 +12406,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Jeremiah 17:5 in vtrad vtsef
-k,·,o,⅃,h
-THIN SPACE
+k,·,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -12552,8 +12498,7 @@ m,i,v,:,θ,_,x,𝓂,w,o,.
 Jeremiah 17:8 in vtrad vtsef
 w,:,h,a,y,a,(G),h
 SPACE
-k,·,:,ʕ,‥,⅃,ц.
-THIN SPACE
+k,·,:,ʕ,‥,⅃,ц.,THIN SPACE
 START b 
 |
 STOP b 
@@ -12773,8 +12718,7 @@ n,a,𝓂,α,.
 Jeremiah 17:16 in vtrad vtsef
 w,_,α,:_,n,i,(G),y
 SPACE
-l,o,α,-,α,_,⅃,ц,:,τ,·,i,y
-THIN SPACE
+l,o,α,-,α,_,⅃,ц,:,τ,·,i,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -13030,8 +12974,7 @@ SPACE
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,ƶ,h
 SPACE
-l,:,v,i,l,:,τ,·,i,⅃,y
-THIN SPACE
+l,:,v,i,l,:,τ,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -13074,13 +13017,11 @@ h,a,ʕ,i,⅃,y,r
 SPACE
 h,_,z,·,o,μ,α,τ
 SPACE
-m,:,l,a,k,i,⅃,y,m.
-THIN SPACE
+m,:,l,a,k,i,⅃,y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-w,:,$,·si,a,r,i,μ,y,m.
+THIN SPACE,w,:,$,·si,a,r,i,μ,y,m.
 SPACE
 y,o,$,·sh,:,v,i,y,m.,(tq)
 SPACE
@@ -13088,8 +13029,7 @@ SPACE
 SPACE
 d,a,w,i,(ge),d
 SPACE
-r,o,k,:,v,i,⅃,y,m.
-THIN SPACE
+r,o,k,:,v,i,⅃,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -13166,8 +13106,7 @@ SPACE
 SPACE
 h,_,$,·sh,·,_,v,·,a,ƶ,τ
 SPACE
-w,·,l,:,v,i,l,:,τ,·,i,⅃,y
-THIN SPACE
+w,·,l,:,v,i,l,:,τ,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -13750,8 +13689,7 @@ $,·sh,w,·,x,a,(ti),h
 SPACE
 l,:,n,_,f,:,$,·sh,i,⅄,y
 SPACE
-z,:,k,o,⅃,r
-THIN SPACE
+z,:,k,o,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -14001,8 +13939,7 @@ SPACE
 α,oa,z,:,n,a,𝓂,y,w,.
 
 Jeremiah 19:4 in vtrad vtsef
-y,_,⅃,ʕ,_,n.
-THIN SPACE
+y,_,⅃,ʕ,_,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -14227,8 +14164,7 @@ w,:,α,a,m,_,r,:,τ,·,a,(qa)
 SPACE
 α,:_,l,‥,y,h,∵,(ge),m.
 SPACE
-k,·,o,h,-,α,a,m,_,⅃,r
-THIN SPACE
+k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -15189,13 +15125,11 @@ SPACE
 SPACE
 m,∵,l,∵,k.,:,-,y,:,h,w,·,d,a,⅃,h
 SPACE
-w,:,α,∵,τ,-,ʕ,:_,v,a,d,a,⅃,y,w
-THIN SPACE
+w,:,α,∵,τ,-,ʕ,:_,v,a,d,a,⅃,y,w,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-w,:,α,∵,τ,-,h,a,ʕ,a,μ,m.
+THIN SPACE,w,:,α,∵,τ,-,h,a,ʕ,a,μ,m.
 SPACE
 w,:,α,∵,τ,-,h,_,n,·,i,$,·sh,:,α,a,r,i,y,m.,(tq)
 SPACE
@@ -15203,8 +15137,7 @@ v,·,a,ʕ,i,(qa),y,r
 SPACE
 h,_,z,·,o,(ge),α,τ
 SPACE
-m,i,n.,-,h,_,d,·,∵,⅃,v,∵,r
-THIN SPACE
+m,i,n.,-,h,_,d,·,∵,⅃,v,∵,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -15516,8 +15449,7 @@ SPACE
 h,a,α,‥,𝓂,l,·,∵,h,.
 
 Jeremiah 22:3 in vtrad vtsef
-k,·,o,⅃,h
-THIN SPACE
+k,·,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -15630,8 +15562,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Jeremiah 22:6 in vtrad vtsef
-k,·,i,y,-,k,o,⅃,h
-THIN SPACE
+k,·,i,y,-,k,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -16336,8 +16267,7 @@ SPACE
 d,·,:,v,_,r,-,y,:,h,o,w,a,𝓂,h,.
 
 Jeremiah 22:30 in vtrad vtsef
-k,·,o,⅃,h
-THIN SPACE
+k,·,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -16567,13 +16497,11 @@ w,:,z,∵,h,-,$,·sh,·,:,m,(me),w,o
 SPACE
 α,:_,𝓂,$,·sh,∵,r,-,y,i,q,:,r,:,α,(ti),w,o
 SPACE
-y,:,h,o,w,a,(me),h
-THIN SPACE
+y,:,h,o,w,a,(me),h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-ц,i,d,:,q,‥,𝓂,n,w,·,.
+THIN SPACE,ц,i,d,:,q,‥,𝓂,n,w,·,.
 NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
@@ -16978,8 +16906,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Jeremiah 23:19 in vtrad vtsef
-h,i,n,·,‥,⅃,h
-THIN SPACE
+h,i,n,·,‥,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -17788,8 +17715,7 @@ l,o,α,-,τ,‥,α,a,k,_,(ti),l,:,n,a,h
 SPACE
 m,‥,r,o,⅄,ʕ,_
 SPACE
-k,·,i,y,-,k,o,⅃,h
-THIN SPACE
+k,·,i,y,-,k,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -17808,8 +17734,7 @@ m,∵,l,∵,k.,:,-,y,:,h,w,·,d,a,<,h
 SPACE
 w,:,α,∵,τ,-,$,·si,a,r,a,y,w,(p)
 SPACE
-w,:,α,‥,⅃,τ
-THIN SPACE
+w,:,α,‥,⅃,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -17964,8 +17889,7 @@ m,∵,(qa),l,∵,k.,:
 SPACE
 y,:,h,w,·,d,a,(ge),h
 SPACE
-w,:,ʕ,_,⅃,d
-THIN SPACE
+w,:,ʕ,_,⅃,d,THIN SPACE
 START b 
 |
 STOP b 
@@ -18552,8 +18476,7 @@ SPACE
 v,·,_,m,·,i,d,:,v,·,a,𝓂,r,.
 
 Jeremiah 25:25 in vtrad vtsef
-w,:,α,‥,⅃,τ
-THIN SPACE
+w,:,α,‥,⅃,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -18575,8 +18498,7 @@ SPACE
 m,a,d,a,𝓂,y,.
 
 Jeremiah 25:26 in vtrad vtsef
-w,:,α,‥,⅃,τ
-THIN SPACE
+w,:,α,‥,⅃,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -19018,8 +18940,7 @@ SPACE
 l,‥,α,m,o,𝓂,r,.
 
 Jeremiah 26:2 in vtrad vtsef
-k,·,o,⅃,h
-THIN SPACE
+k,·,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -19205,8 +19126,7 @@ SPACE
 y,:,h,o,w,a,𝓂,h,.
 
 Jeremiah 26:8 in vtrad vtsef
-w,_,y,:,h,i,⅃,y
-THIN SPACE
+w,_,y,:,h,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -19281,8 +19201,7 @@ SPACE
 y,:,h,o,w,a,𝓂,h,.
 
 Jeremiah 26:10 in vtrad vtsef
-w,_,𝓂,y,·,i,$,·sh,:,m,:,ʕ,⅃,w,·
-THIN SPACE
+w,_,𝓂,y,·,i,$,·sh,:,m,:,ʕ,⅃,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -19436,8 +19355,7 @@ SPACE
 v,·,:,ʕ,‥,y,n,‥,y,k,∵,𝓂,m.,.
 
 Jeremiah 26:15 in vtrad vtsef
-α,_,⅃,k.,:
-THIN SPACE
+α,_,⅃,k.,:,THIN SPACE
 START b 
 |
 STOP b 
@@ -19579,8 +19497,7 @@ y,:,h,w,·,d,a,(qa),h
 SPACE
 l,‥,α,m,o,(ge),r
 SPACE
-k,·,o,h,-,α,a,m,_,⅃,r
-THIN SPACE
+k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -20352,8 +20269,7 @@ SPACE
 SPACE
 l,:,v,i,l,:,τ,·,i,y,-,v,o,(ge),α,w,·
 SPACE
-h,_,k,·,‥,l,i,⅃,y,m.
-THIN SPACE
+h,_,k,·,‥,l,i,⅃,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -20503,8 +20419,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Jeremiah 28:1 in vtrad vtsef
-w,_,y,:,h,i,⅃,y
-THIN SPACE
+w,_,y,:,h,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -20585,8 +20500,7 @@ SPACE
 v,·,a,v,∵,𝓂,l,.
 
 Jeremiah 28:3 in vtrad vtsef
-v,·,:,ʕ,⅃,w,o,d
-THIN SPACE
+v,·,:,ʕ,⅃,w,o,d,THIN SPACE
 START b 
 |
 STOP b 
@@ -20837,8 +20751,7 @@ k,·,a,⅃,k,a,h
 SPACE
 α,∵,$,·sh,:,v,·,o,(G),r
 SPACE
-α,∵,τ,-,ʕ,o,⅃,l
-THIN SPACE
+α,∵,τ,-,ʕ,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -20947,8 +20860,7 @@ v,·,_,r,:,z,∵,μ,l
 SPACE
 n,a,τ,_,(ge),τ,·,i,y
 SPACE
-ʕ,_,l,-,ц,_,w,·,_,⅃,α,r
-THIN SPACE
+ʕ,_,l,-,ц,_,w,·,_,⅃,α,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -21492,8 +21404,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Jeremiah 29:16 in vtrad vtsef
-k,·,i,y,-,k,o,⅃,h
-THIN SPACE
+k,·,i,y,-,k,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -21598,8 +21509,7 @@ LEFT SQUARE BRACKET,l,:,z,_,ʕ,:_,w,a,(ge),h,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
-l,:,k,o,⅃,l
-THIN SPACE
+l,:,k,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -21705,8 +21615,7 @@ v,·,i,$,·sh,:,m,i,(ti),y
 SPACE
 $,·sh,a,⅄,q,∵,r
 SPACE
-h,i,n,:,n,i,⅃,y
-THIN SPACE
+h,i,n,:,n,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -22043,14 +21952,12 @@ l,o,α,-,y,i,h,:,y,∵,(qa),h
 SPACE
 l,(ge),w,o
 SPACE
-α,i,⅃,y,$,·sh
-THIN SPACE
+α,i,⅃,y,$,·sh,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
-y,w,o,$,·sh,‥,⅃,v
-THIN SPACE
+y,w,o,$,·sh,‥,⅃,v,THIN SPACE
 START b 
 |
 STOP b 
@@ -22251,8 +22158,7 @@ v,_,y,·,(qa),w,o,m.
 SPACE
 h,_,h,(ge),w,·,α
 SPACE
-n,:,α,u,⅃,m.
-THIN SPACE
+n,:,α,u,⅃,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -22368,8 +22274,7 @@ SPACE
 SPACE
 k,a,l,a,(ge),h
 SPACE
-v,·,:,k,oa,𝓂,l,-,h,_,g,·,w,o,y,i,⅃,m.
-THIN SPACE
+v,·,:,k,oa,𝓂,l,-,h,_,g,·,w,o,y,i,⅃,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -22484,8 +22389,7 @@ SPACE
 SPACE
 m,_,k,:,α,o,v,‥,⅄,k.,:
 SPACE
-ʕ,_,⅃,l
-THIN SPACE
+ʕ,_,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -22577,8 +22481,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Jeremiah 30:18 in vtrad vtsef
-k,·,o,⅃,h
-THIN SPACE
+k,·,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -22716,8 +22619,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Jeremiah 30:23 in vtrad vtsef
-h,i,n,·,‥,⅃,h
-THIN SPACE
+h,i,n,·,‥,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -22917,8 +22819,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Jeremiah 31:7 in vtrad vtsef
-k,·,i,y,-,k,o,⅃,h
-THIN SPACE
+k,·,i,y,-,k,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -23163,8 +23064,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Jeremiah 31:15 in vtrad vtsef
-k,·,o,⅃,h
-THIN SPACE
+k,·,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -23214,8 +23114,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Jeremiah 31:16 in vtrad vtsef
-k,·,o,⅃,h
-THIN SPACE
+k,·,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -23814,8 +23713,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Jeremiah 31:35 in vtrad vtsef
-k,·,o,⅃,h
-THIN SPACE
+k,·,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -23896,8 +23794,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Jeremiah 31:37 in vtrad vtsef
-k,·,o,⅃,h
-THIN SPACE
+k,·,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -24001,13 +23898,11 @@ g,·,o,ʕ,a,𝓂,τ,a,h,.
 Jeremiah 31:40 in vtrad vtsef
 w,:,k,oa,l,-,h,a,ʕ,‥,⅃,m,∵,q
 SPACE
-h,_,f,·,:,g,a,r,i,⅃,y,m.
-THIN SPACE
+h,_,f,·,:,g,a,r,i,⅃,y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-w,:,h,_,d,·,∵,μ,$,·sh,∵,n.
+THIN SPACE,w,:,h,_,d,·,∵,μ,$,·sh,∵,n.
 SPACE
 w,:,k,oa,𝓂,l,-
 START span class=mam-kq
@@ -24305,8 +24200,7 @@ SPACE
 SPACE
 α,:_,$,·sh,∵,r,-,v,·,_,ʕ,:_,n,a,τ,(ge),w,o,τ
 SPACE
-α,:_,$,·sh,∵,⅃,r
-THIN SPACE
+α,:_,$,·sh,∵,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -24563,8 +24457,7 @@ SPACE
 SPACE
 y,:∵,h,o,w,i,h,∴
 SPACE
-h,i,n,·,‥,⅃,h
-THIN SPACE
+h,i,n,·,‥,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -25109,8 +25002,7 @@ SPACE
 SPACE
 h,_,v,·,_,(ge),ʕ,_,l
 SPACE
-α,:_,$,·sh,∵,⅃,r
-THIN SPACE
+α,:_,$,·sh,∵,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -25180,8 +25072,7 @@ SPACE
 SPACE
 h,_,z,·,o,ƶ,α,τ
 SPACE
-α,:_,$,·sh,∵,⅃,r
-THIN SPACE
+α,:_,$,·sh,∵,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -25389,8 +25280,7 @@ v,·,a,α,a,⅃,r,∵,ц.
 SPACE
 h,_,z,·,o,⅄,α,τ
 SPACE
-α,:_,$,·sh,∵,⅃,r
-THIN SPACE
+α,:_,$,·sh,∵,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -25424,13 +25314,11 @@ y,i,q,:,n,◆,w,·
 SPACE
 w,:,k,a,τ,(qa),w,o,v
 SPACE
-v,·,_,σ,·,‥,(me),f,∵,r
-THIN SPACE
+v,·,_,σ,·,‥,(me),f,∵,r,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-w,:,x,a,τ,w,o,m.,~
+THIN SPACE,w,:,x,a,τ,w,o,m.,~
 SPACE
 w,:,h,a,ʕ,‥,⅃,d
 SPACE
@@ -25735,8 +25623,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Jeremiah 33:10 in vtrad vtsef
-k,·,o,⅃,h
-THIN SPACE
+k,·,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -25865,8 +25752,7 @@ SPACE
 SPACE
 ʕ,(G),w,o,d
 SPACE
-y,i,h,:,y,∵,⅃,h
-THIN SPACE
+y,i,h,:,y,∵,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -26013,13 +25899,11 @@ w,:,z,∵,(me),h
 SPACE
 α,:_,$,·sh,∵,r,-,y,i,q,:,r,a,α,-,l,a,(ti),h,·
 SPACE
-y,:,h,o,w,a,(me),h
-THIN SPACE
+y,:,h,o,w,a,(me),h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-ц,i,d,:,q,‥,𝓂,n,w,·,.
+THIN SPACE,ц,i,d,:,q,‥,𝓂,n,w,·,.
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -26325,13 +26209,11 @@ y,:,h,o,w,a,⅄,h
 SPACE
 w,·,n,:,v,w,·,k,_,d,:,r,∵,α,ц,·,_,⅃,r
 SPACE
-m,∵,l,∵,k.,:,-,v,·,a,v,∵,⅃,l
-THIN SPACE
+m,∵,l,∵,k.,:,-,v,·,a,v,∵,⅃,l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-w,:,k,oa,l,-,x,‥,y,l,μ,w,o
+THIN SPACE,w,:,k,oa,l,-,x,‥,y,l,μ,w,o
 SPACE
 w,:,k,oa,l,-,m,_,m,:,l,:,k,⅃,w,o,τ
 SPACE
@@ -27202,8 +27084,7 @@ h,_,σ,·,_,𝓂,f.,.
 Jeremiah 35:5 in vtrad vtsef
 w,a,α,∵,τ,·,‥,(G),n.
 SPACE
-l,i,f,:,n,‥,⅃,y
-THIN SPACE
+l,i,f,:,n,‥,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -27513,21 +27394,17 @@ SPACE
 SPACE
 α,∵,τ,-,k,·,oa,l,-,ʕ,:_,v,a,d,_,⅃,y
 SPACE
-h,_,n,·,:,v,i,α,i,⅃,y,m.
-THIN SPACE
+h,_,n,·,:,v,i,α,i,⅃,y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-h,_,$,·sh,:,k,·,‥,⅃,m.
+THIN SPACE,h,_,$,·sh,:,k,·,‥,⅃,m.
 SPACE
-w,:,$,·sh,a,l,o,⅃,x,_
-THIN SPACE
+w,:,$,·sh,a,l,o,⅃,x,_,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,‥,α,m,o,μ,r
+THIN SPACE,l,‥,α,m,o,μ,r
 SPACE
 $,·sh,u,𝓂,v,w,·,-,n,a,μ,α
 SPACE
@@ -28430,8 +28307,7 @@ SPACE
 m,:,v,o,ʕ,a,𝓂,r,∵,τ,.
 
 Jeremiah 36:23 in vtrad vtsef
-w,_,y,:,h,i,⅃,y
-THIN SPACE
+w,_,y,:,h,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -28570,8 +28446,7 @@ d,:,v,_,r,-,y,:,h,o,w,a,(ti),h
 SPACE
 α,∵,𝓂,l,-,y,i,r,:,m,:,y,a,⅄,h,w,·
 SPACE
-α,_,x,:_,r,‥,⅃,y
-THIN SPACE
+α,_,x,:_,r,‥,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -28765,8 +28640,7 @@ $,·sh,a,m,‥,𝓂,ʕ,w,·,.
 Jeremiah 36:32 in vtrad vtsef
 w,:,y,i,r,:,m,:,y,a,(ge),h,w,·
 SPACE
-l,a,q,_,⅃,x
-THIN SPACE
+l,a,q,_,⅃,x,THIN SPACE
 START b 
 |
 STOP b 
@@ -29001,8 +28875,7 @@ SPACE
 SPACE
 l,:,d,oa,r,:,$,·sh,‥,⅄,n,i,y
 SPACE
-h,i,n,·,‥,⅃,h
-THIN SPACE
+h,i,n,·,‥,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -29046,8 +28919,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Jeremiah 37:9 in vtrad vtsef
-k,·,o,⅃,h
-THIN SPACE
+k,·,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -29582,8 +29454,7 @@ SPACE
 SPACE
 h,_,m,·,i,l,:,x,a,m,a,(ge),h
 SPACE
-h,_,𝓂,n,·,i,$,·sh,:,α,a,r,i,⅃,y,m.
-THIN SPACE
+h,_,𝓂,n,·,i,$,·sh,:,α,a,r,i,⅃,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -29606,8 +29477,7 @@ k,·,_,d,·,:,v,a,r,i,(ti),y,m.
 SPACE
 h,a,α,‥,⅄,l,·,∵,h
 SPACE
-k,·,i,⅃,y
-THIN SPACE
+k,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -29660,8 +29530,7 @@ w,_,y,·,_,$,·sh,:,l,i,(qa),k,w,·
 SPACE
 α,o,τ,(ge),w,o
 SPACE
-α,∵,l,-,h,_,v,·,⅃,w,o,r
-THIN SPACE
+α,∵,l,-,h,_,v,·,⅃,w,o,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -29835,8 +29704,7 @@ SPACE
 y,a,m,𝓂,w,·,τ,.
 
 Jeremiah 38:11 in vtrad vtsef
-w,_,y,·,i,q,·,_,⅃,x
-THIN SPACE
+w,_,y,·,i,q,·,_,⅃,x,THIN SPACE
 START b 
 |
 STOP b 
@@ -30219,8 +30087,7 @@ l,o,⅃,α
 SPACE
 y,i,τ,·,‥,⅄,n,w,·
 SPACE
-$,·sh,:,𝓂,m,_,𝓂,ʕ,-,n,a,⅃,α
-THIN SPACE
+$,·sh,:,𝓂,m,_,𝓂,ʕ,-,n,a,⅃,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -30601,8 +30468,7 @@ SPACE
 SPACE
 m,∵,l,∵,k.,:,-,y,:,h,w,·,d,a,(ge),h
 SPACE
-w,:,k,o,⅃,l
-THIN SPACE
+w,:,k,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -31054,8 +30920,7 @@ m,‥,α,‥,⅃,τ
 SPACE
 y,:,h,o,w,a,ƶ,h
 SPACE
-α,_,x,_,⅃,r
-THIN SPACE
+α,_,x,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -31315,8 +31180,7 @@ v,∵,n.,-,α,:_,x,i,y,q,a,(ti),m.
 SPACE
 v,·,a,α,a,⅄,r,∵,ц.
 SPACE
-w,:,k,i,⅃,y
-THIN SPACE
+w,:,k,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -31362,8 +31226,7 @@ w,·,$,·si,:,r,a,y,a,(qa),h
 SPACE
 v,∵,n.,-,τ,·,_,n,:,x,u,(ge),m,∵,τ
 SPACE
-w,·,v,:,n,‥,⅃,y
-THIN SPACE
+w,·,v,:,n,‥,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -31469,8 +31332,7 @@ w,:,g,_,⅃,m.
 SPACE
 k,·,oa,𝓂,l,-,h,_,y,·,:,h,w,·,d,i,μ,y,m.
 SPACE
-α,:_,$,·sh,∵,r,-,v,·,:,m,w,o,α,a,⅃,v
-THIN SPACE
+α,:_,$,·sh,∵,r,-,v,·,:,m,w,o,α,a,⅃,v,THIN SPACE
 START b 
 |
 STOP b 
@@ -31576,8 +31438,7 @@ SPACE
 SPACE
 k,·,i,(G),y
 SPACE
-v,·,_,ʕ,:_,l,i,⅃,y,σ
-THIN SPACE
+v,·,_,ʕ,:_,l,i,⅃,y,σ,THIN SPACE
 START b 
 |
 STOP b 
@@ -31695,8 +31556,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Jeremiah 41:1 in vtrad vtsef
-w,_,y,:,h,i,⅃,y
-THIN SPACE
+w,_,y,:,h,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -31752,8 +31612,7 @@ v,·,∵,n.,-,n,:,τ,_,n,:,y,a,(ge),h
 SPACE
 w,_,ʕ,:_,$,·si,∵,(me),r,∵,τ
 SPACE
-h,a,𝓂,α,:_,n,a,$,·sh,i,⅃,y,m.
-THIN SPACE
+h,a,𝓂,α,:_,n,a,$,·sh,i,⅃,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -31971,8 +31830,7 @@ $,·sh,a,<,m.
 SPACE
 y,i,$,·sh,:,m,a,ʕ,‥,α,l,(p)
 SPACE
-α,‥,⅃,τ
-THIN SPACE
+α,‥,⅃,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -32014,13 +31872,11 @@ SPACE
 x,:_,l,a,l,i,𝓂,y,m.,.
 
 Jeremiah 41:10 in vtrad vtsef
-w,_,y,·,i,⅃,$,·sh,:,v,·,:
-THIN SPACE
+w,_,y,·,i,⅃,$,·sh,:,v,·,:,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,i,⌕,$,·sh,:,m,a,ʕ,‥,⌕,α,l
+THIN SPACE,y,i,⌕,$,·sh,:,m,a,ʕ,‥,⌕,α,l
 SPACE
 α,∵,τ,-,k,·,oa,l,-,$,·sh,:,α,‥,r,i,(qa),y,τ
 SPACE
@@ -32491,8 +32347,7 @@ Jeremiah 42:6 in vtrad vtsef
 SPACE
 w,:,α,i,m.,-,r,a,ƶ,ʕ
 SPACE
-v,·,:,q,⅃,w,o,l
-THIN SPACE
+v,·,:,q,⅃,w,o,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -32820,8 +32675,7 @@ m,i,ц,:,r,a,⅄,y,i,m.
 SPACE
 w,:,h,a,r,a,ʕ,a,(G),v
 SPACE
-α,:_,$,·sh,∵,r,-,α,_,τ,·,∵,⅃,m.
-THIN SPACE
+α,:_,$,·sh,∵,r,-,α,_,τ,·,∵,⅃,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -33822,8 +33676,7 @@ SPACE
 SPACE
 α,:_,v,w,o,τ,‥,y,k,∵,(ge),m.
 SPACE
-w,:,α,∵,τ,-,r,a,ʕ,⅃,w,o,τ
-THIN SPACE
+w,:,α,∵,τ,-,r,a,ʕ,⅃,w,o,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -34027,8 +33880,7 @@ v,·,:,α,∵,⅃,r,∵,ц.
 SPACE
 m,i,ц,:,r,a,⅄,y,i,m.
 SPACE
-w,:,l,a,$,·sh,⅃,w,·,v
-THIN SPACE
+w,:,l,a,$,·sh,⅃,w,·,v,THIN SPACE
 START b 
 |
 STOP b 
@@ -34121,8 +33973,7 @@ SPACE
 SPACE
 n,_,ʕ,:_,$,·si,∵,(ge),h
 SPACE
-α,∵,𝓂,τ,-,k,·,oa,l,-,h,_,d,·,a,v,a,⅃,r
-THIN SPACE
+α,∵,𝓂,τ,-,k,·,oa,l,-,h,_,d,·,a,v,a,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -34445,13 +34296,11 @@ v,·,:,f,i,y,k,∵,m.,~
 SPACE
 w,·,v,i,y,d,‥,y,k,∵,⅃,m.
 SPACE
-m,i,l,·,‥,α,τ,∵,⅃,m.
-THIN SPACE
+m,i,l,·,‥,α,τ,∵,⅃,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,‥,α,m,o,r,∴
+THIN SPACE,l,‥,α,m,o,r,∴
 SPACE
 ʕ,a,$,·si,o,(qa),h
 SPACE
@@ -34532,14 +34381,12 @@ SPACE
 SPACE
 $,·sh,:,m,i,(ge),y
 SPACE
-n,i,q,:,r,a,⅃,α
-THIN SPACE
+n,i,q,:,r,a,⅃,α,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
-v,·,:,f,i,⅃,y
-THIN SPACE
+v,·,:,f,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -34667,8 +34514,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Jeremiah 44:30 in vtrad vtsef
-k,·,o,⅃,h
-THIN SPACE
+k,·,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -34809,8 +34655,7 @@ SPACE
 m,a,ц,a,𝓂,α,τ,i,y,.
 
 Jeremiah 45:4 in vtrad vtsef
-k,·,o,⅃,h
-THIN SPACE
+k,·,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -35286,8 +35131,7 @@ SPACE
 SPACE
 w,_,y,·,o,𝓂,α,m,:,r,w,·,(p)
 SPACE
-q,⅃,w,·,m,a,h
-THIN SPACE
+q,⅃,w,·,m,a,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -35615,8 +35459,7 @@ SPACE
 SPACE
 k,a,l,a,(ge),h
 SPACE
-v,·,:,k,oa,𝓂,l,-,h,_,g,·,w,o,y,i,⅃,m.
-THIN SPACE
+v,·,:,k,oa,𝓂,l,-,h,_,g,·,w,o,y,i,⅃,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -35670,8 +35513,7 @@ SPACE
 α,∵,τ,-,ʕ,_,z,·,a,𝓂,h,.
 
 Jeremiah 47:2 in vtrad vtsef
-k,·,o,⅃,h
-THIN SPACE
+k,·,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -36451,8 +36293,7 @@ SPACE
 g,·,_,m.,-,h,𝓂,w,·,α,.
 
 Jeremiah 48:27 in vtrad vtsef
-w,:,α,i,⅃,m.
-THIN SPACE
+w,:,α,i,⅃,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -37300,8 +37141,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Jeremiah 49:12 in vtrad vtsef
-k,·,i,y,-,k,o,⅃,h
-THIN SPACE
+k,·,i,y,-,k,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -37679,13 +37519,11 @@ h,i,f,:,n,:,τ,a,(me),h
 SPACE
 l,a,n,(ti),w,·,σ
 SPACE
-w,:,r,∵,⅃,θ,∵,θ
-THIN SPACE
+w,:,r,∵,⅃,θ,∵,θ,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-h,∵,x,:∵,z,i,⅄,y,q,a,h
+THIN SPACE,h,∵,x,:∵,z,i,⅄,y,q,a,h
 SPACE
 ц,a,r,a,(da),h
 SPACE
@@ -37762,8 +37600,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Jeremiah 49:28 in vtrad vtsef
-l,:,q,‥,d,a,⅃,r
-THIN SPACE
+l,:,q,‥,d,a,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -38060,8 +37897,7 @@ l,i,f,:,n,‥,(qa),y
 SPACE
 α,o,y,:,v,‥,y,h,∵,(ge),m.
 SPACE
-w,:,l,i,f,:,n,‥,⅃,y
-THIN SPACE
+w,:,l,i,f,:,n,‥,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -38072,13 +37908,11 @@ n,_,f,:,$,·sh,a,◆,m.
 SPACE
 w,:,h,‥,v,‥,α,τ,i,(qa),y
 SPACE
-ʕ,:_,l,‥,y,h,∵,(da),m.
-THIN SPACE
+ʕ,:_,l,‥,y,h,∵,(da),m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-r,a,ʕ,a,⟓,h
+THIN SPACE,r,a,ʕ,a,⟓,h
 SPACE
 α,∵,τ,-,x,:_,r,(me),w,o,n.
 SPACE
@@ -38116,8 +37950,7 @@ SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
 
 Jeremiah 49:39 in vtrad vtsef
-w,:,h,a,y,a,⅃,h
-THIN SPACE
+w,:,h,a,y,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -38576,13 +38409,11 @@ SPACE
 Jeremiah 50:14 in vtrad vtsef
 ʕ,i,r,:,k,(qa),w,·
 SPACE
-ʕ,_,l,-,v,·,a,v,∵,<,l
-THIN SPACE
+ʕ,_,l,-,v,·,a,v,∵,<,l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,y,v,(p)
+THIN SPACE,σ,a,v,i,y,v,(p)
 SPACE
 k,·,oa,l,-,d,·,o,⅃,r,:,k,‥,y
 SPACE
@@ -39027,13 +38858,11 @@ h,‥,y,k,a,l,𝓂,w,o,.
 Jeremiah 50:29 in vtrad vtsef
 h,_,$,·sh,:,m,i,⅃,y,ʕ,w,·
 SPACE
-α,∵,l,-,v,·,a,v,∵,⅃,l
-THIN SPACE
+α,∵,l,-,v,·,a,v,∵,⅃,l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-r,_,⌕,v,·,i,⌕,y,m.
+THIN SPACE,r,_,⌕,v,·,i,⌕,y,m.
 SPACE
 k,·,oa,l,-,d,·,o,(qa),r,:,k,‥,y
 SPACE
@@ -39186,8 +39015,7 @@ SPACE
 $,·sh,_,l,·,:,x,a,𝓂,m.,.
 
 Jeremiah 50:34 in vtrad vtsef
-g,·,o,α,:_,l,a,⅃,m.
-THIN SPACE
+g,·,o,α,:_,l,a,⅃,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -39570,13 +39398,11 @@ m,_,$,·sh,:,x,i,𝓂,y,τ,.
 Jeremiah 51:2 in vtrad vtsef
 w,:,$,·sh,i,l,·,_,x,:,τ,·,i,(qa),y
 SPACE
-l,:,v,a,v,∵,<,l
-THIN SPACE
+l,:,v,a,v,∵,<,l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-z,a,r,i,y,m.,(p)
+THIN SPACE,z,a,r,i,y,m.,(p)
 SPACE
 w,:,z,‥,r,ƶ,w,·,h,a
 SPACE
@@ -39658,8 +39484,7 @@ SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 Jeremiah 51:6 in vtrad vtsef
-n,u,⅃,σ,w,·
-THIN SPACE
+n,u,⅃,σ,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -40139,8 +39964,7 @@ w,:,$,·sh,i,l,·,_,m,:,τ,·,i,(qa),y
 SPACE
 l,:,v,a,v,∵,(ge),l
 SPACE
-w,·,l,:,k,o,⅃,l
-THIN SPACE
+w,·,l,:,k,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -40567,19 +40391,15 @@ SPACE
 Jeremiah 51:37 in vtrad vtsef
 w,:,h,a,y,:,τ,a,h,(tq)
 SPACE
-v,a,v,∵,(qa),l
-THIN SPACE
+v,a,v,∵,(qa),l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,:,g,_,l,·,i,(da),y,m.
-THIN SPACE
+THIN SPACE,l,:,g,_,l,·,i,(da),y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-m,:,ʕ,w,o,n.,-,τ,·,_,n,·,i,⟓,y,m.
+THIN SPACE,m,:,ʕ,w,o,n.,-,τ,·,_,n,·,i,⟓,y,m.
 SPACE
 $,·sh,_,m,·,a,(me),h
 SPACE
@@ -41120,8 +40940,7 @@ NO-BREAK SPACE
 Jeremiah 51:59 in vtrad vtsef
 h,_,d,·,a,v,a,(G),r
 SPACE
-α,:_,$,·sh,∵,r,-,ц,i,w,·,a,⅃,h
-THIN SPACE
+α,:_,$,·sh,∵,r,-,ц,i,w,·,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -41349,8 +41168,7 @@ SPACE
 y,:,h,w,o,y,a,q,i,𝓂,m.,.
 
 Jeremiah 52:3 in vtrad vtsef
-k,·,i,⅃,y
-THIN SPACE
+k,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -41692,8 +41510,7 @@ h,a,ʕ,a,(ge),m.
 SPACE
 w,:,𝓂,α,∵,τ,-,y,∵,(me),τ,∵,r
 SPACE
-h,a,ʕ,a,⅃,m.
-THIN SPACE
+h,a,ʕ,a,⅃,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -41821,8 +41638,7 @@ SPACE
 r,_,v,-,θ,_,v,·,a,x,i,𝓂,y,m.,.
 
 Jeremiah 52:20 in vtrad vtsef
-h,a,ʕ,_,m,·,w,·,d,i,⅃,y,m.
-THIN SPACE
+h,a,ʕ,_,m,·,w,·,d,i,⅃,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -42006,8 +41822,7 @@ SPACE
 SPACE
 α,:_,𝓂,$,·sh,∵,r,-,h,a,y,a,(me),h
 SPACE
-f,a,q,i,⅃,y,d
-THIN SPACE
+f,a,q,i,⅃,y,d,THIN SPACE
 START b 
 |
 STOP b 

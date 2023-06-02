@@ -304,13 +304,11 @@ START br
 Haggai 1:12 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,_,⅃,ʕ
 SPACE
-z,:,r,u,v,·,a,v,∵,⅃,l
-THIN SPACE
+z,:,r,u,v,·,a,v,∵,⅃,l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-v,·,∵,𝓂,n.,-,$,·sh,_,l,:,τ,·,i,y,α,‥,μ,l
+THIN SPACE,v,·,∵,𝓂,n.,-,$,·sh,_,l,:,τ,·,i,y,α,‥,μ,l
 SPACE
 w,i,y,h,w,o,$,·sh,u,⅃,ʕ,_
 SPACE
@@ -320,8 +318,7 @@ h,_,k,·,o,h,‥,(qa),n.
 SPACE
 h,_,g,·,a,d,(ge),w,o,l
 SPACE
-w,:,k,o,⅃,l
-THIN SPACE
+w,:,k,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -536,13 +533,11 @@ w,:,ʕ,_,τ,·,a,⅃,h
 SPACE
 x,:_,z,_,⅃,q
 SPACE
-z,:,r,u,v,·,a,v,∵,⅃,l
-THIN SPACE
+z,:,r,u,v,·,a,v,∵,⅃,l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-n,:,α,u,m.,-,y,:,h,o,w,a,μ,h
+THIN SPACE,n,:,α,u,m.,-,y,:,h,o,w,a,μ,h
 SPACE
 w,_,x,:_,z,_,⅃,q
 SPACE
@@ -750,8 +745,7 @@ SPACE
 l,‥,α,m,o,𝓂,r,.
 
 Haggai 2:12 in vtrad vtsef
-h,‥,⅃,n.
-THIN SPACE
+h,‥,⅃,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -981,13 +975,11 @@ START br
 Haggai 2:20 in vtrad vtsef
 w,_,y,:,h,i,(qa),y
 SPACE
-d,:,v,_,r,-,y,:,h,o,w,a,<,h
-THIN SPACE
+d,:,v,_,r,-,y,:,h,o,w,a,<,h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-$,·sh,‥,n,i,y,τ,(p)
+THIN SPACE,$,·sh,‥,n,i,y,τ,(p)
 SPACE
 α,∵,l,-,x,_,g,·,_,ƶ,y
 SPACE

@@ -29,8 +29,7 @@ v,·,_,y,·,a,m,i,(ti),y,m.
 SPACE
 h,a,h,‥,⅄,m.
 SPACE
-k,·,:,$,·sh,∵,⅃,v,∵,τ
-THIN SPACE
+k,·,:,$,·sh,∵,⅃,v,∵,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -66,8 +65,7 @@ l,:,k,oa,l,-,$,·si,a,r,a,(ti),y,w
 SPACE
 w,_,ʕ,:_,v,a,d,a,⅄,y,w
 SPACE
-x,‥,⅃,y,l
-THIN SPACE
+x,‥,⅃,y,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -110,8 +108,7 @@ SPACE
 y,𝓂,w,o,m.,.
 
 Esther 1:5 in vtrad vtsef
-w,·,v,i,m,:,l,⅃,w,o,α,τ
-THIN SPACE
+w,·,v,i,m,:,l,⅃,w,o,α,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -154,8 +151,7 @@ Esther 1:6 in vtrad vtsef
 START big 
 x,⅃
 STOP big 
-w,·,r
-THIN SPACE
+w,·,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -178,8 +174,7 @@ w,:,ʕ,_,m,·,⅃,w,·,d,‥,y
 SPACE
 $,·sh,‥,⅄,$,·sh
 SPACE
-m,i,θ,·,⅃,w,o,τ
-THIN SPACE
+m,i,θ,·,⅃,w,o,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -230,8 +225,7 @@ SPACE
 SPACE
 α,o,n,‥,⅄,σ
 SPACE
-k,·,i,y,-,k,‥,⅃,n.
-THIN SPACE
+k,·,i,y,-,k,‥,⅃,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -432,8 +426,7 @@ m,:,m,w,·,k,a,⅄,n.
 SPACE
 $,·sh,i,v,:,ʕ,_,(G),τ
 SPACE
-$,·si,a,r,‥,⅃,y
-THIN SPACE
+$,·si,a,r,‥,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -463,8 +456,7 @@ v,·,_,m,·,_,l,:,k,·,a,(ti),h
 SPACE
 w,_,$,·sh,:,τ,·,i,⅄,y
 SPACE
-ʕ,_,⅃,l
-THIN SPACE
+ʕ,_,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -569,8 +561,7 @@ w,:,𝓂,h,_,y,·,(qa),w,o,m.
 SPACE
 h,_,z,·,∵,(ge),h
 SPACE
-τ,·,o,α,m,_,⅃,r,:,n,a,h
-THIN SPACE
+τ,·,o,α,m,_,⅃,r,:,n,a,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -1111,8 +1102,7 @@ n,_,ʕ,:_,r,a,(qa),h
 SPACE
 w,:,n,_,ʕ,:_,r,a,(ge),h
 SPACE
-l,a,v,⅃,w,o,α
-THIN SPACE
+l,a,v,⅃,w,o,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -1197,8 +1187,7 @@ SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
 Esther 2:14 in vtrad vtsef
-v,·,a,ʕ,∵,⅃,r,∵,v
-THIN SPACE
+v,·,a,ʕ,∵,⅃,r,∵,v,THIN SPACE
 START b 
 |
 STOP b 
@@ -1540,8 +1529,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Esther 3:1 in vtrad vtsef
-α,_,x,_,⅃,r
-THIN SPACE
+α,_,x,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -1768,13 +1756,11 @@ l,i,f,:,n,‥,⅃,y
 SPACE
 h,a,m,a,◆,n.
 SPACE
-m,i,y,·,(da),w,o,m.
-THIN SPACE
+m,i,y,·,(da),w,o,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,:,y,⟓,w,o,m.
+THIN SPACE,l,:,y,⟓,w,o,m.
 SPACE
 w,·,m,‥,x,o,⟓,d,∵,$,·sh
 SPACE
@@ -1951,8 +1937,7 @@ SPACE
 SPACE
 w,:,𝓂,α,∵,l,-,h,_,f,·,_,x,(G),w,o,τ
 SPACE
-α,:_,$,·sh,∵,⅃,r
-THIN SPACE
+α,:_,$,·sh,∵,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -2305,8 +2290,7 @@ k,·,oa,l,-,α,:_,$,·sh,∵,⅃,r
 SPACE
 q,a,r,a,⅄,h,w,·
 SPACE
-w,:,α,‥,⅃,τ
-THIN SPACE
+w,:,α,‥,⅃,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -2633,8 +2617,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Esther 5:1 in vtrad vtsef
-w,_,y,:,h,i,⅃,y
-THIN SPACE
+w,_,y,:,h,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -3060,8 +3043,7 @@ x,:_,m,i,$,·sh,·,i,⅃,y,m.
 SPACE
 α,_,m,·,a,h,∴
 SPACE
-w,·,v,_,v,·,o,⅃,q,∵,r
-THIN SPACE
+w,·,v,_,v,·,o,⅃,q,∵,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -3818,8 +3800,7 @@ m,i,g,·,i,n,·,_,(qa),τ
 SPACE
 h,_,v,·,i,y,τ,a,(ge),n.
 SPACE
-α,∵,l,-,v,·,‥,⅃,y,τ
-THIN SPACE
+α,∵,l,-,v,·,‥,⅃,y,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -4311,8 +4292,7 @@ w,:,$,·si,a,r,‥,(qa),y
 SPACE
 h,_,m,·,:,d,i,y,n,(ge),w,o,τ
 SPACE
-α,:_,$,·sh,∵,⅃,r
-THIN SPACE
+α,:_,$,·sh,∵,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -4389,8 +4369,7 @@ n,a,τ,_,(qa),n.
 SPACE
 h,_,m,·,∵,(ge),l,∵,k.,:
 SPACE
-l,_,y,·,:,h,w,·,d,i,⅃,y,m.
-THIN SPACE
+l,_,y,·,:,h,w,·,d,i,⅃,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -4551,8 +4530,7 @@ NO-BREAK SPACE
 Esther 8:15 in vtrad vtsef
 w,·,m,oa,r,:,d,·,:a,k,_,(G),y
 SPACE
-y,a,ц,a,⅃,α
-THIN SPACE
+y,a,ц,a,⅃,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -4842,13 +4820,11 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Esther 9:7 in vtrad vtsef
-w,:,α,‥,(da),τ
-THIN SPACE
+w,:,α,‥,(da),τ,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-f,·,_,r,:,$,·sh,_,n,:,d,·,a,⟓
+THIN SPACE,f,·,_,r,:,$,·sh,_,n,:,d,·,a,⟓
 START small 
 τ,a
 STOP small 
@@ -4861,13 +4837,11 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-w,:,α,‥,(me),τ
-THIN SPACE
+w,:,α,‥,(me),τ,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-d,·,_,𝓂,l,:,f,(ti),w,o,n.
+THIN SPACE,d,·,_,𝓂,l,:,f,(ti),w,o,n.
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
@@ -4876,13 +4850,11 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-w,:,α,‥,(me),τ
-THIN SPACE
+w,:,α,‥,(me),τ,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,_,σ,:,f,·,a,𝓂,τ,a,α,.
+THIN SPACE,α,_,σ,:,f,·,a,𝓂,τ,a,α,.
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
@@ -4893,13 +4865,11 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Esther 9:8 in vtrad vtsef
-w,:,α,‥,(da),τ
-THIN SPACE
+w,:,α,‥,(da),τ,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-f,·,w,o,r,a,⟓,τ,a,α
+THIN SPACE,f,·,w,o,r,a,⟓,τ,a,α
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
@@ -4908,13 +4878,11 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-w,:,α,‥,(me),τ
-THIN SPACE
+w,:,α,‥,(me),τ,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,:_,d,_,l,:,y,a,(ti),α
+THIN SPACE,α,:_,d,_,l,:,y,a,(ti),α
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
@@ -4923,13 +4891,11 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-w,:,α,‥,(me),τ
-THIN SPACE
+w,:,α,‥,(me),τ,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,:_,r,i,y,d,a,𝓂,τ,a,α,.
+THIN SPACE,α,:_,r,i,y,d,a,𝓂,τ,a,α,.
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
@@ -4940,13 +4906,11 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Esther 9:9 in vtrad vtsef
-w,:,α,‥,<,τ
-THIN SPACE
+w,:,α,‥,<,τ,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-f,·,_,r,:,m,_,(p)
+THIN SPACE,f,·,_,r,:,m,_,(p)
 START small 
 $,·sh,:
 STOP small 
@@ -4959,13 +4923,11 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-w,:,α,‥,⅃,τ
-THIN SPACE
+w,:,α,‥,⅃,τ,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,:_,r,i,y,σ,_,ƶ,y
+THIN SPACE,α,:_,r,i,y,σ,_,ƶ,y
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
@@ -4974,13 +4936,11 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-w,:,α,‥,(me),τ
-THIN SPACE
+w,:,α,‥,(me),τ,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,:_,r,i,d,_,(ti),y
+THIN SPACE,α,:_,r,i,d,_,(ti),y
 START sup 
 ASTERISK
 STOP sup 
@@ -5007,8 +4967,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-w,:,α,‥,(me),τ
-THIN SPACE
+w,:,α,‥,(me),τ,THIN SPACE
 START small 
 |
 STOP small 
@@ -5239,8 +5198,7 @@ v,·,i,m,:,d,i,y,n,(qa),w,o,τ
 SPACE
 h,_,m,·,∵,(ge),l,∵,k.,:
 SPACE
-n,i,q,:,h,:_,l,⅃,w,·
-THIN SPACE
+n,i,q,:,h,:_,l,⅃,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -5644,19 +5602,15 @@ LEFT SQUARE BRACKET,w,:,q,i,v,·,:,l,⅃,w,·,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
-h,_,y,·,:,h,w,·,d,i,y,m.,(tq)
-THIN SPACE
+h,_,y,·,:,h,w,·,d,i,y,m.,(tq),THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-ʕ,:_,l,‥,y,h,∵,(qa),m.
-THIN SPACE
+THIN SPACE,ʕ,:_,l,‥,y,h,∵,(qa),m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-w,:,ʕ,_,l,-,z,_,r,:,ʕ,a,(ge),m.
+THIN SPACE,w,:,ʕ,_,l,-,z,_,r,:,ʕ,a,(ge),m.
 SPACE
 w,:,ʕ,_,(qa),l
 SPACE
@@ -5887,8 +5841,7 @@ THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-m,_,⟓,σ
+THIN SPACE,m,_,⟓,σ
 SPACE
 ʕ,_,l,-,h,a,α,a,(ti),r,∵,ц.
 SPACE
@@ -5932,8 +5885,7 @@ SPACE
 w,·,f,a,r,a,𝓂,σ,.
 
 Esther 10:3 in vtrad vtsef
-k,·,i,⅃,y
-THIN SPACE
+k,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 

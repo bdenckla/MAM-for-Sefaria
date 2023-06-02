@@ -282,13 +282,11 @@ NO-BREAK SPACE
 2Chronicles 1:11 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
-α,:∵,l,o,h,i,⅃,y,m.
-THIN SPACE
+α,:∵,l,o,h,i,⅃,y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,i,$,·sh,:,l,o,m,o,μ,h
+THIN SPACE,l,i,$,·sh,:,l,o,m,o,μ,h
 SPACE
 y,_,⅃,ʕ,_,n.
 SPACE
@@ -357,8 +355,7 @@ w,:,k,a,v,w,o,d,(p)
 SPACE
 α,∵,τ,·,∵,n.,-,l,a,ƶ,k.,:
 SPACE
-α,:_,$,·sh,∵,⅃,r
-THIN SPACE
+α,:_,$,·sh,∵,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -616,8 +613,7 @@ SPACE
 SPACE
 v,𝓂,w,o,n,∵,h,-,v,·,_,(ge),y,i,τ
 SPACE
-l,:,$,·sh,‥,⅃,m.
-THIN SPACE
+l,:,$,·sh,‥,⅃,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -830,13 +826,11 @@ h,a,ʕ,‥,ц,i,μ,y,m.
 SPACE
 n,a,τ,_,(tq),τ,·,i,y,(tq)
 SPACE
-x,i,θ,·,i,(qa),y,m.
-THIN SPACE
+x,i,θ,·,i,(qa),y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-m,_,k,·,(ge),w,o,τ
+THIN SPACE,m,_,k,·,(ge),w,o,τ
 SPACE
 l,_,ʕ,:_,v,a,d,∵,◆,y,k.,a
 SPACE
@@ -1274,8 +1268,7 @@ SPACE
 θ,a,h,𝓂,w,o,r,.
 
 2Chronicles 3:5 in vtrad vtsef
-w,:,α,‥,⅃,τ
-THIN SPACE
+w,:,α,‥,⅃,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -1731,8 +1724,7 @@ m,i,$,·si,·,:,f,a,τ,(qa),w,o
 SPACE
 α,∵,l,-,$,·si,:,f,a,τ,(ge),w,o
 SPACE
-ʕ,a,g,⅃,w,o,l
-THIN SPACE
+ʕ,a,g,⅃,w,o,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -1766,13 +1758,11 @@ SPACE
 SPACE
 l,(ge),w,o
 SPACE
-σ,a,v,i,<,y,v
-THIN SPACE
+σ,a,v,i,<,y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,y,v,(p)
+THIN SPACE,σ,a,v,i,y,v,(p)
 SPACE
 σ,w,o,v,:,v,i,⅃,y,m.
 SPACE
@@ -1809,26 +1799,21 @@ v,·,a,q,a,◆,r
 SPACE
 $,·sh,:,l,o,$,·sh,a,⅃,h
 SPACE
-f,o,n,i,⅃,y,m.
-THIN SPACE
+f,o,n,i,⅃,y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-ц,a,f,μ,w,o,n,a,h
+THIN SPACE,ц,a,f,μ,w,o,n,a,h
 SPACE
 w,·,$,·sh,:,l,w,o,$,·sh,a,h,(tq)
 SPACE
-f,o,n,i,(qa),y,m.
-THIN SPACE
+f,o,n,i,(qa),y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,a,(ge),m,·,a,h
+THIN SPACE,y,a,(ge),m,·,a,h
 SPACE
-w,·,$,·sh,:,l,o,$,·sh,a,⅃,h
-THIN SPACE
+w,·,$,·sh,:,l,o,$,·sh,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -2383,8 +2368,7 @@ w,_,y,·,a,v,‥,(qa),α
 SPACE
 $,·sh,:,l,o,m,o,(ge),h
 SPACE
-α,∵,τ,-,q,oa,d,:,$,·sh,‥,⅃,y
-THIN SPACE
+α,∵,τ,-,q,oa,d,:,$,·sh,‥,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -3063,8 +3047,7 @@ d,·,a,w,i,(qa),y,d
 SPACE
 α,a,v,i,(ge),y
 SPACE
-w,a,α,‥,$,·sh,‥,⅃,v
-THIN SPACE
+w,a,α,‥,$,·sh,‥,⅃,v,THIN SPACE
 START b 
 |
 STOP b 
@@ -3256,8 +3239,7 @@ h,_,z,·,∵,𝓂,h,.
 2Chronicles 6:16 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,(G),h
 SPACE
-y,:,h,o,w,a,⅃,h
-THIN SPACE
+y,:,h,o,w,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -3499,8 +3481,7 @@ SPACE
 h,_,z,·,∵,𝓂,h,.
 
 2Chronicles 6:23 in vtrad vtsef
-w,:,α,_,τ,·,a,⅃,h
-THIN SPACE
+w,:,α,_,τ,·,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -3640,8 +3621,7 @@ SPACE
 τ,_,ʕ,:_,n,‥,𝓂,m.,.
 
 2Chronicles 6:27 in vtrad vtsef
-w,:,α,_,τ,·,a,⅃,h
-THIN SPACE
+w,:,α,_,τ,·,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -3859,8 +3839,7 @@ y,i,$,·si,:,r,a,α,‥,l,~
 SPACE
 h,w,·,α,∴
 SPACE
-w,·,v,a,⅃,α
-THIN SPACE
+w,·,v,a,⅃,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -4042,8 +4021,7 @@ SPACE
 SPACE
 n,i,$,·sh,:,v,·,w,·,-,$,·sh,a,⅄,m.
 SPACE
-w,:,$,·sh,a,⅃,v,w,·
-THIN SPACE
+w,:,$,·sh,a,⅃,v,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -4269,8 +4247,7 @@ SPACE
 y,:,h,o,w,a,𝓂,h,.
 
 2Chronicles 7:3 in vtrad vtsef
-w,:,k,o,⅃,l
-THIN SPACE
+w,:,k,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -4531,8 +4508,7 @@ h,_,$,·sh,·,:,m,i,y,n,i,(ti),y
 SPACE
 ʕ,:_,ц,a,⅄,r,∵,τ
 SPACE
-k,·,i,⅃,y
-THIN SPACE
+k,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -4931,8 +4907,7 @@ SPACE
 SPACE
 ʕ,a,z,:,v,(ge),w,·
 SPACE
-α,∵,τ,-,y,:,h,o,w,a,⅃,h
-THIN SPACE
+α,∵,τ,-,y,:,h,o,w,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -4981,8 +4956,7 @@ START br
 2Chronicles 8:1 in vtrad vtsef
 w,_,y,:,h,i,(G),y
 SPACE
-m,i,q,·,‥,⅃,ц.
-THIN SPACE
+m,i,q,·,‥,⅃,ц.,THIN SPACE
 START b 
 |
 STOP b 
@@ -5112,8 +5086,7 @@ SPACE
 SPACE
 h,_,f,·,a,r,a,$,·sh,i,⅄,y,m.
 SPACE
-w,:,α,‥,⅃,τ
-THIN SPACE
+w,:,α,‥,⅃,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -5745,8 +5718,7 @@ SPACE
 SPACE
 v,·,a,r,ƶ,w,·,k.,:
 SPACE
-α,:_,$,·sh,∵,⅃,r
-THIN SPACE
+α,:_,$,·sh,∵,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -5794,8 +5766,7 @@ l,_,m,·,∵,(ge),l,∵,k.,:
 SPACE
 m,‥,α,a,(me),h
 SPACE
-w,:,ʕ,∵,$,·si,:,r,i,⅃,y,m.
-THIN SPACE
+w,:,ʕ,∵,$,·si,:,r,i,⅃,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -6179,8 +6150,7 @@ l,:,$,·sh,a,l,(qa),w,o,$,·sh
 SPACE
 $,·sh,a,n,i,(ge),y,m.
 SPACE
-τ,·,a,v,⅃,w,o,α,n,a,h
-THIN SPACE
+τ,·,a,v,⅃,w,o,α,n,a,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -6934,13 +6904,11 @@ w,_,y,·,a,$,·sh,i,⅃,y,v,w,·
 SPACE
 h,a,ʕ,a,⅃,m.
 SPACE
-α,∵,τ,-,h,_,m,·,∵,⅃,l,∵,k.,:
-THIN SPACE
+α,∵,τ,-,h,_,m,·,∵,⅃,l,∵,k.,:,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,‥,α,m,o,μ,r
+THIN SPACE,l,‥,α,m,o,μ,r
 SPACE
 m,_,h,-,l,·,a,(tq),n,w,·,(tq)
 SPACE
@@ -7739,13 +7707,11 @@ w,:,h,_,m,·,∵,⅄,l,∵,k.,:
 SPACE
 w,_,y,·,o,α,m,:,r,(ti),w,·
 SPACE
-ц,_,d,·,i,(me),y,q
-THIN SPACE
+ц,_,d,·,i,(me),y,q,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,h,o,w,a,𝓂,h,.
+THIN SPACE,y,:,h,o,w,a,𝓂,h,.
 
 2Chronicles 12:7 in vtrad vtsef
 w,·,v,i,r,:,α,<,w,o,τ
@@ -7760,13 +7726,11 @@ h,a,y,a,h,(tq)
 SPACE
 d,:,v,_,r,-,y,:,h,o,w,a,(qa),h
 SPACE
-α,∵,l,-,$,·sh,:,m,_,ʕ,:,y,a,(da),h
-THIN SPACE
+α,∵,l,-,$,·sh,:,m,_,ʕ,:,y,a,(da),h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,‥,α,m,o,⟓,r
+THIN SPACE,l,‥,α,m,o,⟓,r
 SPACE
 n,i,k,:,n,:,ʕ,(ti),w,·
 SPACE
@@ -7972,8 +7936,7 @@ w,·,𝓂,$,·sh,:,v,_,(qa),ʕ
 SPACE
 ʕ,∵,$,·si,:,r,‥,(me),h
 SPACE
-$,·sh,a,n,a,⅃,h
-THIN SPACE
+$,·sh,a,n,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -8244,8 +8207,7 @@ l,a,d,_,ƶ,ʕ,_,τ
 SPACE
 k,·,i,(G),y
 SPACE
-y,:,h,o,w,a,⅃,h
-THIN SPACE
+y,:,h,o,w,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -8328,8 +8290,7 @@ SPACE
 l,i,f,:,n,‥,y,h,∵,𝓂,m.,.
 
 2Chronicles 13:8 in vtrad vtsef
-w,:,ʕ,_,τ,·,a,⅃,h
-THIN SPACE
+w,:,ʕ,_,τ,·,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -8514,13 +8475,11 @@ SPACE
 SPACE
 v,a,r,o,(ge),α,$,·sh
 SPACE
-h,a,α,:∵,l,o,h,i,(da),y,m.
-THIN SPACE
+h,a,α,:∵,l,o,h,i,(da),y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-w,:,k,o,h,:_,n,a,⟓,y,w
+THIN SPACE,w,:,k,o,h,:_,n,a,⟓,y,w
 SPACE
 w,_,x,:_,ц,o,ц,:,r,(me),w,o,τ
 SPACE
@@ -8936,8 +8895,7 @@ w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 l,i,y,h,w,·,d,a,(ge),h
 SPACE
-n,i,v,:,n,∵,⅃,h
-THIN SPACE
+n,i,v,:,n,∵,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -9335,8 +9293,7 @@ r,_,v,·,i,(ti),y,m.
 SPACE
 l,:,y,i,$,·si,:,r,a,α,‥,⅄,l
 SPACE
-l,:,l,o,⅃,α
-THIN SPACE
+l,:,l,o,⅃,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -9657,8 +9614,7 @@ m,i,σ,·,a,v,i,𝓂,y,v,.
 2Chronicles 15:16 in vtrad vtsef
 w,:,g,_,𝓂,m.,-,m,_,ʕ,:_,k,a,(G),h
 SPACE
-α,‥,⅃,m.
-THIN SPACE
+α,‥,⅃,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -10027,13 +9983,11 @@ w,:,h,_,l,·,w,·,v,i,◆,y,m.
 SPACE
 h,a,y,(qa),w,·
 SPACE
-l,:,x,_,(da),y,i,l
-THIN SPACE
+l,:,x,_,(da),y,i,l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,a,r,o,⟓,v
+THIN SPACE,l,a,r,o,⟓,v
 SPACE
 l,:,r,∵,(me),k,∵,v
 SPACE
@@ -10453,8 +10407,7 @@ SPACE
 v,·,a,ʕ,a,𝓂,m.,.
 
 2Chronicles 17:10 in vtrad vtsef
-w,_,y,:,h,i,⅃,y
-THIN SPACE
+w,_,y,:,h,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -10934,13 +10887,11 @@ m,‥,α,o,τ,𝓂,w,o,.
 2Chronicles 18:7 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
-m,∵,l,∵,k.,:,-,y,i,$,·si,:,r,a,α,‥,⅃,l
-THIN SPACE
+m,∵,l,∵,k.,:,-,y,i,$,·si,:,r,a,α,‥,⅃,l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,∵,𝓂,l,-,y,:,h,w,o,$,·sh,a,f,a,μ,θ
+THIN SPACE,α,∵,𝓂,l,-,y,:,h,w,o,$,·sh,a,f,a,μ,θ
 SPACE
 ʕ,⅃,w,o,d
 SPACE
@@ -11103,8 +11054,7 @@ h,_,m,·,∵,𝓂,l,∵,k.,:,.
 2Chronicles 18:12 in vtrad vtsef
 w,:,h,_,m,·,_,l,:,α,a,(G),k.,:
 SPACE
-α,:_,$,·sh,∵,r,-,h,a,l,_,⅃,k.,:
-THIN SPACE
+α,:_,$,·sh,∵,r,-,h,a,l,_,⅃,k.,:,THIN SPACE
 START b 
 |
 STOP b 
@@ -12035,8 +11985,7 @@ SPACE
 SPACE
 ʕ,:_,l,‥,y,k,∵,(ge),m.
 SPACE
-m,‥,α,:_,x,‥,y,k,∵,⅃,m.
-THIN SPACE
+m,‥,α,:_,x,‥,y,k,∵,⅃,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -12045,13 +11994,11 @@ h,_,y,·,o,$,·sh,:,v,i,⅃,y,m.
 SPACE
 v,·,:,ʕ,a,r,‥,y,h,∵,◆,m.
 SPACE
-v,·,‥,𝓂,y,n.,-,d,·,a,⅃,m.
-THIN SPACE
+v,·,‥,𝓂,y,n.,-,d,·,a,⅃,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,:,d,a,m.,~
+THIN SPACE,l,:,d,a,m.,~
 SPACE
 v,·,‥,y,n.,-,τ,·,w,o,r,a,⅃,h
 SPACE
@@ -12146,13 +12093,11 @@ w,·,v,:,n,‥,(qa),y
 SPACE
 ʕ,_,m,·,(ge),w,o,n.
 SPACE
-w,:,ʕ,i,m,·,a,h,∵,(da),m.
-THIN SPACE
+w,:,ʕ,i,m,·,a,h,∵,(da),m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-m,‥,h,a,ʕ,_,m,·,w,o,n,i,⟓,y,m.
+THIN SPACE,m,‥,h,a,ʕ,_,m,·,w,o,n,i,⟓,y,m.
 SPACE
 ʕ,_,l,-,y,:,h,w,o,$,·sh,a,f,a,(ti),θ
 SPACE
@@ -12292,8 +12237,7 @@ SPACE
 l,:,h,i,τ,:,y,_,ц,·,‥,𝓂,v,.
 
 2Chronicles 20:7 in vtrad vtsef
-h,:_,l,o,⅃,α
-THIN SPACE
+h,:_,l,o,⅃,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -12331,13 +12275,11 @@ w,_,y,·,‥,$,·sh,:,v,(ti),w,·,-,v,a,⅄,h,·
 SPACE
 w,_,y,·,i,v,:,n,(qa),w,·
 SPACE
-l,:,k.,a,(da)
-THIN SPACE
+l,:,k.,a,(da),THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-v,·,a,⟓,h,·
+THIN SPACE,v,·,a,⟓,h,·
 SPACE
 m,i,q,:,d,·,a,(ti),$,·sh
 SPACE
@@ -12791,13 +12733,11 @@ w,·,τ,:,h,i,l,·,a,◆,h
 SPACE
 n,a,τ,_,⅃,n.
 SPACE
-y,:,h,o,w,a,⅃,h
-THIN SPACE
+y,:,h,o,w,a,⅃,h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-m,:,⌕,α,a,𝓂,r,:,v,i,⌕,y,m.
+THIN SPACE,m,:,⌕,α,a,𝓂,r,:,v,i,⌕,y,m.
 SPACE
 ʕ,_,l,-,v,·,:,n,‥,(qa),y
 SPACE
@@ -13268,13 +13208,11 @@ m,∵,l,∵,k.,:,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 2Chronicles 21:3 in vtrad vtsef
 w,_,y,·,i,τ,·,‥,⅃,n.
 SPACE
-l,a,h,∵,⅃,m.
-THIN SPACE
+l,a,h,∵,⅃,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,:_,⌕,v,i,y,h,∵,⌕,m.
+THIN SPACE,α,:_,⌕,v,i,y,h,∵,⌕,m.
 SPACE
 m,_,τ,·,a,n,(qa),w,o,τ
 SPACE
@@ -13352,8 +13290,7 @@ v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 2Chronicles 21:6 in vtrad vtsef
 w,_,y,·,‥,(ge),l,∵,k.,:
 SPACE
-v,·,:,d,∵,⅃,r,∵,k.,:
-THIN SPACE
+v,·,:,d,∵,⅃,r,∵,k.,:,THIN SPACE
 START b 
 |
 STOP b 
@@ -13547,8 +13484,7 @@ h,_,n,·,a,v,i,(ti),y,α
 SPACE
 l,‥,α,m,o,⅄,r
 SPACE
-k,·,o,⅃,h
-THIN SPACE
+k,·,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -13719,13 +13655,11 @@ k,·,oa,l,-,z,o,⅄,α,τ
 SPACE
 n,:,g,a,f,(qa),w,o
 SPACE
-y,:,h,o,w,a,(da),h
-THIN SPACE
+y,:,h,o,w,a,(da),h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-v,·,:,m,‥,ʕ,a,⟓,y,w
+THIN SPACE,v,·,:,m,‥,ʕ,a,⟓,y,w
 SPACE
 l,oa,x,:a,l,i,(ti),y
 SPACE
@@ -13736,13 +13670,11 @@ m,_,r,:,f,·,‥,𝓂,α,.
 2Chronicles 21:19 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
 SPACE
-l,:,y,a,m,i,⅃,y,m.
-THIN SPACE
+l,:,y,a,m,i,⅃,y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-m,i,y,·,a,m,i,μ,y,m.
+THIN SPACE,m,i,y,·,a,m,i,μ,y,m.
 SPACE
 w,·,k,:,ʕ,‥,τ,(tq)
 SPACE
@@ -13750,8 +13682,7 @@ SPACE
 SPACE
 h,_,q,·,‥,(ge),ц.
 SPACE
-l,:,y,a,m,i,⅃,y,m.
-THIN SPACE
+l,:,y,a,m,i,⅃,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -14521,8 +14452,7 @@ w,_,y,·,_,ʕ,:_,m,‥,(qa),d
 SPACE
 α,∵,τ,-,k,·,oa,l,-,h,a,ʕ,a,(ge),m.
 SPACE
-w,:,α,i,⅃,y,$,·sh
-THIN SPACE
+w,:,α,i,⅃,y,$,·sh,THIN SPACE
 START b 
 |
 STOP b 
@@ -14687,8 +14617,7 @@ h,_,k,·,o,h,‥,(ge),n.
 SPACE
 α,∵,τ,-,$,·si,a,r,‥,(me),y
 SPACE
-h,_,m,·,‥,α,⅃,w,o,τ
-THIN SPACE
+h,_,m,·,‥,α,⅃,w,o,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -14886,8 +14815,7 @@ w,:,α,∵,τ,-,h,_,m,·,w,o,$,·sh,:,l,i,(qa),y,m.
 SPACE
 v,·,a,ʕ,a,(ge),m.
 SPACE
-w,:,α,‥,⅃,τ
-THIN SPACE
+w,:,α,‥,⅃,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -15050,8 +14978,7 @@ m,i,k,·,oa,l,-,y,i,$,·si,:,r,a,α,‥,(qa),l
 SPACE
 k,·,∵,(ge),σ,∵,f.
 SPACE
-l,:,x,_,z,·,‥,⅃,q
-THIN SPACE
+l,:,x,_,z,·,‥,⅃,q,THIN SPACE
 START b 
 |
 STOP b 
@@ -15246,13 +15173,11 @@ k,·,o,<,h
 SPACE
 ʕ,a,$,·si,w,·,(p)
 SPACE
-l,:,y,⅃,w,o,m.
-THIN SPACE
+l,:,y,⅃,w,o,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-v,·,:,y,ƶ,w,o,m.
+THIN SPACE,v,·,:,y,ƶ,w,o,m.
 SPACE
 w,_,y,·,_,α,_,σ,:,f,w,·,-,k,∵,(ti),σ,∵,f.
 SPACE
@@ -15531,8 +15456,7 @@ w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 l,a,h,∵,(ge),m.
 SPACE
-k,·,o,⅃,h
-THIN SPACE
+k,·,o,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -15621,8 +15545,7 @@ STOP span class=mam-spi-pe
 START br 
 
 2Chronicles 24:23 in vtrad vtsef
-w,_,y,:,h,i,⅃,y
-THIN SPACE
+w,_,y,:,h,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -15668,8 +15591,7 @@ v,:,m,i,ц,:,ʕ,_,(qa),r
 SPACE
 α,:_,n,a,$,·sh,i,(ge),y,m.
 SPACE
-v,·,a,⅃,α,w,·
-THIN SPACE
+v,·,a,⅃,α,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -16313,8 +16235,7 @@ SPACE
 m,i,y,·,a,d,∵,𝓂,k.,a,.
 
 2Chronicles 25:16 in vtrad vtsef
-w,_,y,:,h,i,⅃,y
-THIN SPACE
+w,_,y,:,h,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -17138,8 +17059,7 @@ SPACE
 q,:,l,a,ʕ,i,𝓂,y,m.,.
 
 2Chronicles 26:15 in vtrad vtsef
-w,_,y,·,_,⅃,ʕ,_,$,·si
-THIN SPACE
+w,_,y,·,_,⅃,ʕ,_,$,·si,THIN SPACE
 START b 
 |
 STOP b 
@@ -17218,13 +17138,11 @@ h,_,k,·,o,h,‥,⅄,n.
 SPACE
 w,:,ʕ,i,m,·,(G),w,o
 SPACE
-k,·,o,h,:_,n,i,(da),y,m.
-THIN SPACE
+k,·,o,h,:_,n,i,(da),y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,_,y,h,o,w,a,⟓,h
+THIN SPACE,l,_,y,h,o,w,a,⟓,h
 SPACE
 $,·sh,:,m,w,o,n,i,(ti),y,m.
 SPACE
@@ -17352,8 +17270,7 @@ SPACE
 SPACE
 h,_,m,·,∵,(ge),l,∵,k.,:
 SPACE
-m,:,ц,o,r,a,⅃,ʕ
-THIN SPACE
+m,:,ц,o,r,a,⅃,ʕ,THIN SPACE
 START b 
 |
 STOP b 
@@ -17872,8 +17789,7 @@ SPACE
 2Chronicles 28:7 in vtrad vtsef
 w,_,𝓂,y,·,_,h,:_,r,o,(G),g
 SPACE
-z,i,k,:,r,i,⅃,y
-THIN SPACE
+z,i,k,:,r,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -19910,13 +19826,11 @@ h,a,r,a,ц,i,(ge),y,m.
 SPACE
 ʕ,o,v,:,r,i,(qa),y,m.
 SPACE
-m,‥,ʕ,i,(da),y,r
-THIN SPACE
+m,‥,ʕ,i,(da),y,r,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,a,ʕ,i,⟓,y,r
+THIN SPACE,l,a,ʕ,i,⟓,y,r
 SPACE
 v,·,:,α,∵,r,∵,ц.,-,α,∵,f,:,r,_,(me),y,i,m.
 SPACE
@@ -20157,13 +20071,11 @@ h,‥,k,i,ƶ,y,n.
 SPACE
 l,i,d,:,r,⟓,w,o,$,·sh
 SPACE
-h,a,α,:∵,l,o,h,i,(me),y,m.
-THIN SPACE
+h,a,α,:∵,l,o,h,i,(me),y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,h,o,w,a,(ti),h
+THIN SPACE,y,:,h,o,w,a,(ti),h
 SPACE
 α,:∵,l,o,h,‥,⅃,y
 SPACE
@@ -20235,13 +20147,11 @@ w,·,𝓂,m,:,h,_,l,:,l,i,⅃,y,m.
 SPACE
 l,_,⌕,y,h,o,w,a,⌕,h
 SPACE
-y,⅃,w,o,m.
-THIN SPACE
+y,⅃,w,o,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-v,·,:,y,(G),w,o,m.
+THIN SPACE,v,·,:,y,(G),w,o,m.
 SPACE
 h,_,l,:,w,i,y,·,i,(da),m.
 SPACE
@@ -20386,8 +20296,7 @@ SPACE
 l,a,r,o,𝓂,v,.
 
 2Chronicles 30:25 in vtrad vtsef
-w,_,𝓂,y,·,i,$,·si,:,m,:,x,⅃,w,·
-THIN SPACE
+w,_,𝓂,y,·,i,$,·si,:,m,:,x,⅃,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -20554,8 +20463,7 @@ w,:,⌕,h,_,l,:,w,i,y,·,i,⌕,m.
 SPACE
 ʕ,_,𝓂,l,-,m,_,x,:,l,:,q,w,o,τ,a,(G),m.
 SPACE
-α,i,⅃,y,$,·sh
-THIN SPACE
+α,i,⅃,y,$,·sh,THIN SPACE
 START b 
 |
 STOP b 
@@ -21152,8 +21060,7 @@ SPACE
 2Chronicles 31:21 in vtrad vtsef
 w,·,v,:,k,oa,𝓂,l,-,m,_,ʕ,:_,$,·si,∵,(G),h
 SPACE
-α,:_,$,·sh,∵,r,-,h,‥,x,‥,⅃,l
-THIN SPACE
+α,:_,$,·sh,∵,r,-,h,‥,x,‥,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -21860,8 +21767,7 @@ y,:,h,o,w,a,(qa),h
 SPACE
 α,∵,τ,-,y,:,x,i,z,:,q,i,y,·,a,(ge),h,w,·
 SPACE
-w,:,α,‥,⅃,τ
-THIN SPACE
+w,:,α,‥,⅃,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -22104,8 +22010,7 @@ v,·,:,k,oa,𝓂,l,-,m,_,ʕ,:_,$,·si,‥,𝓂,h,w,·,.
 2Chronicles 32:31 in vtrad vtsef
 w,:,k,‥,(G),n.
 SPACE
-v,·,i,m,:,l,i,y,ц,‥,⅃,y
-THIN SPACE
+v,·,i,m,:,l,i,y,ц,‥,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -22429,8 +22334,7 @@ h,∵,ʕ,:∵,m,_,(ti),d,:,τ,·,i,y
 SPACE
 l,_,α,:_,v,𝓂,w,o,τ,‥,y,k,∵,⅄,m.
 SPACE
-r,_,⅃,q
-THIN SPACE
+r,_,⅃,q,THIN SPACE
 START b 
 |
 STOP b 
@@ -22592,13 +22496,11 @@ v,·,a,n,a,⅃,h
 SPACE
 x,w,o,m,a,⅃,h
 SPACE
-x,i,y,ц,w,o,n,a,⅃,h
-THIN SPACE
+x,i,y,ц,w,o,n,a,⅃,h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,:,ʕ,i,y,r,-,d,·,a,w,i,μ,y,d
+THIN SPACE,l,:,ʕ,i,y,r,-,d,·,a,w,i,μ,y,d
 SPACE
 m,_,ʕ,:,r,a,(tq),v,a,h,(tq)
 SPACE
@@ -23178,8 +23080,7 @@ SPACE
 2Chronicles 34:9 in vtrad vtsef
 w,_,y,·,a,v,o,(ge),α,w,·
 SPACE
-α,∵,l,-,x,i,l,:,q,i,y,·,a,⅃,h,w,·
-THIN SPACE
+α,∵,l,-,x,i,l,:,q,i,y,·,a,⅃,h,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -23319,13 +23220,11 @@ v,·,∵,α,:∵,m,w,·,n,a,(ge),h
 SPACE
 v,·,_,m,·,:,l,a,α,k,a,◆,h
 SPACE
-w,_,ʕ,:_,l,‥,y,h,∵,⅃,m.
-THIN SPACE
+w,_,ʕ,:_,l,‥,y,h,∵,⅃,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-m,u,⌕,f,:,q,a,d,i,⌕,y,m.
+THIN SPACE,m,u,⌕,f,:,q,a,d,i,⌕,y,m.
 SPACE
 y,_,⅃,x,_,τ
 SPACE
@@ -23541,8 +23440,7 @@ w,:,α,∵,τ,-,ʕ,_,v,:,d,·,(qa),w,o,n.
 SPACE
 v,·,∵,n.,-,m,i,y,k,a,(ge),h
 SPACE
-w,:,α,‥,⅃,τ
-THIN SPACE
+w,:,α,‥,⅃,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -23627,8 +23525,7 @@ SPACE
 SPACE
 h,_,n,·,:,v,i,y,α,a,(ge),h
 SPACE
-α,‥,⅃,$,·sh,∵,τ
-THIN SPACE
+α,‥,⅃,$,·sh,∵,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -23739,8 +23636,7 @@ SPACE
 y,:,h,w,·,d,a,𝓂,h,.
 
 2Chronicles 34:25 in vtrad vtsef
-τ,·,_,⅃,x,_,τ
-THIN SPACE
+τ,·,_,⅃,x,_,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -23834,8 +23730,7 @@ y,_,⌕,ʕ,_,n.
 SPACE
 r,_,k.,:,-,l,:,v,a,(qa),v,:,k.,a,(ge)
 SPACE
-w,_,τ,·,i,k,·,a,n,_,⅃,ʕ
-THIN SPACE
+w,_,τ,·,i,k,·,a,n,_,⅃,ʕ,THIN SPACE
 START b 
 |
 STOP b 
@@ -24661,13 +24556,11 @@ h,_,n,·,a,v,i,⅄,y,α
 SPACE
 w,:,k,oa,l,-,m,_,l,:,k,‥,⅃,y
 SPACE
-y,i,$,·si,:,r,a,α,‥,⅃,l
-THIN SPACE
+y,i,$,·si,:,r,a,α,‥,⅃,l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,o,𝓂,α,-,ʕ,a,$,·si,μ,w,·
+THIN SPACE,l,o,𝓂,α,-,ʕ,a,$,·si,μ,w,·
 SPACE
 k,·,_,f,·,∵,⅃,σ,_,x
 SPACE
@@ -24754,19 +24647,15 @@ w,_,y,·,i,$,·sh,:,l,_,⅃,x
 SPACE
 α,‥,l,a,⅃,y,w
 SPACE
-m,_,l,:,α,a,k,i,⅃,y,m.
-THIN SPACE
+m,_,l,:,α,a,k,i,⅃,y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,‥,α,m,o,r,(tq)
-THIN SPACE
+THIN SPACE,l,‥,α,m,o,r,(tq),THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-m,_,h,-,l,·,i,(qa),y
+THIN SPACE,m,_,h,-,l,·,i,(qa),y
 SPACE
 w,a,l,a,(ge),k.,:
 SPACE
@@ -24909,13 +24798,11 @@ SPACE
 SPACE
 w,_,y,·,o,α,m,:,r,⅃,w,·
 SPACE
-k,oa,𝓂,l,-,h,_,$,·sh,·,a,r,i,⅃,y,m.
-THIN SPACE
+k,oa,𝓂,l,-,h,_,$,·sh,·,a,r,i,⅃,y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-w,:,⌕,h,_,$,·sh,·,a,r,⌕,w,o,τ
+THIN SPACE,w,:,⌕,h,_,$,·sh,·,a,r,⌕,w,o,τ
 SPACE
 v,·,:,q,i,y,n,(qa),w,o,τ,‥,y,h,∵,<,m.
 SPACE
@@ -25633,8 +25520,7 @@ NO-BREAK SPACE
 2Chronicles 36:23 in vtrad vtsef
 k,·,o,𝓂,h,-,α,a,m,_,(G),r
 SPACE
-k,·,⅃,w,o,r,∵,$,·sh
-THIN SPACE
+k,·,⅃,w,o,r,∵,$,·sh,THIN SPACE
 START b 
 |
 STOP b 

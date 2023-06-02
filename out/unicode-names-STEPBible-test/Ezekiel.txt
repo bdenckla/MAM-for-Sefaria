@@ -1,7 +1,6 @@
 unicode_names Ezekiel
 Ezekiel 1:1 in vtrad vtsef
-w,_,y,:,h,i,⅃,y
-THIN SPACE
+w,_,y,:,h,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -654,8 +653,7 @@ SPACE
 m,i,l,:,m,a,𝓂,ʕ,:,l,a,h,.
 
 Ezekiel 1:27 in vtrad vtsef
-w,a,α,‥,⅃,r,∵,α
-THIN SPACE
+w,a,α,‥,⅃,r,∵,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -1160,8 +1158,7 @@ SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 Ezekiel 3:6 in vtrad vtsef
-l,o,⅃,α
-THIN SPACE
+l,o,⅃,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -1358,8 +1355,7 @@ SPACE
 m,i,m,·,:,q,w,o,m,𝓂,w,o,.
 
 Ezekiel 3:13 in vtrad vtsef
-w,:,q,⅃,w,o,l
-THIN SPACE
+w,:,q,⅃,w,o,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -1789,21 +1785,17 @@ SPACE
 SPACE
 y,:∵,h,o,w,i,⅄,h
 SPACE
-h,_,$,·sh,·,o,m,‥,<,ʕ,_
-THIN SPACE
+h,_,$,·sh,·,o,m,‥,<,ʕ,_,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,i,$,·sh,:,m,a,ʕ,(p)
+THIN SPACE,y,i,$,·sh,:,m,a,ʕ,(p)
 SPACE
-w,:,h,∵,x,a,d,‥,⅃,l
-THIN SPACE
+w,:,h,∵,x,a,d,‥,⅃,l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,∵,x,:,d,·,a,ƶ,l
+THIN SPACE,y,∵,x,:,d,·,a,ƶ,l
 SPACE
 k,·,i,⟓,y
 SPACE
@@ -2098,8 +2090,7 @@ m,i,σ,:,f,·,_,(qa),r
 SPACE
 h,_,y,·,a,m,i,(ge),y,m.
 SPACE
-α,:_,$,·sh,∵,r,-,α,_,τ,·,a,⅃,h
-THIN SPACE
+α,:_,$,·sh,∵,r,-,α,_,τ,·,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -2361,8 +2352,7 @@ w,:,α,_,τ,·,a,(qa),h
 SPACE
 v,∵,n.,-,α,a,d,a,(ge),m.
 SPACE
-q,_,x,-,l,:,k.,a,⅃
-THIN SPACE
+q,_,x,-,l,:,k.,a,⅃,THIN SPACE
 START b 
 |
 STOP b 
@@ -2550,8 +2540,7 @@ NO-BREAK SPACE
 Ezekiel 5:7 in vtrad vtsef
 l,a,k,‥,(G),n.
 SPACE
-k,·,o,h,-,α,a,m,_,⅃,r
-THIN SPACE
+k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -3254,8 +3243,7 @@ k,·,oa,l,-,g,·,i,v,:,ʕ,a,(qa),h
 SPACE
 r,a,m,a,(ge),h
 SPACE
-v,·,:,k,o,⅃,l
-THIN SPACE
+v,·,:,k,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -3573,13 +3561,11 @@ SPACE
 h,_,z,·,a,d,𝓂,w,o,n.,.
 
 Ezekiel 7:11 in vtrad vtsef
-h,∵,𝓂,x,a,m,a,(me),σ
-THIN SPACE
+h,∵,𝓂,x,a,m,a,(me),σ,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-q,a,(ti),m.
+THIN SPACE,q,a,(ti),m.
 SPACE
 l,:,m,_,θ,·,‥,h,-,r,∵,⅄,$,·sh,_,ʕ
 SPACE
@@ -3995,8 +3981,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Ezekiel 8:1 in vtrad vtsef
-w,_,y,:,h,i,⅃,y
-THIN SPACE
+w,_,y,:,h,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -4081,13 +4066,11 @@ w,_,τ,·,i,$,·si,·,a,⅃,α
 SPACE
 α,o,τ,i,⅃,y
 SPACE
-r,⅃,w,·,x,_
-THIN SPACE
+r,⅃,w,·,x,_,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-v,·,‥,𝓂,y,n.,-,h,a,α,a,⅃,r,∵,ц.
+THIN SPACE,v,·,‥,𝓂,y,n.,-,h,a,α,a,⅃,r,∵,ц.
 SPACE
 w,·,v,‥,⅃,y,n.
 SPACE
@@ -4212,8 +4195,7 @@ SPACE
 SPACE
 v,·,‥,(me),y,τ
 SPACE
-y,i,$,·si,:,r,a,α,‥,⅃,l
-THIN SPACE
+y,i,$,·si,:,r,a,α,‥,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -4339,13 +4321,11 @@ m,:,x,u,q,·,∵,(me),h
 SPACE
 ʕ,_,l,-,h,_,q,·,i,(ti),y,r
 SPACE
-σ,a,v,i,(me),y,v
-THIN SPACE
+σ,a,v,i,(me),y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,𝓂,y,v,.
+THIN SPACE,σ,a,v,i,𝓂,y,v,.
 
 Ezekiel 8:11 in vtrad vtsef
 w,:,$,·sh,i,v,:,ʕ,i,⅃,y,m.
@@ -4651,8 +4631,7 @@ $,·sh,i,$,·sh,·,a,⅃,h
 SPACE
 α,:_,n,a,$,·sh,i,μ,y,m.
 SPACE
-v,·,a,α,i,⅃,y,m.
-THIN SPACE
+v,·,a,α,i,⅃,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -4661,8 +4640,7 @@ m,i,d,·,∵,r,∵,k.,:,-,$,·sh,_,(qa),ʕ,_,r
 SPACE
 h,a,ʕ,∵,l,:,y,(ge),w,o,n.
 SPACE
-α,:_,$,·sh,∵,⅃,r
-THIN SPACE
+α,:_,$,·sh,∵,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -4704,8 +4682,7 @@ SPACE
 h,_,n,·,:,x,o,𝓂,$,·sh,∵,τ,.
 
 Ezekiel 9:3 in vtrad vtsef
-w,·,k,:,v,⅃,w,o,d
-THIN SPACE
+w,·,k,:,v,⅃,w,o,d,THIN SPACE
 START b 
 |
 STOP b 
@@ -4994,8 +4971,7 @@ n,a,τ,a,𝓂,τ,·,i,y,.
 Ezekiel 9:11 in vtrad vtsef
 w,:,h,i,n,·,‥,(G),h
 SPACE
-h,a,α,i,⅃,y,$,·sh
-THIN SPACE
+h,a,α,i,⅃,y,$,·sh,THIN SPACE
 START b 
 |
 STOP b 
@@ -5067,8 +5043,7 @@ SPACE
 Ezekiel 10:2 in vtrad vtsef
 w,_,y,·,o,(ge),α,m,∵,r
 SPACE
-α,∵,l,-,h,a,α,i,⅃,y,$,·sh
-THIN SPACE
+α,∵,l,-,h,a,α,i,⅃,y,$,·sh,THIN SPACE
 START b 
 |
 STOP b 
@@ -6926,8 +6901,7 @@ SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 Ezekiel 12:25 in vtrad vtsef
-k,·,i,⅃,y
-THIN SPACE
+k,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -7326,8 +7300,7 @@ SPACE
 SPACE
 w,:,y,i,f,·,o,⅄,l
 SPACE
-h,a,y,a,⅃,h
-THIN SPACE
+h,a,y,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -7528,8 +7501,7 @@ SPACE
 Ezekiel 13:18 in vtrad vtsef
 w,:,α,a,m,_,r,:,τ,·,a,(G)
 SPACE
-k,·,o,h,-,α,a,m,_,⅃,r
-THIN SPACE
+k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -7544,8 +7516,7 @@ l,i,𝓂,m,:,τ,_,f,·,:,r,(qa),w,o,τ
 SPACE
 k,·,:,σ,a,τ,(ge),w,o,τ
 SPACE
-ʕ,_,⅃,l
-THIN SPACE
+ʕ,_,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -7632,8 +7603,7 @@ NO-BREAK SPACE
 Ezekiel 13:20 in vtrad vtsef
 l,a,k,‥,(G),n.
 SPACE
-k,·,o,h,-,α,a,m,_,⅃,r
-THIN SPACE
+k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -7840,8 +7810,7 @@ w,:,α,a,m,_,r,:,τ,·,a,(qa)
 SPACE
 α,:_,l,‥,y,h,∵,(ge),m.
 SPACE
-k,·,o,h,-,α,a,m,_,⅃,r
-THIN SPACE
+k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -7936,8 +7905,7 @@ NO-BREAK SPACE
 Ezekiel 14:6 in vtrad vtsef
 l,a,k,‥,(G),n.
 SPACE
-α,:∵,m,o,⅃,r
-THIN SPACE
+α,:∵,m,o,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -8439,13 +8407,11 @@ SPACE
 SPACE
 k,·,i,𝓂,y,-,α,_,r,:,v,·,_,⅃,ʕ,_,τ
 SPACE
-$,·sh,:,f,a,θ,_,⅃,y
-THIN SPACE
+$,·sh,:,f,a,θ,_,⅃,y,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-h,a,r,a,ʕ,i,μ,y,m.
+THIN SPACE,h,a,r,a,ʕ,i,μ,y,m.
 SPACE
 x,∵,⌕,r,∵,v
 SPACE
@@ -9087,8 +9053,7 @@ v,·,_,g,·,w,o,y,i,(ti),m.
 SPACE
 v,·,:,y,oa,f,:,y,‥,⅄,k.,:
 SPACE
-k,·,i,⅃,y
-THIN SPACE
+k,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -9826,8 +9791,7 @@ w,:,g,_,m.,-,α,:_,n,i,(qa),y
 SPACE
 h,‥,(ge),α
 SPACE
-d,·,_,r,:,k,·,‥,⅃,k.,:
-THIN SPACE
+d,·,_,r,:,k,·,‥,⅃,k.,:,THIN SPACE
 START b 
 |
 STOP b 
@@ -10101,8 +10065,7 @@ STOP span class=mam-kq
 .
 
 Ezekiel 16:52 in vtrad vtsef
-g,·,_,m.,-,α,_,⅃,τ,·,:
-THIN SPACE
+g,·,_,m.,-,α,_,⅃,τ,·,:,THIN SPACE
 START b 
 |
 STOP b 
@@ -10470,8 +10433,7 @@ y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 Ezekiel 17:3 in vtrad vtsef
 w,:,α,a,m,_,r,:,τ,·,a,(G)
 SPACE
-k,·,o,h,-,α,a,m,_,⅃,r
-THIN SPACE
+k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -10672,8 +10634,7 @@ SPACE
 SPACE
 y,:,n,_,τ,·,‥,(ge),q
 SPACE
-w,:,α,∵,τ,-,f,·,i,r,:,y,a,⅃,h,·
-THIN SPACE
+w,:,α,∵,τ,-,f,·,i,r,:,y,a,⅃,h,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -11131,8 +11092,7 @@ SPACE
 SPACE
 y,:,h,o,w,a,h,(p)
 SPACE
-h,i,$,·sh,:,f,·,_,⅃,l,:,τ,·,i,y
-THIN SPACE
+h,i,$,·sh,:,f,·,_,⅃,l,:,τ,·,i,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -11684,8 +11644,7 @@ SPACE
 SPACE
 v,·,‥,(G),n.
 SPACE
-l,o,𝓂,α,-,y,i,$,·si,·,a,⅃,α
-THIN SPACE
+l,o,𝓂,α,-,y,i,$,·si,·,a,⅃,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -12418,8 +12377,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Ezekiel 20:1 in vtrad vtsef
-w,_,y,:,h,i,⅃,y
-THIN SPACE
+w,_,y,:,h,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -13303,8 +13261,7 @@ NO-BREAK SPACE
 Ezekiel 20:30 in vtrad vtsef
 l,a,k,‥,(G),n.
 SPACE
-α,:∵,m,o,⅃,r
-THIN SPACE
+α,:∵,m,o,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -13400,8 +13357,7 @@ l,o,⅃,α
 SPACE
 τ,i,𝓂,h,:,y,∵,⅄,h
 SPACE
-α,:_,$,·sh,∵,⅃,r
-THIN SPACE
+α,:_,$,·sh,∵,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -13581,8 +13537,7 @@ w,:,α,_,τ,·,∵,(qa),m.
 SPACE
 v,·,‥,𝓂,y,τ,-,y,i,$,·si,:,r,a,α,‥,(ge),l
 SPACE
-k,·,o,h,-,α,a,m,_,⅃,r
-THIN SPACE
+k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -13624,8 +13579,7 @@ k,·,i,⅃,y
 SPACE
 v,:,h,_,r,-,q,oa,d,:,$,·sh,i,(G),y
 SPACE
-v,·,:,h,_,⅃,r
-THIN SPACE
+v,·,:,h,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -13848,13 +13802,11 @@ y,:∵,h,o,w,i,μ,h
 SPACE
 h,i,n,:,n,i,⅃,y
 SPACE
-m,_,𝓂,ц,·,i,y,τ,-,v,·,:,k.,a,⅃
-THIN SPACE
+m,_,𝓂,ц,·,i,y,τ,-,v,·,:,k.,a,⅃,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,‥,μ,$,·sh
+THIN SPACE,α,‥,μ,$,·sh
 SPACE
 w,:,α,a,k,:,l,a,⅃,h
 SPACE
@@ -14294,8 +14246,7 @@ SPACE
 l,a,h,∵,𝓂,m.,.
 
 Ezekiel 21:20 in vtrad vtsef
-l,:,m,_,⅃,ʕ,_,n.
-THIN SPACE
+l,:,m,_,⅃,ʕ,_,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -14379,8 +14330,7 @@ w,:,α,_,τ,·,a,(qa),h
 SPACE
 v,∵,n.,-,α,a,d,a,(ge),m.
 SPACE
-$,·si,i,y,m.,-,l,:,k.,a,⅃
-THIN SPACE
+$,·si,i,y,m.,-,l,:,k.,a,⅃,THIN SPACE
 START b 
 |
 STOP b 
@@ -14466,8 +14416,7 @@ v,·,_,k,·,a,v,‥,𝓂,d,.
 Ezekiel 21:27 in vtrad vtsef
 v,·,i,y,m,i,y,n,(G),w,o
 SPACE
-h,a,y,a,⅃,h
-THIN SPACE
+h,a,y,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -15025,8 +14974,7 @@ SPACE
 ʕ,i,n,·,w,·,-,v,a,𝓂,k.,:,.
 
 Ezekiel 22:11 in vtrad vtsef
-w,:,α,i,⅃,y,$,·sh
-THIN SPACE
+w,:,α,i,⅃,y,$,·sh,THIN SPACE
 START b 
 |
 STOP b 
@@ -17034,8 +16982,7 @@ NO-BREAK SPACE
 Ezekiel 24:6 in vtrad vtsef
 l,a,k,‥,(G),n.
 SPACE
-k,·,o,h,-,α,a,m,_,⅃,r
-THIN SPACE
+k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -17317,8 +17264,7 @@ SPACE
 d,·,i,m,:,ʕ,a,τ,∵,𝓂,k.,a,.
 
 Ezekiel 24:17 in vtrad vtsef
-h,‥,α,a,n,‥,⅃,q
-THIN SPACE
+h,‥,α,a,n,‥,⅃,q,THIN SPACE
 START b 
 |
 STOP b 
@@ -17413,8 +17359,7 @@ SPACE
 l,‥,α,m,o,𝓂,r,.
 
 Ezekiel 24:21 in vtrad vtsef
-α,:∵,m,o,⅃,r
-THIN SPACE
+α,:∵,m,o,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -18520,8 +18465,7 @@ y,:∵,h,o,w,i,(ti),h
 SPACE
 l,:,ц,⅄,w,o,r
 SPACE
-h,:_,l,o,⅃,α
-THIN SPACE
+h,:_,l,o,⅃,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -18567,13 +18511,11 @@ r,i,q,:,m,a,τ,a,(ti),m.
 SPACE
 y,i,f,:,$,·sh,o,⅄,θ,w,·
 SPACE
-x,:_,r,a,d,<,w,o,τ
-THIN SPACE
+x,:_,r,a,d,<,w,o,τ,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,i,l,:,v,·,a,(p),$,·sh,w,·,(p)
+THIN SPACE,y,i,l,:,v,·,a,(p),$,·sh,w,·,(p)
 SPACE
 ʕ,_,l,-,h,a,α,a,⅃,r,∵,ц.
 SPACE
@@ -19603,8 +19545,7 @@ l,i,n,:,g,i,(qa),y,d
 SPACE
 ц,o,(ge),r
 SPACE
-k,·,o,h,-,α,a,m,_,⅃,r
-THIN SPACE
+k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -20207,8 +20148,7 @@ SPACE
 SPACE
 y,:∵,h,o,w,i,h,∴
 SPACE
-v,·,:,q,_,v,·,:,ц,i,⅃,y
-THIN SPACE
+v,·,:,q,_,v,·,:,ц,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -20338,8 +20278,7 @@ d,·,_,v,·,‥,(qa),r
 SPACE
 w,:,α,a,m,_,r,:,τ,·,a,(ge)
 SPACE
-k,·,o,h,-,α,a,m,_,⅃,r
-THIN SPACE
+k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -20643,8 +20582,7 @@ m,i,ц,:,r,_,(qa),y,i,m.
 SPACE
 $,·sh,:,m,a,m,a,(ge),h
 SPACE
-v,·,:,τ,⅃,w,o,k.,:
-THIN SPACE
+v,·,:,τ,⅃,w,o,k.,:,THIN SPACE
 START b 
 |
 STOP b 
@@ -21518,8 +21456,7 @@ NO-BREAK SPACE
 Ezekiel 30:22 in vtrad vtsef
 l,a,k,‥,(G),n.
 SPACE
-k,·,o,h,-,α,a,m,_,⅃,r
-THIN SPACE
+k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -22772,8 +22709,7 @@ v,·,_,x,∵,(ge),r,∵,v
 SPACE
 α,:_,𝓂,$,·sh,∵,r,-,y,a,r,:,d,(me),w,·
 SPACE
-ʕ,:_,r,‥,l,i,⅃,y,m.
-THIN SPACE
+ʕ,:_,r,‥,l,i,⅃,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -23341,14 +23277,12 @@ Ezekiel 33:11 in vtrad vtsef
 SPACE
 α,:_,l,‥,y,h,∵,(ge),m.
 SPACE
-x,_,y,-,α,a,⅃,n,i,y
-THIN SPACE
+x,_,y,-,α,a,⅃,n,i,y,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
-n,:,α,u,⅃,m.
-THIN SPACE
+n,:,α,u,⅃,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -23770,8 +23704,7 @@ SPACE
 SPACE
 α,:_,l,‥,h,∵,(ge),m.
 SPACE
-k,·,o,h,-,α,a,m,_,⅃,r
-THIN SPACE
+k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -23780,13 +23713,11 @@ SPACE
 SPACE
 y,:∵,h,o,w,i,◆,h
 SPACE
-ʕ,_,l,-,h,_,d,·,a,(da),m.
-THIN SPACE
+ʕ,_,l,-,h,_,d,·,a,(da),m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-τ,·,o,α,k,‥,⟓,l,w,·
+THIN SPACE,τ,·,o,α,k,‥,⟓,l,w,·
 SPACE
 w,:,ʕ,‥,y,n,‥,k,∵,⟓,m.
 SPACE
@@ -24094,8 +24025,7 @@ l,a,r,o,ʕ,i,(ge),y,m.
 SPACE
 k,·,o,(me),h
 SPACE
-α,a,m,_,⅃,r
-THIN SPACE
+α,a,m,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -24242,8 +24172,7 @@ y,:,h,o,w,a,𝓂,h,.
 Ezekiel 34:8 in vtrad vtsef
 x,_,y,-,α,a,(ge),n,i,y
 SPACE
-n,:,α,u,⅃,m.
-THIN SPACE
+n,:,α,u,⅃,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -24256,13 +24185,11 @@ SPACE
 SPACE
 y,_,⅃,ʕ,_,n.
 SPACE
-h,:∵,y,𝓂,w,o,τ,-,ц,o,α,n,i,⅃,y
-THIN SPACE
+h,:∵,y,𝓂,w,o,τ,-,ц,o,α,n,i,⅃,y,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,a,v,_,μ,z
+THIN SPACE,l,a,v,_,μ,z
 SPACE
 w,_,τ,·,i,h,:,y,∵,(tq),y,n,a,h,(tq)
 SPACE
@@ -25193,8 +25120,7 @@ SPACE
 SPACE
 y,:,h,o,w,a,h,∴
 SPACE
-$,·sh,a,m,_,⅃,ʕ,:,τ,·,i,y
-THIN SPACE
+$,·sh,a,m,_,⅃,ʕ,:,τ,·,i,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -25209,8 +25135,7 @@ SPACE
 SPACE
 y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
-l,‥,α,m,o,⅃,r
-THIN SPACE
+l,‥,α,m,o,⅃,r,THIN SPACE
 START small 
 |
 STOP small 
@@ -25484,13 +25409,11 @@ k,·,u,l,·,a,⅄,α
 SPACE
 α,:_,$,·sh,∵,⅃,r
 SPACE
-n,a,τ,:,n,𝓂,w,·,-,α,∵,τ,-,α,_,r,:,ц,i,⅃,y
-THIN SPACE
+n,a,τ,:,n,𝓂,w,·,-,α,∵,τ,-,α,_,r,:,ц,i,⅃,y,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,a,⌕,h,∵,⌕,m.
+THIN SPACE,l,a,⌕,h,∵,⌕,m.
 SPACE
 l,:,m,(qa),w,o,r,a,$,·sh,a,(ge),h
 SPACE
@@ -25527,8 +25450,7 @@ l,a,α,:_,f,i,y,q,i,(qa),y,m.
 SPACE
 w,:,l,_,g,·,‥,α,a,y,(ge),w,o,τ
 SPACE
-k,·,o,h,-,α,a,m,_,⅃,r
-THIN SPACE
+k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -26356,8 +26278,7 @@ y,i,𝓂,$,·sh,·,a,α,:_,r,w,·,~
 SPACE
 σ,:,v,i,y,v,𝓂,w,o,τ,‥,y,k,∵,m.,∴
 SPACE
-k,·,i,⅃,y
-THIN SPACE
+k,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -26489,13 +26410,11 @@ w,:,h,∵,ʕ,:∵,v,i,y,r,_,(me),n,i,y
 SPACE
 ʕ,:_,l,‥,y,h,∵,(ti),m.
 SPACE
-σ,a,v,i,⅃,y,v
-THIN SPACE
+σ,a,v,i,⅃,y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,⅄,y,v
+THIN SPACE,σ,a,v,i,⅄,y,v
 SPACE
 w,:,h,i,n,·,‥,(qa),h
 SPACE
@@ -26691,8 +26610,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
-k,·,o,h,-,α,a,m,_,⅃,r
-THIN SPACE
+k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -27490,14 +27408,12 @@ v,·,:,α,_,x,:_,r,i,(qa),y,τ
 SPACE
 h,_,$,·sh,·,a,n,i,(ge),y,m.
 SPACE
-τ,·,a,v,⅃,w,o,α
-THIN SPACE
+τ,·,a,v,⅃,w,o,α,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
-α,∵,l,-,α,∵,⅃,r,∵,ц.
-THIN SPACE
+α,∵,l,-,α,∵,⅃,r,∵,ц.,THIN SPACE
 START b 
 |
 STOP b 
@@ -27582,8 +27498,7 @@ SPACE
 SPACE
 y,:∵,h,o,w,i,⅄,h
 SPACE
-w,:,h,a,y,a,⅃,h
-THIN SPACE
+w,:,h,a,y,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -27703,8 +27618,7 @@ h,i,q,:,h,_,⅃,l,:,τ,·,a
 SPACE
 q,:,h,a,l,∵,⅄,k.,a
 SPACE
-l,a,$,·si,‥,⅃,α,τ
-THIN SPACE
+l,a,$,·si,‥,⅃,α,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -27756,8 +27670,7 @@ SPACE
 SPACE
 y,:∵,h,o,w,i,⅄,h
 SPACE
-h,:_,l,⅃,w,o,α
-THIN SPACE
+h,:_,l,⅃,w,o,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -27908,8 +27821,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Ezekiel 38:18 in vtrad vtsef
-w,:,h,a,y,a,⅃,h
-THIN SPACE
+w,:,h,a,y,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -27947,8 +27859,7 @@ v,:,α,‥,$,·sh,-,ʕ,∵,v,:,r,a,τ,i,(ti),y
 SPACE
 d,·,i,v,·,_,⅄,r,:,τ,·,i,y
 SPACE
-α,i,m.,-,l,o,⅃,α
-THIN SPACE
+α,i,m.,-,l,o,⅃,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -28294,8 +28205,7 @@ d,·,i,v,·,_,𝓂,r,:,τ,·,i,y,.
 Ezekiel 39:9 in vtrad vtsef
 w,:,𝓂,y,a,ц,:,α,(G),w,·
 SPACE
-y,o,𝓂,$,·sh,:,v,‥,⅃,y
-THIN SPACE
+y,o,𝓂,$,·sh,:,v,‥,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -28388,13 +28298,11 @@ h,_,h,μ,w,·,α
 SPACE
 α,∵,τ,·,‥,⅃,n.
 SPACE
-l,:,g,w,o,g,(tq)
-THIN SPACE
+l,:,g,w,o,g,(tq),THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-m,:,q,𝓂,w,o,m.,-,$,·sh,a,(qa),m.
+THIN SPACE,m,:,q,𝓂,w,o,m.,-,$,·sh,a,(qa),m.
 SPACE
 q,∵,(ge),v,∵,r
 SPACE
@@ -28553,8 +28461,7 @@ w,:,α,_,τ,·,a,(qa),h
 SPACE
 v,∵,n.,-,α,a,d,a,(ge),m.
 SPACE
-k,·,o,h,-,α,a,m,_,⅃,r
-THIN SPACE
+k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -28569,8 +28476,7 @@ l,:,ц,i,f,·,(qa),w,o,r
 SPACE
 k,·,oa,l,-,k,·,a,n,a,(ge),f.
 SPACE
-w,·,l,:,k,o,⅃,l
-THIN SPACE
+w,·,l,:,k,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -28964,8 +28870,7 @@ h,u,k,·,:,τ,a,(ti),h
 SPACE
 h,a,ʕ,i,⅄,y,r
 SPACE
-v,·,:,ʕ,∵,⅃,ц,∵,m.
-THIN SPACE
+v,·,:,ʕ,∵,⅃,ц,∵,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -29098,13 +29003,11 @@ m,i,x,(me),w,·,ц.
 SPACE
 l,_,v,·,_,(ti),y,i,τ
 SPACE
-σ,a,v,i,⅃,y,v
-THIN SPACE
+σ,a,v,i,⅃,y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,⅄,y,v
+THIN SPACE,σ,a,v,i,⅄,y,v
 SPACE
 w,·,v,:,y,_,(qa),d
 SPACE
@@ -29153,8 +29056,7 @@ w,_,y,·,_,(ti),ʕ,_,l
 SPACE
 v,·,:,m,_,ʕ,:_,l,w,o,τ,a,⅄,w
 SPACE
-w,_,y,·,a,⅃,m,oa,d
-THIN SPACE
+w,_,y,·,a,⅃,m,oa,d,THIN SPACE
 START b 
 |
 STOP b 
@@ -29381,13 +29283,11 @@ h,∵,x,a,ц,‥,ƶ,r
 SPACE
 h,_,$,·sh,·,_,(ti),ʕ,_,r
 SPACE
-σ,a,v,i,(me),y,v
-THIN SPACE
+σ,a,v,i,(me),y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,𝓂,y,v,.
+THIN SPACE,σ,a,v,i,𝓂,y,v,.
 
 Ezekiel 40:15 in vtrad vtsef
 w,:,ʕ,_,◆,l
@@ -29433,13 +29333,11 @@ l,i,f,:,n,i,<,y,m,a,h
 SPACE
 l,_,$,·sh,·,_,(p),ʕ,_,r,(p)
 SPACE
-σ,a,v,i,⅃,y,v
-THIN SPACE
+σ,a,v,i,⅃,y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,ƶ,y,v
+THIN SPACE,σ,a,v,i,ƶ,y,v
 SPACE
 w,:,k,‥,(ti),n.
 SPACE
@@ -29447,13 +29345,11 @@ l,a,α,‥,𝓂,l,_,m,·,⅄,w,o,τ
 SPACE
 w,:,x,_,l,·,w,o,n,(G),w,o,τ
 SPACE
-σ,a,v,i,<,y,v
-THIN SPACE
+σ,a,v,i,<,y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,y,v,(p)
+THIN SPACE,σ,a,v,i,y,v,(p)
 SPACE
 l,i,f,:,n,i,ƶ,y,m,a,h
 SPACE
@@ -29478,13 +29374,11 @@ SPACE
 SPACE
 l,∵,x,a,ц,‥,(ti),r
 SPACE
-σ,a,v,i,⅃,y,v
-THIN SPACE
+σ,a,v,i,⅃,y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,⅄,y,v
+THIN SPACE,σ,a,v,i,⅄,y,v
 SPACE
 $,·sh,:,l,o,$,·sh,i,(me),y,m.
 SPACE
@@ -29686,13 +29580,11 @@ l,<,w,o
 SPACE
 w,·,l,:,α,‥,𝓂,y,l,_,m,·,a,w,(p)
 SPACE
-σ,a,v,i,⅃,y,v
-THIN SPACE
+σ,a,v,i,⅃,y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,ƶ,y,v
+THIN SPACE,σ,a,v,i,ƶ,y,v
 SPACE
 k,·,:,h,_,x,_,l,·,o,n,(ti),w,o,τ
 SPACE
@@ -29800,13 +29692,11 @@ l,⟓,w,o
 SPACE
 w,·,l,:,α,‥,l,_,m,·,a,(ti),w
 SPACE
-σ,a,v,i,⅃,y,v
-THIN SPACE
+σ,a,v,i,⅃,y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,⅄,y,v
+THIN SPACE,σ,a,v,i,⅄,y,v
 SPACE
 x,:_,m,i,$,·sh,·,i,<,y,m.
 SPACE
@@ -29825,13 +29715,11 @@ SPACE
 Ezekiel 40:30 in vtrad vtsef
 w,:,α,‥,l,_,m,·,(ti),w,o,τ
 SPACE
-σ,a,v,i,⅃,y,v
-THIN SPACE
+σ,a,v,i,⅃,y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,⅄,y,v
+THIN SPACE,σ,a,v,i,⅄,y,v
 SPACE
 α,o,◆,r,∵,k.,:
 SPACE
@@ -29900,13 +29788,11 @@ l,⟓,w,o
 SPACE
 w,·,l,:,α,‥,l,_,m,·,a,(ti),w
 SPACE
-σ,a,v,i,⅃,y,v
-THIN SPACE
+σ,a,v,i,⅃,y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,⅄,y,v
+THIN SPACE,σ,a,v,i,⅄,y,v
 SPACE
 α,o,(ye),r,∵,k.,:
 SPACE
@@ -29967,13 +29853,11 @@ w,:,x,_,l,·,w,o,n,(me),w,o,τ
 SPACE
 l,(ti),w,o
 SPACE
-σ,a,v,i,⅃,y,v
-THIN SPACE
+σ,a,v,i,⅃,y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,⅄,y,v
+THIN SPACE,σ,a,v,i,⅄,y,v
 SPACE
 α,o,(ye),r,∵,k.,:
 SPACE
@@ -30168,13 +30052,11 @@ m,w,·,k,a,n,i,(me),y,m.
 SPACE
 v,·,_,v,·,_,(ti),y,i,τ
 SPACE
-σ,a,v,i,⅃,y,v
-THIN SPACE
+σ,a,v,i,⅃,y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,⅄,y,v
+THIN SPACE,σ,a,v,i,⅄,y,v
 SPACE
 w,:,α,∵,l,-,h,_,$,·sh,·,u,l,:,x,a,n,(ti),w,o,τ
 SPACE
@@ -30286,8 +30168,7 @@ w,_,y,·,a,(qa),m,oa,d
 SPACE
 α,∵,τ,-,h,∵,x,a,ц,‥,(ge),r
 SPACE
-α,o,⅃,r,∵,k.,:
-THIN SPACE
+α,o,⅃,r,∵,k.,:,THIN SPACE
 START b 
 |
 STOP b 
@@ -30523,13 +30404,11 @@ SPACE
 SPACE
 α,_,m,·,(ge),w,o,τ
 SPACE
-σ,a,v,i,(da),y,v
-THIN SPACE
+σ,a,v,i,(da),y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,⟓,y,v
+THIN SPACE,σ,a,v,i,⟓,y,v
 SPACE
 l,_,v,·,_,(ti),y,i,τ
 SPACE
@@ -30556,13 +30435,11 @@ SPACE
 SPACE
 l,_,ц,·,:,l,a,ʕ,⟓,w,o,τ
 SPACE
-σ,a,v,i,(me),y,v
-THIN SPACE
+σ,a,v,i,(me),y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,(ti),y,v
+THIN SPACE,σ,a,v,i,(ti),y,v
 SPACE
 l,i,h,:,y,⅃,w,o,τ
 SPACE
@@ -30595,13 +30472,11 @@ l,:,m,_,(qa),ʕ,:,l,a,h
 SPACE
 l,:,m,_,(ge),ʕ,:,l,a,h
 SPACE
-σ,a,v,i,<,y,v
-THIN SPACE
+σ,a,v,i,<,y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,y,v,(p)
+THIN SPACE,σ,a,v,i,y,v,(p)
 SPACE
 l,_,v,·,_,ƶ,y,i,τ
 SPACE
@@ -30628,13 +30503,11 @@ l,_,v,·,_,⟓,y,i,τ
 SPACE
 g,·,o,(ti),v,_,h,·
 SPACE
-σ,a,v,i,⅃,y,v
-THIN SPACE
+σ,a,v,i,⅃,y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,⅄,y,v
+THIN SPACE,σ,a,v,i,⅄,y,v
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
@@ -30698,13 +30571,11 @@ SPACE
 SPACE
 l,_,v,·,_,(ti),y,i,τ
 SPACE
-σ,a,v,i,(me),y,v
-THIN SPACE
+σ,a,v,i,(me),y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,𝓂,y,v,.
+THIN SPACE,σ,a,v,i,𝓂,y,v,.
 
 Ezekiel 41:11 in vtrad vtsef
 w,·,f,∵,<,τ,_,x
@@ -30737,13 +30608,11 @@ x,a,m,‥,(me),$,·sh
 SPACE
 α,_,m,·,(ti),w,o,τ
 SPACE
-σ,a,v,i,(me),y,v
-THIN SPACE
+σ,a,v,i,(me),y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,𝓂,y,v,.
+THIN SPACE,σ,a,v,i,𝓂,y,v,.
 
 Ezekiel 41:12 in vtrad vtsef
 w,:,h,_,v,·,i,n,:,y,a,μ,n.
@@ -30772,13 +30641,11 @@ x,a,m,‥,$,·sh,-,α,_,m,·,(me),w,o,τ
 SPACE
 r,o,(ti),x,_,v
 SPACE
-σ,a,v,i,⅃,y,v
-THIN SPACE
+σ,a,v,i,⅃,y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,⅄,y,v
+THIN SPACE,σ,a,v,i,⅄,y,v
 SPACE
 w,:,α,oa,r,:,k,·,(ti),w,o
 SPACE
@@ -30870,13 +30737,11 @@ w,:,h,_,x,_,l,·,w,o,n,i,⅃,y,m.
 SPACE
 h,a,⌕,α,:_,θ,u,m,⌕,w,o,τ
 SPACE
-w,:,h,a,𝓂,α,_,τ,·,i,y,q,i,<,y,m.
-THIN SPACE
+w,:,h,a,𝓂,α,_,τ,·,i,y,q,i,<,y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,y,v,(p)
+THIN SPACE,σ,a,v,i,y,v,(p)
 SPACE
 l,i,$,·sh,:,l,oa,$,·sh,:,τ,·,a,ƶ,m.
 SPACE
@@ -30888,13 +30753,11 @@ $,·si,:,x,i,(me),y,f.
 SPACE
 ʕ,‥,(ti),ц.
 SPACE
-σ,a,v,i,⅃,y,v
-THIN SPACE
+σ,a,v,i,⅃,y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,⅄,y,v
+THIN SPACE,σ,a,v,i,⅄,y,v
 SPACE
 w,:,h,a,α,a,(p),r,∵,ц.,(p)
 SPACE
@@ -30917,13 +30780,11 @@ w,:,l,_,x,(ge),w,·,ц.
 SPACE
 w,:,α,∵,l,-,k,·,oa,l,-,h,_,q,·,i,(qa),y,r
 SPACE
-σ,a,v,i,(da),y,v
-THIN SPACE
+σ,a,v,i,(da),y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,⟓,y,v
+THIN SPACE,σ,a,v,i,⟓,y,v
 SPACE
 v,·,_,f,·,:,n,i,y,m,i,(me),y
 SPACE
@@ -30969,13 +30830,11 @@ SPACE
 SPACE
 α,∵,l,-,k,·,oa,l,-,h,_,v,·,_,(ti),y,i,τ
 SPACE
-σ,a,v,i,(me),y,v
-THIN SPACE
+σ,a,v,i,(me),y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,𝓂,y,v,.
+THIN SPACE,σ,a,v,i,𝓂,y,v,.
 
 Ezekiel 41:20 in vtrad vtsef
 m,‥,h,a,α,a,(p),r,∵,ц.,(p)
@@ -31364,8 +31223,7 @@ SPACE
 h,_,x,i,ц,o,n,a,𝓂,h,.
 
 Ezekiel 42:10 in vtrad vtsef
-v,·,:,r,o,⅃,x,_,v
-THIN SPACE
+v,·,:,r,o,⅃,x,_,v,THIN SPACE
 START b 
 |
 STOP b 
@@ -31467,8 +31325,7 @@ SPACE
 SPACE
 h,_,g,·,i,z,:,r,a,h,∴
 SPACE
-h,‥,⅃,n,·,a,h
-THIN SPACE
+h,‥,⅃,n,·,a,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -31493,8 +31350,7 @@ h,_,q,·,:a,d,a,$,·sh,i,⅄,y,m.
 SPACE
 $,·sh,a,(G),m.
 SPACE
-y,_,n,·,i,⅃,y,x,w,·
-THIN SPACE
+y,_,n,·,i,⅃,y,x,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -31587,13 +31443,11 @@ h,_,q,·,a,d,i,⅄,y,m.
 SPACE
 w,·,m,:,d,a,d,(ti),w,o
 SPACE
-σ,a,v,i,(me),y,v
-THIN SPACE
+σ,a,v,i,(me),y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,𝓂,y,v,.
+THIN SPACE,σ,a,v,i,𝓂,y,v,.
 
 Ezekiel 42:16 in vtrad vtsef
 m,a,d,_,⟓,d
@@ -31687,13 +31541,11 @@ x,<,w,o,m,a,h
 SPACE
 l,w,o,(p)
 SPACE
-σ,a,v,i,⅃,y,v
-THIN SPACE
+σ,a,v,i,⅃,y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,ƶ,y,v
+THIN SPACE,σ,a,v,i,ƶ,y,v
 SPACE
 α,o,(ye),r,∵,k.,:
 SPACE
@@ -31919,8 +31771,7 @@ v,·,‥,y,n,i,⅃,y
 SPACE
 w,·,v,‥,y,n,‥,y,h,∵,⅄,m.
 SPACE
-w,:,θ,i,m,·,:,α,⅃,w,·
-THIN SPACE
+w,:,θ,i,m,·,:,α,⅃,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -32058,13 +31909,11 @@ h,a,⌕,h,a,⌕,r
 SPACE
 k,·,oa,l,-,g,·,:,v,u,l,(G),w,o
 SPACE
-σ,a,v,i,<,y,v
-THIN SPACE
+σ,a,v,i,<,y,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,a,v,i,y,v,(p)
+THIN SPACE,σ,a,v,i,y,v,(p)
 SPACE
 q,o,⅃,d,∵,$,·sh
 SPACE
@@ -33444,13 +33293,11 @@ SPACE
 SPACE
 τ,:,r,w,·,m,a,(qa),h
 SPACE
-l,_,y,h,o,w,a,(me),h
-THIN SPACE
+l,_,y,h,o,w,a,(me),h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-q,o,≁,d,∵,$,·sh,~
+THIN SPACE,q,o,≁,d,∵,$,·sh,~
 SPACE
 m,i,n.,-,h,a,α,a,∴,r,∵,ц.,∴
 SPACE
@@ -35177,13 +35024,11 @@ w,:,h,a,y,a,⅃,h
 SPACE
 k,oa,l,-,n,∵,⅃,f,∵,$,·sh
 SPACE
-x,_,y,·,a,⅃,h
-THIN SPACE
+x,_,y,·,a,⅃,h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,:_,𝓂,$,·sh,∵,r,-,y,i,$,·sh,:,r,o,μ,ц.
+THIN SPACE,α,:_,𝓂,$,·sh,∵,r,-,y,i,$,·sh,:,r,o,μ,ц.
 SPACE
 α,∵,⅃,l
 SPACE
@@ -35294,19 +35139,15 @@ y,_,ʕ,:_,l,∵,⅃,h
 SPACE
 ʕ,_,l,-,$,·si,:,f,a,τ,⅃,w,o
 SPACE
-m,i,z,·,∵,⅃,h
-THIN SPACE
+m,i,z,·,∵,⅃,h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-w,·,m,i,z,·,∵,⅃,h
-THIN SPACE
+THIN SPACE,w,·,m,i,z,·,∵,⅃,h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-k,·,oa,l,-,ʕ,‥,𝓂,ц.,-,m,_,⌕,α,:_,k,a,⌕,l
+THIN SPACE,k,·,oa,l,-,ʕ,‥,𝓂,ц.,-,m,_,⌕,α,:_,k,a,⌕,l
 SPACE
 l,o,α,-,y,i,v,·,(qa),w,o,l
 SPACE
@@ -35437,13 +35278,11 @@ SPACE
 ц,:,d,a,𝓂,d,a,h,.
 
 Ezekiel 47:16 in vtrad vtsef
-x,:_,m,a,<,τ
-THIN SPACE
+x,:_,m,a,<,τ,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-v,·,‥,r,(p),w,o,τ,a,h,(p)
+THIN SPACE,v,·,‥,r,(p),w,o,τ,a,h,(p)
 SPACE
 σ,i,v,:,r,_,ƶ,y,i,m.
 SPACE
@@ -35484,13 +35323,11 @@ g,·,:,v,⅃,w,·,l
 SPACE
 d,·,_,m,·,∵,ƶ,$,·si,∵,q
 SPACE
-w,:,ц,a,f,(me),w,o,n.
-THIN SPACE
+w,:,ц,a,f,(me),w,o,n.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-ц,a,f,(ti),w,o,n,a,h
+THIN SPACE,ц,a,f,(ti),w,o,n,a,h
 SPACE
 w,·,g,:,v,⅃,w,·,l
 SPACE
@@ -35684,13 +35521,11 @@ SPACE
 SPACE
 α,∵,l,-,y,_,⅃,d
 SPACE
-d,·,∵,𝓂,r,∵,k.,:,-,x,∵,τ,:,l,o,⅃,n.
-THIN SPACE
+d,·,∵,𝓂,r,∵,k.,:,-,x,∵,τ,:,l,o,⅃,n.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,:,𝓂,v,w,o,α,-,x,:_,m,a,μ,τ
+THIN SPACE,l,:,𝓂,v,w,o,α,-,x,:_,m,a,μ,τ
 SPACE
 x,:_,ц,_,⅃,r
 SPACE
@@ -35717,8 +35552,7 @@ SPACE
 α,∵,x,a,𝓂,d,.
 
 Ezekiel 48:2 in vtrad vtsef
-w,:,ʕ,_,⅃,l
-THIN SPACE
+w,:,ʕ,_,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -35738,8 +35572,7 @@ SPACE
 α,∵,x,a,𝓂,d,.
 
 Ezekiel 48:3 in vtrad vtsef
-w,:,ʕ,_,⅃,l
-THIN SPACE
+w,:,ʕ,_,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -35759,8 +35592,7 @@ SPACE
 α,∵,x,a,𝓂,d,.
 
 Ezekiel 48:4 in vtrad vtsef
-w,:,ʕ,_,⅃,l
-THIN SPACE
+w,:,ʕ,_,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -35780,8 +35612,7 @@ SPACE
 α,∵,x,a,𝓂,d,.
 
 Ezekiel 48:5 in vtrad vtsef
-w,:,ʕ,_,⅃,l
-THIN SPACE
+w,:,ʕ,_,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -35801,8 +35632,7 @@ SPACE
 α,∵,x,a,𝓂,d,.
 
 Ezekiel 48:6 in vtrad vtsef
-w,:,ʕ,_,⅃,l
-THIN SPACE
+w,:,ʕ,_,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -35822,8 +35652,7 @@ SPACE
 α,∵,x,a,𝓂,d,.
 
 Ezekiel 48:7 in vtrad vtsef
-w,:,ʕ,_,⅃,l
-THIN SPACE
+w,:,ʕ,_,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -36195,8 +36024,7 @@ w,:,h,_,n,·,w,o,τ,a,(qa),r
 SPACE
 v,·,a,α,o,(ge),r,∵,k.,:
 SPACE
-l,:,ʕ,u,m,·,_,⅃,τ
-THIN SPACE
+l,:,ʕ,u,m,·,_,⅃,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -36280,19 +36108,15 @@ w,:,h,_,n,·,w,o,τ,a,⅃,r
 SPACE
 l,_,n,·,a,$,·si,i,⅃,y,α
 SPACE
-m,i,z,·,∵,⅃,h
-THIN SPACE
+m,i,z,·,∵,⅃,h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-w,·,m,i,z,·,∵,⅃,h
-THIN SPACE
+THIN SPACE,w,·,m,i,z,·,∵,⅃,h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,i,τ,:,r,𝓂,w,·,m,_,τ,-,h,_,q,·,o,⅃,d,∵,$,·sh
+THIN SPACE,l,i,τ,:,r,𝓂,w,·,m,_,τ,-,h,_,q,·,o,⅃,d,∵,$,·sh
 SPACE
 w,:,l,_,α,:_,x,u,z,·,_,(yy),τ
 SPACE
@@ -36304,13 +36128,11 @@ x,:_,m,i,$,·sh,·,a,h,(tq)
 SPACE
 w,:,ʕ,∵,$,·si,:,r,i,(qa),y,m.
 SPACE
-α,∵,(me),l,∵,f.
-THIN SPACE
+α,∵,(me),l,∵,f.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-τ,·,:,r,w,·,m,a,h,~
+THIN SPACE,τ,·,:,r,w,·,m,a,h,~
 SPACE
 ʕ,_,d,-,g,·,:,v,⅃,w,·,l
 SPACE
@@ -36365,8 +36187,7 @@ l,_,n,·,a,$,·si,i,(ti),y,α
 SPACE
 y,i,h,:,y,∵,⅄,h
 SPACE
-v,·,‥,⅃,y,n.
-THIN SPACE
+v,·,‥,⅃,y,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -36401,8 +36222,7 @@ SPACE
 α,∵,x,a,𝓂,d,.
 
 Ezekiel 48:24 in vtrad vtsef
-w,:,ʕ,_,⅃,l
-THIN SPACE
+w,:,ʕ,_,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -36422,8 +36242,7 @@ SPACE
 α,∵,x,a,𝓂,d,.
 
 Ezekiel 48:25 in vtrad vtsef
-w,:,ʕ,_,⅃,l
-THIN SPACE
+w,:,ʕ,_,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -36443,8 +36262,7 @@ SPACE
 α,∵,x,a,𝓂,d,.
 
 Ezekiel 48:26 in vtrad vtsef
-w,:,ʕ,_,⅃,l
-THIN SPACE
+w,:,ʕ,_,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -36464,8 +36282,7 @@ SPACE
 α,∵,x,a,𝓂,d,.
 
 Ezekiel 48:27 in vtrad vtsef
-w,:,ʕ,_,⅃,l
-THIN SPACE
+w,:,ʕ,_,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -36722,11 +36539,9 @@ w,:,$,·sh,‥,m.,-,h,a,ʕ,i,(me),y,r
 SPACE
 m,i,y,·,(ti),w,o,m.
 SPACE
-y,:,h,o,w,a,(me),h
-THIN SPACE
+y,:,h,o,w,a,(me),h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-$,·sh,a,𝓂,m,·,a,h,.
+THIN SPACE,$,·sh,a,𝓂,m,·,a,h,.
 

@@ -118,8 +118,7 @@ SPACE
 α,i,m,·,∵,𝓂,k.,a,.
 
 Proverbs 1:9 in vtrad vtsef
-k,·,i,<,y
-THIN SPACE
+k,·,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -306,15 +305,16 @@ SPACE
 τ,o,α,m,‥,𝓂,r,.
 
 Proverbs 1:22 in vtrad vtsef
-ʕ,_,d,-,m,a,τ,_,⅃,y
-THIN SPACE
+ʕ,_,d,-,m,a,τ,_,⅃,y,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-f,·,:,τ,a,y,i,m.,~
+THIN SPACE,f,·,:,τ,a,y,i,m.,~
 SPACE
 τ,·,:,𝓂,α,‥,h,:_,v,(ol),w,·
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 f,∵,(me),τ,i,y
 SPACE
 w,:,l,‥,ц,i,◆,y,m.
@@ -948,6 +948,9 @@ Proverbs 3:12 in vtrad vtsef
 k,·,i,<,y
 SPACE
 α,∵,(me),τ
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 α,:_,$,·sh,∵,⅃,r
 SPACE
 y,∵,α,:∵,h,_,⅃,v
@@ -1964,8 +1967,7 @@ n,oa,k,:,r,i,y,·,a,𝓂,h,.
 Proverbs 5:21 in vtrad vtsef
 k,·,i,<,y
 SPACE
-n,o,(qa),k,_,x
-THIN SPACE
+n,o,(qa),k,_,x,THIN SPACE
 START b 
 |
 STOP b 
@@ -2040,13 +2042,11 @@ Proverbs 6:3 in vtrad vtsef
 SPACE
 z,o,(me),α,τ
 SPACE
-α,‥,f,(yy),w,o,α
-THIN SPACE
+α,‥,f,(yy),w,o,α,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-v,·,:,n,i,μ,y
+THIN SPACE,v,·,:,n,i,μ,y
 SPACE
 w,:,𝓂,h,i,n,·,a,ц,‥,◆,l
 SPACE
@@ -2131,13 +2131,11 @@ m,_,𝓂,α,:_,k,a,l,a,𝓂,h,·,.
 Proverbs 6:9 in vtrad vtsef
 ʕ,_,d,-,m,a,τ,_,(ti),y
 SPACE
-ʕ,a,ц,‥,(me),l
-THIN SPACE
+ʕ,a,ц,‥,(me),l,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-τ,·,i,$,·sh,:,k,·,a,⅄,v
+THIN SPACE,τ,·,i,$,·sh,:,k,·,a,⅄,v
 SPACE
 m,a,γ,τ,_,◆,y
 SPACE
@@ -2154,8 +2152,7 @@ m,:,ʕ,_,⅃,θ
 SPACE
 τ,·,:,n,w,·,m,⅄,w,o,τ
 SPACE
-m,:,ʕ,_,(sh),θ
-THIN SPACE
+m,:,ʕ,_,(sh),θ,THIN SPACE
 START b 
 |
 STOP b 
@@ -2215,8 +2212,7 @@ SPACE
 v,·,:,α,∵,ц,:,v,·,:,ʕ,o,τ,a,𝓂,y,w,.
 
 Proverbs 6:14 in vtrad vtsef
-τ,·,_,(me),h,:,f,·,u,k,(qa),w,o,τ
-THIN SPACE
+τ,·,_,(me),h,:,f,·,u,k,(qa),w,o,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -2365,8 +2361,7 @@ SPACE
 ʕ,_,l,-,g,·,_,r,:,g,·,:,r,o,τ,∵,𝓂,k.,a,.
 
 Proverbs 6:22 in vtrad vtsef
-v,·,:,h,i,τ,:,h,_,l,·,∵,k,:,k.,a,(qa)
-THIN SPACE
+v,·,:,h,i,τ,:,h,_,l,·,∵,k,:,k.,a,(qa),THIN SPACE
 START b 
 |
 STOP b 
@@ -2438,6 +2433,9 @@ SPACE
 z,w,o,n,a,◆,h
 SPACE
 ʕ,_,𝓂,d,-,k,·,i,k,·,_,(ol),r
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 l,a,(me),x,∵,m.
 SPACE
 w,:,α,‥,(me),$,·sh,∵,τ
@@ -2731,8 +2729,7 @@ SPACE
 r,_,g,:,l,∵,𝓂,y,h,a,.
 
 Proverbs 7:12 in vtrad vtsef
-f,·,_,<,ʕ,_,m.
-THIN SPACE
+f,·,_,<,ʕ,_,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -3115,12 +3112,14 @@ SPACE
 y,:,h,o,w,a,h,~
 SPACE
 $,·si,:,𝓂,n,o,(ol),α,τ
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 r,a,(me),ʕ
 SPACE
 g,·,‥,≁,α,a,<,h
 SPACE
-w,:,g,a,α,(qa),w,o,n.
-THIN SPACE
+w,:,g,a,α,(qa),w,o,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -3233,13 +3232,11 @@ m,i,$,·sh,:,f,·,a,𝓂,θ,.
 Proverbs 8:21 in vtrad vtsef
 l,:,h,_,n,:,x,i,(ti),y,l
 SPACE
-α,o,h,:_,v,_,(me),y
-THIN SPACE
+α,o,h,:_,v,_,(me),y,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,‥,⅄,$,·sh
+THIN SPACE,y,‥,⅄,$,·sh
 SPACE
 w,:,α,o,ц,:,r,o,(ti),τ,‥,y,h,∵,⅃,m.
 SPACE
@@ -3341,8 +3338,7 @@ SPACE
 Proverbs 8:29 in vtrad vtsef
 v,·,:,$,·si,≁,w,·,m,<,w,o
 SPACE
-l,_,y,·,a,(qa),m.
-THIN SPACE
+l,_,y,·,a,(qa),m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -3372,8 +3368,7 @@ w,a,α,∵,h,:,y,∵,⅃,h
 SPACE
 $,·sh,_,(de),ʕ,:_,$,·sh,w,·,ʕ,i,y,m.
 SPACE
-y,<,w,o,m.
-THIN SPACE
+y,<,w,o,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -3439,8 +3434,7 @@ l,i,$,·sh,:,q,o,⅃,d
 SPACE
 ʕ,_,l,-,d,·,_,(de),l,:,τ,o,τ,_,y
 SPACE
-y,<,w,o,m.
-THIN SPACE
+y,<,w,o,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -3570,8 +3564,7 @@ SPACE
 v,·,i,y,n,a,𝓂,h,.
 
 Proverbs 9:7 in vtrad vtsef
-y,o,<,σ,‥,(qa),r
-THIN SPACE
+y,o,<,σ,‥,(qa),r,THIN SPACE
 START b 
 |
 STOP b 
@@ -4108,8 +4101,7 @@ SPACE
 ʕ,w,o,l,a,𝓂,m.,.
 
 Proverbs 10:26 in vtrad vtsef
-k,·,_,x,o,<,m,∵,ц.
-THIN SPACE
+k,·,_,x,o,<,m,∵,ц.,THIN SPACE
 START b 
 |
 STOP b 
@@ -6261,13 +6253,11 @@ v,·,‥,⅃,y,τ
 SPACE
 g,·,‥,(de),α,i,y,m.
 SPACE
-y,i,σ,·,_,(me),x
-THIN SPACE
+y,i,σ,·,_,(me),x,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,h,o,w,a,⅄,h
+THIN SPACE,y,:,h,o,w,a,⅄,h
 SPACE
 w,:,γ,y,_,ц,·,‥,◆,v
 SPACE
@@ -6515,8 +6505,7 @@ SPACE
 ц,_,ʕ,:_,d,𝓂,w,o,.
 
 Proverbs 16:10 in vtrad vtsef
-q,∵,<,σ,∵,m.
-THIN SPACE
+q,∵,<,σ,∵,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -6530,8 +6519,7 @@ SPACE
 y,i,m,:,ʕ,_,l,-,f,·,i,𝓂,y,w,.
 
 Proverbs 16:11 in vtrad vtsef
-f,·,∵,<,l,∵,σ
-THIN SPACE
+f,·,∵,<,l,∵,σ,THIN SPACE
 START b 
 |
 STOP b 
@@ -7739,8 +7727,10 @@ m,_,τ,·,a,𝓂,n.,.
 
 Proverbs 19:7 in vtrad vtsef
 k,·,oa,(me),l
-α,:_,x,‥,y,-,r,a,(qa),$,·sh
-THIN SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
+α,:_,x,‥,y,-,r,a,(qa),$,·sh,THIN SPACE
 START b 
 |
 STOP b 
@@ -7814,8 +7804,7 @@ SPACE
 SPACE
 α,_,γ,◆,f.
 SPACE
-k,·,i,𝓂,y,-,l,:,ʕ,∵,<,v,∵,d
-THIN SPACE
+k,·,i,𝓂,y,-,l,:,ʕ,∵,<,v,∵,d,THIN SPACE
 START b 
 |
 STOP b 
@@ -8845,8 +8834,7 @@ SPACE
 w,a,k,a,𝓂,ʕ,_,σ,.
 
 Proverbs 21:20 in vtrad vtsef
-α,w,o,ц,a,<,r
-THIN SPACE
+α,w,o,ц,a,<,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -8988,8 +8976,7 @@ v,·,:,f,a,n,a,⅄,y,w
 SPACE
 w,:,γ,y,a,$,·sh,a,◆,r
 SPACE
-h,<,w,·,α
-THIN SPACE
+h,<,w,·,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -9075,8 +9062,7 @@ SPACE
 y,:,h,o,w,a,𝓂,h,.
 
 Proverbs 22:3 in vtrad vtsef
-ʕ,a,r,<,w,·,m.
-THIN SPACE
+ʕ,a,r,<,w,·,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -9494,8 +9480,7 @@ SPACE
 Proverbs 22:29 in vtrad vtsef
 x,a,z,i,μ,y,τ,a
 SPACE
-α,i,<,y,$,·sh
-THIN SPACE
+α,i,<,y,$,·sh,THIN SPACE
 START b 
 |
 STOP b 
@@ -9625,8 +9610,7 @@ SPACE
 l,:,m,_,θ,:,ʕ,_,m,·,o,τ,a,𝓂,y,w,.
 
 Proverbs 23:7 in vtrad vtsef
-k,·,i,<,y
-THIN SPACE
+k,·,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -10231,8 +10215,7 @@ z,∵,(me),h
 SPACE
 h,:_,𝓂,l,o,α,-,τ,o,≁,k,‥,<,n.
 SPACE
-l,i,v,·,(qa),w,o,τ
-THIN SPACE
+l,i,v,·,(qa),w,o,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -10267,8 +10250,7 @@ SPACE
 ʕ,_,l,-,x,i,k,·,∵,𝓂,k.,a,.
 
 Proverbs 24:14 in vtrad vtsef
-k,·,‥,<,n.
-THIN SPACE
+k,·,‥,<,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -10312,8 +10294,7 @@ r,i,v,:,ц,𝓂,w,o,.
 Proverbs 24:16 in vtrad vtsef
 k,·,i,<,y
 SPACE
-$,·sh,∵,(qa),v,_,ʕ
-THIN SPACE
+$,·sh,∵,(qa),v,_,ʕ,THIN SPACE
 START b 
 |
 STOP b 
@@ -10376,8 +10357,7 @@ SPACE
 v,·,a,𝓂,r,:,$,·sh,a,ʕ,i,𝓂,y,m.,.
 
 Proverbs 24:20 in vtrad vtsef
-k,·,i,<,y
-THIN SPACE
+k,·,i,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -10437,8 +10417,7 @@ SPACE
 v,·,_,l,-,θ,𝓂,w,o,v,.
 
 Proverbs 24:24 in vtrad vtsef
-α,o,<,m,‥,(qa),r
-THIN SPACE
+α,o,<,m,‥,(qa),r,THIN SPACE
 START b 
 |
 STOP b 
@@ -10482,8 +10461,7 @@ n,:,k,o,x,i,𝓂,y,m.,.
 Proverbs 24:27 in vtrad vtsef
 h,a,≁,k,‥,<,n.
 SPACE
-v,·,_,x,(qa),w,·,ц.
-THIN SPACE
+v,·,_,x,(qa),w,·,ц.,THIN SPACE
 START b 
 |
 STOP b 
@@ -10558,8 +10536,7 @@ w,:,h,i,n,·,‥,(qa),h
 SPACE
 ʕ,a,≁,l,a,<,h
 SPACE
-k,u,l,·,(qa),w,o
-THIN SPACE
+k,u,l,·,(qa),w,o,THIN SPACE
 START b 
 |
 STOP b 
@@ -10602,8 +10579,7 @@ m,:,ʕ,_,⅃,θ
 SPACE
 τ,·,:,n,w,·,m,⅄,w,o,τ
 SPACE
-m,:,ʕ,_,(sh),θ
-THIN SPACE
+m,:,ʕ,_,(sh),θ,THIN SPACE
 START b 
 |
 STOP b 
@@ -10641,8 +10617,7 @@ SPACE
 SPACE
 h,∵,γ,ʕ,:,τ,·,i,◆,y,q,w,·
 SPACE
-α,_,n,:,$,·sh,‥,<,y
-THIN SPACE
+α,_,n,:,$,·sh,‥,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -10730,6 +10705,9 @@ SPACE
 α,:_,m,oa,r,-,l,:,k.,a,◆
 SPACE
 ʕ,:_,𝓂,l,‥,(ol),h
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 h,‥,(me),n,·,a,h
 SPACE
 m,‥,(de),h,_,$,·sh,:,f,·,i,⅃,y,l,:,k.,a
@@ -10818,8 +10796,7 @@ SPACE
 $,·sh,o,m,a,𝓂,ʕ,_,τ,.
 
 Proverbs 25:13 in vtrad vtsef
-k,·,:,ц,i,n,·,_,τ,-,$,·sh,∵,(qa),l,∵,g
-THIN SPACE
+k,·,:,ц,i,n,·,_,τ,-,$,·sh,∵,(qa),l,∵,g,THIN SPACE
 START b 
 |
 STOP b 
@@ -10938,8 +10915,7 @@ SPACE
 ц,a,r,a,𝓂,h,.
 
 Proverbs 25:20 in vtrad vtsef
-m,_,(me),ʕ,:_,d,∵,h,-,v,·,∵,(qa),g,∵,d
-THIN SPACE
+m,_,(me),ʕ,:_,d,∵,h,-,v,·,∵,(qa),g,∵,d,THIN SPACE
 START b 
 |
 STOP b 
@@ -11102,8 +11078,7 @@ SPACE
 l,:,r,w,·,x,𝓂,w,o,.
 
 Proverbs 26:1 in vtrad vtsef
-k,·,_,$,·sh,·,∵,<,l,∵,g
-THIN SPACE
+k,·,_,$,·sh,·,∵,<,l,∵,g,THIN SPACE
 START b 
 |
 STOP b 
@@ -11696,8 +11671,7 @@ SPACE
 d,a,v,a,𝓂,r,.
 
 Proverbs 27:12 in vtrad vtsef
-ʕ,a,r,<,w,·,m.
-THIN SPACE
+ʕ,a,r,<,w,·,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -11730,8 +11704,7 @@ x,_,v,:,l,‥,𝓂,h,w,·,.
 Proverbs 27:14 in vtrad vtsef
 m,:,v,a,≁,r,‥,<,k.,:
 SPACE
-r,‥,ʕ,‥,(qa),h,w,·
-THIN SPACE
+r,‥,ʕ,‥,(qa),h,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -11860,8 +11833,7 @@ m,_,h,:_,l,a,l,𝓂,w,o,.
 Proverbs 27:22 in vtrad vtsef
 α,i,(me),m.
 SPACE
-τ,·,i,k,:,τ,·,𝓂,w,o,$,·sh,-,α,∵,τ,-,h,a,α,:∵,w,i,(qa),y,l
-THIN SPACE
+τ,·,i,k,:,τ,·,𝓂,w,o,$,·sh,-,α,∵,τ,-,h,a,α,:∵,w,i,(qa),y,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -11949,8 +11921,7 @@ SPACE
 ʕ,_,τ,·,w,·,d,i,𝓂,y,m.,.
 
 Proverbs 27:27 in vtrad vtsef
-w,:,d,‥,<,y
-THIN SPACE
+w,:,d,‥,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -12126,8 +12097,7 @@ SPACE
 Proverbs 28:10 in vtrad vtsef
 m,_,$,·sh,:,g,·,∵,<,h
 SPACE
-y,:,$,·sh,a,r,i,(qa),y,m.
-THIN SPACE
+y,:,$,·sh,a,r,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -12362,8 +12332,7 @@ SPACE
 l,a,$,·sh,𝓂,w,o,n.,.
 
 Proverbs 28:24 in vtrad vtsef
-g,·,w,o,z,‥,<,l
-THIN SPACE
+g,·,w,o,z,‥,<,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -12844,8 +12813,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Proverbs 30:1 in vtrad vtsef
-d,·,i,v,:,r,‥,<,y
-THIN SPACE
+d,·,i,v,:,r,‥,<,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -12895,8 +12863,7 @@ SPACE
 Proverbs 30:4 in vtrad vtsef
 m,i,<,y
 SPACE
-ʕ,a,l,a,𝓂,h,-,$,·sh,a,m,_,(qa),y,i,m.
-THIN SPACE
+ʕ,a,l,a,𝓂,h,-,$,·sh,a,m,_,(qa),y,i,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -12905,8 +12872,7 @@ w,_,y,·,‥,r,_,μ,d
 SPACE
 m,i,<,y
 SPACE
-α,a,𝓂,σ,_,f.,-,r,(qa),w,·,x,_
-THIN SPACE
+α,a,𝓂,σ,_,f.,-,r,(qa),w,·,x,_,THIN SPACE
 START b 
 |
 STOP b 
@@ -12915,8 +12881,7 @@ v,·,:,x,oa,f,:,n,a,μ,y,w
 SPACE
 m,i,<,y
 SPACE
-ц,a,𝓂,r,_,r,-,m,_,(qa),y,i,m.
-THIN SPACE
+ц,a,𝓂,r,_,r,-,m,_,(qa),y,i,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -12984,8 +12949,7 @@ SPACE
 α,a,m,𝓂,w,·,τ,.
 
 Proverbs 30:8 in vtrad vtsef
-$,·sh,a,<,w,:,α
-THIN SPACE
+$,·sh,a,<,w,:,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -13011,8 +12975,7 @@ x,u,q,·,i,𝓂,y,.
 Proverbs 30:9 in vtrad vtsef
 f,·,∵,(me),n.
 SPACE
-α,∵,$,·si,:,v,·,_,(qa),ʕ
-THIN SPACE
+α,∵,$,·si,:,v,·,_,(qa),ʕ,THIN SPACE
 START b 
 |
 STOP b 
@@ -13089,8 +13052,7 @@ SPACE
 y,i,n,·,a,$,·si,‥,𝓂,α,w,·,.
 
 Proverbs 30:14 in vtrad vtsef
-d,·,<,w,o,r
-THIN SPACE
+d,·,<,w,o,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -13119,8 +13081,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Proverbs 30:15 in vtrad vtsef
-l,_,(me),ʕ,:_,l,w,·,q,a,(qa),h
-THIN SPACE
+l,_,(me),ʕ,:_,l,w,·,q,a,(qa),h,THIN SPACE
 START b 
 |
 STOP b 
@@ -13174,8 +13135,7 @@ SPACE
 h,𝓂,w,o,n.,.
 
 Proverbs 30:17 in vtrad vtsef
-ʕ,_,<,y,i,n.
-THIN SPACE
+ʕ,_,<,y,i,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -13227,8 +13187,7 @@ y,:,d,_,ʕ,:,τ,·,i,𝓂,y,m.,.
 Proverbs 30:19 in vtrad vtsef
 d,·,∵,<,r,∵,k.,:
 SPACE
-h,_,n,·,∵,(qa),$,·sh,∵,r
-THIN SPACE
+h,_,n,·,∵,(qa),$,·sh,∵,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -13252,8 +13211,7 @@ SPACE
 v,·,:,ʕ,_,l,:,m,a,𝓂,h,.
 
 Proverbs 30:20 in vtrad vtsef
-k,·,‥,<,n.
-THIN SPACE
+k,·,‥,<,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -13519,8 +13477,7 @@ m,:,l,a,k,i,𝓂,y,n.,.
 Proverbs 31:4 in vtrad vtsef
 α,_,<,l
 SPACE
-l,_,𝓂,m,:,l,a,k,i,(qa),y,m.
-THIN SPACE
+l,_,𝓂,m,:,l,a,k,i,(qa),y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -13684,8 +13641,7 @@ SPACE
 l,_,x,:,m,a,𝓂,h,·,.
 
 Proverbs 31:15 in vtrad vtsef
-w,_,τ,·,a,<,q,oa,m.
-THIN SPACE
+w,_,τ,·,a,<,q,oa,m.,THIN SPACE
 START b 
 |
 STOP b 

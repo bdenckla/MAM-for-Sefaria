@@ -365,8 +365,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Ezra 2:1 in vtrad vtsef
-w,:,α,‥,⅃,l,·,∵,h
-THIN SPACE
+w,:,α,‥,⅃,l,·,∵,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -2464,8 +2463,7 @@ v,·,∵,n.,-,y,𝓂,w,o,ц,a,d,a,(ge),q
 SPACE
 w,·,$,·sh,:,α,a,(me),r
 SPACE
-α,:_,x,‥,y,h,∵,⅃,m.
-THIN SPACE
+α,:_,x,‥,y,h,∵,⅃,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -3780,8 +3778,7 @@ SPACE
 SPACE
 d,·,i,𝓂,y,-,$,·sh,:,l,_,(G),x
 SPACE
-τ,·,_,τ,·,:,n,_,⅃,y
-THIN SPACE
+τ,·,_,τ,·,:,n,_,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -3842,8 +3839,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Ezra 5:8 in vtrad vtsef
-y,:,d,i,⅃,y,ʕ,_
-THIN SPACE
+y,:,d,i,⅃,y,ʕ,_,THIN SPACE
 START b 
 |
 STOP b 
@@ -4137,8 +4133,7 @@ SPACE
 $,·si,a,m,‥,𝓂,h,·,.
 
 Ezra 5:15 in vtrad vtsef
-w,_,α,:_,m,_,r,-,l,‥,(sh),h,·
-THIN SPACE
+w,_,α,:_,m,_,r,-,l,‥,(sh),h,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -4280,8 +4275,7 @@ $,·si,a,⅃,m.
 SPACE
 θ,:,ʕ,‥,⅄,m.
 SPACE
-w,·,v,_,q,·,_,⅃,r,w,·
-THIN SPACE
+w,·,v,_,q,·,_,⅃,r,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -4581,26 +4575,21 @@ SPACE
 SPACE
 w,:,d,i,k,:,r,i,⅃,y,n.
 SPACE
-w,:,α,i,m,·,:,r,i,⅃,y,n.
-THIN SPACE
+w,:,α,i,m,·,:,r,i,⅃,y,n.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,_,ʕ,:_,l,a,w,a,⅃,n.
-THIN SPACE
+THIN SPACE,l,_,ʕ,:_,l,a,w,a,⅃,n.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,∵,α,:∵,l,a,(yy),h,·
+THIN SPACE,l,∵,α,:∵,l,a,(yy),h,·
 SPACE
 $,·sh,:,m,_,y,·,a,(qp),α
 SPACE
 x,i,n,:,θ,i,(G),y,n.
 SPACE
-m,:,l,_,⅃,x
-THIN SPACE
+m,:,l,_,⅃,x,THIN SPACE
 START b 
 |
 STOP b 
@@ -4621,13 +4610,11 @@ m,i,τ,:,y,:,h,‥,(me),v
 SPACE
 l,:,h,o,⟓,m.
 SPACE
-y,(me),w,o,m.
-THIN SPACE
+y,(me),w,o,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-v,·,:,y,(ti),w,o,m.
+THIN SPACE,v,·,:,y,(ti),w,o,m.
 SPACE
 d,·,i,y,-,l,a,(me),α
 SPACE
@@ -4708,8 +4695,7 @@ k,·,oa,l,-,m,∵,<,l,∵,k.,:
 SPACE
 w,:,ʕ,_,m.,(p)
 SPACE
-d,·,i,⅃,y
-THIN SPACE
+d,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -5037,8 +5023,7 @@ y,a,m,i,(ti),y,m.
 SPACE
 v,·,:,$,·si,i,m,:,x,a,⅄,h
 SPACE
-k,·,i,⅃,y
-THIN SPACE
+k,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -5282,8 +5267,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Ezra 7:11 in vtrad vtsef
-w,:,z,∵,⅃,h
-THIN SPACE
+w,:,z,∵,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -5473,13 +5457,11 @@ v,·,:,k,_,σ,:,f,·,a,⅃,α
 SPACE
 d,:,n,a,◆,h
 SPACE
-τ,·,w,o,r,i,<,y,n.
-THIN SPACE
+τ,·,w,o,r,i,<,y,n.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-d,·,i,k,:,r,i,y,n.,(p)
+THIN SPACE,d,·,i,k,:,r,i,y,n.,(p)
 SPACE
 α,i,m,·,:,r,i,ƶ,y,n.
 SPACE
@@ -6966,8 +6948,7 @@ v,:,n,‥,𝓂,y,-,h,_,g,·,w,o,l,a,(ge),h
 SPACE
 h,i,q,:,r,i,(me),y,v,w,·
 SPACE
-ʕ,o,l,⅃,w,o,τ
-THIN SPACE
+ʕ,o,l,⅃,w,o,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -6982,8 +6963,7 @@ $,·sh,:,n,‥,y,m.,-,ʕ,a,$,·si,a,<,r
 SPACE
 ʕ,_,l,-,k,·,oa,l,-,y,i,$,·si,:,r,a,α,‥,l,(p)
 SPACE
-α,‥,y,l,i,⅃,y,m.
-THIN SPACE
+α,‥,y,l,i,⅃,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -7018,8 +6998,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Ezra 8:36 in vtrad vtsef
-w,_,𝓂,y,·,i,τ,·,:,n,⅃,w,·
-THIN SPACE
+w,_,𝓂,y,·,i,τ,·,:,n,⅃,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -7281,8 +7260,7 @@ m,:,l,a,k,‥,(qa),y,n,w,·
 SPACE
 k,o,h,:_,n,‥,(ge),y,n,w,·
 SPACE
-v,·,:,y,_,⅃,d
-THIN SPACE
+v,·,:,y,_,⅃,d,THIN SPACE
 START b 
 |
 STOP b 
@@ -7314,8 +7292,7 @@ h,a,y,:,τ,a,(qa),h
 SPACE
 τ,:,x,i,n,·,a,(ge),h
 SPACE
-m,‥,α,‥,⅃,τ
-THIN SPACE
+m,‥,α,‥,⅃,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -7525,8 +7502,7 @@ w,·,v,:,α,_,$,·sh,:,m,a,τ,‥,(ti),n,w,·
 SPACE
 h,_,g,·,:,d,o,l,a,⅄,h
 SPACE
-k,·,i,⅃,y
-THIN SPACE
+k,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -7893,13 +7869,11 @@ w,_,y,·,i,q,·,a,v,:,ц,⅃,w,·
 SPACE
 k,oa,l,-,α,_,n,:,$,·sh,‥,𝓂,y,-,y,:,h,w,·,d,a,h,(tq)
 SPACE
-w,·,v,i,n,:,y,a,m,i,(qa),n.
-THIN SPACE
+w,·,v,i,n,:,y,a,m,i,(qa),n.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,:,r,w,·,$,·sh,a,l,_,(ge),CGJ,i,m.
+THIN SPACE,y,:,r,w,·,$,·sh,a,l,_,(ge),CGJ,i,m.
 SPACE
 l,i,$,·sh,:,l,o,⅃,$,·sh,∵,τ
 SPACE
@@ -8071,8 +8045,7 @@ $,·si,a,⌕,r,‥,⌕,y,n,w,·
 SPACE
 l,:,𝓂,k,oa,l,-,h,_,q,·,a,h,a,(G),l
 SPACE
-w,:,k,o,⅃,l
-THIN SPACE
+w,:,k,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 

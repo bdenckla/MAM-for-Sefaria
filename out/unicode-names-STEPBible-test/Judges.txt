@@ -152,13 +152,11 @@ w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 α,:_,d,o,𝓂,n,i,y,-,v,∵,◆,z,∵,q
 SPACE
-$,·sh,i,v,:,ʕ,i,⅃,y,m.
-THIN SPACE
+$,·sh,i,v,:,ʕ,i,⅃,y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-m,:,l,a,k,i,μ,y,m.
+THIN SPACE,m,:,l,a,k,i,μ,y,m.
 SPACE
 v,·,:,𝓂,h,o,n,w,o,τ,(tq)
 SPACE
@@ -1141,8 +1139,7 @@ y,:,m,‥,⅃,y
 SPACE
 y,:,h,w,o,$,·sh,u,⅄,ʕ,_
 SPACE
-w,:,k,o,⅃,l
-THIN SPACE
+w,:,k,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -1273,8 +1270,7 @@ SPACE
 Judges 2:12 in vtrad vtsef
 w,_,y,·,_,ʕ,_,z,:,v,(G),w,·
 SPACE
-α,∵,τ,-,y,:,h,o,w,a,⅃,h
-THIN SPACE
+α,∵,τ,-,y,:,h,o,w,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -1293,8 +1289,7 @@ m,i,ц,:,r,_,∴,y,i,m.,∴
 SPACE
 w,_,y,·,‥,l,:,k,(G),w,·
 SPACE
-α,_,x,:_,r,‥,⅃,y
-THIN SPACE
+α,_,x,:_,r,‥,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -1364,8 +1359,7 @@ SPACE
 α,w,o,y,:,v,‥,y,h,∵,𝓂,m.,.
 
 Judges 2:15 in vtrad vtsef
-v,·,:,k,o,⅃,l
-THIN SPACE
+v,·,:,k,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -1459,13 +1453,11 @@ k,‥,𝓂,n.,.
 Judges 2:18 in vtrad vtsef
 w,:,k,i,y,-,h,‥,q,i,(qa),y,m.
 SPACE
-y,:,h,o,w,a,(me),h
-THIN SPACE
+y,:,h,o,w,a,(me),h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,a,h,∵,m.,~
+THIN SPACE,l,a,h,∵,m.,~
 SPACE
 $,·sh,o,f,:,θ,i,y,m.,∴
 SPACE
@@ -1500,8 +1492,7 @@ SPACE
 w,:,d,o,x,:_,q,‥,y,h,∵,𝓂,m.,.
 
 Judges 2:19 in vtrad vtsef
-w,:,h,a,y,a,⅃,h
-THIN SPACE
+w,:,h,a,y,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -1702,8 +1693,7 @@ SPACE
 y,:,d,a,ʕ,𝓂,w,·,m.,.
 
 Judges 3:3 in vtrad vtsef
-x,:_,m,‥,⅃,$,·sh,∵,τ
-THIN SPACE
+x,:_,m,‥,⅃,$,·sh,∵,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -2171,8 +2161,7 @@ SPACE
 ʕ,a,l,a,𝓂,y,w,.
 
 Judges 3:20 in vtrad vtsef
-w,:,α,‥,h,⅃,w,·,d
-THIN SPACE
+w,:,α,‥,h,⅃,w,·,d,THIN SPACE
 START b 
 |
 STOP b 
@@ -2665,8 +2654,7 @@ SPACE
 SPACE
 h,:_,l,o,(me),α
 SPACE
-ц,i,w,·,a,⅃,h
-THIN SPACE
+ц,i,w,·,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -4660,8 +4648,7 @@ m,i,d,:,y,a,(ge),n.
 SPACE
 ʕ,a,$,·si,(me),w,·
 SPACE
-l,a,h,∵,⅃,m.
-THIN SPACE
+l,a,h,∵,⅃,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -4821,8 +4808,7 @@ l,a,h,∵,(ge),m.
 SPACE
 k,·,o,h,-,α,a,m,_,(me),r
 SPACE
-y,:,h,o,w,a,⅃,h
-THIN SPACE
+y,:,h,o,w,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -5594,8 +5580,7 @@ SPACE
 SPACE
 ʕ,a,l,a,(ge),y,w
 SPACE
-h,_,α,_,τ,·,∵,⅃,m.
-THIN SPACE
+h,_,α,_,τ,·,∵,⅃,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -6046,8 +6031,7 @@ SPACE
 SPACE
 α,‥,l,∵,(ge),y,k.,a
 SPACE
-z,∵,⅃,h
-THIN SPACE
+z,∵,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -7144,8 +7128,7 @@ SPACE
 SPACE
 w,_,y,·,i,l,:,k,·,o,(G),d
 SPACE
-α,∵,τ,-,$,·sh,:,n,‥,⅃,y
-THIN SPACE
+α,∵,τ,-,$,·sh,:,n,‥,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -8543,8 +8526,7 @@ SPACE
 α,∵,τ,-,α,:_,v,i,y,m,∵,𝓂,l,∵,k.,:,.
 
 Judges 9:28 in vtrad vtsef
-w,_,y,·,o,⅃,α,m,∵,r
-THIN SPACE
+w,_,y,·,o,⅃,α,m,∵,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -9259,8 +9241,7 @@ w,_,y,·,i,q,:,r,a,(qa),α
 SPACE
 m,:,h,‥,r,a,(ge),h
 SPACE
-α,∵,l,-,h,_,n,·,_,⅃,ʕ,_,r
-THIN SPACE
+α,∵,l,-,h,_,n,·,_,⅃,ʕ,_,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -9454,8 +9435,7 @@ l,a,h,∵,⅄,m.
 SPACE
 l,a,h,∵,(G),m.
 SPACE
-y,i,q,:,r,:,α,⅃,w,·
-THIN SPACE
+y,i,q,:,r,:,α,⅃,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -9491,8 +9471,7 @@ STOP span class=mam-spi-pe
 START br 
 
 Judges 10:6 in vtrad vtsef
-w,_,y,·,o,σ,i,⅃,y,f,w,·
-THIN SPACE
+w,_,y,·,o,σ,i,⅃,y,f,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -9523,8 +9502,7 @@ w,:,α,∵,τ,-,α,:∵,l,o,h,‥,(qa),y
 SPACE
 ц,i,y,d,(ge),w,o,n.
 SPACE
-w,:,α,‥,⅃,τ
-THIN SPACE
+w,:,α,‥,⅃,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -10303,21 +10281,17 @@ w,_,y,·,i,$,·sh,:,l,_,⅃,x
 SPACE
 y,i,$,·si,:,r,a,α,‥,⅃,l
 SPACE
-m,_,l,:,α,a,k,i,⅃,y,m.
-THIN SPACE
+m,_,l,:,α,a,k,i,⅃,y,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,∵,l,-,m,∵,(tq),l,∵,k.,:,(tq)
+THIN SPACE,α,∵,l,-,m,∵,(tq),l,∵,k.,:,(tq)
 SPACE
-α,:∵,d,(qa),w,o,m.
-THIN SPACE
+α,:∵,d,(qa),w,o,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,‥,α,m,o,(ge),r
+THIN SPACE,l,‥,α,m,o,(ge),r
 SPACE
 α,∵,ʕ,:,v,·,:,r,a,h,-,n,·,a,⅃,α
 SPACE
@@ -10497,8 +10471,7 @@ w,:,ʕ,_,d,-,h,_,y,·,_,r,:,d,·,‥,𝓂,n.,.
 Judges 11:23 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,(G),h
 SPACE
-y,:,h,o,w,a,⅃,h
-THIN SPACE
+y,:,h,o,w,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -11021,8 +10994,7 @@ SPACE
 Judges 11:39 in vtrad vtsef
 w,_,y,:,h,i,(G),y
 SPACE
-m,i,q,·,‥,⅃,ц.
-THIN SPACE
+m,i,q,·,‥,⅃,ц.,THIN SPACE
 START b 
 |
 STOP b 
@@ -11056,8 +11028,7 @@ SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 Judges 11:40 in vtrad vtsef
-m,i,y,·,a,m,i,⅃,y,m.
-THIN SPACE
+m,i,y,·,a,m,i,⅃,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -11102,14 +11073,12 @@ w,_,y,·,o,α,m,:,r,(qa),w,·
 SPACE
 l,:,y,i,f,:,τ,·,a,(ge),x
 SPACE
-m,_,d,·,⅃,w,·,ʕ,_
-THIN SPACE
+m,_,d,·,⅃,w,·,ʕ,_,THIN SPACE
 START b 
 |
 STOP b 
 SPACE
-ʕ,a,v,_,⅃,r,:,τ,·,a
-THIN SPACE
+ʕ,a,v,_,⅃,r,:,τ,·,a,THIN SPACE
 START b 
 |
 STOP b 
@@ -11280,13 +11249,11 @@ h,_,α,∵,f,:,r,a,τ,i,(me),y
 SPACE
 α,_,(ti),τ,·,a,h
 SPACE
-w,_,y,·,o,(me),α,m,∵,𝓂,r
-THIN SPACE
+w,_,y,·,o,(me),α,m,∵,𝓂,r,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,o,𝓂,α,.
+THIN SPACE,l,o,𝓂,α,.
 
 Judges 12:6 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,:,r,w,·
@@ -11724,8 +11691,7 @@ v,·,‥,⅄,n.
 SPACE
 w,:,ʕ,_,τ,·,a,(G),h
 SPACE
-α,_,l,-,τ,·,i,$,·sh,:,τ,·,i,⅃,y
-THIN SPACE
+α,_,l,-,τ,·,i,$,·sh,:,τ,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -12666,8 +12632,7 @@ SPACE
 y,a,m,i,𝓂,y,m.,.
 
 Judges 14:15 in vtrad vtsef
-w,_,y,:,h,i,⅃,y
-THIN SPACE
+w,_,y,:,h,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -12770,8 +12735,7 @@ l,a,h,∵,(ti),m.
 SPACE
 h,_,m,·,i,$,·sh,:,τ,·,∵,⅄,h
 SPACE
-w,_,y,:,h,i,⅃,y
-THIN SPACE
+w,_,y,:,h,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -12854,8 +12818,7 @@ SPACE
 SPACE
 w,_,y,·,_,(me),k.,:
 SPACE
-m,‥,h,∵,⅃,m.
-THIN SPACE
+m,‥,h,∵,⅃,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -13464,8 +13427,7 @@ r,w,·,x,(ti),w,o
 SPACE
 w,_,y,·,∵,⅄,x,i,y
 SPACE
-ʕ,_,l,-,k,·,‥,⅃,n.
-THIN SPACE
+ʕ,_,l,-,k,·,‥,⅃,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -13524,8 +13486,7 @@ SPACE
 α,‥,l,∵,𝓂,y,h,a,.
 
 Judges 16:2 in vtrad vtsef
-l,_,ʕ,_,z,·,a,τ,i,⅃,y,m.
-THIN SPACE
+l,_,ʕ,_,z,·,a,τ,i,⅃,y,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -13569,8 +13530,7 @@ SPACE
 SPACE
 h,_,l,·,_,∴,y,:,l,a,h,∴
 SPACE
-w,_,y,·,a,⅃,q,oa,m.
-THIN SPACE
+w,_,y,·,a,⅃,q,oa,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -14450,8 +14410,7 @@ w,_,y,·,i,l,:,f,·,o,(qa),τ
 SPACE
 $,·sh,i,m,:,$,·sh,(ge),w,o,n.
 SPACE
-α,∵,τ,-,$,·sh,:,n,‥,⅃,y
-THIN SPACE
+α,∵,τ,-,$,·sh,:,n,‥,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -14536,8 +14495,7 @@ w,_,y,·,i,$,·si,:,α,⅃,w,·
 SPACE
 α,o,τ,w,o,∴
 SPACE
-w,_,𝓂,y,·,_,ʕ,:_,l,⅃,w,·
-THIN SPACE
+w,_,𝓂,y,·,_,ʕ,:_,l,⅃,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -14995,13 +14953,11 @@ START br
 Judges 18:2 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,:,x,⅃,w,·
 SPACE
-v,:,n,‥,y,-,d,a,⅃,n.
-THIN SPACE
+v,:,n,‥,y,-,d,a,⅃,n.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-m,i,𝓂,m,·,i,$,·sh,:,f,·,_,x,:,τ,·,a,μ,m.
+THIN SPACE,m,i,𝓂,m,·,i,$,·sh,:,f,·,_,x,:,τ,·,a,μ,m.
 SPACE
 x,:_,m,i,$,·sh,·,a,⅃,h
 SPACE
@@ -15177,8 +15133,7 @@ k,·,:,m,i,$,·sh,:,f,·,_,(qa),θ
 SPACE
 ц,i,d,o,n,i,(ge),y,m.
 SPACE
-$,·sh,o,q,‥,⅃,θ
-THIN SPACE
+$,·sh,o,q,‥,⅃,θ,THIN SPACE
 START b 
 |
 STOP b 
@@ -15264,8 +15219,7 @@ SPACE
 Judges 18:10 in vtrad vtsef
 k,·,:,v,o,α,:_,k,∵,(G),m.
 SPACE
-τ,·,a,v,o,⅃,α,w,·
-THIN SPACE
+τ,·,a,v,o,⅃,α,w,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -15551,8 +15505,7 @@ l,:,α,a,⅃,v
 SPACE
 w,·,l,:,k,o,h,‥,⅄,n.
 SPACE
-h,:_,θ,⅃,w,o,v
-THIN SPACE
+h,:_,θ,⅃,w,o,v,THIN SPACE
 START b 
 |
 STOP b 
@@ -15915,8 +15868,7 @@ SPACE
 SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,⅄,l
 SPACE
-w,_,y,:,h,i,⅃,y
-THIN SPACE
+w,_,y,:,h,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -16132,8 +16084,7 @@ h,_,x,:_,m,i,y,$,·sh,i,y,~
 SPACE
 l,a,l,∵,∴,k,∵,τ,∴
 SPACE
-w,_,y,·,o,⅃,α,m,∵,r
-THIN SPACE
+w,_,y,·,o,⅃,α,m,∵,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -16374,8 +16325,7 @@ SPACE
 l,a,l,𝓂,w,·,n.,.
 
 Judges 19:16 in vtrad vtsef
-w,:,h,i,n,·,‥,⅃,h
-THIN SPACE
+w,:,h,i,n,·,‥,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -17134,8 +17084,7 @@ SPACE
 SPACE
 l,_,m,·,‥,α,a,(ge),h
 SPACE
-l,:,k,o,⅃,l
-THIN SPACE
+l,:,k,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -17319,8 +17268,7 @@ SPACE
 v,·,a,x,𝓂,w,·,r,.
 
 Judges 20:16 in vtrad vtsef
-m,i,k,·,o,⅃,l
-THIN SPACE
+m,i,k,·,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -17564,19 +17512,15 @@ h,_,$,·sh,·,‥,n,i,𝓂,y,.
 Judges 20:25 in vtrad vtsef
 w,_,y,·,‥,ц,‥,α,(tq)
 SPACE
-v,i,n,:,y,a,m,i,(qa),n.
-THIN SPACE
+v,i,n,:,y,a,m,i,(qa),n.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-l,i,q,:,r,a,α,τ,a,(me),m.
-THIN SPACE
+THIN SPACE,l,i,q,:,r,a,α,τ,a,(me),m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-m,i,𝓂,n.,-,h,_,g,·,i,v,:,ʕ,a,h,~
+THIN SPACE,m,i,𝓂,n.,-,h,_,g,·,i,v,:,ʕ,a,h,~
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -17671,8 +17615,7 @@ v,·,∵,n.,-,α,∵,l,:,ʕ,a,z,a,(qa),r
 SPACE
 v,·,∵,𝓂,n.,-,α,_,h,:_,r,o,(ge),n.
 SPACE
-ʕ,o,m,‥,⅃,d
-THIN SPACE
+ʕ,o,m,‥,⅃,d,THIN SPACE
 START b 
 |
 STOP b 
@@ -17771,8 +17714,7 @@ m,‥,h,a,ʕ,a,(qa),m.
 SPACE
 x,:_,l,a,l,i,(ge),y,m.
 SPACE
-k,·,:,f,_,⅃,ʕ,_,m.
-THIN SPACE
+k,·,:,f,_,⅃,ʕ,_,m.,THIN SPACE
 START b 
 |
 STOP b 
@@ -17831,8 +17773,7 @@ SPACE
 α,∵,l,-,h,_,𝓂,m,:,σ,i,l,·,𝓂,w,o,τ,.
 
 Judges 20:33 in vtrad vtsef
-w,:,k,o,⅃,l
-THIN SPACE
+w,:,k,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -17904,13 +17845,11 @@ START br
 Judges 20:35 in vtrad vtsef
 w,_,y,·,i,g,·,o,(qa),f.
 SPACE
-y,:,h,o,w,a,(me),h
-THIN SPACE
+y,:,h,o,w,a,(me),h,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,∵,𝓂,τ,-,v,·,i,n,:,y,a,m,i,n.,~
+THIN SPACE,α,∵,𝓂,τ,-,v,·,i,n,:,y,a,m,i,n.,~
 SPACE
 l,i,f,:,n,‥,⅃,y
 SPACE
@@ -18587,8 +18526,7 @@ SPACE
 Judges 21:12 in vtrad vtsef
 w,_,𝓂,y,·,i,m,:,ц,:,α,(G),w,·
 SPACE
-m,i,y,·,w,o,$,·sh,:,v,‥,⅃,y
-THIN SPACE
+m,i,y,·,w,o,$,·sh,:,v,‥,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -18787,8 +18725,7 @@ x,_,g,-,y,:,h,o,w,a,(qa),h
 SPACE
 v,·,:,$,·sh,i,l,(ge),w,o
 SPACE
-m,i,y,·,a,m,i,⅃,y,m.
-THIN SPACE
+m,i,y,·,a,m,i,⅃,y,m.,THIN SPACE
 START b 
 |
 STOP b 

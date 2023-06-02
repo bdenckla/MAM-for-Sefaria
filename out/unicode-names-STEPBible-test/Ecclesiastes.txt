@@ -83,13 +83,11 @@ w,:,σ,w,o,v,‥,(ti),v
 SPACE
 α,∵,l,-,ц,a,f,⅄,w,o,n.
 SPACE
-σ,w,o,v,‥,<,v
-THIN SPACE
+σ,w,o,v,‥,<,v,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,o,v,‥,v,(p)
+THIN SPACE,σ,o,v,‥,v,(p)
 SPACE
 h,w,o,l,‥,⅃,k.,:
 SPACE
@@ -261,8 +259,7 @@ SPACE
 SPACE
 h,_,$,·sh,·,a,m,a,⅄,y,i,m.
 SPACE
-h,⅃,w,·,α
-THIN SPACE
+h,⅃,w,·,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -702,8 +699,7 @@ w,:,h,w,o,l,‥,l,(ti),w,o,τ
 SPACE
 w,:,σ,i,k,:,l,⅄,w,·,τ
 SPACE
-k,·,i,⅃,y
-THIN SPACE
+k,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -1842,8 +1838,7 @@ SPACE
 SPACE
 h,_,$,·sh,·,a,⅄,m,∵,$,·sh
 SPACE
-w,:,h,i,n,·,‥,⅃,h
-THIN SPACE
+w,:,h,i,n,·,‥,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -2030,8 +2025,7 @@ l,o,α,-,τ,i,$,·si,:,v,·,_,⅃,ʕ
 SPACE
 ʕ,o,⅄,$,·sh,∵,r
 SPACE
-w,·,l,:,m,i,⅃,y
-THIN SPACE
+w,·,l,:,m,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -2669,8 +2663,7 @@ w,:,l,i,r,:,α,(qa),w,o,τ
 SPACE
 θ,w,o,v,a,(ge),h
 SPACE
-v,·,:,k,oa,l,-,ʕ,:_,m,a,l,⅃,w,o
-THIN SPACE
+v,·,:,k,oa,l,-,ʕ,:_,m,a,l,⅃,w,o,THIN SPACE
 START b 
 |
 STOP b 
@@ -2792,8 +2785,7 @@ w,:,𝓂,α,‥,y,n,∵,(qa),n,·,w,·
 SPACE
 x,a,σ,‥,(me),r
 SPACE
-l,:,n,_,f,:,$,·sh,⅃,w,o
-THIN SPACE
+l,:,n,_,f,:,$,·sh,⅃,w,o,THIN SPACE
 START b 
 |
 STOP b 
@@ -2841,8 +2833,7 @@ r,_,v,·,(qa),w,o,τ
 SPACE
 y,i,𝓂,x,:,y,∵,(ge),h
 SPACE
-w,:,r,_,⅃,v
-THIN SPACE
+w,:,r,_,⅃,v,THIN SPACE
 START b 
 |
 STOP b 
@@ -3530,13 +3521,11 @@ r,a,x,(ti),w,o,q
 SPACE
 m,_,h,-,$,·sh,·,∵,h,a,y,a,⅄,h
 SPACE
-w,:,ʕ,a,m,o,(me),q
-THIN SPACE
+w,:,ʕ,a,m,o,(me),q,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-ʕ,a,m,o,(ti),q
+THIN SPACE,ʕ,a,m,o,(ti),q
 SPACE
 m,i,(me),y
 SPACE
@@ -4005,8 +3994,7 @@ n,_,ʕ,:_,$,·si,a,⅃,h
 SPACE
 ʕ,_,l,-,h,a,α,a,∴,r,∵,ц.,∴
 SPACE
-α,:_,$,·sh,∵,⅃,r
-THIN SPACE
+α,:_,$,·sh,∵,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -4257,8 +4245,7 @@ SPACE
 y,a,r,‥,𝓂,α,.
 
 Ecclesiastes 9:3 in vtrad vtsef
-z,∵,⅃,h
-THIN SPACE
+z,∵,⅃,h,THIN SPACE
 START b 
 |
 STOP b 

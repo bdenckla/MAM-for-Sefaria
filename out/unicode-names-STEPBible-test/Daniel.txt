@@ -1260,8 +1260,7 @@ SPACE
 $,·sh,:,r,‥,𝓂,α,.
 
 Daniel 2:23 in vtrad vtsef
-l,a,⅃,k.,:
-THIN SPACE
+l,a,⅃,k.,:,THIN SPACE
 START b 
 |
 STOP b 
@@ -1323,8 +1322,7 @@ l,:,x,_,k,·,i,y,m,‥,⅃,y
 SPACE
 v,a,v,∵,⅄,l
 SPACE
-α,:_,z,_,⅃,l
-THIN SPACE
+α,:_,z,_,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -1788,8 +1786,7 @@ l,a,α,-,h,i,$,·sh,:,τ,·,:,k,_,⅃,x
 SPACE
 l,:,h,⅄,w,o,n.
 SPACE
-w,:,α,_,v,:,n,a,⅃,α
-THIN SPACE
+w,:,α,_,v,:,n,a,⅃,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -2424,8 +2421,7 @@ m,_,l,:,k,·,a,μ,α
 SPACE
 $,·sh,:,l,_,μ,x
 SPACE
-l,:,m,i,k,:,n,_,⅃,$,·sh
-THIN SPACE
+l,:,m,i,k,:,n,_,⅃,$,·sh,THIN SPACE
 START b 
 |
 STOP b 
@@ -2963,8 +2959,7 @@ f,·,:,σ,_,n,:,τ,·,‥,r,i,y,n.,(tq)
 SPACE
 w,:,σ,w,·,m,:,f,·,o,(qa),n,:,y,a,(ge),h
 SPACE
-w,:,k,o,⅃,l
-THIN SPACE
+w,:,k,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -3866,8 +3861,7 @@ r,_,⅃,v
 SPACE
 x,_,r,:,θ,u,m,·,_,y,·,a,α,∴
 SPACE
-d,·,i,⅃,y
-THIN SPACE
+d,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -3959,8 +3953,7 @@ l,:,k,o,(ti),l,·,a,α,-,v,‥,⅄,h,·
 SPACE
 τ,·,:,x,o,τ,(ge),w,o,h,i,y
 SPACE
-τ,·,_,θ,:,l,‥,⅃,l
-THIN SPACE
+τ,·,_,θ,:,l,‥,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -4209,8 +4202,7 @@ STOP span class=mam-kq
 SPACE
 v,·,‥,l,:,θ,:,$,·sh,_,α,ц,·,_,(ge),r
 SPACE
-f,·,i,$,·sh,:,r,‥,⅃,α
-THIN SPACE
+f,·,i,$,·sh,:,r,‥,⅃,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -4219,8 +4211,7 @@ SPACE
 SPACE
 k,·,oa,l,-,q,:a,v,‥,l,(p)
 SPACE
-d,·,i,⅃,y
-THIN SPACE
+d,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -4426,13 +4417,11 @@ SPACE
 SPACE
 w,:,q,_,d,·,i,⅃,y,$,·sh
 SPACE
-n,a,x,i,⅃,τ
-THIN SPACE
+n,a,x,i,⅃,τ,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-m,i,n.,-,$,·sh,:,m,_,y,·,a,μ,α
+THIN SPACE,m,i,n.,-,$,·sh,:,m,_,y,·,a,μ,α
 SPACE
 w,:,α,a,m,_,r,(tq)
 SPACE
@@ -4535,8 +4524,7 @@ m,:,d,o,r,a,(ge),k.,:
 SPACE
 w,:,ʕ,i,$,·si,:,v,·,a,(me),α
 SPACE
-k,:,τ,w,o,r,i,⅃,y,n.
-THIN SPACE
+k,:,τ,w,o,r,i,⅃,y,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -4879,8 +4867,7 @@ SPACE
 SPACE
 n,:,v,w,·,k,_,d,:,n,∵,ц,·,_,(ge),r
 SPACE
-ʕ,_,y,:,n,_,⅃,y
-THIN SPACE
+ʕ,_,y,:,n,_,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -4986,8 +4973,7 @@ SPACE
 Daniel 4:33 in vtrad vtsef
 v,·,‥,h,·,-,z,i,m,:,n,a,(G),α
 SPACE
-m,_,n,:,d,·,:,ʕ,i,⅃,y
-THIN SPACE
+m,_,n,:,d,·,:,ʕ,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -5096,8 +5082,7 @@ $,·sh,a,τ,‥,𝓂,h,.
 Daniel 5:2 in vtrad vtsef
 v,·,‥,l,:,$,·sh,_,α,ц,·,_,(G),r
 SPACE
-α,:_,m,_,⅃,r
-THIN SPACE
+α,:_,m,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -5297,8 +5282,7 @@ SPACE
 SPACE
 m,_,l,:,k,·,a,(ge),α
 SPACE
-w,:,α,a,m,_,⅃,r
-THIN SPACE
+w,:,α,a,m,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -5530,13 +5514,11 @@ k,·,oa,l,-,q,:a,v,‥,μ,l
 SPACE
 d,·,i,⅃,y
 SPACE
-r,⅃,w,·,x,_
-THIN SPACE
+r,⅃,w,·,x,_,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-y,_,τ,·,i,y,r,a,μ,h
+THIN SPACE,y,_,τ,·,i,y,r,a,μ,h
 SPACE
 w,·,m,_,n,:,d,·,_,μ,ʕ
 SPACE
@@ -5947,8 +5929,7 @@ SPACE
 SPACE
 θ,:,r,i,(ge),y,d
 SPACE
-w,:,l,i,v,:,v,‥,⅃,h,·
-THIN SPACE
+w,:,l,i,v,:,v,‥,⅃,h,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -6054,13 +6035,11 @@ y,:,d,_,𝓂,ʕ,:,τ,·,a,.
 Daniel 5:23 in vtrad vtsef
 w,:,ʕ,_,⅃,l
 SPACE
-m,a,r,‥,𝓂,α,-,$,·sh,:,m,_,y,·,a,⅃,α
-THIN SPACE
+m,a,r,‥,𝓂,α,-,$,·sh,:,m,_,y,·,a,⅃,α,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-h,i,τ,:,r,w,o,m,_,μ,m,:,τ,·,a
+THIN SPACE,h,i,τ,:,r,w,o,m,_,μ,m,:,τ,·,a
 SPACE
 w,·,l,:,m,a,𝓂,α,n,_,y,·,a,(qa),α
 SPACE
@@ -6218,8 +6197,7 @@ SPACE
 w,·,f,a,r,a,𝓂,σ,.
 
 Daniel 5:29 in vtrad vtsef
-v,·,‥,α,d,_,⅃,y,i,n.
-THIN SPACE
+v,·,‥,α,d,_,⅃,y,i,n.,THIN SPACE
 START b 
 |
 STOP b 
@@ -6519,8 +6497,7 @@ x,:∵,y,i,𝓂,y,.
 Daniel 6:8 in vtrad vtsef
 α,i,τ,:,y,a,ʕ,_,(ge),θ,w,·
 SPACE
-k,·,o,⅃,l
-THIN SPACE
+k,·,o,⅃,l,THIN SPACE
 START b 
 |
 STOP b 
@@ -6648,8 +6625,7 @@ SPACE
 SPACE
 v,:,y,w,o,m,a,(ge),α
 SPACE
-h,⅃,w,·,α
-THIN SPACE
+h,⅃,w,·,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -7296,8 +7272,7 @@ $,·si,i,⅃,y,m.
 SPACE
 θ,:,ʕ,‥,m.,∴
 SPACE
-d,·,i,⅃,y
-THIN SPACE
+d,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -7326,8 +7301,7 @@ SPACE
 SPACE
 d,·,i,y,-,d,a,𝓂,n,i,y,·,‥,⅄,α,l
 SPACE
-d,·,i,y,-,h,⅃,w,·,α
-THIN SPACE
+d,·,i,y,-,h,⅃,w,·,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -7803,8 +7777,7 @@ y,w,o,m,i,(ti),y,n.
 SPACE
 y,:,τ,i,⅄,v
 SPACE
-l,:,v,w,·,$,·sh,‥,⅃,h,·
-THIN SPACE
+l,:,v,w,·,$,·sh,‥,⅃,h,·,THIN SPACE
 START b 
 |
 STOP b 
@@ -8459,8 +8432,7 @@ SPACE
 SPACE
 d,a,𝓂,n,i,y,·,‥,(ge),α,l
 SPACE
-$,·si,_,g,·,i,⅃,y,α
-THIN SPACE
+$,·si,_,g,·,i,⅃,y,α,THIN SPACE
 START b 
 |
 STOP b 
@@ -8555,8 +8527,7 @@ SPACE
 SPACE
 w,a,α,∵,r,:,α,∵,ƶ,h
 SPACE
-w,:,h,i,n,·,‥,⅃,h
-THIN SPACE
+w,:,h,i,n,·,‥,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -8623,8 +8594,7 @@ SPACE
 w,:,h,i,g,:,d,·,i,𝓂,y,l,.
 
 Daniel 8:5 in vtrad vtsef
-w,_,α,:_,n,i,⅃,y
-THIN SPACE
+w,_,α,:_,n,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -8691,8 +8661,7 @@ k,·,o,x,𝓂,w,o,.
 Daniel 8:7 in vtrad vtsef
 w,·,r,:,α,i,y,τ,i,(G),y,w
 SPACE
-m,_,g,·,i,⅃,y,ʕ,_
-THIN SPACE
+m,_,g,·,i,⅃,y,ʕ,_,THIN SPACE
 START b 
 |
 STOP b 
@@ -9596,8 +9565,7 @@ SPACE
 SPACE
 w,:,l,o,𝓂,α,-,x,i,l,·,i,(ge),y,n,w,·
 SPACE
-α,∵,τ,-,f,·,:,n,‥,⅃,y
-THIN SPACE
+α,∵,τ,-,f,·,:,n,‥,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -9644,8 +9612,7 @@ SPACE
 v,·,:,q,o,l,𝓂,w,o,.
 
 Daniel 9:15 in vtrad vtsef
-w,:,ʕ,_,τ,·,a,⅃,h
-THIN SPACE
+w,:,ʕ,_,τ,·,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -9714,8 +9681,7 @@ SPACE
 l,:,k,oa,l,-,σ,:,v,i,y,v,o,τ,‥,𝓂,y,n,w,·,.
 
 Daniel 9:17 in vtrad vtsef
-w,:,ʕ,_,τ,·,a,⅃,h
-THIN SPACE
+w,:,ʕ,_,τ,·,a,⅃,h,THIN SPACE
 START b 
 |
 STOP b 
@@ -9745,13 +9711,11 @@ SPACE
 Daniel 9:18 in vtrad vtsef
 h,_,θ,·,‥,(qa),h
 SPACE
-α,:∵,l,o,h,_,(me),y
-THIN SPACE
+α,:∵,l,o,h,_,(me),y,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-α,oa,z,:,n,:,k.,a,~
+THIN SPACE,α,oa,z,:,n,:,k.,a,~
 SPACE
 w,·,𝓂,$,·sh,:,m,a,ʕ,∴
 SPACE
@@ -9779,8 +9743,7 @@ $,·sh,i,m,:,k.,a,(ti)
 SPACE
 ʕ,a,l,∵,⅄,y,h,a
 SPACE
-k,·,i,⅃,y
-THIN SPACE
+k,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -9804,21 +9767,17 @@ SPACE
 h,a,r,_,v,·,i,𝓂,y,m.,.
 
 Daniel 9:19 in vtrad vtsef
-α,:_,d,o,n,a,<,y
-THIN SPACE
+α,:_,d,o,n,a,<,y,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-$,·sh,:,m,a,(p),ʕ,a,h,(p)
+THIN SPACE,$,·sh,:,m,a,(p),ʕ,a,h,(p)
 SPACE
-α,:_,d,o,n,a,⅃,y
-THIN SPACE
+α,:_,d,o,n,a,⅃,y,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-σ,:,l,a,ƶ,x,a,h
+THIN SPACE,σ,:,l,a,ƶ,x,a,h
 SPACE
 α,:_,d,o,n,a,⟓,y
 SPACE
@@ -9963,8 +9922,7 @@ $,·sh,i,v,:,ʕ,i,(ge),y,m.
 SPACE
 n,∵,x,:,τ,·,_,(me),k.,:
 SPACE
-ʕ,_,𝓂,l,-,ʕ,_,m,·,:,k.,a,⅃
-THIN SPACE
+ʕ,_,𝓂,l,-,ʕ,_,m,·,:,k.,a,⅃,THIN SPACE
 START b 
 |
 STOP b 
@@ -10118,8 +10076,7 @@ w,_,x,:_,ц,i,(qa),y
 SPACE
 h,_,$,·sh,·,a,v,(ge),w,·,ʕ,_
 SPACE
-y,_,$,·sh,:,v,·,i,⅃,y,τ
-THIN SPACE
+y,_,$,·sh,:,v,·,i,⅃,y,τ,THIN SPACE
 START b 
 |
 STOP b 
@@ -10503,8 +10460,7 @@ SPACE
 SPACE
 d,a,n,i,y,·,‥,α,l,∴
 SPACE
-k,·,i,⅃,y
-THIN SPACE
+k,·,i,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -10536,8 +10492,7 @@ SPACE
 v,·,i,d,:,v,a,r,∵,𝓂,y,k.,a,.
 
 Daniel 10:13 in vtrad vtsef
-w,:,$,·si,_,⅃,r
-THIN SPACE
+w,:,$,·si,_,⅃,r,THIN SPACE
 START b 
 |
 STOP b 
@@ -11185,8 +11140,7 @@ SPACE
 SPACE
 h,_,n,·,∵,⅄,g,∵,v
 SPACE
-w,·,v,:,n,‥,⅃,y
-THIN SPACE
+w,·,v,:,n,‥,⅃,y,THIN SPACE
 START b 
 |
 STOP b 
@@ -11262,13 +11216,11 @@ SPACE
 v,:,y,a,d,𝓂,w,o,.
 
 Daniel 11:17 in vtrad vtsef
-w,:,y,a,$,·si,‥,⅃,m.
-THIN SPACE
+w,:,y,a,$,·si,‥,⅃,m.,THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-f,·,a,⌕,n,a,⌕,y,w
+THIN SPACE,f,·,a,⌕,n,a,⌕,y,w
 SPACE
 l,a,v,(G),w,o,α
 SPACE
@@ -11312,8 +11264,7 @@ THIN SPACE
 START small 
 |
 STOP small 
-THIN SPACE
-f,·,a,n,a,⟓,y,w
+THIN SPACE,f,·,a,n,a,⟓,y,w
 SPACE
 l,:,α,i,y,·,i,(ti),y,m.
 SPACE
@@ -12182,8 +12133,7 @@ h,_,f,·,:,l,a,α,𝓂,w,o,τ,.
 Daniel 12:7 in vtrad vtsef
 w,a,α,∵,$,·sh,:,m,_,(G),ʕ
 SPACE
-α,∵,τ,-,h,a,α,i,⅃,y,$,·sh
-THIN SPACE
+α,∵,τ,-,h,a,α,i,⅃,y,$,·sh,THIN SPACE
 START b 
 |
 STOP b 
