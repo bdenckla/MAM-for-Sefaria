@@ -152,6 +152,8 @@ h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
 Esther 1:6 in vtrad vtsef
 START big 
+x,⅃
+STOP big 
 w,·,r
 THIN SPACE
 START b 
@@ -272,6 +274,18 @@ SPACE
 l,_,m,·,∵,(me),l,∵,k.,:
 SPACE
 α,:_,x,_,$,·sh,:,w,‥,r,𝓂,w,o,$,·sh,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Esther 1:10 in vtrad vtsef
 v,·,_,y,·,w,o,m.,(p)
@@ -468,10 +482,23 @@ SPACE
 v,·,:,y,_,(ti),d
 SPACE
 h,_,σ,·,a,r,i,y,σ,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Esther 1:16 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,m,w,m,k,n.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,m,:,m,w,·,k,a,◆,n.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,i,f,:,n,‥,<,y
 SPACE
@@ -698,6 +725,11 @@ SPACE
 k,·,i,l,:,$,·sh,(me),w,o,n.
 SPACE
 ʕ,_,m,·,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Esther 2:1 in vtrad vtsef
 α,_,x,_,r,(p)
@@ -818,6 +850,11 @@ SPACE
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 k,·,‥,𝓂,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Esther 2:5 in vtrad vtsef
 α,i,⅃,y,$,·sh
@@ -1026,6 +1063,18 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 l,o,α,-,τ,_,g,·,i,𝓂,y,d,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Esther 2:11 in vtrad vtsef
 w,·,v,:,k,oa,l,-,y,⅃,w,o,m.
@@ -1388,6 +1437,18 @@ SPACE
 v,:,α,oa,m,:,n,a,(ti),h
 SPACE
 α,i,τ,·,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Esther 2:21 in vtrad vtsef
 v,·,_,y,·,a,m,i,⅃,y,m.
@@ -1471,6 +1532,11 @@ SPACE
 l,i,f,:,n,‥,(me),y
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Esther 3:1 in vtrad vtsef
 α,_,x,_,⅃,r
@@ -1568,6 +1634,14 @@ h,_,m,·,∵,𝓂,l,∵,k.,:,.
 Esther 3:4 in vtrad vtsef
 w,_,y,:,h,i,◆,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,α,m,r,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,k,·,:,α,oa,m,:,r,a,<,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,‥,l,a,y,w,(p)
 SPACE
@@ -1709,6 +1783,18 @@ SPACE
 h,w,·,α,-,x,o,(me),d,∵,$,·sh
 SPACE
 α,:_,d,a,𝓂,r,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Esther 3:8 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -2011,6 +2097,18 @@ SPACE
 $,·sh,w,·,$,·sh,a,(ti),n.
 SPACE
 n,a,v,𝓂,w,o,k,a,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Esther 4:1 in vtrad vtsef
 w,·,m,oa,r,:,d,·,:a,k,_,◆,y
@@ -2106,6 +2204,14 @@ SPACE
 l,a,𝓂,r,_,v,·,i,𝓂,y,m.,.
 
 Esther 4:4 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,τ,v,w,α,y,n,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,_,⌕,τ,·,a,v,⌕,w,o,α,n,a,h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 n,_,ʕ,:_,r,(qa),w,o,τ
 SPACE
@@ -2218,6 +2324,14 @@ SPACE
 SPACE
 h,_,m,·,∵,⟓,l,∵,k.,:
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,y,h,w,d,y,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,v,·,_,y,·,:,h,w,·,d,i,(ti),y,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,:,α,_,v,·,:,d,a,𝓂,m.,.
 
@@ -2361,6 +2475,11 @@ SPACE
 d,·,i,v,:,r,‥,(me),y
 SPACE
 α,∵,σ,:,τ,·,‥,𝓂,r,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Esther 4:13 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
@@ -2496,6 +2615,18 @@ SPACE
 ʕ,a,l,a,(ti),y,w
 SPACE
 α,∵,σ,:,τ,·,‥,𝓂,r,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Esther 5:1 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
@@ -2590,6 +2721,18 @@ SPACE
 v,·,:,r,o,(me),α,$,·sh
 SPACE
 h,_,$,·sh,·,_,r,:,v,i,𝓂,y,θ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Esther 5:3 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -2946,6 +3089,18 @@ SPACE
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 h,a,ʕ,‥,𝓂,ц.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Esther 6:1 in vtrad vtsef
 v,·,_,l,·,_,⅃,y,:,l,a,h
@@ -3538,6 +3693,18 @@ SPACE
 v,·,:,n,‥,(me),z,∵,q
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Esther 7:5 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
@@ -3696,6 +3863,18 @@ SPACE
 h,a,m,a,(ti),n.
 SPACE
 x,a,f,𝓂,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Esther 7:9 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -3762,6 +3941,11 @@ SPACE
 h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
 $,·sh,a,k,a,𝓂,k,a,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Esther 8:1 in vtrad vtsef
 v,·,_,y,·,⅃,w,o,m.
@@ -3784,6 +3968,14 @@ h,a,m,a,(ti),n.
 SPACE
 ц,o,r,‥,⅃,r
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,y,h,w,d,y,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,_,y,·,:,h,w,·,d,i,⅄,y,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,·,m,oa,r,:,d,·,:a,k,_,◆,y
 SPACE
@@ -3827,6 +4019,18 @@ SPACE
 ʕ,_,l,-,v,·,‥,(me),y,τ
 SPACE
 h,a,m,a,𝓂,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Esther 8:3 in vtrad vtsef
 w,_,τ,·,⅃,w,o,σ,∵,f.
@@ -3969,6 +4173,18 @@ SPACE
 v,·,:,α,oa,v,:,d,_,(ti),n.
 SPACE
 m,w,o,l,_,d,:,τ,·,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Esther 8:7 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -4005,6 +4221,14 @@ SPACE
 SPACE
 y,a,d,(ti),w,o
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,y,h,w,d,y,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,v,·,_,y,·,:,h,w,·,d,i,𝓂,y,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 Esther 8:8 in vtrad vtsef
@@ -4241,7 +4465,23 @@ l,:,k,oa,l,-,h,a,ʕ,_,m,·,i,⅄,y,m.
 SPACE
 w,:,l,i,h,:,y,(qa),w,o,τ
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,y,h,w,d,y,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,_,y,·,:,h,w,·,d,i,<,y,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,ʕ,τ,w,d,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,ʕ,:_,τ,i,y,d,i,y,m.,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,_,y,·,⅃,w,o,m.
 SPACE
@@ -4277,6 +4517,18 @@ SPACE
 v,·,:,$,·sh,w,·,$,·sh,_,(me),n.
 SPACE
 h,_,v,·,i,y,r,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Esther 8:15 in vtrad vtsef
 w,·,m,oa,r,:,d,·,:a,k,_,(G),y
@@ -4562,6 +4814,8 @@ STOP small
 THIN SPACE
 f,·,_,r,:,$,·sh,_,n,:,d,·,a,⟓
 START small 
+τ,a
+STOP small 
 α
 w,:,α,‥,(me),τ
 THIN SPACE
@@ -4610,6 +4864,8 @@ STOP small
 THIN SPACE
 f,·,_,r,:,m,_,(p)
 START small 
+$,·sh,:
+STOP small 
 τ,·,a,α,(p)
 w,:,α,‥,⅃,τ
 THIN SPACE
@@ -4632,8 +4888,12 @@ START small
 STOP small 
 THIN SPACE
 START big 
+w,_
+STOP big 
 y,:
 START small 
+z,a,𝓂
+STOP small 
 τ,a,α,.
 
 Esther 9:10 in vtrad vtsef
@@ -4792,6 +5052,14 @@ SPACE
 Esther 9:15 in vtrad vtsef
 w,_,y,·,i,𝓂,q,·,a,h,:_,l,(G),w,·
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,y,h,w,d,y,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,_,y,·,:,h,w,·,d,i,⅃,y,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,:_,$,·sh,∵,r,-,v,·,:,$,·sh,w,·,$,·sh,a,◆,n.
 SPACE
@@ -4896,6 +5164,14 @@ SPACE
 w,:,$,·si,i,m,:,x,a,𝓂,h,.
 
 Esther 9:18 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,h,y,h,w,d,y,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,h,_,y,·,:,h,w,·,d,i,⅃,y,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,:_,$,·sh,∵,r,-,v,·,:,$,·sh,w,·,$,·sh,a,◆,n.
 SPACE
@@ -4936,6 +5212,14 @@ Esther 9:19 in vtrad vtsef
 SPACE
 h,_,y,·,:,h,w,·,d,i,⅃,y,m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,f,r,w,z,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,_,f,·,:,r,a,z,i,◆,y,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 h,_,y,·,o,$,·sh,:,v,i,y,m.,~
 SPACE
@@ -4972,6 +5256,18 @@ SPACE
 α,i,(me),y,$,·sh
 SPACE
 l,:,r,‥,ʕ,‥,𝓂,h,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Esther 9:20 in vtrad vtsef
 w,_,y,·,i,k,:,τ,·,o,⅃,v
@@ -5201,6 +5497,14 @@ SPACE
 Esther 9:27 in vtrad vtsef
 q,i,y,·,:,m,⅃,w,·
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,q,v,l,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,q,i,v,·,:,l,⅃,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 h,_,y,·,:,h,w,·,d,i,y,m.,(tq)
 THIN SPACE
@@ -5290,10 +5594,24 @@ SPACE
 l,o,α,-,y,a,σ,(me),w,·,f.
 SPACE
 m,i,z,·,_,r,:,ʕ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Esther 9:29 in vtrad vtsef
 w,_,⌕
 START big 
+τ,·,i
+STOP big 
 k,:,τ,·,o,⌕,v
 SPACE
 α,∵,σ,:,τ,·,‥,(qa),r
@@ -5400,12 +5718,32 @@ SPACE
 w,:,n,i,k,:,τ,·,a,(ti),v
 SPACE
 v,·,_,σ,·,‥,𝓂,f,∵,r,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Esther 10:1 in vtrad vtsef
 w,_,y,·,a,(tq),$,·si,∵,m.,(tq)
 SPACE
 h,_,m,·,∵,(qa),l,∵,k.,:
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,α,x,$,r,$,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,α,:_,x,_,$,·sh,:,w,‥,r,(da),w,o,$,·sh,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 THIN SPACE
 START small 
 |

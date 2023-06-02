@@ -219,6 +219,14 @@ l,:,v,‥,⅃,y,τ
 SPACE
 α,i,m,·,a,⅄,h,·
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,ʕ,$,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,_,⅃,ʕ,_,$,·si,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 y,:,h,o,w,a,<,h
 SPACE
@@ -625,6 +633,14 @@ $,·si,:,ʕ,o,r,i,𝓂,y,m.,.
 Ruth 2:1 in vtrad vtsef
 w,·,𝓂,l,:,n,oa,ʕ,:a,m,i,(G),y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,m,y,d,ʕ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,m,w,o,d,a,⅃,ʕ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,:,α,i,y,$,·sh,a,◆,h,·
 SPACE
@@ -1359,9 +1375,25 @@ w,a,σ,_,◆,k,:,τ,·,:
 SPACE
 w,:,$,·si,_,(da),m,:,τ,·,:
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,m,l,τ,k.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·si,i,m,:,l,o,τ,_,⟓,y,i,k.,:,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,a,l,_,(ti),y,i,k.,:
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,y,r,d,τ,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,y,a,r,_,⅃,d,:,τ,·,:,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 h,_,g,·,o,⅄,r,∵,n.
 SPACE
@@ -1396,6 +1428,14 @@ w,:,g,i,l,·,i,(me),y,τ
 SPACE
 m,_,r,:,g,·,:,l,o,τ,a,(ti),y,w
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,$,k,v,τ,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,$,·sh,a,k,a,⅄,v,:,τ,·,:,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,:,h,w,·,α,(p)
 SPACE
@@ -1594,6 +1634,8 @@ m,i,m,·,∵,𝓂,n,·,i,y,.
 Ruth 3:13 in vtrad vtsef
 l,i,⅃,y
 START big 
+n,i
+STOP big 
 y
 THIN SPACE
 START b 
@@ -1637,6 +1679,14 @@ SPACE
 SPACE
 w,_,τ,·,a,Ƶ,q,oa,m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,θ,r,w,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,v,·,:,θ,∵,⟓,r,∵,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 y,_,k,·,i,(me),y,r
 SPACE
@@ -1869,6 +1919,14 @@ h,_,g,·,i,⅃,y,d,a,h
 SPACE
 l,·,i,◆,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,α,d,ʕ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,α,‥,𝓂,d,:,ʕ,a,h,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 k,·,i,⅃,y
 SPACE
@@ -1909,6 +1967,14 @@ h,_,m,·,w,o,α,:_,v,i,y,·,a,<,h
 SPACE
 α,‥,𝓂,$,·sh,∵,τ,-,h,_,m,·,‥,τ,(p)
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,q,n,y,τ,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,q,a,n,i,ƶ,y,τ,a,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,:,h,a,q,i,(me),y,m.
 SPACE
@@ -1925,6 +1991,14 @@ l,o,<,α
 SPACE
 α,w,·,k,_,l,(p)
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,l,g,α,w,l,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,l,i,g,:,α,oa,l,-,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 l,i,ƶ,y
 SPACE
 f,·,∵,n.,-,α,_,$,·sh,:,x,i,(ti),y,τ
@@ -2271,6 +2345,11 @@ SPACE
 α,:_,v,i,(me),y
 SPACE
 d,a,w,i,𝓂,d,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Ruth 4:18 in vtrad vtsef
 w,:,α,‥,(p),l,·,∵,h,(p)

@@ -77,6 +77,11 @@ SPACE
 v,·,_,x,o,(me),d,∵,$,·sh
 SPACE
 h,_,𝓂,x,:_,m,i,y,$,·sh,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 1:4 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -90,6 +95,14 @@ l,‥,α,m,o,𝓂,r,.
 Jeremiah 1:5 in vtrad vtsef
 v,·,:,θ,∵,(qa),r,∵,m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,α,ц,w,r,k.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,α,∵,ц,·,oa,r,:,k.,a,<,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,_,v,·,∵,(p),θ,∵,n.,(p)
 SPACE
@@ -127,6 +140,18 @@ SPACE
 k,·,i,y,-,n,_,(ti),ʕ,_,r
 SPACE
 α,a,n,o,𝓂,k,i,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 1:7 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -223,6 +248,11 @@ SPACE
 l,i,v,:,n,(ti),w,o,τ
 SPACE
 w,:,l,i,n,:,θ,𝓂,w,o,ʕ,_,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 1:11 in vtrad vtsef
 w,_,y,:,h,i,<,y
@@ -267,6 +297,18 @@ SPACE
 ʕ,_,l,-,d,·,:,v,a,r,i,(ti),y
 SPACE
 l,_,ʕ,:_,$,·si,o,τ,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 1:13 in vtrad vtsef
 w,_,y,:,h,i,(qa),y
@@ -480,6 +522,11 @@ SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,(ti),h
 SPACE
 l,:,h,_,ц,·,i,y,l,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 2:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -553,6 +600,11 @@ SPACE
 α,:_,l,‥,y,h,∵,(ti),m.
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 2:4 in vtrad vtsef
 $,·sh,i,m,:,ʕ,(me),w,·
@@ -872,6 +924,14 @@ l,:,$,·sh,_,m,·,a,ƶ,h
 SPACE
 ʕ,a,r,a,(me),y,w
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,n,ц,τ,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,n,i,ц,·,:,τ,(ti),w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 m,i,v,·,:,l,i,(me),y
 SPACE
@@ -880,6 +940,14 @@ y,o,$,·sh,‥,𝓂,v,.
 Jeremiah 2:16 in vtrad vtsef
 g,·,_,m.,-,v,·,:,n,‥,y,-,n,o,(ti),f.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,τ,x,f,n,σ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,τ,_,x,:,f,·,_,n,:,x,‥,⅄,σ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 y,i,r,:,ʕ,(ti),w,·,k.,:
 SPACE
@@ -981,6 +1049,14 @@ w,_,τ,·,o,α,m,:,r,i,(ti),y
 SPACE
 l,o,⅃,α
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,α,ʕ,v,w,d,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,α,∵,ʕ,:∵,v,⅄,w,o,r,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 k,·,i,⅃,y
 SPACE
@@ -1098,6 +1174,14 @@ m,i,d,:,v,·,a,◆,r
 SPACE
 v,·,:,α,_,w,·,_,<,τ
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,n,f,$,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,n,_,f,:,$,·sh,a,h,·,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 $,·sh,a,α,:_,f,a,⅃,h
 SPACE
@@ -1126,6 +1210,14 @@ r,_,g,:,l,‥,k.,:,(p)
 SPACE
 m,i,y,·,a,x,‥,ƶ,f.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,g,w,r,n,k.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,·,g,:,r,w,o,n,‥,(ti),k.,:,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 m,i,ц,·,i,m,:,α,a,⅄,h
 SPACE
@@ -1183,6 +1275,14 @@ w,:,l,a,α,∵,(p),v,∵,n.,(p)
 SPACE
 α,_,⅃,τ,·,:
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,l,d,τ,n,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,:,l,i,d,:,τ,·,a,ƶ,n,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 k,·,i,𝓂,y,-,f,a,n,(me),w,·
 SPACE
@@ -1234,6 +1334,18 @@ SPACE
 α,:∵,l,o,h,∵,(ti),y,k.,a
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 2:29 in vtrad vtsef
 l,a,(me),m,·,a,h
@@ -1344,6 +1456,14 @@ g,·,_,⅃,m.
 SPACE
 α,∵,τ,-,h,a,r,a,ʕ,ƶ,w,o,τ
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,l,m,d,τ,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,l,i,m,·,_,(ti),d,:,τ,·,:,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,∵,τ,-,d,·,:,r,a,k,a,𝓂,y,i,k.,:,.
 
@@ -1501,6 +1621,14 @@ SPACE
 SPACE
 l,o,⅃,α
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,g,l,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,u,k,·,_,ƶ,v,:,τ,·,:,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,_,l,-,d,·,:,r,a,k,i,y,m.,(p)
 SPACE
@@ -1550,6 +1678,14 @@ h,:_,l,⅃,w,o,α
 SPACE
 m,‥,ʕ,_,ƶ,τ,·,a,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,q,r,α,τ,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,q,a,r,a,(me),α,τ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,i,(ti),y
 SPACE
@@ -1579,6 +1715,11 @@ SPACE
 h,a,r,a,ʕ,(ti),w,o,τ
 SPACE
 w,_,τ,·,w,·,k,a,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 3:6 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -1634,6 +1775,14 @@ SPACE
 SPACE
 w,:,l,o,α,-,$,·sh,a,⅄,v,a,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,τ,r,α,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,_,τ,·,‥,⟓,r,∵,α,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,·,a,g,w,o,d,a,(me),h
 SPACE
@@ -1719,6 +1868,18 @@ SPACE
 α,i,m.,-,v,·,:,$,·sh,∵,(ti),q,∵,r
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 3:11 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -1944,6 +2105,18 @@ SPACE
 l,i,v,·,a,(me),m.
 SPACE
 h,a,r,a,𝓂,ʕ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 3:18 in vtrad vtsef
 v,·,_,y,·,a,m,i,⅃,y,m.
@@ -2003,12 +2176,28 @@ w,a,α,o,m,_,◆,r
 SPACE
 α,a,v,i,y,(p)
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,τ,q,r,α,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,τ,·,i,q,:,r,:,α,i,y,-,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 l,i,ƶ,y
 SPACE
 w,·,m,‥,α,_,x,:_,r,_,(ti),y
 SPACE
 l,o,(me),α
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,τ,$,w,v,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,τ,a,$,·sh,𝓂,w,·,v,i,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 Jeremiah 3:20 in vtrad vtsef
@@ -2160,6 +2349,18 @@ SPACE
 y,:,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,‥,𝓂,y,n,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 4:1 in vtrad vtsef
 α,i,m.,-,τ,·,a,$,·sh,(qa),w,·,v
@@ -2206,6 +2407,18 @@ SPACE
 w,·,v,(me),w,o
 SPACE
 y,i,τ,:,h,_,l,·,a,𝓂,l,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 4:3 in vtrad vtsef
 k,·,i,y,-,k,o,⅃,h
@@ -2282,6 +2495,14 @@ h,_,$,·sh,:,m,i,ƶ,y,ʕ,w,·
 SPACE
 w,:,α,i,m,:,r,Ƶ,w,·
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,τ,q,ʕ,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,τ,·,i,q,:,ʕ,(me),w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 $,·sh,w,o,f,a,(ti),r
 SPACE
@@ -2375,6 +2596,11 @@ SPACE
 α,_,f.,-,y,:,h,o,w,a,(ti),h
 SPACE
 m,i,m,·,∵,𝓂,n,·,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 4:9 in vtrad vtsef
 w,:,h,a,y,a,<,h
@@ -2398,6 +2624,18 @@ SPACE
 w,:,h,_,n,·,:,v,i,α,i,(ti),y,m.
 SPACE
 y,i,τ,:,m,a,𝓂,h,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 4:10 in vtrad vtsef
 w,a,𝓂,α,o,m,_,(G),r
@@ -2627,6 +2865,11 @@ SPACE
 n,a,g,_,(ti),ʕ
 SPACE
 ʕ,_,d,-,l,i,v,·,‥,𝓂,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 4:19 in vtrad vtsef
 m,‥,ʕ,_,⅃,y
@@ -2641,6 +2884,14 @@ START small
 |
 STOP small 
 THIN SPACE
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,α,w,o,x,i,(ge),y,l,a,h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,α,x,w,l,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 q,i,y,r,(me),w,o,τ
 SPACE
@@ -2660,6 +2911,14 @@ q,<,w,o,l
 SPACE
 $,·sh,w,o,f,a,r,(p)
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,m,ʕ,τ,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,a,m,_,⅃,ʕ,_,τ,·,:,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 n,_,f,:,$,·sh,i,ƶ,y
 SPACE
@@ -2700,6 +2959,11 @@ SPACE
 q,(me),w,o,l
 SPACE
 $,·sh,w,o,f,a,𝓂,r,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 4:22 in vtrad vtsef
 k,·,i,⅃,y
@@ -2807,6 +3071,18 @@ SPACE
 x,:_,r,(me),w,o,n.
 SPACE
 α,_,f,·,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 4:27 in vtrad vtsef
 k,·,i,y,-,k,o,h,(p)
@@ -2886,6 +3162,14 @@ SPACE
 α,i,𝓂,y,$,·sh,.
 
 Jeremiah 4:30 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,α,τ,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,α,_,(qa),τ,·,:,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 $,·sh,a,d,(ge),w,·,d
 SPACE
@@ -2949,6 +3233,11 @@ SPACE
 n,_,f,:,$,·sh,i,(ti),y
 SPACE
 l,:,h,o,r,:,g,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 5:1 in vtrad vtsef
 $,·sh,w,o,θ,:,θ,(G),w,·
@@ -3133,6 +3422,14 @@ Jeremiah 5:7 in vtrad vtsef
 SPACE
 l,a,z,o,α,τ,(p)
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,α,σ,l,w,x,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,α,∵,𝓂,σ,:,l,_,𝓂,x,-,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 l,a,ƶ,k.,:
 SPACE
 v,·,a,n,_,⅃,y,i,k.,:
@@ -3192,6 +3489,18 @@ SPACE
 τ,i,τ,:,n,_,q,·,‥,(ti),m.
 SPACE
 n,_,f,:,$,·sh,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 5:10 in vtrad vtsef
 ʕ,:_,l,<,w,·
@@ -3276,6 +3585,18 @@ SPACE
 y,‥,ʕ,a,$,·si,∵,(ti),h
 SPACE
 l,a,h,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 5:14 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -3476,6 +3797,11 @@ SPACE
 l,o,(me),α
 SPACE
 l,a,k,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 5:20 in vtrad vtsef
 h,_,g,·,i,(me),y,d,w,·
@@ -3598,6 +3924,14 @@ h,_,n,·,o,τ,‥,◆,n.
 SPACE
 g,·,∵,⟓,$,·sh,∵,m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,y,r,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,w,o,r,∵,(me),h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,·,m,_,l,:,q,(ti),w,o,$,·sh
 SPACE
@@ -3713,6 +4047,18 @@ SPACE
 τ,i,τ,:,n,_,q,·,‥,(ti),m.
 SPACE
 n,_,f,:,$,·sh,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 5:30 in vtrad vtsef
 $,·sh,_,m,·,a,h,(p)
@@ -3856,6 +4202,11 @@ SPACE
 w,:,n,_,$,·sh,:,x,i,(ti),y,τ,a,h
 SPACE
 α,_,r,:,m,:,n,w,o,τ,∵,𝓂,y,h,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 6:6 in vtrad vtsef
 k,·,i,⅃,y
@@ -3893,6 +4244,14 @@ v,·,:,q,i,r,:,v,·,a,𝓂,h,·,.
 Jeremiah 6:7 in vtrad vtsef
 k,·,:,h,a,q,i,(me),y,r
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,w,r,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,v,·,_,(p),y,i,r,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 m,‥,y,m,∵,ƶ,y,h,a
 SPACE
@@ -3938,6 +4297,11 @@ SPACE
 l,(me),w,o,α
 SPACE
 n,w,o,$,·sh,a,𝓂,v,a,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 6:9 in vtrad vtsef
 k,·,o,<,h
@@ -4145,6 +4509,18 @@ SPACE
 α,a,m,_,(me),r
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 6:16 in vtrad vtsef
 k,·,o,⅃,h
@@ -4318,7 +4694,20 @@ $,·sh,a,k,‥,(me),n.
 SPACE
 w,:,r,‥,ʕ,(ti),w,o
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,α,v,d,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,α,a,v,a,𝓂,d,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 6:22 in vtrad vtsef
 k,·,o,(ye),h
@@ -4399,12 +4788,28 @@ k,·,_,y,·,𝓂,w,o,l,‥,d,a,𝓂,h,.
 
 Jeremiah 6:25 in vtrad vtsef
 α,_,l,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,τ,·,‥,𝓂,ц,:,α,w,·,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,τ,ц,α,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 h,_,$,·si,·,a,d,∵,ƶ,h
 SPACE
 w,·,v,_,d,·,∵,(ti),r,∵,k.,:
 SPACE
 α,_,l,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,τ,·,‥,l,‥,⅄,k,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,τ,l,k,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 k,·,i,(ye),y
 SPACE
@@ -4488,6 +4893,16 @@ n,a,x,_,⅃,r
 SPACE
 m,_,f,·,u,ƶ,x,_
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,m,α,$,τ,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,m,‥,α,‥,(ti),$,·sh
+SPACE
+τ,·,_,⅃,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,o,f,a,⅄,r,∵,τ
 SPACE
@@ -4517,6 +4932,11 @@ SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
 v,·,a,h,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 7:1 in vtrad vtsef
 h,_,d,·,a,v,a,r,(p)
@@ -4567,6 +4987,18 @@ SPACE
 l,:,h,i,𝓂,$,·sh,:,τ,·,_,x,:_,w,hhfv,(ti),τ
 SPACE
 l,_,y,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 7:3 in vtrad vtsef
 k,·,o,𝓂,h,-,α,a,m,_,(G),r
@@ -4932,6 +5364,11 @@ SPACE
 k,·,oa,l,-,z,∵,(me),r,_,ʕ
 SPACE
 α,∵,f,:,r,a,𝓂,y,i,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 7:16 in vtrad vtsef
 w,:,α,_,τ,·,a,(G),h
@@ -5081,6 +5518,11 @@ SPACE
 w,:,l,o,(me),α
 SPACE
 τ,i,k,:,v,·,∵,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 7:21 in vtrad vtsef
 k,·,o,(me),h
@@ -5118,6 +5560,14 @@ SPACE
 SPACE
 v,·,:,y,⟓,w,o,m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,w,ц,y,α,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,w,o,ц,i,y,α,i,(me),y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,w,o,τ,a,(ti),m.
 SPACE
@@ -5312,6 +5762,18 @@ SPACE
 w,:,n,i,k,:,r,:,τ,a,(ti),h
 SPACE
 m,i,f,·,i,y,h,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 7:29 in vtrad vtsef
 g,·,oa,z,·,i,<,y
@@ -5393,6 +5855,11 @@ SPACE
 ʕ,a,l,:,τ,a,(ti),h
 SPACE
 ʕ,_,l,-,l,i,v,·,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 7:32 in vtrad vtsef
 l,a,k,‥,(G),n.
@@ -5496,6 +5963,14 @@ h,_,h,i,⅃,y,α
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,μ,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,y,ц,y,α,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,w,o,ц,i,⅃,y,α,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,∵,τ,-,ʕ,_,ц,:,m,⅃,w,o,τ
 SPACE
@@ -5616,6 +6091,18 @@ SPACE
 y,:,h,o,w,a,(me),h
 SPACE
 ц,:,v,a,α,𝓂,w,o,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 8:4 in vtrad vtsef
 w,:,α,a,m,_,r,:,τ,·,a,⅃
@@ -5690,6 +6177,14 @@ k,·,u,l,·,o,◆,h
 SPACE
 $,·sh,a,(ye),v
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,m,r,ц,w,τ,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,v,·,i,m,:,r,⅃,w,·,ц,a,τ,a,ƶ,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 k,·,:,σ,(me),w,·,σ
 SPACE
@@ -5708,6 +6203,14 @@ m,w,o,ʕ,:_,d,∵,ƶ,y,h,a
 SPACE
 w,:,τ,o,<,r
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,σ,w,σ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,σ,i,y,σ,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,:,ʕ,a,g,ƶ,w,·,r
 SPACE
@@ -5871,6 +6374,11 @@ SPACE
 α,a,m,_,(me),r
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 8:13 in vtrad vtsef
 α,a,σ,o,(me),f.
@@ -5985,6 +6493,11 @@ SPACE
 w,:,y,o,(me),$,·sh,:,v,‥,y
 SPACE
 v,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 8:17 in vtrad vtsef
 k,·,i,y,(tq)
@@ -6010,6 +6523,18 @@ SPACE
 α,∵,τ,:,k,∵,(ti),m.
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 8:18 in vtrad vtsef
 m,_,v,:,l,i,(me),y,g,i,y,τ,i,(ti),y
@@ -6109,6 +6634,18 @@ SPACE
 α,:_,r,u,k,_,(ti),τ
 SPACE
 v,·,_,τ,-,ʕ,_,m,·,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 8:23 in vtrad vtsef
 m,i,𝓂,y,-,y,i,τ,·,‥,<,n.
@@ -6134,6 +6671,18 @@ SPACE
 x,_,𝓂,l,:,l,‥,(me),y
 SPACE
 v,_,τ,-,ʕ,_,m,·,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 9:1 in vtrad vtsef
 m,i,𝓂,y,-,y,i,τ,·,:,n,‥,⅃,n,i,y
@@ -6259,6 +6808,18 @@ SPACE
 d,_,ʕ,_,τ,-,α,w,o,τ,i,(ti),y
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 9:6 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -6288,6 +6849,14 @@ v,·,_,τ,-,ʕ,_,m,·,i,𝓂,y,.
 Jeremiah 9:7 in vtrad vtsef
 x,‥,(me),ц.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,w,x,θ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,a,x,⟓,w,·,θ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,:,$,·sh,w,o,n,a,(ti),m.
 SPACE
@@ -6327,6 +6896,18 @@ SPACE
 τ,i,τ,:,n,_,q,·,‥,(ti),m.
 SPACE
 n,_,f,:,$,·sh,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 9:9 in vtrad vtsef
 ʕ,_,l,-,h,∵,(qa),h,a,r,i,(ge),y,m.
@@ -6391,6 +6972,18 @@ SPACE
 m,i,v,·,:,l,i,(me),y
 SPACE
 y,w,o,$,·sh,‥,𝓂,v,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 9:11 in vtrad vtsef
 m,i,𝓂,y,-,h,a,α,i,<,y,$,·sh
@@ -6424,6 +7017,18 @@ SPACE
 m,i,v,·,:,l,i,(me),y
 SPACE
 ʕ,o,v,‥,𝓂,r,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 9:12 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -6466,6 +7071,11 @@ SPACE
 l,i,m,·,:,d,(ti),w,·,m.
 SPACE
 α,:_,v,w,o,τ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 9:14 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -6520,6 +7130,11 @@ SPACE
 k,·,_,l,·,w,o,τ,i,(ti),y
 SPACE
 α,w,o,τ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 9:16 in vtrad vtsef
 k,·,o,<,h
@@ -6591,6 +7206,18 @@ SPACE
 h,i,$,·sh,:,l,i,(ti),y,k,w,·
 SPACE
 m,i,$,·sh,:,k,·,:,n,w,o,τ,‥,𝓂,y,n,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 9:19 in vtrad vtsef
 k,·,i,𝓂,y,-,$,·sh,:,m,_,<,ʕ,:,n,a,h
@@ -6666,6 +7293,18 @@ SPACE
 w,:,α,‥,(me),y,n.
 SPACE
 m,:,α,_,σ,·,‥,𝓂,f.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 9:22 in vtrad vtsef
 k,·,o,⅃,h
@@ -6732,6 +7371,18 @@ SPACE
 x,a,f,_,(ti),ц,:,τ,·,i,y
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 9:24 in vtrad vtsef
 h,i,n,·,‥,⟓,h
@@ -6782,6 +7433,11 @@ SPACE
 y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 ʕ,_,r,:,l,‥,y,-,l,‥,𝓂,v,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 10:1 in vtrad vtsef
 $,·sh,i,m,:,ʕ,⅃,w,·
@@ -6901,6 +7557,11 @@ SPACE
 α,‥,(me),y,n.
 SPACE
 α,w,o,τ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 10:6 in vtrad vtsef
 m,‥,α,‥,(me),y,n.
@@ -7022,6 +7683,11 @@ SPACE
 g,w,o,y,i,(ti),m.
 SPACE
 z,_,ʕ,:,m,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 10:11 in vtrad vtsef
 k,·,i,d,:,n,a,h,(p)
@@ -7049,6 +7715,18 @@ SPACE
 $,·sh,:,m,_,y,·,a,(ti),α
 SPACE
 α,‥,𝓂,l,·,∵,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 10:12 in vtrad vtsef
 ʕ,o,$,·si,‥,(me),h
@@ -7086,6 +7764,14 @@ n,:,$,·si,i,α,i,(ti),y,m.
 SPACE
 m,i,q,:,ц,‥,⅃,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,α,r,ц.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,a,α,a,⅄,r,∵,ц.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,·,:,r,a,q,i,<,y,m.
 SPACE
@@ -7161,6 +7847,18 @@ SPACE
 ц,:,v,a,α,(ti),w,o,τ
 SPACE
 $,·sh,:,m,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 10:17 in vtrad vtsef
 α,i,σ,:,f,·,i,(me),y
@@ -7169,8 +7867,28 @@ m,‥,α,∵,(ti),r,∵,ц.
 SPACE
 k,·,i,n,:,ʕ,a,τ,‥,⅄,k.,:
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,$,v,τ,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,o,$,·sh,∵,(ti),v,∵,τ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,·,_,m,·,a,ц,𝓂,w,o,r,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 10:18 in vtrad vtsef
 k,·,i,y,-,k,o,h,(p)
@@ -7198,6 +7916,18 @@ SPACE
 l,:,m,_,(me),ʕ,_,n.
 SPACE
 y,i,m,:,ц,a,𝓂,α,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 10:19 in vtrad vtsef
 α,(me),w,o,y
@@ -7269,6 +7999,11 @@ SPACE
 w,:,k,oa,l,-,m,_,r,:,ʕ,i,y,τ,a,(ti),m.
 SPACE
 n,a,f,𝓂,w,o,ц,a,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 10:22 in vtrad vtsef
 q,<,w,o,l
@@ -7298,6 +8033,18 @@ SPACE
 m,:,ʕ,(me),w,o,n.
 SPACE
 τ,·,_,n,·,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 10:23 in vtrad vtsef
 y,a,d,_,⅃,ʕ,:,τ,·,i,y
@@ -7365,6 +8112,11 @@ SPACE
 w,:,α,∵,τ,-,n,a,w,‥,(ti),h,w,·
 SPACE
 h,‥,$,·sh,_,𝓂,m,·,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 11:1 in vtrad vtsef
 h,_,d,·,a,v,a,r,(p)
@@ -7514,6 +8266,11 @@ START small
 STOP small 
 THIN SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 11:6 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -7617,6 +8374,18 @@ SPACE
 w,:,l,o,(me),α
 SPACE
 ʕ,a,$,·si,𝓂,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 11:9 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
@@ -7679,6 +8448,18 @@ SPACE
 k,·,a,r,_,(ti),τ,·,i,y
 SPACE
 α,∵,τ,-,α,:_,v,w,o,τ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 11:11 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -7778,6 +8559,18 @@ SPACE
 l,:,q,_,θ,·,‥,(me),r
 SPACE
 l,_,v,·,a,𝓂,ʕ,_,l,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 11:14 in vtrad vtsef
 w,:,α,_,τ,·,a,◆,h
@@ -7815,6 +8608,18 @@ SPACE
 v,·,:,ʕ,_,(me),d
 SPACE
 r,a,ʕ,a,τ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 11:15 in vtrad vtsef
 m,∵,⅃,h
@@ -7914,6 +8719,11 @@ SPACE
 l,:,q,_,θ,·,‥,(me),r
 SPACE
 l,_,v,·,a,𝓂,ʕ,_,l,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 11:18 in vtrad vtsef
 w,_,y,h,o,w,a,(me),h
@@ -7997,6 +8807,18 @@ SPACE
 g,·,i,l,·,i,(me),y,τ,i,y
 SPACE
 α,∵,τ,-,r,i,y,v,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 11:21 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -8028,6 +8850,11 @@ SPACE
 τ,a,m,(ti),w,·,τ
 SPACE
 v,·,:,y,a,d,‥,𝓂,n,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 11:22 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -8080,6 +8907,18 @@ SPACE
 $,·sh,:,n,_,(me),τ
 SPACE
 f,·,:,q,u,d,·,a,τ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 12:1 in vtrad vtsef
 ц,_,d,·,i,<,y,q
@@ -8163,6 +9002,11 @@ SPACE
 l,:,y,(me),w,o,m.
 SPACE
 h,:_,r,‥,g,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 12:4 in vtrad vtsef
 ʕ,_,d,-,m,a,τ,_,y,(p)
@@ -8262,6 +9106,18 @@ SPACE
 α,‥,l,∵,(ti),y,k.,a
 SPACE
 θ,w,o,v,𝓂,w,o,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 12:7 in vtrad vtsef
 ʕ,a,z,_,(p),v,:,τ,·,i,y,(p)
@@ -8404,6 +9260,18 @@ SPACE
 $,·sh,a,l,(ti),w,o,m.
 SPACE
 l,:,k,oa,l,-,v,·,a,$,·si,a,𝓂,r,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 12:13 in vtrad vtsef
 z,a,r,:,ʕ,<,w,·
@@ -8427,6 +9295,11 @@ SPACE
 m,‥,x,:_,r,(ti),w,o,n.
 SPACE
 α,_,f.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 12:14 in vtrad vtsef
 k,·,o,⅃,h
@@ -8543,6 +9416,18 @@ SPACE
 w,:,α,_,v,·,‥,(ti),d
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 13:1 in vtrad vtsef
 k,·,o,h,-,α,a,m,_,(qa),r
@@ -8583,6 +9468,11 @@ SPACE
 w,a,α,a,$,·si,i,(ti),m.
 SPACE
 ʕ,_,l,-,m,oa,τ,:,n,a,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 13:3 in vtrad vtsef
 w,_,y,:,h,i,(da),y
@@ -8698,6 +9588,11 @@ SPACE
 y,i,ц,:,l,_,(ti),x
 SPACE
 l,_,k,·,o,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 13:8 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -8777,6 +9672,18 @@ SPACE
 l,o,𝓂,α,-,y,i,ц,:,l,_,(ti),x
 SPACE
 l,_,k,·,o,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 13:11 in vtrad vtsef
 k,·,i,μ,y
@@ -8981,6 +9888,14 @@ w,:,$,·si,a,m,a,⅃,h,·
 SPACE
 l,:,ц,_,l,:,m,a,ƶ,w,∵,τ
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,$,y,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,$,·sh,i,(ti),y,τ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,_,ʕ,:_,r,a,f,∵,𝓂,l,.
 
@@ -9016,6 +9931,18 @@ SPACE
 ʕ,‥,(me),d,∵,r
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 13:18 in vtrad vtsef
 α,:∵,m,o,(me),r
@@ -9058,11 +9985,39 @@ SPACE
 h,oa,g,:,l,a,(me),τ
 SPACE
 $,·sh,:,l,w,o,m,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 13:20 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,α,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·si,:,α,<,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,‥,𝓂,y,n,‥,y,k,∵,m.,(p)
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,r,α,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,·,r,:,α,ƶ,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 h,_,v,·,a,α,i,(ti),y,m.
 SPACE
@@ -9230,6 +10185,18 @@ SPACE
 m,a,τ,_,(ti),y
 SPACE
 ʕ,o,𝓂,d,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 14:1 in vtrad vtsef
 α,:_,$,·sh,∵,(qa),r
@@ -9259,6 +10226,8 @@ l,a,α,a,⅄,r,∵,ц.
 SPACE
 w,:
 START small 
+ц,i
+STOP small 
 w,:,x,_,(me),τ
 SPACE
 y,:,r,𝓂,w,·,$,·sh,a,l,_,(ti),CGJ,i,m.
@@ -9270,6 +10239,14 @@ w,:,α,_,d,·,i,⅃,r,‥,y,h,∵,ƶ,m.
 SPACE
 $,·sh,a,l,:,x,(me),w,·
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,ц,ʕ,w,r,y,h,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,ц,:,ʕ,i,𝓂,y,r,‥,y,h,∵,(ti),m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,_,m,·,a,⅄,y,i,m.
 SPACE
@@ -9432,6 +10409,18 @@ SPACE
 n,i,q,:,r,a,(ti),α
 SPACE
 α,_,l,-,τ,·,_,n,·,i,x,‥,𝓂,n,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 14:10 in vtrad vtsef
 k,·,o,h,-,α,a,m,_,(qa),r
@@ -9469,6 +10458,11 @@ SPACE
 w,:,y,i,f,:,q,o,(ti),d
 SPACE
 x,_,θ,·,o,α,τ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 14:11 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
@@ -9521,6 +10515,18 @@ SPACE
 m,:,k,_,l,·,∵,(me),h
 SPACE
 α,w,o,τ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 14:13 in vtrad vtsef
 w,a,α,o,m,_,(G),r
@@ -9564,6 +10570,18 @@ SPACE
 v,·,_,m,·,a,q,(ti),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 14:14 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -9600,6 +10618,18 @@ $,·sh,∵,(ge),q,∵,r
 SPACE
 w,:,q,∵,<,σ,∵,m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,α,l,w,l
+SPACE
+w,τ,r,m,w,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,∵,α,:∵,l,i,y,l,(p)
+SPACE
+w,:,τ,_,r,:,m,i,⅃,y,τ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,i,v,·,a,ƶ,m.
 SPACE
@@ -9608,6 +10638,18 @@ SPACE
 m,i,𝓂,τ,:,n,_,v,·,:,α,i,(me),y,m.
 SPACE
 l,a,k,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 14:15 in vtrad vtsef
 l,a,k,‥,(G),n.
@@ -9770,6 +10812,18 @@ SPACE
 w,:,l,o,(me),α
 SPACE
 y,a,d,a,𝓂,ʕ,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 14:19 in vtrad vtsef
 h,:_,m,a,α,o,(qa),σ
@@ -9878,6 +10932,11 @@ SPACE
 ʕ,a,$,·si,i,(ti),y,τ,a
 SPACE
 α,∵,τ,-,k,·,oa,l,-,α,‥,𝓂,l,·,∵,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 15:1 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -9985,6 +11044,14 @@ w,·,l,:,h,_,$,·sh,:,x,i,𝓂,y,τ,.
 Jeremiah 15:4 in vtrad vtsef
 w,·,n,:,τ,_,τ,·,i,⅃,y,m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,l,z,w,ʕ,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,l,:,z,_,ʕ,:_,w,a,ƶ,h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,:,k,o,(ti),l
 SPACE
@@ -10080,6 +11147,9 @@ l,w,o,α,-,$,·sh,a,𝓂,v,w,·,.
 Jeremiah 15:8 in vtrad vtsef
 ʕ,a,𝓂,ц,:,m,w,·,-,l,i,<,y
 SPACE
+START span class=mam-kq-trivial
+α,_,l,:,m,:,n,w,o,τ,a,w,(p)
+STOP span class=mam-kq-trivial
 SPACE
 m,‥,x,⅃,w,o,l
 SPACE
@@ -10118,6 +11188,14 @@ n,a,f,:,x,a,(me),h
 SPACE
 n,_,f,:,$,·sh,a,⟓,h,·
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,α,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,v,·,a,(me),α,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 $,·sh,i,m,:,$,·sh,a,⟓,h,·
 SPACE
@@ -10140,6 +11218,18 @@ SPACE
 α,o,y,:,v,‥,y,h,∵,(ti),m.
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 15:10 in vtrad vtsef
 α,𝓂,w,o,y,-,l,i,⅃,y
@@ -10167,6 +11257,18 @@ SPACE
 k,·,u,l,·,o,(me),h
 SPACE
 m,:,q,_,𝓂,l,:,l,_,𝓂,w,:,n,i,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 15:11 in vtrad vtsef
 α,a,m,_,⅃,r
@@ -10175,6 +11277,14 @@ y,:,h,o,w,a,ƶ,h
 SPACE
 α,i,m.,-,l,o,(me),α
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,r,w,τ,k.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,‥,r,i,y,τ,i,(ti),y,k.,a,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,:,θ,⅄,w,o,v
 SPACE
@@ -10250,6 +11360,18 @@ SPACE
 ʕ,:_,l,‥,y,k,∵,(me),m.
 SPACE
 τ,·,w,·,q,a,𝓂,d,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 15:15 in vtrad vtsef
 α,_,τ,·,a,(da),h
@@ -10291,6 +11413,14 @@ w,a,α,o,⅃,k,:,l,‥,ƶ,m.
 SPACE
 w,_,y,:,h,i,<,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,d,v,r,y,k.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,d,:,v,a,𝓂,r,:,k.,a,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,i,ƶ,y
 SPACE
@@ -10311,6 +11441,18 @@ SPACE
 α,:∵,l,o,h,‥,(me),y
 SPACE
 ц,:,v,a,α,𝓂,w,o,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 15:17 in vtrad vtsef
 l,o,α,-,y,a,$,·sh,_,(me),v,:,τ,·,i,y
@@ -10363,6 +11505,18 @@ SPACE
 l,o,(me),α
 SPACE
 n,∵,α,:∵,m,a,𝓂,n,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 15:19 in vtrad vtsef
 l,a,k,‥,(G),n.
@@ -10444,6 +11598,18 @@ SPACE
 m,i,k,·,_,(me),f.
 SPACE
 ʕ,a,r,i,ц,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 16:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -10472,6 +11638,18 @@ SPACE
 v,·,_,m,·,a,q,(ti),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 16:3 in vtrad vtsef
 k,·,i,y,-,k,o,⅃,h
@@ -10552,6 +11730,18 @@ SPACE
 w,·,l,:,v,∵,h,:∵,m,_,(me),τ
 SPACE
 h,a,α,a,𝓂,r,∵,ц.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 16:5 in vtrad vtsef
 k,·,i,y,-,k,o,⅃,h
@@ -10658,6 +11848,11 @@ SPACE
 l,∵,α,:∵,k,o,(ti),l
 SPACE
 w,:,l,i,$,·sh,:,τ,·,𝓂,w,o,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 16:9 in vtrad vtsef
 k,·,i,y,(tq)
@@ -10861,6 +12056,11 @@ SPACE
 l,a,k,∵,(ti),m.
 SPACE
 x,:_,n,i,y,n,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 16:14 in vtrad vtsef
 l,a,k,‥,⟓,n.
@@ -10925,12 +12125,25 @@ SPACE
 n,a,τ,_,(ti),τ,·,i,y
 SPACE
 l,_,α,:_,v,w,o,τ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 16:16 in vtrad vtsef
 h,i,n,:,n,i,(qa),y
 SPACE
 $,·sh,o,l,‥,(ge),x,_
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,l,d,w,g,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,l,:,d,_,y,·,a,g,i,(me),y,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 r,_,v,·,i,⟓,y,m.
 SPACE
@@ -11007,6 +12220,11 @@ SPACE
 m,a,l,:,α,(ti),w,·
 SPACE
 α,∵,τ,-,n,_,x,:_,l,a,τ,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 16:19 in vtrad vtsef
 y,:,h,o,w,a,(G),h
@@ -11078,6 +12296,18 @@ SPACE
 k,·,i,𝓂,y,-,$,·sh,:,m,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 17:1 in vtrad vtsef
 x,_,θ,·,_,⅃,α,τ
@@ -11174,6 +12404,18 @@ SPACE
 ʕ,_,d,-,ʕ,w,o,l,a,(me),m.
 SPACE
 τ,·,w,·,q,a,𝓂,d,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 17:5 in vtrad vtsef
 k,·,o,⅃,h
@@ -11236,6 +12478,18 @@ SPACE
 w,:,l,o,(me),α
 SPACE
 τ,‥,$,·sh,‥,𝓂,v,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 17:7 in vtrad vtsef
 v,·,a,r,⅃,w,·,k.,:
@@ -11275,6 +12529,14 @@ $,·sh,oa,r,a,$,·sh,a,ƶ,y,w
 SPACE
 w,:,l,o,<,α
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,r,α,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,i,r,:,α,∵,h,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 k,·,i,y,-,y,a,⅃,v,o,α
 SPACE
@@ -11339,6 +12601,18 @@ SPACE
 k,·,i,f,:,r,i,(ti),y
 SPACE
 m,_,ʕ,:_,l,a,l,a,𝓂,y,w,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 17:11 in vtrad vtsef
 q,o,r,‥,<,α
@@ -11393,6 +12667,14 @@ k,·,oa,l,-,ʕ,o,z,:,v,∵,(ti),y,k.,a
 SPACE
 y,‥,v,o,⅄,$,·sh,w,·
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,σ,w,r,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,σ,w,·,r,_,y,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,·,a,α,a,⅃,r,∵,ц.
 SPACE
@@ -11407,6 +12689,11 @@ SPACE
 m,_,𝓂,y,i,m.,-,x,_,y,·,i,(ti),y,m.
 SPACE
 α,∵,τ,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 17:14 in vtrad vtsef
 r,:,f,a,α,‥,<,n,i,y
@@ -11516,6 +12803,18 @@ SPACE
 $,·sh,i,v,·,a,r,(ti),w,o,n.
 SPACE
 $,·sh,oa,v,:,r,‥,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 17:19 in vtrad vtsef
 k,·,o,h,-,α,a,m,_,(qa),r
@@ -11531,6 +12830,14 @@ SPACE
 v,·,:,$,·sh,_,⅃,ʕ,_,r
 SPACE
 v,·,:,n,‥,𝓂,y,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,a,ʕ,a,ƶ,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,ʕ,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 α,:_,$,·sh,∵,(qa),r
 SPACE
@@ -11652,6 +12959,14 @@ SPACE
 SPACE
 l,:,v,i,l,:,τ,·,i,⅃,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,w,m,ʕ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,:,m,ƶ,w,o,ʕ,_,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,·,l,:,v,i,l,:,τ,·,i,(ti),y
 SPACE
@@ -11699,6 +13014,9 @@ SPACE
 l,:,v,i,l,:,τ,·,i,(me),y
 SPACE
 ʕ,:_,$,·si,𝓂,w,o,τ,-
+START span class=mam-kq-trivial
+v,·,o,(ti),h
+STOP span class=mam-kq-trivial
 SPACE
 k,·,oa,l,-,m,:,l,a,α,k,a,𝓂,h,.
 
@@ -11838,6 +13156,11 @@ SPACE
 w,:,l,o,(me),α
 SPACE
 τ,i,k,:,v,·,∵,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 18:1 in vtrad vtsef
 h,_,d,·,a,v,a,r,(p)
@@ -11876,6 +13199,14 @@ v,·,‥,⅃,y,τ
 SPACE
 h,_,y,·,w,o,ц,‥,⅄,r
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,h,n,h,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,h,i,n,·,‥,h,-,h,⟓,w,·,α,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,o,$,·si,∵,(me),h
 SPACE
@@ -11917,6 +13248,18 @@ SPACE
 h,_,y,·,w,o,ц,‥,(ti),r
 SPACE
 l,_,ʕ,:_,$,·si,𝓂,w,o,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 18:5 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -11959,6 +13302,18 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 18:7 in vtrad vtsef
 r,∵,⅃,g,_,ʕ
@@ -12001,6 +13356,18 @@ SPACE
 l,_,ʕ,:_,$,·si,(me),w,o,τ
 SPACE
 l,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 18:9 in vtrad vtsef
 w,:,r,∵,⅃,g,_,ʕ
@@ -12018,6 +13385,14 @@ w,:,l,i,n,:,θ,𝓂,w,o,ʕ,_,.
 Jeremiah 18:10 in vtrad vtsef
 w,:,ʕ,a,$,·si,a,<,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,r,ʕ,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,a,r,_,ʕ,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,·,:,ʕ,‥,y,n,_,ƶ,y
 SPACE
@@ -12038,6 +13413,18 @@ SPACE
 l,:,h,‥,y,θ,i,(me),y,v
 SPACE
 α,w,o,τ,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 18:11 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,μ,h
@@ -12108,6 +13495,11 @@ SPACE
 l,i,v,·,𝓂,w,o,-,h,a,r,a,(ti),ʕ
 SPACE
 n,_,ʕ,:_,$,·si,∵,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 18:13 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -12193,6 +13585,14 @@ SPACE
 SPACE
 l,:,$,·sh,_,m,·,a,(ti),h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,r,w,q,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,:,r,i,y,q,⅃,w,o,τ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,w,o,l,a,⅄,m.
 SPACE
@@ -12226,6 +13626,18 @@ SPACE
 v,·,:,y,(me),w,o,m.
 SPACE
 α,‥,y,d,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 18:18 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,◆,w,·
@@ -12364,6 +13776,14 @@ f,·,i,τ,:,α,o,⅄,m.
 SPACE
 k,·,i,𝓂,y,-,k,a,r,<,w,·
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,y,x,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,w,·,x,a,h,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,:,l,oa,k,:,d,‥,ƶ,n,i,y
 SPACE
@@ -12396,6 +13816,14 @@ m,i,l,·,:,f,a,n,∵,⅃,y,k.,a
 SPACE
 α,_,l,-,τ,·,∵,⅄,m,:,x,i,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,h,y,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,y,i,h,:,y,<,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 m,u,k,:,$,·sh,a,l,i,y,m.,(p)
 SPACE
@@ -12408,6 +13836,18 @@ SPACE
 ʕ,:_,$,·si,‥,(me),h
 SPACE
 v,a,h,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 19:1 in vtrad vtsef
 k,·,o,(ye),h
@@ -12447,6 +13887,14 @@ f,·,∵,(ti),τ,_,x
 SPACE
 $,·sh,_,⅃,ʕ,_,r
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,x,r,σ,w,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,_,x,_,r,:,σ,i,⅄,y,τ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,:,q,a,r,a,⅃,α,τ,a
 SPACE
@@ -12576,6 +14024,11 @@ SPACE
 ʕ,a,l,:,τ,a,(ti),h
 SPACE
 ʕ,_,l,-,l,i,v,·,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 19:6 in vtrad vtsef
 l,a,k,‥,(G),n.
@@ -12832,6 +14285,11 @@ SPACE
 l,‥,α,l,o,h,i,(me),y,m.
 SPACE
 α,:_,x,‥,r,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 19:14 in vtrad vtsef
 w,_,y,·,a,v,o,<,α
@@ -12859,6 +14317,18 @@ SPACE
 w,_,y,·,o,(ti),α,m,∵,r
 SPACE
 α,∵,l,-,k,·,oa,l,-,h,a,ʕ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 19:15 in vtrad vtsef
 k,·,o,h,-,α,a,m,_,(G),r
@@ -12993,6 +14463,18 @@ SPACE
 α,i,m.,-,m,a,g,(me),w,o,r
 SPACE
 m,i,σ,·,a,v,i,𝓂,y,v,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 20:4 in vtrad vtsef
 k,·,i,⅃,y
@@ -13110,6 +14592,11 @@ SPACE
 l,a,h,∵,(ti),m.
 SPACE
 v,·,_,$,·sh,·,a,𝓂,q,∵,r,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 20:7 in vtrad vtsef
 f,·,i,τ,·,i,y,τ,_,<,n,i,y
@@ -13294,6 +14781,18 @@ SPACE
 g,·,i,l,·,i,(me),y,τ,i,y
 SPACE
 α,∵,τ,-,r,i,y,v,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 20:13 in vtrad vtsef
 $,·sh,i,(ye),y,r,w,·
@@ -13315,6 +14814,18 @@ SPACE
 m,i,y,·,_,(me),d
 SPACE
 m,:,r,‥,ʕ,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 20:14 in vtrad vtsef
 α,a,r,⅃,w,·,r
@@ -13428,6 +14939,11 @@ SPACE
 v,·,:,v,o,(ti),$,·sh,∵,τ
 SPACE
 y,a,m,a,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 21:1 in vtrad vtsef
 h,_,d,·,a,v,a,⟓,r
@@ -13503,6 +15019,18 @@ SPACE
 τ,o,𝓂,α,m,:,r,u,(ti),n.
 SPACE
 α,∵,l,-,ц,i,d,:,q,i,y,·,a,𝓂,h,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 21:4 in vtrad vtsef
 k,·,o,h,-,α,a,m,_,(qa),r
@@ -13718,6 +15246,14 @@ h,_,ц,·,a,r,i,<,y,m.
 SPACE
 ʕ,:_,l,‥,y,k,∵,m.,(p)
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,x,y,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,x,a,y,a,ƶ,h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,:,h,a,y,:,τ,a,h,-,l,·,(me),w,o
 SPACE
@@ -13753,6 +15289,18 @@ SPACE
 w,·,$,·si,:,r,a,f,a,(ti),h,·
 SPACE
 v,·,a,α,‥,𝓂,$,·sh,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 21:11 in vtrad vtsef
 w,·,l,:,v,‥,y,τ,(p)
@@ -13806,6 +15354,14 @@ m,i,f,·,:,n,‥,(ti),y
 SPACE
 r,o,(me),ʕ,_
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,m,ʕ,l,l,y,h,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,m,_,ʕ,_,l,:,l,‥,y,k,∵,𝓂,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 Jeremiah 21:13 in vtrad vtsef
@@ -14014,6 +15570,11 @@ SPACE
 h,_,v,·,_,(me),y,i,τ
 SPACE
 h,_,z,·,∵,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 22:6 in vtrad vtsef
 k,·,i,y,-,k,o,⅃,h
@@ -14052,6 +15613,14 @@ SPACE
 SPACE
 l,o,(me),α
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,n,w,$,v,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,n,w,o,$,·sh,a,𝓂,v,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 Jeremiah 22:7 in vtrad vtsef
@@ -14130,6 +15699,18 @@ SPACE
 α,:_,x,‥,r,i,(ti),y,m.
 SPACE
 w,_,y,·,_,ʕ,_,v,:,d,𝓂,w,·,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 22:10 in vtrad vtsef
 α,_,l,-,τ,·,i,v,:,k,·,⅃,w,·
@@ -14217,6 +15798,18 @@ SPACE
 l,o,𝓂,α,-,y,i,r,:,α,∵,(me),h
 SPACE
 ʕ,𝓂,w,o,d,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 22:13 in vtrad vtsef
 h,⅃,w,o,y
@@ -14346,6 +15939,18 @@ SPACE
 w,:,ʕ,_,l,-,h,_,m,·,:,r,w,·,ц,a,(ti),h
 SPACE
 l,_,ʕ,:_,$,·si,𝓂,w,o,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 22:18 in vtrad vtsef
 l,a,k,‥,(G),n.
@@ -14402,6 +16007,18 @@ SPACE
 l,:,$,·sh,_,ʕ,:_,r,‥,(me),y
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 22:20 in vtrad vtsef
 ʕ,:_,l,i,<,y
@@ -14475,9 +16092,25 @@ SPACE
 r,a,ʕ,a,τ,‥,𝓂,k.,:,.
 
 Jeremiah 22:23 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,$,v,τ,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,o,$,·sh,_,v,:,τ,·,:,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,·,_,l,·,:,v,a,n,ƶ,w,o,n.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,m,q,n,n,τ,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,m,:,q,u,n,·,_,(ti),n,:,τ,·,:,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,·,a,α,:_,r,a,z,i,⅄,y,m.
 SPACE
@@ -14592,6 +16225,11 @@ SPACE
 l,o,(me),α
 SPACE
 y,a,$,·sh,𝓂,w,·,v,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 22:28 in vtrad vtsef
 h,_,ʕ,∵,(qa),ц,∵,v
@@ -14687,6 +16325,11 @@ SPACE
 ʕ,(ti),w,o,d
 SPACE
 v,·,i,y,h,w,·,d,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 23:1 in vtrad vtsef
 h,⅃,w,o,y
@@ -14702,6 +16345,18 @@ SPACE
 m,_,r,:,ʕ,i,y,τ,i,(ti),y
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 23:2 in vtrad vtsef
 l,a,⌕,k,‥,⌕,n.
@@ -14795,6 +16450,18 @@ SPACE
 y,i,f,·,a,q,‥,(ti),d,w,·
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 23:5 in vtrad vtsef
 h,i,n,·,‥,(qa),h
@@ -14851,6 +16518,11 @@ START small
 STOP small 
 THIN SPACE
 ц,i,d,:,q,‥,𝓂,n,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 23:7 in vtrad vtsef
 l,a,k,‥,⟓,n.
@@ -14915,6 +16587,11 @@ SPACE
 w,:,y,a,$,·sh,:,v,(ti),w,·
 SPACE
 ʕ,_,l,-,α,_,d,:,m,a,τ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 23:9 in vtrad vtsef
 l,_,n,·,:,v,i,α,i,(G),y,m.
@@ -15085,6 +16762,11 @@ SPACE
 w,:,y,o,$,·sh,:,v,∵,(ti),y,h,a
 SPACE
 k,·,_,ʕ,:_,m,o,r,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 23:15 in vtrad vtsef
 l,a,k,‥,(G),n.
@@ -15122,6 +16804,11 @@ SPACE
 x,:_,n,u,f,·,a,(ti),h
 SPACE
 l,:,k,oa,l,-,h,a,α,a,𝓂,r,∵,ц.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 23:16 in vtrad vtsef
 k,·,o,h,-,α,a,m,_,(G),r
@@ -15210,8 +16897,28 @@ SPACE
 SPACE
 m,i,y,-,h,i,q,:,$,·sh,i,(me),y,v
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,d,v,r,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,d,·,:,v,a,r,(ti),w,o,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,_,y,·,i,$,·sh,:,m,a,𝓂,ʕ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 23:19 in vtrad vtsef
 h,i,n,·,‥,⅃,h
@@ -15302,6 +17009,18 @@ SPACE
 w,·,m,‥,r,o,(ti),ʕ,_
 SPACE
 m,_,ʕ,_,l,:,l,‥,y,h,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 23:23 in vtrad vtsef
 h,_,α,:∵,l,o,h,‥,(da),y
@@ -15457,6 +17176,18 @@ SPACE
 y,:,f,o,(me),ц,‥,𝓂,ц.
 SPACE
 σ,a,𝓂,l,_,ʕ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 23:30 in vtrad vtsef
 l,a,k,‥,⟓,n.
@@ -15738,6 +17469,11 @@ SPACE
 l,o,(me),α
 SPACE
 τ,i,$,·sh,·,a,k,‥,𝓂,x,_,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 24:1 in vtrad vtsef
 h,i,r,:,α,_,≁,n,i,y,~
@@ -15818,6 +17554,11 @@ SPACE
 l,o,α,-,τ,‥,α,a,k,_,(ti),l,:,n,a,h
 SPACE
 m,‥,r,o,𝓂,ʕ,_,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 24:3 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -15855,6 +17596,11 @@ SPACE
 l,o,α,-,τ,‥,α,a,k,_,(ti),l,:,n,a,h
 SPACE
 m,‥,r,o,𝓂,ʕ,_,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 24:4 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -15961,6 +17707,18 @@ SPACE
 α,‥,l,_,(ti),y
 SPACE
 v,·,:,k,oa,l,-,l,i,v,·,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 24:8 in vtrad vtsef
 w,:,k,_,τ,·,:,α,‥,n,i,y,m.,(p)
@@ -16018,6 +17776,14 @@ m,i,ц,:,r,a,𝓂,y,i,m.,.
 Jeremiah 24:9 in vtrad vtsef
 w,·,n,:,τ,_,τ,·,i,y,m.,(p)
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,l,z,w,ʕ,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,l,:,z,_,ʕ,:_,w,a,⅃,h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,:,r,a,ʕ,a,ƶ,h
 SPACE
@@ -16063,6 +17829,11 @@ SPACE
 l,a,h,∵,(ti),m.
 SPACE
 w,:,l,_,α,:_,v,w,o,τ,‥,y,h,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 25:1 in vtrad vtsef
 h,_,d,·,a,v,a,(G),r
@@ -16267,6 +18038,14 @@ n,:,α,u,m.,-,y,:,h,o,w,a,⅄,h
 SPACE
 l,:,m,_,(da),ʕ,_,n.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,k,ʕ,σ,w,n,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,_,k,:,ʕ,i,y,σ,‥,⟓,n,i,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,·,:,m,_,ʕ,:_,$,·si,‥,(me),h
 SPACE
@@ -16275,6 +18054,11 @@ SPACE
 l,:,r,_,(me),ʕ
 SPACE
 l,a,k,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 25:8 in vtrad vtsef
 l,a,k,‥,Ƶ,n.
@@ -16430,6 +18214,14 @@ SPACE
 ʕ,w,o,l,a,𝓂,m.,.
 
 Jeremiah 25:13 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,h,v,α,w,τ,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,h,‥,𝓂,v,‥,α,τ,i,y,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,_,l,-,h,a,α,a,⅃,r,∵,ц.
 SPACE
@@ -16479,6 +18271,11 @@ SPACE
 w,·,k,:,m,_,ʕ,:_,$,·si,‥,(me),h
 SPACE
 y,:,d,‥,y,h,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 25:15 in vtrad vtsef
 k,·,i,⅃,y
@@ -16761,10 +18558,10 @@ w,:,α,a,m,_,r,:,τ,·,a,⅃
 SPACE
 α,:_,l,‥,y,h,∵,μ,m.
 NO-BREAK SPACE
-START span class=mam-spi-samekh
+START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-samekh
-START br class=mam-br-after-pe
+STOP span class=mam-spi-pe
+START br 
 k,·,o,h,-,α,a,m,_,r,(tq)
 SPACE
 y,:,h,o,w,a,(qa),h
@@ -16954,6 +18751,18 @@ SPACE
 l,_,x,∵,(ti),r,∵,v
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 25:32 in vtrad vtsef
 k,·,o,<,h
@@ -17117,6 +18926,11 @@ SPACE
 x,:_,r,(me),w,o,n.
 SPACE
 α,_,f,·,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 26:1 in vtrad vtsef
 v,·,:,r,‥,α,$,·sh,i,◆,y,τ
@@ -17284,6 +19098,14 @@ k,·,:,$,·sh,i,l,o,⅄,h
 SPACE
 w,:,α,∵,τ,-,h,a,ʕ,i,<,y,r
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,z,α,τ,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,_,z,·,o,α,τ,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,∵,τ,·,‥,⅃,n.
 SPACE
@@ -17294,6 +19116,11 @@ SPACE
 g,·,w,o,y,‥,(me)
 SPACE
 h,a,α,a,𝓂,r,∵,ц.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 26:7 in vtrad vtsef
 w,_,𝓂,y,·,i,$,·sh,:,m,:,ʕ,⟓,w,·
@@ -17424,6 +19251,18 @@ SPACE
 $,·sh,_,𝓂,ʕ,_,r,-,y,:,h,o,w,a,(ti),h
 SPACE
 h,∵,x,a,d,a,𝓂,$,·sh,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 26:11 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,:,r,(ge),w,·
@@ -17589,6 +19428,18 @@ SPACE
 k,·,oa,l,-,h,_,d,·,:,v,a,r,i,(ti),y,m.
 SPACE
 h,a,α,‥,𝓂,l,·,∵,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 26:16 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,<,w,·
@@ -17637,6 +19488,14 @@ SPACE
 l,‥,α,m,o,𝓂,r,.
 
 Jeremiah 26:18 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,m,y,k,y,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,m,i,y,k,a,h,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 h,_,m,·,⅃,w,o,r,_,$,·sh,:,τ,·,i,ƶ,y
 SPACE
@@ -17865,6 +19724,11 @@ SPACE
 v,:,y,_,d,-,h,a,ʕ,a,(ti),m.
 SPACE
 l,_,h,:_,m,i,y,τ,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 27:1 in vtrad vtsef
 v,·,:,r,‥,α,$,·sh,i,◆,y,τ
@@ -18489,6 +20353,14 @@ SPACE
 v,·,_,⌕,g,:,l,w,o,τ,⌕,w,o
 SPACE
 α,∵,τ,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,:,k,oa,n,:,y,a,(qa),h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,k,w,n,y,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 v,∵,n.,-,y,:,h,w,o,y,a,q,i,(da),y,m.
 SPACE
@@ -18561,6 +20433,11 @@ SPACE
 α,∵,l,-,h,_,m,·,a,q,(ti),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 28:1 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
@@ -18581,6 +20458,14 @@ SPACE
 SPACE
 m,∵,l,∵,k.,:,-,y,:,h,w,·,d,a,ƶ,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,$,n,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,v,·,_,$,·sh,·,a,n,a,h,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 h,a,r,:,v,i,ʕ,i,ƶ,y,τ
 SPACE
@@ -18917,6 +20802,11 @@ SPACE
 h,_,n,·,a,v,i,(ti),y,α
 SPACE
 l,:,d,_,r,:,k,·,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 28:12 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -19095,6 +20985,11 @@ SPACE
 v,·,_,x,o,(ti),d,∵,$,·sh
 SPACE
 h,_,$,·sh,·,:,v,i,y,ʕ,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 29:1 in vtrad vtsef
 w,:,α,‥,(p),l,·,∵,h,(p)
@@ -19340,6 +21235,18 @@ SPACE
 $,·sh,:,l,_,x,:,τ,·,i,(ti),y,m.
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 29:10 in vtrad vtsef
 k,·,i,𝓂,y,-,k,o,h,(p)
@@ -19453,6 +21360,14 @@ SPACE
 w,:,$,·sh,_,v,:,τ,·,i,⅃,y
 SPACE
 α,∵,τ,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,:,v,w,·,τ,:,k,∵,◆,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,v,y,τ,k,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 w,:,q,i,v,·,_,ц,:,τ,·,i,⅃,y
 SPACE
@@ -19498,6 +21413,18 @@ SPACE
 n,:,v,i,α,i,(ti),y,m.
 SPACE
 v,·,a,v,∵,𝓂,l,a,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 29:16 in vtrad vtsef
 k,·,i,y,-,k,o,⅃,h
@@ -19535,6 +21462,18 @@ SPACE
 α,i,τ,·,:,k,∵,(ti),m.
 SPACE
 v,·,_,g,·,w,o,l,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 29:17 in vtrad vtsef
 k,·,o,<,h
@@ -19584,6 +21523,14 @@ w,·,v,_,d,·,a,⅄,v,∵,r
 SPACE
 w,·,n,:,τ,_,τ,·,i,(qa),y,m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,l,z,w,ʕ,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,l,:,z,_,ʕ,:_,w,a,(ge),h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,:,k,o,⅃,l
 THIN SPACE
@@ -19652,6 +21599,18 @@ SPACE
 m,i,y,r,w,·,$,·sh,a,l,_,(ti),CGJ,i,m.
 SPACE
 v,·,a,v,∵,𝓂,l,a,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 29:21 in vtrad vtsef
 k,·,o,𝓂,h,-,α,a,m,_,r,(tq)
@@ -19766,10 +21725,30 @@ SPACE
 SPACE
 w,:,α,a,n,o,k,i,⟓,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,w,y,d,ʕ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,_,y,·,w,o,d,‥,(me),ʕ,_,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,a,ʕ,‥,(ti),d
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 29:24 in vtrad vtsef
 w,:,α,∵,l,-,$,·sh,:,m,_,ʕ,:,y,a,(me),h,w,·
@@ -19922,6 +21901,11 @@ SPACE
 y,i,r,:,m,:,y,a,(me),h,w,·
 SPACE
 h,_,n,·,a,v,i,𝓂,y,α,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 29:30 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -20023,6 +22007,11 @@ SPACE
 d,i,v,·,∵,(ti),r
 SPACE
 ʕ,_,l,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 30:1 in vtrad vtsef
 h,_,d,·,a,v,a,r,(p)
@@ -20096,6 +22085,11 @@ SPACE
 l,_,α,:_,v,w,o,τ,a,(ti),m.
 SPACE
 w,i,𝓂,y,r,‥,$,·sh,𝓂,w,·,h,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 30:4 in vtrad vtsef
 w,:,α,‥,⅃,l,·,∵,h
@@ -20238,6 +22232,18 @@ SPACE
 α,a,q,i,(ti),y,m.
 SPACE
 l,a,h,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 30:10 in vtrad vtsef
 w,:,α,_,τ,·,a,μ,h
@@ -20324,6 +22330,18 @@ SPACE
 l,o,(me),α
 SPACE
 α,:_,n,_,q,·,∵,𝓂,k.,·,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 30:12 in vtrad vtsef
 k,·,i,⅃,y
@@ -20478,6 +22496,18 @@ SPACE
 α,‥,(me),y,n.
 SPACE
 l,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 30:18 in vtrad vtsef
 k,·,o,⅃,h
@@ -20605,6 +22635,18 @@ SPACE
 l,a,k,∵,(ti),m.
 SPACE
 l,‥,α,l,o,h,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 30:23 in vtrad vtsef
 h,i,n,·,‥,⅃,h
@@ -20680,6 +22722,18 @@ SPACE
 y,i,𝓂,h,:,y,w,·,-,l,i,(me),y
 SPACE
 l,:,ʕ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 31:2 in vtrad vtsef
 k,·,o,(ye),h
@@ -20789,6 +22843,11 @@ SPACE
 α,∵,l,-,y,:,h,o,w,a,(ti),h
 SPACE
 α,:∵,l,o,h,‥,𝓂,y,n,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 31:7 in vtrad vtsef
 k,·,i,y,-,k,o,⅃,h
@@ -20902,6 +22961,11 @@ SPACE
 v,·,:,k,o,(me),r,i,y
 SPACE
 h,𝓂,w,·,α,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 31:10 in vtrad vtsef
 $,·sh,i,m,:,ʕ,<,w,·
@@ -21025,6 +23089,11 @@ SPACE
 y,i,$,·si,:,v,·,a,(ti),ʕ,w,·
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 31:15 in vtrad vtsef
 k,·,o,⅃,h
@@ -21064,6 +23133,18 @@ SPACE
 k,·,i,(me),y
 SPACE
 α,‥,y,n,∵,𝓂,n,·,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 31:16 in vtrad vtsef
 k,·,o,⅃,h
@@ -21213,6 +23294,18 @@ SPACE
 α,:_,𝓂,r,_,x,:_,m,∵,(ti),n,·,w,·
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 31:21 in vtrad vtsef
 h,_,ц,·,i,(da),y,v,i,y
@@ -21235,6 +23328,14 @@ l,_,𝓂,m,:,σ,i,l,·,a,(ti),h
 SPACE
 d,·,∵,⅃,r,∵,k.,:
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,l,k,τ,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,a,l,a,⅄,k,:,τ,·,:,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 $,·sh,(ye),w,·,v,i,y
 SPACE
@@ -21270,6 +23371,11 @@ SPACE
 τ,·,:,σ,(me),w,o,v,‥,𝓂,v
 SPACE
 g,·,a,𝓂,v,∵,r,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 31:23 in vtrad vtsef
 k,·,o,𝓂,h,-,α,a,m,_,(G),r
@@ -21354,6 +23460,18 @@ SPACE
 ʕ,a,(me),r,:,v,a,h
 SPACE
 l,·,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 31:27 in vtrad vtsef
 h,i,n,·,‥,⟓,h
@@ -21452,6 +23570,18 @@ SPACE
 τ,·,i,q,:,h,∵,(me),y,n,a,h
 SPACE
 $,·sh,i,n,·,a,𝓂,y,w,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 31:31 in vtrad vtsef
 h,i,n,·,‥,⟓,h
@@ -21602,6 +23732,18 @@ SPACE
 l,o,(me),α
 SPACE
 α,∵,z,:,k,·,a,r,-,ʕ,𝓂,w,o,d,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 31:35 in vtrad vtsef
 k,·,o,⅃,h
@@ -21672,6 +23814,18 @@ SPACE
 l,:,f,a,n,_,(ti),y
 SPACE
 k,·,oa,l,-,h,_,y,·,a,m,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 31:37 in vtrad vtsef
 k,·,o,⅃,h
@@ -21709,6 +23863,18 @@ SPACE
 ʕ,a,$,·si,(ti),w,·
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 31:38 in vtrad vtsef
 h,i,n,·,‥,⟓,h
@@ -21737,6 +23903,14 @@ w,:,y,a,ц,a,(qa),α
 SPACE
 ʕ,(ge),w,o,d
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,q,w,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,q,a,<,w,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 h,_,m,·,i,d,·,a,h,(p)
 SPACE
@@ -21764,6 +23938,14 @@ THIN SPACE
 w,:,h,_,d,·,∵,μ,$,·sh,∵,n.
 SPACE
 w,:,k,oa,𝓂,l,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,_,$,·sh,·,:,d,‥,m,w,o,τ,(tq),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,$,r,m,w,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 ʕ,_,d,-,n,_,(qa),x,_,l
 SPACE
@@ -21788,6 +23970,11 @@ SPACE
 ʕ,(ti),w,o,d
 SPACE
 l,:,ʕ,w,o,l,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 32:1 in vtrad vtsef
 h,_,d,·,a,v,a,(G),r
@@ -21800,6 +23987,14 @@ m,‥,α,‥,⅃,τ
 SPACE
 y,:,h,o,w,a,ƶ,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,$,n,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,v,·,_,$,·sh,·,a,n,a,h,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 h,a,ʕ,:_,$,·si,i,r,i,ƶ,y,τ
 SPACE
@@ -21921,6 +24116,9 @@ SPACE
 w,:,ʕ,‥,y,n,a,(ti),y,w
 SPACE
 α,∵,τ,-
+START span class=mam-kq-trivial
+ʕ,‥,y,n,a,(me),w
+STOP span class=mam-kq-trivial
 SPACE
 τ,·,i,r,:,α,∵,𝓂,y,n,a,h,.
 
@@ -21950,6 +24148,11 @@ SPACE
 l,o,(me),α
 SPACE
 τ,_,ц,:,l,i,𝓂,y,x,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 32:6 in vtrad vtsef
 w,_,y,·,o,(ti),α,m,∵,r
@@ -22213,6 +24416,18 @@ SPACE
 y,a,m,i,(me),y,m.
 SPACE
 r,_,v,·,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 32:15 in vtrad vtsef
 k,·,i,⅃,y
@@ -22242,6 +24457,11 @@ SPACE
 v,·,a,α,a,(me),r,∵,ц.
 SPACE
 h,_,z,·,o,𝓂,α,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 32:16 in vtrad vtsef
 w,a,α,∵,τ,:,f,·,_,l,·,‥,(ti),l
@@ -22445,6 +24665,14 @@ w,:,l,o,𝓂,α,-,$,·sh,a,m,:,ʕ,<,w,·
 SPACE
 v,:,q,w,o,l,∵,(p),k.,a,(p)
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,v,τ,r,w,τ,k.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,·,v,:,τ,w,o,r,a,τ,:,k.,a,⅃,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,o,α,-,h,a,l,a,ƶ,k,w,·
 SPACE
@@ -22541,6 +24769,18 @@ SPACE
 v,·,:,y,_,(me),d
 SPACE
 h,_,k,·,_,$,·si,:,d,·,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 32:26 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -22830,8 +25070,23 @@ h,_,z,·,o,⅄,α,τ
 SPACE
 l,:,m,_,(ti),ʕ,_,n.
 SPACE
+START span class=mam-kq-trivial
+h,_,x,:_,θ,i,(me),y
+STOP span class=mam-kq-trivial
 SPACE
 α,∵,τ,-,y,:,h,w,·,d,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 32:36 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,Ƶ,h
@@ -22996,6 +25251,18 @@ SPACE
 v,·,:,k,oa,l,-,l,i,v,·,i,(ti),y
 SPACE
 w,·,v,:,k,oa,l,-,n,_,f,:,$,·sh,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 32:42 in vtrad vtsef
 k,·,i,y,-,k,o,h,(p)
@@ -23123,6 +25390,11 @@ SPACE
 α,∵,τ,-,$,·sh,:,v,w,·,τ,a,(ti),m.
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 33:1 in vtrad vtsef
 w,_,y,:,h,i,(da),y
@@ -23182,6 +25454,11 @@ SPACE
 l,o,(me),α
 SPACE
 y,:,d,_,ʕ,:,τ,·,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 33:4 in vtrad vtsef
 k,·,i,y,(tq)
@@ -23296,6 +25573,14 @@ x,a,𝓂,θ,:,α,w,·,-,l,i,⅄,y
 SPACE
 w,:,σ,a,l,_,x,:,τ,·,i,◆,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,l,k,w,l,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,l,:,k,oa,l,-,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 ʕ,:_,w,hhfv,n,𝓂,w,o,τ,‥,y,h,∵,m.,(p)
 SPACE
 α,:_,$,·sh,∵,⅃,r
@@ -23360,6 +25645,18 @@ SPACE
 ʕ,o,(me),$,·si,∵,h
 SPACE
 l,·,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 33:10 in vtrad vtsef
 k,·,o,⅃,h
@@ -23470,6 +25767,18 @@ SPACE
 α,a,m,_,(me),r
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 33:12 in vtrad vtsef
 k,·,o,h,-,α,a,m,_,r,~
@@ -23544,6 +25853,18 @@ SPACE
 α,a,m,_,(me),r
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 33:14 in vtrad vtsef
 h,i,n,·,‥,⟓,h
@@ -23623,6 +25944,18 @@ START small
 STOP small 
 THIN SPACE
 ц,i,d,:,q,‥,𝓂,n,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 33:17 in vtrad vtsef
 k,·,i,y,-,k,o,(ti),h
@@ -23667,6 +26000,11 @@ SPACE
 z,·,∵,(ti),v,_,x
 SPACE
 k,·,oa,l,-,h,_,y,·,a,m,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 33:19 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -23757,6 +26095,18 @@ SPACE
 m,:,$,·sh,a,𝓂,r,:,τ,‥,(me),y
 SPACE
 α,o,τ,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 33:23 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -23805,6 +26155,18 @@ SPACE
 g,·,(me),w,o,y
 SPACE
 l,i,f,:,n,‥,y,h,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 33:25 in vtrad vtsef
 k,·,o,(ye),h
@@ -23855,10 +26217,23 @@ SPACE
 w,:,y,_,ʕ,:_,q,o,⅄,v
 SPACE
 k,·,i,𝓂,y,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,α,a,$,·sh,i,(me),y,v,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,α,$,w,v,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 α,∵,τ,-,$,·sh,:,v,w,·,τ,a,(ti),m.
 SPACE
 w,:,r,i,𝓂,x,_,m,:,τ,·,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 34:1 in vtrad vtsef
 h,_,d,·,a,v,a,⟓,r
@@ -24038,6 +26413,18 @@ SPACE
 α,:_,n,i,𝓂,y,-,d,i,v,·,_,(ti),r,:,τ,·,i,y
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 34:6 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,r,(p)
@@ -24094,6 +26481,11 @@ SPACE
 ʕ,a,r,‥,(me),y
 SPACE
 m,i,v,:,ц,a,𝓂,r,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 34:8 in vtrad vtsef
 h,_,d,·,a,v,a,⟓,r
@@ -24205,10 +26597,23 @@ $,·sh,i,l,·,:,x,(ti),w,·
 SPACE
 x,oa,f,:,$,·sh,i,⅄,y,m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,y,k,v,y,$,w,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,_,𝓂,y,·,i,k,:,v,·,:,$,·sh,ƶ,w,·,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,_,ʕ,:_,v,a,d,i,(ti),y,m.
 SPACE
 w,:,l,i,$,·sh,:,f,a,x,𝓂,w,o,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 34:12 in vtrad vtsef
 w,_,y,:,h,i,<,y
@@ -24368,6 +26773,18 @@ SPACE
 l,_,ʕ,:_,v,a,d,i,(ti),y,m.
 SPACE
 w,:,l,i,$,·sh,:,f,a,x,𝓂,w,o,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 34:17 in vtrad vtsef
 l,a,k,‥,n.,~
@@ -24414,6 +26831,14 @@ w,:,n,a,𝓂,τ,_,τ,·,i,<,y
 SPACE
 α,∵,τ,:,k,∵,m.,(p)
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,l,z,w,ʕ,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,l,:,z,_,ʕ,:_,w,a,ƶ,h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,:,k,o,(ti),l
 SPACE
@@ -24579,6 +27004,11 @@ SPACE
 m,‥,α,‥,(me),y,n.
 SPACE
 y,o,$,·sh,‥,𝓂,v,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 35:1 in vtrad vtsef
 h,_,d,·,a,v,a,⟓,r
@@ -24896,6 +27326,11 @@ SPACE
 w,_,n,·,‥,(ti),$,·sh,∵,v
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 35:12 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -25214,6 +27649,11 @@ SPACE
 l,:,f,a,n,_,(ti),y
 SPACE
 k,·,oa,l,-,h,_,y,·,a,m,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 36:1 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -25321,6 +27761,18 @@ SPACE
 l,_,ʕ,:_,w,hhfv,n,a,(ti),m.
 SPACE
 w,·,l,:,x,_,θ,·,a,α,τ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 36:4 in vtrad vtsef
 w,_,y,·,i,q,:,r,a,⅃,α
@@ -25472,6 +27924,11 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 36:9 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
@@ -25774,6 +28231,18 @@ SPACE
 ʕ,_,l,-,h,_,σ,·,‥,(ti),f,∵,r
 SPACE
 v,·,_,d,·,:,y,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 36:19 in vtrad vtsef
 w,_,y,·,o,α,m,:,r,<,w,·
@@ -26002,6 +28471,18 @@ SPACE
 w,_,y,·,_,σ,:,τ,·,i,r,‥,(ti),m.
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 36:27 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -26119,6 +28600,18 @@ SPACE
 α,a,d,a,(me),m.
 SPACE
 w,·,v,:,h,‥,m,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 36:30 in vtrad vtsef
 l,a,k,‥,(G),n.
@@ -26246,6 +28739,11 @@ SPACE
 r,_,v,·,i,(ti),y,m.
 SPACE
 k,·,a,h,‥,𝓂,m,·,a,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 37:1 in vtrad vtsef
 w,_,y,·,i,(qa),m,:,l,oa,k.,:,-,m,∵,ƶ,l,∵,k.,:
@@ -26347,6 +28845,14 @@ SPACE
 SPACE
 v,·,‥,(me),y,τ
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,k,l,y,α,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,_,k,·,:,l,𝓂,w,·,α,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 Jeremiah 37:5 in vtrad vtsef
@@ -26373,6 +28879,11 @@ SPACE
 m,‥,ʕ,_,(ti),l
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 37:6 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -26448,6 +28959,11 @@ SPACE
 w,·,$,·si,:,r,a,f,u,(me),h,a
 SPACE
 v,a,α,‥,𝓂,$,·sh,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 37:9 in vtrad vtsef
 k,·,o,⅃,h
@@ -26529,6 +29045,18 @@ SPACE
 x,‥,(me),y,l
 SPACE
 f,·,_,r,:,ʕ,o,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 37:12 in vtrad vtsef
 w,_,y,·,‥,ц,‥,<,α
@@ -26740,6 +29268,14 @@ SPACE
 h,_,k,·,∵,𝓂,l,∵,α,.
 
 Jeremiah 37:19 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,α,y,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,α,_,y,·,‥,h,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 n,:,v,i,⅃,y,α,‥,y,k,∵,ƶ,m.
 SPACE
@@ -26887,6 +29423,14 @@ w,:,h,_,y,·,o,ц,‥,<,α
 SPACE
 α,∵,l,-,h,_,k,·,_,$,·si,:,d,·,i,y,m.,(p)
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,x,y,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,x,a,y,a,ƶ,h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,:,h,a,y,:,τ,a,h,-,l,·,(me),w,o
 SPACE
@@ -26895,6 +29439,18 @@ SPACE
 l,:,$,·sh,a,l,a,(ti),l
 SPACE
 w,a,x,a,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 38:3 in vtrad vtsef
 k,·,o,(ti),h
@@ -27057,6 +29613,18 @@ SPACE
 y,i,r,:,m,:,y,a,(ti),h,w,·
 SPACE
 v,·,_,θ,·,i,𝓂,y,θ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 38:7 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,_,μ,ʕ
@@ -27211,6 +29779,14 @@ m,i,$,·sh,·,a,m.,(p)
 SPACE
 v,·,:,l,w,o,y,‥,⅃
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,σ,x,v,w,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,σ,:,x,a,v,ƶ,w,o,τ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,·,v,:,l,w,o,y,‥,(ti)
 SPACE
@@ -27279,6 +29855,18 @@ SPACE
 v,·,_,x,:_,ц,_,(ti),r
 SPACE
 h,_,m,·,_,θ,·,a,r,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 38:14 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,(G),x
@@ -27393,6 +29981,18 @@ SPACE
 m,:,v,_,q,:,$,·sh,i,(ti),y,m.
 SPACE
 α,∵,τ,-,n,_,f,:,$,·sh,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 38:17 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -27482,6 +30082,18 @@ SPACE
 l,o,α,-,τ,i,m,·,a,l,‥,(me),θ
 SPACE
 m,i,y,·,a,d,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 38:19 in vtrad vtsef
 w,_,y,·,o,⟓,α,m,∵,r
@@ -27639,6 +30251,18 @@ SPACE
 τ,·,i,$,·si,:,r,o,(me),f.
 SPACE
 v,·,a,α,‥,𝓂,$,·sh,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 38:24 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -27720,6 +30344,11 @@ SPACE
 l,a,m,(me),w,·,τ
 SPACE
 $,·sh,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 38:27 in vtrad vtsef
 w,_,y,·,a,v,o,(qa),α,w,·
@@ -28150,6 +30779,8 @@ r,_,v,-,θ,_,v,·,a,x,i,◆,y,m.
 SPACE
 w,·,n,:,v,𝓂,w,·,$,·sh,_,z,:,v,·,a
 START small 
+n.,(p)
+STOP small 
 SPACE
 r,_,v,-,σ,a,r,i,ƶ,y,σ
 SPACE
@@ -28195,6 +30826,18 @@ SPACE
 v,·,:,τ,(me),w,o,k.,:
 SPACE
 h,a,ʕ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 39:15 in vtrad vtsef
 w,:,α,∵,𝓂,l,-,y,i,r,:,m,:,y,a,(ti),h,w,·
@@ -28305,6 +30948,11 @@ SPACE
 v,·,i,(ti),y
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 40:1 in vtrad vtsef
 h,_,d,·,a,v,a,(G),r
@@ -28401,6 +31049,14 @@ w,:,h,a,y,a,(me),h
 SPACE
 l,a,k,∵,(ti),m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,d,v,r,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,_,d,·,a,v,a,(me),r,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
@@ -28538,6 +31194,11 @@ SPACE
 h,_,n,·,i,$,·sh,:,α,a,r,i,(ti),y,m.
 SPACE
 v,·,a,α,a,𝓂,r,∵,ц.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 40:7 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,:,ʕ,w,·,(tq)
@@ -28617,6 +31278,14 @@ START b
 |
 STOP b 
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,ʕ,w,f,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,ʕ,‥,y,f,_,⅃,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 h,_,n,·,:,θ,o,f,a,τ,i,◆,y
 SPACE
@@ -28773,6 +31442,18 @@ SPACE
 h,_,r,:,v,·,‥,(me),h
 SPACE
 m,:,α,o,𝓂,d,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 40:13 in vtrad vtsef
 w,:,y,𝓂,w,o,x,a,n,a,n.,(p)
@@ -28895,6 +31576,14 @@ SPACE
 v,·,∵,n.,-,q,a,r,‥,ƶ,x,_
 SPACE
 α,_,𝓂,l,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,τ,·,_,ʕ,:_,$,·si,‥,(ti),h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,τ,ʕ,$,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 α,∵,τ,-,h,_,d,·,a,v,a,⅃,r
 SPACE
@@ -28907,6 +31596,11 @@ SPACE
 d,o,v,‥,(ti),r
 SPACE
 α,∵,l,-,y,i,$,·sh,:,m,a,ʕ,‥,𝓂,α,l,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 41:1 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
@@ -29279,6 +31973,18 @@ SPACE
 α,∵,l,-,v,·,:,n,‥,(me),y
 SPACE
 ʕ,_,m,·,𝓂,w,o,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 41:11 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,_,ʕ,(p)
@@ -29398,6 +32104,18 @@ SPACE
 α,∵,l,-,v,·,:,n,‥,(me),y
 SPACE
 ʕ,_,m,·,𝓂,w,o,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 41:16 in vtrad vtsef
 w,_,y,·,i,q,·,_,x,(tq)
@@ -29463,6 +32181,14 @@ w,_,y,·,‥,𝓂,$,·sh,:,v,w,·,(p)
 SPACE
 v,·,:,g,‥,r,⅃,w,·,τ
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,k,m,w,h,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,k,·,i,m,:,h,a,ƶ,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,:_,$,·sh,∵,r,-,α,‥,(ti),ц,∵,l
 SPACE
@@ -29502,6 +32228,11 @@ SPACE
 m,∵,l,∵,k.,:,-,v,·,a,v,∵,(ti),l
 SPACE
 v,·,a,α,a,𝓂,r,∵,ц.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 42:1 in vtrad vtsef
 w,_,𝓂,y,·,i,g,·,:,$,·sh,w,·,(p)
@@ -29679,6 +32410,14 @@ SPACE
 SPACE
 α,:_,$,·sh,∵,(qa),r
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,α,n,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,α,:_,n,_,(ge),x,:,n,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 $,·sh,o,l,:,x,i,(me),y,m.
 SPACE
@@ -29703,6 +32442,11 @@ SPACE
 y,:,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,‥,𝓂,y,n,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 42:7 in vtrad vtsef
 w,_,y,:,h,i,Ƶ,y
@@ -30134,6 +32878,14 @@ h,_,y,·,𝓂,w,o,m.,.
 Jeremiah 42:20 in vtrad vtsef
 k,·,i,⅃,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,τ,ʕ,τ,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,i,τ,:,ʕ,‥,y,τ,∵,m.,~,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,·,:,n,_,f,:,$,·sh,w,o,τ,‥,y,k,∵,m.,∴
 SPACE
@@ -30224,6 +32976,18 @@ SPACE
 l,a,g,(me),w,·,r
 SPACE
 $,·sh,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 43:1 in vtrad vtsef
 w,_,y,:,h,i,y,(tq)
@@ -30257,6 +33021,18 @@ SPACE
 k,·,oa,l,-,h,_,d,·,:,v,a,r,i,(ti),y,m.
 SPACE
 h,a,α,‥,𝓂,l,·,∵,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 43:2 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -30445,6 +33221,18 @@ SPACE
 w,_,y,·,a,v,o,(ti),α,w,·
 SPACE
 ʕ,_,d,-,τ,·,_,x,:,f,·,_,n,:,x,‥,𝓂,σ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 43:8 in vtrad vtsef
 w,_,y,:,h,i,<,y
@@ -30530,10 +33318,26 @@ SPACE
 w,:,n,a,θ,a,(me),h
 SPACE
 α,∵,τ,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,_,f,:,r,i,y,r,(ti),w,o,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,f,r,w,r,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 ʕ,:_,l,‥,y,h,∵,𝓂,m.,.
 
 Jeremiah 43:11 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,v,α,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,·,v,a,Ƶ,α,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,:,h,i,k,·,a,(ti),h
 SPACE
@@ -30614,6 +33418,11 @@ SPACE
 y,i,$,·si,:,r,o,(me),f.
 SPACE
 v,·,a,α,‥,𝓂,$,·sh,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 44:1 in vtrad vtsef
 h,_,d,·,a,v,a,r,(p)
@@ -30802,6 +33611,18 @@ SPACE
 k,·,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 44:7 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,μ,h
@@ -30970,6 +33791,18 @@ SPACE
 w,:,l,i,f,:,n,‥,(me),y
 SPACE
 α,:_,v,w,o,τ,‥,y,k,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 44:11 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -31126,6 +33959,11 @@ SPACE
 k,·,i,(me),y
 SPACE
 α,i,m.,-,f,·,:,l,‥,θ,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 44:15 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,n,⅃,w,·
@@ -31295,6 +34133,18 @@ SPACE
 l,a,(ti),h,·
 SPACE
 n,:,σ,a,k,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 44:20 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
@@ -31441,6 +34291,18 @@ SPACE
 k,·,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 44:24 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -31527,6 +34389,18 @@ SPACE
 τ,_,ʕ,:_,$,·si,∵,(ti),y,n,a,h
 SPACE
 α,∵,τ,-,n,i,d,:,r,‥,y,k,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 44:26 in vtrad vtsef
 l,a,k,‥,n.,(p)
@@ -31689,6 +34563,11 @@ SPACE
 ʕ,:_,l,‥,y,k,∵,(ti),m.
 SPACE
 l,:,r,a,ʕ,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 44:30 in vtrad vtsef
 k,·,o,⅃,h
@@ -31740,6 +34619,18 @@ SPACE
 w,·,m,:,v,_,q,·,‥,(me),$,·sh
 SPACE
 n,_,f,:,$,·sh,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 45:1 in vtrad vtsef
 h,_,d,·,a,v,a,◆,r
@@ -31893,6 +34784,11 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 τ,·,‥,l,∵,k.,:,-,$,·sh,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 46:1 in vtrad vtsef
 α,:_,$,·sh,∵,(qa),r
@@ -32159,6 +35055,14 @@ v,·,_,τ,-,m,i,ц,:,r,a,⅄,y,i,m.
 SPACE
 l,_,$,·sh,·,a,w,:,α,(p)
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,r,v,y,τ,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,i,r,:,v,·,‥,⅃,y,τ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 r,:,f,u,α,ƶ,w,o,τ
 SPACE
@@ -32192,6 +35096,11 @@ SPACE
 n,a,f,:,l,(me),w,·
 SPACE
 $,·sh,:,n,‥,y,h,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 46:13 in vtrad vtsef
 h,_,d,·,a,v,a,r,(p)
@@ -32361,6 +35270,18 @@ SPACE
 m,‥,α,‥,(me),y,n.
 SPACE
 y,w,o,$,·sh,‥,𝓂,v,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 46:20 in vtrad vtsef
 ʕ,∵,g,:,l,a,(me),h
@@ -32528,6 +35449,11 @@ SPACE
 k,·,i,𝓂,y,m,‥,y,-,q,∵,(ti),d,∵,m.
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 46:27 in vtrad vtsef
 w,:,⌕,α,_,τ,·,a,⌕,h
@@ -32618,6 +35544,11 @@ SPACE
 l,o,(me),α
 SPACE
 α,:_,n,_,q,·,∵,𝓂,k.,·,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 47:1 in vtrad vtsef
 α,:_,$,·sh,∵,(qa),r
@@ -32805,6 +35736,11 @@ SPACE
 $,·sh,a,(me),m.
 SPACE
 y,:,ʕ,a,d,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 48:1 in vtrad vtsef
 l,:,m,w,o,α,a,μ,v
@@ -32894,6 +35830,14 @@ h,i,$,·sh,:,m,i,(me),y,ʕ,w,·
 SPACE
 z,·,:,ʕ,a,q,a,(ti),h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,ц,ʕ,w,r,y,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,ц,:,ʕ,i,y,r,∵,𝓂,y,h,a,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 Jeremiah 48:5 in vtrad vtsef
@@ -32901,6 +35845,14 @@ k,·,i,(ye),y
 SPACE
 m,_,ʕ,:_,l,‥,⅃,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,l,x,w,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,_,l,·,u,x,i,ƶ,y,τ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,·,i,v,:,k,i,(ti),y
 SPACE
@@ -32948,6 +35900,14 @@ SPACE
 SPACE
 w,:,y,a,ц,a,<,α
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,k,m,y,$,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,k,:,m,w,o,$,·sh,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,·,_,g,·,w,o,l,a,ƶ,h
 SPACE
@@ -32955,6 +35915,14 @@ k,·,o,h,:_,n,a,(me),y,w
 SPACE
 w,:,$,·si,a,r,a,(ti),y,w
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,x,d,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,_,x,:,d,·,a,𝓂,y,w,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 Jeremiah 48:8 in vtrad vtsef
@@ -33064,6 +36032,18 @@ SPACE
 l,o,(me),α
 SPACE
 n,a,m,a,𝓂,r,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 48:12 in vtrad vtsef
 l,a,k,‥,(G),n.
@@ -33188,6 +36168,14 @@ r,:,d,i,<,y
 SPACE
 m,i,k,·,a,v,w,o,d,(p)
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,$,v,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,·,$,·sh,:,v,i,⅃,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,_,ц,·,a,m,a,ƶ,α
 SPACE
@@ -33233,6 +36221,20 @@ m,w,o,α,a,⟓,v
 SPACE
 k,·,i,y,-,x,_,(ti),τ,·,a,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,y,l,y,l,y
+SPACE
+w,z,ʕ,q,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,‥,y,l,i,⅃,y,l,w,·,THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE,w,·,𝓂,z,:,ʕ,a,⅄,q,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 h,_,g,·,i,⅃,y,d,w,·
 SPACE
@@ -33258,6 +36260,14 @@ SPACE
 w,:,α,∵,l,-,y,_,(ti),h,:,ц,a,h
 SPACE
 w,:,ʕ,_,l,-
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,m,w,f,ʕ,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,m,‥,y,f,a,𝓂,ʕ,_,τ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 Jeremiah 48:22 in vtrad vtsef
@@ -33354,6 +36364,14 @@ y,i,$,·si,:,r,a,α,‥,ƶ,l
 SPACE
 α,i,m.,-,v,·,:,g,_,n,·,a,v,i,(ti),y,m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,n,m,ц,α,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,n,i,m,:,ц,a,⅄,α,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 k,·,i,𝓂,y,-,m,i,d,·,‥,(da),y
 SPACE
@@ -33648,6 +36666,18 @@ SPACE
 w,:,l,i,m,:,x,i,τ,·,a,(ti),h
 SPACE
 l,:,k,oa,l,-,σ,:,v,i,y,v,a,𝓂,y,w,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 48:40 in vtrad vtsef
 k,·,i,y,-,k,o,h,(p)
@@ -33724,6 +36754,14 @@ SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
 
 Jeremiah 48:44 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,n,y,σ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,_,n,·,a,(G),σ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 m,i,f,·,:,n,‥,<,y
 SPACE
@@ -33823,6 +36861,18 @@ SPACE
 m,i,$,·sh,:,f,·,_,(me),θ
 SPACE
 m,w,o,α,a,𝓂,v,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 49:1 in vtrad vtsef
 l,i,v,:,n,‥,⅃,y
@@ -34005,6 +37055,11 @@ SPACE
 v,·,:,n,‥,𝓂,y,-,ʕ,_,m,·,(ti),w,o,n.
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 49:7 in vtrad vtsef
 l,∵,α,:∵,d,◆,w,o,m.
@@ -34124,6 +37179,18 @@ SPACE
 ʕ,a,l,_,(me),y
 SPACE
 τ,·,i,v,:,θ,a,𝓂,x,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 49:12 in vtrad vtsef
 k,·,i,y,-,k,o,⅃,h
@@ -34362,6 +37429,18 @@ SPACE
 y,_,ʕ,:_,m,o,(ti),d
 SPACE
 l,:,f,a,n,a,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 49:20 in vtrad vtsef
 l,a,k,‥,(G),n.
@@ -34451,6 +37530,11 @@ SPACE
 α,i,$,·sh,·,a,(me),h
 SPACE
 m,:,ц,‥,r,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 49:23 in vtrad vtsef
 l,:,d,_,m,·,∵,◆,$,·si,∵,q
@@ -34511,6 +37595,14 @@ l,o,𝓂,α,-,ʕ,u,z,·,:,v,a,(ti),h
 SPACE
 ʕ,i,⅃,y,r
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,τ,h,l,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,τ,·,:,h,i,l,·,a,⅄,τ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 q,i,r,:,y,_,(ti),τ
 SPACE
@@ -34555,6 +37647,11 @@ SPACE
 α,_,r,:,m,:,n,(me),w,o,τ
 SPACE
 v,·,∵,n.,-,h,:_,d,a,𝓂,d,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 49:28 in vtrad vtsef
 l,:,q,‥,d,a,⅃,r
@@ -34571,6 +37668,14 @@ SPACE
 SPACE
 h,i,k,·,a,h,(p)
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,n,v,w,k,d,r,α,ц,w,r,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,n,:,v,w,·,k,_,d,:,r,∵,α,ц,·,_,⅃,r,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 m,∵,l,∵,k.,:,-,v,·,a,v,∵,ƶ,l
 SPACE
@@ -34644,6 +37749,14 @@ SPACE
 SPACE
 w,:,x,a,$,·sh,_,(me),v
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,ʕ,l,y,h,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,ʕ,:_,l,‥,y,k,∵,(ti),m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 m,_,x,:_,$,·sh,a,v,a,𝓂,h,.
 
@@ -34725,6 +37838,18 @@ SPACE
 v,·,a,(ti),h,·
 SPACE
 v,·,∵,n.,-,α,a,d,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 49:34 in vtrad vtsef
 α,:_,$,·sh,∵,(qa),r
@@ -34805,6 +37930,14 @@ $,·sh,a,(ti),m.
 SPACE
 n,i,d,·,:,x,‥,(me),y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,ʕ,w,l,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,ʕ,‥,y,l,a,𝓂,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 Jeremiah 49:37 in vtrad vtsef
@@ -34882,12 +38015,33 @@ v,·,:,α,_,x,:_,r,i,⅃,y,τ
 SPACE
 h,_,y,·,a,m,i,◆,y,m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,α,$,w,v,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,α,a,$,·sh,i,⟓,y,v,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,∵,τ,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,:,v,(me),w,·,τ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,v,y,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 ʕ,‥,y,l,a,(ti),m.
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 50:1 in vtrad vtsef
 h,_,d,·,a,v,a,◆,r
@@ -35039,6 +38193,14 @@ Jeremiah 50:6 in vtrad vtsef
 SPACE
 α,o,𝓂,v,:,d,w,o,τ,(p)
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,y,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,a,y,⅃,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,_,m,·,i,ƶ,y
 SPACE
@@ -35048,6 +38210,14 @@ h,i,τ,:,ʕ,ƶ,w,·,m.
 SPACE
 h,a,r,i,(ti),y,m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,w,v,v,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,w,o,v,:,v,⅄,w,·,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 m,‥,h,_,<,r
 SPACE
@@ -35087,6 +38257,18 @@ SPACE
 α,:_,v,w,o,τ,‥,y,h,∵,(ti),m.
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 50:8 in vtrad vtsef
 n,u,(ye),d,w,·
@@ -35099,6 +38281,14 @@ w,·,m,‥,α,∵,(me),r,∵,ц.
 SPACE
 k,·,_,$,·si,:,d,·,i,(ti),y,m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,ц,α,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,ц,‥,⅄,α,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,i,𝓂,h,:,y,Ƶ,w,·
 SPACE
@@ -35163,9 +38353,25 @@ n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
 Jeremiah 50:11 in vtrad vtsef
 k,·,i,<,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,τ,$,m,x,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,τ,i,$,·si,:,m,:,x,w,·,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 k,·,i,⅃,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,τ,ʕ,l,z,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,τ,_,ʕ,_,l,:,z,ƶ,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 $,·sh,o,σ,‥,(ti),y
 SPACE
@@ -35173,11 +38379,27 @@ n,_,x,:_,l,a,τ,i,⅄,y
 SPACE
 k,·,i,<,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,τ,f,w,$,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,τ,a,f,(p),w,·,$,·sh,w,·,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 k,·,:,ʕ,∵,g,:,l,a,⅃,h
 SPACE
 d,a,$,·sh,a,ƶ,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,τ,ц,h,l,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,τ,i,ц,:,h,:_,l,(ti),w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 k,·,a,α,_,v,·,i,r,i,𝓂,y,m.,.
 
@@ -35273,6 +38495,14 @@ y,a,d,a,ƶ,h,·
 SPACE
 n,a,𝓂,f,:,l,w,·,(p)
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,α,$,w,y,τ,y,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,α,oa,$,·sh,:,y,w,o,τ,∵,ƶ,y,h,a,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 n,∵,h,∵,r,:,σ,(ti),w,·
 SPACE
@@ -35328,6 +38558,18 @@ SPACE
 l,:,α,_,r,:,ц,(ti),w,o
 SPACE
 y,a,n,u,𝓂,σ,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 50:17 in vtrad vtsef
 $,·si,∵,(da),h
@@ -35359,6 +38601,11 @@ SPACE
 m,∵,(me),l,∵,k.,:
 SPACE
 v,·,a,v,∵,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 50:18 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -35448,6 +38695,11 @@ SPACE
 l,_,α,:_,$,·sh,∵,(me),r
 SPACE
 α,_,$,·sh,:,α,i,𝓂,y,r,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 50:21 in vtrad vtsef
 ʕ,_,l,-,h,a,α,a,<,r,∵,ц.
@@ -35477,6 +38729,18 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 ц,i,w,·,i,y,τ,i,𝓂,y,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 50:22 in vtrad vtsef
 q,(me),w,o,l
@@ -35601,6 +38865,18 @@ SPACE
 ʕ,‥,(me),τ
 SPACE
 f,·,:,q,u,d,·,a,τ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 50:28 in vtrad vtsef
 q,(me),w,o,l
@@ -35694,6 +38970,11 @@ SPACE
 h,_,h,(ti),w,·,α
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 50:31 in vtrad vtsef
 h,i,n,:,n,i,<,y
@@ -35740,6 +39021,18 @@ SPACE
 w,:,α,a,k,:,l,a,(ti),h
 SPACE
 k,·,oa,l,-,σ,:,v,i,y,v,o,τ,a,𝓂,y,w,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 50:33 in vtrad vtsef
 k,·,o,<,h
@@ -36019,6 +39312,14 @@ SPACE
 SPACE
 k,·,i,𝓂,y,-,α,_,r,:,g,·,i,<,ʕ,a,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,α,r,w,ц,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,α,:_,r,i,y,ц,‥,m.,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 m,‥,ʕ,a,l,∵,ƶ,y,h,a
 SPACE
@@ -36105,6 +39406,18 @@ SPACE
 v,·,_,g,·,w,o,y,i,(me),m.
 SPACE
 n,i,$,·sh,:,m,a,𝓂,ʕ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 51:1 in vtrad vtsef
 k,·,o,(ye),h
@@ -36346,6 +39659,18 @@ SPACE
 y,:,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,‥,𝓂,y,n,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 51:11 in vtrad vtsef
 h,a,v,‥,⅃,r,w,·
@@ -36418,6 +39743,14 @@ SPACE
 v,a,v,∵,𝓂,l,.
 
 Jeremiah 51:13 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,k,n,τ,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,o,k,_,n,:,τ,·,:,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,_,l,-,m,_,⅃,y,i,m.
 SPACE
@@ -36457,6 +39790,18 @@ SPACE
 ʕ,a,l,_,(ti),y,i,k.,:
 SPACE
 h,‥,y,d,a,𝓂,d,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 51:15 in vtrad vtsef
 ʕ,o,$,·si,‥,(me),h
@@ -36566,6 +39911,11 @@ SPACE
 ц,:,v,a,α,(ti),w,o,τ
 SPACE
 $,·sh,:,m,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 51:20 in vtrad vtsef
 m,_,f,·,‥,ц.,-,α,_,τ,·,a,⅃,h
@@ -36683,6 +40033,18 @@ SPACE
 n,:,α,u,(ti),m.
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 51:25 in vtrad vtsef
 h,i,n,:,n,i,(qa),y
@@ -36897,6 +40259,18 @@ SPACE
 h,_,m,·,i,l,:,x,a,m,a,(ti),h
 SPACE
 n,i,v,:,h,a,𝓂,l,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 51:33 in vtrad vtsef
 k,·,i,y,(tq)
@@ -36932,7 +40306,23 @@ SPACE
 l,a,𝓂,h,·,.
 
 Jeremiah 51:34 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,α,k,l,n,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,α,:_,k,a,l,_,⅃,n,i,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,m,m,n,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,:_,m,a,m,_,◆,n,i,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 n,:,v,w,·,k,_,d,:,r,∵,α,ц,·,_,r,~
 SPACE
@@ -36940,11 +40330,27 @@ m,∵,⅃,l,∵,k.,:
 SPACE
 v,·,a,v,∵,l,∴
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,ц,y,g,n,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,i,ц,·,i,y,g,_,(p),n,i,y,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 k,·,:,l,i,⅃,y
 SPACE
 r,i,ƶ,y,q
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,l,ʕ,n,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,v,·,:,l,a,ʕ,_,(p),n,i,y,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 k,·,_,τ,·,_,n,·,i,ƶ,y,n.
 SPACE
@@ -36954,6 +40360,14 @@ k,:,r,‥,$,·si,(ti),w,o
 SPACE
 m,‥,ʕ,:_,d,a,n,a,⅄,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,d,y,x,n,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,:∵,d,i,y,x,a,𝓂,n,i,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 Jeremiah 51:35 in vtrad vtsef
@@ -36978,6 +40392,18 @@ SPACE
 τ,·,o,α,m,_,(ti),r
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 51:36 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -37330,6 +40756,11 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 51:52 in vtrad vtsef
 l,a,k,‥,(G),n.
@@ -37374,6 +40805,18 @@ SPACE
 l,a,(ti),h,·
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 51:54 in vtrad vtsef
 q,(me),w,o,l
@@ -37478,6 +40921,18 @@ SPACE
 ц,:,v,a,α,(ti),w,o,τ
 SPACE
 $,·sh,:,m,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 51:58 in vtrad vtsef
 k,·,o,𝓂,h,-,α,a,m,_,(G),r
@@ -37515,6 +40970,18 @@ SPACE
 v,·,:,d,‥,y,-,α,‥,(ti),$,·sh
 SPACE
 w,:,y,a,ʕ,‥,𝓂,f,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 51:59 in vtrad vtsef
 h,_,d,·,a,v,a,(G),r
@@ -37687,6 +41154,11 @@ SPACE
 d,·,i,v,:,r,‥,(me),y
 SPACE
 y,i,r,:,m,:,y,a,𝓂,h,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Jeremiah 52:1 in vtrad vtsef
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,(qa),y,m.
@@ -37713,6 +41185,14 @@ w,:,$,·sh,‥,⅃,m.
 SPACE
 α,i,m,·,ƶ,w,o
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,x,m,y,θ,l,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,x,:_,m,w,·,θ,_,(me),l,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,·,_,𝓂,τ,-,y,i,r,:,m,:,y,a,(ti),h,w,·
 SPACE
@@ -37978,6 +41458,14 @@ v,·,a,v,∵,ƶ,l,a,h
 SPACE
 w,_,y,·,i,τ,·,:,n,‥,(me),h,w,·
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,v,y,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,v,‥,𝓂,y,τ,-,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 h,_,f,·,:,q,u,d,·,o,(ti),τ
 SPACE
 ʕ,_,d,-,y,(me),w,o,m.
@@ -38250,6 +41738,14 @@ SPACE
 SPACE
 α,_,m,·,a,h,(p)
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,q,w,m,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,q,w,o,m,_,τ,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 h,a,ʕ,_,m,·,u,⅃,d
 SPACE
@@ -38326,6 +41822,18 @@ SPACE
 ʕ,_,l,-,h,_,$,·si,·,:,v,a,k,a,(ti),h
 SPACE
 σ,a,v,i,𝓂,y,v,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 52:24 in vtrad vtsef
 w,_,y,·,i,q,·,_,⅃,x
@@ -38456,6 +41964,18 @@ SPACE
 m,‥,ʕ,_,(me),l
 SPACE
 α,_,d,:,m,a,τ,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 52:28 in vtrad vtsef
 z,∵,⅃,h
@@ -38537,6 +42057,18 @@ SPACE
 w,:,$,·sh,‥,(me),$,·sh
 SPACE
 m,‥,α,𝓂,w,o,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Jeremiah 52:31 in vtrad vtsef
 w,_,y,:,h,i,y,(tq)
@@ -38591,6 +42123,14 @@ SPACE
 SPACE
 m,i,v,·,‥,(me),y,τ
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,k,l,y,α,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,_,k,·,:,l,𝓂,w,·,α,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 Jeremiah 52:32 in vtrad vtsef
@@ -38608,6 +42148,14 @@ m,i,m,·,_,◆,ʕ,_,l
 SPACE
 l,:,k,i,σ,·,‥,(da),α
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,m,l,k,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,_,m,·,:,l,a,k,i,⟓,y,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE

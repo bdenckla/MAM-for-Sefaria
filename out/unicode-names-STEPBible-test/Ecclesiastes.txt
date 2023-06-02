@@ -221,6 +221,11 @@ SPACE
 $,·sh,∵,y,·,i,h,:,y,(ti),w,·
 SPACE
 l,a,α,_,x,:_,r,o,n,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Ecclesiastes 1:12 in vtrad vtsef
 α,:_,n,i,⅃,y
@@ -1101,6 +1106,18 @@ SPACE
 τ,·,_,(me),x,_,τ
 SPACE
 h,_,$,·sh,·,a,m,a,𝓂,y,i,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Ecclesiastes 3:2 in vtrad vtsef
 ʕ,‥,(me),τ
@@ -1207,6 +1224,18 @@ m,i,l,:,x,a,m,a,(ti),h
 w,:,ʕ,‥,(me),τ
 SPACE
 $,·sh,a,l,𝓂,w,o,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Ecclesiastes 3:9 in vtrad vtsef
 m,_,h,-,y,·,i,τ,:,r,w,o,n.,(p)
@@ -1771,6 +1800,14 @@ SPACE
 l,:,k,oa,l,-,ʕ,:_,m,a,l,ƶ,w,o
 SPACE
 g,·,_,m.,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,ʕ,‥,y,n,(ti),w,o,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,ʕ,y,n,y,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 l,o,α,-,τ,i,$,·si,:,v,·,_,⅃,ʕ
 SPACE
@@ -1975,6 +2012,14 @@ r,𝓂,w,·,x,_,.
 Ecclesiastes 4:17 in vtrad vtsef
 $,·sh,:,m,o,⅃,r
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,r,g,l,y,k.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,r,_,g,:,l,:,k.,a,◆,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 k,·,_,α,:_,$,·sh,∵,<,r
 SPACE
@@ -2190,6 +2235,14 @@ SPACE
 SPACE
 v,·,_,k,·,o,⅃,l
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,y,α,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,⅄,w,·,α,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 m,∵,(me),l,∵,k.,:
 SPACE
@@ -2234,6 +2287,14 @@ SPACE
 k,·,i,(ti),y
 SPACE
 α,i,m.,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,r,:,α,(me),w,·,τ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,r,α,y,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 ʕ,‥,y,n,a,𝓂,y,w,.
 
@@ -2401,6 +2462,9 @@ SPACE
 m,i,σ,:,f,·,_,(da),r
 SPACE
 y,:,m,‥,y,-
+START span class=mam-kq-trivial
+x,_,y,·,a,⟓,w
+STOP span class=mam-kq-trivial
 SPACE
 α,:_,$,·sh,∵,r,-,n,a,𝓂,τ,_,n.,-,l,(me),w,o
 SPACE
@@ -2714,6 +2778,14 @@ l,a,d,i,ƶ,y,n.
 SPACE
 ʕ,i,(me),m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,h,τ,q,y,f.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,∵,τ,·,_,q,·,i,(ti),y,f.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 m,i,m,·,∵,𝓂,n,·,w,·,.
 
@@ -2769,6 +2841,8 @@ h,_,$,·sh,·,a,𝓂,m,∵,$,·sh,.
 
 Ecclesiastes 7:1 in vtrad vtsef
 START big 
+θ,(me)
+STOP big 
 w,o,v
 SPACE
 $,·sh,‥,(ti),m.
@@ -3199,6 +3273,14 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 g,·,_,m.,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,α,_,τ,·,a,(ti),h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,α,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 q,i,l,·,_,(me),l,:,τ,·,a
 SPACE
@@ -3998,6 +4080,14 @@ k,·,i,y,-,m,i,y,(p)
 SPACE
 α,:_,$,·sh,∵,⅃,r
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,v,x,r,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,:,x,u,v,·,_,ƶ,r,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,∵,(me),l
 SPACE
@@ -4468,6 +4558,14 @@ l,i,$,·si,:,m,o,α,l,𝓂,w,o,.
 Ecclesiastes 10:3 in vtrad vtsef
 w,:,g,_,m.,-,v,·,_,d,·,∵,⟓,r,∵,k.,:
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,k,$,h,σ,k,l,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,k,·,:,$,·sh,∵,σ,·,a,k,a,(me),l,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 h,o,l,‥,(ti),k.,:
 SPACE
@@ -4606,6 +4704,9 @@ y,:,g,_,v,·,‥,⅄,r
 SPACE
 w,:,y,i,τ,:,r,(me),w,o,n.
 SPACE
+START span class=mam-kq-trivial
+h,_,k,:,$,·sh,‥,(ti),y,r
+STOP span class=mam-kq-trivial
 SPACE
 x,oa,k,:,m,a,𝓂,h,.
 
@@ -4791,6 +4892,14 @@ SPACE
 SPACE
 w,·,v,_,(me),ʕ,_,l
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,k,n,f,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,k,·,:,n,a,f,_,(ti),y,i,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 y,_,g,·,‥,(me),y,d
 SPACE
@@ -5199,6 +5308,14 @@ SPACE
 α,:_,$,·sh,∵,<,r
 SPACE
 l,o,𝓂,α,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,‥,r,a,τ,‥,q,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,r,x,q,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 x,∵,⅃,v,∵,l
 SPACE
@@ -5346,6 +5463,8 @@ v,·,a,$,·si,a,𝓂,r,.
 
 Ecclesiastes 12:13 in vtrad vtsef
 START big 
+σ,(me)
+STOP big 
 w,o,f.
 SPACE
 d,·,a,v,a,(ti),r
@@ -5385,4 +5504,32 @@ SPACE
 SPACE
 w,:,α,i,m.,-,r,a,𝓂,ʕ,.
 START small 
+σ,w,f.
+SPACE
+d,v,r
+SPACE
+h,k,l
+SPACE
+n,$,m,ʕ
+SPACE
+α,τ
+SPACE
+h,α,l,h,y,m.
+SPACE
+y,r,α
+SPACE
+w,α,τ
+SPACE
+m,ц,w,τ,y,w
+SPACE
+$,m,w,r
+SPACE
+k,y
+SPACE
+z,h
+SPACE
+k,l
+SPACE
+h,α,d,m.
+STOP small 
 

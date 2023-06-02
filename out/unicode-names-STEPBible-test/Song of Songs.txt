@@ -1,6 +1,8 @@
 unicode_names Song of Songs
 Song of Songs 1:1 in vtrad vtsef
 START big 
+$,·sh,i,(me)
+STOP big 
 y,r
 SPACE
 h,_,$,·sh,·,i,y,r,i,(ti),y,m.
@@ -69,6 +71,11 @@ SPACE
 m,‥,y,$,·sh,a,r,i,(ti),y,m.
 SPACE
 α,:_,h,‥,v,𝓂,w,·,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Song of Songs 1:5 in vtrad vtsef
 $,·sh,:,x,w,o,r,a,<,h
@@ -177,6 +184,11 @@ SPACE
 m,i,$,·sh,:,k,·,:,n,(me),w,o,τ
 SPACE
 h,a,r,o,ʕ,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Song of Songs 1:9 in vtrad vtsef
 l,:,σ,u,𝓂,σ,a,τ,i,y,(p)
@@ -261,6 +273,18 @@ SPACE
 ʕ,‥,(me),y,n.
 SPACE
 g,·,∵,𝓂,d,i,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Song of Songs 1:15 in vtrad vtsef
 h,i,n,·,a,<,k.,:
@@ -299,6 +323,14 @@ v,·,a,τ,·,‥,(p),y,n,w,·,(p)
 SPACE
 α,:_,r,a,z,i,ƶ,y,m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,r,x,y,θ,n,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,r,_,h,i,y,θ,‥,(ti),n,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,·,:,r,w,o,τ,i,𝓂,y,m.,.
 
@@ -424,6 +456,18 @@ SPACE
 ʕ,_,(me),d
 SPACE
 $,·sh,∵,τ,·,∵,x,:,f,·,a,𝓂,ц.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Song of Songs 2:8 in vtrad vtsef
 q,⅃,w,o,l
@@ -547,12 +591,32 @@ r,‥,⅄,y,x,_
 SPACE
 q,(me),w,·,m,i,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,l,k,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,l,a,⟓,k.,:,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 r,_,ʕ,:,y,a,τ,i,(me),y
 SPACE
 y,a,f,a,τ,i,(ti),y
 SPACE
 w,·,l,:,k,i,y,-,l,a,𝓂,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Song of Songs 2:14 in vtrad vtsef
 y,w,o,n,a,τ,i,(G),y
@@ -580,6 +644,18 @@ SPACE
 w,·,m,_,r,:,α,‥,(me),y,k.,:
 SPACE
 n,a,α,w,∵,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Song of Songs 2:15 in vtrad vtsef
 α,∵,𝓂,x,:∵,z,w,·,-,l,a,(p),n,w,·,(p)
@@ -639,6 +715,18 @@ SPACE
 ʕ,_,l,-,h,a,(me),r,‥,y
 SPACE
 v,a,𝓂,τ,∵,r,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Song of Songs 3:1 in vtrad vtsef
 ʕ,_,l,-,m,i,$,·sh,:,k,·,a,v,i,y,(p)
@@ -766,6 +854,18 @@ SPACE
 ʕ,_,(me),d
 SPACE
 $,·sh,∵,τ,·,∵,x,:,f,·,a,𝓂,ц.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Song of Songs 3:6 in vtrad vtsef
 m,i,⅃,y
@@ -831,6 +931,18 @@ SPACE
 m,i,f,·,_,(ti),x,_,d
 SPACE
 v,·,_,l,·,‥,y,l,𝓂,w,o,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Song of Songs 3:9 in vtrad vtsef
 α,_,f,·,i,r,:,y,◆,w,o,n.
@@ -904,6 +1016,18 @@ SPACE
 $,·si,i,m,:,x,_,(me),τ
 SPACE
 l,i,v,·,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Song of Songs 4:1 in vtrad vtsef
 h,i,n,·,a,(qa),k.,:
@@ -1055,6 +1179,18 @@ SPACE
 α,‥,(me),y,n.
 SPACE
 v,·,a,𝓂,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Song of Songs 4:8 in vtrad vtsef
 α,i,τ,·,i,<,y
@@ -1102,6 +1238,14 @@ k,_,l,·,a,⅄,h
 SPACE
 l,i,v,·,_,v,:,τ,·,i,(p),n,i,y,(p)
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,α,x,d,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,v,·,:,α,_,x,_,⅃,τ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 m,‥,ʕ,‥,y,n,_,ƶ,y,i,k.,:
 SPACE
@@ -1304,6 +1448,18 @@ SPACE
 w,:,$,·sh,i,k,:,r,(ti),w,·
 SPACE
 d,·,w,o,d,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Song of Songs 5:2 in vtrad vtsef
 α,:_,n,i,(me),y
@@ -1672,6 +1828,18 @@ SPACE
 h,a,r,o,ʕ,∵,(ti),h
 SPACE
 v,·,_,$,·sh,·,w,o,$,·sh,_,n,·,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Song of Songs 6:4 in vtrad vtsef
 y,a,f,a,(qa),h
@@ -1792,6 +1960,18 @@ SPACE
 w,·,f,i,𝓂,y,l,_,g,:,$,·sh,i,(ti),y,m.
 SPACE
 w,_,𝓂,y,:,h,_,l,:,l,𝓂,w,·,h,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Song of Songs 6:10 in vtrad vtsef
 m,i,y,-,z,o,(me),α,τ
@@ -1811,6 +1991,18 @@ SPACE
 α,:_,y,u,m,·,a,(ti),h
 SPACE
 k,·,_,n,·,i,d,:,g,·,a,l,𝓂,w,o,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Song of Songs 6:11 in vtrad vtsef
 α,∵,l,-,g,·,i,n,·,_,<,τ
@@ -2050,6 +2242,18 @@ SPACE
 w,:,ʕ,a,l,_,(ti),y
 SPACE
 τ,·,:,$,·sh,w,·,q,a,τ,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Song of Songs 7:12 in vtrad vtsef
 l,:,k,a,<,h
@@ -2191,6 +2395,18 @@ SPACE
 ʕ,_,(me),d
 SPACE
 $,·sh,∵,τ,·,∵,x,:,f,·,a,𝓂,ц.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Song of Songs 8:5 in vtrad vtsef
 m,i,⅃,y
@@ -2288,6 +2504,18 @@ SPACE
 y,a,v,(me),w,·,z,w,·
 SPACE
 l,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Song of Songs 8:8 in vtrad vtsef
 α,a,x,(me),w,o,τ
@@ -2353,6 +2581,11 @@ SPACE
 k,·,:,m,w,o,ц,:,α,‥,(me),τ
 SPACE
 $,·sh,a,l,𝓂,w,o,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Song of Songs 8:11 in vtrad vtsef
 k,·,∵,⅃,r,∵,m.

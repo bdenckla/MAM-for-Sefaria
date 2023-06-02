@@ -45,10 +45,10 @@ d,·,i,v,·,∵,r,-,y,:,h,o,w,a,(ti),h
 SPACE
 v,·,:,h,w,o,$,·sh,‥,⅄,ʕ,_
 NO-BREAK SPACE
-START span class=mam-spi-samekh
+START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-samekh
-START br class=mam-br-after-pe
+STOP span class=mam-spi-pe
+START br 
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 y,:,h,o,w,a,(ge),h
@@ -249,6 +249,11 @@ SPACE
 l,o,α,-,α,∵,h,:,y,∵,(me),h
 SPACE
 l,a,k,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Hosea 2:1 in vtrad vtsef
 w,:,𝓂,⌕,h,a,y,a,⌕,h
@@ -642,6 +647,18 @@ SPACE
 $,·sh,a,k,:,x,a,(ti),h
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Hosea 2:16 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -789,6 +806,11 @@ SPACE
 w,:,y,a,d,_,(ti),ʕ,_,τ,·,:
 SPACE
 α,∵,τ,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Hosea 2:23 in vtrad vtsef
 w,:,h,a,y,a,⅃,h
@@ -856,6 +878,11 @@ SPACE
 y,o,α,m,_,(me),r
 SPACE
 α,:∵,l,o,h,a,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Hosea 3:1 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -1013,6 +1040,11 @@ SPACE
 v,·,:,α,_,x,:_,r,i,(me),y,τ
 SPACE
 h,_,y,·,a,m,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Hosea 4:1 in vtrad vtsef
 $,·sh,i,m,:,ʕ,(me),w,·
@@ -1144,6 +1176,14 @@ h,_,d,·,_,⅃,ʕ,_,τ
 SPACE
 m,a,α,_,◆,σ,:,τ,·,a
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,α,m,α,σ,α,k.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,α,∵,m,:,α,a,𝓂,σ,:,k.,a,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 m,i,k,·,_,h,‥,⅃,n.
 SPACE
@@ -1411,6 +1451,11 @@ SPACE
 w,:,y,‥,v,o,(ti),$,·sh,w,·
 SPACE
 m,i,z,·,i,v,:,x,w,o,τ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Hosea 5:1 in vtrad vtsef
 $,·sh,i,m,:,ʕ,w,·,-,z,o,(qa),α,τ
@@ -1572,6 +1617,18 @@ SPACE
 x,o,(ti),d,∵,$,·sh
 SPACE
 α,∵,τ,-,x,∵,l,:,q,‥,y,h,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Hosea 5:8 in vtrad vtsef
 τ,·,i,q,:,ʕ,<,w,·
@@ -1923,6 +1980,14 @@ y,i,$,·si,:,r,a,α,‥,ƶ,l
 SPACE
 r,a,α,i,(ti),y,τ,i,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,ʕ,r,y,r,y,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,_,ʕ,:_,r,𝓂,w,·,r,i,y,·,a,⅄,h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 $,·sh,a,(ye),m.
 SPACE
@@ -1948,6 +2013,11 @@ SPACE
 $,·sh,:,v,(me),w,·,τ
 SPACE
 ʕ,_,m,·,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Hosea 7:1 in vtrad vtsef
 k,·,:,r,oa,f,:,α,i,⅃,y
@@ -2204,6 +2274,18 @@ SPACE
 k,·,:,$,·sh,‥,(ti),m,_,ʕ
 SPACE
 l,_,ʕ,:_,d,a,τ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Hosea 7:13 in vtrad vtsef
 α,<,w,o,y
@@ -2525,8 +2607,24 @@ SPACE
 l,_,x,:_,θ,o,𝓂,α,.
 
 Hosea 8:12 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,α,k,τ,w,v,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,α,∵,(qa),k,:,τ,·,oa,v,-,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 l,ƶ,w,o
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,r,v,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,r,u,v,·,‥,(ti),y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 τ,·,w,o,r,a,τ,i,⅄,y
 SPACE
@@ -2593,6 +2691,11 @@ SPACE
 w,:,α,a,k,:,l,a,(ti),h
 SPACE
 α,_,r,:,m,:,n,o,τ,∵,𝓂,y,h,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Hosea 9:1 in vtrad vtsef
 α,_,l,-,τ,·,i,$,·si,:,m,_,(qa),x
@@ -2816,6 +2919,18 @@ SPACE
 y,i,f,:,q,(ti),w,o,d
 SPACE
 x,_,θ,·,o,α,w,τ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Hosea 9:10 in vtrad vtsef
 k,·,_,ʕ,:_,n,a,v,i,⅃,y,m.
@@ -2962,6 +3077,14 @@ y,a,v,‥,(ti),$,·sh
 SPACE
 f,·,:,r,i,⅃,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,l,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,v,_,𝓂,l,-,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 y,_,ʕ,:_,$,·si,⅄,w,·,n.
 SPACE
 g,·,_,(ye),m.
@@ -2994,6 +3117,18 @@ SPACE
 n,o,d,:,d,i,(ti),y,m.
 SPACE
 v,·,_,g,·,w,o,y,i,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Hosea 10:1 in vtrad vtsef
 g,·,∵,<,f,∵,n.
@@ -3188,6 +3323,11 @@ SPACE
 n,i,f,:,l,(me),w,·
 SPACE
 ʕ,a,l,‥,𝓂,y,n,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Hosea 10:9 in vtrad vtsef
 m,i,y,m,‥,y,(p)
@@ -3227,6 +3367,14 @@ v,·,:,α,oa,σ,:,r,a,(ti),m.
 SPACE
 l,i,$,·sh,:,τ,·,‥,(me),y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,ʕ,y,n,τ,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,ʕ,w,o,n,o,τ,a,𝓂,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 Hosea 10:11 in vtrad vtsef
@@ -3606,6 +3754,18 @@ SPACE
 ʕ,_,l,-,v,·,a,τ,·,‥,y,h,∵,(ti),m.
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Hosea 12:1 in vtrad vtsef
 σ,:,v,a,v,u,<,n,i,𝓂,y
@@ -4120,6 +4280,11 @@ SPACE
 w,:,α,∵,q,·,_,(ti),x
 SPACE
 v,·,:,ʕ,∵,v,:,r,a,τ,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Hosea 13:12 in vtrad vtsef
 ц,a,r,w,·,r,(p)
@@ -4247,6 +4412,11 @@ SPACE
 w,:,h,a,r,i,y,·,w,o,τ,a,(ti),y,w
 SPACE
 y,:,v,u,q,·,a,𝓂,ʕ,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Hosea 14:2 in vtrad vtsef
 $,·sh,(ye),w,·,v,a,h

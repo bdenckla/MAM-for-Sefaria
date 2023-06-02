@@ -70,6 +70,11 @@ SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
 l,:,h,i,v,·,a,n,𝓂,w,o,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Haggai 1:3 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -148,6 +153,11 @@ SPACE
 α,∵,l,-,ц,:,r,(me),w,o,r
 SPACE
 n,a,q,𝓂,w,·,v,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Haggai 1:7 in vtrad vtsef
 k,·,o,(me),h
@@ -179,6 +189,14 @@ h,_,v,·,a,⅄,y,i,τ
 SPACE
 w,:,α,∵,r,:,ц,∵,h,-,v,·,(me),w,o
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,α,k,v,d,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,α,∵,k,·,a,v,:,d,a,(ti),h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,a,m,_,(me),r
 SPACE
@@ -276,6 +294,11 @@ SPACE
 k,·,oa,l,-,y,:,g,i,(me),y,ʕ,_
 SPACE
 k,·,_,f,·,a,𝓂,y,i,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Haggai 1:12 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,_,⅃,ʕ
@@ -401,6 +424,11 @@ SPACE
 ц,:,v,a,α,(ti),w,o,τ
 SPACE
 α,:∵,l,o,h,‥,y,h,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Haggai 1:15 in vtrad vtsef
 v,·,:,y,(qa),w,o,m.
@@ -563,6 +591,11 @@ SPACE
 v,·,:,τ,w,o,k,:,k,∵,⅄,m.
 SPACE
 α,_,l,-,τ,·,i,y,r,a,𝓂,α,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Haggai 2:6 in vtrad vtsef
 k,·,i,⅃,y
@@ -669,6 +702,11 @@ SPACE
 y,:,h,o,w,a,(me),h
 SPACE
 ц,:,v,a,α,𝓂,w,o,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Haggai 2:10 in vtrad vtsef
 v,·,:,ʕ,∵,$,·si,:,r,i,<,y,m.
@@ -933,6 +971,11 @@ SPACE
 h,_,z,·,∵,(ti),h
 SPACE
 α,:_,v,a,r,‥,𝓂,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Haggai 2:20 in vtrad vtsef
 w,_,y,:,h,i,(qa),y

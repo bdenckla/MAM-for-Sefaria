@@ -131,6 +131,11 @@ SPACE
 r,:,$,·sh,a,ʕ,i,⅃,y,m.
 SPACE
 τ,·,o,α,v,‥,𝓂,d,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 2:1 in vtrad vtsef
 l,a,(de),m,·,a,h
@@ -304,6 +309,11 @@ SPACE
 k,·,oa,l,-,x,(me),w,o,σ,‥,y
 SPACE
 v,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 3:1 in vtrad vtsef
 m,i,z,:,m,(me),w,o,r
@@ -447,6 +457,11 @@ SPACE
 v,i,r,:,k,a,τ,∵,⅃,k.,a
 SPACE
 σ,·,∵,𝓂,l,a,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 4:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(me),x,_
@@ -596,6 +611,11 @@ SPACE
 l,a,γ,v,∵,◆,θ,_,x
 SPACE
 τ,·,𝓂,w,o,$,·sh,i,y,v,‥,𝓂,n,i,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 5:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(me),x,_
@@ -746,6 +766,14 @@ l,:,m,_,(me),ʕ,_,n.
 SPACE
 $,·sh,w,o,r,:,r,a,⅄,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,w,$,r,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,_,y,:,$,·sh,_,(ti),r,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,:,f,a,n,_,⅃,y
 SPACE
@@ -832,6 +860,11 @@ SPACE
 r,a,ц,(me),w,o,n.
 SPACE
 τ,·,_,ʕ,:,θ,:,r,∵,𝓂,n,·,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 6:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,⅃,x,_
@@ -882,6 +915,14 @@ n,i,v,:,h,:_,l,a,⅃,h
 SPACE
 m,:,α,o,⅄,d
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,α,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,α,_,τ,·,a,(me),h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 y,:,γ,h,o,w,a,◆,h
 SPACE
@@ -997,6 +1038,11 @@ SPACE
 y,‥,v,o,(me),$,·sh,w,·
 SPACE
 r,a,𝓂,g,_,ʕ,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 7:1 in vtrad vtsef
 $,·sh,i,g,·,a,y,◆,w,o,n.
@@ -1277,6 +1323,11 @@ SPACE
 $,·sh,‥,𝓂,m.,-,y,:,h,o,w,a,(me),h
 SPACE
 ʕ,∵,l,:,y,𝓂,w,o,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 8:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(me),x,_
@@ -1423,6 +1474,11 @@ SPACE
 $,·sh,i,γ,m,:,k.,a,◆
 SPACE
 v,·,:,k,oa,l,-,h,a,α,a,𝓂,r,∵,ц.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 9:1 in vtrad vtsef
 l,_,(de),m,:,n,_,ц,·,‥,x,_
@@ -1611,6 +1667,14 @@ l,o,𝓂,α,-,$,·sh,a,γ,k,_,◆,x
 SPACE
 ц,_,ʕ,:_,q,_,(me),τ
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,ʕ,n,y,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,ʕ,:_,n,a,w,i,𝓂,y,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 Psalms 9:14 in vtrad vtsef
@@ -1713,6 +1777,14 @@ SPACE
 SPACE
 τ,·,i,q,:,w,_,(me),τ
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,ʕ,n,w,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,ʕ,:_,γ,n,i,y,·,i,◆,y,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 τ,·,o,α,v,_,(me),d
 SPACE
@@ -1755,6 +1827,11 @@ SPACE
 h,‥,⅃,m,·,a,h
 SPACE
 σ,·,∵,𝓂,l,a,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 10:1 in vtrad vtsef
 l,a,m,a,⅃,h
@@ -1831,6 +1908,13 @@ k,·,oa,l,-,m,:,z,i,m,·,w,o,τ,a,𝓂,y,w,.
 Psalms 10:5 in vtrad vtsef
 y,a,≁,x,i,<,y,l,w,·
 SPACE
+START span class=mam-kq-trivial
+d,:,r,a,k,a,(qa),w
+THIN SPACE
+START b 
+|
+STOP b 
+STOP span class=mam-kq-trivial
 SPACE
 v,·,:,k,oa,l,-,ʕ,‥,◆,τ
 SPACE
@@ -1935,6 +2019,14 @@ SPACE
 v,:,r,i,$,·sh,:,τ,·,𝓂,w,o,.
 
 Psalms 10:10 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,d,k,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,i,d,:,k,·,∵,(me),h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 y,a,$,·sh,o,⅄,x,_
 SPACE
@@ -1942,6 +2034,16 @@ w,:,n,a,f,_,(me),l
 SPACE
 v,·,_,γ,ʕ,:_,ц,w,·,m,a,◆,y,w
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,x,l,k,α,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,x,‥,⅃,l
+SPACE
+k,·,a,α,i,𝓂,y,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 Psalms 10:11 in vtrad vtsef
@@ -1974,6 +2076,14 @@ y,a,d,∵,⅄,k.,a
 SPACE
 α,_,l,-,τ,·,i,$,·sh,:,k,·,_,(me),x
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,ʕ,n,y,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,ʕ,:_,n,a,w,i,𝓂,y,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 Psalms 10:13 in vtrad vtsef
@@ -2103,6 +2213,11 @@ SPACE
 α,:∵,γ,n,◆,w,o,$,·sh
 SPACE
 m,i,n.,-,h,a,α,a,𝓂,r,∵,ц.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 11:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,◆,x,_
@@ -2123,6 +2238,14 @@ SPACE
 SPACE
 l,:,n,_,f,:,$,·sh,i,⅄,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,n,w,d,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,n,γ,◆,w,·,d,i,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 h,_,r,:,k,∵,(me),m.
 SPACE
@@ -2241,6 +2364,11 @@ SPACE
 y,∵,x,:∵,z,(me),w,·
 SPACE
 f,a,n,‥,𝓂,y,m,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 12:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(me),x,_
@@ -2404,6 +2532,11 @@ SPACE
 l,i,v,:,n,‥,(me),y
 SPACE
 α,a,d,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 13:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,◆,x,_
@@ -2518,6 +2651,11 @@ SPACE
 g,a,m,_,⅃,l
 SPACE
 ʕ,a,l,a,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 14:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,◆,x,_
@@ -2657,6 +2795,11 @@ SPACE
 y,i,$,·si,:,m,_,(me),x
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 15:1 in vtrad vtsef
 m,i,z,:,m,◆,w,o,r
@@ -2762,6 +2905,11 @@ SPACE
 y,i,m,·,⅃,w,o,θ
 SPACE
 l,:,ʕ,w,o,l,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 16:1 in vtrad vtsef
 m,i,k,:,τ,·,a,(me),m.
@@ -2937,6 +3085,11 @@ SPACE
 v,·,i,y,m,i,y,n,:,k.,a,⅃
 SPACE
 n,∵,𝓂,ц,_,x,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 17:1 in vtrad vtsef
 τ,·,:,f,i,l,·,a,◆,h
@@ -3103,6 +3256,14 @@ Psalms 17:11 in vtrad vtsef
 SPACE
 ʕ,_,τ,·,a,⅃,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,σ,v,v,w,n,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,σ,:,v,a,v,⅄,w,·,n,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,‥,y,n,‥,y,h,∵,(me),m.
 SPACE
@@ -3163,6 +3324,14 @@ x,∵,l,:,q,a,(me),m.
 SPACE
 v,·,_,𝓂,x,_,y,·,i,y,m.,~
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,ц,f,y,n,k.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,·,𝓂,ц,:,f,w,·,n,:,k.,a,~,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 τ,·,:,m,_,l,·,‥,(ah),α
 SPACE
@@ -3192,6 +3361,11 @@ SPACE
 v,:,γ,h,a,q,i,◆,y,ц.
 SPACE
 τ,·,:,m,w,·,n,a,τ,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 18:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,<,x,_
@@ -3968,6 +4142,9 @@ SPACE
 α,:_,z,_,m,·,‥,𝓂,r,a,h,.
 
 Psalms 18:51 in vtrad vtsef
+START span class=mam-kq-trivial
+m,_,g,:,d,·,i,l,~
+STOP span class=mam-kq-trivial
 SPACE
 y,:,$,·sh,w,·,ʕ,(ah),w,o,τ
 SPACE
@@ -3988,6 +4165,11 @@ SPACE
 w,·,l,:,z,_,r,:,ʕ,◆,w,o
 SPACE
 ʕ,_,d,-,ʕ,w,o,l,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 19:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,◆,x,_
@@ -4247,6 +4429,11 @@ SPACE
 ц,w,·,r,i,(me),y
 SPACE
 w,:,g,o,α,:_,l,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 20:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,◆,x,_
@@ -4397,6 +4584,11 @@ SPACE
 y,_,ʕ,:_,n,‥,(me),n,w,·
 SPACE
 v,:,y,w,o,m.,-,q,oa,r,:,α,‥,𝓂,n,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 21:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,◆,x,_
@@ -4415,6 +4607,14 @@ SPACE
 w,·,γ,v,i,y,$,·sh,(me),w,·,ʕ,a,τ,:,k.,a,◆
 SPACE
 m,_,h,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,·,a,(me),g,∵,l,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,g,y,l,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 m,:,α,o,𝓂,d,.
 
@@ -4603,6 +4803,11 @@ SPACE
 w,·,𝓂,γ,n,:,z,_,m,·,:,r,a,◆,h
 SPACE
 g,·,:,v,w,·,r,a,τ,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 22:1 in vtrad vtsef
 l,_,(de),m,:,n,_,ц,·,‥,x,_
@@ -5103,6 +5308,11 @@ SPACE
 k,·,i,⅃,y
 SPACE
 ʕ,a,$,·si,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 23:1 in vtrad vtsef
 m,i,z,:,m,(me),w,o,r
@@ -5217,6 +5427,11 @@ SPACE
 l,:,α,o,⅃,r,∵,k.,:
 SPACE
 y,a,m,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 24:1 in vtrad vtsef
 l,:,d,a,w,i,◆,d
@@ -5401,6 +5616,11 @@ SPACE
 h,_,k,·,a,v,⅃,w,o,d
 SPACE
 σ,∵,𝓂,l,a,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 25:1 in vtrad vtsef
 l,:,d,a,w,i,μ,d
@@ -5697,6 +5917,11 @@ SPACE
 m,i,γ,k,·,o,◆,l
 SPACE
 ц,a,r,w,o,τ,a,𝓂,y,w,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 26:1 in vtrad vtsef
 l,:,d,a,w,i,(qa),d
@@ -5730,6 +5955,14 @@ y,:,h,o,w,a,⅃,h
 SPACE
 w,:,n,_,σ,·,‥,⅄,n,i,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,ц,r,w,f,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,ц,oa,r,:,f,a,(ti),h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 k,i,l,:,y,w,o,τ,_,⅃,y
 SPACE
@@ -5858,6 +6091,11 @@ SPACE
 α,:_,v,a,r,‥,(me),k.,:
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 27:1 in vtrad vtsef
 l,:,d,a,w,i,(qa),d
@@ -6158,6 +6396,11 @@ SPACE
 w,:,γ,q,_,w,·,‥,◆,h
 SPACE
 α,∵,l,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 28:1 in vtrad vtsef
 l,:,d,a,w,i,μ,d
@@ -6339,6 +6582,11 @@ SPACE
 w,:,γ,n,_,$,·si,·,:,α,‥,◆,m.
 SPACE
 ʕ,_,d,-,h,a,ʕ,w,o,l,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 29:1 in vtrad vtsef
 m,i,z,:,m,◆,w,o,r
@@ -6520,6 +6768,11 @@ SPACE
 α,∵,τ,-,ʕ,_,m,·,⅃,w,o
 SPACE
 v,_,$,·sh,·,a,l,𝓂,w,o,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 30:1 in vtrad vtsef
 m,i,z,:,m,μ,w,o,r
@@ -6567,6 +6820,14 @@ n,_,f,:,$,·sh,i,⅄,y
 SPACE
 x,i,γ,y,·,i,y,τ,_,◆,n,i,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,m,y,w,r,d,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,m,i,y,·,oa,𝓂,r,:,d,i,y,-,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 v,𝓂,w,o,r,.
 
 Psalms 30:5 in vtrad vtsef
@@ -6715,6 +6976,11 @@ SPACE
 l,:,ʕ,w,o,l,a,(me),m.
 SPACE
 α,w,o,d,∵,𝓂,k.,·,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 31:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,◆,x,_
@@ -7165,6 +7431,11 @@ SPACE
 k,·,oa,l,-,h,_,γ,m,:,y,_,x,:_,l,i,◆,y,m.
 SPACE
 l,_,𝓂,y,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 32:1 in vtrad vtsef
 l,:,d,a,w,i,◆,d
@@ -7394,6 +7665,11 @@ SPACE
 w,:,γ,h,_,r,:,n,i,◆,y,n,w,·
 SPACE
 k,·,oa,l,-,y,i,$,·sh,:,r,‥,y,-,l,‥,𝓂,v,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 33:1 in vtrad vtsef
 r,_,n,·,:,n,⅃,w,·
@@ -7694,6 +7970,11 @@ SPACE
 y,i,x,_,(me),l,:,n,w,·
 SPACE
 l,a,𝓂,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 34:1 in vtrad vtsef
 l,:,d,a,w,i,◆,d
@@ -7995,6 +8276,11 @@ SPACE
 k,·,oa,𝓂,l,-,h,_,x,o,σ,i,(me),y,m.
 SPACE
 v,·,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 35:1 in vtrad vtsef
 l,:,d,a,w,i,(qa),d
@@ -8448,6 +8734,11 @@ SPACE
 k,·,oa,l,-,h,_,γ,y,·,◆,w,o,m.
 SPACE
 τ,·,:,h,i,l,·,a,τ,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 36:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(il),x,_
@@ -8637,6 +8928,11 @@ SPACE
 w,:,l,o,α,-,y,a,(me),k,:,l,w,·
 SPACE
 q,𝓂,w,·,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 37:1 in vtrad vtsef
 l,:,d,a,w,i,(qa),d
@@ -9223,6 +9519,11 @@ SPACE
 k,·,i,y,-,x,a,(me),σ,w,·
 SPACE
 v,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 38:1 in vtrad vtsef
 m,i,z,:,m,(ti),w,o,r
@@ -9521,6 +9822,14 @@ y,i,γ,$,·si,:,θ,:,n,◆,w,·,n,i,y
 SPACE
 τ,·,_,⅃,x,_,τ
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,r,d,w,f,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,r,oa,𝓂,d,:,f,i,y,-,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 θ,𝓂,w,o,v,.
 
 Psalms 38:22 in vtrad vtsef
@@ -9542,10 +9851,23 @@ SPACE
 α,:_,γ,d,o,n,a,◆,y
 SPACE
 τ,·,:,$,·sh,w,·,ʕ,a,τ,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 39:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(me),x,_
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,l,y,d,y,τ,w,n.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,l,i,𝓂,y,d,w,·,τ,◆,w,·,n.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 m,i,z,:,m,(me),w,o,r
 SPACE
@@ -9801,6 +10123,11 @@ SPACE
 α,‥,l,‥,⅃,k.,:
 SPACE
 w,:,α,‥,y,n,∵,𝓂,n,·,i,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 40:1 in vtrad vtsef
 l,_,γ,m,:,n,_,ц,·,‥,◆,x,_
@@ -10206,6 +10533,11 @@ SPACE
 α,:∵,γ,l,o,h,_,◆,y
 SPACE
 α,_,l,-,τ,·,:,α,_,x,_,𝓂,r,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 41:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,◆,x,_
@@ -10240,6 +10572,14 @@ y,i,$,·sh,:,m,:,r,‥,⅃,h,w,·
 SPACE
 w,i,(de),y,x,_,y,·,‥,h,w,·
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,α,$,r,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,α,u,$,·sh,·,_,⅃,r,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,·,a,α,a,⅄,r,∵,ц.
 SPACE
@@ -10731,6 +11071,11 @@ SPACE
 f,·,a,γ,n,_,◆,y
 SPACE
 w,‥,α,l,o,h,a,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 43:1 in vtrad vtsef
 $,·sh,oa,f,:,θ,‥,<,n,i,y
@@ -10846,6 +11191,11 @@ SPACE
 f,·,a,γ,n,_,◆,y
 SPACE
 w,‥,α,l,o,h,a,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 44:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(il),x,_
@@ -11243,6 +11593,11 @@ SPACE
 l,:,m,_,⅃,ʕ,_,n.
 SPACE
 x,_,σ,:,d,·,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 45:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,⅃,x,_
@@ -11558,6 +11913,11 @@ SPACE
 l,:,ʕ,o,l,a,(me),m.
 SPACE
 w,a,ʕ,∵,𝓂,d,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 46:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(me),x,_
@@ -11746,6 +12106,11 @@ SPACE
 y,_,ʕ,:_,q,o,⅃,v
 SPACE
 σ,∵,𝓂,l,a,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 47:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(il),x,_
@@ -11895,6 +12260,11 @@ SPACE
 m,:,α,o,⅃,d
 SPACE
 n,_,𝓂,ʕ,:_,l,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 48:1 in vtrad vtsef
 $,·sh,i,(me),y,r
@@ -12126,6 +12496,11 @@ SPACE
 y,:,n,_,h,:_,g,‥,⅃,n,w,·
 SPACE
 ʕ,_,l,-,m,𝓂,w,·,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 49:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(il),x,_
@@ -12364,6 +12739,14 @@ STOP b
 SPACE
 l,_,v,·,o,◆,q,∵,r
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,ц,y,r,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,(de),ц,w,·,r,a,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,:,v,_,l,·,(me),w,o,τ
 SPACE
@@ -12458,6 +12841,11 @@ SPACE
 k,·,_,v,·,:,h,‥,m,⅃,w,o,τ
 SPACE
 n,i,d,:,m,𝓂,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 50:1 in vtrad vtsef
 m,i,z,:,m,◆,w,o,r
@@ -12799,6 +13187,11 @@ SPACE
 v,·,:,y,‥,⅃,$,·sh,_,ʕ
 SPACE
 α,:∵,l,o,h,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 51:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,◆,x,_
@@ -12834,6 +13227,14 @@ SPACE
 f,:,$,·sh,a,ʕ,a,𝓂,y,.
 
 Psalms 51:4 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,r,v,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,∵,(de),r,∵,v,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 k,·,_,v,·,:,σ,‥,⅃,n,i,y
 SPACE
@@ -13105,6 +13506,11 @@ SPACE
 ʕ,_,l,-,m,i,z,:,v,·,_,x,:_,k.,a,⅃
 SPACE
 f,a,r,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 52:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,◆,x,_
@@ -13292,6 +13698,11 @@ SPACE
 n,∵,⅃,g,∵,d
 SPACE
 x,:_,σ,i,y,d,∵,𝓂,y,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 53:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(me),x,_
@@ -13437,6 +13848,11 @@ SPACE
 y,i,$,·si,:,m,_,(me),x
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 54:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(me),x,_
@@ -13531,6 +13947,14 @@ SPACE
 n,_,f,:,$,·sh,i,𝓂,y,.
 
 Psalms 54:7 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,$,w,v,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,a,$,·sh,i,⅃,y,v,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 h,a,(de),r,_,ʕ
 SPACE
@@ -13565,6 +13989,11 @@ SPACE
 r,a,α,:_,τ,a,(me),h
 SPACE
 ʕ,‥,y,n,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 55:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(me),x,_
@@ -13780,6 +14209,20 @@ SPACE
 v,·,:,r,a,𝓂,g,∵,$,·sh,.
 
 Psalms 55:16 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,$,y,m,w,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,_,$,·sh,·,i,<,y
+SPACE
+m,a,(qa),w,∵,τ,THIN SPACE
+START b 
+|
+STOP b 
+RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,a,l,‥,◆,y,m,w,o
 SPACE
@@ -13960,6 +14403,11 @@ SPACE
 w,_,γ,α,:_,n,i,◆,y
 SPACE
 α,∵,v,:,θ,_,x,-,v,·,a,𝓂,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 56:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,<,x,_
@@ -14068,6 +14516,14 @@ START b
 |
 STOP b 
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,ц,f,y,n,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,i,ц,:,f,·,◆,w,o,n,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 h,‥,(de),m,·,a,h
 SPACE
@@ -14199,6 +14655,11 @@ SPACE
 v,·,:,γ,α,◆,w,o,r
 SPACE
 h,_,x,_,y,·,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 57:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,⅃,x,_
@@ -14419,6 +14880,11 @@ SPACE
 k,·,oa,l,-,h,a,α,a,⅃,r,∵,ц.
 SPACE
 k,·,:,v,w,o,d,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 58:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(me),x,_
@@ -14534,6 +15000,9 @@ y,i,τ,:,h,_,l,·,:,k,w,·,-,l,a,⅄,m,w,o
 SPACE
 y,i,d,:,r,o,(me),k.,:
 SPACE
+START span class=mam-kq-trivial
+x,i,γ,ц,·,a,◆,w
+STOP span class=mam-kq-trivial
 SPACE
 k,·,:,m,⅃,w,o
 SPACE
@@ -14608,6 +15077,11 @@ SPACE
 $,·sh,o,f,:,θ,i,(me),y,m.
 SPACE
 v,·,a,α,a,𝓂,r,∵,ц.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 59:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,⅃,x,_
@@ -14776,6 +15250,14 @@ m,i,$,·si,:,g,·,_,v,·,i,𝓂,y,.
 Psalms 59:11 in vtrad vtsef
 α,:∵,l,o,h,‥,⅃,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,x,σ,d,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,x,_,σ,:,d,·,i,⅃,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 y,:,q,_,d,·,:,m,‥,⅄,n,i,y
 SPACE
@@ -14860,6 +15342,14 @@ SPACE
 Psalms 59:16 in vtrad vtsef
 h,‥,(de),m,·,a,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,n,w,ʕ,w,n.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,:,n,i,y,ʕ,⅃,w,·,n.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,∵,α,:∵,k,o,⅄,l
 SPACE
@@ -14912,6 +15402,11 @@ SPACE
 α,:∵,l,o,h,‥,(me),y
 SPACE
 x,_,σ,:,d,·,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 60:1 in vtrad vtsef
 l,_,(de),m,:,n,_,ц,·,‥,x,_
@@ -15023,6 +15518,14 @@ h,w,o,$,·sh,i,(ti),y,ʕ,a,h
 SPACE
 y,:,m,i,y,n,:,k.,a,⅃
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,ʕ,n,n,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,_,ʕ,:_,n,‥,𝓂,n,i,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 Psalms 60:8 in vtrad vtsef
@@ -15145,6 +15648,11 @@ SPACE
 y,a,v,(me),w,·,σ
 SPACE
 ц,a,r,‥,𝓂,y,n,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 61:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(il),x,_
@@ -15286,6 +15794,11 @@ START small
 STOP small 
 THIN SPACE
 y,𝓂,w,o,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 62:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(me),x,_
@@ -15512,6 +16025,11 @@ SPACE
 l,:,α,i,⅃,y,$,·sh
 SPACE
 k,·,:,𝓂,m,_,ʕ,:_,$,·si,‥,𝓂,h,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 63:1 in vtrad vtsef
 m,i,z,:,m,(me),w,o,r
@@ -15694,6 +16212,11 @@ SPACE
 f,·,i,⅃,y
 SPACE
 d,w,o,v,:,r,‥,y,-,$,·sh,a,𝓂,q,∵,r,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 64:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,◆,x,_
@@ -15859,6 +16382,11 @@ SPACE
 w,:,γ,y,i,τ,:,h,_,l,:,l,◆,w,·
 SPACE
 k,·,oa,l,-,y,i,$,·sh,:,r,‥,y,-,l,‥,𝓂,v,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 65:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(me),x,_
@@ -16097,6 +16625,11 @@ SPACE
 y,i,γ,τ,:,r,w,o,ʕ,:_,ʕ,◆,w,·
 SPACE
 α,_,f.,-,y,a,$,·sh,i,𝓂,y,r,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 66:1 in vtrad vtsef
 l,_,(de),m,:,n,_,ц,·,‥,x,_
@@ -16222,6 +16755,14 @@ START b
 STOP b 
 SPACE
 α,_,l,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,a,r,(ti),w,·,m,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,r,y,m,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 l,a,⅃,m,w,o
 SPACE
@@ -16403,6 +16944,11 @@ SPACE
 w,:,γ,x,_,σ,:,d,·,◆,w,o
 SPACE
 m,‥,α,i,τ,·,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 67:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(me),x,_
@@ -16521,6 +17067,11 @@ SPACE
 α,γ,w,o,τ,◆,w,o
 SPACE
 k,·,oa,l,-,α,_,f,:,σ,‥,y,-,α,a,𝓂,r,∵,ц.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 68:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(me),x,_
@@ -17197,6 +17748,11 @@ SPACE
 v,·,a,r,(me),w,·,k.,:
 SPACE
 α,:∵,l,o,h,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 69:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(il),x,_
@@ -17770,6 +18326,11 @@ SPACE
 $,·sh,:,γ,m,◆,w,o
 SPACE
 y,i,$,·sh,:,k,·,:,n,w,·,-,v,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 70:1 in vtrad vtsef
 l,_,γ,m,:,n,_,ц,·,‥,◆,x,_
@@ -17874,6 +18435,11 @@ SPACE
 y,:,γ,h,o,w,a,◆,h
 SPACE
 α,_,l,-,τ,·,:,α,_,x,_,𝓂,r,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 71:1 in vtrad vtsef
 v,·,:,k.,a,𝓂,-,y,:,h,o,w,a,(me),h
@@ -18053,6 +18619,14 @@ SPACE
 SPACE
 l,:,ʕ,∵,z,:,r,a,(me),τ,i,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,x,y,$,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,x,𝓂,w,·,$,·sh,a,h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 Psalms 71:13 in vtrad vtsef
@@ -18181,6 +18755,18 @@ k,a,m,𝓂,w,o,k.,a,.
 Psalms 71:20 in vtrad vtsef
 α,:_,$,·sh,∵,<,r
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,r,α,y,τ,n,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,i,r,:,α,i,y,τ,_,(qa),n,i,y,THIN SPACE
+START b 
+|
+STOP b 
+RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ц,a,r,(me),w,o,τ
 SPACE
@@ -18190,6 +18776,14 @@ w,:,r,a,(ol),ʕ,(me),w,o,τ
 SPACE
 τ,·,a,$,·sh,(me),w,·,v
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,τ,x,y,n,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,τ,·,:,x,_,y,·,‥,⅄,n,i,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,·,𝓂,m,i,τ,·,:,h,o,m,(me),w,o,τ
 SPACE
@@ -18268,6 +18862,11 @@ SPACE
 m,:,v,_,q,:,$,·sh,‥,(me),y
 SPACE
 r,a,ʕ,a,τ,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 72:1 in vtrad vtsef
 l,i,$,·sh,:,l,o,m,o,(qa),h
@@ -18526,6 +19125,14 @@ l,:,𝓂,ʕ,w,o,l,a,◆,m.
 SPACE
 l,i,f,:,n,‥,y,-,$,·sh,∵,m,∵,$,·sh,~
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,n,y,n.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,i,n,·,(ah),w,o,n.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 $,·sh,:,(ol),m,(me),w,o
 SPACE
@@ -18618,11 +19225,27 @@ w,_,α,:_,n,i,◆,y
 SPACE
 k,·,i,(de),m,:,ʕ,_,θ
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,n,θ,w,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,n,a,θ,a,⅃,y,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 r,_,g,:,l,a,⅄,y
 SPACE
 k,·,:,γ,α,_,◆,y,i,n.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,f,k,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,u,f,·,:,k,(me),w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,:_,$,·sh,u,r,a,𝓂,y,.
 
@@ -18726,6 +19349,14 @@ START b
 |
 STOP b 
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,$,y,v,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,a,$,·sh,⅃,w,·,v,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,_,m,·,⅃,w,o
 SPACE
@@ -18811,6 +19442,14 @@ z,o,⅄,α,τ
 SPACE
 ʕ,a,m,a,(ti),l
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,y,α,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,⅃,w,·,α,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,:,ʕ,‥,y,n,a,𝓂,y,.
 
@@ -18982,6 +19621,11 @@ SPACE
 l,:,γ,σ,_,f,·,‥,◆,r
 SPACE
 k,·,oa,l,-,m,_,l,:,α,:_,k,w,o,τ,∵,𝓂,y,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 74:1 in vtrad vtsef
 m,_,$,·si,:,k,·,i,◆,y,l
@@ -19077,6 +19721,14 @@ SPACE
 q,_,r,:,d,·,u,m,·,𝓂,w,o,τ,.
 
 Psalms 74:6 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,ʕ,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,(de),ʕ,_,τ,·,a,h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 f,·,i,τ,·,w,·,x,∵,⅃,y,h,a
 SPACE
@@ -19161,6 +19813,14 @@ w,i,y,m,i,y,n,∵,⅄,k.,a
 SPACE
 m,i,q,·,∵,(ti),r,∵,v
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,x,w,q,k.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,x,‥,y,q,:,k.,a,⅃,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 k,_,l,·,‥,𝓂,h,.
 
@@ -19363,6 +20023,11 @@ SPACE
 ʕ,o,l,∵,(me),h
 SPACE
 τ,a,m,i,𝓂,y,d,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 75:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(me),x,_
@@ -19536,6 +20201,11 @@ SPACE
 q,_,𝓂,r,:,n,(me),w,o,τ
 SPACE
 ц,_,d,·,i,𝓂,y,q,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 76:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(me),x,_
@@ -19713,11 +20383,24 @@ SPACE
 n,γ,w,o,r,a,◆,α
 SPACE
 l,:,m,_,l,:,k,‥,y,-,α,a,𝓂,r,∵,ц.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 77:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(me),x,_
 SPACE
 ʕ,_,𝓂,l,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,:,d,w,·,τ,◆,w,·,n.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,d,y,τ,w,n.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 l,:,α,a,σ,a,(me),f.
 SPACE
@@ -19886,6 +20569,14 @@ SPACE
 ʕ,∵,l,:,y,𝓂,w,o,n.,.
 
 Psalms 77:12 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,α,z,k,y,r,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,α,∵,z,:,k,·,(me),w,o,r,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 m,_,ʕ,_,l,:,l,‥,y,-,y,a,⅄,h,·
 SPACE
@@ -20017,6 +20708,14 @@ v,·,_,y,·,a,<,m.
 SPACE
 d,·,_,r,:,k,·,∵,◆,k.,a
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,$,v,y,l,y,k.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,·,𝓂,(de),$,·sh,:,v,i,y,l,:,k.,a,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,·,:,m,_,⅃,y,i,m.
 SPACE
@@ -20038,6 +20737,11 @@ SPACE
 v,·,:,𝓂,y,_,d,-,m,o,$,·sh,∵,(me),h
 SPACE
 w,:,α,_,h,:_,r,o,𝓂,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 78:1 in vtrad vtsef
 m,_,$,·si,:,k,·,i,◆,y,l
@@ -21100,6 +21804,11 @@ SPACE
 k,·,_,f,·,a,⅃,y,w
 SPACE
 y,_,n,:,x,‥,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 79:1 in vtrad vtsef
 m,i,z,:,m,◆,w,o,r
@@ -21291,6 +22000,14 @@ SPACE
 SPACE
 y,i,w,·,a,d,_,⅃,ʕ
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,g,y,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,v,·,_,g,·,w,o,y,i,⅃,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,:,ʕ,‥,y,n,‥,⅄,y,n,w,·
 SPACE
@@ -21362,6 +22079,11 @@ SPACE
 n,:,γ,σ,_,f,·,‥,◆,r
 SPACE
 τ,·,:,h,i,l,·,a,τ,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 80:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(me),x,_
@@ -21549,6 +22271,8 @@ x,:_,z,i,⅃,y,r
 SPACE
 m,i,y,·,a,⅄
 START sup 
+ʕ,_
+STOP sup 
 r
 SPACE
 w,:,z,i,(ti),y,z
@@ -21580,6 +22304,8 @@ z,o,𝓂,α,τ,.
 Psalms 80:16 in vtrad vtsef
 w,:,(de)
 START big 
+k,_
+STOP big 
 n,·,a,h
 SPACE
 α,:_,$,·sh,∵,r,-,n,a,θ,:,ʕ,a,⅃,h
@@ -21643,6 +22369,11 @@ SPACE
 f,·,a,γ,n,∵,◆,y,k.,a
 SPACE
 w,:,n,i,w,·,a,$,·sh,‥,𝓂,ʕ,a,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 81:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(il),x,_
@@ -21894,6 +22625,11 @@ SPACE
 d,·,:,v,_,⅃,$,·sh
 SPACE
 α,_,$,·si,:,v,·,i,y,ʕ,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 82:1 in vtrad vtsef
 m,i,z,:,m,◆,w,o,r
@@ -22008,6 +22744,11 @@ SPACE
 τ,i,γ,n,:,x,_,◆,l
 SPACE
 v,·,:,k,oa,l,-,h,_,g,·,w,o,y,i,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 83:1 in vtrad vtsef
 $,·sh,i,(ti),y,r
@@ -22245,6 +22986,11 @@ SPACE
 ʕ,∵,γ,l,:,y,◆,w,o,n.
 SPACE
 ʕ,_,l,-,k,·,oa,l,-,h,a,α,a,𝓂,r,∵,ц.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 84:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(me),x,_
@@ -22303,6 +23049,8 @@ START b
 STOP b 
 SPACE
 START big 
+q,‥,(me)
+STOP big 
 n.
 SPACE
 l,a,h,·,~
@@ -22477,6 +23225,11 @@ SPACE
 v,·,o,θ,‥,(me),x,_
 SPACE
 v,·,a,𝓂,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 85:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,(il),x,_
@@ -22498,6 +23251,14 @@ SPACE
 SPACE
 $,·sh,_,γ,◆,v,:,τ,·,a
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,v,w,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,:,v,i,⅃,y,τ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 y,_,ʕ,:_,q,o,𝓂,v,.
 
@@ -22668,6 +23429,11 @@ SPACE
 l,:,d,∵,⅃,r,∵,k.,:
 SPACE
 f,·,:,ʕ,a,m,a,𝓂,y,w,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 86:1 in vtrad vtsef
 τ,·,:,f,i,l,·,a,◆,h
@@ -22965,6 +23731,11 @@ SPACE
 ʕ,:_,z,_,r,:,τ,·,_,(me),n,i,y
 SPACE
 w,:,n,i,x,_,m,:,τ,·,a,𝓂,n,i,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 87:1 in vtrad vtsef
 l,i,v,:,n,‥,y,-,q,o,(de),r,_,x
@@ -23074,6 +23845,11 @@ SPACE
 k,·,oa,𝓂,l,-,m,_,ʕ,:,y,a,n,_,(me),y
 SPACE
 v,·,a,𝓂,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 88:1 in vtrad vtsef
 $,·sh,i,(me),y,r
@@ -23367,6 +24143,11 @@ SPACE
 m,:,𝓂,y,u,d,·,a,ʕ,_,(me),y
 SPACE
 m,_,x,:,$,·sh,a,𝓂,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 89:1 in vtrad vtsef
 m,_,γ,$,·si,:,k,·,i,◆,y,l
@@ -23654,6 +24435,14 @@ SPACE
 SPACE
 w,·,γ,v,i,r,:,ц,w,o,n,:,k.,a,◆
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,τ,r,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,τ,·,a,r,(me),w,·,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 q,_,r,:,n,‥,𝓂,y,n,w,·,.
 
@@ -23794,6 +24583,14 @@ l,:,m,_,l,:,k,‥,y,-,α,a,𝓂,r,∵,ц.,.
 Psalms 89:29 in vtrad vtsef
 l,:,(de),ʕ,w,o,l,a,m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,α,$,m,w,r,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,α,∵,$,·sh,:,m,oa,r,-,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 l,⅃,w,o
 SPACE
 x,_,σ,:,d,·,i,⅄,y
@@ -24250,6 +25047,9 @@ SPACE
 n,i,v,:,h,a,𝓂,l,:,n,w,·,.
 
 Psalms 90:8 in vtrad vtsef
+START span class=mam-kq-trivial
+$,·sh,_,τ,·,a,⅃
+STOP span class=mam-kq-trivial
 SPACE
 ʕ,:_,w,hhfv,n,o,τ,‥,⅃,y,n,w,·
 SPACE
@@ -24411,6 +25211,11 @@ SPACE
 y,a,γ,d,‥,◆,y,n,w,·
 SPACE
 k,·,w,o,n,:,n,‥,𝓂,h,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 91:1 in vtrad vtsef
 y,o,(de),$,·sh,‥,v
@@ -24637,6 +25442,11 @@ SPACE
 w,:,γ,α,_,r,:,α,‥,◆,h,w,·
 SPACE
 v,·,i,y,$,·sh,w,·,ʕ,a,τ,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 92:1 in vtrad vtsef
 m,i,z,:,m,(me),w,o,r
@@ -24853,8 +25663,21 @@ SPACE
 ц,γ,w,·,r,i,◆,y
 SPACE
 w,:,𝓂,l,o,α,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,ʕ,_,w,:,l,a,(me),τ,a,h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,ʕ,l,τ,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 v,·,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 93:1 in vtrad vtsef
 y,:,h,o,w,a,⅃,h
@@ -24954,6 +25777,11 @@ SPACE
 l,:,α,o,⅃,r,∵,k.,:
 SPACE
 y,a,m,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 94:1 in vtrad vtsef
 α,‥,l,-,n,:,q,a,m,(me),w,o,τ
@@ -25289,6 +26117,11 @@ SPACE
 y,:,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,‥,𝓂,y,n,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 95:1 in vtrad vtsef
 l,:,(de),k,w,·
@@ -25458,6 +26291,11 @@ SPACE
 α,i,m.,-,y,:,γ,v,o,α,◆,w,·,n.
 SPACE
 α,∵,l,-,m,:,n,w,·,x,a,τ,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 96:1 in vtrad vtsef
 $,·sh,i,⅃,y,r,w,·
@@ -25673,6 +26511,11 @@ SPACE
 w,:,γ,ʕ,_,m,·,i,◆,y,m.
 SPACE
 v,·,∵,α,:∵,m,w,·,n,a,τ,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 97:1 in vtrad vtsef
 y,:,h,o,w,a,⅃,h
@@ -25860,6 +26703,11 @@ SPACE
 l,:,z,‥,⅃,k,∵,r
 SPACE
 q,oa,d,:,$,·sh,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 98:1 in vtrad vtsef
 m,i,z,:,m,μ,w,o,r
@@ -26017,6 +26865,11 @@ SPACE
 w,:,γ,ʕ,_,m,·,i,◆,y,m.
 SPACE
 v,·,:,m,‥,y,$,·sh,a,r,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 99:1 in vtrad vtsef
 y,:,h,o,w,a,⅃,h
@@ -26188,6 +27041,11 @@ SPACE
 y,:,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,‥,𝓂,y,n,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 100:1 in vtrad vtsef
 m,i,z,:,m,(me),w,o,r
@@ -26224,6 +27082,14 @@ SPACE
 SPACE
 h,𝓂,w,·,α,-,ʕ,a,(de),$,·si,a,n,w,·
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,l,α,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,l,⅃,w,o,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,:_,n,_,⅄,x,:,n,w,·
 SPACE
@@ -26268,6 +27134,11 @@ SPACE
 w,a,γ,d,o,◆,r
 SPACE
 α,:∵,m,w,·,n,a,τ,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 101:1 in vtrad vtsef
 l,:,d,a,w,i,◆,d
@@ -26348,6 +27219,14 @@ SPACE
 α,‥,d,a,𝓂,ʕ,.
 
 Psalms 101:5 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,m,l,w,$,n,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,m,:,l,oa,$,·sh,:,n,i,(il),y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,_,σ,·,‥,(qa),τ,∵,r
 THIN SPACE
@@ -26435,6 +27314,11 @@ SPACE
 k,·,oa,l,-,f,·,o,(me),ʕ,:_,l,‥,y
 SPACE
 α,a,𝓂,w,∵,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 102:1 in vtrad vtsef
 τ,·,:,(de),f,i,l,·,a,h
@@ -26761,6 +27645,14 @@ Psalms 102:24 in vtrad vtsef
 SPACE
 v,_,d,·,∵,(me),r,∵,k.,:
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,k,x,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,k,·,o,x,i,◆,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 q,i,ц,·,_,(me),r
 SPACE
@@ -26840,6 +27732,11 @@ SPACE
 l,:,f,a,n,∵,(me),y,k.,a
 SPACE
 y,i,k,·,𝓂,w,o,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 103:1 in vtrad vtsef
 l,:,d,a,w,i,(qa),d
@@ -27156,6 +28053,11 @@ SPACE
 n,_,γ,f,:,$,·sh,i,◆,y
 SPACE
 α,∵,τ,-,y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 104:1 in vtrad vtsef
 v,·,a,r,:,k,i,(me),y
@@ -27687,6 +28589,11 @@ SPACE
 α,∵,τ,-,y,:,h,o,w,a,◆,h
 SPACE
 h,_,𝓂,l,:,l,w,·,-,y,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 105:1 in vtrad vtsef
 h,w,o,d,⅃,w,·
@@ -27908,6 +28815,14 @@ Psalms 105:18 in vtrad vtsef
 SPACE
 v,_,k,·,∵,⅃,v,∵,l
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,r,g,l,y,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,r,_,g,:,l,⅄,w,o,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,·,_,γ,r,:,z,∵,◆,l
 SPACE
@@ -28034,6 +28949,14 @@ SPACE
 w,:,l,o,𝓂,α,-,m,a,γ,r,◆,w,·
 SPACE
 α,∵,τ,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,d,·,:,v,a,r,𝓂,w,o,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,d,v,r,y,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 .
 
 Psalms 105:29 in vtrad vtsef
@@ -28252,6 +29175,11 @@ SPACE
 y,i,n,:,ц,o,◆,r,w,·
 SPACE
 h,_,𝓂,l,:,l,w,·,-,y,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 106:1 in vtrad vtsef
 h,_,(me),l,:,l,w,·
@@ -28833,6 +29761,9 @@ w,_,γ,y,·,i,n,·,a,x,‥,◆,m.
 SPACE
 k,·,:,r,o,⅃,v
 SPACE
+START span class=mam-kq-trivial
+x,:_,σ,a,d,a,𝓂,w
+STOP span class=mam-kq-trivial
 .
 
 Psalms 106:46 in vtrad vtsef
@@ -29444,6 +30375,11 @@ SPACE
 x,_,𝓂,σ,:,d,‥,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 108:1 in vtrad vtsef
 $,·sh,i,(ti),y,r
@@ -29644,6 +30580,11 @@ SPACE
 y,a,v,(me),w,·,σ
 SPACE
 ц,a,r,‥,𝓂,y,n,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 109:1 in vtrad vtsef
 l,_,(de),m,:,n,_,ц,·,‥,x,_
@@ -30097,6 +31038,11 @@ SPACE
 m,i,$,·sh,·,o,f,:,θ,‥,(me),y
 SPACE
 n,_,f,:,$,·sh,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 110:1 in vtrad vtsef
 l,:,d,a,w,i,◆,d
@@ -30222,6 +31168,11 @@ SPACE
 y,a,r,i,(me),y,m.
 SPACE
 r,o,𝓂,α,$,·sh,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 111:1 in vtrad vtsef
 h,_,(me),l,:,l,w,·
@@ -30379,6 +31330,11 @@ SPACE
 ʕ,o,m,∵,(me),d,∵,τ
 SPACE
 l,a,ʕ,_,𝓂,d,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 112:1 in vtrad vtsef
 h,_,(me),l,:,l,w,·
@@ -30544,6 +31500,11 @@ SPACE
 r,:,$,·sh,a,ʕ,i,⅃,y,m.
 SPACE
 τ,·,o,α,v,‥,𝓂,d,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 113:1 in vtrad vtsef
 h,_,(me),l,:,l,w,·
@@ -30666,6 +31627,11 @@ SPACE
 $,·si,:,m,‥,x,a,◆,h
 SPACE
 h,_,𝓂,l,:,l,w,·,-,y,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 114:1 in vtrad vtsef
 v,·,:,ц,‥,⅃,α,τ
@@ -31028,6 +31994,11 @@ SPACE
 w,:,ʕ,_,d,-,ʕ,w,o,l,a,◆,m.
 SPACE
 h,_,𝓂,l,:,l,w,·,-,y,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 116:1 in vtrad vtsef
 α,a,(de),h,_,v,:,τ,·,i,y
@@ -31277,6 +32248,11 @@ SPACE
 y,:,𝓂,r,w,·,$,·sh,a,l,a,◆,CGJ,i,m.
 SPACE
 h,_,𝓂,l,:,l,w,·,-,y,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 117:1 in vtrad vtsef
 h,_,𝓂,l,:,l,⅃,w,·
@@ -31307,6 +32283,11 @@ SPACE
 l,:,ʕ,w,o,l,a,◆,m.
 SPACE
 h,_,𝓂,l,:,l,w,·,-,y,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 118:1 in vtrad vtsef
 h,w,o,d,⅃,w,·
@@ -31698,6 +32679,11 @@ SPACE
 l,:,ʕ,w,o,l,a,⅃,m.
 SPACE
 x,_,σ,:,d,·,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 119:1 in vtrad vtsef
 α,_,$,·sh,:,r,‥,(me),y
@@ -31784,6 +32770,11 @@ SPACE
 α,_,𝓂,l,-,τ,·,_,ʕ,_,z,:,v,‥,(me),n,i,y
 SPACE
 ʕ,_,d,-,m,:,α,o,𝓂,d,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 119:9 in vtrad vtsef
 v,·,_,m,·,∵,⅃,h
@@ -31868,6 +32859,11 @@ SPACE
 α,∵,$,·sh,:,k,·,_,⅃,x
 SPACE
 d,·,:,v,a,r,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 119:17 in vtrad vtsef
 g,·,:,m,o,(ti),l
@@ -31964,6 +32960,11 @@ SPACE
 α,_,n,:,$,·sh,‥,(me),y
 SPACE
 ʕ,:_,ц,a,τ,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 119:25 in vtrad vtsef
 d,·,a,v,:,q,a,⅃,h
@@ -32046,6 +33047,11 @@ SPACE
 τ,_,r,:,x,i,⅃,y,v
 SPACE
 l,i,v,·,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 119:33 in vtrad vtsef
 h,w,o,r,‥,⅃,n,i,y
@@ -32140,6 +33146,11 @@ SPACE
 v,·,:,ц,i,d,:,q,a,τ,:,k.,a,(me)
 SPACE
 x,_,y,·,‥,𝓂,n,i,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 119:41 in vtrad vtsef
 w,i,y,v,o,α,u,⅃,n,i,y
@@ -32234,6 +33245,11 @@ SPACE
 w,:,α,a,$,·si,i,(me),y,x,a,h
 SPACE
 v,:,x,u,q,·,∵,𝓂,y,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 119:49 in vtrad vtsef
 z,:,k,o,r,-,d,·,a,v,a,(me),r
@@ -32332,6 +33348,11 @@ SPACE
 f,i,q,·,u,d,∵,⅃,y,k.,a
 SPACE
 n,a,ц,a,𝓂,r,:,τ,·,i,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 119:57 in vtrad vtsef
 x,∵,l,:,q,i,(ti),y
@@ -32430,6 +33451,11 @@ SPACE
 x,u,q,·,∵,(me),y,k.,a
 SPACE
 l,_,m,·,:,d,‥,𝓂,n,i,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 119:65 in vtrad vtsef
 θ,(de),w,o,v
@@ -32536,6 +33562,11 @@ SPACE
 z,a,h,a,(me),v
 SPACE
 w,a,k,a,𝓂,σ,∵,f.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 119:73 in vtrad vtsef
 y,a,d,∵,⅃,y,k.,a
@@ -32620,6 +33651,14 @@ l,i,⅃,y
 SPACE
 y,:,r,‥,α,∵,⅄,y,k.,a
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,y,d,ʕ,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,γ,y,o,d,:,ʕ,‥,◆,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,‥,d,o,τ,∵,𝓂,y,k.,a,.
 
@@ -32635,6 +33674,11 @@ SPACE
 l,o,⅃,α
 SPACE
 α,‥,v,𝓂,w,o,$,·sh,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 119:81 in vtrad vtsef
 k,·,a,l,:,τ,a,⅃,h
@@ -32733,6 +33777,11 @@ SPACE
 ʕ,‥,d,(me),w,·,τ
 SPACE
 f,·,i,𝓂,y,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 119:89 in vtrad vtsef
 l,:,ʕ,w,o,l,a,(me),m.
@@ -32833,6 +33882,11 @@ SPACE
 m,i,ц,:,w,a,τ,:,k.,a,⅃
 SPACE
 m,:,α,o,𝓂,d,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 119:97 in vtrad vtsef
 m,a,h,-,α,a,h,_,(me),v,:,τ,·,i,y
@@ -32933,6 +33987,11 @@ SPACE
 k,·,oa,l,-,α,o,(il),r,_,x
 SPACE
 $,·sh,a,𝓂,q,∵,r,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 119:105 in vtrad vtsef
 n,‥,r,-,l,:,r,_,g,:,l,i,(me),y
@@ -33031,6 +34090,11 @@ SPACE
 l,:,ʕ,w,o,l,a,(me),m.
 SPACE
 ʕ,‥,𝓂,q,∵,v,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 119:113 in vtrad vtsef
 σ,‥,ʕ,:_,f,i,(me),y,m.
@@ -33119,6 +34183,11 @@ SPACE
 w,·,𝓂,m,i,m,·,i,$,·sh,:,f,·,a,θ,∵,(me),y,k.,a
 SPACE
 y,a,r,‥,𝓂,α,τ,i,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 119:121 in vtrad vtsef
 ʕ,a,(de),$,·si,i,y,τ,i,y
@@ -33213,6 +34282,11 @@ SPACE
 $,·sh,∵,⅃,q,∵,r
 SPACE
 $,·si,a,n,‥,𝓂,α,τ,i,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 119:129 in vtrad vtsef
 f,·,:,l,a,α,(me),w,o,τ
@@ -33303,6 +34377,11 @@ SPACE
 l,o,α,-,$,·sh,a,m,:,r,(me),w,·
 SPACE
 τ,𝓂,w,o,r,a,τ,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 119:137 in vtrad vtsef
 ц,_,d,·,i,⅃,y,q
@@ -33391,6 +34470,11 @@ SPACE
 h,:_,v,i,y,n,‥,(me),n,i,y
 SPACE
 w,:,α,∵,x,:,y,∵,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 119:145 in vtrad vtsef
 q,a,r,a,⅃,α,τ,i,y
@@ -33421,6 +34505,14 @@ v,_,(de),n,·,∵,$,·sh,∵,f.
 SPACE
 w,a,α,:_,$,·sh,_,w,·,‥,⅄,ʕ,a,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,l,d,v,r,y,k.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,l,i,d,:,v,a,r,:,k.,a,(me),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 y,i,x,a,𝓂,l,:,τ,·,i,y,.
 
@@ -33482,6 +34574,11 @@ SPACE
 l,:,ʕ,w,o,l,a,⅃,m.
 SPACE
 y,:,σ,_,d,:,τ,·,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 119:153 in vtrad vtsef
 r,:,α,‥,h,-,ʕ,oa,n,:,y,i,(me),y
@@ -33584,6 +34681,11 @@ SPACE
 k,·,oa,l,-,m,i,$,·sh,:,f,·,_,(me),θ
 SPACE
 ц,i,d,:,q,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 119:161 in vtrad vtsef
 $,·si,a,(de),r,i,y,m.
@@ -33592,6 +34694,14 @@ r,:,d,a,f,⅃,w,·,n,i,y
 SPACE
 x,i,n,·,a,⅄,m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,m,d,v,r,y,k.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,·,γ,m,i,d,·,:,v,a,r,:,k.,a,◆,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 f,·,a,x,_,(me),d
 SPACE
@@ -33681,6 +34791,11 @@ SPACE
 k,oa,l,-,d,·,:,r,a,k,_,⅃,y
 SPACE
 n,∵,g,:,d,·,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 119:169 in vtrad vtsef
 τ,·,i,q,:,r,_,<,v
@@ -33781,6 +34896,11 @@ SPACE
 l,o,⅃,α
 SPACE
 $,·sh,a,k,a,𝓂,x,:,τ,·,i,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 120:1 in vtrad vtsef
 $,·sh,i,◆,y,r
@@ -33872,6 +34992,11 @@ SPACE
 h,‥,γ,◆,m,·,a,h
 SPACE
 l,_,m,·,i,l,:,x,a,m,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 121:1 in vtrad vtsef
 $,·sh,i,◆,y,r
@@ -33972,6 +35097,11 @@ SPACE
 m,‥,γ,ʕ,_,τ,·,a,◆,h
 SPACE
 w,:,ʕ,_,d,-,ʕ,w,o,l,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 122:1 in vtrad vtsef
 $,·sh,i,(me),y,r
@@ -34099,6 +35229,11 @@ SPACE
 θ,⅃,w,o,v
 SPACE
 l,a,𝓂,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 123:1 in vtrad vtsef
 $,·sh,i,◆,y,r
@@ -34172,7 +35307,22 @@ h,_,$,·sh,·,_,𝓂,α,:_,n,_,n,·,i,⅄,y,m.
 SPACE
 h,_,γ,v,·,◆,w,·,z
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,l,g,α,y,w,n,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,l,i,g,:,α,‥,(me),y
+SPACE
+y,w,o,n,i,𝓂,y,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 124:1 in vtrad vtsef
 $,·sh,i,(me),y,r
@@ -34289,6 +35439,11 @@ SPACE
 $,·sh,a,m,_,(me),y,i,m.
 SPACE
 w,a,α,a,𝓂,r,∵,ц.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 125:1 in vtrad vtsef
 $,·sh,i,◆,y,r
@@ -34380,6 +35535,11 @@ SPACE
 $,·sh,a,γ,l,◆,w,o,m.
 SPACE
 ʕ,_,l,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 126:1 in vtrad vtsef
 $,·sh,i,◆,y,r
@@ -34444,6 +35604,14 @@ SPACE
 y,:,(de),h,o,w,a,h
 SPACE
 α,∵,τ,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,:,v,i,y,τ,‥,⅄,n,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,v,w,τ,n,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 k,·,_,α,:_,f,i,y,q,i,(me),y,m.
 SPACE
@@ -34480,6 +35648,11 @@ SPACE
 n,o,γ,$,·si,‥,◆,α
 SPACE
 α,:_,l,u,m,·,o,τ,a,𝓂,y,w,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 127:1 in vtrad vtsef
 $,·sh,i,(me),y,r
@@ -34591,6 +35764,11 @@ SPACE
 α,∵,τ,-,α,w,o,y,:,v,i,⅃,y,m.
 SPACE
 v,·,_,$,·sh,·,a,𝓂,ʕ,_,r,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 128:1 in vtrad vtsef
 $,·sh,i,◆,y,r
@@ -34687,6 +35865,11 @@ SPACE
 $,·sh,a,γ,l,◆,w,o,m.
 SPACE
 ʕ,_,l,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 129:1 in vtrad vtsef
 $,·sh,i,◆,y,r
@@ -34725,6 +35908,14 @@ x,o,r,:,$,·sh,i,⅄,y,m.
 SPACE
 h,∵,γ,α,:∵,r,i,◆,y,k,w,·
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,l,m,ʕ,n,w,τ,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,l,:,m,_,ʕ,:_,n,i,y,τ,a,𝓂,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 Psalms 129:4 in vtrad vtsef
@@ -34799,6 +35990,11 @@ SPACE
 v,·,:,$,·sh,‥,⅃,m.
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 130:1 in vtrad vtsef
 $,·sh,i,(me),y,r
@@ -34901,6 +36097,11 @@ SPACE
 m,i,γ,k,·,o,◆,l
 SPACE
 ʕ,:_,w,hhfv,n,o,τ,a,𝓂,y,w,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 131:1 in vtrad vtsef
 $,·sh,i,(me),y,r
@@ -34970,6 +36171,11 @@ SPACE
 m,‥,γ,ʕ,_,τ,·,a,◆,h
 SPACE
 w,:,ʕ,_,d,-,ʕ,w,o,l,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 132:1 in vtrad vtsef
 $,·sh,i,◆,y,r
@@ -35214,6 +36420,11 @@ SPACE
 y,a,ц,i,(me),y,ц.
 SPACE
 n,i,z,:,r,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 133:1 in vtrad vtsef
 $,·sh,i,(me),y,r
@@ -35283,6 +36494,11 @@ SPACE
 x,_,γ,y,·,i,◆,y,m.
 SPACE
 ʕ,_,d,-,h,a,ʕ,w,o,l,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 134:1 in vtrad vtsef
 $,·sh,i,◆,y,r
@@ -35330,6 +36546,11 @@ SPACE
 $,·sh,a,m,_,(me),y,i,m.
 SPACE
 w,a,α,a,𝓂,r,∵,ц.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 135:1 in vtrad vtsef
 h,_,(me),l,:,l,w,·
@@ -35654,6 +36875,11 @@ SPACE
 y,:,𝓂,r,w,·,$,·sh,a,l,a,◆,CGJ,i,m.
 SPACE
 h,_,𝓂,l,:,l,w,·,-,y,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 136:1 in vtrad vtsef
 h,w,o,d,⅃,w,·
@@ -35998,6 +37224,11 @@ SPACE
 l,:,ʕ,w,o,l,a,⅃,m.
 SPACE
 x,_,σ,:,d,·,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 137:1 in vtrad vtsef
 ʕ,_,(me),l
@@ -36163,6 +37394,11 @@ SPACE
 α,∵,𝓂,τ,-,ʕ,o,l,a,l,_,◆,y,i,k.,:
 SPACE
 α,∵,l,-,h,_,σ,·,a,𝓂,l,_,ʕ,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 138:1 in vtrad vtsef
 l,:,d,a,w,i,(qa),d
@@ -36301,6 +37537,11 @@ SPACE
 y,a,d,∵,⅃,y,k.,a
 SPACE
 α,_,l,-,τ,·,∵,𝓂,r,∵,f.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 139:1 in vtrad vtsef
 l,_,(de),m,:,n,_,ц,·,‥,x,_
@@ -36372,6 +37613,14 @@ SPACE
 k,·,_,f,·,∵,𝓂,k,a,h,.
 
 Psalms 139:6 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,f,l,α,y,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,f,·,:,l,i,⅃,y,α,a,𝓂,h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 d,_,⅃,ʕ,_,τ
 SPACE
@@ -36535,6 +37784,14 @@ y,a,m,i,(me),y,m.
 SPACE
 y,u,ц,·,a,⅄,r,w,·
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,l,α,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,l,(ti),w,o,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,∵,x,a,⅃,d
 SPACE
@@ -36655,6 +37912,11 @@ SPACE
 v,·,:,d,∵,⅃,r,∵,k.,:
 SPACE
 ʕ,w,o,l,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 140:1 in vtrad vtsef
 l,_,m,:,n,_,ц,·,‥,◆,x,_
@@ -36822,9 +38084,25 @@ SPACE
 SPACE
 $,·si,:,f,a,τ,‥,⅃,y,m,w,o
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,k,σ,w,m,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,:,k,_,σ,·,‥,𝓂,y,m,w,o,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 Psalms 140:11 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,m,y,θ,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,i,m,·,(me),w,o,θ,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,:_,l,‥,y,h,∵,◆,m.
 SPACE
@@ -36856,6 +38134,14 @@ SPACE
 l,:,m,_,d,:,x,‥,f,o,𝓂,τ,.
 
 Psalms 140:13 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,d,ʕ,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,a,d,_,◆,ʕ,:,τ,·,i,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 k,·,i,𝓂,y,-,y,_,ʕ,:_,$,·si,∵,⅃,h
 SPACE
@@ -36883,6 +38169,11 @@ SPACE
 y,:,γ,$,·sh,a,r,i,◆,y,m.
 SPACE
 α,∵,τ,-,f,·,a,n,∵,𝓂,y,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 141:1 in vtrad vtsef
 m,i,z,:,m,◆,w,o,r
@@ -37073,6 +38364,11 @@ SPACE
 α,a,γ,n,o,k,i,◆,y
 SPACE
 ʕ,_,𝓂,d,-,α,∵,ʕ,:∵,v,𝓂,w,o,r,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 142:1 in vtrad vtsef
 m,_,$,·si,:,k,·,i,(me),y,l
@@ -37233,6 +38529,11 @@ SPACE
 τ,i,g,:,m,o,⅃,l
 SPACE
 ʕ,a,l,a,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 143:1 in vtrad vtsef
 m,i,z,:,m,◆,w,o,r
@@ -37485,6 +38786,11 @@ SPACE
 α,:_,n,i,⅃,y
 SPACE
 ʕ,_,v,:,d,·,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 144:1 in vtrad vtsef
 l,:,d,a,w,i,(qa),d
@@ -37752,6 +39058,11 @@ SPACE
 $,·sh,:∵,y,:,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,a,𝓂,y,w,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 145:1 in vtrad vtsef
 τ,·,:,h,i,l,·,a,◆,h
@@ -37833,6 +39144,14 @@ n,𝓂,w,o,r,:,α,o,τ,∵,⅃,y,k.,a
 SPACE
 y,o,α,m,‥,⅄,r,w,·
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,g,d,l,w,τ,y,k.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,·,g,:,d,u,l,·,a,τ,:,k.,a,(me),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,:_,σ,_,f,·,:,r,∵,𝓂,n,·,a,h,.
 
@@ -38029,6 +39348,11 @@ SPACE
 l,:,ʕ,w,o,l,a,(me),m.
 SPACE
 w,a,ʕ,∵,𝓂,d,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 146:1 in vtrad vtsef
 h,_,𝓂,l,:,l,w,·,-,y,a,μ,h,·
@@ -38211,6 +39535,11 @@ SPACE
 w,a,d,o,◆,r
 SPACE
 h,_,𝓂,l,:,l,w,·,-,y,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 147:1 in vtrad vtsef
 h,_,(me),l,:,l,w,·
@@ -38466,6 +39795,9 @@ y,i,z,·,:,l,w,·,-,m,a,𝓂,y,i,m.,.
 Psalms 147:19 in vtrad vtsef
 m,_,g,·,i,⅃,y,d
 SPACE
+START span class=mam-kq-trivial
+d,·,:,v,a,r,a,⅃,w
+STOP span class=mam-kq-trivial
 SPACE
 l,:,y,_,ʕ,:_,q,o,⅄,v
 SPACE
@@ -38493,6 +39825,11 @@ SPACE
 v,·,_,l,-,y,:,d,a,ʕ,◆,w,·,m.
 SPACE
 h,_,𝓂,l,:,l,w,·,-,y,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 148:1 in vtrad vtsef
 h,_,(me),l,:,l,w,·
@@ -38520,6 +39857,9 @@ SPACE
 h,_,γ,l,:,l,◆,w,·,h,w,·
 SPACE
 k,·,oa,l,-
+START span class=mam-kq-trivial
+ц,:,v,a,α,a,𝓂,w
+STOP span class=mam-kq-trivial
 .
 
 Psalms 148:3 in vtrad vtsef
@@ -38699,6 +40039,11 @@ SPACE
 q,:,r,o,v,◆,w,o
 SPACE
 h,_,𝓂,l,:,l,w,·,-,y,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 149:1 in vtrad vtsef
 h,_,(me),l,:,l,w,·
@@ -38829,6 +40174,11 @@ SPACE
 l,:,k,oa,l,-,x,:_,σ,i,y,d,a,◆,y,w
 SPACE
 h,_,𝓂,l,:,l,w,·,-,y,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Psalms 150:1 in vtrad vtsef
 h,_,(me),l,:,l,w,·

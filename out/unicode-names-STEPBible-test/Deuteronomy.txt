@@ -1255,6 +1255,18 @@ SPACE
 y,a,m,i,(me),y,m.
 SPACE
 r,_,v,·,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 2:2 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
@@ -1661,6 +1673,18 @@ SPACE
 m,i,q,·,∵,(me),r,∵,v
 SPACE
 h,a,ʕ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 2:17 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -2019,6 +2043,18 @@ SPACE
 k,·,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 2:31 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -2076,6 +2112,9 @@ SPACE
 α,o,τ,⟓,w,o
 SPACE
 w,:,α,∵,τ,-
+START span class=mam-kq-trivial
+v,·,a,n,a,(ti),w
+STOP span class=mam-kq-trivial
 SPACE
 w,:,α,∵,τ,-,k,·,oa,l,-,ʕ,_,m,·,𝓂,w,o,.
 
@@ -2834,6 +2873,18 @@ SPACE
 h,_,n,·,i,l,:,x,a,(me),m.
 SPACE
 l,a,k,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 3:23 in vtrad vtsef
 w,a,α,∵,τ,:,x,_,n,·,_,(ti),n.
@@ -3013,6 +3064,11 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 f,·,:,ʕ,𝓂,w,o,r,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 4:1 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,⅃,h
@@ -3765,6 +3821,11 @@ SPACE
 α,‥,(ti),l
 SPACE
 q,_,n,·,a,𝓂,α,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 4:25 in vtrad vtsef
 k,·,i,𝓂,y,-,τ,w,o,l,i,<,y,d
@@ -4277,6 +4338,11 @@ SPACE
 l,:,k.,a,(ti)
 SPACE
 k,·,oa,l,-,h,_,y,·,a,m,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 4:41 in vtrad vtsef
 α,a,⅃,z
@@ -4502,6 +4568,11 @@ SPACE
 α,_,$,·sh,:,d,·,o,(me),τ
 SPACE
 h,_,f,·,i,σ,:,g,·,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 5:1 in vtrad vtsef
 w,_,y,·,i,q,:,r,a,⅃,α
@@ -4637,6 +4708,18 @@ SPACE
 v,·,a,h,a,(ti),r
 SPACE
 l,‥,α,m,o,𝓂,r,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 5:6 in vtrad vtsef
 α,a,𝓂,n,o,k,i,(ti),y,(p)
@@ -4751,7 +4834,27 @@ l,:,α,o,h,:_,v,_,(ti),y
 SPACE
 w,·,l,:,$,·sh,o,m,:,r,‥,(me),y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,m,ц,w,τ,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,m,i,ц,:,w,hhfv,τ,a,𝓂,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 5:11 in vtrad vtsef
 l,o,(me),α
@@ -4779,6 +4882,18 @@ SPACE
 α,∵,τ,-,$,·sh,:,m,(ti),w,o
 SPACE
 l,_,$,·sh,·,a,𝓂,w,:,α,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 5:12 in vtrad vtsef
 $,·sh,a,m,⟓,⅃,w,o,r
@@ -4905,6 +5020,18 @@ SPACE
 α,∵,τ,-,y,(me),w,o,m.
 SPACE
 h,_,$,·sh,·,_,v,·,a,𝓂,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 5:16 in vtrad vtsef
 k,·,_,v,·,‥,<,d
@@ -4948,21 +5075,69 @@ SPACE
 n,o,τ,‥,(me),n.
 SPACE
 l,a,𝓂,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 5:17 in vtrad vtsef
 l,o,(me),(ti),α
 SPACE
 τ,·,‾,i,r,:,ц,a,(ti),CGJ,𝓂,x,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 5:18 in vtrad vtsef
 w,:,l,o,⅃,(ti),α
 SPACE
 τ,·,‾,i,n,:,α,a,⅄,CGJ,𝓂,f.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 5:19 in vtrad vtsef
 w,:,l,o,⅃,(ti),α
 SPACE
 τ,·,‾,i,g,:,n,o,𝓂,ƶ,v,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 5:20 in vtrad vtsef
 w,:,l,o,𝓂,α,-,τ,_,ʕ,:_,n,∵,(me),h
@@ -4972,6 +5147,18 @@ SPACE
 ʕ,‥,(me),d
 SPACE
 $,·sh,a,𝓂,w,:,α,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 5:21 in vtrad vtsef
 w,:,l,o,(me),α
@@ -5016,6 +5203,18 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 l,:,r,‥,ʕ,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 5:22 in vtrad vtsef
 α,∵,𝓂,τ,-,h,_,d,·,:,v,a,r,i,⅃,y,m.
@@ -5521,10 +5720,17 @@ SPACE
 x,a,l,a,(ti),v
 SPACE
 w,·,d,:,v,a,𝓂,$,·sh,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 6:4 in vtrad vtsef
 $,·sh,:,m,_,(ti)
 START big 
+ʕ
+STOP big 
 SPACE
 y,i,$,·si,:,r,a,α,‥,⅄,l
 SPACE
@@ -5540,6 +5746,8 @@ STOP small
 THIN SPACE
 α,∵,x,a,𝓂
 START big 
+d
+STOP big 
 .
 
 Deuter 6:5 in vtrad vtsef
@@ -5618,6 +5826,18 @@ SPACE
 v,·,‥,y,τ,∵,(ti),k.,a
 SPACE
 w,·,v,i,$,·sh,:,ʕ,a,r,∵,𝓂,y,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 6:10 in vtrad vtsef
 w,:,h,a,y,a,(G),h
@@ -5776,6 +5996,18 @@ SPACE
 f,·,:,n,‥,(me),y
 SPACE
 h,a,α,:_,d,a,m,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 6:16 in vtrad vtsef
 l,o,⅃,α
@@ -5854,6 +6086,18 @@ SPACE
 d,·,i,v,·,∵,(me),r
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 6:20 in vtrad vtsef
 k,·,i,𝓂,y,-,y,i,$,·sh,:,α,a,l,:,k.,a,(me)
@@ -6006,6 +6250,18 @@ SPACE
 k,·,_,α,:_,$,·sh,∵,(me),r
 SPACE
 ц,i,w,·,a,𝓂,n,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 7:1 in vtrad vtsef
 k,·,i,<,y
@@ -6284,6 +6540,9 @@ l,:,α,o,h,:_,v,a,⟓,y,w
 SPACE
 w,·,l,:,$,·sh,o,m,:,r,‥,(me),y
 SPACE
+START span class=mam-kq-trivial
+m,i,ц,:,w,hhfv,τ,a,(ti),w
+STOP span class=mam-kq-trivial
 SPACE
 l,:,α,∵,(me),l,∵,f.
 SPACE
@@ -6326,6 +6585,11 @@ SPACE
 h,_,y,·,(ti),w,o,m.
 SPACE
 l,_,ʕ,:_,$,·si,w,o,τ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 7:12 in vtrad vtsef
 w,:,h,a,y,a,⅃,h
@@ -6483,6 +6747,18 @@ SPACE
 h,(ti),w,·,α
 SPACE
 l,a,𝓂,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 7:17 in vtrad vtsef
 k,·,i,<,y
@@ -6759,6 +7035,11 @@ SPACE
 k,·,i,y,-,x,‥,(me),r,∵,m.
 SPACE
 h,𝓂,w,·,α,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 8:1 in vtrad vtsef
 k,·,oa,l,-,h,_,m,·,i,ц,:,w,a,◆,h
@@ -6828,6 +7109,9 @@ v,·,i,𝓂,l,:,v,a,v,:,k.,a,⟓
 SPACE
 h,:_,τ,i,$,·sh,:,m,o,(me),r
 SPACE
+START span class=mam-kq-trivial
+m,i,ц,:,w,hhfv,τ,a,(ti),w
+STOP span class=mam-kq-trivial
 SPACE
 α,i,m.,-,l,o,𝓂,α,.
 
@@ -7234,6 +7518,11 @@ SPACE
 k,·,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 8:19 in vtrad vtsef
 w,:,h,a,y,a,◆,h
@@ -7298,6 +7587,11 @@ SPACE
 y,:,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,‥,y,k,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 9:1 in vtrad vtsef
 $,·sh,:,m,_,⅃,ʕ
@@ -8227,6 +8521,11 @@ SPACE
 w,·,v,i,𝓂,z,:,r,o,ʕ,:_,k.,a,(ti)
 SPACE
 h,_,n,·,:,θ,w,·,y,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 10:1 in vtrad vtsef
 v,·,a,ʕ,‥,(qa),τ
@@ -8558,6 +8857,11 @@ SPACE
 l,a,τ,‥,(me),τ
 SPACE
 l,a,h,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 10:12 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,h,(p)
@@ -9074,6 +9378,18 @@ SPACE
 x,a,l,a,(ti),v
 SPACE
 w,·,d,:,v,a,𝓂,$,·sh,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 11:10 in vtrad vtsef
 k,·,i,⅃,y
@@ -9171,6 +9487,18 @@ SPACE
 α,_,x,:_,r,i,(me),y,τ
 SPACE
 $,·sh,a,n,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 11:13 in vtrad vtsef
 w,:,h,a,y,a,◆,h
@@ -9390,6 +9718,18 @@ SPACE
 h,_,$,·sh,·,a,m,_,(ti),y,i,m.
 SPACE
 ʕ,_,l,-,h,a,α,a,𝓂,r,∵,ц.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 11:22 in vtrad vtsef
 k,·,i,y,(tq)
@@ -9512,6 +9852,18 @@ SPACE
 d,·,i,v,·,∵,(me),r
 SPACE
 l,a,k,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 11:26 in vtrad vtsef
 r,:,α,‥,◆,h
@@ -9589,6 +9941,18 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 l,o,𝓂,α,-,y,:,d,_,ʕ,:,τ,·,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 11:29 in vtrad vtsef
 w,:,h,a,y,a,◆,h
@@ -10260,6 +10624,18 @@ SPACE
 k,·,oa,l,-,y,a,m,∵,(ti),y,k.,a
 SPACE
 ʕ,_,l,-,α,_,d,:,m,a,τ,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 12:20 in vtrad vtsef
 k,·,i,𝓂,y,-,y,_,r,:,x,i,y,v,(tq)
@@ -10519,6 +10895,18 @@ SPACE
 y,:,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,∵,𝓂,y,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 12:29 in vtrad vtsef
 k,·,i,𝓂,y,-,y,_,k,:,r,i,y,τ,(tq)
@@ -10649,6 +11037,11 @@ SPACE
 τ,i,g,:,r,_,(ti),ʕ
 SPACE
 m,i,m,·,∵,𝓂,n,·,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 13:2 in vtrad vtsef
 k,·,i,𝓂,y,-,y,a,q,<,w,·,m.
@@ -10834,6 +11227,18 @@ SPACE
 h,a,r,a,(ti),ʕ
 SPACE
 m,i,q,·,i,r,:,v,·,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 13:7 in vtrad vtsef
 k,·,i,⅃,y
@@ -11006,6 +11411,18 @@ SPACE
 h,_,z,·,∵,(ti),h
 SPACE
 v,·,:,q,i,r,:,v,·,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 13:13 in vtrad vtsef
 k,·,i,𝓂,y,-,τ,i,$,·sh,:,m,_,(G),ʕ
@@ -11093,6 +11510,9 @@ SPACE
 SPACE
 h,a,ʕ,i,(me),y,r
 SPACE
+START span class=mam-kq-trivial
+h,_,h,i,(ti),w,α
+STOP span class=mam-kq-trivial
 SPACE
 l,:,f,i,y,-,x,a,⅄,r,∵,v
 SPACE
@@ -11206,6 +11626,18 @@ SPACE
 y,:,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,∵,𝓂,y,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 14:1 in vtrad vtsef
 v,·,a,n,i,⅃,y,m.
@@ -11266,6 +11698,18 @@ SPACE
 ʕ,_,l,-,f,·,:,n,‥,(me),y
 SPACE
 h,a,α,:_,d,a,m,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 14:3 in vtrad vtsef
 l,o,(me),α
@@ -11406,6 +11850,18 @@ SPACE
 l,o,(me),α
 SPACE
 τ,i,g,·,a,𝓂,ʕ,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 14:9 in vtrad vtsef
 α,∵,τ,-,z,∵,h,(p)
@@ -11448,6 +11904,18 @@ SPACE
 h,(ti),w,·,α
 SPACE
 l,a,k,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 14:11 in vtrad vtsef
 k,·,oa,l,-,ц,i,f,·,(me),w,o,r
@@ -11591,6 +12059,11 @@ SPACE
 v,·,_,x,:_,l,‥,(me),v
 SPACE
 α,i,m,·,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 14:22 in vtrad vtsef
 ʕ,_,$,·si,·,‥,⅃,r
@@ -11791,6 +12264,18 @@ SPACE
 w,:,n,_,x,:_,l,a,(ti),h
 SPACE
 ʕ,i,m,·,a,𝓂,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 14:28 in vtrad vtsef
 m,i,q,:,ц,‥,⅃,h
@@ -11861,6 +12346,18 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 τ,·,_,ʕ,:_,$,·si,∵,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 15:1 in vtrad vtsef
 m,i,q,·,‥,(me),ц.
@@ -12015,6 +12512,18 @@ SPACE
 l,o,(me),α
 SPACE
 y,i,m,:,$,·sh,o,𝓂,l,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 15:7 in vtrad vtsef
 k,·,i,𝓂,y,-,y,i,h,:,y,∵,h,(tq)
@@ -12202,6 +12711,18 @@ SPACE
 w,·,l,:,α,∵,v,:,y,o,n,:,k.,a,(ti)
 SPACE
 v,·,:,α,_,r,:,ц,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 15:12 in vtrad vtsef
 k,·,i,𝓂,y,-,y,i,m,·,a,k,‥,(qa),r
@@ -12387,6 +12908,11 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 τ,·,_,ʕ,:_,$,·si,∵,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 15:19 in vtrad vtsef
 k,·,oa,𝓂,l,-,h,_,v,·,:,k,μ,w,o,r
@@ -12502,6 +13028,11 @@ SPACE
 τ,·,i,$,·sh,:,f,·,:,k,∵,(ti),n,·,w,·
 SPACE
 k,·,_,m,·,a,𝓂,y,i,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 16:1 in vtrad vtsef
 $,·sh,a,m,w,o,r,(p)
@@ -12738,6 +13269,18 @@ SPACE
 τ,_,ʕ,:_,$,·si,∵,(ti),h
 SPACE
 m,:,l,a,α,k,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 16:9 in vtrad vtsef
 $,·sh,i,v,:,ʕ,a,(me),h
@@ -12860,6 +13403,11 @@ SPACE
 α,∵,τ,-,h,_,𝓂,x,u,q,·,i,(ti),y,m.
 SPACE
 h,a,α,‥,𝓂,l,·,∵,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 16:13 in vtrad vtsef
 x,_,(da),g
@@ -13017,6 +13565,18 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 n,a,𝓂,τ,_,n.,-,l,a,𝓂,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 16:18 in vtrad vtsef
 $,·sh,o,f,:,θ,i,⅃,y,m.
@@ -13098,6 +13658,18 @@ SPACE
 n,o,τ,‥,(me),n.
 SPACE
 l,a,𝓂,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 16:21 in vtrad vtsef
 l,o,𝓂,α,-,τ,i,θ,·,_,(me),ʕ
@@ -13134,6 +13706,18 @@ SPACE
 y,:,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,∵,𝓂,y,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 17:1 in vtrad vtsef
 l,o,α,-,τ,i,z,:,v,·,_,x,(tq)
@@ -13169,6 +13753,18 @@ SPACE
 α,:∵,l,o,h,∵,(ti),y,k.,a
 SPACE
 h,𝓂,w,·,α,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 17:2 in vtrad vtsef
 k,·,i,𝓂,y,-,y,i,m,·,a,ц,‥,<,α
@@ -13353,6 +13949,11 @@ SPACE
 h,a,r,a,(ti),ʕ
 SPACE
 m,i,q,·,i,r,:,v,·,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 17:8 in vtrad vtsef
 k,·,i,⅃,y
@@ -13549,6 +14150,18 @@ SPACE
 y,:,z,i,y,d,(ti),w,·,n.
 SPACE
 ʕ,𝓂,w,o,d,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 17:14 in vtrad vtsef
 k,·,i,𝓂,y,-,τ,a,v,o,⅃,α
@@ -13790,6 +14403,18 @@ SPACE
 v,·,:,q,∵,(me),r,∵,v
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 18:1 in vtrad vtsef
 l,o,𝓂,α,-,y,i,⌕,h,:,y,∵,⌕,h
@@ -13834,6 +14459,18 @@ SPACE
 k,·,_,α,:_,$,·sh,∵,(ti),r
 SPACE
 d,·,i,v,·,∵,r,-,l,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 18:3 in vtrad vtsef
 w,:,z,∵,μ,h
@@ -13909,6 +14546,18 @@ SPACE
 w,·,v,a,n,a,(ti),y,w
 SPACE
 k,·,oa,l,-,h,_,y,·,a,m,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 18:6 in vtrad vtsef
 w,:,k,i,𝓂,y,-,y,a,v,o,(qa),α
@@ -13972,6 +14621,18 @@ SPACE
 m,i,m,:,k,·,a,r,a,(ti),y,w
 SPACE
 ʕ,_,l,-,h,a,α,a,v,𝓂,w,o,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 18:9 in vtrad vtsef
 k,·,i,<,y
@@ -14340,6 +15001,18 @@ SPACE
 τ,a,g,(ti),w,·,r
 SPACE
 m,i,m,·,∵,𝓂,n,·,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 19:1 in vtrad vtsef
 k,·,i,𝓂,y,-,y,_,k,:,r,i,(G),y,τ
@@ -14666,6 +15339,11 @@ SPACE
 ʕ,a,l,∵,(ti),y,k.,a
 SPACE
 d,·,a,m,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 19:11 in vtrad vtsef
 w,:,k,i,𝓂,y,-,y,i,h,:,y,∵,(me),h
@@ -14739,6 +15417,18 @@ SPACE
 w,:,θ,(me),w,o,v
 SPACE
 l,a,𝓂,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 19:14 in vtrad vtsef
 l,o,<,α
@@ -14774,6 +15464,18 @@ SPACE
 l,:,k.,a,(ti)
 SPACE
 l,:,r,i,$,·sh,:,τ,·,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 19:15 in vtrad vtsef
 l,o,𝓂,α,-,y,a,q,w,·,m.,(tq)
@@ -14939,6 +15641,18 @@ SPACE
 r,∵,(me),g,∵,l
 SPACE
 v,·,:,r,a,𝓂,g,∵,l,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 20:1 in vtrad vtsef
 k,·,i,𝓂,y,-,τ,‥,ц,‥,(qa),α
@@ -15190,6 +15904,18 @@ SPACE
 v,·,:,r,o,(me),α,$,·sh
 SPACE
 h,a,ʕ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 20:10 in vtrad vtsef
 k,·,i,𝓂,y,-,τ,i,q,:,r,_,⅃,v
@@ -15401,6 +16127,18 @@ SPACE
 l,_,y,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,‥,y,k,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 20:19 in vtrad vtsef
 k,·,i,𝓂,y,-,τ,a,ц,⅃,w,·,r
@@ -15489,6 +16227,11 @@ SPACE
 ʕ,_,(me),d
 SPACE
 r,i,d,:,τ,·,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 21:1 in vtrad vtsef
 k,·,i,y,-,y,i,m,·,a,ц,‥,⅃,α
@@ -15669,6 +16412,14 @@ y,a,d,‥,◆,y,n,w,·
 SPACE
 l,o,<,α
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,f,k,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,a,𝓂,f,:,k,w,·,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,∵,τ,-,h,_,d,·,a,⅃,m.
 SPACE
@@ -15727,6 +16478,18 @@ SPACE
 v,·,:,ʕ,‥,y,n,‥,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 21:10 in vtrad vtsef
 k,·,i,𝓂,y,-,τ,‥,ц,‥,(me),α
@@ -15848,6 +16611,18 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 ʕ,i,n,·,i,y,τ,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 21:15 in vtrad vtsef
 k,·,i,𝓂,y,-,τ,i,h,:,y,∵,(qa),y,n.,a
@@ -15945,6 +16720,18 @@ SPACE
 m,i,$,·sh,:,f,·,_,(me),θ
 SPACE
 h,_,v,·,:,k,o,r,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 21:18 in vtrad vtsef
 k,·,i,𝓂,y,-,y,i,h,:,y,∵,⅃,h
@@ -16047,6 +16834,18 @@ SPACE
 y,i,$,·sh,:,m,:,ʕ,(me),w,·
 SPACE
 w,:,y,i,r,a,𝓂,α,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 21:22 in vtrad vtsef
 w,:,k,i,𝓂,y,-,y,i,h,:,y,∵,⅃,h
@@ -16103,6 +16902,18 @@ SPACE
 l,:,k.,a,(ti)
 SPACE
 n,_,x,:_,l,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 22:1 in vtrad vtsef
 l,o,𝓂,α,-,τ,i,r,:,α,∵,h,(tq)
@@ -16194,6 +17005,18 @@ SPACE
 τ,w,·,k,_,(ti),l
 SPACE
 l,:,h,i,τ,:,ʕ,_,l,·,‥,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 22:4 in vtrad vtsef
 l,o,α,-,τ,i,r,:,α,∵,h,(tq)
@@ -16219,6 +17042,18 @@ SPACE
 τ,·,a,q,i,(ti),y,m.
 SPACE
 ʕ,i,m,·,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 22:5 in vtrad vtsef
 l,o,α,-,y,i,h,:,y,∵,<,h
@@ -16246,6 +17081,11 @@ SPACE
 k,·,oa,l,-,ʕ,o,(me),$,·si,‥,h
 SPACE
 α,‥,𝓂,l,·,∵,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 22:6 in vtrad vtsef
 k,·,i,⅃,y
@@ -16314,6 +17154,18 @@ SPACE
 w,:,h,_,α,:_,r,_,k,:,τ,·,a,(ti)
 SPACE
 y,a,m,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 22:8 in vtrad vtsef
 k,·,i,<,y
@@ -16362,6 +17214,18 @@ SPACE
 w,·,τ,:,v,w,·,α,_,(ti),τ
 SPACE
 h,_,k,·,a,𝓂,r,∵,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 22:10 in vtrad vtsef
 l,o,𝓂,α,-,τ,_,x,:_,r,o,(me),$,·sh
@@ -16382,6 +17246,18 @@ SPACE
 w,·,f,i,$,·sh,:,τ,·,i,(ti),y,m.
 SPACE
 y,_,x,:,d,·,a,𝓂,w,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 22:12 in vtrad vtsef
 g,·,:,d,i,l,i,(ti),y,m.
@@ -16397,6 +17273,18 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 τ,·,:,k,_,σ,·,∵,h,-,v,·,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 22:13 in vtrad vtsef
 k,·,i,𝓂,y,-,y,i,q,·,_,(me),x
@@ -16451,6 +17339,9 @@ w,:,l,a,q,_,⟓,x
 SPACE
 α,:_,v,i,(me),y
 SPACE
+START span class=mam-kq-trivial
+h,_,𝓂,n,·,_,ʕ,:_,r,a,(ti)
+STOP span class=mam-kq-trivial
 SPACE
 w,:,α,i,m,·,a,⅄,h,·
 SPACE
@@ -16458,6 +17349,9 @@ w,:,h,w,o,ц,i,(ge),y,α,w,·
 SPACE
 α,∵,τ,-,v,·,:,τ,w,·,l,‥,(da),y
 SPACE
+START span class=mam-kq-trivial
+h,_,𝓂,n,·,_,ʕ,:_,r,a,⟓
+STOP span class=mam-kq-trivial
 SPACE
 α,∵,l,-,z,i,q,:,n,‥,(me),y
 SPACE
@@ -16470,6 +17364,9 @@ w,:,α,a,m,_,⟓,r
 SPACE
 α,:_,v,i,(me),y
 SPACE
+START span class=mam-kq-trivial
+h,_,𝓂,n,·,_,ʕ,:_,r,a,(ti)
+STOP span class=mam-kq-trivial
 SPACE
 α,∵,l,-,h,_,z,·,:,q,‥,n,i,⅄,y,m.
 SPACE
@@ -16569,6 +17466,18 @@ SPACE
 l,:,$,·sh,_,l,·,:,x,a,(ti),h,·
 SPACE
 k,·,oa,l,-,y,a,m,a,𝓂,y,w,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 22:20 in vtrad vtsef
 w,:,α,i,m.,-,α,:∵,m,∵,⅃,τ
@@ -16583,12 +17492,18 @@ l,o,α,-,n,i,m,:,ц,:,α,(me),w,·
 SPACE
 v,:,τ,w,·,l,i,(ti),y,m.
 SPACE
+START span class=mam-kq-trivial
+l,_,𝓂,n,·,_,ʕ,:_,r,a,𝓂
+STOP span class=mam-kq-trivial
 .
 
 Deuter 22:21 in vtrad vtsef
 w,:,h,w,o,ц,i,(qa),y,α,w,·
 SPACE
 α,∵,τ,-
+START span class=mam-kq-trivial
+h,_,𝓂,n,·,_,ʕ,:_,r,a,(ge)
+STOP span class=mam-kq-trivial
 SPACE
 α,∵,l,-,f,·,∵,⅃,τ,_,x
 SPACE
@@ -16621,6 +17536,18 @@ SPACE
 h,a,r,a,(ti),ʕ
 SPACE
 m,i,q,·,i,r,:,v,·,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 22:22 in vtrad vtsef
 k,·,i,𝓂,y,-,y,i,m,·,a,ц,‥,(qa),α
@@ -16654,12 +17581,27 @@ SPACE
 h,a,r,a,(ti),ʕ
 SPACE
 m,i,y,·,i,$,·si,:,r,a,α,‥,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 22:23 in vtrad vtsef
 k,·,i,<,y
 SPACE
 y,i,h,:,y,∵,h,(p)
 SPACE
+START span class=mam-kq-trivial
+n,_,ʕ,:_,r,a,⅃
+STOP span class=mam-kq-trivial
 SPACE
 v,:,τ,w,·,l,a,ƶ,h
 SPACE
@@ -16701,6 +17643,9 @@ SPACE
 w,a,m,‥,∴,τ,w,·,∴
 SPACE
 α,∵,τ,-
+START span class=mam-kq-trivial
+h,_,𝓂,n,·,_,ʕ,:_,r,a,◆
+STOP span class=mam-kq-trivial
 SPACE
 ʕ,_,l,-,d,·,:,v,_,r,(p)
 SPACE
@@ -16725,6 +17670,18 @@ SPACE
 h,a,r,a,(ti),ʕ
 SPACE
 m,i,q,·,i,r,:,v,·,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 22:25 in vtrad vtsef
 w,:,𝓂,α,i,m.,-,v,·,_,$,·si,·,a,d,∵,(G),h
@@ -16734,6 +17691,9 @@ SPACE
 h,a,α,i,◆,y,$,·sh
 SPACE
 α,∵,τ,-
+START span class=mam-kq-trivial
+h,_,𝓂,n,·,_,ʕ,:_,r,a,(p)
+STOP span class=mam-kq-trivial
 SPACE
 h,_,m,:,α,o,⅃,r,a,$,·si,a,ƶ,h
 SPACE
@@ -16756,6 +17716,9 @@ SPACE
 l,:,v,_,d,·,𝓂,w,o,.
 
 Deuter 22:26 in vtrad vtsef
+START span class=mam-kq-trivial
+w,:,l,_,𝓂,n,·,_,ʕ,:_,r,a,(p)
+STOP span class=mam-kq-trivial
 SPACE
 l,o,α,-,τ,_,ʕ,:_,$,·si,∵,⅃,h
 SPACE
@@ -16763,6 +17726,9 @@ d,a,v,a,ƶ,r
 SPACE
 α,‥,(me),y,n.
 SPACE
+START span class=mam-kq-trivial
+l,_,𝓂,n,·,_,ʕ,:_,r,a,(ti)
+STOP span class=mam-kq-trivial
 SPACE
 x,‥,⅃,θ,:,α
 SPACE
@@ -16797,6 +17763,9 @@ m,:,ц,a,α,a,⅄,h,·
 SPACE
 ц,a,ʕ,:_,q,a,◆,h
 SPACE
+START span class=mam-kq-trivial
+h,_,𝓂,n,·,_,ʕ,:_,r,a,(p)
+STOP span class=mam-kq-trivial
 SPACE
 h,_,m,:,α,o,⅃,r,a,$,·si,a,ƶ,h
 SPACE
@@ -16805,12 +17774,27 @@ SPACE
 m,w,o,$,·sh,i,(ti),y,ʕ,_
 SPACE
 l,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 22:28 in vtrad vtsef
 k,·,i,𝓂,y,-,y,i,m,:,ц,a,⅃,α
 SPACE
 α,i,◆,y,$,·sh
 SPACE
+START span class=mam-kq-trivial
+n,_,ʕ,:_,r,a,<
+STOP span class=mam-kq-trivial
 SPACE
 v,:,τ,w,·,l,a,h,(p)
 SPACE
@@ -16837,6 +17821,9 @@ SPACE
 SPACE
 l,_,α,:_,v,i,(me),y
 SPACE
+START span class=mam-kq-trivial
+h,_,𝓂,n,·,_,ʕ,:_,r,a,(ti)
+STOP span class=mam-kq-trivial
 SPACE
 x,:_,m,i,$,·sh,·,i,⅃,y,m.
 SPACE
@@ -16857,6 +17844,18 @@ SPACE
 $,·sh,_,l,·,:,x,a,(ti),h,·
 SPACE
 k,·,oa,l,-,y,a,m,a,𝓂,y,w,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 23:1 in vtrad vtsef
 l,o,α,-,y,i,q,·,_,(me),x
@@ -16874,6 +17873,18 @@ SPACE
 k,·,:,n,_,(me),f.
 SPACE
 α,a,v,i,𝓂,y,w,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 23:2 in vtrad vtsef
 l,o,𝓂,α,-,y,a,v,o,(da),α
@@ -16887,6 +17898,18 @@ SPACE
 v,·,i,q,:,h,_,(me),l
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 23:3 in vtrad vtsef
 l,o,α,-,y,a,v,o,(me),α
@@ -16910,6 +17933,18 @@ SPACE
 v,·,i,q,:,h,_,(me),l
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 23:4 in vtrad vtsef
 l,o,𝓂,α,-,y,a,v,o,(da),α
@@ -17016,6 +18051,18 @@ SPACE
 k,·,oa,l,-,y,a,m,∵,(ti),y,k.,a
 SPACE
 l,:,ʕ,w,o,l,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 23:8 in vtrad vtsef
 l,o,𝓂,α,-,τ,:,τ,_,ʕ,‥,⅃,v
@@ -17056,6 +18103,18 @@ SPACE
 v,·,i,q,:,h,_,(me),l
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 23:10 in vtrad vtsef
 k,·,i,𝓂,y,-,τ,‥,ц,‥,(me),α
@@ -17204,6 +18263,18 @@ SPACE
 w,:,$,·sh,a,(ti),v
 SPACE
 m,‥,α,_,x,:_,r,∵,𝓂,y,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 23:16 in vtrad vtsef
 l,o,α,-,τ,_,σ,:,g,·,i,(me),y,r
@@ -17242,6 +18313,18 @@ SPACE
 l,o,(ti),α
 SPACE
 τ,·,w,o,n,∵,𝓂,n,·,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 23:18 in vtrad vtsef
 l,o,α,-,τ,i,h,:,y,∵,(me),h
@@ -17288,6 +18371,18 @@ SPACE
 α,:∵,l,o,h,∵,(ti),y,k.,a
 SPACE
 g,·,_,m.,-,$,·sh,:,n,‥,y,h,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 23:20 in vtrad vtsef
 l,o,α,-,τ,_,$,·sh,·,i,⅃,y,k.,:
@@ -17342,6 +18437,18 @@ SPACE
 v,a,α,-,$,·sh,a,(ti),m,·,a,h
 SPACE
 l,:,r,i,$,·sh,:,τ,·,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 23:22 in vtrad vtsef
 k,·,i,𝓂,y,-,τ,i,d,·,o,(me),r
@@ -17411,6 +18518,18 @@ SPACE
 d,·,i,v,·,_,(ti),r,:,τ,·,a
 SPACE
 v,·,:,f,i,𝓂,y,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 23:25 in vtrad vtsef
 k,·,i,<,y
@@ -17434,6 +18553,18 @@ SPACE
 l,o,(me),α
 SPACE
 τ,i,τ,·,‥,𝓂,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 23:26 in vtrad vtsef
 k,·,i,<,y
@@ -17461,6 +18592,18 @@ SPACE
 q,a,m,_,(me),τ
 SPACE
 r,‥,ʕ,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 24:1 in vtrad vtsef
 k,·,i,𝓂,y,-,y,i,q,·,_,(me),x
@@ -17603,6 +18746,18 @@ SPACE
 l,:,k.,a,(ti)
 SPACE
 n,_,x,:_,l,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 24:5 in vtrad vtsef
 k,·,i,𝓂,y,-,y,i,q,·,_,(me),x
@@ -17653,6 +18808,18 @@ SPACE
 h,(me),w,·,α
 SPACE
 x,o,v,‥,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 24:7 in vtrad vtsef
 k,·,i,y,-,y,i,m,·,a,ц,‥,⅃,α
@@ -17684,6 +18851,18 @@ SPACE
 h,a,r,a,(ti),ʕ
 SPACE
 m,i,q,·,i,r,:,v,·,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 24:8 in vtrad vtsef
 h,i,$,·sh,·,a,(da),m,∵,r
@@ -17732,6 +18911,18 @@ SPACE
 v,·,:,ц,‥,α,τ,:,k,∵,(me),m.
 SPACE
 m,i,m,·,i,ц,:,r,a,𝓂,y,i,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 24:10 in vtrad vtsef
 k,·,i,𝓂,y,-,τ,_,$,·sh,·,∵,(me),h
@@ -17816,6 +19007,18 @@ SPACE
 y,:,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,∵,𝓂,y,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 24:14 in vtrad vtsef
 l,o,α,-,τ,_,ʕ,:_,$,·sh,o,(me),q
@@ -17876,6 +19079,18 @@ SPACE
 v,:,k.,a,(ti)
 SPACE
 x,‥,𝓂,θ,:,α,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 24:16 in vtrad vtsef
 l,o,𝓂,α,-,y,w,·,m,:,τ,<,w,·
@@ -17895,6 +19110,18 @@ SPACE
 v,·,:,x,∵,θ,:,α,(ti),w,o
 SPACE
 y,w,·,m,a,𝓂,τ,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 24:17 in vtrad vtsef
 l,o,⅃,α
@@ -17945,6 +19172,18 @@ SPACE
 α,∵,τ,-,h,_,d,·,a,v,a,(ti),r
 SPACE
 h,_,z,·,∵,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 24:19 in vtrad vtsef
 k,·,i,⅃,y
@@ -17988,6 +19227,18 @@ SPACE
 m,_,ʕ,:_,$,·si,‥,(me),h
 SPACE
 y,a,d,∵,𝓂,y,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 24:20 in vtrad vtsef
 k,·,i,<,y
@@ -18053,6 +19304,18 @@ SPACE
 α,∵,τ,-,h,_,d,·,a,v,a,(ti),r
 SPACE
 h,_,z,·,∵,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 25:1 in vtrad vtsef
 k,·,i,𝓂,y,-,y,i,h,:,y,∵,(me),h
@@ -18131,6 +19394,18 @@ SPACE
 $,·sh,(ti),w,o,r
 SPACE
 v,·,:,d,i,y,$,·sh,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 25:5 in vtrad vtsef
 k,·,i,𝓂,y,-,y,‥,$,·sh,:,v,(qa),w,·
@@ -18307,6 +19582,18 @@ SPACE
 x,:_,l,(me),w,·,ц.
 SPACE
 h,_,n,·,a,𝓂,ʕ,_,l,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 25:11 in vtrad vtsef
 k,·,i,𝓂,y,-,y,i,n,·,a,ц,(qa),w,·
@@ -18351,6 +19638,18 @@ SPACE
 τ,a,x,(ti),w,o,σ
 SPACE
 ʕ,‥,y,n,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 25:13 in vtrad vtsef
 l,o,𝓂,α,-,y,i,h,:,y,∵,(me),h
@@ -18435,6 +19734,11 @@ SPACE
 ʕ,o,(me),$,·si,‥,h
 SPACE
 ʕ,a,𝓂,w,∵,l,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 25:17 in vtrad vtsef
 z,a,k,Ƶ,w,o,r
@@ -18526,6 +19830,11 @@ SPACE
 l,o,(ti),α
 SPACE
 τ,·,i,$,·sh,:,k,·,a,𝓂,x,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 26:1 in vtrad vtsef
 w,:,h,a,y,a,h,(p)
@@ -18849,6 +20158,18 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 v,·,:,q,i,r,:,v,·,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 26:12 in vtrad vtsef
 k,·,i,⅃,y
@@ -18999,6 +20320,18 @@ SPACE
 x,a,l,a,(ti),v
 SPACE
 w,·,d,:,v,a,𝓂,$,·sh,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 26:16 in vtrad vtsef
 h,_,y,·,⅃,w,o,m.
@@ -19111,6 +20444,11 @@ SPACE
 k,·,_,α,:_,$,·sh,∵,(me),r
 SPACE
 d,·,i,v,·,‥,𝓂,r,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 27:1 in vtrad vtsef
 w,_,y,:,ц,_,<,w
@@ -19333,6 +20671,18 @@ SPACE
 v,·,_,α,‥,(me),r
 SPACE
 h,‥,y,θ,‥,𝓂,v,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 27:9 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,<,r
@@ -19393,6 +20743,18 @@ SPACE
 m,:,ц,_,w,·,:,k.,a,(ti)
 SPACE
 h,_,y,·,𝓂,w,o,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 27:11 in vtrad vtsef
 w,_,y,:,ц,_,<,w
@@ -19473,6 +20835,18 @@ SPACE
 q,(me),w,o,l
 SPACE
 r,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 27:15 in vtrad vtsef
 α,a,r,⅃,w,·,r
@@ -19508,6 +20882,18 @@ SPACE
 w,:,α,a,m,:,r,(ti),w,·
 SPACE
 α,a,m,‥,𝓂,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 27:16 in vtrad vtsef
 α,a,r,Ƶ,w,·,r
@@ -19523,6 +20909,18 @@ SPACE
 k,·,oa,l,-,h,a,ʕ,a,(ti),m.
 SPACE
 α,a,m,‥,𝓂,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 27:17 in vtrad vtsef
 α,a,r,Ƶ,w,·,r
@@ -19538,6 +20936,18 @@ SPACE
 k,·,oa,l,-,h,a,ʕ,a,(ti),m.
 SPACE
 α,a,m,‥,𝓂,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 27:18 in vtrad vtsef
 α,a,r,Ƶ,w,·,r
@@ -19553,6 +20963,18 @@ SPACE
 k,·,oa,l,-,h,a,ʕ,a,(ti),m.
 SPACE
 α,a,m,‥,𝓂,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 27:19 in vtrad vtsef
 α,a,r,◆,w,·,r
@@ -19593,6 +21015,18 @@ SPACE
 k,·,oa,l,-,h,a,ʕ,a,(ti),m.
 SPACE
 α,a,m,‥,𝓂,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 27:21 in vtrad vtsef
 α,a,r,Ƶ,w,·,r
@@ -19606,6 +21040,18 @@ SPACE
 k,·,oa,l,-,h,a,ʕ,a,(ti),m.
 SPACE
 α,a,m,‥,𝓂,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 27:22 in vtrad vtsef
 α,a,r,◆,w,·,r
@@ -19625,6 +21071,18 @@ SPACE
 k,·,oa,l,-,h,a,ʕ,a,(ti),m.
 SPACE
 α,a,m,‥,𝓂,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 27:23 in vtrad vtsef
 α,a,r,Ƶ,w,·,r
@@ -19638,6 +21096,18 @@ SPACE
 k,·,oa,l,-,h,a,ʕ,a,(ti),m.
 SPACE
 α,a,m,‥,𝓂,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 27:24 in vtrad vtsef
 α,a,r,Ƶ,w,·,r
@@ -19653,6 +21123,18 @@ SPACE
 k,·,oa,l,-,h,a,ʕ,a,(ti),m.
 SPACE
 α,a,m,‥,𝓂,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 27:25 in vtrad vtsef
 α,a,r,w,·,r,(p)
@@ -19674,6 +21156,18 @@ SPACE
 k,·,oa,l,-,h,a,ʕ,a,(ti),m.
 SPACE
 α,a,m,‥,𝓂,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 27:26 in vtrad vtsef
 α,a,r,◆,w,·,r
@@ -19695,6 +21189,11 @@ SPACE
 k,·,oa,l,-,h,a,ʕ,a,(ti),m.
 SPACE
 α,a,m,‥,𝓂,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 28:1 in vtrad vtsef
 w,:,h,a,y,a,◆,h
@@ -20077,6 +21576,11 @@ SPACE
 α,:_,x,‥,r,i,(ti),y,m.
 SPACE
 l,:,ʕ,oa,v,:,d,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 28:15 in vtrad vtsef
 w,:,h,a,y,a,◆,h
@@ -20369,6 +21873,14 @@ v,·,i,$,·sh,:,x,i,<,y,n.
 SPACE
 m,i,ц,:,r,_,(p),y,i,m.,(p)
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,v,ʕ,f,l,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,·,v,_,θ,·,:,x,o,r,i,ƶ,y,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,·,v,_,g,·,a,r,a,(ti),v
 SPACE
@@ -20437,6 +21949,14 @@ w,:,α,i,<,y,$,·sh
 SPACE
 α,_,x,‥,r,(p)
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,$,g,l,n,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,i,$,·sh,:,k,·,a,v,∵,ƶ,n,·,a,h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,·,_,(me),y,i,τ
 SPACE
@@ -21535,6 +23055,18 @@ SPACE
 w,:,α,‥,(me),y,n.
 SPACE
 q,o,n,∵,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 28:69 in vtrad vtsef
 α,‥,(tq),l,·,∵,h,(tq)
@@ -21568,6 +23100,11 @@ SPACE
 α,i,τ,·,a,(ti),m.
 SPACE
 v,·,:,x,o,r,‥,𝓂,v,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 29:1 in vtrad vtsef
 w,_,y,·,i,q,:,r,a,(me),α
@@ -21764,6 +23301,11 @@ SPACE
 k,·,oa,l,-,α,:_,$,·sh,∵,(me),r
 SPACE
 τ,·,_,ʕ,:_,$,·si,𝓂,w,·,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 29:9 in vtrad vtsef
 α,_,τ,·,∵,(qa),m.
@@ -22207,6 +23749,14 @@ w,_,ʕ,:_,m,o,r,a,h,(p)
 SPACE
 α,_,d,:,m,a,⅃,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,ц,v,y,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,·,ц,:,v,w,o,y,i,ƶ,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,:_,$,·sh,∵,r,(p)
 SPACE
@@ -22341,6 +23891,8 @@ g,·,a,d,⅄,w,o,l
 SPACE
 w,_,y,·,_,$,·sh,:
 START big 
+l,i
+STOP big 
 k,‥,⟓,m.
 SPACE
 α,∵,l,-,α,∵,(me),r,∵,ц.
@@ -22373,6 +23925,18 @@ SPACE
 h,_,τ,·,w,o,r,a,(me),h
 SPACE
 h,_,z,·,o,𝓂,α,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 30:1 in vtrad vtsef
 w,:,h,a,y,a,h,(tq)
@@ -22665,6 +24229,18 @@ SPACE
 v,·,:,k,oa,l,-,l,:,v,a,v,:,k.,a,(ti)
 SPACE
 w,·,v,:,k,oa,l,-,n,_,f,:,$,·sh,∵,𝓂,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 30:11 in vtrad vtsef
 k,·,i,(ye),y
@@ -22759,6 +24335,18 @@ SPACE
 w,·,v,i,𝓂,l,:,v,a,v,:,k.,a,(ti)
 SPACE
 l,_,ʕ,:_,$,·si,o,τ,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 30:15 in vtrad vtsef
 r,:,α,‥,(qa),h
@@ -22953,6 +24541,11 @@ SPACE
 l,a,τ,‥,(me),τ
 SPACE
 l,a,h,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 31:1 in vtrad vtsef
 w,_,y,·,‥,(ti),l,∵,k.,:
@@ -23123,6 +24716,18 @@ SPACE
 w,:,l,o,(me),α
 SPACE
 y,_,ʕ,_,z,:,v,∵,𝓂,k.,·,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 31:7 in vtrad vtsef
 w,_,y,·,i,q,:,r,a,(qa),α
@@ -23376,6 +24981,11 @@ SPACE
 $,·sh,a,(ti),m,·,a,h
 SPACE
 l,:,r,i,$,·sh,:,τ,·,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 31:14 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -23953,6 +25563,11 @@ SPACE
 ʕ,_,(ti),d
 SPACE
 τ,·,u,m,·,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 32:1 in vtrad vtsef
 h,_,α,:_,z,i,(me),y,n,w,·
@@ -24042,6 +25657,8 @@ w,·,f,:,τ,_,l,:,τ,·,o,𝓂,l,.
 
 Deuter 32:6 in vtrad vtsef
 START big 
+h,_
+STOP big 
 SPACE
 l,:,y,:,h,o,w,a,h,(p)
 SPACE
@@ -24185,6 +25802,14 @@ Deuter 32:13 in vtrad vtsef
 y,_,r,:,k,·,i,v,‥,(p),h,w,·,(p)
 SPACE
 ʕ,_,l,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,v,·,a,⅃,m,:a,τ,‥,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,m,w,τ,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 α,a,ƶ,r,∵,ц.
 w,_,y,·,o,α,k,_,(ti),l
@@ -24297,6 +25922,8 @@ y,:,l,a,d,:,k.,a,(ti)
 SPACE
 τ,·,∵,⅄,$,·sh,i
 START small 
+y
+STOP small 
 SPACE
 w,_,τ,·,i,$,·sh,:,k,·,_,(ti),x
 SPACE
@@ -24795,6 +26422,11 @@ SPACE
 α,_,d,:,m,a,τ,(ti),w,o
 SPACE
 ʕ,_,m,·,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 32:44 in vtrad vtsef
 w,_,y,·,a,v,o,⅃,α
@@ -24903,6 +26535,11 @@ SPACE
 $,·sh,a,(ti),m,·,a,h
 SPACE
 l,:,r,i,$,·sh,:,τ,·,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 32:48 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,<,r
@@ -25050,6 +26687,11 @@ SPACE
 l,i,v,:,n,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 33:1 in vtrad vtsef
 w,:,z,o,⅃,α,τ
@@ -25103,6 +26745,16 @@ q,o,⅄,d,∵,$,·sh
 SPACE
 m,i,y,m,i,y,n,Ƶ,w,o
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,α,$,d,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,α,‥,(me),$,·sh
+SPACE
+d,·,a,(ti),τ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,a,𝓂,m,w,o,.
 
@@ -25171,6 +26823,18 @@ SPACE
 m,:,τ,a,(ti),y,w
 SPACE
 m,i,σ,:,f,·,a,𝓂,r,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 33:7 in vtrad vtsef
 w,:,z,o,⅃,α,τ
@@ -25202,6 +26866,11 @@ SPACE
 m,i,ц,·,a,r,a,(ti),y,w
 SPACE
 τ,·,i,h,:,y,∵,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Deuter 33:8 in vtrad vtsef
 w,·,l,:,l,‥,w,i,⅃,y
@@ -25246,6 +26915,9 @@ SPACE
 h,i,k,·,i,ƶ,y,r
 SPACE
 w,:,α,∵,τ,-
+START span class=mam-kq-trivial
+v,·,a,n,a,(ti),w
+STOP span class=mam-kq-trivial
 SPACE
 l,o,⅃,α
 SPACE
@@ -25304,6 +26976,18 @@ SPACE
 w,·,m,:,$,·si,_,n,:,α,a,(ti),y,w
 SPACE
 m,i,n.,-,y,:,q,w,·,m,𝓂,w,·,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 33:12 in vtrad vtsef
 l,:,v,i,n,:,y,a,m,i,⅃,n.
@@ -25331,6 +27015,18 @@ SPACE
 k,·,:,τ,‥,f,a,(ti),y,w
 SPACE
 $,·sh,a,k,‥,𝓂,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 33:13 in vtrad vtsef
 w,·,l,:,y,w,o,σ,‥,⅃,f.
@@ -25440,6 +27136,18 @@ SPACE
 α,_,l,:,f,‥,(me),y
 SPACE
 m,:,n,_,$,·sh,·,∵,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 33:18 in vtrad vtsef
 w,:,l,i,z,:,v,w,·,l,u,⅃,n.
@@ -25480,6 +27188,18 @@ SPACE
 θ,:,m,(me),w,·,n,‥,y
 SPACE
 x,𝓂,w,o,l,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 33:20 in vtrad vtsef
 w,·,l,:,g,a,⅃,d
@@ -25532,6 +27252,18 @@ SPACE
 w,·,m,i,$,·sh,:,f,·,a,θ,a,(ti),y,w
 SPACE
 ʕ,i,m.,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 33:22 in vtrad vtsef
 w,·,l,:,d,a,⅃,n.
@@ -25570,6 +27302,18 @@ SPACE
 w,:,d,a,r,(ti),w,o,m.
 SPACE
 y,:,r,a,𝓂,$,·sh,a,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 33:24 in vtrad vtsef
 w,·,l,:,α,a,$,·sh,‥,⅃,r
@@ -25704,6 +27448,18 @@ SPACE
 ʕ,_,l,-,v,·,a,m,w,o,τ,‥,(me),y,m,w,o
 SPACE
 τ,i,d,:,r,o,𝓂,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Deuter 34:1 in vtrad vtsef
 w,_,y,·,_,(qa),ʕ,_,l

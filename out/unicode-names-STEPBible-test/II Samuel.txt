@@ -217,6 +217,14 @@ l,i,(ti),y
 SPACE
 m,i,y,-,α,a,⅄,τ,·,a,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,y,α,m,r,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,a,α,o,m,_,⅃,r,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,‥,l,a,ƶ,y,w
 SPACE
@@ -337,6 +345,11 @@ SPACE
 n,a,f,:,l,(ti),w,·
 SPACE
 v,·,∵,x,a,𝓂,r,∵,v,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 1:13 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -414,6 +427,14 @@ SPACE
 SPACE
 d,·,a,w,i,ƶ,d
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,d,m,y,k.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,d,·,a,m,:,k.,a,(ti),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,_,l,-,r,o,α,$,·sh,∵,⅄,k.,a
 SPACE
@@ -434,6 +455,11 @@ SPACE
 α,∵,τ,-,m,:,$,·sh,i,(me),y,x,_
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 1:17 in vtrad vtsef
 w,_,y,:,q,o,n,‥,⅃,n.
@@ -673,6 +699,11 @@ SPACE
 k,·,:,l,‥,(me),y
 SPACE
 m,i,l,:,x,a,m,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 2:1 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
@@ -797,6 +828,18 @@ SPACE
 q,a,v,:,r,(ti),w,·
 SPACE
 α,∵,τ,-,$,·sh,a,α,𝓂,w,·,l,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 2:5 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,<,x
@@ -898,6 +941,11 @@ SPACE
 l,:,m,∵,(ti),l,∵,k.,:
 SPACE
 ʕ,:_,l,‥,y,h,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 2:8 in vtrad vtsef
 w,:,α,_,v,:,n,‥,⅃,r
@@ -938,6 +986,11 @@ SPACE
 w,:,ʕ,_,l,-,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 k,·,u,l,·,o,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 2:10 in vtrad vtsef
 v,·,∵,n.,-,α,_,r,:,v,·,a,ʕ,i,(qa),y,m.
@@ -998,6 +1051,18 @@ SPACE
 w,:,$,·sh,i,$,·sh,·,a,(me),h
 SPACE
 x,:a,d,a,$,·sh,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 2:12 in vtrad vtsef
 w,_,y,·,‥,ц,‥,α,(p)
@@ -1630,8 +1695,28 @@ SPACE
 h,o,l,:,k,i,(me),y,m.
 SPACE
 w,:,d,_,l,·,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 3:2 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,y,l,d,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,_,y,·,i,w,·,a,l,:,d,(da),w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 l,:,d,a,w,i,⟓,d
 SPACE
@@ -1654,6 +1739,14 @@ w,·,m,i,$,·sh,:,n,‥,⅃,h,w,·
 SPACE
 k,i,l,:,α,a,ƶ,v
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,l,α,v,y,g,l,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,l,_,α,:_,v,i,y,g,_,Ƶ,y,i,l,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,‥,(ti),$,·sh,∵,τ
 SPACE
@@ -1704,6 +1797,11 @@ SPACE
 l,:,d,a,w,i,(ti),d
 SPACE
 v,·,:,x,∵,v,:,r,𝓂,w,o,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 3:6 in vtrad vtsef
 w,_,y,:,h,i,◆,y
@@ -1813,6 +1911,18 @@ SPACE
 h,a,α,i,$,·sh,·,a,(ti),h
 SPACE
 h,_,y,·,𝓂,w,o,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 3:9 in vtrad vtsef
 k,·,o,𝓂,h,-,y,_,ʕ,:_,$,·si,∵,<,h
@@ -1880,6 +1990,18 @@ SPACE
 m,i,y,·,i,r,:,α,a,τ,(ti),w,o
 SPACE
 α,o,τ,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 3:12 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,x,(tq)
@@ -1972,6 +2094,18 @@ SPACE
 l,i,r,:,α,(me),w,o,τ
 SPACE
 α,∵,τ,-,f,·,a,n,a,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 3:14 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,<,x
@@ -2022,6 +2156,14 @@ SPACE
 f,·,_,l,:,θ,i,y,α,‥,(me),l
 SPACE
 v,·,∵,n.,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,l,a,𝓂,y,i,$,·sh,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,l,w,$,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 .
 
 2Samuel 3:16 in vtrad vtsef
@@ -2333,6 +2475,14 @@ SPACE
 α,∵,τ,-,m,w,o,ц,a,𝓂,α,:_,k.,a,(p)
 SPACE
 w,:,α,∵,τ,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,m,⅃,w,o,v,a,α,∵,ƶ,k.,a,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,m,v,w,α,k.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 w,:,l,a,d,_,Ƶ,ʕ,_,τ
 SPACE
@@ -2496,6 +2646,18 @@ SPACE
 v,·,:,g,i,v,:,ʕ,(ti),w,o,n.
 SPACE
 v,·,_,m,·,i,l,:,x,a,m,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 3:31 in vtrad vtsef
 w,_,y,·,o,(tq),α,m,∵,r,(tq)
@@ -2554,6 +2716,18 @@ SPACE
 w,_,y,·,i,v,:,k,·,(ti),w,·
 SPACE
 k,·,oa,l,-,h,a,ʕ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 3:33 in vtrad vtsef
 w,_,y,:,q,o,n,‥,(me),n.
@@ -2689,6 +2863,18 @@ SPACE
 α,∵,τ,-,α,_,v,:,n,‥,(me),r
 SPACE
 v,·,∵,n.,-,n,‥,𝓂,r,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 3:38 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
@@ -2745,6 +2931,11 @@ SPACE
 h,a,r,a,ʕ,a,(ti),h
 SPACE
 k,·,:,r,a,ʕ,a,τ,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 4:1 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,_,⅃,ʕ
@@ -2824,6 +3015,18 @@ SPACE
 h,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 4:4 in vtrad vtsef
 w,:,l,i,y,h,𝓂,w,o,n,a,τ,a,n.,(p)
@@ -3141,6 +3344,11 @@ SPACE
 v,:,q,∵,v,∵,r,-,α,_,v,:,n,‥,(ti),r
 SPACE
 v,·,:,x,∵,v,:,r,𝓂,w,o,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 5:1 in vtrad vtsef
 w,_,y,·,a,v,o,(ge),α,w,·
@@ -3180,6 +3388,18 @@ SPACE
 SPACE
 α,_,τ,·,a,◆,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,y,y,τ,h
+SPACE
+m,w,ц,y,α,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,a,y,i,⟓,y,τ,a
+SPACE
+h,_,m,·,w,o,ц,i,(me),y,α,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,:,h,_,m,·,‥,v,i,(ti),y
 SPACE
@@ -3241,6 +3461,18 @@ SPACE
 l,:,m,∵,(ti),l,∵,k.,:
 SPACE
 ʕ,_,l,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 5:4 in vtrad vtsef
 v,·,∵,n.,-,$,·sh,:,l,o,$,·sh,i,(me),y,m.
@@ -3367,6 +3599,14 @@ w,:,α,∵,τ,-,h,_,f,·,i,σ,:,x,i,y,m.,(p)
 SPACE
 w,:,α,∵,τ,-,h,_,⅃,ʕ,i,w,:,r,i,ƶ,y,m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,n,α,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·si,:,n,w,·,α,‥,(ti),y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 n,∵,⅃,f,∵,$,·sh
 SPACE
@@ -3425,6 +3665,11 @@ SPACE
 ц,:,v,a,α,(ti),w,o,τ
 SPACE
 ʕ,i,m,·,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 5:11 in vtrad vtsef
 w,_,⌕,y,·,i,$,·sh,:,l,_,⌕,x
@@ -3479,6 +3724,18 @@ SPACE
 ʕ,_,m,·,(me),w,o
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 5:13 in vtrad vtsef
 w,_,y,·,i,q,·,_,x,(tq)
@@ -3543,6 +3800,11 @@ SPACE
 w,:,α,∵,l,:,y,a,d,a,(ti),ʕ
 SPACE
 w,∵,α,:∵,l,i,y,f,a,𝓂,l,∵,θ,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 5:17 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,:,ʕ,⅃,w,·
@@ -3601,10 +3863,10 @@ h,:_,τ,i,τ,·,:,n,‥,(ti),m.
 SPACE
 v,·,:,y,a,d,i,⅄,y
 NO-BREAK SPACE
-START span class=mam-spi-samekh
+START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-samekh
-START br class=mam-br-after-pe
+STOP span class=mam-spi-pe
+START br 
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 y,:,h,o,w,a,<,h
@@ -3672,6 +3934,11 @@ SPACE
 d,·,a,w,i,(ti),d
 SPACE
 w,_,α,:_,n,a,$,·sh,a,𝓂,y,w,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 5:22 in vtrad vtsef
 w,_,y,·,o,σ,i,(me),f,w,·
@@ -3716,6 +3983,14 @@ v,·,:,k,a,α,i,𝓂,y,m.,.
 2Samuel 5:24 in vtrad vtsef
 w,i,⌕,y,h,i,⌕,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,$,m,ʕ,k.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,k,·,:,𝓂,$,·sh,oa,m,:,ʕ,:_,k.,a,(G),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,∵,τ,-,q,(da),w,o,l
 SPACE
@@ -3767,6 +4042,11 @@ SPACE
 ʕ,_,d,-,v,·,o,α,:_,k.,a,(me)
 SPACE
 g,a,𝓂,z,∵,r,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 6:1 in vtrad vtsef
 w,_,y,·,o,(qa),σ,∵,f.
@@ -4469,6 +4749,11 @@ SPACE
 y,(me),w,o,m.
 SPACE
 m,w,o,τ,a,𝓂,h,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 7:1 in vtrad vtsef
 w,_,y,:,h,i,Ƶ,y
@@ -4938,6 +5223,11 @@ SPACE
 n,a,τ,a,(ti),n.
 SPACE
 α,∵,l,-,d,·,a,w,i,𝓂,d,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 7:18 in vtrad vtsef
 w,_,y,·,a,v,o,α,(p)
@@ -5149,6 +5439,18 @@ SPACE
 l,a,h,∵,(ti),m.
 SPACE
 l,‥,α,l,o,h,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 7:25 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,h,(p)
@@ -5306,6 +5608,11 @@ SPACE
 v,·,‥,𝓂,y,τ,-,ʕ,_,v,:,d,·,:,k.,a,(ti)
 SPACE
 l,:,ʕ,w,o,l,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 8:1 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -5535,6 +5842,18 @@ SPACE
 h,_,r,:,v,·,‥,(me),h
 SPACE
 m,:,α,o,𝓂,d,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 8:9 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,_,Ƶ,ʕ
@@ -5769,6 +6088,18 @@ SPACE
 k,·,o,h,:_,n,i,(me),y,m.
 SPACE
 h,a,y,𝓂,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 9:1 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -6164,6 +6495,11 @@ SPACE
 $,·sh,:,τ,·,‥,(me),y
 SPACE
 r,_,g,:,l,a,𝓂,y,w,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 10:1 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -6454,6 +6790,14 @@ m,i,k,·,o,l,(p)
 SPACE
 v,·,:,x,w,·,r,‥,⅃,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,y,$,r,α,l,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,i,$,·si,:,r,a,α,‥,ƶ,l,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,_,𝓂,y,·,_,ʕ,:_,r,o,(ti),k.,:
 SPACE
@@ -6631,6 +6975,18 @@ SPACE
 h,:_,d,_,d,:,ʕ,∵,(ti),z,∵,r
 SPACE
 l,i,f,:,n,‥,y,h,∵,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 10:17 in vtrad vtsef
 w,_,y,·,u,g,·,_,⅃,d
@@ -6734,6 +7090,11 @@ SPACE
 α,∵,τ,-,v,·,:,n,‥,(me),y
 SPACE
 ʕ,_,m,·,𝓂,w,o,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 11:1 in vtrad vtsef
 w,_,y,:,h,i,y,(tq)
@@ -6779,6 +7140,18 @@ SPACE
 y,w,o,$,·sh,‥,(me),v
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 11:2 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
@@ -7185,6 +7558,18 @@ SPACE
 w,:,n,i,k,·,a,(me),h
 SPACE
 w,a,m,‥,𝓂,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 11:16 in vtrad vtsef
 w,_,y,:,h,i,Ƶ,y
@@ -7418,6 +7803,18 @@ SPACE
 h,_,x,i,τ,·,i,(ti),y
 SPACE
 m,‥,𝓂,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 11:25 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -7507,6 +7904,11 @@ SPACE
 v,·,:,ʕ,‥,y,n,‥,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 12:1 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,(da),x
@@ -7685,6 +8087,18 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 l,o,α,-,x,a,m,a,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 12:7 in vtrad vtsef
 w,_,y,·,o,(da),α,m,∵,r
@@ -7784,6 +8198,14 @@ l,_,ʕ,:_,$,·si,⅃,w,o,τ
 SPACE
 h,a,r,_,ʕ,~
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,ʕ,y,n,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,v,·,:,ʕ,‥,y,n,_,y,∴,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,‥,⅃,τ
 SPACE
@@ -7843,6 +8265,18 @@ SPACE
 l,:,k.,a,(ti)
 SPACE
 l,:,α,i,$,·sh,·,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 12:11 in vtrad vtsef
 k,·,o,⅃,h
@@ -7909,6 +8343,18 @@ SPACE
 w,:,n,∵,(me),g,∵,d
 SPACE
 h,_,$,·sh,·,a,𝓂,m,∵,$,·sh,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 12:13 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -8157,6 +8603,9 @@ w,_,y,·,a,◆,σ,∵,k.,:
 SPACE
 w,_,y,:,x,_,l,·,‥,f.,(p)
 SPACE
+START span class=mam-kq-trivial
+$,·si,i,m,:,l,o,τ,a,ƶ,w
+STOP span class=mam-kq-trivial
 SPACE
 w,_,y,·,a,v,o,(me),α
 SPACE
@@ -8236,6 +8685,14 @@ m,i,⅃,y
 SPACE
 y,w,o,d,‥,ƶ,ʕ,_
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,x,n,n,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,x,_,n,·,_,(me),n,i,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
@@ -8301,6 +8758,14 @@ w,_,τ,·,‥,⅃,l,∵,d
 SPACE
 v,·,‥,◆,n.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,y,q,r,α,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,_,τ,·,i,q,:,r,a,<,α,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,∵,τ,-,$,·sh,:,m,w,o,(p)
 SPACE
@@ -8328,6 +8793,11 @@ SPACE
 v,·,_,ʕ,:_,v,(ti),w,·,r
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 12:26 in vtrad vtsef
 w,_,y,·,i,l,·,a,⅃,x,∵,m.
@@ -8469,6 +8939,14 @@ w,:,h,∵,ʕ,:∵,v,i,<,y,r
 SPACE
 α,w,o,τ,a,m.,(p)
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,m,l,k,n.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,v,·,_,m,·,_,l,:,v,·,‥,ƶ,n.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,:,k,‥,⅃,n.
 SPACE
@@ -8487,6 +8965,11 @@ SPACE
 w,:,k,oa,l,-,h,a,ʕ,a,(ti),m.
 SPACE
 y,:,r,𝓂,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 13:1 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
@@ -8740,6 +9223,14 @@ w,_,τ,·,i,q,·,_,(qa),x
 SPACE
 α,∵,τ,-,h,_,v,·,a,ц,‥,<,q
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,τ,l,w,$,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,_,τ,·,a,(p),l,oa,$,·sh,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,_,τ,·,:,l,_,v,·,‥,⅃,v
 SPACE
@@ -9154,6 +9645,11 @@ SPACE
 τ,·,a,m,a,(me),r
 SPACE
 α,:_,x,o,τ,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 13:23 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -9279,6 +9775,18 @@ SPACE
 k,·,oa,l,-,v,·,:,n,‥,(me),y
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 13:28 in vtrad vtsef
 w,_,y,:,ц,_,w,(tq)
@@ -9390,6 +9898,11 @@ SPACE
 m,‥,h,∵,(ti),m.
 SPACE
 α,∵,x,a,𝓂,d,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 13:31 in vtrad vtsef
 w,_,y,·,a,(da),q,oa,m.
@@ -9411,6 +9924,18 @@ SPACE
 q,:,r,u,ʕ,‥,(me),y
 SPACE
 v,:,g,a,d,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 13:32 in vtrad vtsef
 w,_,y,·,_,μ,ʕ,_,n.
@@ -9490,6 +10015,11 @@ SPACE
 l,:,v,_,d,·,(ti),w,o
 SPACE
 m,‥,𝓂,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 13:34 in vtrad vtsef
 w,_,y,·,i,v,:,r,_,(ti),x
@@ -9503,6 +10033,9 @@ SPACE
 h,_,ц,·,o,f,∵,h,(p)
 SPACE
 α,∵,τ,-
+START span class=mam-kq-trivial
+ʕ,‥,y,n,a,ƶ,w
+STOP span class=mam-kq-trivial
 SPACE
 w,_,y,·,_,◆,r,:,α
 SPACE
@@ -9586,6 +10119,14 @@ SPACE
 α,∵,l,-,τ,·,_,l,:,m,_,(me),y
 SPACE
 v,·,∵,n.,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,ʕ,_,m,·,i,y,h,(ti),w,·,d,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,ʕ,m,y,x,w,r,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 m,∵,⅃,l,∵,k.,:
 SPACE
@@ -9628,6 +10169,18 @@ SPACE
 ʕ,_,l,-,α,_,m,:,n,(ti),w,o,n.
 SPACE
 k,·,i,y,-,m,‥,𝓂,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 14:1 in vtrad vtsef
 w,_,y,·,‥,(ti),d,_,ʕ
@@ -9728,6 +10281,18 @@ SPACE
 h,w,o,$,·sh,i,(me),ʕ,a,h
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 14:5 in vtrad vtsef
 w,_,y,·,o,𝓂,α,m,∵,r,-,l,a,(me),h,·
@@ -9824,6 +10389,14 @@ n,i,$,·sh,:,α,a,ƶ,r,a,h
 SPACE
 l,:,v,i,l,:,τ,·,i,(da),y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,w,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·si,i,y,m.,-,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 l,:,α,i,y,$,·sh,i,⟓,y
 SPACE
 $,·sh,‥,(me),m.
@@ -9833,6 +10406,11 @@ SPACE
 ʕ,_,l,-,f,·,:,n,‥,(me),y
 SPACE
 h,a,α,:_,d,a,m,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 14:8 in vtrad vtsef
 w,_,y,·,o,(da),α,m,∵,r
@@ -9877,6 +10455,18 @@ SPACE
 w,:,k,i,σ,:,α,(ti),w,o
 SPACE
 n,a,q,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 14:10 in vtrad vtsef
 w,_,y,·,o,(ti),α,m,∵,r
@@ -9910,6 +10500,14 @@ SPACE
 SPACE
 α,:∵,l,o,h,∵,◆,y,k.,a
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,m,h,r,v,y,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,m,‥,h,_,r,:,v,·,_,(G),τ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 g,·,o,α,‥,<,l
 SPACE
@@ -9953,6 +10551,18 @@ SPACE
 w,_,y,·,o,(ti),α,m,∵,r
 SPACE
 d,·,_,v,·,‥,𝓂,r,i,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 14:13 in vtrad vtsef
 w,_,τ,·,o,(p),α,m,∵,r,(p)
@@ -10130,6 +10740,11 @@ SPACE
 y,:,h,i,(me),y
 SPACE
 ʕ,i,m,·,a,𝓂,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 14:18 in vtrad vtsef
 w,_,y,·,_,⅃,ʕ,_,n.
@@ -10265,6 +10880,18 @@ SPACE
 α,∵,𝓂,τ,-,k,·,oa,l,-,α,:_,$,·sh,∵,(me),r
 SPACE
 v,·,a,α,a,𝓂,r,∵,ц.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 14:21 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -10330,6 +10957,14 @@ h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
 α,∵,τ,-,d,·,:,v,_,(me),r
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,ʕ,v,d,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,ʕ,_,v,:,d,·,∵,𝓂,k.,a,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 2Samuel 14:23 in vtrad vtsef
@@ -10346,6 +10981,18 @@ SPACE
 α,∵,τ,-,α,_,v,:,$,·sh,a,l,(ti),w,o,m.
 SPACE
 y,:,r,𝓂,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 14:24 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -10375,6 +11022,18 @@ SPACE
 l,o,(me),α
 SPACE
 r,a,α,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 14:25 in vtrad vtsef
 w,·,k,:,α,_,v,:,$,·sh,a,l,◆,w,o,m.
@@ -10470,6 +11129,11 @@ SPACE
 y,:,f,_,(me),τ
 SPACE
 m,_,r,:,α,∵,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 14:28 in vtrad vtsef
 w,_,y,·,‥,(da),$,·sh,∵,v
@@ -10542,6 +11206,14 @@ $,·si,:,ʕ,o,r,i,ƶ,y,m.
 SPACE
 l,:,k,(ti),w,·
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,h,w,ц,τ,y,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,h,_,ц,·,i,y,τ,⅃,w,·,h,a,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,a,α,‥,⅄,$,·sh
 SPACE
@@ -10554,6 +11226,11 @@ SPACE
 α,∵,τ,-,h,_,x,∵,l,:,q,a,(ti),h
 SPACE
 v,·,a,α,‥,𝓂,$,·sh,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 14:31 in vtrad vtsef
 w,_,y,·,a,⅃,q,oa,m.
@@ -10675,6 +11352,18 @@ SPACE
 h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
 l,:,α,_,v,:,$,·sh,a,l,𝓂,w,o,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 15:1 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -10841,6 +11530,11 @@ SPACE
 α,_,n,:,$,·sh,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 15:7 in vtrad vtsef
 w,_,y,:,h,i,Ƶ,y
@@ -10887,6 +11581,14 @@ SPACE
 l,‥,α,m,o,⅄,r
 SPACE
 α,i,m.,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,a,$,·sh,(qa),w,o,v,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,$,y,v,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 y,:,$,·sh,i,y,v,‥,<,n,i,y
 SPACE
@@ -10912,6 +11614,11 @@ SPACE
 w,_,y,·,‥,(me),l,∵,k.,:
 SPACE
 x,∵,v,:,r,𝓂,w,o,n,a,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 15:10 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,<,x
@@ -11149,6 +11856,18 @@ SPACE
 ʕ,_,l,-,f,·,:,n,‥,(me),y
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 15:19 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -11194,6 +11913,14 @@ v,·,w,o,α,∵,◆,k.,a
 SPACE
 w,:,h,_,y,·,(G),w,o,m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,α,n,w,ʕ,k.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,α,:_,n,i,𝓂,y,ʕ,:_,k.,a,<,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,i,m,·,a,(p),n,w,·,(p)
 SPACE
@@ -11353,6 +12080,18 @@ SPACE
 l,_,ʕ,:_,v,(me),w,o,r
 SPACE
 m,i,n.,-,h,a,ʕ,i,𝓂,y,r,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 15:25 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -11407,6 +12146,18 @@ SPACE
 θ,(me),w,o,v
 SPACE
 v,·,:,ʕ,‥,y,n,a,𝓂,y,w,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 15:27 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -11448,6 +12199,14 @@ SPACE
 SPACE
 m,i,τ,:,m,_,h,:,m,‥,ƶ,h,·,_
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,ʕ,v,r,w,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,v,·,:,ʕ,_,𝓂,r,:,v,(ti),w,o,τ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 h,_,m,·,i,d,:,v,·,a,⅄,r
 SPACE
@@ -11719,6 +12478,18 @@ SPACE
 y,a,v,(ti),w,o,α
 SPACE
 y,:,r,𝓂,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 16:1 in vtrad vtsef
 w,:,d,a,w,i,◆,d
@@ -11784,6 +12555,14 @@ l,:,v,‥,y,τ,-,h,_,m,·,∵,(ge),l,∵,k.,:
 SPACE
 l,i,r,:,k,·,o,◆,v
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,l,h,l,x,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,h,_,l,·,∵,<,x,∵,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,:,h,_,q,·,_,(p),y,i,ц.,(p)
 SPACE
@@ -12019,6 +12798,18 @@ SPACE
 w,:,α,a,σ,i,(me),y,r,a,h
 SPACE
 α,∵,τ,-,r,o,α,$,·sh,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 16:10 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -12033,9 +12824,25 @@ v,·,:,n,‥,⅃,y
 SPACE
 ц,:,r,u,y,a,⅄,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,k,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,k,·,o,⅃,h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 y,:,q,_,l,·,‥,◆,l
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,k,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,k,·,i,<,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 y,:,h,o,w,a,h,(p)
 SPACE
@@ -12056,6 +12863,18 @@ SPACE
 ʕ,a,$,·si,i,(me),y,τ,a,h
 SPACE
 k,·,‥,𝓂,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 16:11 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -12103,6 +12922,14 @@ y,i,r,:,α,∵,(me),h
 SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,ʕ,w,n,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,v,·,:,ʕ,‥,y,n,i,⅄,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,:,h,‥,$,·sh,i,(qa),y,v
 SPACE
@@ -12163,6 +12990,11 @@ SPACE
 w,:,ʕ,i,f,·,_,(ti),r
 SPACE
 v,·,∵,ʕ,a,f,a,𝓂,r,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 16:14 in vtrad vtsef
 w,_,y,·,a,v,o,(me),α
@@ -12269,6 +13101,14 @@ w,:,k,oa,l,-,α,i,⅃,y,$,·sh
 SPACE
 y,i,$,·si,:,r,a,α,‥,⅄,l
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,l,α,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,l,(me),w,o,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,∵,h,:,y,∵,(ti),h
 SPACE
@@ -12304,6 +13144,11 @@ SPACE
 α,∵,h,:,y,∵,(me),h
 SPACE
 l,:,f,a,n,∵,𝓂,y,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 16:20 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
@@ -12410,6 +13255,18 @@ SPACE
 g,·,_,(me),m.
 SPACE
 l,:,α,_,v,:,$,·sh,a,l,o,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 17:1 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
@@ -12504,6 +13361,18 @@ SPACE
 k,·,oa,l,-,z,i,q,:,n,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 17:5 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
@@ -12558,6 +13427,18 @@ SPACE
 α,_,τ,·,a,(me),h
 SPACE
 d,_,v,·,‥,𝓂,r,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 17:7 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
@@ -12731,6 +13612,14 @@ w,·,v,a,⅃,α,n,w,·
 SPACE
 α,‥,l,a,◆,y,w
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,α,x,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,v,·,:,α,_,x,_,<,d,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 h,_,m,·,:,q,w,o,m,o,τ,(p)
 SPACE
@@ -12790,6 +13679,11 @@ SPACE
 $,·sh,a,(ti),m.
 SPACE
 g,·,_,m.,-,ц,:,r,𝓂,w,o,r,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 17:14 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -12844,6 +13738,18 @@ SPACE
 α,∵,l,-,α,_,v,:,$,·sh,a,l,(ti),w,o,m.
 SPACE
 α,∵,τ,-,h,a,r,a,ʕ,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 17:15 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -13060,6 +13966,18 @@ SPACE
 w,_,y,·,a,$,·sh,u,(ti),v,w,·
 SPACE
 y,:,r,𝓂,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 17:21 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
@@ -13173,6 +14091,18 @@ SPACE
 v,·,:,q,∵,(me),v,∵,r
 SPACE
 α,a,v,i,𝓂,y,w,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 17:24 in vtrad vtsef
 w,:,d,a,w,i,(ti),d
@@ -13242,6 +14172,18 @@ SPACE
 α,∵,(ti),r,∵,ц.
 SPACE
 h,_,g,·,i,l,:,ʕ,a,𝓂,d,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 17:27 in vtrad vtsef
 w,_,y,:,h,i,Ƶ,y
@@ -13331,6 +14273,18 @@ SPACE
 w,:,ц,a,m,‥,(ti),α
 SPACE
 v,·,_,m,·,i,d,:,v,·,a,𝓂,r,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 18:1 in vtrad vtsef
 w,_,y,·,i,f,:,q,o,⅃,d
@@ -13458,7 +14412,27 @@ k,·,i,𝓂,y,-,τ,i,𝓂,h,:,y,∵,h,-,l,·,a,(me),n,w,·
 SPACE
 m,‥,ʕ,i,(ti),y,r
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,l,ʕ,z,y,r,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,l,_,ʕ,:,z,𝓂,w,o,r,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 18:4 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -13575,6 +14549,14 @@ w,_,τ,·,:,h,i,y,-,$,·sh,a,(da),m.
 SPACE
 h,_,m,·,i,l,:,x,a,m,a,⟓,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,n,f,ц,w,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,n,a,f,(ti),w,o,ц,∵,τ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,_,l,-,f,·,:,n,‥,⅃,y
 SPACE
@@ -13716,6 +14698,14 @@ h,a,α,i,y,$,·sh,(p)
 SPACE
 α,∵,l,-,y,w,o,α,a,ƶ,v
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,l,α,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,l,(qa),w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,a,n,o,k,i,(ge),y
 SPACE
@@ -13758,6 +14748,14 @@ v,·,:,α,_,v,:,$,·sh,a,l,𝓂,w,o,m.,.
 2Samuel 18:13 in vtrad vtsef
 α,𝓂,w,o,-,ʕ,a,$,·si,i,<,y,τ,i,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,n,f,$,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,v,:,n,_,f,:,$,·sh,i,y,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 $,·sh,∵,ƶ,q,∵,r
 SPACE
@@ -13929,6 +14927,18 @@ SPACE
 h,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 18:19 in vtrad vtsef
 w,_,α,:_,x,i,y,m,_,<,ʕ,_,ц.
@@ -14254,6 +15264,18 @@ SPACE
 v,·,_,α,d,o,n,i,(me),y
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 18:29 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -14335,6 +15357,18 @@ SPACE
 k,·,oa,l,-,h,_,q,·,a,m,i,(me),y,m.
 SPACE
 ʕ,a,l,∵,𝓂,y,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 18:32 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -14370,6 +15404,18 @@ SPACE
 ʕ,a,l,∵,(ti),y,k.,a
 SPACE
 l,:,r,a,ʕ,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 19:1 in vtrad vtsef
 w,_,y,·,i,r,:,g,·,_,⅃,z
@@ -14511,6 +15557,18 @@ SPACE
 v,·,:,n,i,(me),y
 SPACE
 v,:,n,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 19:6 in vtrad vtsef
 w,_,y,·,a,v,o,(me),α
@@ -14594,6 +15652,14 @@ h,_,y,·,◆,w,o,m.
 SPACE
 k,·,i,⌕,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,l,α,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,l,⅃,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,_,v,:,$,·sh,a,l,(me),w,o,m.
 SPACE
@@ -14668,6 +15734,18 @@ SPACE
 m,i,n,·,:,ʕ,u,r,∵,(ti),y,k.,a
 SPACE
 ʕ,_,d,-,ʕ,a,𝓂,τ,·,a,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 19:9 in vtrad vtsef
 w,_,y,·,a,(me),q,oa,m.
@@ -14707,6 +15785,18 @@ SPACE
 α,i,(me),y,$,·sh
 SPACE
 l,:,α,o,h,a,l,a,𝓂,y,w,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 19:10 in vtrad vtsef
 w,_,y,:,h,i,<,y
@@ -14775,6 +15865,18 @@ SPACE
 l,:,h,a,$,·sh,i,(me),y,v
 SPACE
 α,∵,τ,-,h,_,m,·,∵,𝓂,l,∵,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 19:12 in vtrad vtsef
 w,:,h,_,m,·,∵,⅃,l,∵,k.,:
@@ -15004,6 +16106,9 @@ w,:,l,_,ʕ,:_,$,·si,(me),w,o,τ
 SPACE
 h,_,θ,·,(ti),w,o,v
 SPACE
+START span class=mam-kq-trivial
+v,·,:,ʕ,‥,y,n,a,⅄,w
+STOP span class=mam-kq-trivial
 SPACE
 w,:,$,·sh,i,m,:,ʕ,i,⅃,y
 SPACE
@@ -15084,6 +16189,18 @@ SPACE
 α,:_,d,o,n,i,(me),y
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 19:22 in vtrad vtsef
 w,_,y,·,_,(qa),ʕ,_,n.
@@ -15111,6 +16228,18 @@ SPACE
 α,∵,τ,-,m,:,$,·sh,i,(me),y,x,_
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 19:23 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -15169,6 +16298,18 @@ SPACE
 l,(ti),w,o
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 19:25 in vtrad vtsef
 w,·,m,:,f,i,v,o,(p),$,·sh,∵,τ,(p)
@@ -15326,6 +16467,11 @@ SPACE
 ʕ,(ti),w,o,d
 SPACE
 α,∵,l,-,h,_,m,·,∵,𝓂,l,∵,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 19:30 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -15376,6 +16522,18 @@ SPACE
 v,·,:,$,·sh,a,l,(ti),w,o,m.
 SPACE
 α,∵,l,-,v,·,‥,y,τ,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 19:32 in vtrad vtsef
 w,·,v,_,r,:,z,i,l,·,_,y,(p)
@@ -15395,6 +16553,14 @@ SPACE
 l,:,$,·sh,_,l,·,:,x,(ti),w,o
 SPACE
 α,∵,τ,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,_,y,·,_,r,:,d,·,‥,𝓂,n.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,y,r,d,n.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 .
 
 2Samuel 19:33 in vtrad vtsef
@@ -15582,6 +16748,18 @@ SPACE
 α,:_,$,·sh,∵,r,-,θ,(ti),w,o,v
 SPACE
 v,·,:,ʕ,‥,y,n,∵,𝓂,y,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 19:39 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -15632,6 +16810,18 @@ SPACE
 w,_,y,·,a,(ti),$,·sh,oa,v
 SPACE
 l,i,m,:,q,o,m,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 19:41 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,v,o,<,r
@@ -15650,6 +16840,14 @@ w,:,k,oa,l,-,ʕ,_,<,m.
 SPACE
 y,:,h,w,·,d,a,h,(p)
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,y,ʕ,v,r,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,∵,ʕ,:∵,v,i,⅃,y,r,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,∵,τ,-,h,_,m,·,∵,ƶ,l,∵,k.,:
 SPACE
@@ -15699,6 +16897,18 @@ SPACE
 d,a,w,i,(ti),d
 SPACE
 ʕ,i,m,·,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 19:43 in vtrad vtsef
 w,_,y,·,_,(tq),ʕ,_,n.,(tq)
@@ -15740,6 +16950,18 @@ SPACE
 n,i,$,·si,·,a,(ti),α
 SPACE
 l,a,𝓂,n,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 19:44 in vtrad vtsef
 w,_,y,·,_,⅃,ʕ,_,n.
@@ -15791,6 +17013,18 @@ SPACE
 α,i,(me),y,$,·sh
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 20:1 in vtrad vtsef
 w,:,$,·sh,a,(qa),m.
@@ -15916,6 +17150,18 @@ SPACE
 α,_,l,:,m,:,n,(me),w,·,τ
 SPACE
 x,_,y,·,𝓂,w,·,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 20:4 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -15947,12 +17193,32 @@ l,:,h,_,z,:,ʕ,i,⅃,y,q
 SPACE
 α,∵,τ,-,y,:,h,w,·,d,a,⅄,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,y,y,x,r,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,_,y,·,Ƶ,w,o,x,∵,r,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 m,i,n.,-,h,_,m,·,w,o,ʕ,‥,(ti),d
 SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 y,:,ʕ,a,d,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 20:6 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -16053,6 +17319,9 @@ m,i,d,·,⅃,w,o
 SPACE
 l,:,v,u,$,·sh,◆,w,o
 SPACE
+START span class=mam-kq-trivial
+w,:,ʕ,a,l,a,(G),w
+STOP span class=mam-kq-trivial
 SPACE
 x,:_,g,(me),w,o,r
 SPACE
@@ -16069,6 +17338,18 @@ SPACE
 y,a,ц,a,(ti),α
 SPACE
 w,_,τ,·,i,f,·,o,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 20:9 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -16263,6 +17544,14 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,y,q,l,h,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,_,y,·,i,q,·,a,⅃,h,:_,l,ƶ,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,_,y,·,a,v,o,(ti),α,w,·
 SPACE
@@ -16412,6 +17701,11 @@ SPACE
 n,_,x,:_,l,_,(me),τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 20:20 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -16525,6 +17819,18 @@ SPACE
 y,:,r,w,·,$,·sh,a,l,_,(ti),CGJ,i,m.
 SPACE
 α,∵,l,-,h,_,m,·,∵,𝓂,l,∵,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 20:23 in vtrad vtsef
 w,:,y,w,o,α,a,Ƶ,v
@@ -16540,6 +17846,14 @@ SPACE
 v,·,∵,n.,-,y,:,h,⅃,w,o,y,a,d,a,ƶ,ʕ
 SPACE
 ʕ,_,l,-
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,k,r,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,_,k,·,:,r,‥,τ,i,(ti),y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,:,ʕ,_,l,-,h,_,f,·,:,l,‥,τ,i,𝓂,y,.
 
@@ -16555,6 +17869,14 @@ SPACE
 h,_,m,·,_,z,:,k,·,i,𝓂,y,r,.
 
 2Samuel 20:25 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,$,y,α,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,·,$,·sh,:,w,a,(ti),α,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 σ,o,f,‥,⅄,r
 SPACE
@@ -16576,6 +17898,18 @@ SPACE
 k,o,h,‥,(ti),n.
 SPACE
 l,:,d,a,w,i,𝓂,d,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 21:1 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
@@ -16709,6 +18043,14 @@ SPACE
 h,_,g,·,i,v,:,ʕ,o,n,i,◆,y,m.
 SPACE
 α,‥,𝓂,y,n.,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,l,a,(ge),n,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,l,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 k,·,∵,<,σ,∵,f.
 SPACE
@@ -16760,6 +18102,14 @@ SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 2Samuel 21:6 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,n,τ,n.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,u,τ,·,_,n.,-,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 l,a,(ge),n,w,·
 SPACE
 $,·sh,i,v,:,ʕ,a,<,h
@@ -16780,10 +18130,10 @@ v,·,:,x,i,⅃,y,r
 SPACE
 y,:,h,o,w,a,⅄,h
 NO-BREAK SPACE
-START span class=mam-spi-samekh
+START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-samekh
-START br class=mam-br-after-pe
+STOP span class=mam-spi-pe
+START br 
 w,_,y,·,o,(me),α,m,∵,r
 SPACE
 h,_,m,·,∵,(ti),l,∵,k.,:
@@ -16879,9 +18229,25 @@ y,:,h,o,w,a,ƶ,h
 SPACE
 w,_,y,·,i,f,·,:,l,(me),w,·
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,v,ʕ,τ,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,:,v,_,ʕ,:,τ,·,a,(ti),m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 y,a,⅄,x,_,d
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,h,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,h,‥,(qa),m,·,a,h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 h,u,m,:,τ,(ge),w,·
 SPACE
@@ -16891,6 +18257,14 @@ q,a,ц,i,y,r,(p)
 SPACE
 v,·,a,r,i,⅃,α,$,·sh,o,n,i,ƶ,y,m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,τ,x,l,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,v,·,i,τ,:,x,i,l,·,_,(ti),τ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 q,:,ц,i,(me),y,r
 SPACE
@@ -16995,7 +18369,27 @@ v,·,‥,𝓂,y,τ,-,$,·sh,_,◆,n.
 SPACE
 α,:_,$,·sh,∵,(qa),r
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,τ,l,w,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,τ,·,:,l,a,α,(me),w,·,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,m.
+SPACE
+h,f,l,$,τ,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,a,(p),m,·,a,h,(p)
+SPACE
+f,·,:,l,i,$,·sh,:,τ,·,i,ƶ,y,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,·,:,y,(qa),w,o,m.
 SPACE
@@ -17062,6 +18456,11 @@ SPACE
 l,a,α,a,(ti),r,∵,ц.
 SPACE
 α,_,x,:_,r,‥,y,-,k,‥,𝓂,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 21:15 in vtrad vtsef
 w,_,τ,·,:,h,i,y,-,ʕ,(da),w,o,d
@@ -17089,6 +18488,14 @@ SPACE
 d,·,a,w,i,𝓂,d,.
 
 2Samuel 21:16 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,y,$,v,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,y,i,$,·sh,:,v,·,i,(qa),y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,·,:,n,o,(ge),v
 SPACE
@@ -17164,6 +18571,11 @@ SPACE
 α,∵,τ,-,n,‥,(me),r
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 21:18 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -17193,6 +18605,18 @@ SPACE
 v,·,i,y,l,i,d,‥,(me),y
 SPACE
 h,a,𝓂,r,a,f,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 21:19 in vtrad vtsef
 w,_,τ,·,:,h,i,y,-,ʕ,(da),w,o,d
@@ -17209,6 +18633,8 @@ SPACE
 SPACE
 v,·,∵,n.,-,y,_,ʕ,:
 START small 
+r,‥,(qa)
+STOP small 
 y
 SPACE
 α,o,r,:,g,i,(ge),y,m.
@@ -17230,6 +18656,18 @@ SPACE
 k,·,i,m,:,n,(ti),w,o,r
 SPACE
 α,o,r,:,g,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 21:20 in vtrad vtsef
 w,_,τ,·,:,h,i,y,-,ʕ,(me),w,o,d
@@ -17246,6 +18684,14 @@ STOP b
 SPACE
 α,i,⅃,y,$,·sh
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,m,d,y,n.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,m,a,d,◆,w,o,n.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,:,α,∵,ц,:,v,·,:,ʕ,o,⅃,τ
 SPACE
@@ -17281,6 +18727,14 @@ SPACE
 y,:,h,⅃,w,o,n,a,τ,a,ƶ,n.
 SPACE
 v,·,∵,n.,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,i,m,:,ʕ,a,(ti),h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,m,ʕ,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 α,:_,x,i,(me),y
 SPACE
@@ -17304,6 +18758,11 @@ SPACE
 w,·,v,:,y,_,(me),d
 SPACE
 ʕ,:_,v,a,d,a,𝓂,y,w,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 22:1 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,<,r
@@ -17420,6 +18879,14 @@ SPACE
 v,·,:,α,oa,z,:,n,a,𝓂,y,w,.
 
 2Samuel 22:8 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,τ,g,ʕ,$,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,_,y,·,i,τ,:,g,·,a,ʕ,_,<,$,·sh,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,_,τ,·,i,r,:,ʕ,_,$,·sh,(p)
 SPACE
@@ -17521,6 +18988,14 @@ w,_,y,:,f,i,y,ц,‥,⅄,m.
 SPACE
 v,·,a,r,a,(ti),q
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,y,h,m,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,_,y,·,a,h,o,𝓂,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 2Samuel 22:16 in vtrad vtsef
@@ -17633,6 +19108,9 @@ m,‥,α,:∵,l,o,h,a,𝓂,y,.
 k,·,i,(me),y
 SPACE
 k,oa,l,-
+START span class=mam-kq-trivial
+m,i,$,·sh,:,f,·,a,θ,a,(ti),w
+STOP span class=mam-kq-trivial
 SPACE
 l,:,n,∵,g,:,d,·,i,⅄,y
 SPACE
@@ -17768,11 +19246,27 @@ w,_,y,·,_,τ,·,‥,(me),r
 SPACE
 τ,·,a,m,i,(ti),y,m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,d,r,k,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,d,·,_,r,:,k,·,i,𝓂,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 2Samuel 22:34 in vtrad vtsef
 m,:,$,·sh,_,w,·,∵,(me),h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,r,g,l,y,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,r,_,g,:,l,_,(ti),y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 k,·,a,α,_,y,·,a,l,⅄,w,o,τ
 w,:,ʕ,_,(me),l
@@ -17990,6 +19484,14 @@ SPACE
 α,:_,z,_,m,·,‥,𝓂,r,.
 
 2Samuel 22:51 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,m,g,d,y,l,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,m,i,g,:,d,·,(ti),w,o,l,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 y,:,$,·sh,w,·,ʕ,⅃,w,o,τ
 SPACE
@@ -18003,6 +19505,11 @@ SPACE
 w,·,l,:,z,_,r,:,ʕ,(ti),w,o
 SPACE
 ʕ,_,d,-,ʕ,w,o,l,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 23:1 in vtrad vtsef
 w,:,α,‥,⟓,l,·,∵,h
@@ -18166,6 +19673,11 @@ SPACE
 y,i,$,·si,·,a,𝓂,r,:,f,(ti),w,·
 SPACE
 v,·,_,$,·sh,·,a,𝓂,v,∵,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 23:8 in vtrad vtsef
 α,‥,⟓,l,·,∵,h
@@ -18196,6 +19708,14 @@ h,(ye),w,·,α
 SPACE
 ʕ,:_,d,i,y,n,⅃,w,o
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,ʕ,ц,n,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,a,𝓂,ʕ,∵,ц,:,n,i,ƶ,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,_,l,-,$,·sh,:,m,o,n,∵,(me),h
 SPACE
@@ -18205,18 +19725,57 @@ x,a,l,a,(ti),l
 SPACE
 v,·,:,f,_,(me),ʕ,_,m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,α,x,d,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,α,∵,x,a,𝓂,τ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 23:9 in vtrad vtsef
+START span class=mam-kq-trivial
+w,:,α,_,x,:_,r,a,⟓,w
+STOP span class=mam-kq-trivial
 SPACE
 α,∵,l,:,ʕ,a,z,a,(me),r
 SPACE
 v,·,∵,n.,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,d,·,o,d,(ti),w,o,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,d,d,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 v,·,∵,n.,-,α,:_,x,o,x,i,⅄,y
 SPACE
 v,·,i,$,·sh,:,l,o,$,·sh,a,(qa),h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,g,v,r,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,_,g,·,i,v,·,o,r,i,(ge),y,m.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,i,m.,-,d,·,a,w,i,◆,d
 SPACE
@@ -18278,6 +19837,18 @@ SPACE
 α,_,x,:_,r,a,(ti),y,w
 SPACE
 α,_,k.,:,-,l,:,f,_,$,·sh,·,‥,𝓂,θ,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 23:11 in vtrad vtsef
 w,:,α,_,x,:_,r,a,⟓,y,w
@@ -18330,10 +19901,30 @@ SPACE
 τ,·,:,$,·sh,w,·,ʕ,a,(me),h
 SPACE
 g,:,d,w,o,l,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 23:13 in vtrad vtsef
 w,_,y,·,‥,𝓂,r,:,d,(qa),w,·
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,l,$,y,m.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,:,l,o,$,·sh,a,(ge),h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 m,‥,h,_,$,·sh,·,:,l,o,$,·sh,i,⅃,y,m.
 SPACE
@@ -18396,6 +19987,18 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 v,·,_,$,·sh,·,a,𝓂,ʕ,_,r,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 23:16 in vtrad vtsef
 w,_,y,·,i,v,:,q,:,ʕ,w,·,(tq)
@@ -18470,6 +20073,18 @@ SPACE
 $,·sh,:,l,o,(ti),$,·sh,∵,τ
 SPACE
 h,_,g,·,i,v,·,o,r,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 23:18 in vtrad vtsef
 w,_,𝓂,α,:_,v,i,y,$,·sh,_,(G),y
@@ -18488,6 +20103,14 @@ h,(ye),w,·,α
 SPACE
 r,o,⅃,α,$,·sh
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,$,l,$,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,_,$,·sh,·,:,l,o,$,·sh,a,ƶ,h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,:,h,w,·,α,(p)
 SPACE
@@ -18521,6 +20144,18 @@ SPACE
 w,:,ʕ,_,d,-,h,_,$,·sh,·,:,l,o,$,·sh,a,(ti),h
 SPACE
 l,o,α,-,v,a,𝓂,α,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 23:20 in vtrad vtsef
 w,·,v,:,n,a,y,a,(qa),h,w,·
@@ -18528,6 +20163,14 @@ SPACE
 v,∵,n.,-,y,:,h,w,o,y,a,d,a,(da),ʕ
 SPACE
 v,·,∵,n.,-,α,i,𝓂,y,$,·sh,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,x,_,⟓,y,i,l,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,x,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 r,_,v,-,f,·,:,ʕ,a,l,i,(ti),y,m.
 SPACE
@@ -18552,6 +20195,14 @@ SPACE
 w,:,h,i,k,·,a,(da),h
 SPACE
 α,∵,𝓂,τ,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,a,α,:_,r,i,⟓,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,α,r,y,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 v,·,:,τ,(me),w,o,k.,:
 SPACE
@@ -18568,6 +20219,14 @@ SPACE
 SPACE
 m,i,ц,:,r,i,(ge),y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,α,$,r,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,α,i,⅃,y,$,·sh,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 m,_,r,:,α,∵,◆,h
 SPACE
@@ -18624,6 +20283,18 @@ SPACE
 d,a,w,i,(ti),d
 SPACE
 α,∵,l,-,m,i,$,·sh,:,m,_,ʕ,:,τ,·,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 23:24 in vtrad vtsef
 ʕ,:_,$,·si,a,h,α,‥,(me),l
@@ -18639,6 +20310,18 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 l,a,𝓂,x,∵,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 23:25 in vtrad vtsef
 $,·sh,_,m,·,a,h,(p)
@@ -18659,6 +20342,18 @@ NO-BREAK SPACE
 α,:∵,l,i,y,q,a,(ti),α
 SPACE
 h,_,x,:_,r,o,d,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 23:26 in vtrad vtsef
 x,∵,(ye),l,∵,ц.
@@ -18692,6 +20387,18 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 h,_,τ,·,:,q,w,o,ʕ,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 23:27 in vtrad vtsef
 α,:_,v,i,y,ʕ,∵,(p),z,∵,r,(p)
@@ -18712,6 +20419,18 @@ NO-BREAK SPACE
 m,:,v,u,n,·,_,(ti),y
 SPACE
 h,_,x,u,$,·sh,a,τ,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 23:28 in vtrad vtsef
 ц,_,l,:,m,w,o,n.,(p)
@@ -18732,6 +20451,18 @@ NO-BREAK SPACE
 m,_,h,:,r,_,(ti),y
 SPACE
 h,_,n,·,:,θ,o,f,a,τ,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 23:29 in vtrad vtsef
 x,‥,(me),l,∵,v
@@ -18760,6 +20491,18 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 v,i,n,:,y,a,m,i,𝓂,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 23:30 in vtrad vtsef
 v,·,:,n,a,y,a,(p),h,w,·,(p)
@@ -18782,6 +20525,18 @@ SPACE
 m,i,n,·,_,(me),x,:_,l,‥,y
 SPACE
 g,a,𝓂,ʕ,_,$,·sh,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 23:31 in vtrad vtsef
 α,:_,v,i,𝓂,y,-,ʕ,_,l,:,v,w,o,n.,(p)
@@ -18802,6 +20557,18 @@ NO-BREAK SPACE
 ʕ,_,z,:,m,a,(ti),w,∵,τ
 SPACE
 h,_,v,·,_,r,:,x,u,m,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 23:32 in vtrad vtsef
 α,∵,l,:,y,_,x,:,v,·,a,α,(p)
@@ -18824,6 +20591,18 @@ SPACE
 y,a,$,·sh,‥,(ti),n.
 SPACE
 y,:,h,w,o,n,a,τ,a,𝓂,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 23:33 in vtrad vtsef
 $,·sh,_,m,·,a,h,(p)
@@ -18846,6 +20625,18 @@ SPACE
 v,·,∵,n.,-,$,·sh,a,r,a,(ti),r
 SPACE
 h,a,α,r,a,r,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 23:34 in vtrad vtsef
 α,:∵,l,i,y,f,∵,(me),l,∵,θ
@@ -18870,8 +20661,28 @@ SPACE
 v,·,∵,n.,-,α,:_,x,i,y,τ,o,(ti),f,∵,l
 SPACE
 h,_,g,·,i,l,o,n,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 23:35 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,x,ц,r,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,x,∵,ц,:,r,_,y,(p),RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 h,_,𝓂,k,·,_,r,:,m,:,l,i,ƶ,y
 NO-BREAK SPACE
@@ -18889,6 +20700,18 @@ NO-BREAK SPACE
 f,·,_,ʕ,:_,r,_,(ti),y
 SPACE
 h,a,α,_,r,:,v,·,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 23:36 in vtrad vtsef
 y,i,g,:,α,a,<,l
@@ -18911,6 +20734,18 @@ NO-BREAK SPACE
 v,·,a,n,i,(ti),y
 SPACE
 h,_,g,·,a,d,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 23:37 in vtrad vtsef
 ц,∵,(ti),l,∵,q
@@ -18932,12 +20767,32 @@ n,_,x,:,r,_,y,(p)
 SPACE
 h,_,v,·,:,α,‥,⅃,r,o,τ,i,ƶ,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,n,$,α,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,n,o,$,·si,‥,Ƶ,α,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 k,·,:,l,‥,(ti),y
 SPACE
 y,w,o,α,a,(me),v
 SPACE
 v,·,∵,n.,-,ц,:,r,u,y,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 23:38 in vtrad vtsef
 ʕ,i,y,r,a,α,(p)
@@ -18958,6 +20813,18 @@ NO-BREAK SPACE
 g,·,a,r,‥,(ti),v
 SPACE
 h,_,y,·,i,τ,:,r,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 23:39 in vtrad vtsef
 α,w,·,r,i,y,·,a,h,(p)
@@ -18969,6 +20836,11 @@ SPACE
 $,·sh,:,l,o,$,·sh,i,(me),y,m.
 SPACE
 w,:,$,·sh,i,v,:,ʕ,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 24:1 in vtrad vtsef
 w,_,y,·,o,(p),σ,∵,f.,(p)
@@ -19033,6 +20905,18 @@ SPACE
 m,i,σ,:,f,·,_,(me),r
 SPACE
 h,a,ʕ,a,𝓂,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 24:3 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -19242,10 +21126,10 @@ SPACE
 SPACE
 α,∵,τ,-,h,a,ʕ,a,⅄,m.
 NO-BREAK SPACE
-START span class=mam-spi-samekh
+START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-samekh
-START br class=mam-br-after-pe
+STOP span class=mam-spi-pe
+START br 
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 d,·,a,w,i,(ge),d
@@ -19283,10 +21167,10 @@ d,·,a,w,i,(ti),d
 SPACE
 v,·,_,v,·,o,⅄,q,∵,r
 NO-BREAK SPACE
-START span class=mam-spi-samekh
+START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
-STOP span class=mam-spi-samekh
-START br class=mam-br-after-pe
+STOP span class=mam-spi-pe
+START br 
 w,·,d,:,v,_,r,-,y,:,h,o,w,a,◆,h
 SPACE
 h,a,y,a,h,(p)
@@ -19390,6 +21274,18 @@ SPACE
 $,·sh,o,l,:,x,i,(ti),y
 SPACE
 d,·,a,v,a,𝓂,r,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 24:14 in vtrad vtsef
 w,_,y,·,o,(da),α,m,∵,r
@@ -19490,8 +21386,28 @@ h,a,y,a,ƶ,h
 SPACE
 ʕ,i,m.,-,g,·,o,(ti),r,∵,n.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,α,w,r,n,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,a,𝓂,α,:_,r,_,(me),w,:,n,a,h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 h,_,y,:,v,u,σ,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 2Samuel 24:17 in vtrad vtsef
 w,_,y,·,o,(tq),α,m,∵,r,(tq)
@@ -19547,6 +21463,11 @@ SPACE
 w,·,v,:,v,‥,(me),y,τ
 SPACE
 α,a,v,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 2Samuel 24:18 in vtrad vtsef
 w,_,y,·,a,v,o,α,-,g,a,(me),d
@@ -19571,6 +21492,14 @@ m,i,z,:,v,·,‥,ƶ,x,_
 SPACE
 v,·,:,g,o,(ti),r,∵,n.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,α,r,n,y,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,α,:_,r,_,(me),w,:,n,a,h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 h,_,y,:,v,u,σ,i,𝓂,y,.
 
@@ -19668,6 +21597,9 @@ h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
 h,_,θ,·,⅃,w,o,v
 SPACE
+START span class=mam-kq-trivial
+v,·,:,ʕ,‥,y,n,a,⅄,w
+STOP span class=mam-kq-trivial
 SPACE
 r,:,α,‥,h,(p)
 SPACE

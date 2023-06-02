@@ -171,6 +171,11 @@ SPACE
 α,i,y,·,(ti),w,o,v
 SPACE
 k,·,oa,l,-,h,_,y,·,a,m,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 1:6 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
@@ -276,6 +281,14 @@ SPACE
 
 Job 1:10 in vtrad vtsef
 h,:_,l,o,𝓂,α,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,α,_,⌕,τ,·,a,⌕,h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,α,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 $,·si,_,⅃,k,:,τ,·,a
 SPACE
@@ -642,6 +655,11 @@ SPACE
 τ,·,i,f,:,l,a,(ti),h
 SPACE
 l,‥,α,l,o,h,i,𝓂,y,m.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 2:1 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
@@ -832,6 +850,14 @@ m,i,k,·,_,(me),f.
 SPACE
 r,_,g,:,l,(ti),w,o
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,ʕ,d,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,ʕ,_,(me),d,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 q,oa,d,:,q,:a,d,𝓂,w,o,.
 
@@ -905,6 +931,11 @@ SPACE
 α,i,y,·,(ti),w,o,v
 SPACE
 v,·,i,$,·si,:,f,a,τ,a,𝓂,y,w,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 2:11 in vtrad vtsef
 w,_,𝓂,y,·,i,$,·sh,:,m,:,ʕ,(G),w,·
@@ -1031,6 +1062,11 @@ SPACE
 w,_,y,:,q,_,l,·,‥,(ti),l
 SPACE
 α,∵,τ,-,y,w,o,m,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 3:2 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -1413,6 +1449,11 @@ SPACE
 w,_,y,·,a,(me),v,o,α
 SPACE
 r,o,𝓂,g,∵,z,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 4:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -1981,6 +2022,9 @@ w,:,y,∵,x,:,v,·,a,⅄,$,·sh
 SPACE
 y,i,γ,m,:,x,_,◆,ц.
 SPACE
+START span class=mam-kq-trivial
+w,:,y,a,d,a,(me),w
+STOP span class=mam-kq-trivial
 SPACE
 τ,·,i,r,:,f,·,∵,𝓂,y,n,a,h,.
 
@@ -2112,6 +2156,11 @@ SPACE
 w,:,α,_,τ,·,a,(me),h
 SPACE
 d,_,𝓂,ʕ,-,l,a,𝓂,k.,:,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 6:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -2129,6 +2178,14 @@ y,i,$,·sh,·,a,q,‥,⅃,l
 SPACE
 k,·,_,ʕ,:,$,·si,i,⅄,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,h,y,τ,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,γ,h,_,w,·,a,τ,i,◆,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,·,:,𝓂,m,o,α,z,:,n,_,(me),y,i,m.
 SPACE
@@ -2483,6 +2540,14 @@ SPACE
 SPACE
 ʕ,_,w,:,l,a,⅄,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,$,v,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,$,·sh,(me),w,·,v,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,γ,◆,w,o,d
 SPACE
@@ -2504,6 +2569,14 @@ h,:_,l,o,𝓂,α,-,ц,a,v,a,⅃,α
 SPACE
 l,∵,𝓂,α,:∵,n,⅃,w,o,$,·sh
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,ʕ,l,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,ʕ,:_,l,‥,y,-,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 α,a,⅄,r,∵,ц.
 SPACE
 w,:,k,i,y,m,‥,(ti),y
@@ -2562,6 +2635,18 @@ v,·,:,$,·si,a,r,i,⅃,y
 SPACE
 r,i,(de),m,·,a,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w
+START small 
+g
+STOP small 
+y,$,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,g,⅃,w,·,$,·sh,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,a,f,a,⅄,r
 SPACE
@@ -2811,6 +2896,11 @@ SPACE
 w,:,$,·sh,i,(ti),x,_,r,:,τ,·,_,⅃,n,i,y
 SPACE
 w,:,α,‥,y,n,∵,𝓂,n,·,i,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 8:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -3095,6 +3185,11 @@ SPACE
 r,:,$,·sh,a,ʕ,i,⅃,y,m.
 SPACE
 α,‥,y,n,∵,𝓂,n,·,w,·,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 9:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -3482,6 +3577,14 @@ SPACE
 Job 9:30 in vtrad vtsef
 α,i,m.,-,h,i,τ,:,r,a,x,_,(me),ц,:,τ,·,i,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,m,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,v,:,m,‥,y,-,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 $,·sh,a,⅄,l,∵,g
 SPACE
 w,_,γ,h,:_,z,i,k,·,◆,w,o,τ,i,y
@@ -3534,6 +3637,8 @@ m,‥,ʕ,a,l,_,⅃,y
 SPACE
 $,·sh,i,v,:
 START big 
+θ,⅄
+STOP big 
 w,o
 SPACE
 w,:,γ,α,‥,m,a,τ,◆,w,o
@@ -3831,7 +3936,23 @@ h,:_,l,o,𝓂,α,-,m,:,ʕ,_,⅃,θ
 SPACE
 y,a,m,_,⅃,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,x,d,l,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,_,x,:_,d,a,⅄,l,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,$,y,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,$,·sh,i,(me),y,τ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 m,i,γ,m,·,∵,◆,n,·,i,y
 SPACE
@@ -3876,6 +3997,11 @@ SPACE
 w,_,τ,·,o,(me),f,_,ʕ
 SPACE
 k,·,:,m,w,o,-,α,o,𝓂,f,∵,l,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 11:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -4160,6 +4286,11 @@ SPACE
 w,:,γ,τ,i,q,:,w,a,τ,a,◆,m.
 SPACE
 m,_,𝓂,f,·,_,𝓂,x,-,n,a,𝓂,f,∵,$,·sh,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 12:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -4709,6 +4840,14 @@ h,‥,⅃,n.
 SPACE
 y,i,(de),q,:,θ,:,l,‥,n,i,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,l,α,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,l,⅃,w,o,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,:_,y,_,x,‥,⅄,l
 SPACE
@@ -5224,6 +5363,11 @@ SPACE
 ʕ,a,l,a,(me),y,w
 SPACE
 τ,·,∵,α,:∵,v,a,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 15:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -5499,6 +5643,14 @@ $,·sh,(de),w,·,v
 SPACE
 m,i,n,·,i,y,-,x,o,⅄,$,·sh,∵,k.,:
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,ц,f,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,ц,a,f,(ti),w,·,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 h,⅃,w,·,α
 SPACE
@@ -5702,6 +5854,11 @@ SPACE
 τ,·,a,k,i,(me),y,n.
 SPACE
 m,i,r,:,m,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 16:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -5943,6 +6100,8 @@ y,i,f,:,r,:,ц,‥,⅃,n,i,y
 SPACE
 f,∵,(de),r,∵
 START small 
+ц.
+STOP small 
 SPACE
 ʕ,_,l,-,f,·,:,n,‥,y,-,f,a,⅄,r,∵,ц.
 SPACE
@@ -5970,6 +6129,14 @@ q,_,r,:,n,i,𝓂,y,.
 Job 16:16 in vtrad vtsef
 f,·,a,n,_,⅃,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,x,m,r,m,r,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,x,:a,(de),m,_,r,:,m,:,r,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 m,i,n,·,i,y,-,v,∵,⅄,k,i,y
 SPACE
@@ -6264,6 +6431,11 @@ SPACE
 ʕ,_,l,-,ʕ,a,f,a,⅃,r
 SPACE
 n,a,𝓂,x,_,τ,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 18:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -6537,6 +6709,11 @@ SPACE
 m,:,q,⅃,w,o,m.
 SPACE
 l,o,𝓂,α,-,y,a,d,_,𝓂,ʕ,-,α,‥,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 19:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -6945,7 +7122,20 @@ l,:,m,_,(ti),ʕ,_,n.
 SPACE
 τ,·,‥,d,:,ʕ,⅃,w,·,n.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,d,y,n.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,_,d,·,𝓂,w,·,n.,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 20:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -7086,6 +7276,9 @@ Job 20:11 in vtrad vtsef
 SPACE
 m,a,l,:,α,⅃,w,·
 SPACE
+START span class=mam-kq-trivial
+ʕ,:_,l,w,·,m,a,⅄,w
+STOP span class=mam-kq-trivial
 SPACE
 w,:,γ,ʕ,i,m,·,◆,w,o
 SPACE
@@ -7364,6 +7557,11 @@ SPACE
 α,i,m,:,r,⅃,w,o
 SPACE
 m,‥,α,‥,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 21:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -7514,6 +7712,14 @@ SPACE
 ʕ,w,·,g,a,𝓂,v,.
 
 Job 21:13 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,v,l,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,:,k,_,l,·,⅃,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,_,θ,·,⅃,w,o,v
 SPACE
@@ -7622,6 +7828,9 @@ w,:,y,‥,d,a,𝓂,ʕ,.
 Job 21:20 in vtrad vtsef
 y,i,r,:,α,⅃,w,·
 SPACE
+START span class=mam-kq-trivial
+ʕ,‥,y,n,a,⅃,w
+STOP span class=mam-kq-trivial
 SPACE
 k,·,i,y,d,⅄,w,o
 SPACE
@@ -7829,6 +8038,11 @@ SPACE
 w,·,γ,τ,:,$,·sh,(me),w,·,v,o,τ,‥,y,k,∵,◆,m.
 SPACE
 n,i,$,·sh,:,α,_,r,-,m,a,𝓂,ʕ,_,l,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 22:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -8209,6 +8423,11 @@ SPACE
 v,·,:,v,o,⅃,r
 SPACE
 k,·,_,f,·,∵,𝓂,y,k.,a,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 23:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -8438,6 +8657,9 @@ l,o,α,-,n,i,ц,:,f,·,:,n,⅃,w,·
 SPACE
 ʕ,i,τ,·,i,⅄,y,m.
 SPACE
+START span class=mam-kq-trivial
+w,:,γ,y,o,d,:,ʕ,a,◆,w
+STOP span class=mam-kq-trivial
 SPACE
 l,o,α,-,x,a,(me),z,w,·
 SPACE
@@ -8512,6 +8734,14 @@ v,·,_,(de),$,·si,·,a,d,∵,h
 SPACE
 v,·,:,l,i,y,l,⅃,w,o
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,q,ц,y,r,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,i,q,:,ц,⅄,w,o,r,w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,:,k,∵,(ti),r,∵,m.
 SPACE
@@ -8838,6 +9068,11 @@ SPACE
 l,:,γ,α,_,◆,l
 SPACE
 m,i,l,·,a,τ,i,𝓂,y,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 25:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -8912,6 +9147,11 @@ SPACE
 w,·,v,∵,n.,-,α,a,γ,d,a,◆,m.
 SPACE
 τ,·,w,o,l,‥,ʕ,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 26:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -9045,6 +9285,14 @@ r,a,g,_,⅃,ʕ
 SPACE
 h,_,y,·,a,⅄,m.
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,v,τ,w,v,n,τ,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,·,γ,v,i,τ,:,v,w,·,n,a,τ,◆,w,o,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 m,a,⅃,x,_,ц.
 SPACE
@@ -9084,10 +9332,18 @@ n,i,$,·sh,:,m,_,ʕ,-,v,·,⅄,w,o
 SPACE
 w,:,r,_,(me),ʕ,_,m.
 SPACE
+START span class=mam-kq-trivial
+g,·,:,γ,v,w,·,r,o,τ,a,◆,w
+STOP span class=mam-kq-trivial
 SPACE
 m,i,⅃,y
 SPACE
 y,i,τ,:,v,·,w,o,n,a,𝓂,n.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 27:1 in vtrad vtsef
 w,_,y,·,o,⅃,σ,∵,f.
@@ -9296,6 +9552,9 @@ SPACE
 y,i,$,·si,:,v,·,:,ʕ,w,·,-,l,a,𝓂,x,∵,m.,.
 
 Job 27:15 in vtrad vtsef
+START span class=mam-kq-trivial
+$,·si,:,(de),r,i,y,d,a,w
+STOP span class=mam-kq-trivial
 SPACE
 v,·,_,m,·,a,⅃,w,∵,τ
 SPACE
@@ -9573,6 +9832,11 @@ SPACE
 y,o,⅃,ц,i,α
 SPACE
 α,𝓂,w,o,r,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 28:12 in vtrad vtsef
 w,:,𝓂,(de),h,_,x,oa,k,:,m,a,h
@@ -9816,6 +10080,11 @@ SPACE
 m,‥,r,a,⅃,ʕ
 SPACE
 v,·,i,y,n,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 29:1 in vtrad vtsef
 w,_,y,·,o,⅃,σ,∵,f.
@@ -10304,6 +10573,14 @@ r,o,𝓂,q,.
 
 Job 30:11 in vtrad vtsef
 k,·,i,𝓂,y,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,i,τ,:,r,i,⅃,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,τ,r,w,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 f,i,(de),τ,·,_,x
 SPACE
@@ -10470,6 +10747,14 @@ SPACE
 SPACE
 w,·,γ,τ,:,m,o,g,:,g,‥,◆,n,i,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,τ,$,w,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,τ,·,w,·,$,·sh,i,y,·,a,𝓂,h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 Job 30:23 in vtrad vtsef
@@ -10733,9 +11018,25 @@ SPACE
 
 Job 31:11 in vtrad vtsef
 k,·,i,y,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,h,i,(me),y,α,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,h,w,α,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 z,i,m,·,a,⅄,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,h,y,α,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,γ,h,◆,w,·,α,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,a,w,hhfv,(me),n.
 SPACE
@@ -10858,6 +11159,9 @@ Job 31:20 in vtrad vtsef
 SPACE
 v,‥,r,:,k,⅃,w,·,n,i,y
 SPACE
+START span class=mam-kq-trivial
+x,:_,l,a,ц,a,⅄,w
+STOP span class=mam-kq-trivial
 SPACE
 w,·,m,i,g,·,‥,(me),z
 SPACE
@@ -11166,6 +11470,11 @@ SPACE
 d,·,i,v,:,r,‥,(me),y
 SPACE
 α,i,y,·,𝓂,w,o,v,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 32:1 in vtrad vtsef
 w,_,𝓂,y,·,i,$,·sh,:,v,·,:,τ,μ,w,·
@@ -11187,6 +11496,11 @@ SPACE
 ц,_,d,·,i,⅃,y,q
 SPACE
 v,·,:,ʕ,‥,y,n,a,𝓂,y,w,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 32:2 in vtrad vtsef
 w,_,y,·,i,<,x,_,r
@@ -11277,6 +11591,11 @@ SPACE
 w,_,y,·,i,(me),x,_,r
 SPACE
 α,_,f,·,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 32:6 in vtrad vtsef
 w,_,y,·,_,<,ʕ,_,n.
@@ -11652,6 +11971,8 @@ v,·,:,𝓂,l,i,(ol),y
 f,a,(me),$,·sh,_,ʕ
 SPACE
 START small 
+x,_,(me)
+STOP small 
 f.
 SPACE
 α,a,n,o,k,i,⅄,y
@@ -11796,6 +12117,14 @@ v,·,:,(de),m,_,k,:,α,w,o,v
 SPACE
 ʕ,_,l,-,m,i,$,·sh,:,k,·,a,v,⅄,w,o
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,r,y,v,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,r,(ti),w,o,v,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,:_,ц,a,m,a,⅃,y,w
 SPACE
@@ -11821,6 +12150,14 @@ v,·,:,$,·si,a,r,⅃,w,o
 SPACE
 m,‥,r,o,⅄,α,i,y
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,$,f,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,$,·sh,u,f,·,(me),w,·,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 ʕ,_,γ,ц,:,m,o,τ,a,◆,y,w
 SPACE
@@ -11937,11 +12274,27 @@ l,i,𝓂,y,.
 Job 33:28 in vtrad vtsef
 f,·,a,d,a,⅃,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,n,f,$,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,n,_,(de),f,:,$,·sh,w,o,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 m,‥,ʕ,:_,v,o,⅃,r
 SPACE
 v,·,_,$,·sh,·,a,⅄,x,_,τ
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,x,y,τ,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,:,γ,x,_,y,·,a,τ,◆,w,o,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 v,·,a,α,(me),w,o,r
 SPACE
@@ -12007,6 +12360,11 @@ SPACE
 w,_,α,:_,α,_,l,·,∵,f,:,k.,a,(me)
 SPACE
 x,oa,k,:,m,a,𝓂,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 34:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -12545,6 +12903,11 @@ SPACE
 α,:_,m,a,r,a,⅃,y,w
 SPACE
 l,a,α,‥,𝓂,l,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 35:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -12749,6 +13112,11 @@ SPACE
 m,i,l,·,i,(me),y,n.
 SPACE
 y,_,k,:,v,·,i,𝓂,r,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 36:1 in vtrad vtsef
 w,_,y,·,o,(me),σ,∵,f.
@@ -13348,6 +13716,9 @@ STOP b
 SPACE
 m,i,τ,:,h,_,f,·,‥,⅃,k.,:
 SPACE
+START span class=mam-kq-trivial
+v,·,:,τ,_,x,:,v,·,w,·,l,o,τ,a,⅃,w
+STOP span class=mam-kq-trivial
 SPACE
 l,:,f,oa,ʕ,:a,l,a,⅄,m.
 SPACE
@@ -13532,12 +13903,29 @@ SPACE
 l,o,𝓂,α,-,y,i,γ,r,:,α,∵,◆,h
 SPACE
 k,·,oa,l,-,x,_,k,:,m,‥,y,-,l,‥,𝓂,v,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 38:1 in vtrad vtsef
 w,_,y,·,_,𝓂,ʕ,_,n.,-,y,:,h,o,w,a,⅃,h
 SPACE
 α,∵,τ,-,α,i,(de),y,·,w,o,v
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,m,n,h,σ,ʕ,r,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,m,i,(me),n.,THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE,h,_,σ,·,:,ʕ,a,r,a,◆,h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,_,y,·,o,α,m,_,𝓂,r,.
 
@@ -13688,6 +14076,18 @@ SPACE
 SPACE
 v,·,o,⅄,q,∵,r
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,d,ʕ,τ,h
+SPACE
+$,x,r,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,i,d,·,_,(ti),ʕ,:,τ,·,a
+SPACE
+h,_,$,·sh,·,_,⅃,x,_,r,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 m,:,q,o,m,𝓂,w,o,.
 
@@ -13702,6 +14102,8 @@ w,:,y,i,n,·,a,ʕ,:_,r,(ti),w,·
 SPACE
 r,:,$,·sh,a
 START sup 
+ʕ,i,⅃
+STOP sup 
 y,m.
 SPACE
 m,i,m,·,∵,𝓂,n,·,a,h,.
@@ -13724,6 +14126,8 @@ w,:,y,i,m,·,a,n,_,⅃,ʕ
 SPACE
 m,‥,r,:,$,·sh,a
 START sup 
+ʕ,i,⅃
+STOP sup 
 y,m.
 SPACE
 α,w,o,r,a,⅄,m.
@@ -14065,6 +14469,9 @@ SPACE
 ц,‥,(ol),y,d,(me),w,o
 SPACE
 k,·,i,𝓂,y,-
+START span class=mam-kq-trivial
+y,:,(de),l,a,d,a,w
+STOP span class=mam-kq-trivial
 SPACE
 α,∵,l,-,α,‥,⅃,l
 SPACE
@@ -14225,6 +14632,14 @@ SPACE
 v,·,(de),w,o
 SPACE
 k,·,i,𝓂,y,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,a,$,·sh,i,⅃,y,v,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,$,w,v,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 z,_,r,:,ʕ,∵,⅄,k.,a
 SPACE
@@ -14305,6 +14720,11 @@ SPACE
 l,_,γ,σ,·,◆,w,·,σ
 SPACE
 w,·,l,:,r,o,k,:,v,𝓂,w,o,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 39:19 in vtrad vtsef
 h,:_,τ,i,τ,·,‥,⅃,n.
@@ -14414,6 +14834,9 @@ y,_,α,:_,v,∵,r,-,n,‥,⅄,ц.
 SPACE
 y,i,f,:,r,o,(ti),$,·si
 SPACE
+START span class=mam-kq-trivial
+k,·,:,n,a,f,a,⅃,w
+STOP span class=mam-kq-trivial
 SPACE
 l,:,τ,‥,y,m,a,𝓂,n.,.
 
@@ -14466,6 +14889,11 @@ SPACE
 $,·sh,a,⅃,m.
 SPACE
 h,𝓂,w,·,α,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 40:1 in vtrad vtsef
 w,_,y,·,_,(ti),ʕ,_,n.
@@ -14488,6 +14916,11 @@ SPACE
 α,:∵,l,⅃,w,o,h,·,_
 SPACE
 y,_,ʕ,:_,n,∵,𝓂,n,·,a,h,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 40:3 in vtrad vtsef
 w,_,y,·,_,(ti),ʕ,_,n.
@@ -14527,12 +14960,29 @@ SPACE
 w,:,l,o,⅃,α
 SPACE
 α,w,o,σ,i,𝓂,y,f.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 40:6 in vtrad vtsef
 w,_,y,·,_,ʕ,_,n.,-,y,:,h,o,w,a,⅃,h
 SPACE
 α,∵,τ,-,α,i,(de),y,·,w,o,v
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,m,n,σ,ʕ,r,h,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,m,i,(me),n.,THIN SPACE
+START small 
+|
+STOP small 
+THIN SPACE,σ,:,ʕ,a,r,a,◆,h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 w,_,y,·,o,α,m,_,𝓂,r,.
 
@@ -14679,6 +15129,9 @@ k,:,m,w,o,-,α,a,⅄,r,∵,z
 SPACE
 g,·,i,y,d,‥,(ti),y
 SPACE
+START span class=mam-kq-trivial
+f,_,x,:_,d,a,⅃,w
+STOP span class=mam-kq-trivial
 SPACE
 y,:,$,·si,o,r,a,𝓂,g,w,·,.
 
@@ -14913,6 +15366,14 @@ SPACE
 l,i,y,-,h,𝓂,w,·,α,.
 
 Job 41:4 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,l,α,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,l,w,o,-,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 α,_,x,:_,r,i,(me),y,$,·sh
 SPACE
 v,·,_,d,·,a,⅄,y,w
@@ -15200,6 +15661,11 @@ SPACE
 m,∵,⅃,l,∵,k.,:
 SPACE
 ʕ,_,l,-,k,·,oa,l,-,v,·,:,n,‥,y,-,$,·sh,a,𝓂,x,_,ц.,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 42:1 in vtrad vtsef
 w,_,y,·,_,(ti),ʕ,_,n.
@@ -15211,6 +15677,14 @@ SPACE
 w,_,y,·,o,α,m,_,𝓂,r,.
 
 Job 42:2 in vtrad vtsef
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,y,d,ʕ,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,y,a,(de),d,_,ʕ,:,τ,·,i,y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 k,·,i,y,-,k,o,⅃,l
 SPACE
@@ -15286,6 +15760,11 @@ SPACE
 ʕ,_,l,-,ʕ,a,f,a,(me),r
 SPACE
 w,a,α,‥,𝓂,f,∵,r,.
+NO-BREAK SPACE
+START span class=mam-spi-pe
+LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+STOP span class=mam-spi-pe
+START br 
 
 Job 42:7 in vtrad vtsef
 w,_,y,:,h,i,◆,y
@@ -15333,6 +15812,18 @@ SPACE
 k,·,:,ʕ,_,v,:,d,·,i,(me),y
 SPACE
 α,i,y,·,𝓂,w,o,v,.
+NO-BREAK SPACE
+START span class=mam-spi-samekh
+LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
+STOP span class=mam-spi-samekh
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
+NO-BREAK SPACE
 
 Job 42:8 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,μ,h
@@ -15436,6 +15927,14 @@ SPACE
 $,·sh,a,(ye),v
 SPACE
 α,∵,τ,-
+START span class=mam-kq
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,$,·sh,:,v,⅃,w,·,τ,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+START span class=mam-kq-k
+LEFT PARENTHESIS,$,v,y,τ,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+STOP span class=mam-kq
 SPACE
 α,i,y,·,ƶ,w,o,v
 SPACE
@@ -15617,6 +16116,14 @@ w,:,α,_,r,:,v,·,a,ʕ,i,(ti),y,m.
 SPACE
 $,·sh,a,n,a,⅄,h
 SPACE
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,w,y,r,α,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,_,y,·,i,r,:,α,∵,◆,h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 α,∵,τ,-,v,·,a,n,a,y,w,(p)
 SPACE
