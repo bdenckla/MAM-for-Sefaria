@@ -5684,10 +5684,15 @@ l,:,h,a,$,·sh,i,(me),y,v
 SPACE
 y,a,d,(ti),w,o
 SPACE
-v,·,i,𝓂,n,:,h,_,r,-
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,v,n,h,r,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,f,·,:,r,a,𝓂,τ,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,v,·,i,𝓂,n,:,h,_,r,-,f,·,:,r,a,𝓂,τ,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
+STOP span class=mam-kq
 .
 
 2Samuel 8:4 in vtrad vtbhs
