@@ -926,7 +926,7 @@ n,i,$,·sh,:,m,_,⅃,τ
 SPACE
 x,_,y,·,i,⅄,y,m.
 SPACE
-w,_,𝓂,y,:,h,i,(me),y
+w,_,y,:,h,i,(me),y
 SPACE
 h,a,𝓂,α,a,d,a,(ti),m.
 SPACE
@@ -2652,7 +2652,7 @@ SPACE
 h,i,v,·,a,𝓂,r,:,α,a,𝓂,m.,.
 
 Genesis 5:3 in vtrad vtbhs
-w,_,𝓂,y,:,x,i,⅃,y
+w,_,y,:,x,i,⅃,y
 SPACE
 α,a,d,a,◆,m.
 SPACE
@@ -2784,7 +2784,7 @@ LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
 SPACE
 
 Genesis 5:9 in vtrad vtbhs
-w,_,𝓂,y,:,x,i,(me),y
+w,_,y,:,x,i,(me),y
 SPACE
 α,:∵,n,(ti),w,o,$,·sh
 SPACE
@@ -2797,7 +2797,7 @@ SPACE
 α,∵,τ,-,q,‥,y,n,a,𝓂,n.,.
 
 Genesis 5:10 in vtrad vtbhs
-w,_,𝓂,y,:,x,i,⅃,y
+w,_,y,:,x,i,⅃,y
 SPACE
 α,:∵,n,◆,w,o,$,·sh
 SPACE
@@ -2848,7 +2848,7 @@ LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
 SPACE
 
 Genesis 5:12 in vtrad vtbhs
-w,_,𝓂,y,:,x,i,(me),y
+w,_,y,:,x,i,(me),y
 SPACE
 q,‥,y,n,a,(ti),n.
 SPACE
@@ -2910,7 +2910,7 @@ LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
 SPACE
 
 Genesis 5:15 in vtrad vtbhs
-w,_,𝓂,y,:,x,i,⅃,y
+w,_,y,:,x,i,⅃,y
 SPACE
 m,_,𝓂,h,:_,l,_,l,:,α,‥,ƶ,l
 SPACE
@@ -2927,7 +2927,7 @@ SPACE
 α,∵,τ,-,y,a,𝓂,r,∵,d,.
 
 Genesis 5:16 in vtrad vtbhs
-w,_,𝓂,y,:,x,i,⅃,y
+w,_,y,:,x,i,⅃,y
 SPACE
 m,_,𝓂,h,:_,l,_,l,:,α,‥,◆,l
 SPACE
@@ -3134,7 +3134,7 @@ SPACE
 α,∵,τ,-,l,a,𝓂,m,∵,k.,:,.
 
 Genesis 5:26 in vtrad vtbhs
-w,_,𝓂,y,:,x,i,⅃,y
+w,_,y,:,x,i,⅃,y
 SPACE
 m,:,τ,w,·,$,·sh,∵,◆,l,_,x
 SPACE
@@ -3673,7 +3673,7 @@ q,w,o,m,a,τ,a,𝓂,h,·,.
 Genesis 6:16 in vtrad vtbhs
 ц,o,⅃,h,_,r,|
 SPACE
-τ,·,_,𝓂,ʕ,:_,$,·si,∵,⅃,h
+τ,·,_,ʕ,:_,$,·si,∵,⅃,h
 SPACE
 l,_,τ,·,‥,v,a,◆,h
 SPACE
@@ -4057,7 +4057,7 @@ SPACE
 α,∵,τ,-,n,o,𝓂,x,_,.
 
 Genesis 7:10 in vtrad vtbhs
-w,_,𝓂,y,:,h,i,(ti),y
+w,_,y,:,h,i,(ti),y
 SPACE
 l,:,$,·sh,i,v,:,ʕ,_,⅃,τ
 SPACE
@@ -4109,7 +4109,7 @@ SPACE
 n,i,f,:,τ,·,a,𝓂,x,w,·,.
 
 Genesis 7:12 in vtrad vtbhs
-w,_,𝓂,y,:,h,i,(me),y
+w,_,y,:,h,i,(me),y
 SPACE
 h,_,g,·,∵,(ti),$,·sh,∵,m.
 SPACE
@@ -4521,7 +4521,7 @@ SPACE
 h,∵,𝓂,h,a,r,i,𝓂,y,m.,.
 
 Genesis 8:6 in vtrad vtbhs
-w,_,𝓂,y,:,h,i,Ƶ,y
+w,_,y,:,h,i,Ƶ,y
 SPACE
 m,i,q,·,‥,(ti),ц.
 SPACE
@@ -4686,7 +4686,7 @@ SPACE
 ʕ,𝓂,w,o,d,.
 
 Genesis 8:13 in vtrad vtbhs
-w,_,𝓂,⌕,y,:,h,i,⌕,y
+w,_,⌕,y,:,h,i,⌕,y
 SPACE
 v,·,:,α,_,x,_,(qa),τ
 SPACE
@@ -5476,7 +5476,9 @@ w,_,y,·,‥,Ƶ,d,_,ʕ
 SPACE
 α,‥,⟓,τ
 SPACE
-α,:_,$,·sh,∵,r,-,ʕ,a,𝓂,$,·si,a,h,-,l,(ti),w,o
+α,:_,$,·sh,∵,r,-,ʕ,a,(me),$,·si,a,h
+SPACE
+l,(ti),w,o
 SPACE
 v,·,:,n,(me),w,o
 SPACE
@@ -5862,7 +5864,7 @@ SPACE
 h,_,𝓂,k,·,:,n,_,ʕ,:_,n,i,𝓂,y,.
 
 Genesis 10:19 in vtrad vtbhs
-w,_,𝓂,y,:,h,i,(G),y
+w,_,y,:,h,i,(G),y
 SPACE
 g,·,:,v,<,w,·,l
 SPACE
@@ -6032,7 +6034,7 @@ SPACE
 y,oa,q,:,θ,a,𝓂,n.,.
 
 Genesis 10:30 in vtrad vtbhs
-w,_,𝓂,y,:,h,i,(me),y
+w,_,y,:,h,i,(me),y
 SPACE
 m,w,o,$,·sh,a,v,a,(ti),m.
 SPACE
@@ -6086,7 +6088,7 @@ LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 SPACE
 
 Genesis 11:1 in vtrad vtbhs
-w,_,𝓂,y,:,h,i,(me),y
+w,_,y,:,h,i,(me),y
 SPACE
 k,oa,l,-,h,a,α,a,(ti),r,∵,ц.
 SPACE
@@ -6099,7 +6101,7 @@ SPACE
 α,:_,x,a,d,i,𝓂,y,m.,.
 
 Genesis 11:2 in vtrad vtbhs
-w,_,𝓂,y,:,h,i,(ti),y
+w,_,y,:,h,i,(ti),y
 SPACE
 v,·,:,n,oa,σ,:,ʕ,a,⅃,m.
 SPACE
@@ -6368,7 +6370,7 @@ SPACE
 α,∵,τ,-,$,·sh,a,𝓂,l,_,x,.
 
 Genesis 11:13 in vtrad vtbhs
-w,_,𝓂,y,:,x,i,⅃,y
+w,_,y,:,x,i,⅃,y
 SPACE
 α,_,r,:,f,·,_,k,:,$,·sh,_,◆,d
 SPACE
