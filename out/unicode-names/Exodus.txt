@@ -12913,9 +12913,9 @@ SPACE
 ʕ,_,l,-,k,·,‥,⅃,σ
 SPACE
 y,a,ƶ,h,·
-START sup 
+START sup class=footnote-marker
 ASTERISK
-STOP sup 
+STOP sup class=footnote-marker
 START i class=footnote
 LEFT PARENTHESIS,v,k,τ,r
 SPACE
@@ -18628,9 +18628,9 @@ SPACE
 m,i,q,:,$,·sh,a,(G),h
 SPACE
 τ,·,‥,ʕ,a,$,·si,∵,<,h
-START sup 
+START sup class=footnote-marker
 ASTERISK
-STOP sup 
+STOP sup class=footnote-marker
 START i class=footnote
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -21009,9 +21009,9 @@ SPACE
 α,∵,l,-,ʕ,‥,(me),v,∵,r
 SPACE
 h,a,α,‥,f,o,(ti),d
-START sup 
+START sup class=footnote-marker
 ASTERISK
-STOP sup 
+STOP sup class=footnote-marker
 START i class=footnote
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -25659,9 +25659,9 @@ START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
 START br 
-START sup 
+START sup class=footnote-marker
 ASTERISK
-STOP sup 
+STOP sup class=footnote-marker
 START i class=footnote
 LEFT PARENTHESIS,σ,f,q
 SPACE
@@ -25853,9 +25853,9 @@ START big
 n,o
 STOP big 
 ц,‥,(me),r
-START sup 
+START sup class=footnote-marker
 ASTERISK
-STOP sup 
+STOP sup class=footnote-marker
 START i class=footnote
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE

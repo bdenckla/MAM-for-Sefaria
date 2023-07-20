@@ -245,9 +245,9 @@ SPACE
 n,i,q,·,:,v,(ti),w,·
 SPACE
 v,·,:,$,·sh,‥,m,o,𝓂,τ,.
-START sup 
+START sup class=footnote-marker
 ASTERISK
-STOP sup 
+STOP sup class=footnote-marker
 START i class=footnote
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -9443,9 +9443,9 @@ SPACE
 w,·,v,:,r,a,α,$,·sh,‥,⅃,y
 SPACE
 x,oa,d,:,$,·sh,‥,y,k,∵,m.,∴
-START sup 
+START sup class=footnote-marker
 ASTERISK
-STOP sup 
+STOP sup class=footnote-marker
 START i class=footnote
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -19183,9 +19183,9 @@ SPACE
 α,∵,l,-,v,·,i,l,:,ʕ,a,⅃,m.
 SPACE
 v,·,∵,n.,-,v,·,:,ʕ,o,◆,r
-START sup 
+START sup class=footnote-marker
 ASTERISK
-STOP sup 
+STOP sup class=footnote-marker
 START i class=footnote
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -21764,9 +21764,9 @@ l,·,‥,α,m,o,𝓂,r,.
 
 Numbers 25:11 in vtrad vtsef
 f,·,i,𝓂,y,n,:,x,a,(qa),σ
-START sup 
+START sup class=footnote-marker
 ASTERISK
-STOP sup 
+STOP sup class=footnote-marker
 START i class=footnote
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -21829,9 +21829,9 @@ SPACE
 α,∵,τ,-,v,·,:,r,i,y,τ,i,(ti),y
 SPACE
 $,·sh,a,l,𝓂,w,o,m.,.
-START sup 
+START sup class=footnote-marker
 ASTERISK
-STOP sup 
+STOP sup class=footnote-marker
 START i class=footnote
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE

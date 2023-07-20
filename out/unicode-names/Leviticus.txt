@@ -3103,9 +3103,9 @@ START small
 m
 STOP small 
 w,o,q,:,d,a,(qa),h,‾
-START sup 
+START sup class=footnote-marker
 ASTERISK
-STOP sup 
+STOP sup class=footnote-marker
 START i class=footnote
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -4167,9 +4167,9 @@ START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
 START br 
-START sup 
+START sup class=footnote-marker
 ASTERISK
-STOP sup 
+STOP sup class=footnote-marker
 START i class=footnote
 LEFT PARENTHESIS,α,y,n.
 SPACE
@@ -4292,9 +4292,9 @@ START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
 START br 
-START sup 
+START sup class=footnote-marker
 ASTERISK
-STOP sup 
+STOP sup class=footnote-marker
 START i class=footnote
 LEFT PARENTHESIS,α,y,n.
 SPACE

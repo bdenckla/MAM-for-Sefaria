@@ -4387,9 +4387,9 @@ SPACE
 l,:,h,_,$,·sh,:,m,i,y,d,(tq)
 SPACE
 w,:,l,_,h,:_,r,o,(qa),g
-START sup 
+START sup class=footnote-marker
 ASTERISK
-STOP sup 
+STOP sup class=footnote-marker
 START i class=footnote
 LEFT PARENTHESIS,v,m,g,y,l,w,τ
 SPACE
@@ -4708,9 +4708,9 @@ SPACE
 l,o,α,-,ʕ,a,m,_,⅃,d
 SPACE
 l,i,f,:,n,‥,y,h,∵,ƶ,m.
-START sup 
+START sup class=footnote-marker
 ASTERISK
-STOP sup 
+STOP sup class=footnote-marker
 START i class=footnote
 LEFT PARENTHESIS,v,m,g,y,l,w,τ
 SPACE
@@ -4941,9 +4941,9 @@ START small
 |
 STOP small 
 THIN SPACE,α,:_,r,i,d,_,(ti),y
-START sup 
+START sup class=footnote-marker
 ASTERISK
-STOP sup 
+STOP sup class=footnote-marker
 START i class=footnote
 LEFT PARENTHESIS,v,σ,f,r,y,m.
 SPACE
