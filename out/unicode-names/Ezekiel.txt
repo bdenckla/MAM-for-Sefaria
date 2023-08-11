@@ -1,9 +1,9 @@
 unicode_names Ezekiel
 Ezekiel 1:1 in vtrad vtsef
 w,_,y,:,h,i,⅃,y,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 v,·,i,$,·sh,:,l,o,$,·sh,i,⅃,y,m.
 SPACE
@@ -654,9 +654,9 @@ m,i,l,:,m,a,𝓂,ʕ,:,l,a,h,.
 
 Ezekiel 1:27 in vtrad vtsef
 w,a,α,‥,⅃,r,∵,α,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 k,·,:,ʕ,‥,⅃,y,n.
 SPACE
@@ -736,7 +736,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 2:1 in vtrad vtsef
 w,_,y,·,o,(ti),α,m,∵,r
@@ -781,7 +781,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 2:3 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -879,7 +879,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 2:6 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
@@ -944,7 +944,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 2:8 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
@@ -1113,7 +1113,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 3:4 in vtrad vtsef
 w,_,y,·,o,(ti),α,m,∵,r
@@ -1159,9 +1159,9 @@ y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 Ezekiel 3:6 in vtrad vtsef
 l,o,⅃,α,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,∵,l,-,ʕ,_,m,·,i,⅃,y,m.
 SPACE
@@ -1277,7 +1277,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 3:10 in vtrad vtsef
 w,_,y,·,o,(ti),α,m,∵,r
@@ -1356,9 +1356,9 @@ m,i,m,·,:,q,w,o,m,𝓂,w,o,.
 
 Ezekiel 3:13 in vtrad vtsef
 w,:,q,⅃,w,o,l,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 k,·,_,n,:,f,‥,⅃,y
 SPACE
@@ -1456,7 +1456,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 w,_,y,:,h,i,(me),y
 SPACE
 d,:,v,_,r,-,y,:,h,o,w,a,(ti),h
@@ -1639,7 +1639,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 3:22 in vtrad vtsef
 w,_,τ,·,:,h,i,(me),y
@@ -1786,15 +1786,15 @@ SPACE
 y,:∵,h,o,w,i,⅄,h
 SPACE
 h,_,$,·sh,·,o,m,‥,<,ʕ,_,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,y,i,$,·sh,:,m,a,ʕ,(p)
 SPACE
 w,:,h,∵,x,a,d,‥,⅃,l,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,y,∵,x,:,d,·,a,ƶ,l
 SPACE
 k,·,i,⟓,y
@@ -1808,7 +1808,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 4:1 in vtrad vtsef
 w,:,α,_,τ,·,a,<,h
@@ -1912,7 +1912,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 4:4 in vtrad vtsef
 w,:,α,_,τ,·,a,<,h
@@ -2091,9 +2091,9 @@ SPACE
 h,_,y,·,a,m,i,(ge),y,m.
 SPACE
 α,:_,$,·sh,∵,r,-,α,_,τ,·,a,⅃,h,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 $,·sh,w,o,k,‥,⅃,v
 SPACE
@@ -2345,7 +2345,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 5:1 in vtrad vtsef
 w,:,α,_,τ,·,a,(qa),h
@@ -2353,9 +2353,9 @@ SPACE
 v,∵,n.,-,α,a,d,a,(ge),m.
 SPACE
 q,_,x,-,l,:,k.,a,⅃,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 x,∵,⅃,r,∵,v
 SPACE
@@ -2471,7 +2471,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 5:5 in vtrad vtsef
 k,·,o,<,h
@@ -2541,9 +2541,9 @@ Ezekiel 5:7 in vtrad vtsef
 l,a,k,‥,(G),n.
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -2636,7 +2636,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 5:10 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -2901,7 +2901,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 6:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -3152,7 +3152,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 6:11 in vtrad vtsef
 k,·,o,𝓂,h,-,α,a,m,_,(G),r
@@ -3244,9 +3244,9 @@ SPACE
 r,a,m,a,(ge),h
 SPACE
 v,·,:,k,o,⅃,l,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 r,a,α,$,·sh,‥,⅃,y
 SPACE
@@ -3310,7 +3310,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 7:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -3416,7 +3416,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 7:5 in vtrad vtsef
 k,·,o,(me),h
@@ -3562,9 +3562,9 @@ h,_,z,·,a,d,𝓂,w,o,n.,.
 
 Ezekiel 7:11 in vtrad vtsef
 h,∵,𝓂,x,a,m,a,(me),σ,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,q,a,(ti),m.
 SPACE
 l,:,m,_,θ,·,‥,h,-,r,∵,⅄,$,·sh,_,ʕ
@@ -3860,7 +3860,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 7:23 in vtrad vtsef
 ʕ,:_,$,·si,‥,(ti),h
@@ -3978,13 +3978,13 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 8:1 in vtrad vtsef
 w,_,y,:,h,i,⅃,y,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 v,·,_,$,·sh,·,a,n,a,⅃,h
 SPACE
@@ -4067,9 +4067,9 @@ SPACE
 α,o,τ,i,⅃,y
 SPACE
 r,⅃,w,·,x,_,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,v,·,‥,𝓂,y,n.,-,h,a,α,a,⅃,r,∵,ц.
 SPACE
 w,·,v,‥,⅃,y,n.
@@ -4196,9 +4196,9 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 y,i,$,·si,:,r,a,α,‥,⅃,l,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 ʕ,o,$,·si,i,⅃,y,m.
 SPACE
@@ -4223,7 +4223,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 8:7 in vtrad vtsef
 w,_,y,·,a,v,‥,(me),α
@@ -4322,9 +4322,9 @@ SPACE
 ʕ,_,l,-,h,_,q,·,i,(ti),y,r
 SPACE
 σ,a,v,i,(me),y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,𝓂,y,v,.
 
 Ezekiel 8:11 in vtrad vtsef
@@ -4632,18 +4632,18 @@ SPACE
 α,:_,n,a,$,·sh,i,μ,y,m.
 SPACE
 v,·,a,α,i,⅃,y,m.,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 m,i,d,·,∵,r,∵,k.,:,-,$,·sh,_,(qa),ʕ,_,r
 SPACE
 h,a,ʕ,∵,l,:,y,(ge),w,o,n.
 SPACE
 α,:_,$,·sh,∵,⅃,r,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 m,oa,f,:,n,∵,⅃,h
 SPACE
@@ -4683,9 +4683,9 @@ h,_,n,·,:,x,o,𝓂,$,·sh,∵,τ,.
 
 Ezekiel 9:3 in vtrad vtsef
 w,·,k,:,v,⅃,w,o,d,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,:∵,l,o,h,‥,⅃,y
 SPACE
@@ -4728,7 +4728,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 9:4 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -4972,9 +4972,9 @@ Ezekiel 9:11 in vtrad vtsef
 w,:,h,i,n,·,‥,(G),h
 SPACE
 h,a,α,i,⅃,y,$,·sh,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 l,:,v,u,⅃,$,·sh
 SPACE
@@ -5011,7 +5011,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 10:1 in vtrad vtsef
 w,a,α,∵,r,:,α,∵,◆,h
@@ -5044,9 +5044,9 @@ Ezekiel 10:2 in vtrad vtsef
 w,_,y,·,o,(ge),α,m,∵,r
 SPACE
 α,∵,l,-,h,a,α,i,⅃,y,$,·sh,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 l,:,v,u,⅃,$,·sh
 SPACE
@@ -5636,7 +5636,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 11:2 in vtrad vtsef
 w,_,y,·,o,(ti),α,m,∵,r
@@ -5756,7 +5756,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 11:7 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -5942,7 +5942,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 11:14 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -6275,7 +6275,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 12:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -6473,7 +6473,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 12:8 in vtrad vtsef
 w,_,y,:,h,i,(da),y
@@ -6705,7 +6705,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 12:17 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -6802,7 +6802,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 12:21 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -6902,9 +6902,9 @@ y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 Ezekiel 12:25 in vtrad vtsef
 k,·,i,⅃,y,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,:_,n,i,⅃,y
 SPACE
@@ -6951,7 +6951,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 12:26 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -7027,7 +7027,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 13:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -7301,9 +7301,9 @@ SPACE
 w,:,y,i,f,·,o,⅄,l
 SPACE
 h,a,y,a,⅃,h,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 g,·,∵,⅃,$,·sh,∵,m.
 SPACE
@@ -7475,7 +7475,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 13:17 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
@@ -7502,9 +7502,9 @@ Ezekiel 13:18 in vtrad vtsef
 w,:,α,a,m,_,r,:,τ,·,a,(G)
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -7517,9 +7517,9 @@ SPACE
 k,·,:,σ,a,τ,(ge),w,o,τ
 SPACE
 ʕ,_,⅃,l,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 k,·,oa,l,-,α,_,ц,·,i,y,l,‥,⅃,y
 SPACE
@@ -7604,9 +7604,9 @@ Ezekiel 13:20 in vtrad vtsef
 l,a,k,‥,(G),n.
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -7749,7 +7749,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 14:2 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -7811,9 +7811,9 @@ SPACE
 α,:_,l,‥,y,h,∵,(ge),m.
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -7906,9 +7906,9 @@ Ezekiel 14:6 in vtrad vtsef
 l,a,k,‥,(G),n.
 SPACE
 α,:∵,m,o,⅃,r,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,∵,l,-,v,·,‥,⅃,y,τ
 SPACE
@@ -8118,7 +8118,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 14:12 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -8390,7 +8390,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 14:21 in vtrad vtsef
 k,·,i,y,(tq)
@@ -8408,9 +8408,9 @@ SPACE
 k,·,i,𝓂,y,-,α,_,r,:,v,·,_,⅃,ʕ,_,τ
 SPACE
 $,·sh,:,f,a,θ,_,⅃,y,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,h,a,r,a,ʕ,i,μ,y,m.
 SPACE
 x,∵,⌕,r,∵,v
@@ -8514,7 +8514,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 15:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -8715,7 +8715,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 16:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -9054,9 +9054,9 @@ SPACE
 v,·,:,y,oa,f,:,y,‥,⅄,k.,:
 SPACE
 k,·,i,⅃,y,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 k,·,a,l,i,⅃,y,l
 SPACE
@@ -9562,7 +9562,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 16:36 in vtrad vtsef
 k,·,o,h,-,α,a,m,_,(G),r
@@ -9792,9 +9792,9 @@ SPACE
 h,‥,(ge),α
 SPACE
 d,·,_,r,:,k,·,‥,⅃,k.,:,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 v,·,:,r,o,⅃,α,$,·sh
 SPACE
@@ -10066,9 +10066,9 @@ STOP span class=mam-kq
 
 Ezekiel 16:52 in vtrad vtsef
 g,·,_,m.,-,α,_,⅃,τ,·,:,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 $,·si,:,α,i,⅃,y
 SPACE
@@ -10404,7 +10404,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 17:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -10434,9 +10434,9 @@ Ezekiel 17:3 in vtrad vtsef
 w,:,α,a,m,_,r,:,τ,·,a,(G)
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -10635,9 +10635,9 @@ SPACE
 y,:,n,_,τ,·,‥,(ge),q
 SPACE
 w,:,α,∵,τ,-,f,·,i,r,:,y,a,⅃,h,·,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 y,:,q,w,o,σ,‥,⅃,σ
 SPACE
@@ -10691,7 +10691,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 17:11 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -10999,7 +10999,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 17:22 in vtrad vtsef
 k,·,o,<,h
@@ -11093,9 +11093,9 @@ SPACE
 y,:,h,o,w,a,h,(p)
 SPACE
 h,i,$,·sh,:,f,·,_,⅃,l,:,τ,·,i,y,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 ʕ,‥,⅃,ц.
 SPACE
@@ -11130,7 +11130,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 18:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -11645,9 +11645,9 @@ SPACE
 v,·,‥,(G),n.
 SPACE
 l,o,𝓂,α,-,y,i,$,·si,·,a,⅃,α,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 v,·,_,ʕ,:_,w,ḥḥfv,⅃,n.
 SPACE
@@ -12064,7 +12064,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 19:1 in vtrad vtsef
 w,:,α,_,τ,·,a,h,(p)
@@ -12248,7 +12248,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 19:10 in vtrad vtsef
 α,i,m,·,:,k.,a,(me)
@@ -12374,13 +12374,13 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 20:1 in vtrad vtsef
 w,_,y,:,h,i,⅃,y,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 v,·,_,$,·sh,·,a,n,a,⅃,h
 SPACE
@@ -13262,9 +13262,9 @@ Ezekiel 20:30 in vtrad vtsef
 l,a,k,‥,(G),n.
 SPACE
 α,:∵,m,o,⅃,r,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,∵,l,-,v,·,‥,⅃,y,τ
 SPACE
@@ -13358,9 +13358,9 @@ SPACE
 τ,i,𝓂,h,:,y,∵,⅄,h
 SPACE
 α,:_,$,·sh,∵,⅃,r,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,_,τ,·,∵,⅃,m.
 SPACE
@@ -13538,9 +13538,9 @@ SPACE
 v,·,‥,𝓂,y,τ,-,y,i,$,·si,:,r,a,α,‥,(ge),l
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -13580,9 +13580,9 @@ SPACE
 v,:,h,_,r,-,q,oa,d,:,$,·sh,i,(G),y
 SPACE
 v,·,:,h,_,⅃,r,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 m,:,r,⅃,w,o,m.
 SPACE
@@ -13749,7 +13749,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 21:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -13803,9 +13803,9 @@ SPACE
 h,i,n,:,n,i,⅃,y
 SPACE
 m,_,𝓂,ц,·,i,y,τ,-,v,·,:,k.,a,⅃,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,α,‥,μ,$,·sh
 SPACE
 w,:,α,a,k,:,l,a,⅃,h
@@ -13875,7 +13875,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 21:6 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -14065,7 +14065,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 21:13 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -14208,7 +14208,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 21:19 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
@@ -14247,9 +14247,9 @@ l,a,h,∵,𝓂,m.,.
 
 Ezekiel 21:20 in vtrad vtsef
 l,:,m,_,⅃,ʕ,_,n.,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 l,a,m,⅃,w,·,g
 SPACE
@@ -14314,7 +14314,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 21:23 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -14331,9 +14331,9 @@ SPACE
 v,∵,n.,-,α,a,d,a,(ge),m.
 SPACE
 $,·si,i,y,m.,-,l,:,k.,a,⅃,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 $,·sh,:,n,_,⅃,y,i,m.
 SPACE
@@ -14417,9 +14417,9 @@ Ezekiel 21:27 in vtrad vtsef
 v,·,i,y,m,i,y,n,(G),w,o
 SPACE
 h,a,y,a,⅃,h,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 h,_,q,·,∵,⅃,σ,∵,m.
 SPACE
@@ -14535,7 +14535,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 21:30 in vtrad vtsef
 w,:,α,_,τ,·,a,h,(p)
@@ -14625,7 +14625,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 21:33 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
@@ -14773,7 +14773,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 22:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -14975,9 +14975,9 @@ SPACE
 
 Ezekiel 22:11 in vtrad vtsef
 w,:,α,i,⅃,y,$,·sh,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,∵,τ,-,α,‥,⅃,$,·sh,∵,τ
 SPACE
@@ -15117,7 +15117,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 22:17 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -15292,7 +15292,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 22:23 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -15534,7 +15534,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 23:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -16212,7 +16212,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 23:28 in vtrad vtsef
 k,·,i,⅃,y
@@ -16831,7 +16831,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 24:1 in vtrad vtsef
 w,_,y,:,h,i,y,(tq)
@@ -16983,9 +16983,9 @@ Ezekiel 24:6 in vtrad vtsef
 l,a,k,‥,(G),n.
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -17076,7 +17076,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 24:9 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -17223,7 +17223,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 24:15 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -17265,9 +17265,9 @@ d,·,i,m,:,ʕ,a,τ,∵,𝓂,k.,a,.
 
 Ezekiel 24:17 in vtrad vtsef
 h,‥,α,a,n,‥,⅃,q,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 d,·,o,◆,m.
 SPACE
@@ -17360,9 +17360,9 @@ l,‥,α,m,o,𝓂,r,.
 
 Ezekiel 24:21 in vtrad vtsef
 α,:∵,m,o,⅃,r,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 l,:,v,‥,⅃,y,τ
 SPACE
@@ -17571,7 +17571,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 25:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -17703,7 +17703,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 25:6 in vtrad vtsef
 k,·,i,⅃,y
@@ -17780,7 +17780,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 25:8 in vtrad vtsef
 k,·,o,(me),h
@@ -17882,7 +17882,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 25:12 in vtrad vtsef
 k,·,o,<,h
@@ -18073,7 +18073,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 26:1 in vtrad vtsef
 w,_,y,:,h,i,⟓,y
@@ -18226,7 +18226,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 26:7 in vtrad vtsef
 k,·,i,⅃,y
@@ -18466,9 +18466,9 @@ SPACE
 l,:,ц,⅄,w,o,r
 SPACE
 h,:_,l,o,⅃,α,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 m,i,q,·,⅃,w,o,l
 SPACE
@@ -18512,9 +18512,9 @@ SPACE
 y,i,f,:,$,·sh,o,⅄,θ,w,·
 SPACE
 x,:_,r,a,d,<,w,o,τ,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,y,i,l,:,v,·,a,(p),$,·sh,w,·,(p)
 SPACE
 ʕ,_,l,-,h,a,α,a,⅃,r,∵,ц.
@@ -18701,7 +18701,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 27:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -19525,7 +19525,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 28:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -19546,9 +19546,9 @@ SPACE
 ц,o,(ge),r
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -19771,7 +19771,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 28:11 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -20013,7 +20013,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 28:20 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -20139,7 +20139,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 28:25 in vtrad vtsef
 k,·,o,h,-,α,a,m,_,r,~
@@ -20149,9 +20149,9 @@ SPACE
 y,:∵,h,o,w,i,h,∴
 SPACE
 v,·,:,q,_,v,·,:,ц,i,⅃,y,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,∵,τ,-,v,·,‥,⅃,y,τ
 SPACE
@@ -20229,7 +20229,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 29:1 in vtrad vtsef
 v,·,_,$,·sh,·,a,n,a,h,(p)
@@ -20279,9 +20279,9 @@ SPACE
 w,:,α,a,m,_,r,:,τ,·,a,(ge)
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -20583,9 +20583,9 @@ SPACE
 $,·sh,:,m,a,m,a,(ge),h
 SPACE
 v,·,:,τ,⅃,w,o,k.,:,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,:_,r,a,ц,⅃,w,o,τ
 SPACE
@@ -20736,7 +20736,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 29:17 in vtrad vtsef
 w,_,y,:,h,i,◆,y
@@ -20912,7 +20912,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 30:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -21018,7 +21018,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 30:6 in vtrad vtsef
 k,·,o,(ye),h
@@ -21385,7 +21385,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 30:20 in vtrad vtsef
 w,_,y,:,h,i,◆,y
@@ -21457,9 +21457,9 @@ Ezekiel 30:22 in vtrad vtsef
 l,a,k,‥,(G),n.
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -21584,7 +21584,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 31:1 in vtrad vtsef
 w,_,y,:,h,i,◆,y
@@ -21810,7 +21810,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 31:10 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -21974,7 +21974,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 31:15 in vtrad vtsef
 k,·,o,𝓂,h,-,α,a,m,_,(G),r
@@ -22121,7 +22121,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 32:1 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -22386,7 +22386,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 32:11 in vtrad vtsef
 k,·,i,⟓,y
@@ -22535,7 +22535,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 32:17 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -22710,9 +22710,9 @@ SPACE
 α,:_,𝓂,$,·sh,∵,r,-,y,a,r,:,d,(me),w,·
 SPACE
 ʕ,:_,r,‥,l,i,⅃,y,m.,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,∵,l,-,α,∵,⅃,r,∵,ц.
 SPACE
@@ -22984,7 +22984,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 33:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -23143,7 +23143,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 33:7 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
@@ -23237,7 +23237,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 33:10 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
@@ -23278,14 +23278,14 @@ SPACE
 α,:_,l,‥,y,h,∵,(ge),m.
 SPACE
 x,_,y,-,α,a,⅃,n,i,y,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 n,:,α,u,⅃,m.,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -23326,7 +23326,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 33:12 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
@@ -23566,7 +23566,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 33:21 in vtrad vtsef
 w,_,y,:,h,i,(G),y
@@ -23635,7 +23635,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 33:23 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -23705,18 +23705,18 @@ SPACE
 α,:_,l,‥,h,∵,(ge),m.
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
 y,:∵,h,o,w,i,◆,h
 SPACE
 ʕ,_,l,-,h,_,d,·,a,(da),m.,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,τ,·,o,α,k,‥,⟓,l,w,·
 SPACE
 w,:,ʕ,‥,y,n,‥,k,∵,⟓,m.
@@ -23862,7 +23862,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 33:30 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
@@ -23995,7 +23995,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 34:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -24026,9 +24026,9 @@ SPACE
 k,·,o,(me),h
 SPACE
 α,a,m,_,⅃,r,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -24173,9 +24173,9 @@ Ezekiel 34:8 in vtrad vtsef
 x,_,y,-,α,a,(ge),n,i,y
 SPACE
 n,:,α,u,⅃,m.,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -24186,9 +24186,9 @@ SPACE
 y,_,⅃,ʕ,_,n.
 SPACE
 h,:∵,y,𝓂,w,o,τ,-,ц,o,α,n,i,⅃,y,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,l,a,v,_,μ,z
 SPACE
 w,_,τ,·,i,h,:,y,∵,(tq),y,n,a,h,(tq)
@@ -24521,7 +24521,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 34:20 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -24844,7 +24844,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 35:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -25121,9 +25121,9 @@ SPACE
 y,:,h,o,w,a,h,∴
 SPACE
 $,·sh,a,m,_,⅃,ʕ,:,τ,·,i,y,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,∵,τ,-,k,·,oa,l,-,n,a,α,a,𝓂,ц,w,o,τ,∵,◆,y,k.,a
 SPACE
@@ -25136,9 +25136,9 @@ SPACE
 y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 l,‥,α,m,o,⅃,r,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE
 START span class=mam-kq
 START span class=mam-kq-q
@@ -25236,7 +25236,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 36:1 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
@@ -25410,9 +25410,9 @@ SPACE
 α,:_,$,·sh,∵,⅃,r
 SPACE
 n,a,τ,:,n,𝓂,w,·,-,α,∵,τ,-,α,_,r,:,ц,i,⅃,y,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,l,a,⌕,h,∵,⌕,m.
 SPACE
 l,:,m,(qa),w,o,r,a,$,·sh,a,(ge),h
@@ -25451,9 +25451,9 @@ SPACE
 w,:,l,_,g,·,‥,α,a,y,(ge),w,o,τ
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -25758,7 +25758,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 36:16 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -25883,7 +25883,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 36:22 in vtrad vtsef
 l,a,k,‥,(G),n.
@@ -26279,9 +26279,9 @@ SPACE
 σ,:,v,i,y,v,𝓂,w,o,τ,‥,y,k,∵,m.,∴
 SPACE
 k,·,i,⅃,y,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,:_,n,i,⅃,y
 SPACE
@@ -26378,7 +26378,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 37:1 in vtrad vtsef
 h,a,y,:,τ,a,⅃,h
@@ -26411,9 +26411,9 @@ SPACE
 ʕ,:_,l,‥,y,h,∵,(ti),m.
 SPACE
 σ,a,v,i,⅃,y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,⅄,y,v
 SPACE
 w,:,h,i,n,·,‥,(qa),h
@@ -26611,9 +26611,9 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE
 k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -26781,7 +26781,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 37:15 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -27240,7 +27240,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 38:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -27409,14 +27409,14 @@ SPACE
 h,_,$,·sh,·,a,n,i,(ge),y,m.
 SPACE
 τ,·,a,v,⅃,w,o,α,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,∵,l,-,α,∵,⅃,r,∵,ц.,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 m,:,$,·sh,w,o,v,∵,⅃,v,∵,τ
 SPACE
@@ -27499,9 +27499,9 @@ SPACE
 y,:∵,h,o,w,i,⅄,h
 SPACE
 w,:,h,a,y,a,⅃,h,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -27619,9 +27619,9 @@ SPACE
 q,:,h,a,l,∵,⅄,k.,a
 SPACE
 l,a,$,·si,‥,⅃,α,τ,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 k,·,∵,⅃,σ,∵,f.
 SPACE
@@ -27671,9 +27671,9 @@ SPACE
 y,:∵,h,o,w,i,⅄,h
 SPACE
 h,:_,l,⅃,w,o,α,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -27822,9 +27822,9 @@ NO-BREAK SPACE
 
 Ezekiel 38:18 in vtrad vtsef
 w,:,h,a,y,a,⅃,h,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -27860,9 +27860,9 @@ SPACE
 d,·,i,v,·,_,⅄,r,:,τ,·,i,y
 SPACE
 α,i,m.,-,l,o,⅃,α,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -28206,9 +28206,9 @@ Ezekiel 39:9 in vtrad vtsef
 w,:,𝓂,y,a,ц,:,α,(G),w,·
 SPACE
 y,o,𝓂,$,·sh,:,v,‥,⅃,y,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 ʕ,a,r,‥,⅃,y
 SPACE
@@ -28299,9 +28299,9 @@ SPACE
 α,∵,τ,·,‥,⅃,n.
 SPACE
 l,:,g,w,o,g,(tq),THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,m,:,q,𝓂,w,o,m.,-,$,·sh,a,(qa),m.
 SPACE
 q,∵,(ge),v,∵,r
@@ -28454,7 +28454,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 39:17 in vtrad vtsef
 w,:,α,_,τ,·,a,(qa),h
@@ -28462,9 +28462,9 @@ SPACE
 v,∵,n.,-,α,a,d,a,(ge),m.
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -28477,9 +28477,9 @@ SPACE
 k,·,oa,l,-,k,·,a,n,a,(ge),f.
 SPACE
 w,·,l,:,k,o,⅃,l,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 x,_,y,·,_,⅃,τ
 SPACE
@@ -28837,7 +28837,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 40:1 in vtrad vtsef
 v,·,:,ʕ,∵,$,·si,:,r,i,⅃,y,m.
@@ -28871,9 +28871,9 @@ SPACE
 h,a,ʕ,i,⅄,y,r
 SPACE
 v,·,:,ʕ,∵,⅃,ц,∵,m.,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 h,_,y,·,⅃,w,o,m.
 SPACE
@@ -29004,9 +29004,9 @@ SPACE
 l,_,v,·,_,(ti),y,i,τ
 SPACE
 σ,a,v,i,⅃,y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,⅄,y,v
 SPACE
 w,·,v,:,y,_,(qa),d
@@ -29057,9 +29057,9 @@ SPACE
 v,·,:,m,_,ʕ,:_,l,w,o,τ,a,⅄,w
 SPACE
 w,_,y,·,a,⅃,m,oa,d,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,∵,τ,-,σ,_,⅃,f.
 SPACE
@@ -29284,9 +29284,9 @@ SPACE
 h,_,$,·sh,·,_,(ti),ʕ,_,r
 SPACE
 σ,a,v,i,(me),y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,𝓂,y,v,.
 
 Ezekiel 40:15 in vtrad vtsef
@@ -29334,9 +29334,9 @@ SPACE
 l,_,$,·sh,·,_,(p),ʕ,_,r,(p)
 SPACE
 σ,a,v,i,⅃,y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,ƶ,y,v
 SPACE
 w,:,k,‥,(ti),n.
@@ -29346,9 +29346,9 @@ SPACE
 w,:,x,_,l,·,w,o,n,(G),w,o,τ
 SPACE
 σ,a,v,i,<,y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,y,v,(p)
 SPACE
 l,i,f,:,n,i,ƶ,y,m,a,h
@@ -29375,9 +29375,9 @@ SPACE
 l,∵,x,a,ц,‥,(ti),r
 SPACE
 σ,a,v,i,⅃,y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,⅄,y,v
 SPACE
 $,·sh,:,l,o,$,·sh,i,(me),y,m.
@@ -29581,9 +29581,9 @@ SPACE
 w,·,l,:,α,‥,𝓂,y,l,_,m,·,a,w,(p)
 SPACE
 σ,a,v,i,⅃,y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,ƶ,y,v
 SPACE
 k,·,:,h,_,x,_,l,·,o,n,(ti),w,o,τ
@@ -29693,9 +29693,9 @@ SPACE
 w,·,l,:,α,‥,l,_,m,·,a,(ti),w
 SPACE
 σ,a,v,i,⅃,y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,⅄,y,v
 SPACE
 x,:_,m,i,$,·sh,·,i,<,y,m.
@@ -29716,9 +29716,9 @@ Ezekiel 40:30 in vtrad vtsef
 w,:,α,‥,l,_,m,·,(ti),w,o,τ
 SPACE
 σ,a,v,i,⅃,y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,⅄,y,v
 SPACE
 α,o,◆,r,∵,k.,:
@@ -29789,9 +29789,9 @@ SPACE
 w,·,l,:,α,‥,l,_,m,·,a,(ti),w
 SPACE
 σ,a,v,i,⅃,y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,⅄,y,v
 SPACE
 α,o,(ye),r,∵,k.,:
@@ -29854,9 +29854,9 @@ SPACE
 l,(ti),w,o
 SPACE
 σ,a,v,i,⅃,y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,⅄,y,v
 SPACE
 α,o,(ye),r,∵,k.,:
@@ -30053,9 +30053,9 @@ SPACE
 v,·,_,v,·,_,(ti),y,i,τ
 SPACE
 σ,a,v,i,⅃,y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,⅄,y,v
 SPACE
 w,:,α,∵,l,-,h,_,$,·sh,·,u,l,:,x,a,n,(ti),w,o,τ
@@ -30169,9 +30169,9 @@ SPACE
 α,∵,τ,-,h,∵,x,a,ц,‥,(ge),r
 SPACE
 α,o,⅃,r,∵,k.,:,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 m,‥,α,a,⅃,h
 SPACE
@@ -30405,9 +30405,9 @@ SPACE
 α,_,m,·,(ge),w,o,τ
 SPACE
 σ,a,v,i,(da),y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,⟓,y,v
 SPACE
 l,_,v,·,_,(ti),y,i,τ
@@ -30436,9 +30436,9 @@ SPACE
 l,_,ц,·,:,l,a,ʕ,⟓,w,o,τ
 SPACE
 σ,a,v,i,(me),y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,(ti),y,v
 SPACE
 l,i,h,:,y,⅃,w,o,τ
@@ -30473,9 +30473,9 @@ SPACE
 l,:,m,_,(ge),ʕ,:,l,a,h
 SPACE
 σ,a,v,i,<,y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,y,v,(p)
 SPACE
 l,_,v,·,_,ƶ,y,i,τ
@@ -30504,9 +30504,9 @@ SPACE
 g,·,o,(ti),v,_,h,·
 SPACE
 σ,a,v,i,⅃,y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,⅄,y,v
 SPACE
 START span class=mam-kq
@@ -30572,9 +30572,9 @@ SPACE
 l,_,v,·,_,(ti),y,i,τ
 SPACE
 σ,a,v,i,(me),y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,𝓂,y,v,.
 
 Ezekiel 41:11 in vtrad vtsef
@@ -30609,9 +30609,9 @@ SPACE
 α,_,m,·,(ti),w,o,τ
 SPACE
 σ,a,v,i,(me),y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,𝓂,y,v,.
 
 Ezekiel 41:12 in vtrad vtsef
@@ -30642,9 +30642,9 @@ SPACE
 r,o,(ti),x,_,v
 SPACE
 σ,a,v,i,⅃,y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,⅄,y,v
 SPACE
 w,:,α,oa,r,:,k,·,(ti),w,o
@@ -30738,9 +30738,9 @@ SPACE
 h,a,⌕,α,:_,θ,u,m,⌕,w,o,τ
 SPACE
 w,:,h,a,𝓂,α,_,τ,·,i,y,q,i,<,y,m.,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,y,v,(p)
 SPACE
 l,i,$,·sh,:,l,oa,$,·sh,:,τ,·,a,ƶ,m.
@@ -30754,9 +30754,9 @@ SPACE
 ʕ,‥,(ti),ц.
 SPACE
 σ,a,v,i,⅃,y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,⅄,y,v
 SPACE
 w,:,h,a,α,a,(p),r,∵,ц.,(p)
@@ -30781,9 +30781,9 @@ SPACE
 w,:,α,∵,l,-,k,·,oa,l,-,h,_,q,·,i,(qa),y,r
 SPACE
 σ,a,v,i,(da),y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,⟓,y,v
 SPACE
 v,·,_,f,·,:,n,i,y,m,i,(me),y
@@ -30831,9 +30831,9 @@ SPACE
 α,∵,l,-,k,·,oa,l,-,h,_,v,·,_,(ti),y,i,τ
 SPACE
 σ,a,v,i,(me),y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,𝓂,y,v,.
 
 Ezekiel 41:20 in vtrad vtsef
@@ -31224,9 +31224,9 @@ h,_,x,i,ц,o,n,a,𝓂,h,.
 
 Ezekiel 42:10 in vtrad vtsef
 v,·,:,r,o,⅃,x,_,v,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 g,·,∵,⅃,d,∵,r
 SPACE
@@ -31326,9 +31326,9 @@ SPACE
 h,_,g,·,i,z,:,r,a,h,∴
 SPACE
 h,‥,⅃,n,·,a,h,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 l,i,𝓂,$,·sh,:,k,⅃,w,o,τ
 SPACE
@@ -31351,9 +31351,9 @@ SPACE
 $,·sh,a,(G),m.
 SPACE
 y,_,n,·,i,⅃,y,x,w,·,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 q,oa,d,:,$,·sh,‥,⅃,y
 SPACE
@@ -31444,9 +31444,9 @@ SPACE
 w,·,m,:,d,a,d,(ti),w,o
 SPACE
 σ,a,v,i,(me),y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,𝓂,y,v,.
 
 Ezekiel 42:16 in vtrad vtsef
@@ -31542,9 +31542,9 @@ SPACE
 l,w,o,(p)
 SPACE
 σ,a,v,i,⅃,y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,ƶ,y,v
 SPACE
 α,o,(ye),r,∵,k.,:
@@ -31772,9 +31772,9 @@ SPACE
 w,·,v,‥,y,n,‥,y,h,∵,⅄,m.
 SPACE
 w,:,θ,i,m,·,:,α,⅃,w,·,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 α,∵,τ,-,$,·sh,‥,⅃,m.
 SPACE
@@ -31910,9 +31910,9 @@ SPACE
 k,·,oa,l,-,g,·,:,v,u,l,(G),w,o
 SPACE
 σ,a,v,i,<,y,v,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,σ,a,v,i,y,v,(p)
 SPACE
 q,o,⅃,d,∵,$,·sh
@@ -32828,7 +32828,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 44:15 in vtrad vtsef
 w,:,h,_,k,·,o,h,:_,n,i,(qa),y,m.
@@ -33280,7 +33280,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 45:1 in vtrad vtsef
 w,·,v,:,h,_,f,·,i,𝓂,y,l,:,k,∵,(qa),m.
@@ -33294,9 +33294,9 @@ SPACE
 τ,:,r,w,·,m,a,(qa),h
 SPACE
 l,_,y,h,o,w,a,(me),h,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,q,o,≁,d,∵,$,·sh,~
 SPACE
 m,i,n.,-,h,a,α,a,∴,r,∵,ц.,∴
@@ -33571,7 +33571,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 45:9 in vtrad vtsef
 k,·,o,h,-,α,a,m,_,(G),r
@@ -33765,7 +33765,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 45:16 in vtrad vtsef
 k,·,o,(ye),l
@@ -34380,7 +34380,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 46:12 in vtrad vtsef
 w,:,k,i,𝓂,y,-,y,_,ʕ,:_,$,·si,∵,h,(tq)
@@ -35025,9 +35025,9 @@ SPACE
 k,oa,l,-,n,∵,⅃,f,∵,$,·sh
 SPACE
 x,_,y,·,a,⅃,h,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,α,:_,𝓂,$,·sh,∵,r,-,y,i,$,·sh,:,r,o,μ,ц.
 SPACE
 α,∵,⅃,l
@@ -35140,13 +35140,13 @@ SPACE
 ʕ,_,l,-,$,·si,:,f,a,τ,⅃,w,o
 SPACE
 m,i,z,·,∵,⅃,h,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,w,·,m,i,z,·,∵,⅃,h,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,k,·,oa,l,-,ʕ,‥,𝓂,ц.,-,m,_,⌕,α,:_,k,a,⌕,l
 SPACE
 l,o,α,-,y,i,v,·,(qa),w,o,l
@@ -35192,7 +35192,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 47:13 in vtrad vtsef
 k,·,o,<,h
@@ -35279,9 +35279,9 @@ SPACE
 
 Ezekiel 47:16 in vtrad vtsef
 x,:_,m,a,<,τ,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,v,·,‥,r,(p),w,o,τ,a,h,(p)
 SPACE
 σ,i,v,:,r,_,ƶ,y,i,m.
@@ -35324,9 +35324,9 @@ SPACE
 d,·,_,m,·,∵,ƶ,$,·si,∵,q
 SPACE
 w,:,ц,a,f,(me),w,o,n.,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,ц,a,f,(ti),w,o,n,a,h
 SPACE
 w,·,g,:,v,⅃,w,·,l
@@ -35506,7 +35506,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br 
+START br
 
 Ezekiel 48:1 in vtrad vtsef
 w,:,α,‥,(ti),l,·,∵,h
@@ -35522,9 +35522,9 @@ SPACE
 α,∵,l,-,y,_,⅃,d
 SPACE
 d,·,∵,𝓂,r,∵,k.,:,-,x,∵,τ,:,l,o,⅃,n.,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,l,:,𝓂,v,w,o,α,-,x,:_,m,a,μ,τ
 SPACE
 x,:_,ц,_,⅃,r
@@ -35553,9 +35553,9 @@ SPACE
 
 Ezekiel 48:2 in vtrad vtsef
 w,:,ʕ,_,⅃,l,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 g,·,:,v,⅃,w,·,l
 SPACE
@@ -35573,9 +35573,9 @@ SPACE
 
 Ezekiel 48:3 in vtrad vtsef
 w,:,ʕ,_,⅃,l,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 g,·,:,v,⅃,w,·,l
 SPACE
@@ -35593,9 +35593,9 @@ SPACE
 
 Ezekiel 48:4 in vtrad vtsef
 w,:,ʕ,_,⅃,l,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 g,·,:,v,⅃,w,·,l
 SPACE
@@ -35613,9 +35613,9 @@ SPACE
 
 Ezekiel 48:5 in vtrad vtsef
 w,:,ʕ,_,⅃,l,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 g,·,:,v,⅃,w,·,l
 SPACE
@@ -35633,9 +35633,9 @@ SPACE
 
 Ezekiel 48:6 in vtrad vtsef
 w,:,ʕ,_,⅃,l,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 g,·,:,v,⅃,w,·,l
 SPACE
@@ -35653,9 +35653,9 @@ SPACE
 
 Ezekiel 48:7 in vtrad vtsef
 w,:,ʕ,_,⅃,l,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 g,·,:,v,⅃,w,·,l
 SPACE
@@ -36025,9 +36025,9 @@ SPACE
 v,·,a,α,o,(ge),r,∵,k.,:
 SPACE
 l,:,ʕ,u,m,·,_,⅃,τ,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 τ,·,:,r,w,·,m,_,⅃,τ
 SPACE
@@ -36109,13 +36109,13 @@ SPACE
 l,_,n,·,a,$,·si,i,⅃,y,α
 SPACE
 m,i,z,·,∵,⅃,h,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,w,·,m,i,z,·,∵,⅃,h,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,l,i,τ,:,r,𝓂,w,·,m,_,τ,-,h,_,q,·,o,⅃,d,∵,$,·sh
 SPACE
 w,:,l,_,α,:_,x,u,z,·,_,(yy),τ
@@ -36129,9 +36129,9 @@ SPACE
 w,:,ʕ,∵,$,·si,:,r,i,(qa),y,m.
 SPACE
 α,∵,(me),l,∵,f.,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,τ,·,:,r,w,·,m,a,h,~
 SPACE
 ʕ,_,d,-,g,·,:,v,⅃,w,·,l
@@ -36188,9 +36188,9 @@ SPACE
 y,i,h,:,y,∵,⅄,h
 SPACE
 v,·,‥,⅃,y,n.,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 g,·,:,v,⅃,w,·,l
 SPACE
@@ -36223,9 +36223,9 @@ SPACE
 
 Ezekiel 48:24 in vtrad vtsef
 w,:,ʕ,_,⅃,l,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 g,·,:,v,⅃,w,·,l
 SPACE
@@ -36243,9 +36243,9 @@ SPACE
 
 Ezekiel 48:25 in vtrad vtsef
 w,:,ʕ,_,⅃,l,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 g,·,:,v,⅃,w,·,l
 SPACE
@@ -36263,9 +36263,9 @@ SPACE
 
 Ezekiel 48:26 in vtrad vtsef
 w,:,ʕ,_,⅃,l,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 g,·,:,v,⅃,w,·,l
 SPACE
@@ -36283,9 +36283,9 @@ SPACE
 
 Ezekiel 48:27 in vtrad vtsef
 w,:,ʕ,_,⅃,l,THIN SPACE
-START b 
+START b
 |
-STOP b 
+STOP b
 SPACE
 g,·,:,v,⅃,w,·,l
 SPACE
@@ -36540,8 +36540,8 @@ SPACE
 m,i,y,·,(ti),w,o,m.
 SPACE
 y,:,h,o,w,a,(me),h,THIN SPACE
-START small 
+START small
 |
-STOP small 
+STOP small
 THIN SPACE,$,·sh,a,𝓂,m,·,a,h,.
 
