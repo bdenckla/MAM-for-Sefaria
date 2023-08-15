@@ -619,7 +619,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Habakkuk 2:9 in vtrad vtsef
 h,◆,w,o,y
@@ -673,7 +673,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Habakkuk 2:12 in vtrad vtsef
 h,⟓,w,o,y
@@ -735,7 +735,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Habakkuk 2:15 in vtrad vtsef
 h,(ye),w,o,y
@@ -1198,7 +1198,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Habakkuk 3:14 in vtrad vtsef
 n,a,q,_,<,v,:,τ,·,a

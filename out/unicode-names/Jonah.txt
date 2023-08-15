@@ -651,7 +651,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Jonah 2:11 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
@@ -1008,7 +1008,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Jonah 4:4 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r

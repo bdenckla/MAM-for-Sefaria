@@ -2379,7 +2379,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Daniel 3:1 in vtrad vtsef
 n,:,v,w,·,k,_,d,:,n,∵,ц,·,_,⅃,r
@@ -3107,7 +3107,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Daniel 3:19 in vtrad vtsef
 v,·,‥,α,d,_,(qa),y,i,n.
@@ -3291,7 +3291,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Daniel 3:24 in vtrad vtsef
 α,:∵,d,_,(p),y,i,n.,(p)
@@ -3639,7 +3639,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Daniel 3:31 in vtrad vtsef
 n,:,v,w,·,k,_,d,:,n,∵,ц,·,_,⅃,r
@@ -4673,7 +4673,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Daniel 4:26 in vtrad vtsef
 l,i,q,:,ц,a,(me),τ
@@ -5054,7 +5054,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Daniel 5:1 in vtrad vtsef
 v,·,‥,l,:,$,·sh,_,α,ц,·,_,⅃,r
@@ -5561,7 +5561,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Daniel 5:13 in vtrad vtsef
 v,·,‥,α,d,_,(p),y,i,n.,(p)
@@ -5756,7 +5756,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Daniel 5:17 in vtrad vtsef
 v,·,‥,α,d,_,(ge),y,i,n.
@@ -6263,7 +6263,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Daniel 6:1 in vtrad vtsef
 w,:,d,a,r,:,y,a,(p),w,∵,$,·sh,(p)
@@ -6808,7 +6808,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Daniel 6:15 in vtrad vtsef
 α,:∵,d,_,(qa),y,i,n.
@@ -7378,7 +7378,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Daniel 7:1 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,⅃,τ
@@ -7992,7 +7992,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Daniel 7:15 in vtrad vtsef
 α,∵,τ,:,k,·,:,r,i,y,·,_,(me),τ
@@ -8456,7 +8456,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Daniel 8:1 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,⅃,τ
@@ -9177,7 +9177,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Daniel 9:1 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,⅃,τ
@@ -10205,7 +10205,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Daniel 10:4 in vtrad vtsef
 w,·,v,:,y,⟓,w,o,m.
@@ -10748,7 +10748,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Daniel 11:1 in vtrad vtsef
 w,_,α,:_,n,i,y,(p)
@@ -12049,7 +12049,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Daniel 12:4 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h

@@ -925,7 +925,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Tsefaniah 3:1 in vtrad vtsef
 h,(me),w,o,y
@@ -1270,7 +1270,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Tsefaniah 3:14 in vtrad vtsef
 r,oa,n,·,i,y,(p)
@@ -1321,7 +1321,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Tsefaniah 3:16 in vtrad vtsef
 v,·,_,y,·,⅃,w,o,m.

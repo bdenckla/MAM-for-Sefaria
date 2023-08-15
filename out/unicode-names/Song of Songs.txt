@@ -75,7 +75,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Song of Songs 1:5 in vtrad vtsef
 $,·sh,:,x,w,o,r,a,<,h
@@ -188,7 +188,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Song of Songs 1:9 in vtrad vtsef
 l,:,σ,u,𝓂,σ,a,τ,i,y,(p)
@@ -2569,7 +2569,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Song of Songs 8:11 in vtrad vtsef
 k,·,∵,⅃,r,∵,m.

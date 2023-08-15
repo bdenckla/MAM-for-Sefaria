@@ -834,7 +834,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Joel 2:15 in vtrad vtsef
 τ,·,i,q,:,ʕ,(me),w,·
@@ -1186,7 +1186,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Joel 3:1 in vtrad vtsef
 w,:,h,a,y,a,⅃,h
@@ -1522,7 +1522,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Joel 4:9 in vtrad vtsef
 q,i,r,:,α,w,·,-,z,o,α,τ,(p)

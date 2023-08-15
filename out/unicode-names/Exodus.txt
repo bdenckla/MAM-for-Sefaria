@@ -105,7 +105,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 1:8 in vtrad vtsef
 w,_,y,·,a,(me),q,oa,m.
@@ -437,7 +437,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 2:1 in vtrad vtsef
 w,_,y,·,‥,(me),l,∵,k.,:
@@ -975,7 +975,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 2:23 in vtrad vtsef
 w,_,y,:,h,i,y,(tq)
@@ -2231,7 +2231,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 4:18 in vtrad vtsef
 w,_,y,·,‥,(qa),l,∵,k.,:
@@ -2470,7 +2470,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 4:27 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -3443,7 +3443,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 6:10 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -3505,7 +3505,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 6:13 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,⅃,r
@@ -3954,7 +3954,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 7:1 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -4114,7 +4114,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 7:8 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -4622,7 +4622,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 7:26 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -5498,7 +5498,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 9:1 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -5678,7 +5678,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 9:8 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -6062,7 +6062,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 9:22 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -6441,7 +6441,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 10:1 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -7083,7 +7083,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 10:21 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -7309,7 +7309,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 11:1 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -8223,7 +8223,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 12:21 in vtrad vtsef
 w,_,y,·,i,q,:,r,a,(me),α
@@ -8663,7 +8663,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 12:37 in vtrad vtsef
 w,_,y,·,i,σ,:,ʕ,(da),w,·
@@ -8830,7 +8830,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 12:43 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -9020,7 +9020,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 13:1 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -9273,7 +9273,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 13:11 in vtrad vtsef
 w,:,h,a,y,a,(G),h
@@ -9642,7 +9642,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 14:1 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -10020,7 +10020,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 14:15 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -10317,7 +10317,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 14:26 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -10490,7 +10490,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 15:1 in vtrad vtsef
 α,a,⅃,z
@@ -11201,7 +11201,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 15:20 in vtrad vtsef
 w,_,τ,·,i,q,·,_,x,(tq)
@@ -11785,7 +11785,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 16:11 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -12465,7 +12465,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 17:1 in vtrad vtsef
 w,_,⌕,y,·,i,σ,:,ʕ,⌕,w,·
@@ -12698,7 +12698,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 17:8 in vtrad vtsef
 w,_,y,·,a,v,o,(ti),α
@@ -12853,7 +12853,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 17:14 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -12947,7 +12947,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 18:1 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,_,(G),ʕ
@@ -13686,7 +13686,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 19:1 in vtrad vtsef
 v,·,_,x,o,(p),d,∵,$,·sh,(p)
@@ -14531,7 +14531,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 20:8 in vtrad vtsef
 z,a,k,⟓,w,o,r,(tq)
@@ -14783,7 +14783,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 20:15 in vtrad vtsef
 w,:,k,oa,l,-,h,a,ʕ,a,m.,(tq)
@@ -15017,7 +15017,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 21:1 in vtrad vtsef
 w,:,α,‥,(p),l,·,∵,h,(p)
@@ -15686,7 +15686,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 21:28 in vtrad vtsef
 w,:,k,i,𝓂,y,-,y,i,g,·,_,(qa),x
@@ -16341,7 +16341,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 22:13 in vtrad vtsef
 w,:,k,i,𝓂,y,-,y,i,$,·sh,:,α,_,(me),l
@@ -16559,7 +16559,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 22:24 in vtrad vtsef
 α,i,m.,-,k,·,∵,⅃,σ,∵,f.,THIN SPACE
@@ -17167,7 +17167,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 23:20 in vtrad vtsef
 h,i,n,·,‥,(qa),h
@@ -17501,7 +17501,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 24:1 in vtrad vtsef
 w,:,α,∵,l,-,m,o,$,·sh,∵,(qa),h
@@ -17976,7 +17976,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 25:1 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -18447,7 +18447,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 25:23 in vtrad vtsef
 w,:,ʕ,a,$,·si,i,(me),y,τ,a
@@ -18614,7 +18614,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 25:31 in vtrad vtsef
 w,:,ʕ,a,$,·si,i,(me),y,τ,a
@@ -19258,7 +19258,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 26:15 in vtrad vtsef
 w,:,ʕ,a,$,·si,i,(me),y,τ,a
@@ -20513,7 +20513,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 28:6 in vtrad vtsef
 w,:,ʕ,a,$,·si,(ti),w,·
@@ -22690,7 +22690,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 30:1 in vtrad vtsef
 w,:,ʕ,a,$,·si,i,(me),y,τ,a
@@ -22944,7 +22944,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 30:11 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -23112,7 +23112,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 30:17 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -23220,7 +23220,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 30:22 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -23790,7 +23790,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 31:12 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
@@ -24196,7 +24196,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 32:7 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -24443,7 +24443,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 32:15 in vtrad vtsef
 w,_,y,·,i,(ge),f,∵,n.
@@ -25361,7 +25361,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 33:12 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -25514,7 +25514,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 33:17 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -25658,7 +25658,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 START sup class=footnote-marker
 ASTERISK
 STOP sup class=footnote-marker
@@ -26385,7 +26385,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 34:27 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -26739,7 +26739,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 35:4 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -27294,7 +27294,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 35:30 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -27841,7 +27841,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 36:14 in vtrad vtsef
 w,_,y,·,_,(p),ʕ,_,$,·si,(p)
@@ -28415,7 +28415,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 37:1 in vtrad vtsef
 w,_,y,·,_,(da),ʕ,_,$,·si
@@ -28640,7 +28640,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 37:10 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
@@ -28801,7 +28801,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 37:17 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
@@ -29005,7 +29005,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 37:25 in vtrad vtsef
 w,_,y,·,_,⟓,ʕ,_,$,·si
@@ -30012,7 +30012,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 39:2 in vtrad vtsef
 w,_,y,·,_,(ti),ʕ,_,$,·si
@@ -30193,7 +30193,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 39:8 in vtrad vtsef
 w,_,y,·,_,(da),ʕ,_,$,·si
@@ -30522,7 +30522,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 39:22 in vtrad vtsef
 w,_,y,·,_,⟓,ʕ,_,$,·si
@@ -30810,7 +30810,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 39:33 in vtrad vtsef
 w,_,y,·,a,v,i,<,y,α,w,·
@@ -31057,7 +31057,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 40:1 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -31803,7 +31803,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Exodus 40:34 in vtrad vtsef
 w,_,y,:,k,_,(me),σ

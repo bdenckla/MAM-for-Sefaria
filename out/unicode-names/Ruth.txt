@@ -2360,7 +2360,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Ruth 4:18 in vtrad vtsef
 w,:,α,‥,(p),l,·,∵,h,(p)

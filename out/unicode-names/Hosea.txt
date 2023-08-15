@@ -47,7 +47,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 y,:,h,o,w,a,(ge),h
@@ -252,7 +252,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Hosea 2:1 in vtrad vtsef
 w,:,𝓂,⌕,h,a,y,a,⌕,h
@@ -809,7 +809,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Hosea 2:23 in vtrad vtsef
 w,:,h,a,y,a,⅃,h,THIN SPACE
@@ -880,7 +880,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Hosea 3:1 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -1041,7 +1041,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Hosea 4:1 in vtrad vtsef
 $,·sh,i,m,:,ʕ,(me),w,·
@@ -1452,7 +1452,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Hosea 5:1 in vtrad vtsef
 $,·sh,i,m,:,ʕ,w,·,-,z,o,(qa),α,τ
@@ -2014,7 +2014,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Hosea 7:1 in vtrad vtsef
 k,·,:,r,oa,f,:,α,i,⅃,y
@@ -2693,7 +2693,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Hosea 9:1 in vtrad vtsef
 α,_,l,-,τ,·,i,$,·si,:,m,_,(qa),x
@@ -3321,7 +3321,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Hosea 10:9 in vtrad vtsef
 m,i,y,m,‥,y,(p)
@@ -4278,7 +4278,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Hosea 13:12 in vtrad vtsef
 ц,a,r,w,·,r,(p)
@@ -4410,7 +4410,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Hosea 14:2 in vtrad vtsef
 $,·sh,(ye),w,·,v,a,h

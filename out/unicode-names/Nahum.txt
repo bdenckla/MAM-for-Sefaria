@@ -330,7 +330,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Nahum 2:1 in vtrad vtsef
 h,i,n,·,‥,(qa),h
@@ -688,7 +688,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Nahum 3:1 in vtrad vtsef
 h,(ti),w,o,y

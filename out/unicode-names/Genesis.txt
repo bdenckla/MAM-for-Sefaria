@@ -102,7 +102,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 1:6 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -178,7 +178,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 1:9 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -306,7 +306,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 1:14 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -437,7 +437,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 1:20 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -544,7 +544,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 1:24 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -797,7 +797,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 2:1 in vtrad vtsef
 w,_,y,:,k,u,l,·,⟓,w,·
@@ -865,7 +865,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 2:4 in vtrad vtsef
 α,‥,⅃,l,·,∵,h
@@ -1981,7 +1981,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 3:22 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r,THIN SPACE
@@ -3635,7 +3635,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 6:5 in vtrad vtsef
 w,_,y,·,_,⅃,r,:,α
@@ -3728,7 +3728,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 6:9 in vtrad vtsef
 α,‥,(ye),l,·,∵,h
@@ -5626,7 +5626,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 9:18 in vtrad vtsef
 w,_,y,·,i,𝓂,h,:,y,⅃,w,·
@@ -5871,7 +5871,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 10:1 in vtrad vtsef
 w,:,α,‥,(p),l,·,∵,h,(p)
@@ -6404,7 +6404,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 11:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -6629,7 +6629,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 11:10 in vtrad vtsef
 α,‥,(ye),l,·,∵,h
@@ -7209,7 +7209,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 12:1 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -7445,7 +7445,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 12:10 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -8117,7 +8117,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 14:1 in vtrad vtsef
 w,_,y,:,h,i,◆,y
@@ -10326,7 +10326,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 18:1 in vtrad vtsef
 w,_,y,·,‥,r,a,<,α
@@ -13140,7 +13140,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 21:22 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -13432,7 +13432,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 22:1 in vtrad vtsef
 w,_,y,:,h,i,◆,y
@@ -13965,7 +13965,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 22:20 in vtrad vtsef
 w,_,y,:,h,i,◆,y
@@ -14067,7 +14067,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 23:1 in vtrad vtsef
 w,_,y,·,i,h,:,y,w,·,(p)
@@ -16228,7 +16228,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 25:1 in vtrad vtsef
 w,_,y,·,o,(da),σ,∵,f.
@@ -16466,7 +16466,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 25:12 in vtrad vtsef
 w,:,α,‥,⟓,l,·,∵,h
@@ -16612,7 +16612,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 25:19 in vtrad vtsef
 w,:,α,‥,⟓,l,·,∵,h
@@ -16991,7 +16991,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 26:1 in vtrad vtsef
 w,_,y,:,h,i,<,y
@@ -23020,7 +23020,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 32:4 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,(qa),x
@@ -24977,7 +24977,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 35:1 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -25219,7 +25219,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 35:9 in vtrad vtsef
 w,_,y,·,‥,r,a,(qa),α
@@ -25534,7 +25534,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 w,_,y,·,i,𝓂,h,:,y,(me),w,·
 SPACE
 v,:,n,‥,𝓂,y,-,y,_,ʕ,:_,q,o,(ti),v
@@ -25683,7 +25683,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 36:1 in vtrad vtsef
 w,:,α,‥,⟓,l,·,∵,h
@@ -26371,7 +26371,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 36:31 in vtrad vtsef
 w,:,α,‥,(p),l,·,∵,h,(p)
@@ -26632,7 +26632,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 37:1 in vtrad vtsef
 w,_,y,·,‥,⅃,$,·sh,∵,v
@@ -27523,7 +27523,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 38:1 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -28924,7 +28924,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 40:1 in vtrad vtsef
 w,_,y,:,h,i,◆,y
@@ -29506,7 +29506,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 41:1 in vtrad vtsef
 w,_,y,:,h,i,Ƶ,y
@@ -36026,7 +36026,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 48:1 in vtrad vtsef
 w,_,y,:,h,i,◆,y
@@ -36654,7 +36654,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 49:1 in vtrad vtsef
 w,_,y,·,i,q,:,r,a,(me),α
@@ -36743,7 +36743,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 49:5 in vtrad vtsef
 $,·sh,i,m,:,ʕ,(me),w,o,n.
@@ -36809,7 +36809,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 49:8 in vtrad vtsef
 y,:,h,w,·,d,a,◆,h
@@ -36928,7 +36928,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 49:13 in vtrad vtsef
 z,:,v,w,·,l,u,Ƶ,n.
@@ -36952,7 +36952,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 49:14 in vtrad vtsef
 y,i,$,·si,·,a,$,k,a,(ti),r
@@ -37252,7 +37252,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Genesis 49:27 in vtrad vtsef
 v,·,i,n,:,y,a,m,i,y,n.,(p)

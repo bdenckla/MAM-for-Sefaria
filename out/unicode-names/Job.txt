@@ -174,7 +174,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 1:6 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
@@ -655,7 +655,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 2:1 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
@@ -932,7 +932,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 2:11 in vtrad vtsef
 w,_,𝓂,y,·,i,$,·sh,:,m,:,ʕ,(G),w,·
@@ -1062,7 +1062,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 3:2 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -1450,7 +1450,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 4:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -2151,7 +2151,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 6:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -2895,7 +2895,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 8:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -3184,7 +3184,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 9:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -3995,7 +3995,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 11:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -4282,7 +4282,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 12:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -5352,7 +5352,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 15:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -5840,7 +5840,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 16:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -6412,7 +6412,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 18:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -6689,7 +6689,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 19:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -7109,7 +7109,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 20:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -7532,7 +7532,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 21:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -8015,7 +8015,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 22:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -8400,7 +8400,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 23:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -9041,7 +9041,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 25:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -9120,7 +9120,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 26:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -9312,7 +9312,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 27:1 in vtrad vtsef
 w,_,y,·,o,⅃,σ,∵,f.
@@ -9798,7 +9798,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 28:12 in vtrad vtsef
 w,:,𝓂,(de),h,_,x,oa,k,:,m,a,h
@@ -10045,7 +10045,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 29:1 in vtrad vtsef
 w,_,y,·,o,⅃,σ,∵,f.
@@ -11434,7 +11434,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 32:1 in vtrad vtsef
 w,_,𝓂,y,·,i,$,·sh,:,v,·,:,τ,μ,w,·
@@ -11460,7 +11460,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 32:2 in vtrad vtsef
 w,_,y,·,i,<,x,_,r
@@ -11554,7 +11554,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 32:6 in vtrad vtsef
 w,_,y,·,_,<,ʕ,_,n.,THIN SPACE
@@ -12323,7 +12323,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 34:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -12864,7 +12864,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 35:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -13071,7 +13071,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 36:1 in vtrad vtsef
 w,_,y,·,o,(me),σ,∵,f.
@@ -13857,7 +13857,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 38:1 in vtrad vtsef
 w,_,y,·,_,𝓂,ʕ,_,n.,-,y,:,h,o,w,a,⅃,h
@@ -14676,7 +14676,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 39:19 in vtrad vtsef
 h,:_,τ,i,τ,·,‥,⅃,n.
@@ -14844,7 +14844,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 40:1 in vtrad vtsef
 w,_,y,·,_,(ti),ʕ,_,n.
@@ -14871,7 +14871,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 40:3 in vtrad vtsef
 w,_,y,·,_,(ti),ʕ,_,n.
@@ -14915,7 +14915,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 40:6 in vtrad vtsef
 w,_,y,·,_,ʕ,_,n.,-,y,:,h,o,w,a,⅃,h
@@ -15615,7 +15615,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 42:1 in vtrad vtsef
 w,_,y,·,_,(ti),ʕ,_,n.
@@ -15717,7 +15717,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Job 42:7 in vtrad vtsef
 w,_,y,:,h,i,◆,y

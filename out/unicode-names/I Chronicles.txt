@@ -860,7 +860,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 1:43 in vtrad vtsef
 w,:,α,‥,⅃,l,·,∵,h
@@ -1043,7 +1043,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 w,_,y,·,i,𝓂,h,:,y,w,·,(p)
 SPACE
 α,_,l,·,w,·,f,‥,⅃,y
@@ -1114,7 +1114,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 2:1 in vtrad vtsef
 α,‥,(ti),l,·,∵,h
@@ -1151,7 +1151,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 2:3 in vtrad vtsef
 v,·,:,n,‥,⅃,y
@@ -2464,7 +2464,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 3:10 in vtrad vtsef
 w,·,v,∵,n.,-,$,·sh,:,l,o,m,o,(ti),h
@@ -3074,7 +3074,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 4:15 in vtrad vtsef
 w,·,v,:,n,‥,y,(p)
@@ -3728,7 +3728,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 5:1 in vtrad vtsef
 w,·,v,:,n,‥,(qa),y
@@ -4095,7 +4095,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 5:18 in vtrad vtsef
 v,·,:,n,‥,y,-,r,:,α,w,·,v,‥,(qa),n.
@@ -4235,7 +4235,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 5:23 in vtrad vtsef
 w,·,v,:,n,‥,◆,y
@@ -4381,7 +4381,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 5:27 in vtrad vtsef
 v,·,:,n,‥,(ti),y
@@ -4624,7 +4624,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 6:1 in vtrad vtsef
 v,·,:,n,‥,(ti),y
@@ -4872,7 +4872,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 6:16 in vtrad vtsef
 w,:,α,‥,◆,l,·,∵,h
@@ -5171,7 +5171,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 6:35 in vtrad vtsef
 w,:,α,‥,(ti),l,·,∵,h
@@ -5424,7 +5424,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 6:47 in vtrad vtsef
 w,:,l,i,v,:,n,‥,(qa),y
@@ -5642,7 +5642,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 6:56 in vtrad vtsef
 l,i,v,:,n,‥,y,~
@@ -6223,7 +6223,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 7:14 in vtrad vtsef
 v,·,:,n,‥,⅃,y
@@ -6352,7 +6352,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 7:20 in vtrad vtsef
 w,·,v,:,n,‥,(me),y
@@ -6565,7 +6565,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 7:30 in vtrad vtsef
 v,·,:,n,‥,⅃,y
@@ -7366,7 +7366,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 9:1 in vtrad vtsef
 w,:,k,oa,l,-,y,i,$,·si,:,r,a,α,‥,l,(p)
@@ -8297,7 +8297,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 10:1 in vtrad vtsef
 w,·,f,:,l,i,$,·sh,:,τ,·,i,(ti),y,m.
@@ -8696,7 +8696,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 11:1 in vtrad vtsef
 w,_,y,·,i,q,·,a,v,:,ц,(da),w,·
@@ -8948,7 +8948,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 11:10 in vtrad vtsef
 w,:,α,‥,(qa),l,·,∵,h
@@ -10134,7 +10134,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 12:1 in vtrad vtsef
 w,:,α,‥,◆,l,·,∵,h
@@ -10461,7 +10461,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 12:17 in vtrad vtsef
 w,_,y,·,a,v,o,◆,α,w,·
@@ -10593,7 +10593,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 12:20 in vtrad vtsef
 w,·,m,i,𝓂,m,·,:,n,_,$,·sh,·,∵,(G),h
@@ -10714,7 +10714,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 12:24 in vtrad vtsef
 w,:,⌕,α,‥,⌕,l,·,∵,h
@@ -11326,7 +11326,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 13:1 in vtrad vtsef
 w,_,y,·,i,w,·,a,ʕ,_,⅃,ц.
@@ -11841,7 +11841,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 14:8 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,:,ʕ,⅃,w,·
@@ -11978,7 +11978,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 14:13 in vtrad vtsef
 w,_,y,·,o,σ,i,<,y,f,w,·
@@ -12153,7 +12153,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 15:3 in vtrad vtsef
 w,_,y,·,_,q,:,h,‥,(me),l
@@ -12350,7 +12350,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 15:11 in vtrad vtsef
 w,_,y,·,i,q,:,r,a,⅃,α
@@ -12494,7 +12494,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 15:16 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -12528,7 +12528,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 15:17 in vtrad vtsef
 w,_,y,·,_,𝓂,ʕ,:_,m,i,⅃,y,d,w,·
@@ -12767,7 +12767,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 15:26 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -12898,7 +12898,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 16:1 in vtrad vtsef
 w,_,y,·,a,v,i,(p),y,α,w,·,(p)
@@ -13086,7 +13086,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 16:8 in vtrad vtsef
 h,w,o,d,<,w,·
@@ -13387,7 +13387,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 16:23 in vtrad vtsef
 $,·sh,i,<,y,r,w,·
@@ -13747,7 +13747,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 16:37 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,z,oa,v,-,$,·sh,a,◆,m.
@@ -13933,7 +13933,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 17:1 in vtrad vtsef
 w,_,y,:,h,i,Ƶ,y
@@ -14360,7 +14360,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 17:16 in vtrad vtsef
 w,_,y,·,a,v,o,α,(p)
@@ -14686,7 +14686,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 18:1 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -14914,7 +14914,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 18:9 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,_,Ƶ,ʕ
@@ -15133,7 +15133,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 19:1 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -16061,7 +16061,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 21:1 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,m,o,(me),d
@@ -16298,7 +16298,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 21:9 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,<,r
@@ -17037,7 +17037,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 22:2 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -17123,7 +17123,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 22:5 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -17630,7 +17630,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 23:1 in vtrad vtsef
 w,:,d,a,w,i,(me),y,d
@@ -18404,7 +18404,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 24:1 in vtrad vtsef
 w,:,l,i,v,:,n,‥,(me),y
@@ -18597,7 +18597,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 24:7 in vtrad vtsef
 w,_,y,·,‥,ц,‥,(G),α
@@ -19004,7 +19004,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 24:19 in vtrad vtsef
 α,‥,⅃,l,·,∵,h
@@ -19038,7 +19038,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 24:20 in vtrad vtsef
 w,:,l,i,v,:,n,‥,(me),y
@@ -19657,7 +19657,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 25:9 in vtrad vtsef
 w,_,y,·,‥,ц,‥,(G),α
@@ -20272,7 +20272,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 26:1 in vtrad vtsef
 l,:,m,_,x,:,l,:,q,(ti),w,o,τ
@@ -20569,7 +20569,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 26:14 in vtrad vtsef
 w,_,y,·,i,f,·,o,(da),l
@@ -20947,7 +20947,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 26:29 in vtrad vtsef
 l,_,y,·,i,ц,:,h,a,r,i,(G),y
@@ -21078,7 +21078,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 27:1 in vtrad vtsef
 w,·,v,:,n,‥,⅃,y
@@ -21143,7 +21143,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 27:2 in vtrad vtsef
 ʕ,_,(G),l
@@ -21643,7 +21643,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 27:16 in vtrad vtsef
 w,:,ʕ,_,l,(p)
@@ -22310,7 +22310,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 28:1 in vtrad vtsef
 w,_,y,·,_,q,:,h,‥,⅃,l
@@ -22668,7 +22668,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 28:11 in vtrad vtsef
 w,_,y,·,i,τ,·,‥,⅃,n.
@@ -22906,7 +22906,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 28:20 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -23287,7 +23287,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 29:10 in vtrad vtsef
 w,_,y,:,v,a,<,r,∵,k.,:
@@ -23592,7 +23592,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 29:20 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -23785,7 +23785,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 1Chronicles 29:26 in vtrad vtsef
 w,:,d,a,w,i,y,d,(p)
@@ -23907,5 +23907,5 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 

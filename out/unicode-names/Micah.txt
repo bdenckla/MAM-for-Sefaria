@@ -784,7 +784,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Micah 3:1 in vtrad vtsef
 w,a,α,o,m,_,◆,r
@@ -901,7 +901,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Micah 3:5 in vtrad vtsef
 k,·,o,(ye),h
@@ -1016,7 +1016,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Micah 3:9 in vtrad vtsef
 $,·sh,i,m,:,ʕ,w,·,-,n,a,⅃,α
@@ -1124,7 +1124,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Micah 4:1 in vtrad vtsef
 w,:,h,a,y,a,⅃,h,THIN SPACE
@@ -1298,7 +1298,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Micah 4:6 in vtrad vtsef
 v,·,_,y,·,(qa),w,o,m.
@@ -1349,7 +1349,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Micah 4:8 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
@@ -1705,7 +1705,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Micah 5:6 in vtrad vtsef
 w,:,h,a,y,a,⅃,h,THIN SPACE
@@ -1750,7 +1750,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Micah 5:7 in vtrad vtsef
 w,:,h,a,y,a,h,(tq)
@@ -1889,7 +1889,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Micah 6:1 in vtrad vtsef
 $,·sh,i,m,:,ʕ,w,·,-,n,a,Ƶ,α
@@ -2278,7 +2278,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Micah 7:1 in vtrad vtsef
 α,_,⅃,l,:,l,_,y
@@ -2467,7 +2467,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Micah 7:9 in vtrad vtsef
 z,_,<,ʕ,_,f.
@@ -2597,7 +2597,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Micah 7:14 in vtrad vtsef
 r,:,ʕ,‥,(da),h

@@ -380,7 +380,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 1:22 in vtrad vtsef
 l,i,v,:,n,‥,⅃,y
@@ -439,7 +439,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 1:24 in vtrad vtsef
 l,i,v,:,n,‥,⅃,y
@@ -494,7 +494,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 1:26 in vtrad vtsef
 l,i,v,:,n,‥,⅃,y
@@ -547,7 +547,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 1:28 in vtrad vtsef
 l,i,v,:,n,‥,⅃,y
@@ -600,7 +600,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 1:30 in vtrad vtsef
 l,i,v,:,n,‥,⅃,y
@@ -653,7 +653,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 1:32 in vtrad vtsef
 l,i,v,:,n,‥,<,y
@@ -708,7 +708,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 1:34 in vtrad vtsef
 l,i,v,:,n,‥,⅃,y
@@ -759,7 +759,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 1:36 in vtrad vtsef
 l,i,v,:,n,‥,⅃,y
@@ -812,7 +812,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 1:38 in vtrad vtsef
 l,i,v,:,n,‥,⅃,y
@@ -865,7 +865,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 1:40 in vtrad vtsef
 l,i,v,:,n,‥,⅃,y
@@ -918,7 +918,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 1:42 in vtrad vtsef
 v,·,:,n,‥,⅃,y
@@ -971,7 +971,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 1:44 in vtrad vtsef
 α,‥,⅃,l,·,∵,h
@@ -1062,7 +1062,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 1:48 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -1232,7 +1232,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 2:1 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,⅃,r
@@ -1848,7 +1848,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 2:32 in vtrad vtsef
 α,‥,⟓,l,·,∵,h
@@ -1936,7 +1936,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 3:1 in vtrad vtsef
 w,:,α,‥,⟓,l,·,∵,h
@@ -2043,7 +2043,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 3:5 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -2160,7 +2160,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 3:11 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -2244,7 +2244,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 3:14 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,<,r
@@ -2910,7 +2910,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 3:44 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -3085,7 +3085,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 4:1 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,⅃,r
@@ -3528,7 +3528,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 4:17 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,⅃,r
@@ -3608,7 +3608,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 4:21 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -4310,7 +4310,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 5:1 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -4403,7 +4403,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 5:5 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -4544,7 +4544,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 5:11 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -5142,7 +5142,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 6:1 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -5724,7 +5724,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 6:22 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -6289,7 +6289,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 7:18 in vtrad vtsef
 v,·,_,y,·,w,o,m.,(p)
@@ -6421,7 +6421,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 7:24 in vtrad vtsef
 v,·,_,y,·,w,o,m.,(p)
@@ -6551,7 +6551,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 7:30 in vtrad vtsef
 v,·,_,y,·,w,o,m.,(p)
@@ -6681,7 +6681,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 7:36 in vtrad vtsef
 v,·,_,y,·,w,o,m.,(p)
@@ -6811,7 +6811,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 7:42 in vtrad vtsef
 v,·,_,y,·,w,o,m.,(p)
@@ -6941,7 +6941,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 7:48 in vtrad vtsef
 v,·,_,y,·,w,o,m.,(p)
@@ -7071,7 +7071,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 7:54 in vtrad vtsef
 v,·,_,y,·,w,o,m.,(p)
@@ -7201,7 +7201,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 7:60 in vtrad vtsef
 v,·,_,y,·,w,o,m.,(p)
@@ -7331,7 +7331,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 7:66 in vtrad vtsef
 v,·,_,y,·,w,o,m.,(p)
@@ -7461,7 +7461,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 7:72 in vtrad vtsef
 v,·,:,y,w,o,m.,(p)
@@ -7595,7 +7595,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 7:78 in vtrad vtsef
 v,·,:,y,w,o,m.,(p)
@@ -7729,7 +7729,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 7:84 in vtrad vtsef
 z,o,⅃,α,τ,THIN SPACE
@@ -7958,7 +7958,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 8:1 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -8057,7 +8057,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 8:5 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -8617,7 +8617,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 9:1 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,⅃,r
@@ -8828,7 +8828,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 9:9 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -9265,7 +9265,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 10:1 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -9490,7 +9490,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 10:11 in vtrad vtsef
 w,_,y,:,h,i,(G),y
@@ -10013,7 +10013,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 11:1 in vtrad vtsef
 w,_,y,:,h,i,<,y
@@ -10392,7 +10392,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 11:16 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -10662,7 +10662,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 11:23 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -11046,7 +11046,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 12:1 in vtrad vtsef
 w,_,τ,·,:,d,_,v,·,‥,(qa),r
@@ -11350,7 +11350,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 12:14 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -11430,7 +11430,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 13:1 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -12374,7 +12374,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 14:11 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -12750,7 +12750,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 14:26 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,⅃,r
@@ -13232,7 +13232,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 15:1 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -13573,7 +13573,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 15:17 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -13956,7 +13956,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 15:32 in vtrad vtsef
 w,_,y,·,i,h,:,y,(me),w,·
@@ -14082,7 +14082,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 15:37 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
@@ -14210,7 +14210,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 16:1 in vtrad vtsef
 w,_,y,·,i,q,·,_,⅃,x
@@ -15266,7 +15266,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 17:6 in vtrad vtsef
 w,_,y,·,i,l,·,o,(ge),n,w,·
@@ -15510,7 +15510,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 17:16 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -15763,7 +15763,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 17:25 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -15818,7 +15818,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 17:27 in vtrad vtsef
 w,_,y,·,o,𝓂,α,m,:,r,w,·,(p)
@@ -16090,7 +16090,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 18:8 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,⅃,r
@@ -16604,7 +16604,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 18:25 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -16801,7 +16801,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 19:1 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,⅃,r
@@ -17416,7 +17416,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 20:1 in vtrad vtsef
 w,_,y,·,a,v,o,⅃,α,w,·
@@ -17572,7 +17572,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 20:7 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -17997,7 +17997,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 20:22 in vtrad vtsef
 w,_,y,·,i,σ,:,ʕ,(ti),w,·
@@ -18283,7 +18283,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 21:4 in vtrad vtsef
 w,_,y,·,i,σ,:,ʕ,(G),w,·
@@ -18691,7 +18691,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 21:21 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,<,x
@@ -21540,7 +21540,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 25:1 in vtrad vtsef
 w,_,y,·,‥,(me),$,·sh,∵,v
@@ -21752,7 +21752,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 25:10 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -21926,7 +21926,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 25:16 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -21989,7 +21989,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 w,_,y,·,o,<,α,m,∵,r
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -23106,7 +23106,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 26:52 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -23604,7 +23604,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 27:6 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
@@ -23745,7 +23745,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 27:12 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -24040,7 +24040,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 28:1 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -24221,7 +24221,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 28:9 in vtrad vtsef
 w,·,v,:,y,w,o,m.,(p)
@@ -24264,7 +24264,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 28:11 in vtrad vtsef
 w,·,v,:,r,a,α,$,·sh,‥,y,(p)
@@ -24760,7 +24760,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 29:1 in vtrad vtsef
 w,·,v,_,x,o,(qa),d,∵,$,·sh
@@ -25713,7 +25713,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 30:2 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,<,r
@@ -26140,7 +26140,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 31:1 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -27371,7 +27371,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 32:1 in vtrad vtsef
 w,·,m,i,q,:,n,∵,⅃,h,THIN SPACE
@@ -27878,7 +27878,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 32:20 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -28406,7 +28406,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 33:1 in vtrad vtsef
 α,‥,(ge),l,·,∵,h
@@ -29325,7 +29325,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 34:1 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -29711,7 +29711,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 34:16 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -29896,7 +29896,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 35:1 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(da),r
@@ -30138,7 +30138,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 35:9 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -30778,7 +30778,7 @@ NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
-START br
+START/STOP br
 
 Numbers 36:1 in vtrad vtsef
 w,_,𝓂,y,·,i,q,:,r,:,v,(G),w,·
