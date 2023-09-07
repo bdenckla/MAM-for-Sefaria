@@ -9675,7 +9675,6 @@ h,a,α,a,𝓂,r,∵
 START big
 ц.
 STOP big
-.
 SPACE
 v,ц,d,HPU GERSHAYIM,y
 SPACE
@@ -17854,7 +17853,11 @@ START sup class=footnote-marker
 ASTERISK
 STOP sup class=footnote-marker
 START i class=footnote
-LEFT PARENTHESIS,v,r,w,v
+LEFT PARENTHESIS,v,σ,f,r,y
+SPACE
+σ,f,r,d
+SPACE
+w,r,w,v
 SPACE
 σ,f,r,y
 SPACE
