@@ -1,0 +1,62 @@
+@page {
+    background-color: var(--color-background);
+}
+body {
+    background-color: var(--color-background);
+    color: var(--color-normal);
+}
+body {
+    font-size: 14pt;
+}
+*[lang="hbo"] {
+    font-family: "Taamey D";
+    font-size: 140%;
+}
+*.font-family-taamey-frank-clm {
+    font-family: "Taamey Frank CLM";
+    font-size: 140%;
+}
+*.font-family-sbl-hebrew {
+    font-family: "SBL Hebrew";
+    font-size: 140%;
+}
+*.font-family-ezra-sil {
+    font-family: "Ezra SIL";
+    font-size: 115%;
+    /* Ezra SIL is always weirdly large so we use 115 not 140 */
+}
+span.dim { color: var(--color-dim) }
+span.dim:hover { color: var(--color-normal) }
+span.attention { color: var(--color-attention) }
+span.mam-implicit-maqaf { color: var(--color-mam-implicit-maqaf) }
+span.mam-letter-small { font-size: 85%; }
+span.mam-letter-large { font-size: 125%; }
+span.mam-letter-hung { vertical-align: super; }
+span.romanized { font-style: italic }
+*[title] {
+    color: var(--color-hoverable);
+    prince-tooltip: attr(title);
+
+}
+span.small-caps,
+span.unicode-code-point-name {
+    font-variant: small-caps;
+    text-transform: lowercase;
+}
+span.unicode-code-point-name {
+    color: var(--color-unicode-code-point-name);
+}
+table.border-collapse { border-collapse: collapse }
+table.break-inside-avoid { break-inside: avoid }
+th, td {
+    padding-right: 0.4em;
+    padding-left: 0.4em;
+}
+td.letter-spacing-wide { letter-spacing: 0.2em }
+td.vertical-align-bottom { vertical-align: bottom }
+*.bordered { border: 1px solid }
+a[href] { background-color: var(--color-link-background) }
+pre, code { font-size: 85% }
+/* rt: ruby text */
+/* rt.ketiv { font-size: smaller } */
+/* rt.parallel { font-size: inherit } */

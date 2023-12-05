@@ -1,0 +1,14 @@
+:root {
+    /* Below we use CSS variables to centralize the definition of colors,
+    since colors usually need to be changed together, i.e. colors are not 
+    independent of one another. */
+    --color-background: white;
+    --color-normal: black;
+    --color-dim: gray;
+    --color-attention: hsl(300, 87%, 59%);
+    --color-attention-dim: hsl(300, 80%, 80%);
+    --color-mam-implicit-maqaf: gray;
+    --color-hoverable: hsl(120, 71%, 44%);
+    --color-unicode-code-point-name: hsl(203, 92%, 42%);
+    --color-link-background: white;
+}
