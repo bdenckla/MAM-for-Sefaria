@@ -11,3 +11,6 @@ Other versions/formats of MAM (each with their tradeoffs) include:
 
 * [MAM-XML](https://github.com/bdenckla/MAM-XML)
 * [MAM-parsed](https://github.com/bdenckla/MAM-parsed)
+
+Via github-pages, this repository also publishes the documentation of the encoding of MAM for Sefaria:
+https://bdenckla.github.io/MAM-for-Sefaria/.
