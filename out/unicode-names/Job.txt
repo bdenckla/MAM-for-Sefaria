@@ -1016,7 +1016,7 @@ SPACE
 h,_,$,·sh,·,a,m,a,𝓂,y,:,m,a,h,.
 
 Job 2:13 in vtrad vtsef
-w,_,y,·,‥,𝓂,$,·sh,:,v,<,w,·
+w,_,y,·,‥,$,·sh,:,v,<,w,·
 SPACE
 α,i,τ,·,w,o,(p)
 SPACE
@@ -2670,7 +2670,7 @@ k,·,i,y,-,r,⅃,w,·,x,_
 SPACE
 x,_,y,·,a,⅄,y
 SPACE
-l,o,𝓂,α,-,τ,a,$,·sh,(me),w,·,v
+l,o,α,-,τ,a,$,·sh,(me),w,·,v
 SPACE
 ʕ,‥,γ,y,n,i,◆,y
 SPACE
@@ -2874,7 +2874,7 @@ START b
 |
 STOP b
 SPACE
-l,o,𝓂,α,-,τ,i,$,·si,·,a,⅃,α
+l,o,α,-,τ,i,$,·si,·,a,⅃,α
 SPACE
 f,i,$,·sh,:,ʕ,i,y,~
 SPACE
@@ -3747,7 +3747,7 @@ SPACE
 Job 10:7 in vtrad vtsef
 ʕ,_,𝓂,l,-,d,·,_,(de),ʕ,:,τ,·,:,k.,a
 SPACE
-k,·,i,y,-,l,o,⅃,α
+k,·,i,𝓂,y,-,l,o,⅃,α
 SPACE
 α,∵,r,:,$,·sh,a,⅄,ʕ
 SPACE
@@ -3773,7 +3773,7 @@ w,_,𝓂,τ,·,:,v,_,l,·,:,ʕ,‥,𝓂,n,i,y,.
 Job 10:9 in vtrad vtsef
 z,:,k,oa,r,-,n,a,(de),α
 SPACE
-k,·,i,𝓂,y,-,k,_,x,o,⅃,m,∵,r
+k,·,i,y,-,k,_,x,o,⅃,m,∵,r
 SPACE
 ʕ,:_,$,·si,i,y,τ,a,⅄,n,i,y
 SPACE
@@ -5168,7 +5168,7 @@ SPACE
 w,:,α,_,y,·,𝓂,w,o,.
 
 Job 14:11 in vtrad vtsef
-α,a,z,:,l,w,·,-,m,_,(de),y,i,m.
+α,a,𝓂,z,:,l,w,·,-,m,_,(de),y,i,m.
 SPACE
 m,i,n,·,i,y,-,y,a,⅄,m.
 SPACE
@@ -5306,7 +5306,7 @@ w,:,τ,i,q,:,w,_,(ti),τ
 SPACE
 α,:∵,n,⅃,w,o,$,·sh
 SPACE
-h,∵,𝓂,α,:∵,v,_,𝓂,d,:,τ,·,a,.
+h,∵,α,:∵,v,_,𝓂,d,:,τ,·,a,.
 
 Job 14:20 in vtrad vtsef
 τ,·,i,τ,:,q,:,f,‥,⅃,h,w,·
@@ -6557,7 +6557,7 @@ SPACE
 l,:,r,_,g,:,l,a,𝓂,y,w,.
 
 Job 18:12 in vtrad vtsef
-y,:,h,i,𝓂,y,-,r,a,ʕ,‥,(me),v
+y,:,h,i,y,-,r,a,ʕ,‥,(me),v
 SPACE
 α,o,n,⅄,w,o
 SPACE
@@ -8066,7 +8066,7 @@ v,·,_,m,·,i,$,·sh,:,f,·,a,𝓂,θ,.
 Job 22:5 in vtrad vtsef
 h,:_,l,o,⅃,α
 SPACE
-r,a,ʕ,a,𝓂,τ,:,k.,a,⅃
+r,a,ʕ,a,τ,:,k.,a,⅃
 SPACE
 r,_,v,·,a,⅄,h
 SPACE
@@ -8306,7 +8306,7 @@ SPACE
 SPACE
 τ,·,i,v,·,a,n,∵,⅄,h
 SPACE
-τ,·,_,r,:,x,i,(me),y,q
+τ,·,_,𝓂,r,:,x,i,(me),y,q
 SPACE
 ʕ,_,γ,w,:,l,a,◆,h
 SPACE
@@ -8455,7 +8455,9 @@ y,_,ʕ,:_,n,‥,⅄,n,i,y
 SPACE
 w,:,γ,α,a,v,i,◆,y,n,a,h
 SPACE
-m,_,h,-,y,·,o,(me),α,m,_,r,-,l,i,𝓂,y,.
+m,_,h,-,y,·,o,(me),α,m,_,r
+SPACE
+l,i,𝓂,y,.
 
 Job 23:6 in vtrad vtsef
 h,_,v,·,:,r,oa,v,-,k,·,o,(de),x,_
@@ -8988,7 +8990,7 @@ y,a,γ,q,◆,w,·,m.
 SPACE
 w,:,𝓂,l,o,α,-,y,_,α,:_,m,i,(me),y,n.
 SPACE
-v,·,_,𝓂,x,_,y,·,i,𝓂,y,n.,.
+v,·,_,x,_,y,·,i,𝓂,y,n.,.
 
 Job 24:23 in vtrad vtsef
 y,i,τ,·,∵,n.,-,l,⅃,w,o
@@ -9654,7 +9656,7 @@ y,a,z,o,𝓂,q,·,w,·,.
 Job 28:2 in vtrad vtsef
 v,·,_,(de),r,:,z,∵,l
 SPACE
-m,‥,𝓂,ʕ,a,f,a,⅃,r
+m,‥,ʕ,a,f,a,⅃,r
 SPACE
 y,u,q,·,a,⅄,x
 SPACE
@@ -9748,7 +9750,7 @@ SPACE
 Job 28:8 in vtrad vtsef
 l,o,𝓂,α,-,h,i,d,:,r,i,y,k,(me),w,·,h,w,·
 SPACE
-v,:,n,‥,𝓂,y,-,$,·sh,a,⅄,x,_,ц.
+v,:,n,‥,y,-,$,·sh,a,⅄,x,_,ц.
 SPACE
 l,o,𝓂,α,-,ʕ,a,d,a,(ti),h
 SPACE
@@ -9848,7 +9850,7 @@ SPACE
 ʕ,i,m,·,a,d,i,𝓂,y,.
 
 Job 28:15 in vtrad vtsef
-l,o,𝓂,α,-,y,u,τ,·,_,⅃,n.
+l,o,α,-,y,u,τ,·,_,⅃,n.
 SPACE
 σ,:,g,⅃,w,o,r
 SPACE
@@ -9863,7 +9865,7 @@ SPACE
 m,:,x,i,y,r,a,𝓂,h,·,.
 
 Job 28:16 in vtrad vtsef
-l,o,𝓂,α,-,τ,:,(de),σ,u,l,·,∵,h
+l,o,α,-,τ,:,(de),σ,u,l,·,∵,h
 SPACE
 v,·,:,k,∵,⅃,τ,∵,m.
 SPACE
@@ -10227,7 +10229,7 @@ l,a,(de),v,_,$,·sh,:,τ,·,i,y
 SPACE
 w,_,y,·,i,l,:,v,·,a,$,·sh,‥,⅄,n,i,y
 SPACE
-k,·,i,m,:,ʕ,i,(me),y,l
+k,·,i,𝓂,m,:,ʕ,i,(me),y,l
 SPACE
 w,:,γ,ц,a,n,i,◆,y,f.
 SPACE
@@ -10678,7 +10680,7 @@ SPACE
 SPACE
 w,:,l,o,⅃,α
 SPACE
-τ,_,𝓂,ʕ,:_,n,‥,⅄,n,i,y
+τ,_,ʕ,:_,n,‥,⅄,n,i,y
 SPACE
 ʕ,a,γ,m,_,◆,d,:,τ,·,i,y
 SPACE
@@ -10854,10 +10856,7 @@ SPACE
 ʕ,_,l,-,v,·,:,τ,w,·,l,a,𝓂,h,.
 
 Job 31:2 in vtrad vtsef
-w,·,m,∵,<,h,THIN SPACE
-START b
-|
-STOP b
+w,·,m,∵,<,h
 SPACE
 x,‥,⅃,l,∵,q
 SPACE
@@ -11539,13 +11538,13 @@ k,·,i,≁,y
 SPACE
 α,‥,<,y,n.
 SPACE
-m,_,𝓂,ʕ,:_,n,∵,◆,h
+m,_,ʕ,:_,n,∵,◆,h
 SPACE
 v,·,:,(de),f,i,y
 SPACE
 $,·sh,:,l,o,(me),$,·sh,∵,τ
 SPACE
-h,a,𝓂,α,:_,n,a,$,·sh,i,◆,y,m.
+h,a,α,:_,n,a,$,·sh,i,◆,y,m.
 SPACE
 w,_,y,·,i,(me),x,_,r
 SPACE
@@ -12339,9 +12338,9 @@ x,:_,k,a,m,i,⅃,y,m.
 SPACE
 m,i,l,·,a,⅄,y
 SPACE
-w,:,γ,y,o,𝓂,d,:,ʕ,i,◆,y,m.
+w,:,γ,y,o,d,:,ʕ,i,◆,y,m.
 SPACE
-h,_,𝓂,α,:_,z,i,(me),y,n,w,·
+h,_,α,:_,z,i,(me),y,n,w,·
 SPACE
 l,i,𝓂,y,.
 
@@ -13466,7 +13465,7 @@ SPACE
 k,·,i,σ,·,a,𝓂,h,.
 
 Job 36:31 in vtrad vtsef
-k,·,i,y,-,v,a,(de),m.
+k,·,i,𝓂,y,-,v,a,(de),m.
 SPACE
 y,a,d,i,⅃,y,n.
 SPACE
@@ -13860,7 +13859,7 @@ STOP span class=mam-spi-pe
 START/STOP br
 
 Job 38:1 in vtrad vtsef
-w,_,y,·,_,𝓂,ʕ,_,n.,-,y,:,h,o,w,a,⅃,h
+w,_,y,·,_,ʕ,_,n.,-,y,:,h,o,w,a,⅃,h
 SPACE
 α,∵,τ,-,α,i,(de),y,·,w,o,v
 SPACE
@@ -14339,7 +14338,7 @@ v,·,:,r,a,q,i,⅃,y,m.
 SPACE
 w,:,y,‥,l,‥,⅄,k,w,·
 SPACE
-w,:,y,o,𝓂,α,m,:,r,(ti),w,·
+w,:,y,o,α,m,:,r,(ti),w,·
 SPACE
 l,:,k.,a,⅃
 SPACE
@@ -14404,7 +14403,7 @@ k,·,i,𝓂,y,-,y,a,$,·sh,o,(me),x,w,·
 SPACE
 v,_,m,·,:,ʕ,w,o,n,⅄,w,o,τ
 SPACE
-y,‥,𝓂,$,·sh,:,v,(ti),w,·
+y,‥,$,·sh,:,v,(ti),w,·
 SPACE
 v,_,σ,·,u,k,·,a,⅃,h
 SPACE
@@ -14694,7 +14693,7 @@ r,_,ʕ,:,m,a,𝓂,h,.
 Job 39:20 in vtrad vtsef
 h,:_,𝓂,(de),τ,_,r,:,ʕ,i,y,$,·sh,∵,n,·,w,·
 SPACE
-k,·,a,𝓂,α,_,r,:,v,·,∵,⅄,h
+k,·,a,α,_,r,:,v,·,∵,⅄,h
 SPACE
 h,(ti),w,o,d
 SPACE
@@ -15402,7 +15401,7 @@ SPACE
 y,i,τ,:,f,·,a,r,a,𝓂,d,w,·,.
 
 Job 41:10 in vtrad vtsef
-ʕ,:_,(de),θ,i,y,$,·sh,o,τ,a,y,w
+ʕ,:_,𝓂,(de),θ,i,y,$,·sh,o,τ,a,y,w
 SPACE
 τ,·,a,⅃,h,∵,l
 SPACE
