@@ -293,7 +293,7 @@ SPACE
 SPACE
 ʕ,i,m,·,i,⅄,y
 SPACE
-h,_,𝓂,ʕ,𝓂,w,o,d,-,l,i,<,y
+h,_,ʕ,𝓂,w,o,d,-,l,i,<,y
 SPACE
 v,a,n,i,y,m.,(p)
 SPACE
@@ -358,7 +358,7 @@ y,i,g,:,d,·,a,ƶ,l,w,·
 SPACE
 h,:_,l,a,h,‥,n.,(p)
 SPACE
-τ,·,‥,𝓂,ʕ,a,g,‥,ƶ,n,a,h
+τ,·,‥,ʕ,a,g,‥,ƶ,n,a,h
 SPACE
 l,:,v,i,l,:,τ,·,i,(ti),y
 SPACE
@@ -555,7 +555,7 @@ l,i,y,(p)
 SPACE
 m,a,r,a,ƶ,α
 SPACE
-k,·,i,y,-,h,‥,m,_,(me),r
+k,·,i,𝓂,y,-,h,‥,m,_,(me),r
 SPACE
 $,·sh,_,d,·,_,⟓,y
 SPACE
@@ -667,7 +667,7 @@ h,_,m,·,w,o,α,:_,v,i,y,·,a,(ge),h
 SPACE
 α,∵,𝓂,l,-,n,oa,ʕ,:a,m,i,◆,y
 SPACE
-α,‥,𝓂,l,:,k,a,h,-,n,·,a,<,α
+α,‥,l,:,k,a,h,-,n,·,a,<,α
 SPACE
 h,_,$,·si,·,a,d,∵,h,(p)
 SPACE
@@ -750,7 +750,7 @@ w,_,y,·,o,<,α,m,∵,r
 SPACE
 v,·,o,(p),ʕ,_,z,(p)
 SPACE
-l,:,𝓂,n,_,ʕ,:_,r,ƶ,w,o
+l,:,n,_,𝓂,ʕ,:_,r,ƶ,w,o
 SPACE
 h,_,n,·,i,ц,·,a,(ti),v
 SPACE
@@ -942,7 +942,7 @@ m,⅃,w,o,τ
 SPACE
 α,i,y,$,·sh,‥,⅄,k.,:
 SPACE
-w,_,τ,·,_,𝓂,ʕ,_,z,:,v,i,(G),y
+w,_,τ,·,_,ʕ,_,z,:,v,i,(G),y
 SPACE
 α,a,v,i,⅃,y,k.,:
 SPACE
@@ -989,7 +989,7 @@ SPACE
 SPACE
 l,_,x,:_,σ,(me),w,o,τ
 SPACE
-τ,·,_,𝓂,x,_,τ,-,k,·,:,n,a,f,a,𝓂,y,w,.
+τ,·,_,x,_,τ,-,k,·,:,n,a,f,a,𝓂,y,w,.
 
 Ruth 2:13 in vtrad vtsef
 w,_,⌕,τ,·,o,⌕,α,m,∵,r
@@ -1284,7 +1284,7 @@ v,·,i,τ,·,i,◆,y
 SPACE
 k,·,i,<,y
 SPACE
-τ,‥,𝓂,ц,:,α,i,y,(p)
+τ,‥,ц,:,α,i,y,(p)
 SPACE
 ʕ,i,m.,-,n,_,⅃,ʕ,:_,r,w,o,τ,a,ƶ,y,w
 SPACE
@@ -1311,7 +1311,7 @@ q,:,ц,i,𝓂,y,r,-,h,_,$,·si,·,:,ʕ,o,r,i,(ti),y,m.
 SPACE
 w,·,q,:,ц,i,⅃,y,r
 SPACE
-h,_,𝓂,x,i,θ,·,i,⅄,y,m.
+h,_,x,i,θ,·,i,⅄,y,m.
 SPACE
 w,_,τ,·,‥,(ti),$,·sh,∵,v
 SPACE
@@ -1463,7 +1463,7 @@ START span class=mam-kq-q
 LEFT SQUARE BRACKET,α,‥,l,_,(ti),y,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 SPACE
-α,∵,𝓂,ʕ,:∵,$,·si,∵,𝓂,h,.
+α,∵,ʕ,:∵,$,·si,∵,𝓂,h,.
 
 Ruth 3:6 in vtrad vtsef
 w,_,τ,·,‥,(ti),r,∵,d
@@ -1679,7 +1679,9 @@ SPACE
 Ruth 3:14 in vtrad vtsef
 w,_,τ,·,i,$,·sh,:,k,·,_,<,v
 SPACE
+START span class=mam-kq-trivial
 m,_,r,:,g,·,:,l,w,o,τ,a,w,(p)
+STOP span class=mam-kq-trivial
 SPACE
 ʕ,_,d,-,h,_,v,·,o,ƶ,q,∵,r
 SPACE
@@ -2132,7 +2134,7 @@ $,·sh,‥,m.,-,h,_,m,·,‥,τ,(p)
 SPACE
 ʕ,_,l,-,n,_,⅃,x,:_,l,a,τ,ƶ,w,o
 SPACE
-w,:,l,o,α,-,y,i,k,·,a,r,‥,(da),τ
+w,:,l,o,𝓂,α,-,y,i,k,·,a,r,‥,(da),τ
 SPACE
 $,·sh,‥,m.,-,h,_,m,·,‥,⟓,τ
 SPACE
@@ -2386,7 +2388,7 @@ w,:,r,a,(ti),m.
 SPACE
 h,w,o,l,i,(me),y,d
 SPACE
-α,∵,τ,-,ʕ,_,m,·,i,𝓂,y,n,a,d,a,𝓂,v,.
+α,∵,τ,-,ʕ,_,m,·,i,y,n,a,d,a,𝓂,v,.
 
 Ruth 4:20 in vtrad vtsef
 w,:,ʕ,_,m,·,i,𝓂,y,n,a,d,a,v,(p)
