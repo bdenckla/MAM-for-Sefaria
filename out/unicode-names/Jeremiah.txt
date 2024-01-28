@@ -76,7 +76,7 @@ y,:,r,w,·,$,·sh,a,l,_,(ti),CGJ,i,m.
 SPACE
 v,·,_,x,o,(me),d,∵,$,·sh
 SPACE
-h,_,𝓂,x,:_,m,i,y,$,·sh,i,𝓂,y,.
+h,_,x,:_,m,i,y,$,·sh,i,𝓂,y,.
 NO-BREAK SPACE
 START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
@@ -1611,7 +1611,7 @@ SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
 
 Jeremiah 3:2 in vtrad vtsef
-$,·si,:,α,i,𝓂,y,-,ʕ,‥,y,n,_,(qa),y,i,k.,:
+$,·si,:,α,i,y,-,ʕ,‥,y,n,_,(qa),y,i,k.,:
 SPACE
 ʕ,_,l,-,$,·sh,:,f,a,y,i,(ge),m.
 SPACE
@@ -5413,7 +5413,7 @@ y,:,h,w,·,d,a,⅄,h
 SPACE
 w,·,v,:,x,u,ц,(ti),w,o,τ
 SPACE
-y,:,r,𝓂,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
+y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
 Jeremiah 7:18 in vtrad vtsef
 h,_,v,·,a,n,i,(G),y,m.
@@ -5800,7 +5800,7 @@ SPACE
 Jeremiah 7:30 in vtrad vtsef
 k,·,i,y,-,ʕ,a,$,·si,(qa),w,·
 SPACE
-v,:,n,‥,𝓂,y,-,y,:,h,w,·,d,a,(me),h
+v,:,n,‥,y,-,y,:,h,w,·,d,a,(me),h
 SPACE
 h,a,r,_,⟓,ʕ
 SPACE
@@ -5920,7 +5920,7 @@ START b
 |
 STOP b
 SPACE
-m,‥,𝓂,ʕ,a,r,‥,⅃,y
+m,‥,ʕ,a,r,‥,⅃,y
 SPACE
 y,:,h,w,·,d,a,◆,h
 SPACE
@@ -5948,7 +5948,7 @@ k,·,i,(me),y
 SPACE
 l,:,x,oa,r,:,v,·,a,(ti),h
 SPACE
-τ,·,i,𝓂,h,:,y,∵,(me),h
+τ,·,i,h,:,y,∵,(me),h
 SPACE
 h,a,α,a,𝓂,r,∵,ц.,.
 
@@ -5971,7 +5971,7 @@ STOP span class=mam-kq
 SPACE
 α,∵,τ,-,ʕ,_,ц,:,m,⅃,w,o,τ
 SPACE
-m,_,l,:,k,‥,𝓂,y,-,y,:,h,w,·,d,a,⅃,h
+m,_,l,:,k,‥,y,-,y,:,h,w,·,d,a,⅃,h
 SPACE
 w,:,α,∵,τ,-,ʕ,_,ц,:,m,w,o,τ,-,$,·si,a,r,a,y,w,(tq)
 SPACE
@@ -6298,7 +6298,9 @@ m,i,q,·,a,θ,o,n.,(p)
 SPACE
 w,:,ʕ,_,d,-,g,·,a,d,ƶ,w,o,l
 SPACE
+START span class=mam-kq-trivial
 k,·,u,l,·,o,(ti),h
+STOP span class=mam-kq-trivial
 SPACE
 v,·,o,ц,‥,⅃,ʕ,_
 SPACE
@@ -6694,7 +6696,7 @@ SPACE
 SPACE
 w,:,α,‥,l,:,k,a,(ti),h
 SPACE
-m,‥,𝓂,α,i,τ,·,a,⅄,m.
+m,‥,α,i,τ,·,a,⅄,m.
 SPACE
 k,·,i,<,y
 SPACE
@@ -6873,7 +6875,7 @@ SPACE
 α,oa,r,:,v,·,𝓂,w,o,.
 
 Jeremiah 9:8 in vtrad vtsef
-h,_,𝓂,ʕ,_,l,-,α,‥,(me),l,·,∵,h
+h,_,ʕ,_,l,-,α,‥,(me),l,·,∵,h
 SPACE
 l,o,α,-,α,∵,f,:,q,oa,d,-,v,·,a,(ti),m.
 SPACE
@@ -7255,7 +7257,7 @@ SPACE
 SPACE
 m,i,x,ƶ,w,·,ц.
 SPACE
-v,·,_,𝓂,x,w,·,r,i,(ti),y,m.
+v,·,_,x,w,·,r,i,(ti),y,m.
 SPACE
 m,‥,r,:,x,o,v,𝓂,w,o,τ,.
 
@@ -7320,7 +7322,7 @@ w,:,α,_,l,-,y,i,τ,:,h,_,l,·,‥,(me),l
 SPACE
 h,_,g,·,i,v,·,(ti),w,o,r
 SPACE
-v,·,i,g,:,v,𝓂,w,·,r,a,τ,⅄,w,o
+v,·,i,g,:,v,w,·,r,a,τ,⅄,w,o
 SPACE
 α,_,l,-,y,i,τ,:,h,_,l,·,‥,(me),l
 SPACE
@@ -7670,7 +7672,7 @@ SPACE
 SPACE
 h,a,α,a,ƶ,r,∵,ц.
 SPACE
-w,:,l,o,𝓂,α,-,y,a,k,i,(me),l,w,·
+w,:,l,o,α,-,y,a,k,i,(me),l,w,·
 SPACE
 g,w,o,y,i,(ti),m.
 SPACE
@@ -8099,7 +8101,7 @@ k,·,i,𝓂,y,-,α,a,k,:,l,⅃,w,·
 SPACE
 α,∵,𝓂,τ,-,y,_,ʕ,:_,q,o,◆,v
 SPACE
-w,_,𝓂,α,:_,k,a,l,u,(p),h,w,·,(p)
+w,_,α,:_,k,a,l,u,(p),h,w,·,(p)
 SPACE
 w,_,y,:,k,_,l,·,u,ƶ,h,w,·
 SPACE
@@ -8417,7 +8419,7 @@ w,:,h,‥,⅃,m,·,a,h
 SPACE
 h,a,l,:,k,◆,w,·
 SPACE
-α,_,𝓂,x,:_,r,‥,⟓,y
+α,_,x,:_,r,‥,⟓,y
 SPACE
 α,:∵,l,o,h,i,(me),y,m.
 SPACE
@@ -9800,7 +9802,7 @@ w,:,α,‥,⟓,τ
 SPACE
 k,·,oa,l,-,y,o,$,·sh,:,v,‥,(me),y
 SPACE
-y,:,r,𝓂,w,·,$,·sh,a,l,a,(ti),CGJ,i,m.
+y,:,r,w,·,$,·sh,a,l,a,(ti),CGJ,i,m.
 SPACE
 $,·sh,i,k,·,a,r,𝓂,w,o,n.,.
 
@@ -10218,7 +10220,7 @@ START small
 STOP small
 w,:,x,_,(me),τ
 SPACE
-y,:,r,𝓂,w,·,$,·sh,a,l,_,(ti),CGJ,i,m.
+y,:,r,w,·,$,·sh,a,l,_,(ti),CGJ,i,m.
 SPACE
 ʕ,a,l,a,𝓂,τ,a,h,.
 
@@ -11312,7 +11314,7 @@ SPACE
 w,·,n,:,x,o,𝓂,$,·sh,∵,τ,.
 
 Jeremiah 15:13 in vtrad vtsef
-x,‥,𝓂,y,l,:,k.,a,(da)
+x,‥,y,l,:,k.,a,(da)
 SPACE
 w,:,α,w,o,ц,:,r,w,o,τ,∵,⟓,y,k.,a
 SPACE
@@ -11938,7 +11940,7 @@ SPACE
 α,:∵,l,o,h,‥,𝓂,y,n,w,·,.
 
 Jeremiah 16:11 in vtrad vtsef
-w,:,α,a,𝓂,m,_,r,:,τ,·,a,⅃
+w,:,α,a,m,_,r,:,τ,·,a,⅃
 SPACE
 α,:_,l,‥,y,h,∵,◆,m.
 SPACE
@@ -13052,7 +13054,7 @@ y,:,r,w,·,$,·sh,a,l,a,⅄,CGJ,i,m.
 SPACE
 w,:,y,a,$,·sh,:,v,a,(me),h
 SPACE
-h,a,𝓂,ʕ,i,y,r,-,h,_,z,·,o,(ti),α,τ
+h,a,ʕ,i,y,r,-,h,_,z,·,o,(ti),α,τ
 SPACE
 l,:,ʕ,w,o,l,a,𝓂,m.,.
 
@@ -13635,7 +13637,7 @@ w,:,n,_,x,:,$,·sh,:,v,a,(me),h
 SPACE
 ʕ,_,𝓂,l,-,y,i,r,:,m,:,y,a,≁,h,w,·,~
 SPACE
-m,_,𝓂,x,:_,$,·sh,a,v,w,o,τ,∴
+m,_,x,:_,$,·sh,a,v,w,o,τ,∴
 SPACE
 k,·,i,y,(tq)
 SPACE
@@ -14112,7 +14114,7 @@ SPACE
 ʕ,_,l,-,k,·,oa,l,-,m,_,k,·,o,τ,∵,𝓂,h,a,.
 
 Jeremiah 19:9 in vtrad vtsef
-w,:,h,_,𝓂,α,:_,k,_,l,:,τ,·,i,(G),y,m.
+w,:,h,_,α,:_,k,_,l,:,τ,·,i,(G),y,m.
 SPACE
 α,∵,τ,-,v,·,:,$,·si,_,⅃,r
 SPACE
@@ -14716,7 +14718,7 @@ SPACE
 SPACE
 ʕ,_,l,-,k,·,‥,⟓,n.
 SPACE
-r,o,𝓂,d,:,f,_,(me),y
+r,o,d,:,f,_,(me),y
 SPACE
 y,i,k,·,a,$,·sh,:,l,(ti),w,·
 SPACE
@@ -29139,7 +29141,7 @@ SPACE
 SPACE
 h,_,v,·,(ti),w,o,r
 SPACE
-w,:,α,∵,l,-,h,_,x,:_,n,u,⅄,y,w,o,τ
+w,:,α,∵,l,-,h,_,x,:_,n,u,y,⅄,w,o,τ
 SPACE
 w,_,y,·,‥,$,·sh,∵,v,-,$,·sh,a,(me),m.
 SPACE
