@@ -96,9 +96,7 @@ w,:,α,‥,⅃,$,·sh
 SPACE
 m,i,τ,:,l,_,q,·,_,ƶ,x,_,τ
 SPACE
-w,:,n,o,(me),g,_,𝓂,h,·
-SPACE
-l,(ti),w,o
+w,:,n,o,(me),g,_,𝓂,h,·,-,l,(ti),w,o
 SPACE
 σ,a,v,i,⅄,y,v
 SPACE
@@ -541,7 +539,7 @@ m,i,l,:,m,a,𝓂,ʕ,:,l,a,h,.
 Ezekiel 1:23 in vtrad vtsef
 w,:,τ,_,(p),x,_,τ,(p)
 SPACE
-h,a,𝓂,r,a,q,i,ƶ,y,ʕ,_
+h,a,r,a,q,i,ƶ,y,ʕ,_
 SPACE
 k,·,_,n,:,f,‥,y,h,∵,⅃,m.
 SPACE
@@ -1591,7 +1589,9 @@ w,:,l,o,⅃,α
 SPACE
 τ,i,z,·,a,k,_,◆,r,:,n.,a
 SPACE
+START span class=mam-kq-trivial
 ц,i,d,:,q,o,τ,a,w,(p)
+STOP span class=mam-kq-trivial
 SPACE
 α,:_,$,·sh,∵,⅃,r
 SPACE
@@ -1869,7 +1869,7 @@ w,:,α,_,τ,·,a,<,h
 SPACE
 q,_,x,-,l,:,k.,a,(p)
 SPACE
-m,_,𝓂,x,:_,v,_,⅃,τ
+m,_,x,:_,v,_,⅃,τ
 SPACE
 v,·,_,r,:,z,∵,ƶ,l
 SPACE
@@ -2272,9 +2272,9 @@ h,_,v,·,a,q,a,ƶ,r
 SPACE
 τ,·,_,(ti),x,_,τ
 SPACE
-g,·,∵,𝓂,l,:,l,‥,⅃,y
+g,·,∵,l,:,l,‥,⅃,y
 SPACE
-h,a,𝓂,α,a,d,a,⅄,m.
+h,a,α,a,d,a,⅄,m.
 SPACE
 w,:,ʕ,a,$,·si,i,(me),y,τ,a
 SPACE
@@ -3561,7 +3561,7 @@ SPACE
 h,_,z,·,a,d,𝓂,w,o,n.,.
 
 Ezekiel 7:11 in vtrad vtsef
-h,∵,𝓂,x,a,m,a,(me),σ,THIN SPACE
+h,∵,x,a,m,a,(me),σ,THIN SPACE
 START small
 |
 STOP small
@@ -5613,7 +5613,7 @@ h,_,$,·sh,·,_,ƶ,ʕ,_,r
 SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
-w,_,𝓂,x,:_,m,i,$,·sh,·,a,(ti),h
+w,_,x,:_,m,i,$,·sh,·,a,(ti),h
 SPACE
 α,i,⅄,y,$,·sh
 SPACE
@@ -6590,7 +6590,7 @@ y,_,◆,ʕ,_,n.
 SPACE
 α,:_,$,·sh,∵,(qa),r
 SPACE
-l,o,𝓂,α,-,y,i,r,:,α,∵,(me),h
+l,o,α,-,y,i,r,:,α,∵,(me),h
 SPACE
 l,_,ʕ,_,⟓,y,i,n.
 SPACE
@@ -6632,7 +6632,7 @@ w,:,k,o,l,(tq)
 SPACE
 α,:_,$,·sh,∵,(qa),r
 SPACE
-σ,:,v,i,𝓂,y,v,o,τ,a,(me),y,w
+σ,:,v,i,y,v,o,τ,a,(me),y,w
 SPACE
 START span class=mam-kq-trivial
 ʕ,∵,z,:,r,o,⟓,h
@@ -7454,7 +7454,7 @@ h,_,𝓂,n,·,i,v,·,:,α,i,y,m.,(p)
 SPACE
 α,∵,l,-,y,:,r,⅃,w,·,$,·sh,a,l,_,ƶ,CGJ,i,m.
 SPACE
-w,:,h,_,𝓂,x,o,z,i,(me),y,m.
+w,:,h,_,x,o,z,i,(me),y,m.
 SPACE
 l,a,(ti),h,·
 SPACE
@@ -8983,7 +8983,7 @@ w,a,(me),α,∵,τ,·,‥,𝓂,n.,-,n,∵,(p),z,∵,m.,(p)
 SPACE
 ʕ,_,l,-,α,_,f,·,‥,ƶ,k.,:
 SPACE
-w,_,𝓂,ʕ,:_,g,i,y,l,i,(ti),y,m.
+w,_,ʕ,:_,g,i,y,l,i,(ti),y,m.
 SPACE
 ʕ,_,l,-,α,oa,z,:,n,a,⅄,y,i,k.,:
 SPACE
@@ -9993,7 +9993,7 @@ h,∵,x,:∵,z,i,𝓂,y,q,a,h,.
 Ezekiel 16:50 in vtrad vtsef
 w,_,𝓂,τ,·,i,g,:,v,·,:,h,∵,ƶ,y,n,a,h
 SPACE
-w,_,τ,·,_,𝓂,ʕ,:_,$,·si,∵,(me),y,n,a,h
+w,_,τ,·,_,ʕ,:_,$,·si,∵,(me),y,n,a,h
 SPACE
 τ,w,o,ʕ,‥,v,a,(ti),h
 SPACE
@@ -11644,7 +11644,7 @@ SPACE
 SPACE
 v,·,‥,(G),n.
 SPACE
-l,o,𝓂,α,-,y,i,$,·si,·,a,⅃,α,THIN SPACE
+l,o,α,-,y,i,$,·si,·,a,⅃,α,THIN SPACE
 START b
 |
 STOP b
@@ -11706,7 +11706,10 @@ k,·,i,<,y
 SPACE
 y,a,$,·sh,w,·,v,(p)
 SPACE
-m,i,k,·,oa,l,-,x,_,θ,·,o,α,τ,a,w,(p)
+m,i,k,·,oa,l,-
+START span class=mam-kq-trivial
+x,_,θ,·,o,α,τ,a,w,(p)
+STOP span class=mam-kq-trivial
 SPACE
 α,:_,$,·sh,∵,⅃,r
 SPACE
@@ -11807,7 +11810,10 @@ y,_,ʕ,:_,$,·si,∵,(ti),h
 SPACE
 w,a,x,a,⅄,y
 SPACE
-k,·,oa,l,-,ц,i,d,:,q,o,τ,a,<,w
+k,·,oa,l,-
+START span class=mam-kq-trivial
+ц,i,d,:,q,o,τ,a,<,w
+STOP span class=mam-kq-trivial
 SPACE
 α,:_,$,·sh,∵,r,-,ʕ,a,$,·si,a,h,(p)
 SPACE
@@ -12532,7 +12538,7 @@ SPACE
 SPACE
 y,:,h,o,w,a,(me),h
 SPACE
-α,:∵,l,o,𝓂,h,‥,y,k,∵,𝓂,m.,.
+α,:∵,l,o,h,‥,y,k,∵,𝓂,m.,.
 
 Ezekiel 20:6 in vtrad vtsef
 v,·,_,y,·,⅃,w,o,m.
@@ -12978,7 +12984,7 @@ SPACE
 SPACE
 x,i,l,·,‥,⅄,l,w,·
 SPACE
-w,a,𝓂,α,o,m,_,(G),r
+w,a,α,o,m,_,(G),r
 SPACE
 l,i,$,·sh,:,f,·,o,(da),k.,:
 SPACE
@@ -13602,7 +13608,9 @@ k,·,oa,l,-,v,·,‥,(da),y,τ
 SPACE
 y,i,$,·si,:,r,a,α,‥,⟓,l
 SPACE
+START span class=mam-kq-trivial
 k,·,u,l,·,o,(ti),h
+STOP span class=mam-kq-trivial
 SPACE
 v,·,a,α,a,⅄,r,∵,ц.
 SPACE
@@ -14746,7 +14754,7 @@ m,_,$,·sh,:,x,i,𝓂,y,τ,.
 Ezekiel 21:37 in vtrad vtsef
 l,a,α,‥,<,$,·sh
 SPACE
-τ,·,i,h,:,y,∵,h,(p)
+τ,·,i,𝓂,h,:,y,∵,h,(p)
 SPACE
 l,:,α,oa,k,:,l,a,ƶ,h
 SPACE
@@ -15865,7 +15873,7 @@ v,·,:,r,a,⅃,α,$,·sh,‥,y,h,∵,ƶ,m.
 SPACE
 m,_,r,:,α,‥,(me),h
 SPACE
-$,·sh,a,𝓂,l,i,$,·sh,i,(ti),y,m.
+$,·sh,a,l,i,$,·sh,i,(ti),y,m.
 SPACE
 k,·,u,l,·,a,⅄,m.
 SPACE
@@ -16814,7 +16822,7 @@ SPACE
 SPACE
 w,_,x,:_,θ,a,α,‥,(me),y
 SPACE
-g,i,l,·,𝓂,w,·,l,‥,y,k,∵,(ti),n.
+g,i,l,·,w,·,l,‥,y,k,∵,(ti),n.
 SPACE
 τ,·,i,$,·si,·,∵,⅄,α,y,n,a,h
 SPACE
@@ -17152,7 +17160,7 @@ Ezekiel 24:12 in vtrad vtsef
 SPACE
 h,∵,l,:,α,a,⅄,τ
 SPACE
-w,:,l,o,𝓂,α,-,τ,‥,ц,‥,<,α
+w,:,l,o,α,-,τ,‥,ц,‥,<,α
 SPACE
 m,i,m,·,∵,(p),n,·,a,h,(p)
 SPACE
@@ -18836,7 +18844,10 @@ v,·,_,τ,-,α,:_,$,·sh,u,r,i,ƶ,y,m.
 SPACE
 m,‥,α,i,y,·,‥,(ti),y
 SPACE
-k,·,i,τ,·,i,y,·,i,𝓂,m.,.
+START span class=mam-kq-trivial
+k,·,i,τ,·,i,y,·,i,𝓂,m.
+STOP span class=mam-kq-trivial
+.
 
 Ezekiel 27:7 in vtrad vtsef
 $,·sh,‥,$,·sh,-,v,·,:,r,i,q,:,m,a,<,h
@@ -19076,7 +19087,7 @@ SPACE
 SPACE
 m,‥,r,o,⅃,v
 SPACE
-m,_,𝓂,ʕ,:_,$,·si,a,⅄,y,i,k.,:
+m,_,ʕ,:_,$,·si,a,⅄,y,i,k.,:
 SPACE
 v,·,:,⌕,n,o,⌕,f,∵,k.,:
 SPACE
@@ -20097,7 +20108,7 @@ m,i,σ,·,a,v,i,⅄,y,v
 SPACE
 w,:,y,a,d,:,ʕ,(ti),w,·
 SPACE
-k,·,i,𝓂,y,-,α,:_,n,i,(me),y
+k,·,i,y,-,α,:_,n,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
 
@@ -21083,7 +21094,7 @@ v,·,:,m,i,ц,:,r,_,ƶ,y,i,m.
 SPACE
 w,:,n,i,$,·sh,:,v,·,:,r,(ti),w,·
 SPACE
-k,·,oa,l,-,ʕ,o,𝓂,z,:,r,∵,𝓂,y,h,a,.
+k,·,oa,l,-,ʕ,o,z,:,r,∵,𝓂,y,h,a,.
 
 Ezekiel 30:9 in vtrad vtsef
 v,·,_,y,·,⅃,w,o,m.
@@ -23386,7 +23397,7 @@ x,a,y,o,⅃,h
 SPACE
 y,i,𝓂,x,:,y,∵,ƶ,h
 SPACE
-w,:,h,𝓂,w,·,α,-,v,a,θ,_,(me),x
+w,:,h,w,·,α,-,v,a,θ,_,(me),x
 SPACE
 ʕ,_,l,-,ц,i,d,:,q,a,τ,(ti),w,o
 SPACE
@@ -23579,7 +23590,7 @@ $,·sh,a,n,a,◆,h
 SPACE
 v,·,a,ʕ,:_,$,·si,i,r,i,⟓,y
 SPACE
-v,·,_,𝓂,x,:_,m,i,$,·sh,·,a,(me),h
+v,·,_,x,:_,m,i,$,·sh,·,a,(me),h
 SPACE
 l,_,x,o,(ti),d,∵,$,·sh
 SPACE
@@ -24023,9 +24034,7 @@ SPACE
 SPACE
 l,a,r,o,ʕ,i,(ge),y,m.
 SPACE
-k,·,o,(me),h
-SPACE
-α,a,m,_,⅃,r,THIN SPACE
+k,·,o,h,-,α,a,m,_,⅃,r,THIN SPACE
 START b
 |
 STOP b
@@ -25219,7 +25228,7 @@ SPACE
 SPACE
 $,·sh,:,m,a,m,a,(qa),h
 SPACE
-τ,i,𝓂,h,:,y,∵,<,h
+τ,i,h,:,y,∵,<,h
 SPACE
 h,_,r,-,$,·si,‥,ʕ,i,y,r,(p)
 SPACE
@@ -25385,7 +25394,7 @@ m,i,σ,·,a,v,i,𝓂,y,v,.
 Ezekiel 36:5 in vtrad vtsef
 l,a,k,‥,◆,n.
 SPACE
-k,·,o,𝓂,h,-,α,a,m,_,r,~
+k,·,o,h,-,α,a,m,_,r,~
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -25559,7 +25568,9 @@ k,·,oa,l,-,v,·,‥,(me),y,τ
 SPACE
 y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
+START span class=mam-kq-trivial
 k,·,u,l,·,o,⅄,h
+STOP span class=mam-kq-trivial
 SPACE
 w,:,n,o,𝓂,$,·sh,:,v,w,·,(p)
 SPACE
@@ -27899,7 +27910,7 @@ h,_,$,·si,·,a,d,∵,◆,h
 SPACE
 w,:,k,oa,l,-,h,a,r,∵,(p),m,∵,$,·si,(p)
 SPACE
-h,a,𝓂,r,o,m,‥,⅃,$,·si
+h,a,r,o,m,‥,⅃,$,·si
 SPACE
 ʕ,_,l,-,h,a,α,:_,d,a,m,a,ƶ,h
 SPACE
@@ -28205,7 +28216,7 @@ d,·,i,v,·,_,𝓂,r,:,τ,·,i,y,.
 Ezekiel 39:9 in vtrad vtsef
 w,:,𝓂,y,a,ц,:,α,(G),w,·
 SPACE
-y,o,𝓂,$,·sh,:,v,‥,⅃,y,THIN SPACE
+y,o,$,·sh,:,v,‥,⅃,y,THIN SPACE
 START b
 |
 STOP b
@@ -28391,7 +28402,7 @@ v,·,a,α,a,ƶ,r,∵,ц.
 SPACE
 m,:,q,_,v,·,:,r,i,⅃,y,m.
 SPACE
-α,∵,τ,-,h,a,ʕ,o,𝓂,v,:,r,i,◆,y,m.
+α,∵,τ,-,h,a,ʕ,o,v,:,r,i,◆,y,m.
 SPACE
 α,∵,τ,-,h,_,n,·,w,o,τ,a,r,i,⟓,y,m.
 SPACE
@@ -28649,7 +28660,7 @@ SPACE
 SPACE
 m,a,ʕ,:_,l,w,·,-,v,i,ƶ,y
 SPACE
-w,a,𝓂,α,_,σ,:,τ,·,i,(me),r
+w,a,α,_,σ,:,τ,·,i,(me),r
 SPACE
 f,·,a,n,_,(ti),y
 SPACE
@@ -29609,7 +29620,9 @@ w,·,m,_,ʕ,:_,l,<,w,o,τ
 SPACE
 $,·sh,i,v,:,ʕ,a,h,(p)
 SPACE
+START span class=mam-kq-trivial
 ʕ,o,𝓂,l,w,o,τ,a,ƶ,w
+STOP span class=mam-kq-trivial
 SPACE
 w,:,α,‥,l,_,m,·,a,(ti),w
 SPACE
@@ -29750,7 +29763,10 @@ w,·,m,_,ʕ,:_,l,(me),w,o,τ
 SPACE
 $,·sh,:,m,w,o,n,∵,(ti),h
 SPACE
-m,_,ʕ,:_,l,a,𝓂,w,.
+START span class=mam-kq-trivial
+m,_,ʕ,:_,l,a,𝓂,w
+STOP span class=mam-kq-trivial
+.
 
 Ezekiel 40:32 in vtrad vtsef
 w,_,y,:,v,i,y,α,‥,⟓,n,i,y
@@ -30737,7 +30753,7 @@ w,:,h,_,x,_,l,·,w,o,n,i,⅃,y,m.
 SPACE
 h,a,⌕,α,:_,θ,u,m,⌕,w,o,τ
 SPACE
-w,:,h,a,𝓂,α,_,τ,·,i,y,q,i,<,y,m.,THIN SPACE
+w,:,h,a,α,_,τ,·,i,y,q,i,<,y,m.,THIN SPACE
 START small
 |
 STOP small
@@ -30925,7 +30941,7 @@ l,_,d,·,:,l,a,τ,⅄,w,o,τ
 SPACE
 $,·sh,:,(ye),τ,·,_,y,i,m.
 SPACE
-m,𝓂,w,·,σ,_,v,·,⅃,w,o,τ
+m,w,·,σ,_,v,·,⅃,w,o,τ
 SPACE
 d,·,:,l,a,τ,ƶ,w,o,τ
 SPACE
@@ -32441,7 +32457,7 @@ n,a,(me),$,·si,i,y,α
 SPACE
 h,⟓,w,·,α
 SPACE
-y,‥,𝓂,$,·sh,∵,v,-,v,·,(me),w,o
+y,‥,$,·sh,∵,v,-,v,·,(me),w,o
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
@@ -32473,7 +32489,7 @@ y,‥,ц,‥,𝓂,α,.
 Ezekiel 44:4 in vtrad vtsef
 w,_,y,:,v,i,y,α,‥,(ge),n,i,y
 SPACE
-d,·,∵,𝓂,r,∵,k.,:,-,$,·sh,_,⅃,ʕ,_,r
+d,·,∵,r,∵,k.,:,-,$,·sh,_,⅃,ʕ,_,r
 SPACE
 h,_,ц,·,a,f,w,o,n.,~
 SPACE
@@ -32532,7 +32548,10 @@ l,:,k,oa,l,-,x,u,q,·,(me),w,o,τ
 SPACE
 v,·,‥,y,τ,-,y,:,h,o,w,a,(ti),h
 SPACE
-w,·,l,:,k,oa,l,-,τ,·,w,o,r,o,τ,a,⅄,w
+w,·,l,:,k,oa,l,-
+START span class=mam-kq-trivial
+τ,·,w,o,r,o,τ,a,⅄,w
+STOP span class=mam-kq-trivial
 SPACE
 w,:,$,·si,_,m,:,τ,·,a,<
 SPACE
@@ -33077,7 +33096,7 @@ w,·,v,‥,y,n.,-,θ,a,m,‥,(me),α
 SPACE
 l,:,θ,a,h,(ti),w,o,r
 SPACE
-y,𝓂,w,o,d,i,ʕ,u,𝓂,m.,.
+y,w,o,d,i,ʕ,u,𝓂,m.,.
 
 Ezekiel 44:24 in vtrad vtsef
 w,:,ʕ,_,l,-,r,i,◆,y,v
@@ -33642,7 +33661,7 @@ h,_,x,o,(ti),m,∵,r
 SPACE
 h,_,v,·,a,⅄,τ
 SPACE
-w,_,𝓂,ʕ,:_,$,·si,i,y,r,i,<,τ
+w,_,ʕ,:_,$,·si,i,y,r,i,<,τ
 SPACE
 h,_,x,o,(p),m,∵,r,(p)
 SPACE
@@ -33673,7 +33692,7 @@ $,·sh,:,q,a,l,i,◆,y,m.
 SPACE
 ʕ,:_,$,·si,a,r,a,<,h
 SPACE
-w,_,𝓂,x,:_,m,i,$,·sh,·,a,h,(p)
+w,_,x,:_,m,i,$,·sh,·,a,h,(p)
 SPACE
 $,·sh,∵,ƶ,q,∵,l
 SPACE
@@ -34013,7 +34032,7 @@ l,a,α,‥,y,f,a,𝓂,h,.
 Ezekiel 45:25 in vtrad vtsef
 v,·,_,$,·sh,·,:,v,i,y,ʕ,i,μ,y
 SPACE
-v,·,_,𝓂,x,:_,m,i,$,·sh,·,a,h,(tq)
+v,·,_,x,:_,m,i,$,·sh,·,a,h,(tq)
 SPACE
 ʕ,a,$,·si,a,(qa),r
 SPACE
@@ -34851,7 +34870,7 @@ l,_,m,·,i,z,:,v,·,‥,𝓂,x,_,.
 Ezekiel 47:2 in vtrad vtsef
 w,_,y,·,w,o,ц,i,α,‥,≁,n,i,y,~
 SPACE
-d,·,∵,𝓂,r,∵,k.,:,-,$,·sh,_,⅃,ʕ,_,r
+d,·,∵,r,∵,k.,:,-,$,·sh,_,⅃,ʕ,_,r
 SPACE
 ц,a,f,∴,w,o,n,a,h,∴
 SPACE
@@ -35120,7 +35139,9 @@ SPACE
 m,:,α,o,𝓂,d,.
 
 Ezekiel 47:11 in vtrad vtsef
+START span class=mam-kq-trivial
 v,·,i,ц,·,o,α,τ,a,(da),w
+STOP span class=mam-kq-trivial
 SPACE
 w,·,g,:,v,a,α,a,⟓,y,w
 SPACE
@@ -35913,7 +35934,7 @@ h,_,n,·,w,o,τ,a,⅃,r
 SPACE
 v,·,a,r,o,◆,x,_,v
 SPACE
-ʕ,_,l,-,f,·,:,n,‥,(qa),y
+ʕ,_,l,-,f,·,:,n,‥,y,(p)
 SPACE
 x,:_,m,i,$,·sh,·,a,<,h
 SPACE
@@ -35933,7 +35954,10 @@ w,:,h,a,y,:,τ,a,(me),h
 SPACE
 h,a,ʕ,i,(ti),y,r
 SPACE
-v,·,:,τ,w,o,k,o,𝓂,h,.
+START span class=mam-kq-trivial
+v,·,:,τ,w,o,k,o,𝓂,h
+STOP span class=mam-kq-trivial
+.
 
 Ezekiel 48:16 in vtrad vtsef
 w,:,α,‥,≁,l,·,∵,h,~
