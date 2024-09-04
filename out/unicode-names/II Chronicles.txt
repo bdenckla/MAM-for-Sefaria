@@ -16312,7 +16312,15 @@ y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 l,‥,α,m,o,⅄,r
 SPACE
-l,:,k.,a,(ti)
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,l,k.,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+SPACE
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,l,:,k,a,(ti),h,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 n,i,τ,:,r,a,α,∵,(me),h
 SPACE
