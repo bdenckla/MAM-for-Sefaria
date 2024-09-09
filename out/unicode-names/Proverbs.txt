@@ -11832,7 +11832,9 @@ m,_,h,:_,l,a,l,𝓂,w,o,.
 
 Proverbs 27:22 in vtrad vtsef
 α,i,(me),m.
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 τ,·,i,k,:,τ,·,𝓂,w,o,$,·sh,-,α,∵,τ,-,h,a,α,:∵,w,i,(qa),y,l,THIN SPACE
 START b
 |
@@ -12974,7 +12976,9 @@ x,u,q,·,i,𝓂,y,.
 
 Proverbs 30:9 in vtrad vtsef
 f,·,∵,(me),n.
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 α,∵,$,·si,:,v,·,_,(qa),ʕ,THIN SPACE
 START b
 |
@@ -12985,7 +12989,9 @@ SPACE
 w,:,α,a,m,_,◆,r,:,τ,·,i,y
 SPACE
 m,i,(me),y
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 y,:,(ol),h,o,w,a,(me),h
 SPACE
 w,·,f,∵,𝓂,n.,-,α,i,w,·,a,r,‥,(me),$,·sh

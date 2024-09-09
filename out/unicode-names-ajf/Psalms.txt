@@ -1,8 +1,6 @@
 unicode_names Psalms
 Psalms 1:1 in vtrad vtbhs
-α,_,(me),$,·sh,:,𝓂,r,‥,y
-SPACE
-h,a,α,i,◆,y,$,·sh
+α,_,(me),$,·sh,:,𝓂,r,‥,y,-,h,a,α,i,◆,y,$,·sh
 SPACE
 α,:_,$,·sh,∵,<,r,|
 SPACE
@@ -33,9 +31,7 @@ y,a,$,·sh,a,𝓂,v,.
 Psalms 1:2 in vtrad vtbhs
 k,·,i,<,y
 SPACE
-α,i,(me),m.
-SPACE
-v,·,:,τ,w,o,r,_,(me),τ
+α,i,(me),m.,-,v,·,:,τ,w,o,r,_,(me),τ
 SPACE
 y,:,h,o,w,a,◆,h
 SPACE
@@ -199,9 +195,7 @@ SPACE
 SPACE
 y,:,𝓂,h,o,w,a,◆,h
 SPACE
-α,a,m,_,≁,r
-SPACE
-α,‥,l,_,(me),y
+α,a,m,_,≁,r,-,α,‥,l,_,(me),y
 SPACE
 v,·,:,n,i,(me),y
 SPACE
@@ -628,9 +622,7 @@ k,·,i,<,y,|
 SPACE
 l,o,<,α
 SPACE
-α,‥,𝓂,l,-,x,a,f,‥,≁,ц.
-SPACE
-r,∵,(me),$,·sh,_,ʕ,|,|,α,a,⅄,τ,·,a,h
+α,‥,𝓂,l,-,x,a,f,‥,≁,ц.,-,r,∵,(me),$,·sh,_,ʕ,|,|,α,a,⅄,τ,·,a,h
 SPACE
 l,o,(ti),α
 SPACE
@@ -2506,9 +2498,7 @@ SPACE
 m,_,x,:,σ,‥,𝓂,h,w,·,.
 
 Psalms 14:7 in vtrad vtbhs
-m,i,(me),y
-SPACE
-y,i,τ,·,‥,⅃,n.
+m,i,(me),y,-,y,i,τ,·,‥,⅃,n.
 SPACE
 m,i,ц,·,i,y,·,w,o,n.,~
 SPACE
@@ -2616,9 +2606,7 @@ w,:,$,·sh,o,(me),x,_,d
 SPACE
 ʕ,_,l,-,n,a,q,i,◆,y
 SPACE
-l,o,(me),α
-SPACE
-l,a,(ol),q,a,(me),x
+l,o,(me),α,-,l,a,(ol),q,a,(me),x
 SPACE
 ʕ,o,𝓂,$,·si,‥,h,-,α,‥,⅄,l,·,∵,h
 SPACE
@@ -5117,9 +5105,7 @@ SPACE
 h,_,k,·,a,v,𝓂,w,o,d,.
 
 Psalms 24:10 in vtrad vtbhs
-m,i,<,y
-SPACE
-h,⅃,w,·,α
+m,i,<,y,-,h,⅃,w,·,α
 SPACE
 z,∵,h,~
 SPACE
@@ -7780,9 +7766,7 @@ SPACE
 SPACE
 y,:,h,o,w,a,◆,h
 SPACE
-m,i,(me),y
-SPACE
-k,a,(ol),m,(me),w,o,k.,a
+m,i,(me),y,-,k,a,(ol),m,(me),w,o,k.,a
 SPACE
 m,_,ц,·,i,⅃,y,l
 SPACE
@@ -10027,9 +10011,7 @@ v,·,_,σ,·,a,k.,:,~
 SPACE
 α,∵,d,·,_,d,·,‥,◆,m.
 SPACE
-ʕ,_,d,-,v,·,‥,(me),y,τ
-SPACE
-α,:∵,l,o,(ol),h,i,(me),y,m.
+ʕ,_,d,-,v,·,‥,(me),y,τ,-,α,:∵,l,o,(ol),h,i,(me),y,m.
 SPACE
 v,·,:,q,w,o,l,-,r,i,n,·,a,(me),h
 SPACE
@@ -11705,9 +11687,7 @@ m,a,<,w,∵,τ
 SPACE
 y,i,(ol),r,:,ʕ,‥,(me),m.
 SPACE
-w,_,y,·,i,r,:,d,·,≁,w,·
-SPACE
-v,a,<,m.
+w,_,y,·,i,r,:,d,·,≁,w,·,-,v,a,<,m.
 SPACE
 y,:,$,·sh,a,r,i,(qa),y,m.,|
 SPACE
@@ -12731,9 +12711,7 @@ SPACE
 m,:,α,a,σ,a,𝓂,m.,.
 
 Psalms 53:7 in vtrad vtbhs
-m,i,(me),y
-SPACE
-y,i,τ,·,‥,⅃,n.
+m,i,(me),y,-,y,i,τ,·,‥,⅃,n.
 SPACE
 m,i,ц,·,i,y,·,w,o,n.,~
 SPACE
@@ -18129,9 +18107,7 @@ v,·,a,α,a,𝓂,r,∵,ц.,.
 Psalms 74:9 in vtrad vtbhs
 α,𝓂,w,o,τ,o,τ,‥,◆,y,n,w,·
 SPACE
-l,o,(me),α
-SPACE
-r,a,(ol),α,i,(me),y,n,w,·
+l,o,(me),α,-,r,a,(ol),α,i,(me),y,n,w,·
 SPACE
 α,‥,𝓂,y,n.,-,ʕ,(me),w,o,d
 SPACE
@@ -34627,9 +34603,7 @@ LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 SPACE
 
 Psalms 137:1 in vtrad vtbhs
-ʕ,_,(me),l
-SPACE
-n,_,h,:_,r,(qa),w,o,τ,|
+ʕ,_,(me),l,-,n,_,h,:_,r,(qa),w,o,τ,|
 SPACE
 v,·,a,v,∵,◆,l
 SPACE

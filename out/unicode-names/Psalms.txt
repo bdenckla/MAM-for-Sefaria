@@ -1,7 +1,9 @@
 unicode_names Psalms
 Psalms 1:1 in vtrad vtsef
 α,_,(me),$,·sh,:,𝓂,r,‥,y
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 h,a,α,i,◆,y,$,·sh
 SPACE
 α,:_,$,·sh,∵,<,r,THIN SPACE
@@ -37,7 +39,9 @@ Psalms 1:2 in vtrad vtsef
 k,·,i,<,y
 SPACE
 α,i,(me),m.
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 v,·,:,τ,w,o,r,_,(me),τ
 SPACE
 y,:,h,o,w,a,◆,h
@@ -222,7 +226,9 @@ SPACE
 y,:,𝓂,h,o,w,a,◆,h
 SPACE
 α,a,m,_,≁,r
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 α,‥,l,_,(me),y
 SPACE
 v,·,:,n,i,(me),y
@@ -679,7 +685,9 @@ SPACE
 l,o,<,α
 SPACE
 α,‥,𝓂,l,-,x,a,f,‥,≁,ц.
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 r,∵,(me),$,·sh,_,ʕ,THIN SPACE
 START small
 |
@@ -2738,7 +2746,9 @@ m,_,x,:,σ,‥,𝓂,h,w,·,.
 
 Psalms 14:7 in vtrad vtsef
 m,i,(me),y
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 y,i,τ,·,‥,⅃,n.
 SPACE
 m,i,ц,·,i,y,·,w,o,n.,~
@@ -2859,7 +2869,9 @@ SPACE
 ʕ,_,l,-,n,a,q,i,◆,y
 SPACE
 l,o,(me),α
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 l,a,(ol),q,a,(me),x
 SPACE
 ʕ,o,𝓂,$,·si,‥,h,-,α,‥,⅄,l,·,∵,h
@@ -5521,7 +5533,9 @@ h,_,k,·,a,v,𝓂,w,o,d,.
 
 Psalms 24:10 in vtrad vtsef
 m,i,<,y
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 h,⅃,w,·,α
 SPACE
 z,∵,h,~
@@ -8342,7 +8356,9 @@ SPACE
 y,:,h,o,w,a,◆,h
 SPACE
 m,i,(me),y
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 k,a,(ol),m,(me),w,o,k.,a
 SPACE
 m,_,ц,·,i,⅃,y,l
@@ -10763,7 +10779,9 @@ SPACE
 α,∵,d,·,_,d,·,‥,◆,m.
 SPACE
 ʕ,_,d,-,v,·,‥,(me),y,τ
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 α,:∵,l,o,(ol),h,i,(me),y,m.
 SPACE
 v,·,:,q,w,o,l,-,r,i,n,·,a,(me),h
@@ -12566,7 +12584,9 @@ SPACE
 y,i,(ol),r,:,ʕ,‥,(me),m.
 SPACE
 w,_,y,·,i,r,:,d,·,≁,w,·
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 v,a,<,m.
 SPACE
 y,:,$,·sh,a,r,i,(qa),y,m.,THIN SPACE
@@ -13651,7 +13671,9 @@ m,:,α,a,σ,a,𝓂,m.,.
 
 Psalms 53:7 in vtrad vtsef
 m,i,(me),y
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 y,i,τ,·,‥,⅃,n.
 SPACE
 m,i,ц,·,i,y,·,w,o,n.,~
@@ -19513,7 +19535,9 @@ Psalms 74:9 in vtrad vtsef
 α,𝓂,w,o,τ,o,τ,‥,◆,y,n,w,·
 SPACE
 l,o,(me),α
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 r,a,(ol),α,i,(me),y,n,w,·
 SPACE
 α,‥,𝓂,y,n.,-,ʕ,(me),w,o,d
@@ -36876,7 +36900,9 @@ START/STOP br
 
 Psalms 137:1 in vtrad vtsef
 ʕ,_,(me),l
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 n,_,h,:_,r,(qa),w,o,τ,THIN SPACE
 START b
 |

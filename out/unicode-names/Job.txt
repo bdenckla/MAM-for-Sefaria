@@ -5074,7 +5074,9 @@ SPACE
 
 Job 14:5 in vtrad vtsef
 α,i,(me),m.
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 x,:_,r,w,·,ц,i,(qa),y,m.,THIN SPACE
 START b
 |
@@ -10916,7 +10918,9 @@ SPACE
 
 Job 31:7 in vtrad vtsef
 α,i,(me),m.
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 τ,·,i,θ,·,∵,⅃,h
 SPACE
 α,_,$,·sh,·,u,r,i,y,~
