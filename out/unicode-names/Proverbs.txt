@@ -2051,7 +2051,9 @@ SPACE
 w,:,𝓂,h,i,n,·,a,ц,‥,◆,l
 SPACE
 k,·,i,≁,y
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 v,a,<,α,τ,a
 SPACE
 v,:,k,_,f.,-,r,‥,ʕ,∵,⅄,k.,a
@@ -3423,7 +3425,9 @@ w,:,α,_,l,-,τ,·,i,f,:,r,a,𝓂,ʕ,w,·,.
 
 Proverbs 8:34 in vtrad vtsef
 α,_,(me),$,·sh,:,𝓂,r,‥,y
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 α,a,d,a,m.,~
 SPACE
 $,·sh,o,m,‥,(ah),ʕ,_,𝓂,(ol)
@@ -9562,7 +9566,9 @@ START span class=mam-kq-q
 LEFT SQUARE BRACKET,h,:_,τ,a,<,ʕ,i,y,f.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 ʕ,‥,y,n,∵,(me),y,k.,a
 SPACE
 v,·,◆,w,o

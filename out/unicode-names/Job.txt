@@ -4511,7 +4511,9 @@ SPACE
 w,i,γ,y,$,·sh,_,l,·,:,x,‥,◆,m.
 SPACE
 w,:,y,_,(ti),h,_,f,:,k,w,·
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 α,a,𝓂,r,∵,ц.,.
 
 Job 12:16 in vtrad vtsef
@@ -6647,7 +6649,9 @@ y,:,n,i,d,·,u,𝓂,h,w,·,.
 
 Job 18:19 in vtrad vtsef
 l,o,≁,α
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 n,i,<,y,n.
 SPACE
 l,⅃,w,o
@@ -11539,7 +11543,9 @@ SPACE
 α,:∵,l,i,y,h,◆,w,·,α
 SPACE
 k,·,i,≁,y
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 α,‥,<,y,n.
 SPACE
 m,_,ʕ,:_,n,∵,◆,h
@@ -12847,7 +12853,9 @@ v,·,:,α,_,n,:,$,·sh,‥,y,-,α,a,𝓂,w,∵,n.,.
 
 Job 34:37 in vtrad vtsef
 k,·,i,(me),y
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 y,o,≁,σ,i,<,y,f.
 SPACE
 ʕ,_,𝓂,l,-,x,_,θ,·,a,α,τ,⅃,w,o
@@ -13801,7 +13809,9 @@ START b
 STOP b
 SPACE
 l,o,≁,α
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 r,a,<,α,w,·
 SPACE
 α,◆,w,o,r
