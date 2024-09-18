@@ -5220,7 +5220,9 @@ SPACE
 α,_,f,·,∵,⅄,k.,a
 SPACE
 τ,·,a,<,$,·sh,i,𝓂,y,τ
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 l,i,(ti),y
 SPACE
 x,o,⅃,q
@@ -8865,7 +8867,9 @@ START b
 STOP b
 SPACE
 $,·sh,a,<,m,:,r,a,𝓂,h
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 n,∵,⅃,$,·sh,∵,f.
 SPACE
 l,‥,(de),α,m,o,r

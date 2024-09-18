@@ -12309,7 +12309,9 @@ y,i,f,:,$,·sh,_,ʕ,-,g,·,a,𝓂,v,∵,r,.
 
 Proverbs 28:22 in vtrad vtsef
 n,i,(me),v,:,h,a,𝓂,l
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 l,_,h,◆,w,o,n.
 SPACE
 α,i,(de),y,$,·sh
@@ -12605,7 +12607,9 @@ SPACE
 n,i,f,:,g,·,a,⅄,$,·sh,w,·
 SPACE
 m,‥,<,α,i,y,r
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 ʕ,‥,y,n,‥,(ti),y
 SPACE
 $,·sh,:,n,‥,y,h,∵,⅃,m.
