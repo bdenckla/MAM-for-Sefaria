@@ -2490,13 +2490,13 @@ SPACE
 w,:,α,_,(mun),τ,·,:
 SPACE
 START span class=mam-kq
-START span class=mam-kq-q
-LEFT SQUARE BRACKET,w,·,v,a,n,_,(zaq_q),y,i,k.,:,RIGHT SQUARE BRACKET
-STOP span class=mam-kq-q
-SPACE
 START span class=mam-kq-k
 LEFT PARENTHESIS,v,n,y,k,y,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
+SPACE
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,w,·,v,a,n,_,(zaq_q),y,i,k.,:,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
 τ,·,i,(mos),x,:,y,i,(tip),y
