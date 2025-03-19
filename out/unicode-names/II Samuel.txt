@@ -10003,8 +10003,11 @@ m,‥,(atn),τ,w,·
 SPACE
 k,·,i,(mos),y,-
 START span class=mam-kq-k
-LEFT PARENTHESIS,α,m.,RIGHT PARENTHESIS,-
+LEFT PARENTHESIS,α,m.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
+START span class=k-velo-q-maq
+-
+STOP span class=k-velo-q-maq
 α,_,m,:,n,(mer),w,o,n.
 SPACE
 l,:,v,_,d,·,(tip),w,o
