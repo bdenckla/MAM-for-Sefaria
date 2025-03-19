@@ -4387,16 +4387,6 @@ SPACE
 l,:,h,_,$,·sh,:,m,i,y,d,(tel_q)
 SPACE
 w,:,l,_,h,:_,r,o,(qom),g
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,v,m,g,y,l,w,τ
-SPACE
-α,$,k,n,z
-SPACE
-l,_,h,:_,r,o,(qom),g,RIGHT PARENTHESIS
-STOP i class=footnote
 SPACE
 w,·,l,:,α,_,v,·,‥,(ger),d
 SPACE
@@ -4708,16 +4698,6 @@ SPACE
 l,o,α,-,ʕ,a,m,_,(mun),d
 SPACE
 l,i,f,:,n,‥,y,h,∵,(zaq_q),m.
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,v,m,g,y,l,w,τ
-SPACE
-α,$,k,n,z
-SPACE
-v,·,i,f,:,n,‥,y,h,∵,(zaq_q),m.,RIGHT PARENTHESIS
-STOP i class=footnote
 SPACE
 k,·,i,(mos),y,-,n,a,f,_,(mer),l
 SPACE
@@ -4941,24 +4921,6 @@ START small
 |
 STOP small
 THIN SPACE,α,:_,r,i,d,_,(tip),y
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,v,σ,f,r,y,m.
-SPACE
-α,x,r,y,m.
-SPACE
-α,:_,r,i,y,d,_,(tip),y
-SPACE
-w,k,k.
-SPACE
-k,τ,w,v
-SPACE
-v,m,g,y,l,w,τ
-SPACE
-r,v,w,τ,RIGHT PARENTHESIS
-STOP i class=footnote
 NO-BREAK SPACE
 NO-BREAK SPACE
 NO-BREAK SPACE

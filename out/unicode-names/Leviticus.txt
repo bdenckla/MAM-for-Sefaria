@@ -3103,20 +3103,6 @@ START small
 m
 STOP small
 w,o,q,:,d,a,(qom),h,‾
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,v,σ,f,r,y
-SPACE
-τ,y,m,n.
-SPACE
-m,w,o,q,:,d,a,(qom),h,‾
-SPACE
-v,m,HPU GERSHAYIM,m.
-SPACE
-r,g,y,l,h,RIGHT PARENTHESIS
-STOP i class=footnote
 SPACE
 ʕ,_,l,-,h,_,m,·,i,z,:,v,·,‥,(mah),x,_
 SPACE
@@ -4167,20 +4153,6 @@ START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
 START/STOP br
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,α,y,n.
-SPACE
-f,r,$,h
-SPACE
-v,σ,f,r,y
-SPACE
-σ,f,r,d
-SPACE
-w,α,$,k,n,z,RIGHT PARENTHESIS
-STOP i class=footnote
 
 Levit 7:22 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(mer),r
@@ -4292,18 +4264,6 @@ START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
 START/STOP br
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,α,y,n.
-SPACE
-f,r,$,h
-SPACE
-v,σ,f,r,y
-SPACE
-τ,y,m,n.,RIGHT PARENTHESIS
-STOP i class=footnote
 
 Levit 7:28 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(mer),r
@@ -14452,22 +14412,6 @@ SPACE
 ʕ,_,l,-,d,·,_,(mun),m.
 SPACE
 r,‥,ʕ,∵,(atn),k.,a
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,v,k,τ,r
-SPACE
-α,r,m.
-SPACE
-ц,w,v,h
-SPACE
-h,y,h
-SPACE
-k,τ,w,v
-SPACE
-r,‥,ʕ,∵,(atn),y,k.,a,RIGHT PARENTHESIS
-STOP i class=footnote
 SPACE
 α,:_,n,i,(tip),y
 SPACE

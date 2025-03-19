@@ -244,20 +244,7 @@ SPACE
 SPACE
 n,i,q,·,:,v,(tip),w,·
 SPACE
-v,·,:,$,·sh,‥,m,o,(mos),τ
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,v,σ,f,r,y
-SPACE
-σ,f,r,d
-SPACE
-w,α,$,k,n,z
-SPACE
-v,·,:,$,·sh,‥,m,(mos),w,o,τ,RIGHT PARENTHESIS
-STOP i class=footnote
-(sopa)
+v,·,:,$,·sh,‥,m,o,(mos),τ,(sopa)
 
 Numbers 1:18 in vtrad vtsef
 w,:,α,‥,(qom),τ
@@ -9444,18 +9431,6 @@ SPACE
 w,·,v,:,r,a,α,$,·sh,‥,(mun),y
 SPACE
 x,oa,d,:,$,·sh,‥,y,k,∵,m.,(seg_a)
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,v,σ,f,r,y
-SPACE
-σ,f,r,d
-SPACE
-w,α,$,k,n,z
-SPACE
-x,oa,d,:,$,·sh,‥,k,∵,m.,(seg_a),RIGHT PARENTHESIS
-STOP i class=footnote
 SPACE
 w,·,τ,:,q,_,ʕ,:,τ,·,∵,(mun),m.
 SPACE
@@ -19184,18 +19159,6 @@ SPACE
 α,∵,l,-,v,·,i,l,:,ʕ,a,(mun),m.
 SPACE
 v,·,∵,n.,-,v,·,:,ʕ,o,(rev),r
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,v,σ,f,r,y
-SPACE
-σ,f,r,d
-SPACE
-w,α,$,k,n,z
-SPACE
-v,·,:,ʕ,(rev),w,o,r,RIGHT PARENTHESIS
-STOP i class=footnote
 SPACE
 f,·,:,(tel_g),τ,(tel_g),w,o,r,a,h
 SPACE
@@ -21765,30 +21728,6 @@ l,·,‥,α,m,o,(mos),r,(sopa)
 
 Numbers 25:11 in vtrad vtsef
 f,·,i,(mos),y,n,:,x,a,(qom),σ
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,v,σ,f,r,y
-SPACE
-σ,f,r,d
-SPACE
-w,α,$,k,n,z
-SPACE
-n,h,w,g
-SPACE
-l,k,τ,w,v
-SPACE
-f,·,i,(mos)
-START small
-y
-STOP small
-n,:,x,a,(qom),σ
-SPACE
-v,y,w,HPU GERSHAYIM,d
-SPACE
-z,ʕ,y,r,α,RIGHT PARENTHESIS
-STOP i class=footnote
 SPACE
 v,·,∵,n.,-,α,∵,l,:,ʕ,a,z,a,(ger),r
 SPACE
@@ -21829,22 +21768,7 @@ l,(tev),w,o
 SPACE
 α,∵,τ,-,v,·,:,r,i,y,τ,i,(tip),y
 SPACE
-$,·sh,a,l,(mos),w,o,m.
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,v,σ,f,r,y
-SPACE
-σ,f,r,d
-SPACE
-w,α,$,k,n,z
-SPACE
-w,y,HPU GERSHAYIM,w
-SPACE
-q,θ,y,ʕ,α,RIGHT PARENTHESIS
-STOP i class=footnote
-(sopa)
+$,·sh,a,l,(mos),w,o,m.,(sopa)
 
 Numbers 25:13 in vtrad vtsef
 w,:,h,a,(mah),y,:,τ,a,h

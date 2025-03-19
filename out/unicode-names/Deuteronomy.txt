@@ -9662,25 +9662,7 @@ k,·,i,y,m,‥,(mer),y
 SPACE
 h,_,$,·sh,·,a,m,_,(tip),y,i,m.
 SPACE
-ʕ,_,l,-,h,a,α,a,(mos),r,∵,ц.
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,v,σ,f,r,y
-SPACE
-τ,y,m,n.
-SPACE
-h,a,α,a,(mos),r,∵
-START big
-ц.
-STOP big
-SPACE
-v,ц,d,HPU GERSHAYIM,y
-SPACE
-g,d,w,l,h,RIGHT PARENTHESIS
-STOP i class=footnote
-(sopa)
+ʕ,_,l,-,h,a,α,a,(mos),r,∵,ц.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -17039,23 +17021,6 @@ k,·,i,(mun),y
 SPACE
 y,i,q,·,a,r,‥,(mun),α
 SPACE
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,v,σ,f,r,y
-SPACE
-τ,y,m,n.
-SPACE
-START big
-q,_
-STOP big
-n.
-SPACE
-v,q,w,HPU GERSHAYIM,f.
-SPACE
-g,d,w,l,h,RIGHT PARENTHESIS
-STOP i class=footnote
 q,_,n.,-,ц,i,f,·,(mun),w,o,r,THIN SPACE
 START small
 |
@@ -17849,22 +17814,6 @@ Deuter 23:2 in vtrad vtsef
 l,o,(mos),α,-,y,a,v,o,(dar),α
 SPACE
 f,:,ц,(mos),w,·,ʕ,_,-,d,·,_,k,·,a,(tev),α
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,v,σ,f,r,y
-SPACE
-σ,f,r,d
-SPACE
-w,r,w,v
-SPACE
-σ,f,r,y
-SPACE
-α,$,k,n,z
-SPACE
-d,·,_,k,·,a,(tev),h,RIGHT PARENTHESIS
-STOP i class=footnote
 SPACE
 w,·,k,:,r,(mer),w,·,τ
 SPACE
@@ -20959,22 +20908,6 @@ SPACE
 k,·,oa,l,-,h,a,ʕ,a,(tip),m.
 SPACE
 α,a,m,‥,(mos),n.,(sopa)
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,σ,f,q
-SPACE
-f,r,$,h
-SPACE
-σ,τ,w,m,h
-SPACE
-v,k,τ,r
-SPACE
-α,r,m.
-SPACE
-ц,w,v,h,RIGHT PARENTHESIS
-STOP i class=footnote
 
 Deuter 27:20 in vtrad vtsef
 α,a,r,(rev),w,·,r
@@ -25680,23 +25613,6 @@ h,_
 STOP big
 SPACE
 l,:,y,:,h,o,w,a,h,(pash)
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,v,σ,f,r,y
-SPACE
-τ,y,m,n.
-SPACE
-START big
-h,_,(mos)
-STOP big
-l,:,y,h,o,w,a,h,(pash)
-SPACE
-v,τ,y,v,h
-SPACE
-α,x,τ,RIGHT PARENTHESIS
-STOP i class=footnote
 SPACE
 τ,·,i,g,:,m,:,l,w,·,-,z,o,(zaq_q),α,τ
 NO-BREAK SPACE
@@ -27933,23 +27849,6 @@ SPACE
 
 Deuter 33:29 in vtrad vtsef
 α,_,$,·sh,:,r,∵,(qom),y,k.,a
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,v,σ,f,r,y
-SPACE
-τ,y,m,n.
-SPACE
-START big
-α,_
-STOP big
-$,·sh,:,r,∵,(qom),y,k.,a
-SPACE
-v,α,l,HPU GERSHAYIM,f.
-SPACE
-g,d,w,l,h,RIGHT PARENTHESIS
-STOP i class=footnote
 SPACE
 y,i,$,·si,:,r,a,α,‥,(ger),l
 SPACE

@@ -378,22 +378,6 @@ SPACE
 τ,·,a,v,(dar),w,o,α
 SPACE
 α,:_,l,‥,h,∵,(tev),n.
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,v,k,τ,r
-SPACE
-α,r,m.
-SPACE
-ц,w,v,h
-SPACE
-h,y,h
-SPACE
-k,τ,w,v
-SPACE
-α,:_,l,‥,y,h,∵,(tev),n.,RIGHT PARENTHESIS
-STOP i class=footnote
 SPACE
 h,_,m,:,y,_,l,·,∵,(tip),d,∵,τ
 SPACE
@@ -12929,26 +12913,6 @@ SPACE
 ʕ,_,l,-,k,·,‥,(mun),σ
 SPACE
 y,a,(zaq_q),h,·
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,v,k,τ,r
-SPACE
-α,r,m.
-SPACE
-ц,w,v,h
-SPACE
-h,y,h
-SPACE
-k,τ,w,v
-SPACE
-k,·,‥,(mun),σ,:,y,a,(zaq_q),h,·
-SPACE
-v,τ,y,v,h
-SPACE
-α,x,τ,RIGHT PARENTHESIS
-STOP i class=footnote
 SPACE
 m,i,l,:,x,a,m,a,(mer),h
 SPACE
@@ -18644,18 +18608,6 @@ SPACE
 m,i,q,:,$,·sh,a,(ger_2),h
 SPACE
 τ,·,‥,ʕ,a,$,·si,∵,(mah),h
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,v,σ,f,r,y
-SPACE
-σ,f,r,d
-SPACE
-w,α,$,k,n,z
-SPACE
-τ,·,‥,y,ʕ,a,$,·si,∵,(mah),h,RIGHT PARENTHESIS
-STOP i class=footnote
 SPACE
 h,_,m,·,:,n,w,o,r,a,h,(pash)
 SPACE
@@ -21025,18 +20977,6 @@ SPACE
 α,∵,l,-,ʕ,‥,(mer),v,∵,r
 SPACE
 h,a,α,‥,f,o,(tip),d
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,v,σ,f,r,y
-SPACE
-σ,f,r,d
-SPACE
-w,α,$,k,n,z
-SPACE
-h,a,α,‥,f,(tip),w,o,d,RIGHT PARENTHESIS
-STOP i class=footnote
 SPACE
 v,·,a,(mos),y,:,τ,a,h,(sopa)
 
@@ -25675,22 +25615,6 @@ START span class=mam-spi-pe
 LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
 START/STOP br
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,σ,f,q
-SPACE
-f,r,$,h
-SPACE
-σ,τ,w,m,h
-SPACE
-v,k,τ,r
-SPACE
-α,r,m.
-SPACE
-ц,w,v,h,RIGHT PARENTHESIS
-STOP i class=footnote
 
 Exodus 34:1 in vtrad vtsef
 w,_,y,·,o,(mah),α,m,∵,r
@@ -25869,20 +25793,6 @@ START big
 n,o
 STOP big
 ц,‥,(mer),r
-START sup class=footnote-marker
-ASTERISK
-STOP sup class=footnote-marker
-START i class=footnote
-LEFT PARENTHESIS,v,σ,f,r,y
-SPACE
-τ,y,m,n.
-SPACE
-n,o,ц,‥,(mer),r
-SPACE
-v,n,w,HPU GERSHAYIM,n.
-SPACE
-r,g,y,l,h,RIGHT PARENTHESIS
-STOP i class=footnote
 SPACE
 x,∵,(pash),σ,∵,d,(pash)
 SPACE
