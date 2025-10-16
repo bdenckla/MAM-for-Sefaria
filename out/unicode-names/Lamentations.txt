@@ -5,27 +5,27 @@ START b
 |
 STOP b
 SPACE
-y,a,$,·sh,:,v,a,(mun),h
+y,a,$,·sh,:,b,a,(mun),h
 SPACE
-v,a,d,a,(rev),d
+b,a,d,a,(rev),d
 SPACE
-h,a,ʕ,i,y,r,(pash)
+h,a,3,i,y,r,(pash)
 SPACE
-r,_,v,·,a,(mun),τ,i,y
+r,_,b,·,a,(mun),τ,i,y
 SPACE
-ʕ,a,(zaq_q),m.
+3,a,(zaq_q),m.
 SPACE
 h,a,y,:,τ,a,(tip),h
 SPACE
 k,·,:,α,_,l,:,m,a,n,a,(atn),h
 SPACE
-r,_,v,·,a,(mun),τ,i,y
+r,_,b,·,a,(mun),τ,i,y
 SPACE
-v,_,g,·,w,o,y,i,(rev),m.
+b,_,g,·,v,o,y,i,(rev),m.
 SPACE
 $,·si,a,r,a,(pash),τ,i,y,(pash)
 SPACE
-v,·,_,m,·,:,d,i,y,n,(zaq_q),w,o,τ
+b,·,_,m,·,:,d,i,y,n,(zaq_q),v,o,τ
 SPACE
 h,a,y,:,τ,a,(tip),h
 SPACE
@@ -44,15 +44,15 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 1:2 in vtrad vtsef
-v,·,a,k,(qom),w,o
+b,·,a,k,(qom),v,o
 SPACE
-τ,i,v,:,k,·,∵,(ger),h
+τ,i,b,:,k,·,∵,(ger),h
 SPACE
-v,·,_,l,·,_,(rev),y,:,l,a,h
+b,·,_,l,·,_,(rev),y,:,l,a,h
 SPACE
-w,:,d,i,m,:,ʕ,a,τ,a,h,·,(pash)
+v,:,d,i,m,:,3,a,τ,a,h,·,(pash)
 SPACE
-ʕ,_,(mun),l
+3,_,(mun),l
 SPACE
 l,∵,(mos),x,:∵,y,a,(zaq_q),h,·
 SPACE
@@ -60,19 +60,19 @@ SPACE
 SPACE
 m,:,n,_,x,‥,(tip),m.
 SPACE
-m,i,k,·,oa,l,-,α,o,h,:_,v,∵,(atn),y,h,a
+m,i,k,·,oa,l,-,α,o,h,:_,b,∵,(atn),y,h,a
 SPACE
-k,·,oa,l,-,r,‥,ʕ,∵,(pash),y,h,a,(pash)
+k,·,oa,l,-,r,‥,3,∵,(pash),y,h,a,(pash)
 SPACE
-v,·,a,(mun),g,:,d,w,·
+b,·,a,(mun),g,:,d,v,·
 SPACE
-v,a,(zaq_q),h,·
+b,a,(zaq_q),h,·
 SPACE
-h,a,(mer),y,w,·
+h,a,(mer),y,v,·
 SPACE
 l,a,(tip),h,·
 SPACE
-l,:,α,o,y,:,v,i,(mos),y,m.,(sopa)
+l,:,α,o,y,:,b,i,(mos),y,m.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -89,33 +89,33 @@ NO-BREAK SPACE
 Lamentations 1:3 in vtrad vtsef
 g,·,a,(mos),l,:,τ,a,(qom),h
 SPACE
-y,:,h,w,·,d,a,(mah),h
+y,:,h,v,·,d,a,(mah),h
 SPACE
-m,‥,ʕ,o,(pash),n,i,y,(pash)
+m,‥,3,o,(pash),n,i,y,(pash)
 SPACE
-w,·,m,‥,r,o,(mun),v
+v,·,m,‥,r,o,(mun),b
 SPACE
-ʕ,:_,v,o,d,a,(zaq_q),h
+3,:_,b,o,d,a,(zaq_q),h
 SPACE
 h,i,(yet),y,α
 SPACE
-y,a,$,·sh,:,v,a,(mun),h
+y,a,$,·sh,:,b,a,(mun),h
 SPACE
-v,_,g,·,w,o,y,i,(zaq_q),m.
+b,_,g,·,v,o,y,i,(zaq_q),m.
 SPACE
 l,o,(mer),α
 SPACE
-m,a,ц,:,α,a,(tip),h
+m,a,c,:,α,a,(tip),h
 SPACE
-m,a,n,(atn),w,o,x,_
+m,a,n,(atn),v,o,x,_
 SPACE
-k,·,oa,l,-,r,o,d,:,f,∵,(mer),y,h,a
+k,·,oa,l,-,r,o,d,:,p,∵,(mer),y,h,a
 SPACE
-h,i,$,·si,·,i,y,g,(tip),w,·,h,a
+h,i,$,·si,·,i,y,g,(tip),v,·,h,a
 SPACE
-v,·,‥,(mer),y,n.
+b,·,‥,(mer),y,n.
 SPACE
-h,_,m,·,:,ц,a,r,i,(mos),y,m.,(sopa)
+h,_,m,·,:,c,a,r,i,(mos),y,m.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -132,29 +132,29 @@ NO-BREAK SPACE
 Lamentations 1:4 in vtrad vtsef
 d,·,_,r,:,k,‥,(qom),y
 SPACE
-ц,i,y,·,(ger),w,o,n.
+c,i,y,·,(ger),v,o,n.
 SPACE
-α,:_,v,‥,l,(rev),w,o,τ
+α,:_,b,‥,l,(rev),v,o,τ
 SPACE
-m,i,v,·,:,l,i,y,(pash)
+m,i,b,·,:,l,i,y,(pash)
 SPACE
-v,·,a,α,‥,(mun),y
+b,·,a,α,‥,(mun),y
 SPACE
-m,w,o,ʕ,‥,(zaq_q),d
+m,v,o,3,‥,(zaq_q),d
 SPACE
-k,·,oa,l,-,$,·sh,:,ʕ,a,r,∵,(pash),y,h,a,(pash)
+k,·,oa,l,-,$,·sh,:,3,a,r,∵,(pash),y,h,a,(pash)
 SPACE
-$,·sh,(mos),w,o,m,‥,m,i,(zaq_q),y,n.
+$,·sh,(mos),v,o,m,‥,m,i,(zaq_q),y,n.
 SPACE
 k,·,o,h,:_,n,∵,(tip),y,h,a
 SPACE
 n,∵,α,:∵,n,a,x,i,(atn),y,m.
 SPACE
-v,·,:,τ,w,·,l,o,τ,∵,(mer),y,h,a
+b,·,:,τ,v,·,l,o,τ,∵,(mer),y,h,a
 SPACE
-n,·,w,·,g,(tip),w,o,τ
+n,·,v,·,g,(tip),v,o,τ
 SPACE
-w,:,h,i,(mer),y,α
+v,:,h,i,(mer),y,α
 SPACE
 m,_,r,-,l,a,(mos),h,·,(sopa)
 NO-BREAK SPACE
@@ -171,31 +171,31 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 1:5 in vtrad vtsef
-h,a,y,(qom),w,·
+h,a,y,(qom),v,·
 SPACE
-ц,a,r,∵,(mah),y,h,a
+c,a,r,∵,(mah),y,h,a
 SPACE
 l,:,r,o,α,$,·sh,(pash)
 SPACE
-α,o,y,:,v,∵,(mun),y,h,a
+α,o,y,:,b,∵,(mun),y,h,a
 SPACE
-$,·sh,a,l,(zaq_q),w,·
+$,·sh,a,l,(zaq_q),v,·
 SPACE
-k,·,i,(mos),y,-,y,:,h,o,w,a,(mer),h
+k,·,i,(mos),y,-,y,:,h,o,v,a,(mer),h
 SPACE
-h,w,o,g,a,(tip),h,·
+h,v,o,g,a,(tip),h,·
 SPACE
-ʕ,_,(mun),l
+3,_,(mun),l
 SPACE
-r,o,v,-,f,·,:,$,·sh,a,ʕ,∵,(atn),y,h,a
+r,o,b,-,p,·,:,$,·sh,a,3,∵,(atn),y,h,a
 SPACE
-ʕ,w,o,l,a,l,∵,(tev),y,h,a
+3,v,o,l,a,l,∵,(tev),y,h,a
 SPACE
-h,a,l,:,k,(mer),w,·
+h,a,l,:,k,(mer),v,·
 SPACE
-$,·sh,:,v,i,(tip),y
+$,·sh,:,b,i,(tip),y
 SPACE
-l,i,f,:,n,‥,y,-,ц,a,(mos),r,(sopa)
+l,i,p,:,n,‥,y,-,c,a,(mos),r,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -210,40 +210,40 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 1:6 in vtrad vtsef
-w,_,y,·,‥,ц,‥,(mer),α
+v,_,y,·,‥,c,‥,(mer),α
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
 LEFT PARENTHESIS,m,n.
 SPACE
-v,τ,RIGHT PARENTHESIS
+b,τ,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,m,i,v,·,_,τ,-,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,m,i,b,·,_,τ,-,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
-ц,i,y,·,(tip),w,o,n.
+c,i,y,·,(tip),v,o,n.
 SPACE
 k,·,oa,l,-,h,:_,d,a,r,a,(atn),h,·
 SPACE
-h,a,y,(mun),w,·
+h,a,y,(mun),v,·
 SPACE
 $,·si,a,r,∵,(rev),y,h,a
 SPACE
 k,·,:,α,_,y,·,a,l,i,y,m.,(pash)
 SPACE
-l,o,α,-,m,a,ц,:,α,(mun),w,·
+l,o,α,-,m,a,c,:,α,(mun),v,·
 SPACE
-m,i,r,:,ʕ,∵,(zaq_q),h
+m,i,r,:,3,∵,(zaq_q),h
 SPACE
-w,_,y,·,‥,l,:,k,(mer),w,·
+v,_,y,·,‥,l,:,k,(mer),v,·
 SPACE
-v,:,l,o,α,-,k,o,(tip),x,_
+b,:,l,o,α,-,k,o,(tip),x,_
 SPACE
-l,i,f,:,n,‥,(mer),y
+l,i,p,:,n,‥,(mer),y
 SPACE
-r,w,o,d,‥,(mos),f.,(sopa)
+r,v,o,d,‥,(mos),p.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -260,13 +260,13 @@ NO-BREAK SPACE
 Lamentations 1:7 in vtrad vtsef
 z,a,(mos),k,:,r,a,(mun),h
 SPACE
-y,:,r,w,·,$,·sh,a,l,_,(rev),CGJ,i,m.
+y,:,r,v,·,$,·sh,a,l,_,(rev),CGJ,i,m.
 SPACE
 y,:,m,‥,(mah),y
 SPACE
-ʕ,oa,n,:,y,a,h,·,(pash)
+3,oa,n,:,y,a,h,·,(pash)
 SPACE
-w,·,m,:,r,w,·,d,∵,(zaq_q),y,h,a
+v,·,m,:,r,v,·,d,∵,(zaq_q),y,h,a
 SPACE
 k,·,o,(yet),l
 SPACE
@@ -274,33 +274,33 @@ m,_,x,:_,m,u,d,∵,(zaq_q),y,h,a
 SPACE
 α,:_,$,·sh,∵,(mer),r
 SPACE
-h,a,y,(tip),w,·
+h,a,y,(tip),v,·
 SPACE
 m,i,(mun),y,m,‥,y
 SPACE
 q,∵,(atn),d,∵,m.
 SPACE
-v,·,i,n,:,f,o,(dar),l
+b,·,i,n,:,p,o,(dar),l
 SPACE
-ʕ,_,m,·,a,(mun),h,·
+3,_,m,·,a,(mun),h,·
 SPACE
-v,·,:,y,_,d,-,ц,a,(rev),r
+b,·,:,y,_,d,-,c,a,(rev),r
 SPACE
-w,:,α,‥,(mah),y,n.
+v,:,α,‥,(mah),y,n.
 SPACE
-ʕ,w,o,z,‥,r,(pash)
+3,v,o,z,‥,r,(pash)
 SPACE
 l,a,(zaq_q),h,·
 SPACE
-r,a,α,(mun),w,·,h,a
+r,a,α,(mun),v,·,h,a
 SPACE
-ц,a,r,i,(zaq_q),y,m.
+c,a,r,i,(zaq_q),y,m.
 SPACE
-$,·si,a,x,:_,q,(tip),w,·
+$,·si,a,x,:_,q,(tip),v,·
 SPACE
-ʕ,_,(mer),l
+3,_,(mer),l
 SPACE
-m,i,$,·sh,:,v,·,_,τ,·,∵,(mos),h,a,(sopa)
+m,i,$,·sh,:,b,·,_,τ,·,∵,(mos),h,a,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -319,29 +319,29 @@ x,‥,(mah),θ,:,α
 SPACE
 x,a,(mos),θ,:,α,a,h,(pash)
 SPACE
-y,:,r,(mun),w,·,$,·sh,a,l,_,(zaq_q),CGJ,i,m.
+y,:,r,(mun),v,·,$,·sh,a,l,_,(zaq_q),CGJ,i,m.
 SPACE
-ʕ,_,l,-,k,·,‥,(tip),n.
+3,_,l,-,k,·,‥,(tip),n.
 SPACE
 l,:,n,i,y,d,a,(mun),h
 SPACE
 h,a,y,a,(atn),τ,a,h
 SPACE
-k,·,oa,(mos),l,-,m,:,k,_,v,·,:,d,∵,(mah),y,h,a
+k,·,oa,(mos),l,-,m,:,k,_,b,·,:,d,∵,(mah),y,h,a
 SPACE
-h,i,z,·,i,y,l,(pash),w,·,h,a,(pash)
+h,i,z,·,i,y,l,(pash),v,·,h,a,(pash)
 SPACE
-k,·,i,y,-,r,a,α,(mun),w,·
+k,·,i,y,-,r,a,α,(mun),v,·
 SPACE
-ʕ,∵,r,:,w,a,τ,a,(zaq_q),h,·
+3,∵,r,:,v,a,τ,a,(zaq_q),h,·
 SPACE
 g,·,_,m.,-,h,i,(mer),y,α
 SPACE
 n,∵,α,∵,n,:,x,a,(tip),h
 SPACE
-w,_,τ,·,a,(mer),$,·sh,oa,v
+v,_,τ,·,a,(mer),$,·sh,oa,b
 SPACE
-α,a,x,(mos),w,o,r,(sopa)
+α,a,x,(mos),v,o,r,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -358,7 +358,7 @@ NO-BREAK SPACE
 Lamentations 1:9 in vtrad vtsef
 θ,u,m,:,α,a,τ,a,(mun),h,·
 SPACE
-v,·,:,$,·sh,w,·,l,∵,(rev),y,h,a
+b,·,:,$,·sh,v,·,l,∵,(rev),y,h,a
 SPACE
 l,o,(mah),α
 SPACE
@@ -366,9 +366,9 @@ z,a,(mos),k,:,r,a,h,(pash)
 SPACE
 α,_,x,:_,r,i,y,τ,a,(zaq_q),h,·
 SPACE
-w,_,τ,·,‥,(mun),r,∵,d
+v,_,τ,·,‥,(mun),r,∵,d
 SPACE
-f,·,:,l,a,α,i,(zaq_q),y,m.
+p,·,:,l,a,α,i,(zaq_q),y,m.
 SPACE
 α,‥,(mer),y,n.
 SPACE
@@ -378,15 +378,15 @@ l,a,(atn),h,·
 SPACE
 r,:,α,‥,(mah),h
 SPACE
-y,:,h,o,w,a,h,(pash)
+y,:,h,o,v,a,h,(pash)
 SPACE
-α,∵,τ,-,ʕ,oa,n,:,y,i,(zaq_q),y
+α,∵,τ,-,3,oa,n,:,y,i,(zaq_q),y
 SPACE
 k,·,i,(mer),y
 SPACE
 h,i,g,:,d,·,i,(tip),y,l
 SPACE
-α,w,o,y,‥,(mos),v,(sopa)
+α,v,o,y,‥,(mos),b,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -401,31 +401,31 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 1:10 in vtrad vtsef
-y,a,d,w,o,(pash)
+y,a,d,v,o,(pash)
 SPACE
-f,·,a,(mun),r,_,$,·si
+p,·,a,(mun),r,_,$,·si
 SPACE
-ц,a,(zaq_q),r
+c,a,(zaq_q),r
 SPACE
-ʕ,_,(tip),l
+3,_,(tip),l
 SPACE
 k,·,oa,l,-,m,_,x,:_,m,_,d,·,∵,(atn),y,h,a
 SPACE
 k,·,i,(mos),y,-,r,a,α,:_,τ,a,(mah),h
 SPACE
-g,w,o,y,i,m.,(pash)
+g,v,o,y,i,m.,(pash)
 SPACE
-v,·,a,(mun),α,w,·
+b,·,a,(mun),α,v,·
 SPACE
 m,i,q,:,d,·,a,$,·sh,a,(zaq_q),h,·
 SPACE
 α,:_,$,·sh,∵,(mun),r
 SPACE
-ц,i,w,·,i,(zaq_q),y,τ,a,h
+c,i,v,·,i,(zaq_q),y,τ,a,h
 SPACE
-l,o,α,-,y,a,v,o,(mer),α,w,·
+l,o,α,-,y,a,b,o,(mer),α,v,·
 SPACE
-v,_,q,·,a,h,a,(tip),l
+b,_,q,·,a,h,a,(tip),l
 SPACE
 l,a,(mos),k.,:,(sopa)
 NO-BREAK SPACE
@@ -442,19 +442,19 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 1:11 in vtrad vtsef
-k,·,oa,l,-,ʕ,_,m,·,a,(mah),h,·
+k,·,oa,l,-,3,_,m,·,a,(mah),h,·
 SPACE
 n,∵,α,:∵,n,a,x,i,y,m.,(pash)
 SPACE
-m,:,v,_,q,:,$,·sh,i,(mun),y,m.
+m,:,b,_,q,:,$,·sh,i,(mun),y,m.
 SPACE
 l,∵,(zaq_q),x,∵,m.
 SPACE
-n,a,τ,:,n,(dar),w,·
+n,a,τ,:,n,(dar),v,·
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
-LEFT PARENTHESIS,m,x,m,w,d,y,h,m.,RIGHT PARENTHESIS
+LEFT PARENTHESIS,m,x,m,v,d,y,h,m.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
@@ -462,23 +462,23 @@ LEFT SQUARE BRACKET,m,_,x,:_,m,_,d,·,‥,y,h,∵,(tev),m.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
-v,·,:,α,o,(tip),k,∵,l
+b,·,:,α,o,(tip),k,∵,l
 SPACE
-l,:,h,a,$,·sh,i,(mun),y,v
+l,:,h,a,$,·sh,i,(mun),y,b
 SPACE
-n,a,(atn),f,∵,$,·sh
+n,a,(atn),p,∵,$,·sh
 SPACE
 r,:,α,‥,(mah),h
 SPACE
-y,:,h,o,w,a,h,(pash)
+y,:,h,o,v,a,h,(pash)
 SPACE
-w,:,(mos),h,_,v,·,i,(zaq_q),y,θ,a,h
+v,:,(mos),h,_,b,·,i,(zaq_q),y,θ,a,h
 SPACE
 k,·,i,(mer),y
 SPACE
 h,a,y,i,(tip),y,τ,i,y
 SPACE
-z,w,o,l,‥,l,a,(mos),h,(sopa)
+z,v,o,l,‥,l,a,(mos),h,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -496,41 +496,41 @@ Lamentations 1:12 in vtrad vtsef
 START small
 l,(mun)
 STOP small
-w,o,α
+v,o,α
 SPACE
 α,:_,l,‥,y,k,∵,m.,~
 SPACE
-k,·,oa,l,-,ʕ,o,(mun),v,:,r,‥,y
+k,·,oa,l,-,3,o,(mun),b,:,r,‥,y
 SPACE
 d,∵,(seg_a),r,∵,k.,:,(seg_a)
 SPACE
-h,_,v,·,i,(mun),y,θ,w,·
+h,_,b,·,i,(mun),y,θ,v,·
 SPACE
-w,·,r,:,α,(zaq_q),w,·
+v,·,r,:,α,(zaq_q),v,·
 SPACE
 α,i,m.,-,y,‥,(mah),$,·sh
 SPACE
-m,_,k,:,α,w,o,v,(pash)
+m,_,k,:,α,v,o,b,(pash)
 SPACE
-k,·,:,m,_,k,:,α,o,v,i,(zaq_q),y
+k,·,:,m,_,k,:,α,o,b,i,(zaq_q),y
 SPACE
 α,:_,$,·sh,∵,(mer),r
 SPACE
-ʕ,w,o,l,_,(tip),l
+3,v,o,l,_,(tip),l
 SPACE
 l,i,(atn),y
 SPACE
 α,:_,$,·sh,∵,r,(pash)
 SPACE
-h,w,o,g,a,(mun),h
+h,v,o,g,a,(mun),h
 SPACE
-y,:,h,o,w,a,(zaq_q),h
+y,:,h,o,v,a,(zaq_q),h
 SPACE
-v,·,:,y,(tip),w,o,m.
+b,·,:,y,(tip),v,o,m.
 SPACE
-x,:_,r,(mer),w,o,n.
+x,:_,r,(mer),v,o,n.
 SPACE
-α,_,f,·,(mos),w,o,(sopa)
+α,_,p,·,(mos),v,o,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -545,31 +545,31 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 1:13 in vtrad vtsef
-m,i,m,·,a,r,(tev),w,o,m.
+m,i,m,·,a,r,(tev),v,o,m.
 SPACE
 $,·sh,a,(mos),l,_,x,-,α,‥,(mer),$,·sh
 SPACE
-v,·,:,ʕ,_,ц,:,m,o,τ,_,(tip),y
+b,·,:,3,_,c,:,m,o,τ,_,(tip),y
 SPACE
-w,_,y,·,i,r,:,d,·,∵,(atn),n,·,a,h
+v,_,y,·,i,r,:,d,·,∵,(atn),n,·,a,h
 SPACE
-f,·,a,r,_,(qom),$,·si
+p,·,a,r,_,(qom),$,·si
 SPACE
 r,∵,(mah),$,·sh,∵,τ
 SPACE
 l,:,r,_,g,:,l,_,y,(pash)
 SPACE
-h,:∵,$,·sh,i,y,v,_,(mun),n,i,y
+h,:∵,$,·sh,i,y,b,_,(mun),n,i,y
 SPACE
-α,a,x,(zaq_q),w,o,r
+α,a,x,(zaq_q),v,o,r
 SPACE
 n,:,τ,a,n,_,(pash),n,i,y,(pash)
 SPACE
 $,·sh,o,(mos),m,‥,m,a,(zaq_q),h
 SPACE
-k,·,oa,l,-,h,_,y,·,(tip),w,o,m.
+k,·,oa,l,-,h,_,y,·,(tip),v,o,m.
 SPACE
-d,·,a,w,a,(mos),h,(sopa)
+d,·,a,v,a,(mos),h,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -586,17 +586,17 @@ NO-BREAK SPACE
 Lamentations 1:14 in vtrad vtsef
 n,i,$,·si,:,q,_,d,(tel_q)
 SPACE
-ʕ,o,(qom),l
+3,o,(qom),l
 SPACE
-f,·,:,$,·sh,a,ʕ,_,(ger),y
+p,·,:,$,·sh,a,3,_,(ger),y
 SPACE
-v,·,:,y,a,d,(rev),w,o
+b,·,:,y,a,d,(rev),v,o
 SPACE
-y,i,$,·si,:,τ,·,a,(mer),r,:,g,(tev),w,·
+y,i,$,·si,:,τ,·,a,(mer),r,:,g,(tev),v,·
 SPACE
-ʕ,a,l,(mer),w,·
+3,a,l,(mer),v,·
 SPACE
-ʕ,_,l,-,ц,_,w,·,a,α,r,i,(tip),y
+3,_,l,-,c,_,v,·,a,α,r,i,(tip),y
 SPACE
 h,i,k,:,$,·sh,i,(mun),y,l
 SPACE
@@ -606,11 +606,11 @@ n,:,τ,a,n,_,(mun),n,i,y
 SPACE
 α,:_,d,o,n,a,(zaq_q),y
 SPACE
-v,·,i,y,d,‥,(tip),y
+b,·,i,y,d,‥,(tip),y
 SPACE
-l,o,α,-,α,w,·,k,_,(mer),l
+l,o,α,-,α,v,·,k,_,(mer),l
 SPACE
-q,(mos),w,·,m.,(sopa)
+q,(mos),v,·,m.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -627,23 +627,23 @@ NO-BREAK SPACE
 Lamentations 1:15 in vtrad vtsef
 σ,i,l,·,a,(qom),h
 SPACE
-k,oa,l,-,α,_,v,·,i,y,r,_,(mah),y,THIN SPACE
+k,oa,l,-,α,_,b,·,i,y,r,_,(mah),y,THIN SPACE
 START small
 |
 STOP small
 THIN SPACE,α,:_,d,o,n,a,y,(pash)
 SPACE
-v,·,:,q,i,r,:,v,·,i,(zaq_q),y
+b,·,:,q,i,r,:,b,·,i,(zaq_q),y
 SPACE
 q,a,r,a,(mer),α
 SPACE
-ʕ,a,l,_,(tev),y
+3,a,l,_,(tev),y
 SPACE
-m,w,o,ʕ,‥,(tip),d
+m,v,o,3,‥,(tip),d
 SPACE
-l,i,$,·sh,:,v,·,o,(mun),r
+l,i,$,·sh,:,b,·,o,(mun),r
 SPACE
-v,·,_,x,w,·,r,a,(atn),y
+b,·,_,x,v,·,r,a,(atn),y
 SPACE
 g,·,_,(yet),τ
 SPACE
@@ -651,9 +651,9 @@ d,·,a,r,_,(mun),k.,:
 SPACE
 α,:_,d,o,n,a,(zaq_q),y
 SPACE
-l,i,v,:,τ,w,·,l,_,(tip),τ
+l,i,b,:,τ,v,·,l,_,(tip),τ
 SPACE
-v,·,_,τ,-,y,:,h,w,·,d,a,(mos),h,(sopa)
+b,·,_,τ,-,y,:,h,v,·,d,a,(mos),h,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -668,20 +668,20 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 1:16 in vtrad vtsef
-ʕ,_,l,-,α,‥,(mun),l,·,∵,h,THIN SPACE
+3,_,l,-,α,‥,(mun),l,·,∵,h,THIN SPACE
 START b
 |
 STOP b
 SPACE
 α,:_,n,i,(mun),y
 SPACE
-v,w,o,k,i,y,·,a,(rev),h
+b,v,o,k,i,y,·,a,(rev),h
 SPACE
-ʕ,‥,y,n,i,(mah),y,THIN SPACE
+3,‥,y,n,i,(mah),y,THIN SPACE
 START small
 |
 STOP small
-THIN SPACE,ʕ,‥,y,n,i,y,(pash)
+THIN SPACE,3,‥,y,n,i,y,(pash)
 SPACE
 y,o,(mun),r,:,d,a,h
 SPACE
@@ -693,21 +693,21 @@ m,i,m,·,∵,(tev),n,·,i,y
 SPACE
 m,:,n,_,x,‥,(tip),m.
 SPACE
-m,‥,$,·sh,i,(mun),y,v
+m,‥,$,·sh,i,(mun),y,b
 SPACE
-n,_,f,:,$,·sh,i,(atn),y
+n,_,p,:,$,·sh,i,(atn),y
 SPACE
-h,a,y,(mah),w,·
+h,a,y,(mah),v,·
 SPACE
-v,a,n,_,y,(pash)
+b,a,n,_,y,(pash)
 SPACE
-$,·sh,(mos),w,o,m,‥,m,i,(zaq_q),y,m.
+$,·sh,(mos),v,o,m,‥,m,i,(zaq_q),y,m.
 SPACE
 k,·,i,(mer),y
 SPACE
-g,a,v,_,(tip),r
+g,a,b,_,(tip),r
 SPACE
-α,w,o,y,‥,(mos),v,(sopa)
+α,v,o,y,‥,(mos),b,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -722,11 +722,11 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 1:17 in vtrad vtsef
-f,·,‥,(mos),r,:,$,·si,a,(qom),h
+p,·,‥,(mos),r,:,$,·si,a,(qom),h
 SPACE
-ц,i,y,·,(ger),w,o,n.
+c,i,y,·,(ger),v,o,n.
 SPACE
-v,·,:,y,a,d,∵,(rev),y,h,a
+b,·,:,y,a,d,∵,(rev),y,h,a
 SPACE
 α,‥,(mah),y,n.
 SPACE
@@ -734,23 +734,23 @@ m,:,n,_,x,‥,m.,(pash)
 SPACE
 l,a,(zaq_q),h,·
 SPACE
-ц,i,w,·,a,(dar),h
+c,i,v,·,a,(dar),h
 SPACE
-y,:,h,o,w,a,(tev),h
+y,:,h,o,v,a,(tev),h
 SPACE
-l,:,y,_,ʕ,:_,q,o,(tip),v
+l,:,y,_,3,:_,q,o,(tip),b
 SPACE
-σ,:,v,i,y,v,a,(mun),y,w
+σ,:,b,i,y,b,a,(mun),y,v
 SPACE
-ц,a,r,a,(atn),y,w
+c,a,r,a,(atn),y,v
 SPACE
 h,a,y,:,τ,a,(dar),h
 SPACE
-y,:,r,w,·,$,·sh,a,l,_,(tev),CGJ,i,m.
+y,:,r,v,·,$,·sh,a,l,_,(tev),CGJ,i,m.
 SPACE
 l,:,n,i,d,·,a,(tip),h
 SPACE
-v,·,‥,y,n,‥,y,h,∵,(mos),m.,(sopa)
+b,·,‥,y,n,‥,y,h,∵,(mos),m.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -765,42 +765,42 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 1:18 in vtrad vtsef
-ц,_,d,·,i,(mer),y,q
+c,_,d,·,i,(mer),y,q
 SPACE
-h,(tev),w,·,α
+h,(tev),v,·,α
 SPACE
-y,:,h,o,w,a,(tip),h
+y,:,h,o,v,a,(tip),h
 SPACE
 k,·,i,(mun),y
 SPACE
-f,i,(mun),y,h,w,·
+p,i,(mun),y,h,v,·
 SPACE
 m,a,r,i,(atn),y,τ,i,y
 SPACE
-$,·sh,i,m,:,ʕ,w,·,-,n,a,(mun),α
+$,·sh,i,m,:,3,v,·,-,n,a,(mun),α
 SPACE
 k,oa,l,-
 START span class=mam-kq
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,h,a,(mos),ʕ,_,m,·,i,(rev),y,m.,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,h,a,(mos),3,_,m,·,i,(rev),y,m.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 SPACE
 START span class=mam-kq-k
-LEFT PARENTHESIS,ʕ,m,y,m.,RIGHT PARENTHESIS
+LEFT PARENTHESIS,3,m,y,m.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 STOP span class=mam-kq
 SPACE
-w,·,r,:,α,w,·,(pash)
+v,·,r,:,α,v,·,(pash)
 SPACE
-m,_,k,:,α,o,v,i,(zaq_q),y
+m,_,k,:,α,o,b,i,(zaq_q),y
 SPACE
-v,·,:,τ,w,·,l,o,τ,_,(mer),y
+b,·,:,τ,v,·,l,o,τ,_,(mer),y
 SPACE
-w,·,v,_,x,w,·,r,_,(tip),y
+v,·,b,_,x,v,·,r,_,(tip),y
 SPACE
-h,a,l,:,k,(mer),w,·
+h,a,l,:,k,(mer),v,·
 SPACE
-v,_,$,·sh,·,∵,(mos),v,i,y,(sopa)
+b,_,$,·sh,·,∵,(mos),b,i,y,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -817,29 +817,29 @@ NO-BREAK SPACE
 Lamentations 1:19 in vtrad vtsef
 q,a,r,a,(mah),α,τ,i,y
 SPACE
-l,_,(mos),m,:,α,_,h,:_,v,_,y,(pash)
+l,_,(mos),m,:,α,_,h,:_,b,_,y,(pash)
 SPACE
 h,‥,(mun),m,·,a,h
 SPACE
-r,i,m,·,(zaq_q),w,·,n,i,y
+r,i,m,·,(zaq_q),v,·,n,i,y
 SPACE
 k,·,o,h,:_,n,_,(mer),y
 SPACE
-w,·,z,:,q,‥,n,_,(tip),y
+v,·,z,:,q,‥,n,_,(tip),y
 SPACE
-v,·,a,ʕ,i,(mun),y,r
+b,·,a,3,i,(mun),y,r
 SPACE
-g,·,a,w,a,(atn),ʕ,w,·
+g,·,a,v,a,(atn),3,v,·
 SPACE
-k,·,i,(mos),y,-,v,i,q,:,$,·sh,(mer),w,·
+k,·,i,(mos),y,-,b,i,q,:,$,·sh,(mer),v,·
 SPACE
 α,o,(pash),k,∵,l,(pash)
 SPACE
-l,a,(zaq_q),m,w,o
+l,a,(zaq_q),m,v,o
 SPACE
-w,:,y,a,$,·sh,i,(tip),y,v,w,·
+v,:,y,a,$,·sh,i,(tip),y,b,v,·
 SPACE
-α,∵,τ,-,n,_,f,:,$,·sh,a,(mos),m.,(sopa)
+α,∵,τ,-,n,_,p,:,$,·sh,a,(mos),m.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -856,33 +856,33 @@ NO-BREAK SPACE
 Lamentations 1:20 in vtrad vtsef
 r,:,α,‥,(qom),h
 SPACE
-y,:,h,o,w,a,(mah),h
+y,:,h,o,v,a,(mah),h
 SPACE
-k,·,i,(mos),y,-,ц,_,r,-,l,i,y,(pash)
+k,·,i,(mos),y,-,c,_,r,-,l,i,y,(pash)
 SPACE
-m,‥,ʕ,_,(mun),y
+m,‥,3,_,(mun),y
 SPACE
-x,:a,m,_,r,:,m,a,(zaq_q),r,w,·
+x,:a,m,_,r,:,m,a,(zaq_q),r,v,·
 SPACE
-n,∵,h,:,f,·,_,(mah),k.,:
+n,∵,h,:,p,·,_,(mah),k.,:
 SPACE
-l,i,v,·,i,y,(pash)
+l,i,b,·,i,y,(pash)
 SPACE
-v,·,:,q,i,r,:,v,·,i,(zaq_q),y
+b,·,:,q,i,r,:,b,·,i,(zaq_q),y
 SPACE
 k,·,i,(mer),y
 SPACE
-m,a,r,(tip),w,o
+m,a,r,(tip),v,o
 SPACE
 m,a,r,i,(atn),y,τ,i,y
 SPACE
-m,i,x,(mer),w,·,ц.
+m,i,x,(mer),v,·,c.
 SPACE
-$,·sh,i,k,·,:,l,a,h,-,x,∵,(tip),r,∵,v
+$,·sh,i,k,·,:,l,a,h,-,x,∵,(tip),r,∵,b
 SPACE
-v,·,_,v,·,_,(mer),y,i,τ
+b,·,_,b,·,_,(mer),y,i,τ
 SPACE
-k,·,_,m,·,a,(mos),w,∵,τ,(sopa)
+k,·,_,m,·,a,(mos),v,∵,τ,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -897,7 +897,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 1:21 in vtrad vtsef
-$,·sh,a,m,:,ʕ,(ger_2),w,·
+$,·sh,a,m,:,3,(ger_2),v,·
 SPACE
 k,·,i,(dar),y
 SPACE
@@ -911,25 +911,25 @@ m,:,n,_,x,‥,m.,(pash)
 SPACE
 l,i,(zaq_q),y
 SPACE
-k,·,oa,l,-,α,o,(qom),y,:,v,_,(ger),y
+k,·,oa,l,-,α,o,(qom),y,:,b,_,(ger),y
 SPACE
-$,·sh,a,m,:,ʕ,(mah),w,·
+$,·sh,a,m,:,3,(mah),v,·
 SPACE
-r,a,(mos),ʕ,a,τ,i,y,(pash)
+r,a,(mos),3,a,τ,i,y,(pash)
 SPACE
-$,·si,a,(zaq_q),$,·si,w,·
+$,·si,a,(zaq_q),$,·si,v,·
 SPACE
 k,·,i,(mer),y
 SPACE
 α,_,τ,·,a,(tip),h
 SPACE
-ʕ,a,$,·si,i,(atn),y,τ,a
+3,a,$,·si,i,(atn),y,τ,a
 SPACE
-h,‥,v,‥,(mer),α,τ,a
+h,‥,b,‥,(mer),α,τ,a
 SPACE
-y,w,o,m.,-,q,a,r,a,(tip),α,τ,a
+y,v,o,m.,-,q,a,r,a,(tip),α,τ,a
 SPACE
-w,:,y,i,(mos),h,:,y,(mer),w,·
+v,:,y,i,(mos),h,:,y,(mer),v,·
 SPACE
 k,a,m,o,(mos),n,i,y,(sopa)
 NO-BREAK SPACE
@@ -946,69 +946,69 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 1:22 in vtrad vtsef
-τ,·,a,v,o,(qom),α
+τ,·,a,b,o,(qom),α
 SPACE
-k,oa,l,-,r,a,ʕ,a,τ,a,(mah),m.
+k,oa,l,-,r,a,3,a,τ,a,(mah),m.
 SPACE
-l,:,f,a,n,∵,(pash),y,k.,a,(pash)
+l,:,p,a,n,∵,(pash),y,k.,a,(pash)
 SPACE
-w,:,ʕ,w,o,l,‥,(mun),l
+v,:,3,v,o,l,‥,(mun),l
 SPACE
-l,a,(zaq_q),m,w,o
+l,a,(zaq_q),m,v,o
 SPACE
 k,·,_,α,:_,$,·sh,∵,(mer),r
 SPACE
-ʕ,w,o,l,_,(tev),l,:,τ,·,a
+3,v,o,l,_,(tev),l,:,τ,·,a
 SPACE
 l,i,(tip),y
 SPACE
-ʕ,_,(mun),l
+3,_,(mun),l
 SPACE
-k,·,oa,l,-,f,·,:,$,·sh,a,ʕ,a,(atn),y
+k,·,oa,l,-,p,·,:,$,·sh,a,3,a,(atn),y
 SPACE
-k,·,i,(mos),y,-,r,_,v,·,(mer),w,o,τ
+k,·,i,(mos),y,-,r,_,b,·,(mer),v,o,τ
 SPACE
 α,_,n,:,x,o,τ,_,(tip),y
 SPACE
-w,:,l,i,v,·,i,(mer),y
+v,:,l,i,b,·,i,(mer),y
 SPACE
-d,_,w,·,a,(mos),y,(sopa)
+d,_,v,·,a,(mos),y,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-pe
-LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+LEFT CURLY BRACKET,p,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
 START/STOP br
 
 Lamentations 2:1 in vtrad vtsef
 α,‥,y,k,a,h,(tel_q)
 SPACE
-y,a,ʕ,i,(qom),y,v
+y,a,3,i,(qom),y,b
 SPACE
-v,·,:,α,_,f,·,(mah),w,o,THIN SPACE
+b,·,:,α,_,p,·,(mah),v,o,THIN SPACE
 START small
 |
 STOP small
 THIN SPACE,α,:_,d,o,n,a,y,(pash)
 SPACE
-α,∵,τ,-,v,·,_,τ,-,ц,i,y,·,(zaq_q),w,o,n.
+α,∵,τ,-,b,·,_,τ,-,c,i,y,·,(zaq_q),v,o,n.
 SPACE
 h,i,$,·sh,:,l,i,(mah),y,k.,:
 SPACE
 m,i,$,·sh,·,a,m,_,(pash),y,i,m.,(pash)
 SPACE
-α,∵,(zaq_q),r,∵,ц.
+α,∵,(zaq_q),r,∵,c.
 SPACE
-τ,·,i,f,:,α,∵,(tip),r,∵,τ
+τ,·,i,p,:,α,∵,(tip),r,∵,τ
 SPACE
 y,i,$,·si,:,r,a,α,‥,(atn),l
 SPACE
-w,:,l,o,α,-,z,a,k,_,(mer),r
+v,:,l,o,α,-,z,a,k,_,(mer),r
 SPACE
-h,:_,d,o,m.,-,r,_,g,:,l,a,(tip),y,w
+h,:_,d,o,m.,-,r,_,g,:,l,a,(tip),y,v
 SPACE
-v,·,:,y,(mer),w,o,m.
+b,·,:,y,(mer),v,o,m.
 SPACE
-α,_,f,·,(mos),w,o,(sopa)
+α,_,p,·,(mos),v,o,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -1023,7 +1023,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 2:2 in vtrad vtsef
-v,·,i,l,·,_,(qom),ʕ
+b,·,i,l,·,_,(qom),3
 SPACE
 α,:_,d,o,n,a,(ger),y
 SPACE
@@ -1033,7 +1033,7 @@ LEFT PARENTHESIS,l,α,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,w,:,l,o,(mun),α,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,v,:,l,o,(mun),α,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -1041,27 +1041,27 @@ x,a,m,_,(rev),l
 SPACE
 α,‥,(yet),τ
 SPACE
-k,·,oa,l,-,n,:,α,(mun),w,o,τ
+k,·,oa,l,-,n,:,α,(mun),v,o,τ
 SPACE
-y,_,ʕ,:_,q,o,(zaq_q),v
+y,_,3,:_,q,o,(zaq_q),b
 SPACE
 h,a,r,_,(dar),σ
 SPACE
-v,·,:,ʕ,∵,v,:,r,a,τ,(tev),w,o
+b,·,:,3,∵,b,:,r,a,τ,(tev),v,o
 SPACE
-m,i,v,:,ц,:,r,‥,(mer),y
+m,i,b,:,c,:,r,‥,(mer),y
 SPACE
-v,_,τ,-,y,:,h,w,·,d,a,(tip),h
+b,_,τ,-,y,:,h,v,·,d,a,(tip),h
 SPACE
-h,i,g,·,i,(mun),y,ʕ,_
+h,i,g,·,i,(mun),y,3,_
 SPACE
-l,a,α,a,(atn),r,∵,ц.
+l,a,α,a,(atn),r,∵,c.
 SPACE
 x,i,l,·,‥,(mer),l
 SPACE
 m,_,m,:,l,a,k,a,(tip),h
 SPACE
-w,:,$,·si,a,r,∵,(mos),y,h,a,(sopa)
+v,:,$,·si,a,r,∵,(mos),y,h,a,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -1076,9 +1076,9 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 2:3 in vtrad vtsef
-g,·,a,d,_,(mun),ʕ
+g,·,a,d,_,(mun),3
 SPACE
-v,·,oa,(mos),x,:a,r,i,y,-,α,_,(rev),f.
+b,·,oa,(mos),x,:a,r,i,y,-,α,_,(rev),p.
 SPACE
 k,·,o,(yet),l
 SPACE
@@ -1086,27 +1086,27 @@ q,∵,(mun),r,∵,n.
 SPACE
 y,i,$,·si,:,r,a,α,‥,(zaq_q),l
 SPACE
-h,‥,$,·sh,i,(mer),y,v
+h,‥,$,·sh,i,(mer),y,b
 SPACE
-α,a,x,(tev),w,o,r
+α,a,x,(tev),v,o,r
 SPACE
-y,:,m,i,y,n,(tip),w,o
+y,:,m,i,y,n,(tip),v,o
 SPACE
-m,i,f,·,:,n,‥,(mun),y
+m,i,p,·,:,n,‥,(mun),y
 SPACE
-α,w,o,y,‥,(atn),v
+α,v,o,y,‥,(atn),b
 SPACE
-w,_,y,·,i,v,:,ʕ,_,(mah),r
+v,_,y,·,i,b,:,3,_,(mah),r
 SPACE
-v,·,:,y,_,ʕ,:_,q,o,v,(pash)
+b,·,:,y,_,3,:_,q,o,b,(pash)
 SPACE
 k,·,:,α,‥,(mun),$,·sh
 SPACE
-l,∵,(mos),h,a,v,a,(zaq_q),h
+l,∵,(mos),h,a,b,a,(zaq_q),h
 SPACE
 α,a,k,:,l,a,(tip),h
 SPACE
-σ,a,v,i,(mos),y,v,(sopa)
+σ,a,b,i,(mos),y,b,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -1123,31 +1123,31 @@ NO-BREAK SPACE
 Lamentations 2:4 in vtrad vtsef
 d,·,a,r,_,(qom),k.,:
 SPACE
-q,_,$,·sh,:,τ,·,(ger),w,o
+q,_,$,·sh,:,τ,·,(ger),v,o
 SPACE
-k,·,:,α,w,o,y,‥,(rev),v
+k,·,:,α,v,o,y,‥,(rev),b
 SPACE
-n,i,ц,·,a,(mah),v
+n,i,c,·,a,(mah),b
 SPACE
-y,:,m,i,y,n,w,o,(pash)
+y,:,m,i,y,n,v,o,(pash)
 SPACE
-k,·,:,ц,a,(zaq_q),r
+k,·,:,c,a,(zaq_q),r
 SPACE
-w,_,(mos),y,·,_,h,:_,r,o,(zaq_q),g
+v,_,(mos),y,·,_,h,:_,r,o,(zaq_q),g
 SPACE
 k,·,o,(tip),l
 SPACE
-m,_,x,:_,m,_,d,·,‥,y,-,ʕ,a,(atn),y,i,n.
+m,_,x,:_,m,_,d,·,‥,y,-,3,a,(atn),y,i,n.
 SPACE
-v,·,:,α,o,(pash),h,∵,l,(pash)
+b,·,:,α,o,(pash),h,∵,l,(pash)
 SPACE
-v,·,_,τ,-,ц,i,y,·,(zaq_q),w,o,n.
+b,·,_,τ,-,c,i,y,·,(zaq_q),v,o,n.
 SPACE
-$,·sh,a,f,_,(mer),k.,:
+$,·sh,a,p,_,(mer),k.,:
 SPACE
 k,·,a,α,‥,(tip),$,·sh
 SPACE
-x,:_,m,a,τ,(mos),w,o,(sopa)
+x,:_,m,a,τ,(mos),v,o,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -1168,27 +1168,27 @@ SPACE
 START small
 |
 STOP small
-THIN SPACE,k,·,:,α,w,o,y,‥,v,(pash)
+THIN SPACE,k,·,:,α,v,o,y,‥,b,(pash)
 SPACE
-v,·,i,l,·,_,(mun),ʕ
+b,·,i,l,·,_,(mun),3
 SPACE
 y,i,$,·si,:,r,a,α,‥,(zaq_q),l
 SPACE
-v,·,i,l,·,_,ʕ,(pash)
+b,·,i,l,·,_,3,(pash)
 SPACE
-k,·,oa,l,-,α,_,r,:,m,:,n,w,o,τ,∵,(zaq_q),y,h,a
+k,·,oa,l,-,α,_,r,:,m,:,n,v,o,τ,∵,(zaq_q),y,h,a
 SPACE
 $,·sh,i,x,‥,(tip),τ
 SPACE
-m,i,v,:,ц,a,r,a,(atn),y,w
+m,i,b,:,c,a,r,a,(atn),y,v
 SPACE
-w,_,y,·,∵,(pash),r,∵,v,(pash)
+v,_,y,·,∵,(pash),r,∵,b,(pash)
 SPACE
-v,·,:,v,_,τ,-,y,:,h,w,·,d,a,(zaq_q),h
+b,·,:,b,_,τ,-,y,:,h,v,·,d,a,(zaq_q),h
 SPACE
 τ,·,_,α,:_,n,i,y,·,a,(tip),h
 SPACE
-w,_,α,:_,n,i,y,·,a,(mos),h,(sopa)
+v,_,α,:_,n,i,y,·,a,(mos),h,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -1203,35 +1203,35 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 2:6 in vtrad vtsef
-w,_,y,·,_,x,:,m,o,(mah),σ
+v,_,y,·,_,x,:,m,o,(mah),σ
 SPACE
 k,·,_,g,·,_,n.,(pash)
 SPACE
-$,·si,u,k,·,(zaq_q),w,o
+$,·si,u,k,·,(zaq_q),v,o
 SPACE
 $,·sh,i,x,‥,(tip),τ
 SPACE
-m,o,ʕ,:_,d,(atn),w,o
+m,o,3,:_,d,(atn),v,o
 SPACE
 $,·sh,i,k,·,_,(qom),x
 SPACE
-y,:,h,o,w,a,(mah),h,THIN SPACE
+y,:,h,o,v,a,(mah),h,THIN SPACE
 START small
 |
 STOP small
-THIN SPACE,v,·,:,ц,i,y,·,w,o,n.,(pash)
+THIN SPACE,b,·,:,c,i,y,·,v,o,n.,(pash)
 SPACE
-m,w,o,ʕ,‥,(mun),d
+m,v,o,3,‥,(mun),d
 SPACE
-w,:,$,·sh,_,v,·,a,(zaq_q),τ
+v,:,$,·sh,_,b,·,a,(zaq_q),τ
 SPACE
-w,_,y,·,i,n,:,α,_,(mer),ц.
+v,_,y,·,i,n,:,α,_,(mer),c.
 SPACE
-v,·,:,z,_,(mos),ʕ,_,m.,-,α,_,f,·,(tip),w,o
+b,·,:,z,_,(mos),3,_,m.,-,α,_,p,·,(tip),v,o
 SPACE
 m,∵,(mer),l,∵,k.,:
 SPACE
-w,:,k,o,h,‥,(mos),n.,(sopa)
+v,:,k,o,h,‥,(mos),n.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -1252,29 +1252,29 @@ SPACE
 START small
 |
 STOP small
-THIN SPACE,m,i,z,:,v,·,:,x,w,o,(pash)
+THIN SPACE,m,i,z,:,b,·,:,x,v,o,(pash)
 SPACE
 n,i,α,‥,(mun),r
 SPACE
-m,i,q,:,d,·,a,$,·sh,(zaq_q),w,o
+m,i,q,:,d,·,a,$,·sh,(zaq_q),v,o
 SPACE
 h,i,σ,:,g,·,i,y,r,(pash)
 SPACE
-v,·,:,y,_,d,-,α,w,o,y,‥,(zaq_q),v
+b,·,:,y,_,d,-,α,v,o,y,‥,(zaq_q),b
 SPACE
-x,w,o,m,o,(tip),τ
+x,v,o,m,o,(tip),τ
 SPACE
-α,_,r,:,m,:,n,w,o,τ,∵,(atn),y,h,a
+α,_,r,:,m,:,n,v,o,τ,∵,(atn),y,h,a
 SPACE
-q,(tev),w,o,l
+q,(tev),v,o,l
 SPACE
-n,a,τ,:,n,(mer),w,·
+n,a,τ,:,n,(mer),v,·
 SPACE
-v,·,:,v,‥,y,τ,-,y,:,h,o,w,a,(tip),h
+b,·,:,b,‥,y,τ,-,y,:,h,o,v,a,(tip),h
 SPACE
-k,·,:,y,(mer),w,o,m.
+k,·,:,y,(mer),v,o,m.
 SPACE
-m,w,o,ʕ,‥,(mos),d,(sopa)
+m,v,o,3,‥,(mos),d,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -1289,35 +1289,35 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 2:8 in vtrad vtsef
-x,a,$,·sh,_,(qom),v
+x,a,$,·sh,_,(qom),b
 SPACE
-y,:,h,o,w,a,(mah),h,THIN SPACE
+y,:,h,o,v,a,(mah),h,THIN SPACE
 START small
 |
 STOP small
 THIN SPACE,l,:,h,_,$,·sh,:,x,i,y,τ,(pash)
 SPACE
-x,w,o,m,_,(mun),τ
+x,v,o,m,_,(mun),τ
 SPACE
-v,·,_,τ,-,ц,i,y,·,(zaq_q),w,o,n.
+b,·,_,τ,-,c,i,y,·,(zaq_q),v,o,n.
 SPACE
 n,a,(mun),θ,a,h
 SPACE
-q,a,(zaq_q),w
+q,a,(zaq_q),v
 SPACE
-l,o,α,-,h,‥,$,·sh,i,(mer),y,v
+l,o,α,-,h,‥,$,·sh,i,(mer),y,b
 SPACE
-y,a,d,(tip),w,o
+y,a,d,(tip),v,o
 SPACE
-m,i,v,·,_,l,·,‥,(atn),ʕ,_
+m,i,b,·,_,l,·,‥,(atn),3,_
 SPACE
-w,_,y,·,_,(mos),α,:_,v,∵,l,-,x,‥,(mer),l
+v,_,y,·,_,(mos),α,:_,b,∵,l,-,x,‥,(mer),l
 SPACE
-w,:,x,w,o,m,a,(tip),h
+v,:,x,v,o,m,a,(tip),h
 SPACE
-y,_,x,:,d,·,a,(mer),w
+y,_,x,:,d,·,a,(mer),v
 SPACE
-α,u,m,:,l,a,(mos),l,w,·,(sopa)
+α,u,m,:,l,a,(mos),l,v,·,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -1335,35 +1335,35 @@ Lamentations 2:9 in vtrad vtsef
 START small
 θ,a
 STOP small
-v,:,ʕ,(mah),w,·
+b,:,3,(mah),v,·
 SPACE
-v,a,α,a,(pash),r,∵,ц.,(pash)
+b,a,α,a,(pash),r,∵,c.,(pash)
 SPACE
-$,·sh,:,ʕ,a,r,∵,(zaq_q),y,h,a
+$,·sh,:,3,a,r,∵,(zaq_q),y,h,a
 SPACE
-α,i,v,·,_,(mer),d
+α,i,b,·,_,(mer),d
 SPACE
-w,:,$,·sh,i,v,·,_,(tip),r
+v,:,$,·sh,i,b,·,_,(tip),r
 SPACE
-v,·,:,r,i,y,x,∵,(atn),y,h,a
+b,·,:,r,i,y,x,∵,(atn),y,h,a
 SPACE
 m,_,l,:,k,·,a,(qom),h,·
 SPACE
-w,:,$,·si,a,r,∵,(mah),y,h,a
+v,:,$,·si,a,r,∵,(mah),y,h,a
 SPACE
-v,_,g,·,w,o,y,i,m.,(pash)
+b,_,g,·,v,o,y,i,m.,(pash)
 SPACE
 α,‥,(mun),y,n.
 SPACE
-τ,·,w,o,r,a,(zaq_q),h
+τ,·,v,o,r,a,(zaq_q),h
 SPACE
-g,·,_,m.,-,n,:,v,i,y,α,∵,(zaq_g),y,h,a
+g,·,_,m.,-,n,:,b,i,y,α,∵,(zaq_g),y,h,a
 SPACE
-l,o,α,-,m,a,ц,:,α,(mer),w,·
+l,o,α,-,m,a,c,:,α,(mer),v,·
 SPACE
-x,a,z,(tip),w,o,n.
+x,a,z,(tip),v,o,n.
 SPACE
-m,‥,y,:,h,o,w,a,(mos),h,(sopa)
+m,‥,y,:,h,o,v,a,(mos),h,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -1378,35 +1378,35 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 2:10 in vtrad vtsef
-y,‥,$,·sh,:,v,(qom),w,·
+y,‥,$,·sh,:,b,(qom),v,·
 SPACE
-l,a,α,a,(mah),r,∵,ц.
+l,a,α,a,(mah),r,∵,c.
 SPACE
-y,i,d,·,:,m,w,·,(pash)
+y,i,d,·,:,m,v,·,(pash)
 SPACE
 z,i,q,:,n,‥,(mun),y
 SPACE
-v,_,τ,-,ц,i,y,·,(zaq_q),w,o,n.
+b,_,τ,-,c,i,y,·,(zaq_q),v,o,n.
 SPACE
-h,∵,(mos),ʕ,:∵,l,(mah),w,·
+h,∵,(mos),3,:∵,l,(mah),v,·
 SPACE
-ʕ,a,f,a,r,(pash)
+3,a,p,a,r,(pash)
 SPACE
-ʕ,_,l,-,r,o,α,$,·sh,a,(zaq_q),m.
+3,_,l,-,r,o,α,$,·sh,a,(zaq_q),m.
 SPACE
-x,a,g,:,r,(tip),w,·
+x,a,g,:,r,(tip),v,·
 SPACE
 $,·si,_,q,·,i,(atn),y,m.
 SPACE
-h,w,o,r,i,(mah),y,d,w,·
+h,v,o,r,i,(mah),y,d,v,·
 SPACE
-l,a,α,a,(pash),r,∵,ц.,(pash)
+l,a,α,a,(pash),r,∵,c.,(pash)
 SPACE
 r,o,α,$,·sh,a,(zaq_q),n.
 SPACE
-v,·,:,τ,w,·,l,o,(tip),τ
+b,·,:,τ,v,·,l,o,(tip),τ
 SPACE
-y,:,r,w,·,$,·sh,a,l,a,(mos),CGJ,i,m.,(sopa)
+y,:,r,v,·,$,·sh,a,l,a,(mos),CGJ,i,m.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -1421,33 +1421,33 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 2:11 in vtrad vtsef
-k,·,a,l,(qom),w,·
+k,·,a,l,(qom),v,·
 SPACE
-v,_,d,·,:,m,a,ʕ,(mah),w,o,τ
+b,_,d,·,:,m,a,3,(mah),v,o,τ
 SPACE
-ʕ,‥,y,n,_,y,(pash)
+3,‥,y,n,_,y,(pash)
 SPACE
-x,:a,m,_,r,:,m,:,r,(mun),w,·
+x,:a,m,_,r,:,m,:,r,(mun),v,·
 SPACE
-m,‥,ʕ,_,(zaq_q),y
+m,‥,3,_,(zaq_q),y
 SPACE
-n,i,$,·sh,:,f,·,_,(mah),k.,:
+n,i,$,·sh,:,p,·,_,(mah),k.,:
 SPACE
-l,a,α,a,(pash),r,∵,ц.,(pash)
+l,a,α,a,(pash),r,∵,c.,(pash)
 SPACE
-k,·,:,v,‥,d,i,(zaq_q),y
+k,·,:,b,‥,d,i,(zaq_q),y
 SPACE
-ʕ,_,l,-,$,·sh,∵,(tip),v,∵,r
+3,_,l,-,$,·sh,∵,(tip),b,∵,r
 SPACE
-v,·,_,τ,-,ʕ,_,m,·,i,(atn),y
+b,·,_,τ,-,3,_,m,·,i,(atn),y
 SPACE
-v,·,‥,(mos),ʕ,a,θ,‥,(mah),f.
+b,·,‥,(mos),3,a,θ,‥,(mah),p.
 SPACE
-ʕ,w,o,l,‥,l,(pash)
+3,v,o,l,‥,l,(pash)
 SPACE
-w,:,y,w,o,n,‥,(zaq_q),q
+v,:,y,v,o,n,‥,(zaq_q),q
 SPACE
-v,·,i,r,:,x,o,v,(tip),w,o,τ
+b,·,i,r,:,x,o,b,(tip),v,o,τ
 SPACE
 q,i,r,:,y,a,(mos),h,(sopa)
 NO-BREAK SPACE
@@ -1466,25 +1466,25 @@ NO-BREAK SPACE
 Lamentations 2:12 in vtrad vtsef
 l,:,α,i,m,·,o,τ,a,m.,(pash)
 SPACE
-y,o,(mos),α,m,:,r,(zaq_q),w,·
+y,o,(mos),α,m,:,r,(zaq_q),v,·
 SPACE
 α,_,y,·,‥,(tip),h
 SPACE
 d,·,a,g,a,(mun),n.
 SPACE
-w,a,y,a,(atn),y,i,n.
+v,a,y,a,(atn),y,i,n.
 SPACE
-v,·,:,h,i,(mos),τ,:,ʕ,_,θ,·,:,f,a,(mah),m.
+b,·,:,h,i,(mos),τ,:,3,_,θ,·,:,p,a,(mah),m.
 SPACE
 k,·,∵,(mos),x,a,l,a,l,(pash)
 SPACE
-v,·,i,r,:,x,o,v,(mun),w,o,τ
+b,·,i,r,:,x,o,b,(mun),v,o,τ
 SPACE
-ʕ,i,(zaq_q),y,r
+3,i,(zaq_q),y,r
 SPACE
-v,·,:,h,i,$,·sh,:,τ,·,_,f,·,‥,(mun),k.,:
+b,·,:,h,i,$,·sh,:,τ,·,_,p,·,‥,(mun),k.,:
 SPACE
-n,_,f,:,$,·sh,a,(zaq_q),m.
+n,_,p,:,$,·sh,a,(zaq_q),m.
 SPACE
 α,∵,l,-,x,‥,(tip),y,q
 SPACE
@@ -1503,35 +1503,35 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 2:13 in vtrad vtsef
-m,a,(mos),h,-,α,:_,ʕ,i,y,d,‥,(ger_2),k.,:
+m,a,(mos),h,-,α,:_,3,i,y,d,‥,(ger_2),k.,:
 SPACE
 m,a,(mun),h
 SPACE
 α,:_,d,_,m,·,∵,h,-,l,·,a,(rev),k.,:
 SPACE
-h,_,v,·,_,τ,(pash)
+h,_,b,·,_,τ,(pash)
 SPACE
-y,:,r,(mun),w,·,$,·sh,a,l,_,(zaq_q),CGJ,i,m.
+y,:,r,(mun),v,·,$,·sh,a,l,_,(zaq_q),CGJ,i,m.
 SPACE
 m,a,(mah),h
 SPACE
-α,_,$,·sh,:,w,∵,h,-,l,·,a,k.,:,(pash)
+α,_,$,·sh,:,v,∵,h,-,l,·,a,k.,:,(pash)
 SPACE
-w,_,α,:_,n,_,(mos),x,:_,m,‥,(zaq_q),k.,:
+v,_,α,:_,n,_,(mos),x,:_,m,‥,(zaq_q),k.,:
 SPACE
-v,·,:,τ,w,·,l,_,(tip),τ
+b,·,:,τ,v,·,l,_,(tip),τ
 SPACE
-v,·,_,τ,-,ц,i,y,·,(atn),w,o,n.
+b,·,_,τ,-,c,i,y,·,(atn),v,o,n.
 SPACE
-k,·,i,(mos),y,-,g,a,d,(mer),w,o,l
+k,·,i,(mos),y,-,g,a,d,(mer),v,o,l
 SPACE
 k,·,_,y,·,a,(tev),m.
 SPACE
-$,·sh,i,v,:,r,‥,(tip),k.,:
+$,·sh,i,b,:,r,‥,(tip),k.,:
 SPACE
 m,i,(mer),y
 SPACE
-y,i,r,:,f,·,a,α,-,l,a,(mos),k.,:,(sopa)
+y,i,r,:,p,·,a,α,-,l,a,(mos),k.,:,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -1546,41 +1546,41 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 2:14 in vtrad vtsef
-n,:,v,i,y,α,_,(rev),y,i,k.,:
+n,:,b,i,y,α,_,(rev),y,i,k.,:
 SPACE
-x,a,(mah),z,w,·
+x,a,(mah),z,v,·
 SPACE
 l,a,k.,:,(pash)
 SPACE
-$,·sh,a,(mun),w,:,α
+$,·sh,a,(mun),v,:,α
 SPACE
-w,:,τ,a,f,‥,(zaq_q),l
+v,:,τ,a,p,‥,(zaq_q),l
 SPACE
-w,:,l,o,(mos),α,-,g,i,l,·,(mer),w,·
+v,:,l,o,(mos),α,-,g,i,l,·,(mer),v,·
 SPACE
-ʕ,_,l,-,ʕ,:_,w,xxfv,n,‥,(tip),k.,:
+3,_,l,-,3,:_,v,xxfv,n,‥,(tip),k.,:
 SPACE
-l,:,h,a,$,·sh,i,(mun),y,v
+l,:,h,a,$,·sh,i,(mun),y,b
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
-LEFT PARENTHESIS,$,v,y,τ,k.,RIGHT PARENTHESIS
+LEFT PARENTHESIS,$,b,y,τ,k.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,$,·sh,:,v,w,·,τ,‥,(atn),k.,:,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,$,·sh,:,b,v,·,τ,‥,(atn),k.,:,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
-w,_,y,·,∵,(mun),x,:∵,z,w,·
+v,_,y,·,∵,(mun),x,:∵,z,v,·
 SPACE
 l,a,(zaq_q),k.,:
 SPACE
-m,_,$,·si,:,α,(mer),w,o,τ
+m,_,$,·si,:,α,(mer),v,o,τ
 SPACE
-$,·sh,a,(tip),w,:,α
+$,·sh,a,(tip),v,:,α
 SPACE
-w,·,m,_,d,·,w,·,x,i,(mos),y,m.,(sopa)
+v,·,m,_,d,·,v,·,x,i,(mos),y,m.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -1595,39 +1595,39 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 2:15 in vtrad vtsef
-σ,a,(mos),f,:,q,(qom),w,·
+σ,a,(mos),p,:,q,(qom),v,·
 SPACE
-ʕ,a,l,_,(mah),y,i,k.,:
+3,a,l,_,(mah),y,i,k.,:
 SPACE
-k,·,_,f,·,_,(pash),y,i,m.,(pash)
+k,·,_,p,·,_,(pash),y,i,m.,(pash)
 SPACE
-k,·,oa,l,-,ʕ,o,(mun),v,:,r,‥,y
+k,·,oa,l,-,3,o,(mun),b,:,r,‥,y
 SPACE
 d,∵,(zaq_q),r,∵,k.,:
 SPACE
-$,·sh,a,(mos),r,:,q,w,·,(pash)
+$,·sh,a,(mos),r,:,q,v,·,(pash)
 SPACE
-w,_,y,·,a,n,i,(mun),ʕ,w,·
+v,_,y,·,a,n,i,(mun),3,v,·
 SPACE
 r,o,α,$,·sh,a,(zaq_q),m.
 SPACE
-ʕ,_,l,-,v,·,_,(tip),τ
+3,_,l,-,b,·,_,(tip),τ
 SPACE
-y,:,r,w,·,$,·sh,a,l,a,(atn),CGJ,i,m.
+y,:,r,v,·,$,·sh,a,l,a,(atn),CGJ,i,m.
 SPACE
 h,:_,z,o,(mun),α,τ
 SPACE
-h,a,ʕ,i,(rev),y,r
+h,a,3,i,(rev),y,r
 SPACE
-$,·sh,∵,y,·,o,(mos),α,m,:,r,w,·,(pash)
+$,·sh,∵,y,·,o,(mos),α,m,:,r,v,·,(pash)
 SPACE
 k,·,:,l,i,(mun),y,l,_,τ
 SPACE
-y,o,(zaq_q),f,i,y
+y,o,(zaq_q),p,i,y
 SPACE
-m,a,$,·si,(tip),w,o,$,·si
+m,a,$,·si,(tip),v,o,$,·si
 SPACE
-l,:,k,oa,l,-,h,a,α,a,(mos),r,∵,ц.,(sopa)
+l,:,k,oa,l,-,h,a,α,a,(mos),r,∵,c.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -1642,33 +1642,33 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 2:16 in vtrad vtsef
-f,·,a,ц,(qom),w,·
+p,·,a,c,(qom),v,·
 SPACE
-ʕ,a,l,_,(mah),y,i,k.,:
+3,a,l,_,(mah),y,i,k.,:
 SPACE
-f,·,i,y,h,∵,m.,(pash)
+p,·,i,y,h,∵,m.,(pash)
 SPACE
-k,·,oa,l,-,α,o,(mun),y,:,v,_,(zaq_q),y,i,k.,:
+k,·,oa,l,-,α,o,(mun),y,:,b,_,(zaq_q),y,i,k.,:
 SPACE
-$,·sh,a,(mos),r,:,q,w,·,(pash)
+$,·sh,a,(mos),r,:,q,v,·,(pash)
 SPACE
-w,_,y,·,_,(mos),x,_,r,:,q,w,·,-,$,·sh,‥,(zaq_q),n.
+v,_,y,·,_,(mos),x,_,r,:,q,v,·,-,$,·sh,‥,(zaq_q),n.
 SPACE
-α,a,m,:,r,(tip),w,·
+α,a,m,:,r,(tip),v,·
 SPACE
-v,·,i,l,·,a,(atn),ʕ,:,n,w,·
+b,·,i,l,·,a,(atn),3,:,n,v,·
 SPACE
 α,_,(mun),k.,:
 SPACE
 z,∵,(mer),h
 SPACE
-h,_,y,·,(tev),w,o,m.
+h,_,y,·,(tev),v,o,m.
 SPACE
-$,·sh,∵,q,·,i,w,·,i,y,n,u,(tip),h,w,·
+$,·sh,∵,q,·,i,v,·,i,y,n,u,(tip),h,v,·
 SPACE
-m,a,ц,a,(mer),α,n,w,·
+m,a,c,a,(mer),α,n,v,·
 SPACE
-r,a,α,i,(mos),y,n,w,·,(sopa)
+r,a,α,i,(mos),y,n,v,·,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -1683,41 +1683,41 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 2:17 in vtrad vtsef
-ʕ,a,$,·si,a,(qom),h
+3,a,$,·si,a,(qom),h
 SPACE
-y,:,h,o,w,a,(ger),h
+y,:,h,o,v,a,(ger),h
 SPACE
 α,:_,$,·sh,∵,(mun),r
 SPACE
 z,a,m,a,(rev),m.
 SPACE
-v,·,i,ц,·,_,(mah),ʕ
+b,·,i,c,·,_,(mah),3
 SPACE
-α,∵,m,:,r,a,τ,w,o,(pash)
+α,∵,m,:,r,a,τ,v,o,(pash)
 SPACE
 α,:_,$,·sh,∵,(mun),r
 SPACE
-ц,i,w,·,a,(mun),h
+c,i,v,·,a,(mun),h
 SPACE
 m,i,(mos),y,m,‥,y,-,q,∵,(zaq_q),d,∵,m.
 SPACE
 h,a,r,_,(tip),σ
 SPACE
-w,:,l,o,(mun),α
+v,:,l,o,(mun),α
 SPACE
 x,a,m,a,(atn),l
 SPACE
-w,_,y,:,$,·si,_,m,·,_,(mah),x
+v,_,y,:,$,·si,_,m,·,_,(mah),x
 SPACE
-ʕ,a,l,_,(pash),y,i,k.,:,(pash)
+3,a,l,_,(pash),y,i,k.,:,(pash)
 SPACE
-α,w,o,y,‥,(zaq_q),v
+α,v,o,y,‥,(zaq_q),b
 SPACE
 h,‥,r,i,(tip),y,m.
 SPACE
 q,∵,(mer),r,∵,n.
 SPACE
-ц,a,r,a,(mos),y,i,k.,:,(sopa)
+c,a,r,a,(mos),y,i,k.,:,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -1732,35 +1732,35 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 2:18 in vtrad vtsef
-ц,a,ʕ,_,(mer),q
+c,a,3,_,(mer),q
 SPACE
-l,i,v,·,a,(tip),m.
+l,i,b,·,a,(tip),m.
 SPACE
 α,∵,l,-,α,:_,d,o,n,a,(atn),y
 SPACE
-x,w,o,m,_,(mun),τ
+x,v,o,m,_,(mun),τ
 SPACE
-v,·,_,τ,-,ц,i,(tel_g),y,·,(tel_g),w,o,n.
+b,·,_,τ,-,c,i,(tel_g),y,·,(tel_g),v,o,n.
 SPACE
-h,w,o,r,i,(qom),y,d,i,y
+h,v,o,r,i,(qom),y,d,i,y
 SPACE
 k,_,n,·,_,(mah),x,_,l
 SPACE
-d,·,i,m,:,ʕ,a,h,(pash)
+d,·,i,m,:,3,a,h,(pash)
 SPACE
-y,w,o,m,a,(mun),m.
+y,v,o,m,a,(mun),m.
 SPACE
-w,a,l,_,(zaq_q),y,:,l,a,h
+v,a,l,_,(zaq_q),y,:,l,a,h
 SPACE
 α,_,(mos),l,-,τ,·,i,τ,·,:,n,i,(mah),y
 SPACE
-f,w,·,g,_,τ,(pash)
+p,v,·,g,_,τ,(pash)
 SPACE
 l,a,(zaq_q),k.,:
 SPACE
 α,_,l,-,τ,·,i,d,·,o,(tip),m.
 SPACE
-v,·,_,τ,-,ʕ,‥,y,n,‥,(mos),k.,:,(sopa)
+b,·,_,τ,-,3,‥,y,n,‥,(mos),k.,:,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -1775,7 +1775,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 2:19 in vtrad vtsef
-q,(mun),w,·,m,i,y,THIN SPACE
+q,(mun),v,·,m,i,y,THIN SPACE
 START b
 |
 STOP b
@@ -1784,47 +1784,47 @@ r,o,(mun),n,·,i,y
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
-LEFT PARENTHESIS,v,l,y,l,RIGHT PARENTHESIS
+LEFT PARENTHESIS,b,l,y,l,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,v,_,l,·,_,(rev),y,:,l,a,h,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,b,_,l,·,_,(rev),y,:,l,a,h,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
 l,:,r,o,α,$,·sh,(pash)
 SPACE
-α,_,$,·sh,:,m,u,r,(zaq_q),w,o,τ
+α,_,$,·sh,:,m,u,r,(zaq_q),v,o,τ
 SPACE
-$,·sh,i,f,:,k,i,(mah),y
+$,·sh,i,p,:,k,i,(mah),y
 SPACE
 k,_,m,·,_,(pash),y,i,m.,(pash)
 SPACE
-l,i,v,·,‥,(zaq_q),k.,:
+l,i,b,·,‥,(zaq_q),k.,:
 SPACE
 n,o,(tip),k,_,x
 SPACE
-f,·,:,n,‥,(mun),y
+p,·,:,n,‥,(mun),y
 SPACE
 α,:_,d,o,n,a,(atn),y
 SPACE
 $,·si,:,α,i,(dar),y
 SPACE
-α,‥,l,a,(mun),y,w
+α,‥,l,a,(mun),y,v
 SPACE
-k,·,_,f,·,_,(rev),y,i,k.,:
+k,·,_,p,·,_,(rev),y,i,k.,:
 SPACE
-ʕ,_,l,-,n,∵,(pash),f,∵,$,·sh,(pash)
+3,_,l,-,n,∵,(pash),p,∵,$,·sh,(pash)
 SPACE
-ʕ,(mos),w,o,l,a,l,_,(zaq_q),y,i,k.,:
+3,(mos),v,o,l,a,l,_,(zaq_q),y,i,k.,:
 SPACE
-h,a,ʕ,:_,θ,w,·,f,i,(mer),y,m.
+h,a,3,:_,θ,v,·,p,i,(mer),y,m.
 SPACE
-v,·,:,r,a,ʕ,a,(tip),v
+b,·,:,r,a,3,a,(tip),b
 SPACE
-v,·,:,r,o,(mer),α,$,·sh
+b,·,:,r,o,(mer),α,$,·sh
 SPACE
-k,·,oa,l,-,x,w,·,ц,(mos),w,o,τ,(sopa)
+k,·,oa,l,-,x,v,·,c,(mos),v,o,τ,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -1841,13 +1841,13 @@ NO-BREAK SPACE
 Lamentations 2:20 in vtrad vtsef
 r,:,α,‥,(mah),h
 SPACE
-y,:,h,o,w,a,h,(pash)
+y,:,h,o,v,a,h,(pash)
 SPACE
-w,:,(mos),h,_,v,·,i,(zaq_q),y,θ,a,h
+v,:,(mos),h,_,b,·,i,(zaq_q),y,θ,a,h
 SPACE
 l,:,m,i,(tip),y
 SPACE
-ʕ,w,o,l,_,(mun),l,:,τ,·,a
+3,v,o,l,_,(mun),l,:,τ,·,a
 SPACE
 k,·,o,(atn),h
 SPACE
@@ -1855,21 +1855,21 @@ SPACE
 SPACE
 n,a,$,·sh,i,(mah),y,m.
 SPACE
-f,·,i,r,:,y,a,m.,(pash)
+p,·,i,r,:,y,a,m.,(pash)
 SPACE
-ʕ,o,l,:,l,‥,(mun),y
+3,o,l,:,l,‥,(mun),y
 SPACE
-θ,i,f,·,u,x,i,(zaq_q),y,m.
+θ,i,p,·,u,x,i,(zaq_q),y,m.
 SPACE
 α,i,m.,-,y,‥,h,a,r,‥,(tev),g
 SPACE
-v,·,:,m,i,q,:,d,·,_,(mer),$,·sh
+b,·,:,m,i,q,:,d,·,_,(mer),$,·sh
 SPACE
 α,:_,d,o,n,a,(tip),y
 SPACE
 k,·,o,h,‥,(mer),n.
 SPACE
-w,:,n,a,v,i,(mos),y,α,(sopa)
+v,:,n,a,b,i,(mos),y,α,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -1884,31 +1884,31 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 2:21 in vtrad vtsef
-$,·sh,a,k,:,v,(qom),w,·
+$,·sh,a,k,:,b,(qom),v,·
 SPACE
-l,a,α,a,(mah),r,∵,ц.
+l,a,α,a,(mah),r,∵,c.
 SPACE
-x,w,·,ц,w,o,τ,(pash)
+x,v,·,c,v,o,τ,(pash)
 SPACE
-n,_,(mun),ʕ,_,r
+n,_,(mun),3,_,r
 SPACE
-w,:,z,a,q,‥,(zaq_q),n.
+v,:,z,a,q,‥,(zaq_q),n.
 SPACE
-v,·,:,τ,w,·,l,o,τ,_,(mer),y
+b,·,:,τ,v,·,l,o,τ,_,(mer),y
 SPACE
-w,·,v,_,x,w,·,r,_,(tip),y
+v,·,b,_,x,v,·,r,_,(tip),y
 SPACE
-n,a,f,:,l,(mun),w,·
+n,a,p,:,l,(mun),v,·
 SPACE
-v,∵,x,a,(atn),r,∵,v
+b,∵,x,a,(atn),r,∵,b
 SPACE
 h,a,r,_,(pash),g,:,τ,·,a,(pash)
 SPACE
-v,·,:,y,(mun),w,o,m.
+b,·,:,y,(mun),v,o,m.
 SPACE
-α,_,f,·,∵,(zaq_q),k.,a
+α,_,p,·,∵,(zaq_q),k.,a
 SPACE
-θ,a,v,_,(tip),x,:,τ,·,a
+θ,a,b,_,(tip),x,:,τ,·,a
 SPACE
 l,o,(mer),α
 SPACE
@@ -1929,51 +1929,51 @@ NO-BREAK SPACE
 Lamentations 2:22 in vtrad vtsef
 τ,·,i,q,:,r,a,α,(tel_q)
 SPACE
-k,:,y,(qom),w,o,m.
+k,:,y,(qom),v,o,m.
 SPACE
-m,w,o,ʕ,‥,(mah),d
+m,v,o,3,‥,(mah),d
 SPACE
-m,:,g,w,·,r,_,y,(pash)
+m,:,g,v,·,r,_,y,(pash)
 SPACE
-m,i,σ,·,a,v,i,(zaq_q),y,v
+m,i,σ,·,a,b,i,(zaq_q),y,b
 SPACE
-w,:,l,o,(mer),α
+v,:,l,o,(mer),α
 SPACE
 h,a,y,a,(tev),h
 SPACE
-v,·,:,y,(mer),w,o,m.
+b,·,:,y,(mer),v,o,m.
 SPACE
-α,_,f.,-,y,:,h,o,w,a,(tip),h
+α,_,p.,-,y,:,h,o,v,a,(tip),h
 SPACE
-f,·,a,l,i,(mun),y,θ
+p,·,a,l,i,(mun),y,θ
 SPACE
-w,:,$,·si,a,r,i,(atn),y,d
+v,:,$,·si,a,r,i,(atn),y,d
 SPACE
-α,:_,$,·sh,∵,r,-,θ,i,f,·,_,(mer),x,:,τ,·,i,y
+α,:_,$,·sh,∵,r,-,θ,i,p,·,_,(mer),x,:,τ,·,i,y
 SPACE
-w,:,r,i,v,·,i,(tip),y,τ,i,y
+v,:,r,i,b,·,i,(tip),y,τ,i,y
 SPACE
-α,o,y,:,v,i,(mer),y
+α,o,y,:,b,i,(mer),y
 SPACE
 k,i,l,·,a,(mos),m.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-pe
-LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+LEFT CURLY BRACKET,p,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
 START/STOP br
 
 Lamentations 3:1 in vtrad vtsef
 α,:_,n,i,(mah),y
 SPACE
-h,_,g,·,∵,(pash),v,∵,r,(pash)
+h,_,g,·,∵,(pash),b,∵,r,(pash)
 SPACE
 r,a,α,a,(mun),h
 SPACE
-ʕ,:a,n,i,(zaq_q),y
+3,:a,n,i,(zaq_q),y
 SPACE
-v,·,:,$,·sh,‥,(tip),v,∵,θ
+b,·,:,$,·sh,‥,(tip),b,∵,θ
 SPACE
-ʕ,∵,v,:,r,a,τ,(mos),w,o,(sopa)
+3,∵,b,:,r,a,τ,(mos),v,o,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -1988,15 +1988,15 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:2 in vtrad vtsef
-α,w,o,τ,i,(mer),y
+α,v,o,τ,i,(mer),y
 SPACE
 n,a,h,_,(tev),g
 SPACE
-w,_,y,·,o,l,_,(tip),k.,:
+v,_,y,·,o,l,_,(tip),k.,:
 SPACE
 x,o,(mer),$,·sh,∵,k.,:
 SPACE
-w,:,l,o,α,-,α,(mos),w,o,r,(sopa)
+v,:,l,o,α,-,α,(mos),v,o,r,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2013,15 +2013,15 @@ NO-BREAK SPACE
 Lamentations 3:3 in vtrad vtsef
 α,_,(mun),k.,:
 SPACE
-v,·,i,(mer),y
+b,·,i,(mer),y
 SPACE
-y,a,$,·sh,u,(tev),v
+y,a,$,·sh,u,(tev),b
 SPACE
-y,_,h,:_,f,o,(mer),k.,:
+y,_,h,:_,p,o,(mer),k.,:
 SPACE
-y,a,d,(tip),w,o
+y,a,d,(tip),v,o
 SPACE
-k,·,oa,l,-,h,_,y,·,(mos),w,o,m.,(sopa)
+k,·,oa,l,-,h,_,y,·,(mos),v,o,m.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2036,15 +2036,15 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:4 in vtrad vtsef
-v,·,i,l,·,a,(mah),h
+b,·,i,l,·,a,(mah),h
 SPACE
-v,:,$,·si,a,r,i,y,(pash)
+b,:,$,·si,a,r,i,y,(pash)
 SPACE
-w,:,ʕ,w,o,r,i,(zaq_q),y
+v,:,3,v,o,r,i,(zaq_q),y
 SPACE
-$,·sh,i,v,·,_,(tip),r
+$,·sh,i,b,·,_,(tip),r
 SPACE
-ʕ,_,ц,:,m,w,o,τ,a,(mos),y,(sopa)
+3,_,c,:,m,v,o,τ,a,(mos),y,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2059,15 +2059,15 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:5 in vtrad vtsef
-v,·,a,n,a,(mer),h
+b,·,a,n,a,(mer),h
 SPACE
-ʕ,a,l,_,(tev),y
+3,a,l,_,(tev),y
 SPACE
-w,_,y,·,_,q,·,_,(tip),f.
+v,_,y,·,_,q,·,_,(tip),p.
 SPACE
 r,o,(mer),α,$,·sh
 SPACE
-w,·,τ,:,l,a,α,a,(mos),h,(sopa)
+v,·,τ,:,l,a,α,a,(mos),h,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2082,13 +2082,13 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:6 in vtrad vtsef
-v,·,:,m,_,x,:_,$,·sh,_,k,·,i,(mer),y,m.
+b,·,:,m,_,x,:_,$,·sh,_,k,·,i,(mer),y,m.
 SPACE
-h,w,o,$,·sh,i,y,v,_,(tip),n,i,y
+h,v,o,$,·sh,i,y,b,_,(tip),n,i,y
 SPACE
 k,·,:,m,‥,τ,‥,(mer),y
 SPACE
-ʕ,w,o,l,a,(mos),m.,(sopa)
+3,v,o,l,a,(mos),m.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2105,13 +2105,13 @@ NO-BREAK SPACE
 Lamentations 3:7 in vtrad vtsef
 g,·,a,d,_,(dar),r
 SPACE
-v,·,_,ʕ,:_,d,i,(tev),y
+b,·,_,3,:_,d,i,(tev),y
 SPACE
-w,:,l,o,(mer),α
+v,:,l,o,(mer),α
 SPACE
-α,‥,ц,‥,(tip),α
+α,‥,c,‥,(tip),α
 SPACE
-h,i,k,:,v,·,i,(mer),y,d
+h,i,k,:,b,·,i,(mer),y,d
 SPACE
 n,:,x,oa,$,·sh,:,τ,·,i,(mos),y,(sopa)
 NO-BREAK SPACE
@@ -2132,13 +2132,13 @@ g,·,_,(mun),m.
 SPACE
 k,·,i,(mah),y
 SPACE
-α,∵,z,:,ʕ,_,q,(pash)
+α,∵,z,:,3,_,q,(pash)
 SPACE
-w,_,α,:_,$,·sh,_,w,·,‥,(zaq_q),ʕ,_
+v,_,α,:_,$,·sh,_,v,·,‥,(zaq_q),3,_
 SPACE
 $,·si,a,τ,_,(tip),m.
 SPACE
-τ,·,:,f,i,l,·,a,τ,i,(mos),y,(sopa)
+τ,·,:,p,i,l,·,a,τ,i,(mos),y,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2157,11 +2157,11 @@ g,·,a,d,_,(mah),r
 SPACE
 d,·,:,r,a,k,_,y,(pash)
 SPACE
-v,·,:,g,a,z,i,(zaq_q),y,τ
+b,·,:,g,a,z,i,(zaq_q),y,τ
 SPACE
-n,:,τ,i,y,v,o,τ,_,(tip),y
+n,:,τ,i,y,b,o,τ,_,(tip),y
 SPACE
-ʕ,i,w,·,a,(mos),h,(sopa)
+3,i,v,·,a,(mos),h,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2176,11 +2176,11 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:10 in vtrad vtsef
-d,·,o,(mun),v
+d,·,o,(mun),b
 SPACE
-α,o,r,‥,(mer),v
+α,o,r,‥,(mer),b
 SPACE
-h,w,·,α,(pash)
+h,v,·,α,(pash)
 SPACE
 l,i,(zaq_q),y
 SPACE
@@ -2194,7 +2194,7 @@ LEFT SQUARE BRACKET,α,:_,r,i,(tip),y,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
-v,·,:,m,i,σ,:,τ,·,a,r,i,(mos),y,m.,(sopa)
+b,·,:,m,i,σ,:,τ,·,a,r,i,(mos),y,m.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2211,9 +2211,9 @@ NO-BREAK SPACE
 Lamentations 3:11 in vtrad vtsef
 d,·,:,r,a,k,_,(mer),y
 SPACE
-σ,w,o,r,‥,(tev),r
+σ,v,o,r,‥,(tev),r
 SPACE
-w,_,(mos),y,:,f,_,$,·sh,·,:,x,‥,(tip),n,i,y
+v,_,(mos),y,:,p,_,$,·sh,·,:,x,‥,(tip),n,i,y
 SPACE
 $,·si,a,m,_,(mer),n,i,y
 SPACE
@@ -2234,13 +2234,13 @@ NO-BREAK SPACE
 Lamentations 3:12 in vtrad vtsef
 d,·,a,r,_,(mah),k.,:
 SPACE
-q,_,$,·sh,:,τ,·,w,o,(pash)
+q,_,$,·sh,:,τ,·,v,o,(pash)
 SPACE
-w,_,y,·,_,ц,·,i,y,v,‥,(zaq_q),n,i,y
+v,_,y,·,_,c,·,i,y,b,‥,(zaq_q),n,i,y
 SPACE
 k,·,_,m,·,_,θ,·,a,r,a,(tip),α
 SPACE
-l,_,x,‥,(mos),ц.,(sopa)
+l,_,x,‥,(mos),c.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2255,13 +2255,13 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:13 in vtrad vtsef
-h,‥,v,i,y,α,(pash)
+h,‥,b,i,y,α,(pash)
 SPACE
-v,·,:,k,i,l,:,y,o,τ,a,(zaq_q),y
+b,·,:,k,i,l,:,y,o,τ,a,(zaq_q),y
 SPACE
-v,·,:,n,‥,(tip),y
+b,·,:,n,‥,(tip),y
 SPACE
-α,_,$,·sh,:,f,·,a,τ,(mos),w,o,(sopa)
+α,_,$,·sh,:,p,·,a,τ,(mos),v,o,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2280,11 +2280,11 @@ h,a,y,i,(mah),y,τ,i,y
 SPACE
 $,·si,·,:,x,o,q,(pash)
 SPACE
-l,:,k,oa,l,-,ʕ,_,m,·,i,(zaq_q),y
+l,:,k,oa,l,-,3,_,m,·,i,(zaq_q),y
 SPACE
 n,:,g,i,y,n,a,τ,a,(tip),m.
 SPACE
-k,·,oa,l,-,h,_,y,·,(mos),w,o,m.,(sopa)
+k,·,oa,l,-,h,_,y,·,(mos),v,o,m.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2299,13 +2299,13 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:15 in vtrad vtsef
-h,i,$,·si,:,v,·,i,y,ʕ,_,(mer),n,i,y
+h,i,$,·si,:,b,·,i,y,3,_,(mer),n,i,y
 SPACE
-v,_,m,·,:,r,w,o,r,i,(tip),y,m.
+b,_,m,·,:,r,v,o,r,i,(tip),y,m.
 SPACE
-h,i,r,:,w,_,(mer),n,i,y
+h,i,r,:,v,_,(mer),n,i,y
 SPACE
-l,_,ʕ,:_,n,a,(mos),h,(sopa)
+l,_,3,:_,n,a,(mos),h,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2320,15 +2320,15 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:16 in vtrad vtsef
-w,_,y,·,_,g,:,r,‥,(mah),σ
+v,_,y,·,_,g,:,r,‥,(mah),σ
 SPACE
-v,·,∵,(mos),x,a,ц,a,ц.,(pash)
+b,·,∵,(mos),x,a,c,a,c.,(pash)
 SPACE
 $,·sh,i,n,·,a,(zaq_q),y
 SPACE
-h,i,k,:,f,·,i,y,$,·sh,_,(tip),n,i,y
+h,i,k,:,p,·,i,y,$,·sh,_,(tip),n,i,y
 SPACE
-v,·,a,α,‥,(mos),f,∵,r,(sopa)
+b,·,a,α,‥,(mos),p,∵,r,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2343,15 +2343,15 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:17 in vtrad vtsef
-w,_,τ,·,i,z,:,n,_,(dar),x
+v,_,τ,·,i,z,:,n,_,(dar),x
 SPACE
-m,i,$,·sh,·,a,l,(tev),w,o,m.
+m,i,$,·sh,·,a,l,(tev),v,o,m.
 SPACE
-n,_,f,:,$,·sh,i,(tip),y
+n,_,p,:,$,·sh,i,(tip),y
 SPACE
 n,a,$,·sh,i,(mer),y,τ,i,y
 SPACE
-θ,w,o,v,a,(mos),h,(sopa)
+θ,v,o,b,a,(mos),h,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2366,15 +2366,15 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:18 in vtrad vtsef
-w,a,α,o,m,_,r,(pash)
+v,a,α,o,m,_,r,(pash)
 SPACE
-α,a,v,_,(mun),d
+α,a,b,_,(mun),d
 SPACE
-n,i,ц,:,x,i,(zaq_q),y
+n,i,c,:,x,i,(zaq_q),y
 SPACE
-w,:,τ,w,o,x,_,l,:,τ,·,i,(tip),y
+v,:,τ,v,o,x,_,l,:,τ,·,i,(tip),y
 SPACE
-m,‥,y,:,h,o,w,a,(mos),h,(sopa)
+m,‥,y,:,h,o,v,a,(mos),h,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2389,13 +2389,13 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:19 in vtrad vtsef
-z,:,k,oa,r,-,ʕ,oa,n,:,y,i,(mer),y
+z,:,k,oa,r,-,3,oa,n,:,y,i,(mer),y
 SPACE
-w,·,m,:,r,w,·,d,i,(tip),y
+v,·,m,:,r,v,·,d,i,(tip),y
 SPACE
-l,_,ʕ,:_,n,a,(mer),h
+l,_,3,:_,n,a,(mer),h
 SPACE
-w,a,r,o,(mos),α,$,·sh,(sopa)
+v,a,r,o,(mos),α,$,·sh,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2410,23 +2410,23 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:20 in vtrad vtsef
-z,a,k,(mun),w,o,r
+z,a,k,(mun),v,o,r
 SPACE
-τ,·,i,z,:,k,·,(zaq_q),w,o,r
+τ,·,i,z,:,k,·,(zaq_q),v,o,r
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
-LEFT PARENTHESIS,w,τ,$,y,x,RIGHT PARENTHESIS
+LEFT PARENTHESIS,v,τ,$,y,x,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,w,:,τ,a,$,·sh,(mer),w,o,x,_,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,v,:,τ,a,$,·sh,(mer),v,o,x,_,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
-ʕ,a,l,_,(tip),y
+3,a,l,_,(tip),y
 SPACE
-n,_,f,:,$,·sh,i,(mos),y,(sopa)
+n,_,p,:,$,·sh,i,(mos),y,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2443,13 +2443,13 @@ NO-BREAK SPACE
 Lamentations 3:21 in vtrad vtsef
 z,o,(tev),α,τ
 SPACE
-α,a,$,·sh,i,(mer),y,v
+α,a,$,·sh,i,(mer),y,b
 SPACE
-α,∵,l,-,l,i,v,·,i,(tip),y
+α,∵,l,-,l,i,b,·,i,(tip),y
 SPACE
-ʕ,_,l,-,k,·,‥,(mer),n.
+3,_,l,-,k,·,‥,(mer),n.
 SPACE
-α,w,o,x,i,(mos),y,l,(sopa)
+α,v,o,x,i,(mos),y,l,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2466,17 +2466,17 @@ NO-BREAK SPACE
 Lamentations 3:22 in vtrad vtsef
 x,_,(mos),σ,:,d,‥,(mah),y
 SPACE
-y,:,h,o,w,a,h,(pash)
+y,:,h,o,v,a,h,(pash)
 SPACE
 k,·,i,(mun),y
 SPACE
-l,o,α,-,τ,a,(zaq_q),m,:,n,w,·
+l,o,α,-,τ,a,(zaq_q),m,:,n,v,·
 SPACE
 k,·,i,(mer),y
 SPACE
-l,o,α,-,k,a,l,(tip),w,·
+l,o,α,-,k,a,l,(tip),v,·
 SPACE
-r,_,x,:_,m,a,(mos),y,w,(sopa)
+r,_,x,:_,m,a,(mos),y,v,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2493,11 +2493,11 @@ NO-BREAK SPACE
 Lamentations 3:23 in vtrad vtsef
 x,:_,d,a,$,·sh,i,y,m.,(pash)
 SPACE
-l,_,v,·,:,q,a,r,i,(zaq_q),y,m.
+l,_,b,·,:,q,a,r,i,(zaq_q),y,m.
 SPACE
-r,_,v,·,a,(tip),h
+r,_,b,·,a,(tip),h
 SPACE
-α,:∵,m,w,·,n,a,τ,∵,(mos),k.,a,(sopa)
+α,:∵,m,v,·,n,a,τ,∵,(mos),k.,a,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2514,17 +2514,17 @@ NO-BREAK SPACE
 Lamentations 3:24 in vtrad vtsef
 x,∵,l,:,q,i,(mah),y
 SPACE
-y,:,h,o,w,a,h,(pash)
+y,:,h,o,v,a,h,(pash)
 SPACE
 α,a,m,:,r,a,(mun),h
 SPACE
-n,_,f,:,$,·sh,i,(zaq_q),y
+n,_,p,:,$,·sh,i,(zaq_q),y
 SPACE
-ʕ,_,l,-,k,·,‥,(tip),n.
+3,_,l,-,k,·,‥,(tip),n.
 SPACE
-α,w,o,x,i,(mer),y,l
+α,v,o,x,i,(mer),y,l
 SPACE
-l,(mos),w,o,(sopa)
+l,(mos),v,o,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2539,15 +2539,15 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:25 in vtrad vtsef
-θ,(mah),w,o,v
+θ,(mah),v,o,b
 SPACE
-y,:,h,o,w,a,h,(pash)
+y,:,h,o,v,a,h,(pash)
 SPACE
-l,:,q,o,w,a,(zaq_q),w
+l,:,q,o,v,a,(zaq_q),v
 SPACE
-l,:,n,∵,(tip),f,∵,$,·sh
+l,:,n,∵,(tip),p,∵,$,·sh
 SPACE
-τ,·,i,d,:,r,:,$,·sh,∵,(mos),n,·,w,·,(sopa)
+τ,·,i,d,:,r,:,$,·sh,∵,(mos),n,·,v,·,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2562,15 +2562,15 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:26 in vtrad vtsef
-θ,(mah),w,o,v
+θ,(mah),v,o,b
 SPACE
-w,:,y,a,x,i,y,l,(pash)
+v,:,y,a,x,i,y,l,(pash)
 SPACE
-w,:,d,w,·,m,a,(zaq_q),m.
+v,:,d,v,·,m,a,(zaq_q),m.
 SPACE
-l,i,τ,:,$,·sh,w,·,ʕ,_,(tip),τ
+l,i,τ,:,$,·sh,v,·,3,_,(tip),τ
 SPACE
-y,:,h,o,w,a,(mos),h,(sopa)
+y,:,h,o,v,a,(mos),h,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2585,15 +2585,15 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:27 in vtrad vtsef
-θ,(mun),w,o,v
+θ,(mun),v,o,b
 SPACE
-l,_,g,·,∵,(zaq_q),v,∵,r
+l,_,g,·,∵,(zaq_q),b,∵,r
 SPACE
 k,·,i,(mos),y,-,y,i,$,·si,·,a,(mer),α
 SPACE
-ʕ,o,(tip),l
+3,o,(tip),l
 SPACE
-v,·,i,n,:,ʕ,w,·,r,a,(mos),y,w,(sopa)
+b,·,i,n,:,3,v,·,r,a,(mos),y,v,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2608,17 +2608,17 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:28 in vtrad vtsef
-y,‥,$,·sh,‥,(mah),v
+y,‥,$,·sh,‥,(mah),b
 SPACE
-v,·,a,d,a,d,(pash)
+b,·,a,d,a,d,(pash)
 SPACE
-w,:,y,i,d,·,o,(zaq_q),m.
+v,:,y,i,d,·,o,(zaq_q),m.
 SPACE
 k,·,i,(mer),y
 SPACE
 n,a,θ,_,(tip),l
 SPACE
-ʕ,a,l,a,(mos),y,w,(sopa)
+3,a,l,a,(mos),y,v,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2635,15 +2635,15 @@ NO-BREAK SPACE
 Lamentations 3:29 in vtrad vtsef
 y,i,τ,·,‥,(mah),n.
 SPACE
-v,·,∵,(mos),ʕ,a,f,a,r,(pash)
+b,·,∵,(mos),3,a,p,a,r,(pash)
 SPACE
-f,·,i,(zaq_q),y,h,w,·
+p,·,i,(zaq_q),y,h,v,·
 SPACE
-α,w,·,l,_,(tip),y
+α,v,·,l,_,(tip),y
 SPACE
 y,‥,(mer),$,·sh
 SPACE
-τ,·,i,q,:,w,a,(mos),h,(sopa)
+τ,·,i,q,:,v,a,(mos),h,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2660,13 +2660,13 @@ NO-BREAK SPACE
 Lamentations 3:30 in vtrad vtsef
 y,i,τ,·,‥,(dar),n.
 SPACE
-l,:,m,_,k,·,‥,(tev),h,w,·
+l,:,m,_,k,·,‥,(tev),h,v,·
 SPACE
 l,∵,(tip),x,i,y
 SPACE
-y,i,$,·si,:,v,·,_,(mer),ʕ
+y,i,$,·si,:,b,·,_,(mer),3
 SPACE
-v,·,:,x,∵,r,:,f,·,a,(mos),h,(sopa)
+b,·,:,x,∵,r,:,p,·,a,(mos),h,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2687,7 +2687,7 @@ l,o,(mer),α
 SPACE
 y,i,z,:,n,_,(tev),x
 SPACE
-l,:,ʕ,w,o,l,a,(tip),m.
+l,:,3,v,o,l,a,(tip),m.
 SPACE
 α,:_,d,o,n,a,(mos),y,(sopa)
 NO-BREAK SPACE
@@ -2706,13 +2706,13 @@ NO-BREAK SPACE
 Lamentations 3:32 in vtrad vtsef
 k,·,i,(mun),y
 SPACE
-α,i,m.,-,h,w,o,g,a,(zaq_q),h
+α,i,m.,-,h,v,o,g,a,(zaq_q),h
 SPACE
-w,:,r,i,x,_,(tip),m.
+v,:,r,i,x,_,(tip),m.
 SPACE
-k,·,:,r,o,(mer),v
+k,·,:,r,o,(mer),b
 SPACE
-x,:_,σ,a,d,a,(mos),y,w,(sopa)
+x,:_,σ,a,d,a,(mos),y,v,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2731,13 +2731,13 @@ k,·,i,(mun),y
 SPACE
 l,o,(mah),α
 SPACE
-ʕ,i,n,·,a,h,(pash)
+3,i,n,·,a,h,(pash)
 SPACE
-m,i,l,·,i,v,·,(zaq_q),w,o
+m,i,l,·,i,b,·,(zaq_q),v,o
 SPACE
-w,_,y,·,_,g,·,∵,(tip),h
+v,_,y,·,_,g,·,∵,(tip),h
 SPACE
-v,·,:,n,‥,y,-,α,i,(mos),y,$,·sh,(sopa)
+b,·,:,n,‥,y,-,α,i,(mos),y,$,·sh,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2756,13 +2756,13 @@ l,:,d,_,k,·,‥,α,(pash)
 SPACE
 τ,·,_,(mun),x,_,τ
 SPACE
-r,_,g,:,l,a,(zaq_q),y,w
+r,_,g,:,l,a,(zaq_q),y,v
 SPACE
 k,·,o,(tip),l
 SPACE
 α,:_,σ,i,(mer),y,r,‥,y
 SPACE
-α,a,(mos),r,∵,ц.,(sopa)
+α,a,(mos),r,∵,c.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2777,15 +2777,15 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:35 in vtrad vtsef
-l,:,h,_,θ,·,w,o,τ,(pash)
+l,:,h,_,θ,·,v,o,τ,(pash)
 SPACE
-m,i,$,·sh,:,f,·,_,θ,-,g,·,a,(zaq_q),v,∵,r
+m,i,$,·sh,:,p,·,_,θ,-,g,·,a,(zaq_q),b,∵,r
 SPACE
 n,∵,(tip),g,∵,d
 SPACE
-f,·,:,n,‥,(mer),y
+p,·,:,n,‥,(mer),y
 SPACE
-ʕ,∵,l,:,y,(mos),w,o,n.,(sopa)
+3,∵,l,:,y,(mos),v,o,n.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2802,13 +2802,13 @@ NO-BREAK SPACE
 Lamentations 3:36 in vtrad vtsef
 l,:
 START small
-ʕ,_
+3,_
 STOP small
-w,·,‥,(mah),τ
+v,·,‥,(mah),τ
 SPACE
 α,a,d,a,m.,(pash)
 SPACE
-v,·,:,r,i,y,v,(zaq_q),w,o
+b,·,:,r,i,y,b,(zaq_q),v,o
 SPACE
 α,:_,d,o,n,a,(tip),y
 SPACE
@@ -2835,13 +2835,13 @@ z,∵,(mah),h
 SPACE
 α,a,m,_,r,(pash)
 SPACE
-w,_,τ,·,∵,(zaq_q),h,i,y
+v,_,τ,·,∵,(zaq_q),h,i,y
 SPACE
 α,:_,d,o,n,a,(tip),y
 SPACE
 l,o,(mer),α
 SPACE
-ц,i,w,·,a,(mos),h,(sopa)
+c,i,v,·,a,(mos),h,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2856,17 +2856,17 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:38 in vtrad vtsef
-m,i,f,·,i,(mah),y
+m,i,p,·,i,(mah),y
 SPACE
-ʕ,∵,l,:,y,w,o,n.,(pash)
+3,∵,l,:,y,v,o,n.,(pash)
 SPACE
 l,o,(mun),α
 SPACE
-τ,‥,ц,‥,(zaq_q),α
+τ,‥,c,‥,(zaq_q),α
 SPACE
-h,a,r,a,ʕ,(tip),w,o,τ
+h,a,r,a,3,(tip),v,o,τ
 SPACE
-w,:,h,_,θ,·,(mos),w,o,v,(sopa)
+v,:,h,_,θ,·,(mos),v,o,b,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2881,17 +2881,17 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:39 in vtrad vtsef
-m,_,h,-,y,·,i,τ,:,α,w,o,n,‥,n.,(pash)
+m,_,h,-,y,·,i,τ,:,α,v,o,n,‥,n.,(pash)
 SPACE
 α,a,d,a,(mun),m.
 SPACE
 x,a,(zaq_q),y
 SPACE
-g,·,∵,(tip),v,∵,r
+g,·,∵,(tip),b,∵,r
 SPACE
-ʕ,_,l,-
+3,_,l,-
 START span class=mam-kq-trivial
-x,:_,θ,a,α,a,(mos),w
+x,:_,θ,a,α,a,(mos),v
 STOP span class=mam-kq-trivial
 (sopa)
 NO-BREAK SPACE
@@ -2908,15 +2908,15 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:40 in vtrad vtsef
-n,_,x,:,f,·,:,$,·si,a,(mah),h
+n,_,x,:,p,·,:,$,·si,a,(mah),h
 SPACE
-d,:,r,a,k,‥,(pash),y,n,w,·,(pash)
+d,:,r,a,k,‥,(pash),y,n,v,·,(pash)
 SPACE
-w,:,(mos),n,_,x,:,q,o,(zaq_q),r,a,h
+v,:,(mos),n,_,x,:,q,o,(zaq_q),r,a,h
 SPACE
-w,:,n,a,$,·sh,(tip),w,·,v,a,h
+v,:,n,a,$,·sh,(tip),v,·,b,a,h
 SPACE
-ʕ,_,d,-,y,:,h,o,w,a,(mos),h,(sopa)
+3,_,d,-,y,:,h,o,v,a,(mos),h,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2933,13 +2933,13 @@ NO-BREAK SPACE
 Lamentations 3:41 in vtrad vtsef
 n,i,$,·si,·,a,(mah),α
 SPACE
-l,:,v,a,v,‥,(pash),n,w,·,(pash)
+l,:,b,a,b,‥,(pash),n,v,·,(pash)
 SPACE
-α,∵,l,-,k,·,_,f,·,a,(zaq_q),y,i,m.
+α,∵,l,-,k,·,_,p,·,a,(zaq_q),y,i,m.
 SPACE
 α,∵,l,-,α,‥,(tip),l
 SPACE
-v,·,_,$,·sh,·,a,m,a,(mos),y,i,m.,(sopa)
+b,·,_,$,·sh,·,a,m,a,(mos),y,i,m.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -2954,11 +2954,11 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:42 in vtrad vtsef
-n,_,(mah),x,:,n,w,·
+n,_,(mah),x,:,n,v,·
 SPACE
-f,a,$,·sh,_,(pash),ʕ,:,n,w,·,(pash)
+p,a,$,·sh,_,(pash),3,:,n,v,·,(pash)
 SPACE
-w,·,m,a,r,i,(zaq_q),y,n,w,·
+v,·,m,a,r,i,(zaq_q),y,n,v,·
 SPACE
 α,_,τ,·,a,(tip),h
 SPACE
@@ -2979,11 +2979,11 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:43 in vtrad vtsef
-σ,_,k,·,(mah),w,o,τ,a,h
+σ,_,k,·,(mah),v,o,τ,a,h
 SPACE
-v,a,α,_,f.,(pash)
+b,a,α,_,p.,(pash)
 SPACE
-w,_,(mos),τ,·,i,r,:,d,·,:,f,‥,(zaq_q),n,w,·
+v,_,(mos),τ,·,i,r,:,d,·,:,p,‥,(zaq_q),n,v,·
 SPACE
 h,a,r,_,(tip),g,:,τ,·,a
 SPACE
@@ -3004,15 +3004,15 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:44 in vtrad vtsef
-σ,_,k,·,(mah),w,o,τ,a,h
+σ,_,k,·,(mah),v,o,τ,a,h
 SPACE
-v,∵,(mos),ʕ,a,n,a,n.,(pash)
+b,∵,(mos),3,a,n,a,n.,(pash)
 SPACE
 l,a,(zaq_q),k.,:
 SPACE
-m,‥,ʕ,:_,v,(tip),w,o,r
+m,‥,3,:_,b,(tip),v,o,r
 SPACE
-τ,·,:,f,i,l,·,a,(mos),h,(sopa)
+τ,·,:,p,i,l,·,a,(mos),h,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -3029,13 +3029,13 @@ NO-BREAK SPACE
 Lamentations 3:45 in vtrad vtsef
 σ,:,x,i,(dar),y
 SPACE
-w,·,m,a,α,(tev),w,o,σ
+v,·,m,a,α,(tev),v,o,σ
 SPACE
-τ,·,:,$,·si,i,y,m,‥,(tip),n,w,·
+τ,·,:,$,·si,i,y,m,‥,(tip),n,v,·
 SPACE
-v,·,:,q,∵,(mer),r,∵,v
+b,·,:,q,∵,(mer),r,∵,b
 SPACE
-h,a,ʕ,_,m,·,i,(mos),y,m.,(sopa)
+h,a,3,_,m,·,i,(mos),y,m.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -3050,13 +3050,13 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:46 in vtrad vtsef
-f,·,a,ц,(mer),w,·
+p,·,a,c,(mer),v,·
 SPACE
-ʕ,a,l,‥,(tev),y,n,w,·
+3,a,l,‥,(tev),y,n,v,·
 SPACE
-f,·,i,y,h,∵,(tip),m.
+p,·,i,y,h,∵,(tip),m.
 SPACE
-k,·,oa,l,-,α,o,y,:,v,‥,(mos),y,n,w,·,(sopa)
+k,·,oa,l,-,α,o,y,:,b,‥,(mos),y,n,v,·,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -3071,17 +3071,17 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:47 in vtrad vtsef
-f,·,_,(dar),x,_,d
+p,·,_,(dar),x,_,d
 SPACE
-w,a,f,_,(tev),x,_,τ
+v,a,p,_,(tev),x,_,τ
 SPACE
 h,a,(mer),y,a,h
 SPACE
-l,a,(tip),n,w,·
+l,a,(tip),n,v,·
 SPACE
 h,_,$,·sh,·,‥,(mer),α,τ
 SPACE
-w,:,h,_,$,·sh,·,a,(mos),v,∵,r,(sopa)
+v,:,h,_,$,·sh,·,a,(mos),b,∵,r,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -3096,15 +3096,15 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:48 in vtrad vtsef
-f,·,_,l,:,g,‥,y,-,m,_,(pash),y,i,m.,(pash)
+p,·,_,l,:,g,‥,y,-,m,_,(pash),y,i,m.,(pash)
 SPACE
 τ,·,‥,r,_,(mun),d
 SPACE
-ʕ,‥,y,n,i,(zaq_q),y
+3,‥,y,n,i,(zaq_q),y
 SPACE
-ʕ,_,l,-,$,·sh,∵,(tip),v,∵,r
+3,_,l,-,$,·sh,∵,(tip),b,∵,r
 SPACE
-v,·,_,τ,-,ʕ,_,m,·,i,(mos),y,(sopa)
+b,·,_,τ,-,3,_,m,·,i,(mos),y,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -3119,17 +3119,17 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:49 in vtrad vtsef
-ʕ,‥,y,n,i,(dar),y
+3,‥,y,n,i,(dar),y
 SPACE
 n,i,g,·,:,r,a,(tev),h
 SPACE
-w,:,l,o,(mer),α
+v,:,l,o,(mer),α
 SPACE
 τ,i,d,:,m,∵,(tip),h
 SPACE
 m,‥,α,‥,(mer),y,n.
 SPACE
-h,:_,f,u,g,(mos),w,o,τ,(sopa)
+h,:_,p,u,g,(mos),v,o,τ,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -3144,11 +3144,11 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:50 in vtrad vtsef
-ʕ,_,d,-,y,_,$,·sh,:,q,i,(mun),y,f.
+3,_,d,-,y,_,$,·sh,:,q,i,(mun),y,p.
 SPACE
-w,:,y,‥,(zaq_q),r,∵,α
+v,:,y,‥,(zaq_q),r,∵,α
 SPACE
-y,:,h,o,w,a,(tip),h
+y,:,h,o,v,a,(tip),h
 SPACE
 m,i,$,·sh,·,a,m,a,(mos),y,i,m.,(sopa)
 NO-BREAK SPACE
@@ -3165,17 +3165,17 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:51 in vtrad vtsef
-ʕ,‥,y,n,i,y,(pash)
+3,‥,y,n,i,y,(pash)
 SPACE
-ʕ,(mos),w,o,l,:,l,a,(mun),h
+3,(mos),v,o,l,:,l,a,(mun),h
 SPACE
-l,:,n,_,f,:,$,·sh,i,(zaq_q),y
+l,:,n,_,p,:,$,·sh,i,(zaq_q),y
 SPACE
 m,i,k,·,o,(tip),l
 SPACE
-v,·,:,n,(mer),w,o,τ
+b,·,:,n,(mer),v,o,τ
 SPACE
-ʕ,i,y,r,i,(mos),y,(sopa)
+3,i,y,r,i,(mos),y,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -3190,13 +3190,13 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:52 in vtrad vtsef
-ц,(mer),w,o,d
+c,(mer),v,o,d
 SPACE
-ц,a,d,(tev),w,·,n,i,y
+c,a,d,(tev),v,·,n,i,y
 SPACE
-k,·,_,ц,·,i,f,·,(tip),w,o,r
+k,·,_,c,·,i,p,·,(tip),v,o,r
 SPACE
-α,o,y,:,v,_,(mer),y
+α,o,y,:,b,_,(mer),y
 SPACE
 x,i,n,·,a,(mos),m.,(sopa)
 NO-BREAK SPACE
@@ -3213,15 +3213,15 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:53 in vtrad vtsef
-ц,a,(mos),m,:,τ,(mah),w,·
+c,a,(mos),m,:,τ,(mah),v,·
 SPACE
-v,_,v,·,w,o,r,(pash)
+b,_,b,·,v,o,r,(pash)
 SPACE
 x,_,y,·,a,(zaq_q),y
 SPACE
-w,_,y,·,_,d,·,w,·,-,α,∵,(tip),v,∵,n.
+v,_,y,·,_,d,·,v,·,-,α,∵,(tip),b,∵,n.
 SPACE
-v,·,i,(mos),y,(sopa)
+b,·,i,(mos),y,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -3236,9 +3236,9 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:54 in vtrad vtsef
-ц,a,(mos),f,w,·,-,m,_,(mer),y,i,m.
+c,a,(mos),p,v,·,-,m,_,(mer),y,i,m.
 SPACE
-ʕ,_,l,-,r,o,α,$,·sh,i,(tip),y
+3,_,l,-,r,o,α,$,·sh,i,(tip),y
 SPACE
 α,a,m,_,(mer),r,:,τ,·,i,y
 SPACE
@@ -3261,11 +3261,11 @@ q,a,r,a,(mah),α,τ,i,y
 SPACE
 $,·sh,i,m,:,k.,a,(pash)
 SPACE
-y,:,h,o,w,a,(zaq_q),h
+y,:,h,o,v,a,(zaq_q),h
 SPACE
-m,i,v,·,(tip),w,o,r
+m,i,b,·,(tip),v,o,r
 SPACE
-τ,·,_,x,:,τ,·,i,y,·,(mos),w,o,τ,(sopa)
+τ,·,_,x,:,τ,·,i,y,·,(mos),v,o,τ,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -3280,17 +3280,17 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:56 in vtrad vtsef
-q,w,o,l,i,(tip),y
+q,v,o,l,i,(tip),y
 SPACE
-$,·sh,a,m,a,(atn),ʕ,:,τ,·,a
+$,·sh,a,m,a,(atn),3,:,τ,·,a
 SPACE
-α,_,l,-,τ,·,_,ʕ,:,l,‥,(dar),m.
+α,_,l,-,τ,·,_,3,:,l,‥,(dar),m.
 SPACE
 α,oa,z,:,n,:,k.,a,(tev)
 SPACE
-l,:,r,_,w,:,x,a,τ,i,(tip),y
+l,:,r,_,v,:,x,a,τ,i,(tip),y
 SPACE
-l,:,$,·sh,_,w,:,ʕ,a,τ,i,(mos),y,(sopa)
+l,:,$,·sh,_,v,:,3,a,τ,i,(mos),y,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -3305,9 +3305,9 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:57 in vtrad vtsef
-q,a,r,_,(pash),v,:,τ,·,a,(pash)
+q,a,r,_,(pash),b,:,τ,·,a,(pash)
 SPACE
-v,·,:,y,(mun),w,o,m.
+b,·,:,y,(mun),v,o,m.
 SPACE
 α,∵,q,:,r,a,α,∵,(zaq_q),k.,·,a
 SPACE
@@ -3328,13 +3328,13 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:58 in vtrad vtsef
-r,_,(dar),v,:,τ,·,a
+r,_,(dar),b,:,τ,·,a
 SPACE
 α,:_,d,o,n,a,(tev),y
 SPACE
-r,i,y,v,‥,(mer),y
+r,i,y,b,‥,(mer),y
 SPACE
-n,_,f,:,$,·sh,i,(tip),y
+n,_,p,:,$,·sh,i,(tip),y
 SPACE
 g,·,a,α,_,(mer),l,:,τ,·,a
 SPACE
@@ -3355,13 +3355,13 @@ NO-BREAK SPACE
 Lamentations 3:59 in vtrad vtsef
 r,a,α,i,(mah),y,τ,a,h
 SPACE
-y,:,h,o,w,a,h,(pash)
+y,:,h,o,v,a,h,(pash)
 SPACE
-ʕ,_,w,·,a,(mun),τ,a,τ,i,(zaq_q),y
+3,_,v,·,a,(mun),τ,a,τ,i,(zaq_q),y
 SPACE
-$,·sh,oa,f,:,θ,a,(tip),h
+$,·sh,oa,p,:,θ,a,(tip),h
 SPACE
-m,i,$,·sh,:,f,·,a,θ,i,(mos),y,(sopa)
+m,i,$,·sh,:,p,·,a,θ,i,(mos),y,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -3380,7 +3380,7 @@ r,a,α,i,(pash),y,τ,a,h,(pash)
 SPACE
 k,·,oa,l,-,n,i,q,:,m,a,τ,a,(zaq_q),m.
 SPACE
-k,·,oa,l,-,m,_,x,:,$,·sh,:,v,o,τ,a,(tip),m.
+k,·,oa,l,-,m,_,x,:,$,·sh,:,b,o,τ,a,(tip),m.
 SPACE
 l,i,(mos),y,(sopa)
 NO-BREAK SPACE
@@ -3397,15 +3397,15 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:61 in vtrad vtsef
-$,·sh,a,m,_,(mah),ʕ,:,τ,·,a
+$,·sh,a,m,_,(mah),3,:,τ,·,a
 SPACE
-x,∵,r,:,f,·,a,τ,a,m.,(pash)
+x,∵,r,:,p,·,a,τ,a,m.,(pash)
 SPACE
-y,:,h,o,w,a,(zaq_q),h
+y,:,h,o,v,a,(zaq_q),h
 SPACE
-k,·,oa,l,-,m,_,x,:,$,·sh,:,v,o,τ,a,(tip),m.
+k,·,oa,l,-,m,_,x,:,$,·sh,:,b,o,τ,a,(tip),m.
 SPACE
-ʕ,a,l,a,(mos),y,(sopa)
+3,a,l,a,(mos),y,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -3420,15 +3420,15 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:62 in vtrad vtsef
-$,·si,i,f,:,τ,‥,(mah),y
+$,·si,i,p,:,τ,‥,(mah),y
 SPACE
 q,a,m,_,y,(pash)
 SPACE
-w,:,h,∵,g,:,y,w,o,n,a,(zaq_q),m.
+v,:,h,∵,g,:,y,v,o,n,a,(zaq_q),m.
 SPACE
-ʕ,a,l,_,(tip),y
+3,a,l,_,(tip),y
 SPACE
-k,·,oa,l,-,h,_,y,·,(mos),w,o,m.,(sopa)
+k,·,oa,l,-,h,_,y,·,(mos),v,o,m.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -3443,11 +3443,11 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:63 in vtrad vtsef
-$,·sh,i,v,:,τ,·,a,(mah),m.
+$,·sh,i,b,:,τ,·,a,(mah),m.
 SPACE
-w,:,q,i,(mos),y,m,a,τ,a,m.,(pash)
+v,:,q,i,(mos),y,m,a,τ,a,m.,(pash)
 SPACE
-h,_,v,·,i,(zaq_q),y,θ,a,h
+h,_,b,·,i,(zaq_q),y,θ,a,h
 SPACE
 α,:_,n,i,(tip),y
 SPACE
@@ -3466,15 +3466,15 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:64 in vtrad vtsef
-τ,·,a,$,·sh,i,(qom),y,v
+τ,·,a,$,·sh,i,(qom),y,b
 SPACE
 l,a,h,∵,(mer),m.
 SPACE
-g,·,:,m,(tev),w,·,l
+g,·,:,m,(tev),v,·,l
 SPACE
-y,:,h,o,w,a,(tip),h
+y,:,h,o,v,a,(tip),h
 SPACE
-k,·,:,m,_,ʕ,:_,$,·si,‥,(mer),h
+k,·,:,m,_,3,:_,$,·si,‥,(mer),h
 SPACE
 y,:,d,‥,y,h,∵,(mos),m.,(sopa)
 NO-BREAK SPACE
@@ -3495,7 +3495,7 @@ Lamentations 3:65 in vtrad vtsef
 SPACE
 l,a,h,∵,m.,(pash)
 SPACE
-m,:,g,i,n,·,_,τ,-,l,‥,(zaq_q),v
+m,:,g,i,n,·,_,τ,-,l,‥,(zaq_q),b
 SPACE
 τ,·,_,α,:_,l,a,(mos),τ,:,k.,a,(tip)
 SPACE
@@ -3514,43 +3514,43 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 3:66 in vtrad vtsef
-τ,·,i,r,:,d,·,o,(mah),f.
+τ,·,i,r,:,d,·,o,(mah),p.
 SPACE
-v,·,:,α,_,f.,(pash)
+b,·,:,α,_,p.,(pash)
 SPACE
-w,:,τ,_,$,·sh,:,m,i,y,d,‥,(zaq_q),m.
+v,:,τ,_,$,·sh,:,m,i,y,d,‥,(zaq_q),m.
 SPACE
 m,i,τ,·,_,(tip),x,_,τ
 SPACE
 $,·sh,:,m,‥,(mer),y
 SPACE
-y,:,h,o,w,a,(mos),h,(sopa)
+y,:,h,o,v,a,(mos),h,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-pe
-LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+LEFT CURLY BRACKET,p,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
 START/STOP br
 
 Lamentations 4:1 in vtrad vtsef
 α,‥,y,k,a,h,(pash)
 SPACE
-y,w,·,ʕ,_,(mun),m.
+y,v,·,3,_,(mun),m.
 SPACE
-z,a,h,a,(zaq_q),v
+z,a,h,a,(zaq_q),b
 SPACE
 y,i,$,·sh,:,n,∵,(tip),α
 SPACE
 h,_,k,·,∵,(mun),τ,∵,m.
 SPACE
-h,_,θ,·,(atn),w,o,v
+h,_,θ,·,(atn),v,o,b
 SPACE
-τ,·,i,$,·sh,:,τ,·,_,f,·,‥,(pash),k,:,n,a,h,(pash)
+τ,·,i,$,·sh,:,τ,·,_,p,·,‥,(pash),k,:,n,a,h,(pash)
 SPACE
-α,_,v,:,n,‥,y,-,q,o,(zaq_q),d,∵,$,·sh
+α,_,b,:,n,‥,y,-,q,o,(zaq_q),d,∵,$,·sh
 SPACE
-v,·,:,r,o,(tip),α,$,·sh
+b,·,:,r,o,(tip),α,$,·sh
 SPACE
-k,·,oa,l,-,x,w,·,ц,(mos),w,o,τ,(sopa)
+k,·,oa,l,-,x,v,·,c,(mos),v,o,τ,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -3565,27 +3565,27 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 4:2 in vtrad vtsef
-v,·,:,n,‥,(mah),y
+b,·,:,n,‥,(mah),y
 SPACE
-ц,i,y,·,w,o,n.,(pash)
+c,i,y,·,v,o,n.,(pash)
 SPACE
 h,_,y,:,q,a,r,i,(zaq_q),y,m.
 SPACE
 h,_,m,:,σ,u,l,·,a,α,i,(tip),y,m.
 SPACE
-v,·,_,f,·,a,(atn),z
+b,·,_,p,·,a,(atn),z
 SPACE
 α,‥,y,k,a,(mah),h
 SPACE
-n,∵,x,:,$,·sh,:,v,w,·,(pash)
+n,∵,x,:,$,·sh,:,b,v,·,(pash)
 SPACE
-l,:,n,i,v,:,l,‥,y,-,x,∵,(zaq_q),r,∵,$,·si
+l,:,n,i,b,:,l,‥,y,-,x,∵,(zaq_q),r,∵,$,·si
 SPACE
-m,_,ʕ,:_,$,·si,‥,(tip),h
+m,_,3,:_,$,·si,‥,(tip),h
 SPACE
 y,:,d,‥,(mer),y
 SPACE
-y,w,o,ц,‥,(mos),r,(sopa)
+y,v,o,c,‥,(mos),r,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -3611,15 +3611,15 @@ LEFT PARENTHESIS,τ,n,y,n.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 STOP span class=mam-kq
 SPACE
-x,a,(mun),l,:,ц,w,·
+x,a,(mun),l,:,c,v,·
 SPACE
 $,·sh,_,(zaq_q),d
 SPACE
-h,‥,y,n,i,(tip),y,q,w,·
+h,‥,y,n,i,(tip),y,q,v,·
 SPACE
-g,·,w,·,r,‥,y,h,∵,(atn),n.
+g,·,v,·,r,‥,y,h,∵,(atn),n.
 SPACE
-v,·,_,τ,-,ʕ,_,m,·,i,(mun),y
+b,·,_,τ,-,3,_,m,·,i,(mun),y
 SPACE
 l,:,α,_,k,:,z,a,(zaq_q),r
 SPACE
@@ -3627,15 +3627,15 @@ START span class=mam-kq
 START span class=mam-kq-k
 LEFT PARENTHESIS,k,y
 SPACE
-ʕ,n,y,m.,RIGHT PARENTHESIS
+3,n,y,m.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,k,·,_,y,:,ʕ,‥,y,n,i,(tip),y,m.,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,k,·,_,y,:,3,‥,y,n,i,(tip),y,m.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
-v,·,_,m,·,i,d,:,v,·,a,(mos),r,(sopa)
+b,·,_,m,·,i,d,:,b,·,a,(mos),r,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -3650,23 +3650,23 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 4:4 in vtrad vtsef
-d,·,a,v,_,(qom),q
+d,·,a,b,_,(qom),q
 SPACE
-l,:,$,·sh,(mer),w,o,n.
+l,:,$,·sh,(mer),v,o,n.
 SPACE
-y,w,o,n,‥,(tev),q
+y,v,o,n,‥,(tev),q
 SPACE
-α,∵,l,-,x,i,k,·,(tip),w,o
+α,∵,l,-,x,i,k,·,(tip),v,o
 SPACE
-v,·,_,ц,·,a,m,a,(atn),α
+b,·,_,c,·,a,m,a,(atn),α
 SPACE
-ʕ,(mos),w,o,l,a,l,i,y,m.,(pash)
+3,(mos),v,o,l,a,l,i,y,m.,(pash)
 SPACE
-$,·sh,a,(mun),α,:_,l,w,·
+$,·sh,a,(mun),α,:_,l,v,·
 SPACE
 l,∵,(zaq_q),x,∵,m.
 SPACE
-f,·,o,r,‥,(tip),$,·si
+p,·,o,r,‥,(tip),$,·si
 SPACE
 α,‥,(mer),y,n.
 SPACE
@@ -3687,21 +3687,21 @@ NO-BREAK SPACE
 Lamentations 4:5 in vtrad vtsef
 h,a,α,o,(mos),k,:,l,i,y,m.,(pash)
 SPACE
-l,:,m,_,(mun),ʕ,:_,d,_,n,·,i,(zaq_q),y,m.
+l,:,m,_,(mun),3,:_,d,_,n,·,i,(zaq_q),y,m.
 SPACE
-n,a,$,·sh,_,(tip),m,·,w,·
+n,a,$,·sh,_,(tip),m,·,v,·
 SPACE
-v,·,_,x,w,·,ц,(atn),w,o,τ
+b,·,_,x,v,·,c,(atn),v,o,τ
 SPACE
 h,a,α,:∵,m,u,n,i,y,m.,(pash)
 SPACE
-ʕ,:_,l,‥,(mun),y
+3,:_,l,‥,(mun),y
 SPACE
-τ,w,o,l,a,(zaq_q),ʕ
+τ,v,o,l,a,(zaq_q),3
 SPACE
-x,i,v,·,:,q,(tip),w,·
+x,i,b,·,:,q,(tip),v,·
 SPACE
-α,_,$,·sh,:,f,·,_,τ,·,(mos),w,o,τ,(sopa)
+α,_,$,·sh,:,p,·,_,τ,·,(mos),v,o,τ,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -3716,23 +3716,23 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 4:6 in vtrad vtsef
-w,_,y,·,i,g,:,d,·,_,l,(pash)
+v,_,y,·,i,g,:,d,·,_,l,(pash)
 SPACE
-ʕ,:_,w,xxfv,(mun),n.
+3,:_,v,xxfv,(mun),n.
 SPACE
-v,·,_,τ,-,ʕ,_,m,·,i,(zaq_q),y
+b,·,_,τ,-,3,_,m,·,i,(zaq_q),y
 SPACE
 m,‥,(mos),x,_,θ,·,_,(tip),α,τ
 SPACE
 σ,:,d,o,(atn),m.
 SPACE
-h,_,(mos),h,:_,f,w,·,k,a,(mun),h
+h,_,(mos),h,:_,p,v,·,k,a,(mun),h
 SPACE
-k,:,m,w,o,-,r,a,(zaq_q),g,_,ʕ
+k,:,m,v,o,-,r,a,(zaq_q),g,_,3
 SPACE
-w,:,l,o,α,-,x,a,(mer),l,w,·
+v,:,l,o,α,-,x,a,(mer),l,v,·
 SPACE
-v,a,(tip),h,·
+b,a,(tip),h,·
 SPACE
 y,a,d,a,(mos),y,i,m.,(sopa)
 NO-BREAK SPACE
@@ -3749,23 +3749,23 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 4:7 in vtrad vtsef
-z,_,k,·,(mah),w,·
+z,_,k,·,(mah),v,·
 SPACE
 n,:,z,i,y,r,∵,(pash),y,h,a,(pash)
 SPACE
 m,i,$,·sh,·,∵,(zaq_q),l,∵,g
 SPACE
-ц,_,x,(tip),w,·
+c,_,x,(tip),v,·
 SPACE
-m,‥,x,a,l,a,(atn),v
+m,‥,x,a,l,a,(atn),b
 SPACE
-α,a,(mah),d,:,m,w,·
+α,a,(mah),d,:,m,v,·
 SPACE
-ʕ,∵,(pash),ц,∵,m.,(pash)
+3,∵,(pash),c,∵,m.,(pash)
 SPACE
-m,i,f,·,:,n,i,y,n,i,(zaq_q),y,m.
+m,i,p,·,:,n,i,y,n,i,(zaq_q),y,m.
 SPACE
-σ,_,f,·,i,(tip),y,r
+σ,_,p,·,i,(tip),y,r
 SPACE
 g,·,i,z,:,r,a,τ,a,(mos),m.,(sopa)
 NO-BREAK SPACE
@@ -3784,27 +3784,27 @@ NO-BREAK SPACE
 Lamentations 4:8 in vtrad vtsef
 x,a,$,·sh,_,(mah),k.,:
 SPACE
-m,i,$,·sh,·,:,x,w,o,r,(pash)
+m,i,$,·sh,·,:,x,v,o,r,(pash)
 SPACE
 τ,·,oa,(mos),α,:a,r,a,(zaq_q),m.
 SPACE
 l,o,(mer),α
 SPACE
-n,i,k,·,:,r,(tip),w,·
+n,i,k,·,:,r,(tip),v,·
 SPACE
-v,·,_,x,w,·,ц,(atn),w,o,τ
+b,·,_,x,v,·,c,(atn),v,o,τ
 SPACE
-ц,a,f,_,(mah),d
+c,a,p,_,(mah),d
 SPACE
-ʕ,w,o,r,a,m.,(pash)
+3,v,o,r,a,m.,(pash)
 SPACE
-ʕ,_,l,-,ʕ,_,ц,:,m,a,(zaq_q),m.
+3,_,l,-,3,_,c,:,m,a,(zaq_q),m.
 SPACE
-y,a,v,‥,(tip),$,·sh
+y,a,b,‥,(tip),$,·sh
 SPACE
 h,a,y,a,(mer),h
 SPACE
-k,a,ʕ,‥,(mos),ц.,(sopa)
+k,a,3,‥,(mos),c.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -3819,23 +3819,23 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 4:9 in vtrad vtsef
-θ,w,o,v,i,(mah),y,m.
+θ,v,o,b,i,(mah),y,m.
 SPACE
-h,a,y,w,·,(pash)
+h,a,y,v,·,(pash)
 SPACE
-x,_,l,:,l,‥,y,-,x,∵,(zaq_q),r,∵,v
+x,_,l,:,l,‥,y,-,x,∵,(zaq_q),r,∵,b
 SPACE
 m,‥,(mos),x,_,l,:,l,‥,(tip),y
 SPACE
-r,a,ʕ,a,(atn),v
+r,a,3,a,(atn),b
 SPACE
 $,·sh,∵,(mun),h,‥,(mah),m.
 SPACE
-y,a,z,u,(pash),v,w,·,(pash)
+y,a,z,u,(pash),b,v,·,(pash)
 SPACE
 m,:,d,u,q,·,a,r,i,(zaq_q),y,m.
 SPACE
-m,i,τ,·,:,n,w,·,v,o,(tip),τ
+m,i,τ,·,:,n,v,·,b,o,(tip),τ
 SPACE
 $,·si,a,d,a,(mos),y,(sopa)
 NO-BREAK SPACE
@@ -3856,21 +3856,21 @@ y,:,d,‥,(rev),y
 SPACE
 n,a,$,·sh,i,y,m.,(pash)
 SPACE
-r,_,x,:_,m,a,(mun),n,i,y,·,(zaq_q),w,o,τ
+r,_,x,:_,m,a,(mun),n,i,y,·,(zaq_q),v,o,τ
 SPACE
-v,·,i,$,·sh,·,:,l,(tip),w,·
+b,·,i,$,·sh,·,:,l,(tip),v,·
 SPACE
 y,_,l,:,d,‥,y,h,∵,(atn),n.
 SPACE
-h,a,y,(mah),w,·
+h,a,y,(mah),v,·
 SPACE
-l,:,v,a,r,w,o,τ,(pash)
+l,:,b,a,r,v,o,τ,(pash)
 SPACE
-l,a,(zaq_q),m,w,o
+l,a,(zaq_q),m,v,o
 SPACE
-v,·,:,$,·sh,∵,(tip),v,∵,r
+b,·,:,$,·sh,∵,(tip),b,∵,r
 SPACE
-v,·,_,τ,-,ʕ,_,m,·,i,(mos),y,(sopa)
+b,·,_,τ,-,3,_,m,·,i,(mos),y,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -3887,21 +3887,21 @@ NO-BREAK SPACE
 Lamentations 4:11 in vtrad vtsef
 k,·,i,l,·,a,(mah),h
 SPACE
-y,:,h,o,w,a,h,(pash)
+y,:,h,o,v,a,h,(pash)
 SPACE
-α,∵,τ,-,x,:_,m,a,τ,(zaq_q),w,o
+α,∵,τ,-,x,:_,m,a,τ,(zaq_q),v,o
 SPACE
-$,·sh,a,f,_,(tip),k.,:
+$,·sh,a,p,_,(tip),k.,:
 SPACE
-x,:_,r,(mun),w,o,n.
+x,:_,r,(mun),v,o,n.
 SPACE
-α,_,f,·,(atn),w,o
+α,_,p,·,(atn),v,o
 SPACE
-w,_,y,·,_,ц,·,∵,τ,-,α,‥,(mun),$,·sh
+v,_,y,·,_,c,·,∵,τ,-,α,‥,(mun),$,·sh
 SPACE
-v,·,:,ц,i,y,·,(zaq_q),w,o,n.
+b,·,:,c,i,y,·,(zaq_q),v,o,n.
 SPACE
-w,_,τ,·,o,(tip),α,k,_,l
+v,_,τ,·,o,(tip),α,k,_,l
 SPACE
 y,:,σ,o,d,o,τ,∵,(mos),y,h,a,(sopa)
 NO-BREAK SPACE
@@ -3920,13 +3920,13 @@ NO-BREAK SPACE
 Lamentations 4:12 in vtrad vtsef
 l,o,(mah),α
 SPACE
-h,∵,α,:∵,m,i,(pash),y,n,w,·,(pash)
+h,∵,α,:∵,m,i,(pash),y,n,v,·,(pash)
 SPACE
-m,_,l,:,k,‥,y,-,α,∵,(zaq_q),r,∵,ц.
+m,_,l,:,k,‥,y,-,α,∵,(zaq_q),r,∵,c.
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
-LEFT PARENTHESIS,w,k,l,RIGHT PARENTHESIS
+LEFT PARENTHESIS,v,k,l,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
@@ -3934,21 +3934,21 @@ LEFT SQUARE BRACKET,k,·,o,(tip),l,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
-y,o,$,·sh,:,v,‥,(mun),y
+y,o,$,·sh,:,b,‥,(mun),y
 SPACE
-τ,‥,v,‥,(atn),l
+τ,‥,b,‥,(atn),l
 SPACE
 k,·,i,(mah),y
 SPACE
-y,a,v,o,α,(pash)
+y,a,b,o,α,(pash)
 SPACE
-ц,_,(mun),r
+c,_,(mun),r
 SPACE
-w,:,α,w,o,y,‥,(zaq_q),v
+v,:,α,v,o,y,‥,(zaq_q),b
 SPACE
-v,·,:,$,·sh,_,ʕ,:_,r,‥,(tip),y
+b,·,:,$,·sh,_,3,:_,r,‥,(tip),y
 SPACE
-y,:,r,w,·,$,·sh,a,l,a,(mos),CGJ,i,m.,(sopa)
+y,:,r,v,·,$,·sh,a,l,a,(mos),CGJ,i,m.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -3963,21 +3963,21 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 4:13 in vtrad vtsef
-m,‥,(mos),x,_,θ,·,o,(mun),α,w,τ
+m,‥,(mos),x,_,θ,·,o,(mun),α,v,τ
 SPACE
-n,:,v,i,y,α,∵,(zaq_q),y,h,a
+n,:,b,i,y,α,∵,(zaq_q),y,h,a
 SPACE
-ʕ,:_,w,xxfv,n,o,(tip),τ
+3,:_,v,xxfv,n,o,(tip),τ
 SPACE
 k,·,o,h,:_,n,∵,(atn),y,h,a
 SPACE
-h,_,$,·sh,·,o,f,:,k,i,(mer),y,m.
+h,_,$,·sh,·,o,p,:,k,i,(mer),y,m.
 SPACE
-v,·,:,q,i,r,:,v,·,a,(tip),h,·
+b,·,:,q,i,r,:,b,·,a,(tip),h,·
 SPACE
 d,·,_,(mer),m.
 SPACE
-ц,_,d,·,i,y,q,i,(mos),y,m.,(sopa)
+c,_,d,·,i,y,q,i,(mos),y,m.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -3992,23 +3992,23 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 4:14 in vtrad vtsef
-n,a,ʕ,(mah),w,·
+n,a,3,(mah),v,·
 SPACE
-ʕ,i,w,:,r,i,y,m.,(pash)
+3,i,v,:,r,i,y,m.,(pash)
 SPACE
-v,·,_,(mos),x,w,·,ц,(zaq_q),w,o,τ
+b,·,_,(mos),x,v,·,c,(zaq_q),v,o,τ
 SPACE
-n,:,g,o,(mos),α,:_,l,(tip),w,·
+n,:,g,o,(mos),α,:_,l,(tip),v,·
 SPACE
-v,·,_,d,·,a,(atn),m.
+b,·,_,d,·,a,(atn),m.
 SPACE
-v,·,:,l,o,(mun),α
+b,·,:,l,o,(mun),α
 SPACE
-y,(mos),w,·,k,:,l,(zaq_q),w,·
+y,(mos),v,·,k,:,l,(zaq_q),v,·
 SPACE
-y,i,g,·,:,ʕ,(tip),w,·
+y,i,g,·,:,3,(tip),v,·
 SPACE
-v,·,i,l,:,v,u,$,·sh,‥,y,h,∵,(mos),m.,(sopa)
+b,·,i,l,:,b,u,$,·sh,‥,y,h,∵,(mos),m.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -4023,35 +4023,35 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 4:15 in vtrad vtsef
-σ,(mun),w,·,r,w,·
+σ,(mun),v,·,r,v,·
 SPACE
 θ,a,m,‥,(ger_2),α
 SPACE
-q,a,(mun),r,:,α,w,·
+q,a,(mun),r,:,α,v,·
 SPACE
-l,a,(rev),m,w,o
+l,a,(rev),m,v,o
 SPACE
-σ,(mah),w,·,r,w,·
+σ,(mah),v,·,r,v,·
 SPACE
-σ,(pash),w,·,r,w,·,(pash)
+σ,(pash),v,·,r,v,·,(pash)
 SPACE
-α,_,l,-,τ,·,i,g,·,a,(zaq_q),ʕ,w,·
+α,_,l,-,τ,·,i,g,·,a,(zaq_q),3,v,·
 SPACE
 k,·,i,(mer),y
 SPACE
-n,a,ц,(tip),w,·
+n,a,c,(tip),v,·
 SPACE
-g,·,_,m.,-,n,a,(atn),ʕ,w,·
+g,·,_,m.,-,n,a,(atn),3,v,·
 SPACE
-α,a,(mos),m,:,r,w,·,(pash)
+α,a,(mos),m,:,r,v,·,(pash)
 SPACE
-v,·,_,g,·,w,o,y,i,(zaq_q),m.
+b,·,_,g,·,v,o,y,i,(zaq_q),m.
 SPACE
 l,o,(mer),α
 SPACE
-y,w,o,σ,i,(tip),f,w,·
+y,v,o,σ,i,(tip),p,v,·
 SPACE
-l,a,g,(mos),w,·,r,(sopa)
+l,a,g,(mos),v,·,r,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -4066,25 +4066,25 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 4:16 in vtrad vtsef
-f,·,:,n,‥,(mah),y
+p,·,:,n,‥,(mah),y
 SPACE
-y,:,h,o,w,a,h,(pash)
+y,:,h,o,v,a,h,(pash)
 SPACE
 x,i,l,·,:,q,a,(zaq_q),m.
 SPACE
 l,o,(mer),α
 SPACE
-y,w,o,σ,i,(tip),y,f.
+y,v,o,σ,i,(tip),y,p.
 SPACE
-l,:,h,_,v,·,i,y,θ,a,(atn),m.
+l,:,h,_,b,·,i,y,θ,a,(atn),m.
 SPACE
-f,·,:,n,‥,(mah),y
+p,·,:,n,‥,(mah),y
 SPACE
 k,o,h,:_,n,i,y,m.,(pash)
 SPACE
 l,o,(mun),α
 SPACE
-n,a,$,·si,a,(zaq_q),α,w,·
+n,a,$,·si,a,(zaq_q),α,v,·
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
@@ -4092,13 +4092,13 @@ LEFT PARENTHESIS,z,q,n,y,m.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,w,·,z,:,q,‥,n,i,(tip),y,m.,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,v,·,z,:,q,‥,n,i,(tip),y,m.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
 l,o,(mer),α
 SPACE
-x,a,n,a,(mos),n,w,·,(sopa)
+x,a,n,a,(mos),n,v,·,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -4115,31 +4115,31 @@ NO-BREAK SPACE
 Lamentations 4:17 in vtrad vtsef
 START span class=mam-kq
 START span class=mam-kq-k
-LEFT PARENTHESIS,ʕ,w,d,y,n,h,RIGHT PARENTHESIS
+LEFT PARENTHESIS,3,v,d,y,n,h,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,ʕ,w,o,d,‥,(pash),y,n,w,·,(pash),RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,3,v,o,d,‥,(pash),y,n,v,·,(pash),RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
 τ,·,i,k,:,l,∵,(mun),y,n,a,h
 SPACE
-ʕ,‥,y,n,‥,(zaq_q),y,n,w,·
+3,‥,y,n,‥,(zaq_q),y,n,v,·
 SPACE
-α,∵,l,-,ʕ,∵,z,:,r,a,τ,‥,(tip),n,w,·
+α,∵,l,-,3,∵,z,:,r,a,τ,‥,(tip),n,v,·
 SPACE
-h,a,(atn),v,∵,l
+h,a,(atn),b,∵,l
 SPACE
-v,·,:,ц,i,f,·,i,y,·,a,τ,‥,(mun),n,w,·
+b,·,:,c,i,p,·,i,y,·,a,τ,‥,(mun),n,v,·
 SPACE
-ц,i,f,·,i,(zaq_q),y,n,w,·
+c,i,p,·,i,(zaq_q),y,n,v,·
 SPACE
-α,∵,l,-,g,·,(tip),w,o,y
+α,∵,l,-,g,·,(tip),v,o,y
 SPACE
 l,o,(mer),α
 SPACE
-y,w,o,$,·sh,i,(mos),ʕ,_,(sopa)
+y,v,o,$,·sh,i,(mos),3,_,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -4154,25 +4154,25 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 4:18 in vtrad vtsef
-ц,a,d,(mun),w,·
+c,a,d,(mun),v,·
 SPACE
-ц,:,ʕ,a,d,‥,(zaq_q),y,n,w,·
+c,:,3,a,d,‥,(zaq_q),y,n,v,·
 SPACE
 m,i,l,·,∵,(tip),k,∵,τ
 SPACE
-v,·,i,r,:,x,o,v,o,τ,‥,(atn),y,n,w,·
+b,·,i,r,:,x,o,b,o,τ,‥,(atn),y,n,v,·
 SPACE
-q,a,r,_,(mer),v
+q,a,r,_,(mer),b
 SPACE
-q,i,ц,·,‥,(tev),n,w,·
+q,i,c,·,‥,(tev),n,v,·
 SPACE
-m,a,l,:,α,(mer),w,·
+m,a,l,:,α,(mer),v,·
 SPACE
-y,a,m,‥,(tip),y,n,w,·
+y,a,m,‥,(tip),y,n,v,·
 SPACE
-k,·,i,y,-,v,a,(mer),α
+k,·,i,y,-,b,a,(mer),α
 SPACE
-q,i,ц,·,‥,(mos),n,w,·,(sopa)
+q,i,c,·,‥,(mos),n,v,·,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -4189,23 +4189,23 @@ NO-BREAK SPACE
 Lamentations 4:19 in vtrad vtsef
 q,_,l,·,i,(mah),y,m.
 SPACE
-h,a,y,w,·,(pash)
+h,a,y,v,·,(pash)
 SPACE
-r,o,d,:,f,‥,(zaq_q),y,n,w,·
+r,o,d,:,p,‥,(zaq_q),y,n,v,·
 SPACE
 m,i,n,·,i,$,·sh,:,r,‥,(tip),y
 SPACE
 $,·sh,a,m,a,(atn),y,i,m.
 SPACE
-ʕ,_,l,-,h,∵,h,a,r,i,(mun),y,m.
+3,_,l,-,h,∵,h,a,r,i,(mun),y,m.
 SPACE
-d,·,:,l,a,q,u,(zaq_q),n,w,·
+d,·,:,l,a,q,u,(zaq_q),n,v,·
 SPACE
-v,·,_,m,·,i,d,:,v,·,a,(tip),r
+b,·,_,m,·,i,d,:,b,·,a,(tip),r
 SPACE
-α,a,(mer),r,:,v,w,·
+α,a,(mer),r,:,b,v,·
 SPACE
-l,a,(mos),n,w,·,(sopa)
+l,a,(mos),n,v,·,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -4220,27 +4220,27 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 4:20 in vtrad vtsef
-r,(mah),w,·,x,_
+r,(mah),v,·,x,_
 SPACE
-α,_,f,·,‥,(pash),y,n,w,·,(pash)
+α,_,p,·,‥,(pash),y,n,v,·,(pash)
 SPACE
 m,:,$,·sh,i,(mun),y,x,_
 SPACE
-y,:,h,o,w,a,(zaq_q),h
+y,:,h,o,v,a,(zaq_q),h
 SPACE
 n,i,l,:,k,·,_,(tip),d
 SPACE
-v,·,i,$,·sh,:,x,i,y,τ,w,o,τ,a,(atn),m.
+b,·,i,$,·sh,:,x,i,y,τ,v,o,τ,a,(atn),m.
 SPACE
 α,:_,$,·sh,∵,(mun),r
 SPACE
-α,a,m,_,(zaq_q),r,:,n,w,·
+α,a,m,_,(zaq_q),r,:,n,v,·
 SPACE
-v,·,:,ц,i,l,·,(tip),w,o
+b,·,:,c,i,l,·,(tip),v,o
 SPACE
 n,i,(mos),x,:,y,∵,(mer),h
 SPACE
-v,_,g,·,w,o,y,i,(mos),m.,(sopa)
+b,_,g,·,v,o,y,i,(mos),m.,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -4257,31 +4257,31 @@ NO-BREAK SPACE
 Lamentations 4:21 in vtrad vtsef
 $,·si,i,(mah),y,$,·si,i,y
 SPACE
-w,:,$,·si,i,m,:,x,i,y,(pash)
+v,:,$,·si,i,m,:,x,i,y,(pash)
 SPACE
-v,·,_,τ,-,α,:∵,d,(zaq_q),w,o,m.
+b,·,_,τ,-,α,:∵,d,(zaq_q),v,o,m.
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
-LEFT PARENTHESIS,y,w,$,v,τ,y,RIGHT PARENTHESIS
+LEFT PARENTHESIS,y,v,$,b,τ,y,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,y,w,o,$,·sh,∵,(tip),v,∵,τ,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,y,v,o,$,·sh,∵,(tip),b,∵,τ,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
-v,·,:,α,∵,(mun),r,∵,ц.
+b,·,:,α,∵,(mun),r,∵,c.
 SPACE
-ʕ,(atn),w,·,ц.
+3,(atn),v,·,c.
 SPACE
-g,·,_,m.,-,ʕ,a,l,_,(pash),y,i,k.,:,(pash)
+g,·,_,m.,-,3,a,l,_,(pash),y,i,k.,:,(pash)
 SPACE
-τ,·,_,ʕ,:_,v,oa,r,-,k,·,(zaq_q),w,o,σ
+τ,·,_,3,:_,b,oa,r,-,k,·,(zaq_q),v,o,σ
 SPACE
 τ,·,i,$,·sh,:,k,·,:,r,i,(tip),y
 SPACE
-w,:,τ,i,τ,:,ʕ,a,r,i,(mos),y,(sopa)
+v,:,τ,i,τ,:,3,a,r,i,(mos),y,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-samekh
 LEFT CURLY BRACKET,σ,RIGHT CURLY BRACKET
@@ -4296,69 +4296,69 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 Lamentations 4:22 in vtrad vtsef
-τ,·,_,m.,-,ʕ,:_,w,xxfv,n,‥,k.,:,(pash)
+τ,·,_,m.,-,3,:_,v,xxfv,n,‥,k.,:,(pash)
 SPACE
-v,·,_,τ,-,ц,i,y,·,(zaq_q),w,o,n.
+b,·,_,τ,-,c,i,y,·,(zaq_q),v,o,n.
 SPACE
 l,o,(mer),α
 SPACE
-y,w,o,σ,i,(tip),y,f.
+y,v,o,σ,i,(tip),y,p.
 SPACE
-l,:,h,_,g,:,l,w,o,τ,‥,(atn),k.,:
+l,:,h,_,g,:,l,v,o,τ,‥,(atn),k.,:
 SPACE
-f,·,a,q,_,(mah),d
+p,·,a,q,_,(mah),d
 SPACE
-ʕ,:_,w,xxfv,n,‥,k.,:,(pash)
+3,:_,v,xxfv,n,‥,k.,:,(pash)
 SPACE
-v,·,_,τ,-,α,:∵,d,(zaq_q),w,o,m.
+b,·,_,τ,-,α,:∵,d,(zaq_q),v,o,m.
 SPACE
 g,·,i,l,·,a,(tip),h
 SPACE
-ʕ,_,l,-,x,_,θ,·,o,α,τ,a,(mos),y,i,k.,:,(sopa)
+3,_,l,-,x,_,θ,·,o,α,τ,a,(mos),y,i,k.,:,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-pe
-LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+LEFT CURLY BRACKET,p,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
 START/STOP br
 
 Lamentations 5:1 in vtrad vtsef
 z,:,k,o,(mah),r
 SPACE
-y,:,h,o,w,a,h,(pash)
+y,:,h,o,v,a,h,(pash)
 SPACE
 m,∵,(mos),h,-,h,a,(mun),y,a,h
 SPACE
-l,a,(zaq_q),n,w,·
+l,a,(zaq_q),n,v,·
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
-LEFT PARENTHESIS,h,v,y,θ,RIGHT PARENTHESIS
+LEFT PARENTHESIS,h,b,y,θ,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,h,_,v,·,i,(tip),y,θ,a,h,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,h,_,b,·,i,(tip),y,θ,a,h,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
-w,·,r,:,α,‥,(mer),h
+v,·,r,:,α,‥,(mer),h
 SPACE
-α,∵,τ,-,x,∵,r,:,f,·,a,τ,‥,(mos),n,w,·,(sopa)
+α,∵,τ,-,x,∵,r,:,p,·,a,τ,‥,(mos),n,v,·,(sopa)
 
 Lamentations 5:2 in vtrad vtsef
-n,_,x,:_,l,a,τ,‥,(pash),n,w,·,(pash)
+n,_,x,:_,l,a,τ,‥,(pash),n,v,·,(pash)
 SPACE
-n,∵,(mos),h,∵,f,:,k,a,(mun),h
+n,∵,(mos),h,∵,p,:,k,a,(mun),h
 SPACE
 l,:,z,a,r,i,(zaq_q),y,m.
 SPACE
-v,·,a,τ,·,‥,(tip),y,n,w,·
+b,·,a,τ,·,‥,(tip),y,n,v,·
 SPACE
 l,:,n,oa,k,:,r,i,(mos),y,m.,(sopa)
 
 Lamentations 5:3 in vtrad vtsef
-y,:,τ,w,o,m,i,(mah),y,m.
+y,:,τ,v,o,m,i,(mah),y,m.
 SPACE
-h,a,y,i,(pash),y,n,w,·,(pash)
+h,a,y,i,(pash),y,n,v,·,(pash)
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
@@ -4366,37 +4366,37 @@ LEFT PARENTHESIS,α,y,n.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,w,:,α,‥,(mun),y,n.,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,v,:,α,‥,(mun),y,n.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
-α,a,(zaq_q),v
+α,a,(zaq_q),b
 SPACE
-α,i,m,·,o,τ,‥,(tip),y,n,w,·
+α,i,m,·,o,τ,‥,(tip),y,n,v,·
 SPACE
-k,·,:,α,_,l,:,m,a,n,(mos),w,o,τ,(sopa)
+k,·,:,α,_,l,:,m,a,n,(mos),v,o,τ,(sopa)
 
 Lamentations 5:4 in vtrad vtsef
-m,‥,y,m,‥,(pash),y,n,w,·,(pash)
+m,‥,y,m,‥,(pash),y,n,v,·,(pash)
 SPACE
-v,·,:,k,∵,(mun),σ,∵,f.
+b,·,:,k,∵,(mun),σ,∵,p.
 SPACE
-$,·sh,a,τ,i,(zaq_q),y,n,w,·
+$,·sh,a,τ,i,(zaq_q),y,n,v,·
 SPACE
-ʕ,‥,ц,‥,(tip),y,n,w,·
+3,‥,c,‥,(tip),y,n,v,·
 SPACE
-v,·,i,m,:,x,i,(mer),y,r
+b,·,i,m,:,x,i,(mer),y,r
 SPACE
-y,a,v,o,(mos),α,w,·,(sopa)
+y,a,b,o,(mos),α,v,·,(sopa)
 
 Lamentations 5:5 in vtrad vtsef
-ʕ,_,(mah),l
+3,_,(mah),l
 SPACE
-ц,_,w,·,a,α,r,‥,(pash),n,w,·,(pash)
+c,_,v,·,a,α,r,‥,(pash),n,v,·,(pash)
 SPACE
-n,i,r,:,d,·,a,(zaq_q),f,:,n,w,·
+n,i,r,:,d,·,a,(zaq_q),p,:,n,v,·
 SPACE
-y,a,g,_,(tip),ʕ,:,n,w,·
+y,a,g,_,(tip),3,:,n,v,·
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
@@ -4404,29 +4404,29 @@ LEFT PARENTHESIS,l,α,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,w,:,l,o,(mer),α,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,v,:,l,o,(mer),α,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
-h,(mos),w,·,n,_,(mos),x,-,l,a,(mos),n,w,·,(sopa)
+h,(mos),v,·,n,_,(mos),x,-,l,a,(mos),n,v,·,(sopa)
 
 Lamentations 5:6 in vtrad vtsef
-m,i,ц,:,r,_,(pash),y,i,m.,(pash)
+m,i,c,:,r,_,(pash),y,i,m.,(pash)
 SPACE
-n,a,τ,_,(mun),n,·,w,·
+n,a,τ,_,(mun),n,·,v,·
 SPACE
 y,a,(zaq_q),d
 SPACE
-α,_,$,·sh,·,(tip),w,·,r
+α,_,$,·sh,·,(tip),v,·,r
 SPACE
-l,i,$,·si,:,v,·,o,(mer),ʕ,_,(mos)
+l,i,$,·si,:,b,·,o,(mer),3,_,(mos)
 SPACE
 l,a,(mos),x,∵,m.,(sopa)
 
 Lamentations 5:7 in vtrad vtsef
-α,:_,v,o,τ,‥,(mah),y,n,w,·
+α,:_,b,o,τ,‥,(mah),y,n,v,·
 SPACE
-x,a,(mos),θ,:,α,w,·,(pash)
+x,a,(mos),θ,:,α,v,·,(pash)
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
@@ -4434,206 +4434,206 @@ LEFT PARENTHESIS,α,y,n,m.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,w,:,α,‥,y,n,a,(zaq_q),m.,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,v,:,α,‥,y,n,a,(zaq_q),m.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
-LEFT PARENTHESIS,α,n,x,n,w,RIGHT PARENTHESIS
+LEFT PARENTHESIS,α,n,x,n,v,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,w,_,α,:_,n,_,(tip),x,:,n,w,·,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,v,_,α,:_,n,_,(tip),x,:,n,v,·,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
-ʕ,:_,w,xxfv,n,o,τ,‥,y,h,∵,(mer),m.
+3,:_,v,xxfv,n,o,τ,‥,y,h,∵,(mer),m.
 SPACE
-σ,a,v,a,(mos),l,:,n,w,·,(sopa)
+σ,a,b,a,(mos),l,:,n,v,·,(sopa)
 
 Lamentations 5:8 in vtrad vtsef
-ʕ,:_,v,a,d,i,y,m.,(pash)
+3,:_,b,a,d,i,y,m.,(pash)
 SPACE
-m,a,(mun),$,·sh,:,l,w,·
+m,a,(mun),$,·sh,:,l,v,·
 SPACE
-v,a,(zaq_q),n,w,·
+b,a,(zaq_q),n,v,·
 SPACE
-f,·,o,r,‥,(tip),q
+p,·,o,r,‥,(tip),q
 SPACE
 α,‥,(mer),y,n.
 SPACE
 m,i,y,·,a,d,a,(mos),m.,(sopa)
 
 Lamentations 5:9 in vtrad vtsef
-v,·,:,n,_,f,:,$,·sh,‥,(pash),n,w,·,(pash)
+b,·,:,n,_,p,:,$,·sh,‥,(pash),n,v,·,(pash)
 SPACE
-n,a,v,i,(mun),y,α
+n,a,b,i,(mun),y,α
 SPACE
-l,_,x,:,m,‥,(zaq_q),n,w,·
+l,_,x,:,m,‥,(zaq_q),n,v,·
 SPACE
-m,i,f,·,:,n,‥,(tip),y
+m,i,p,·,:,n,‥,(tip),y
 SPACE
-x,∵,(mer),r,∵,v
+x,∵,(mer),r,∵,b
 SPACE
-h,_,m,·,i,d,:,v,·,a,(mos),r,(sopa)
+h,_,m,·,i,d,:,b,·,a,(mos),r,(sopa)
 
 Lamentations 5:10 in vtrad vtsef
-ʕ,w,o,r,‥,(pash),n,w,·,(pash)
+3,v,o,r,‥,(pash),n,v,·,(pash)
 SPACE
-k,·,:,τ,_,n,·,(mun),w,·,r
+k,·,:,τ,_,n,·,(mun),v,·,r
 SPACE
-n,i,k,:,m,a,(zaq_q),r,w,·
+n,i,k,:,m,a,(zaq_q),r,v,·
 SPACE
-m,i,f,·,:,n,‥,(tip),y
+m,i,p,·,:,n,‥,(tip),y
 SPACE
-z,_,l,:,ʕ,:_,f,(mer),w,o,τ
+z,_,l,:,3,:_,p,(mer),v,o,τ
 SPACE
-r,a,ʕ,a,(mos),v,(sopa)
+r,a,3,a,(mos),b,(sopa)
 
 Lamentations 5:11 in vtrad vtsef
 n,a,$,·sh,i,y,m.,(pash)
 SPACE
-v,·,:,ц,i,y,·,(mun),w,o,n.
+b,·,:,c,i,y,·,(mun),v,o,n.
 SPACE
-ʕ,i,n,·,(zaq_q),w,·
+3,i,n,·,(zaq_q),v,·
 SPACE
-v,·,:,τ,u,l,o,(tip),τ
+b,·,:,τ,u,l,o,(tip),τ
 SPACE
-v,·,:,ʕ,a,r,‥,(mer),y
+b,·,:,3,a,r,‥,(mer),y
 SPACE
-y,:,h,w,·,d,a,(mos),h,(sopa)
+y,:,h,v,·,d,a,(mos),h,(sopa)
 
 Lamentations 5:12 in vtrad vtsef
 $,·si,a,r,i,y,m.,(pash)
 SPACE
-v,·,:,y,a,d,a,(mun),m.
+b,·,:,y,a,d,a,(mun),m.
 SPACE
-n,i,τ,:,l,(zaq_q),w,·
+n,i,τ,:,l,(zaq_q),v,·
 SPACE
-f,·,:,n,‥,(mer),y
+p,·,:,n,‥,(mer),y
 SPACE
 z,:,q,‥,n,i,(tip),y,m.
 SPACE
 l,o,(mer),α
 SPACE
-n,∵,h,:,d,·,a,(mos),r,w,·,(sopa)
+n,∵,h,:,d,·,a,(mos),r,v,·,(sopa)
 
 Lamentations 5:13 in vtrad vtsef
-v,·,_,x,w,·,r,i,y,m.,(pash)
+b,·,_,x,v,·,r,i,y,m.,(pash)
 SPACE
-θ,:,x,(mun),w,o,n.
+θ,:,x,(mun),v,o,n.
 SPACE
-n,a,$,·si,a,(zaq_q),α,w,·
+n,a,$,·si,a,(zaq_q),α,v,·
 SPACE
-w,·,n,:,ʕ,a,r,i,(tip),y,m.
+v,·,n,:,3,a,r,i,(tip),y,m.
 SPACE
-v,·,a,ʕ,‥,(mer),ц.
+b,·,a,3,‥,(mer),c.
 SPACE
-k,·,a,$,·sh,a,(mos),l,w,·,(sopa)
+k,·,a,$,·sh,a,(mos),l,v,·,(sopa)
 
 Lamentations 5:14 in vtrad vtsef
 z,:,q,‥,n,i,y,m.,(pash)
 SPACE
-m,i,$,·sh,·,_,(mun),ʕ,_,r
+m,i,$,·sh,·,_,(mun),3,_,r
 SPACE
-$,·sh,a,v,a,(zaq_q),τ,w,·
+$,·sh,a,b,a,(zaq_q),τ,v,·
 SPACE
-v,·,_,x,w,·,r,i,(tip),y,m.
+b,·,_,x,v,·,r,i,(tip),y,m.
 SPACE
 m,i,n,·,:,g,i,y,n,a,τ,a,(mos),m.,(sopa)
 
 Lamentations 5:15 in vtrad vtsef
-$,·sh,a,v,_,τ,(pash)
+$,·sh,a,b,_,τ,(pash)
 SPACE
-m,:,$,·si,(mun),w,o,$,·si
+m,:,$,·si,(mun),v,o,$,·si
 SPACE
-l,i,v,·,‥,(zaq_q),n,w,·
+l,i,b,·,‥,(zaq_q),n,v,·
 SPACE
-n,∵,h,:,f,·,_,(mer),k.,:
+n,∵,h,:,p,·,_,(mer),k.,:
 SPACE
-l,:,α,‥,(tip),v,∵,l
+l,:,α,‥,(tip),b,∵,l
 SPACE
-m,:,x,o,l,‥,(mos),n,w,·,(sopa)
+m,:,x,o,l,‥,(mos),n,v,·,(sopa)
 
 Lamentations 5:16 in vtrad vtsef
-n,a,(mos),f,:,l,a,h,(pash)
+n,a,(mos),p,:,l,a,h,(pash)
 SPACE
-ʕ,:_,θ,∵,(mun),r,∵,τ
+3,:_,θ,∵,(mun),r,∵,τ
 SPACE
-r,o,α,$,·sh,‥,(zaq_q),n,w,·
+r,o,α,$,·sh,‥,(zaq_q),n,v,·
 SPACE
-α,(mos),w,o,y,-,n,a,(mer),α
+α,(mos),v,o,y,-,n,a,(mer),α
 SPACE
-l,a,(tip),n,w,·
+l,a,(tip),n,v,·
 SPACE
 k,·,i,(mer),y
 SPACE
-x,a,θ,a,(mos),α,n,w,·,(sopa)
+x,a,θ,a,(mos),α,n,v,·,(sopa)
 
 Lamentations 5:17 in vtrad vtsef
-ʕ,_,l,-,z,∵,(rev),h
+3,_,l,-,z,∵,(rev),h
 SPACE
 h,a,y,a,(mah),h
 SPACE
-d,a,w,∵,h,(pash)
+d,a,v,∵,h,(pash)
 SPACE
-l,i,v,·,‥,(zaq_q),n,w,·
+l,i,b,·,‥,(zaq_q),n,v,·
 SPACE
-ʕ,_,l,-,α,‥,(tip),l,·,∵,h
+3,_,l,-,α,‥,(tip),l,·,∵,h
 SPACE
-x,a,$,·sh,:,k,(mer),w,·
+x,a,$,·sh,:,k,(mer),v,·
 SPACE
-ʕ,‥,y,n,‥,(mos),y,n,w,·,(sopa)
+3,‥,y,n,‥,(mos),y,n,v,·,(sopa)
 
 Lamentations 5:18 in vtrad vtsef
-ʕ,_,(mah),l
+3,_,(mah),l
 SPACE
-h,_,r,-,ц,i,y,·,w,o,n.,(pash)
+h,_,r,-,c,i,y,·,v,o,n.,(pash)
 SPACE
 $,·sh,∵,$,·sh,·,a,m,‥,(zaq_q),m.
 SPACE
-$,·sh,w,·,ʕ,a,l,i,(tip),y,m.
+$,·sh,v,·,3,a,l,i,(tip),y,m.
 SPACE
-h,i,l,·,:,k,w,·,-,v,(mos),w,o,(sopa)
+h,i,l,·,:,k,v,·,-,b,(mos),v,o,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-pe
-LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+LEFT CURLY BRACKET,p,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
 START/STOP br
 
 Lamentations 5:19 in vtrad vtsef
 α,_,τ,·,a,(mah),h
 SPACE
-y,:,h,o,w,a,h,(pash)
+y,:,h,o,v,a,h,(pash)
 SPACE
-l,:,ʕ,w,o,l,a,(mun),m.
+l,:,3,v,o,l,a,(mun),m.
 SPACE
-τ,·,‥,$,·sh,‥,(zaq_q),v
+τ,·,‥,$,·sh,‥,(zaq_q),b
 SPACE
 k,·,i,σ,:,α,:_,k.,a,(tip)
 SPACE
-l,:,d,(mer),w,o,r
+l,:,d,(mer),v,o,r
 SPACE
-w,a,d,(mos),w,o,r,(sopa)
+v,a,d,(mos),v,o,r,(sopa)
 
 Lamentations 5:20 in vtrad vtsef
 l,a,(mah),m,·,a,h
 SPACE
-l,a,n,∵,(pash),ц,_,x,(pash)
+l,a,n,∵,(pash),c,_,x,(pash)
 SPACE
-τ,·,i,$,·sh,:,k,·,a,x,‥,(zaq_q),n,w,·
+τ,·,i,$,·sh,:,k,·,a,x,‥,(zaq_q),n,v,·
 SPACE
-τ,·,_,(mos),ʕ,_,z,:,v,‥,(tip),n,w,·
+τ,·,_,(mos),3,_,z,:,b,‥,(tip),n,v,·
 SPACE
 l,:,α,o,(mer),r,∵,k.,:
 SPACE
 y,a,m,i,(mos),y,m.,(sopa)
 
 Lamentations 5:21 in vtrad vtsef
-h,:_,$,·sh,i,y,v,‥,(qom),n,w,·
+h,:_,$,·sh,i,y,b,‥,(qom),n,v,·
 SPACE
-y,:,h,o,w,a,(mah),h,THIN SPACE
+y,:,h,o,v,a,(mah),h,THIN SPACE
 START small
 |
 STOP small
@@ -4641,17 +4641,17 @@ THIN SPACE,α,‥,l,∵,(pash),y,k.,a,(pash)
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
-LEFT PARENTHESIS,w,n,$,w,v,RIGHT PARENTHESIS
+LEFT PARENTHESIS,v,n,$,v,b,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,w,:,(mos),n,a,$,·sh,(zaq_q),w,·,v,a,h,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,v,:,(mos),n,a,$,·sh,(zaq_q),v,·,b,a,h,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
 x,_,d,·,‥,(mer),$,·sh
 SPACE
-y,a,m,‥,(tip),y,n,w,·
+y,a,m,‥,(tip),y,n,v,·
 SPACE
 k,·,:,q,∵,(mos),d,∵,m.,(sopa)
 
@@ -4660,11 +4660,11 @@ k,·,i,(yet),y
 SPACE
 α,i,m.,-,m,a,α,o,(mun),σ
 SPACE
-m,:,α,_,σ,:,τ,·,a,(zaq_q),n,w,·
+m,:,α,_,σ,:,τ,·,a,(zaq_q),n,v,·
 SPACE
-q,a,ц,_,(mer),f,:,τ,·,a
+q,a,c,_,(mer),p,:,τ,·,a
 SPACE
-ʕ,a,l,‥,(tip),y,n,w,·
+3,a,l,‥,(tip),y,n,v,·
 SPACE
-ʕ,_,d,-,m,:,α,o,(mos),d,(sopa)
+3,_,d,-,m,:,α,o,(mos),d,(sopa)
 

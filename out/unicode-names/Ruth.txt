@@ -1,137 +1,137 @@
 unicode_names Ruth
 Ruth 1:1 in vtrad vtsef
-w,_,y,:,h,i,(rev),y
+v,_,y,:,h,i,(rev),y
 SPACE
-v,·,i,y,m,‥,y,(pash)
+b,·,i,y,m,‥,y,(pash)
 SPACE
-$,·sh,:,f,o,(mun),θ
+$,·sh,:,p,o,(mun),θ
 SPACE
-h,_,$,·sh,·,o,f,:,θ,i,(zaq_q),y,m.
+h,_,$,·sh,·,o,p,:,θ,i,(zaq_q),y,m.
 SPACE
-w,_,y,:,h,i,(mer),y
+v,_,y,:,h,i,(mer),y
 SPACE
-r,a,ʕ,a,(tip),v
+r,a,3,a,(tip),b
 SPACE
-v,·,a,α,a,(atn),r,∵,ц.
+b,·,a,α,a,(atn),r,∵,c.
 SPACE
-w,_,y,·,‥,(qom),l,∵,k.,:
+v,_,y,·,‥,(qom),l,∵,k.,:
 SPACE
 α,i,(ger),y,$,·sh
 SPACE
-m,i,v,·,‥,(dar),y,τ
+m,i,b,·,‥,(dar),y,τ
 SPACE
 l,∵,(mun),x,∵,m.
 SPACE
-y,:,h,w,·,d,a,(rev),h
+y,:,h,v,·,d,a,(rev),h
 SPACE
-l,a,g,w,·,r,(pash)
+l,a,g,v,·,r,(pash)
 SPACE
-v,·,i,$,·si,:,d,‥,(mun),y
+b,·,i,$,·si,:,d,‥,(mun),y
 SPACE
-m,w,o,α,a,(zaq_q),v
+m,v,o,α,a,(zaq_q),b
 SPACE
-h,(mer),w,·,α
+h,(mer),v,·,α
 SPACE
-w,:,α,i,$,·sh,:,τ,·,(tip),w,o
+v,:,α,i,$,·sh,:,τ,·,(tip),v,o
 SPACE
-w,·,$,·sh,:,n,‥,(mer),y
+v,·,$,·sh,:,n,‥,(mer),y
 SPACE
-v,a,n,a,(mos),y,w,(sopa)
+b,a,n,a,(mos),y,v,(sopa)
 
 Ruth 1:2 in vtrad vtsef
-w,:,$,·sh,‥,(mun),m.
+v,:,$,·sh,‥,(mun),m.
 SPACE
 h,a,α,i,(mun),y,$,·sh
 SPACE
 α,:∵,(mos),l,i,y,m,∵,(paz),l,∵,k.,:
 SPACE
-w,:,$,·sh,‥,m.,(tel_q)
+v,:,$,·sh,‥,m.,(tel_q)
 SPACE
-α,i,$,·sh,:,τ,·,(qom),w,o
+α,i,$,·sh,:,τ,·,(qom),v,o
 SPACE
-n,oa,ʕ,:a,m,i,(ger),y
+n,oa,3,:a,m,i,(ger),y
 SPACE
-w,:,$,·sh,‥,(mer),m.
+v,:,$,·sh,‥,(mer),m.
 SPACE
-$,·sh,:,n,‥,(mos),y,-,v,a,n,a,(mun),y,w,THIN SPACE
+$,·sh,:,n,‥,(mos),y,-,b,a,n,a,(mun),y,v,THIN SPACE
 START b
 |
 STOP b
 SPACE
-m,_,x,:,l,(mah),w,o,n.
+m,_,x,:,l,(mah),v,o,n.
 SPACE
-w,:,k,i,l,:,y,w,o,n.,(pash)
+v,:,k,i,l,:,y,v,o,n.,(pash)
 SPACE
-α,∵,f,:,r,a,τ,i,(zaq_q),y,m.
+α,∵,p,:,r,a,τ,i,(zaq_q),y,m.
 SPACE
-m,i,v,·,‥,(mer),y,τ
+m,i,b,·,‥,(mer),y,τ
 SPACE
 l,∵,(tip),x,∵,m.
 SPACE
-y,:,h,w,·,d,a,(atn),h
+y,:,h,v,·,d,a,(atn),h
 SPACE
-w,_,y,·,a,v,o,(mer),α,w,·
+v,_,y,·,a,b,o,(mer),α,v,·
 SPACE
-$,·si,:,d,‥,(mos),y,-,m,w,o,α,a,(tip),v
+$,·si,:,d,‥,(mos),y,-,m,v,o,α,a,(tip),b
 SPACE
-w,_,y,·,i,(mos),h,:,y,w,·,-,$,·sh,a,(mos),m.,(sopa)
+v,_,y,·,i,(mos),h,:,y,v,·,-,$,·sh,a,(mos),m.,(sopa)
 
 Ruth 1:3 in vtrad vtsef
-w,_,y,·,a,(mer),m,oa,τ
+v,_,y,·,a,(mer),m,oa,τ
 SPACE
 α,:∵,l,i,y,m,∵,(tip),l,∵,k.,:
 SPACE
 α,i,(mun),y,$,·sh
 SPACE
-n,oa,ʕ,:a,m,i,(atn),y
+n,oa,3,:a,m,i,(atn),y
 SPACE
-w,_,τ,·,i,$,·sh,·,a,α,‥,(mer),r
+v,_,τ,·,i,$,·sh,·,a,α,‥,(mer),r
 SPACE
 h,i,(tip),y,α
 SPACE
-w,·,$,·sh,:,n,‥,(mer),y
+v,·,$,·sh,:,n,‥,(mer),y
 SPACE
-v,a,n,∵,(mos),y,h,a,(sopa)
+b,a,n,∵,(mos),y,h,a,(sopa)
 
 Ruth 1:4 in vtrad vtsef
-w,_,y,·,i,$,·si,:,α,(mun),w,·
+v,_,y,·,i,$,·si,:,α,(mun),v,·
 SPACE
 l,a,h,∵,(rev),m.
 SPACE
 n,a,$,·sh,i,y,m.,(pash)
 SPACE
-m,o,(mos),α,:_,v,i,y,·,(zaq_q),w,o,τ
+m,o,(mos),α,:_,b,i,y,·,(zaq_q),v,o,τ
 SPACE
 $,·sh,‥,(mah),m.
 SPACE
 h,a,α,_,x,_,τ,(pash)
 SPACE
-ʕ,oa,r,:,f,·,a,(zaq_q),h
+3,oa,r,:,p,·,a,(zaq_q),h
 SPACE
-w,:,$,·sh,‥,(mer),m.
+v,:,$,·sh,‥,(mer),m.
 SPACE
 h,_,$,·sh,·,‥,n,i,(tip),y,τ
 SPACE
-r,(atn),w,·,τ
+r,(atn),v,·,τ
 SPACE
-w,_,y,·,‥,(mer),$,·sh,:,v,w,·
+v,_,y,·,‥,(mer),$,·sh,:,b,v,·
 SPACE
 $,·sh,a,(tip),m.
 SPACE
-k,·,:,ʕ,∵,(mer),$,·si,∵,r
+k,·,:,3,∵,(mer),$,·si,∵,r
 SPACE
 $,·sh,a,n,i,(mos),y,m.,(sopa)
 
 Ruth 1:5 in vtrad vtsef
-w,_,y,·,a,m,u,(mer),τ,w,·
+v,_,y,·,a,m,u,(mer),τ,v,·
 SPACE
 g,_,m.,-,$,·sh,:,n,‥,y,h,∵,(tip),m.
 SPACE
-m,_,x,:,l,(mun),w,o,n.
+m,_,x,:,l,(mun),v,o,n.
 SPACE
-w,:,k,i,l,:,y,(atn),w,o,n.
+v,:,k,i,l,:,y,(atn),v,o,n.
 SPACE
-w,_,τ,·,i,$,·sh,·,a,α,‥,r,(pash)
+v,_,τ,·,i,$,·sh,·,a,α,‥,r,(pash)
 SPACE
 h,a,(mos),α,i,$,·sh,·,a,(zaq_q),h
 SPACE
@@ -139,34 +139,34 @@ m,i,$,·sh,·,:,n,‥,(mer),y
 SPACE
 y,:,l,a,d,∵,(tip),y,h,a
 SPACE
-w,·,m,‥,α,i,y,$,·sh,a,(mos),h,·,(sopa)
+v,·,m,‥,α,i,y,$,·sh,a,(mos),h,·,(sopa)
 
 Ruth 1:6 in vtrad vtsef
-w,_,τ,·,a,(mah),q,oa,m.
+v,_,τ,·,a,(mah),q,oa,m.
 SPACE
 h,i,y,α,(pash)
 SPACE
-w,:,k,_,l,·,o,τ,∵,(zaq_q),y,h,a
+v,:,k,_,l,·,o,τ,∵,(zaq_q),y,h,a
 SPACE
-w,_,τ,·,a,(tip),$,·sh,oa,v
+v,_,τ,·,a,(tip),$,·sh,oa,b
 SPACE
 m,i,$,·si,·,:,d,‥,(mun),y
 SPACE
-m,w,o,α,a,(atn),v
+m,v,o,α,a,(atn),b
 SPACE
 k,·,i,(mah),y
 SPACE
-$,·sh,a,(mos),m,:,ʕ,a,h,(pash)
+$,·sh,a,(mos),m,:,3,a,h,(pash)
 SPACE
-v,·,i,$,·si,:,d,‥,(mun),h
+b,·,i,$,·si,:,d,‥,(mun),h
 SPACE
-m,w,o,α,a,(zaq_q),v
+m,v,o,α,a,(zaq_q),b
 SPACE
-k,·,i,(mos),y,-,f,a,q,_,(mah),d
+k,·,i,(mos),y,-,p,a,q,_,(mah),d
 SPACE
-y,:,h,o,w,a,h,(pash)
+y,:,h,o,v,a,h,(pash)
 SPACE
-α,∵,τ,-,ʕ,_,m,·,(zaq_q),w,o
+α,∵,τ,-,3,_,m,·,(zaq_q),v,o
 SPACE
 l,a,τ,‥,(mer),τ
 SPACE
@@ -175,34 +175,34 @@ SPACE
 l,a,(mos),x,∵,m.,(sopa)
 
 Ruth 1:7 in vtrad vtsef
-w,_,τ,·,‥,ц,‥,(rev),α
+v,_,τ,·,‥,c,‥,(rev),α
 SPACE
-m,i,n.,-,h,_,m,·,a,q,w,o,m.,(pash)
+m,i,n.,-,h,_,m,·,a,q,v,o,m.,(pash)
 SPACE
 α,:_,$,·sh,∵,(mun),r
 SPACE
 h,a,(mos),y,:,τ,a,h,-,$,·sh,·,a,(zaq_q),m,·,a,h
 SPACE
-w,·,$,·sh,:,τ,·,‥,(mer),y
+v,·,$,·sh,:,τ,·,‥,(mer),y
 SPACE
-k,_,l,·,w,o,τ,∵,(tip),y,h,a
+k,_,l,·,v,o,τ,∵,(tip),y,h,a
 SPACE
-ʕ,i,m,·,a,(atn),h,·
+3,i,m,·,a,(atn),h,·
 SPACE
-w,_,τ,·,‥,l,_,(mun),k,:,n,a,h
+v,_,τ,·,‥,l,_,(mun),k,:,n,a,h
 SPACE
-v,_,d,·,∵,(zaq_q),r,∵,k.,:
+b,_,d,·,∵,(zaq_q),r,∵,k.,:
 SPACE
-l,a,$,·sh,(tip),w,·,v
+l,a,$,·sh,(tip),v,·,b
 SPACE
-α,∵,l,-,α,∵,(mer),r,∵,ц.
+α,∵,l,-,α,∵,(mer),r,∵,c.
 SPACE
-y,:,h,w,·,d,a,(mos),h,(sopa)
+y,:,h,v,·,d,a,(mos),h,(sopa)
 
 Ruth 1:8 in vtrad vtsef
-w,_,τ,·,o,(mah),α,m,∵,r
+v,_,τ,·,o,(mah),α,m,∵,r
 SPACE
-n,oa,ʕ,:a,m,i,y,(pash)
+n,oa,3,:a,m,i,y,(pash)
 SPACE
 l,i,$,·sh,:,τ,·,‥,(mun),y
 SPACE
@@ -210,105 +210,105 @@ k,_,l,·,o,τ,∵,(zaq_q),y,h,a
 SPACE
 l,‥,(mun),k,:,n,a,h
 SPACE
-$,·sh,·,o,(zaq_q),v,:,n,a,h
+$,·sh,·,o,(zaq_q),b,:,n,a,h
 SPACE
 α,i,$,·sh,·,a,(tip),h
 SPACE
-l,:,v,‥,(mun),y,τ
+l,:,b,‥,(mun),y,τ
 SPACE
 α,i,m,·,a,(atn),h,·
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
-LEFT PARENTHESIS,y,ʕ,$,h,RIGHT PARENTHESIS
+LEFT PARENTHESIS,y,3,$,h,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,y,_,(mun),ʕ,_,$,·si,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,y,_,(mun),3,_,$,·si,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
-y,:,h,o,w,a,(mah),h
+y,:,h,o,v,a,(mah),h
 SPACE
-ʕ,i,m,·,a,k,∵,m.,(pash)
+3,i,m,·,a,k,∵,m.,(pash)
 SPACE
 x,∵,(zaq_q),σ,∵,d
 SPACE
 k,·,_,α,:_,$,·sh,∵,(dar),r
 SPACE
-ʕ,:_,$,·si,i,y,τ,∵,(tev),m.
+3,:_,$,·si,i,y,τ,∵,(tev),m.
 SPACE
-ʕ,i,m.,-,h,_,m,·,‥,τ,i,(tip),y,m.
+3,i,m.,-,h,_,m,·,‥,τ,i,(tip),y,m.
 SPACE
-w,:,ʕ,i,m,·,a,d,i,(mos),y,(sopa)
+v,:,3,i,m,·,a,d,i,(mos),y,(sopa)
 
 Ruth 1:9 in vtrad vtsef
 y,i,τ,·,‥,(mah),n.
 SPACE
-y,:,h,o,w,a,h,(pash)
+y,:,h,o,v,a,h,(pash)
 SPACE
 l,a,k,∵,(zaq_q),m.
 SPACE
-w,·,m,:,ц,∵,(mun),α,n.,a
+v,·,m,:,c,∵,(mun),α,n.,a
 SPACE
-m,:,n,w,·,x,a,(zaq_q),h
+m,:,n,v,·,x,a,(zaq_q),h
 SPACE
 α,i,$,·sh,·,a,(tip),h
 SPACE
-v,·,‥,(mun),y,τ
+b,·,‥,(mun),y,τ
 SPACE
 α,i,y,$,·sh,a,(atn),h,·
 SPACE
-w,_,τ,·,i,$,·sh,·,_,(mun),q
+v,_,τ,·,i,$,·sh,·,_,(mun),q
 SPACE
 l,a,h,∵,(zaq_q),n.
 SPACE
-w,_,τ,·,i,$,·si,·,∵,(mer),α,n,a,h
+v,_,τ,·,i,$,·si,·,∵,(mer),α,n,a,h
 SPACE
-q,w,o,l,a,(tip),n.
+q,v,o,l,a,(tip),n.
 SPACE
-w,_,τ,·,i,v,:,k,·,∵,(mos),y,n,a,h,(sopa)
+v,_,τ,·,i,b,:,k,·,∵,(mos),y,n,a,h,(sopa)
 
 Ruth 1:10 in vtrad vtsef
-w,_,τ,·,o,α,m,_,(tip),r,:,n,a,h,-,l,·,a,(atn),h,·
+v,_,τ,·,o,α,m,_,(tip),r,:,n,a,h,-,l,·,a,(atn),h,·
 SPACE
 k,·,i,(mos),y,-,α,i,τ,·,a,(mer),k.,:
 SPACE
-n,a,$,·sh,(tip),w,·,v
+n,a,$,·sh,(tip),v,·,b
 SPACE
-l,:,ʕ,_,m,·,‥,(mos),k.,:,(sopa)
+l,:,3,_,m,·,‥,(mos),k.,:,(sopa)
 
 Ruth 1:11 in vtrad vtsef
-w,_,τ,·,o,(mah),α,m,∵,r
+v,_,τ,·,o,(mah),α,m,∵,r
 SPACE
-n,oa,ʕ,:a,m,i,y,(pash)
+n,oa,3,:a,m,i,y,(pash)
 SPACE
-$,·sh,o,(mun),v,:,n,a,h
+$,·sh,o,(mun),b,:,n,a,h
 SPACE
-v,:,n,o,τ,_,(zaq_q),y
+b,:,n,o,τ,_,(zaq_q),y
 SPACE
 l,a,(mer),m,·,a,h
 SPACE
 τ,‥,l,_,(tip),k,:,n,a,h
 SPACE
-ʕ,i,m,·,i,(atn),y
+3,i,m,·,i,(atn),y
 SPACE
-h,_,ʕ,(mos),w,o,d,-,l,i,(mah),y
+h,_,3,(mos),v,o,d,-,l,i,(mah),y
 SPACE
-v,a,n,i,y,m.,(pash)
+b,a,n,i,y,m.,(pash)
 SPACE
-v,·,:,(mos),m,‥,ʕ,_,(zaq_q),y
+b,·,:,(mos),m,‥,3,_,(zaq_q),y
 SPACE
-w,:,h,a,y,(mer),w,·
+v,:,h,a,y,(mer),v,·
 SPACE
 l,a,k,∵,(tip),m.
 SPACE
 l,_,α,:_,n,a,$,·sh,i,(mos),y,m.,(sopa)
 
 Ruth 1:12 in vtrad vtsef
-$,·sh,o,(mah),v,:,n,a,h
+$,·sh,o,(mah),b,:,n,a,h
 SPACE
-v,:,n,o,τ,_,y,(pash)
+b,:,n,o,τ,_,y,(pash)
 SPACE
 l,‥,(zaq_q),k,:,n.,a
 SPACE
@@ -316,7 +316,7 @@ k,·,i,(mer),y
 SPACE
 z,a,q,_,(tip),n,:,τ,·,i,y
 SPACE
-m,i,h,:,y,(mun),w,o,τ
+m,i,h,:,y,(mun),v,o,τ
 SPACE
 l,:,α,i,(atn),y,$,·sh
 SPACE
@@ -326,7 +326,7 @@ SPACE
 SPACE
 y,∵,$,·sh,-,l,i,(mun),y
 SPACE
-τ,i,q,:,w,a,(zaq_q),h
+τ,i,q,:,v,a,(zaq_q),h
 SPACE
 g,·,_,(mun),m.
 SPACE
@@ -336,11 +336,11 @@ h,_,l,·,_,(pash),y,:,l,a,h,(pash)
 SPACE
 l,:,α,i,(zaq_q),y,$,·sh
 SPACE
-w,:,g,_,(tip),m.
+v,:,g,_,(tip),m.
 SPACE
 y,a,l,_,(mer),d,:,τ,·,i,y
 SPACE
-v,a,n,i,(mos),y,m.,(sopa)
+b,a,n,i,(mos),y,m.,(sopa)
 
 Ruth 1:13 in vtrad vtsef
 h,:_,l,a,h,‥,(mun),n.,THIN SPACE
@@ -348,27 +348,27 @@ START b
 |
 STOP b
 SPACE
-τ,·,:,$,·si,_,v,·,‥,(rev),r,:,n,a,h
+τ,·,:,$,·si,_,b,·,‥,(rev),r,:,n,a,h
 SPACE
-ʕ,_,(yet),d
+3,_,(yet),d
 SPACE
 α,:_,$,·sh,∵,(mun),r
 SPACE
-y,i,g,:,d,·,a,(zaq_q),l,w,·
+y,i,g,:,d,·,a,(zaq_q),l,v,·
 SPACE
 h,:_,l,a,h,‥,n.,(pash)
 SPACE
-τ,·,‥,ʕ,a,g,‥,(zaq_q),n,a,h
+τ,·,‥,3,a,g,‥,(zaq_q),n,a,h
 SPACE
-l,:,v,i,l,:,τ,·,i,(tip),y
+l,:,b,i,l,:,τ,·,i,(tip),y
 SPACE
-h,:∵,y,(mun),w,o,τ
+h,:∵,y,(mun),v,o,τ
 SPACE
 l,:,α,i,(atn),y,$,·sh
 SPACE
 α,_,(mun),l
 SPACE
-v,·,:,n,o,τ,_,(rev),y
+b,·,:,n,o,τ,_,(rev),y
 SPACE
 k,·,i,(mos),y,-,m,_,r,-,l,i,(mah),y
 SPACE
@@ -376,62 +376,62 @@ m,:,α,o,d,(pash)
 SPACE
 m,i,k,·,∵,(zaq_q),m.
 SPACE
-k,·,i,(mos),y,-,y,a,ц,:,α,a,(mer),h
+k,·,i,(mos),y,-,y,a,c,:,α,a,(mer),h
 SPACE
-v,i,(tip),y
+b,i,(tip),y
 SPACE
-y,_,d,-,y,:,h,o,w,a,(mos),h,(sopa)
+y,_,d,-,y,:,h,o,v,a,(mos),h,(sopa)
 
 Ruth 1:14 in vtrad vtsef
-w,_,τ,·,i,$,·si,·,∵,(mun),n,a,h
+v,_,τ,·,i,$,·si,·,∵,(mun),n,a,h
 SPACE
-q,w,o,l,a,(zaq_q),n.
+q,v,o,l,a,(zaq_q),n.
 SPACE
-w,_,τ,·,i,v,:,k,·,∵,(tip),y,n,a,h
+v,_,τ,·,i,b,:,k,·,∵,(tip),y,n,a,h
 SPACE
-ʕ,(atn),w,o,d
+3,(atn),v,o,d
 SPACE
-w,_,τ,·,i,$,·sh,·,_,(mah),q
+v,_,τ,·,i,$,·sh,·,_,(mah),q
 SPACE
-ʕ,oa,r,:,f,·,a,h,(pash)
+3,oa,r,:,p,·,a,h,(pash)
 SPACE
-l,_,x,:_,m,w,o,τ,a,(zaq_q),h,·
+l,_,x,:_,m,v,o,τ,a,(zaq_q),h,·
 SPACE
-w,:,r,(tip),w,·,τ
+v,:,r,(tip),v,·,τ
 SPACE
-d,·,a,(mer),v,:,q,a,h
+d,·,a,(mer),b,:,q,a,h
 SPACE
-v,·,a,(mos),h,·,(sopa)
+b,·,a,(mos),h,·,(sopa)
 
 Ruth 1:15 in vtrad vtsef
-w,_,τ,·,o,(rev),α,m,∵,r
+v,_,τ,·,o,(rev),α,m,∵,r
 SPACE
 h,i,n,·,‥,h,(pash)
 SPACE
-$,·sh,a,(mun),v,a,h
+$,·sh,a,(mun),b,a,h
 SPACE
-y,:,v,i,m,:,τ,·,‥,(zaq_q),k.,:
+y,:,b,i,m,:,τ,·,‥,(zaq_q),k.,:
 SPACE
-α,∵,l,-,ʕ,_,m,·,a,(tip),h,·
+α,∵,l,-,3,_,m,·,a,(tip),h,·
 SPACE
-w,:,α,∵,l,-,α,:∵,l,o,h,∵,(atn),y,h,a
+v,:,α,∵,l,-,α,:∵,l,o,h,∵,(atn),y,h,a
 SPACE
-$,·sh,(tip),w,·,v,i,y
+$,·sh,(tip),v,·,b,i,y
 SPACE
 α,_,x,:_,r,‥,(mer),y
 SPACE
-y,:,v,i,m,:,τ,·,‥,(mos),k.,:,(sopa)
+y,:,b,i,m,:,τ,·,‥,(mos),k.,:,(sopa)
 
 Ruth 1:16 in vtrad vtsef
-w,_,τ,·,o,(mah),α,m,∵,r
+v,_,τ,·,o,(mah),α,m,∵,r
 SPACE
-r,w,·,τ,(pash)
+r,v,·,τ,(pash)
 SPACE
-α,_,l,-,τ,·,i,f,:,g,·,:,ʕ,i,y,-,v,i,(zaq_q),y
+α,_,l,-,τ,·,i,p,:,g,·,:,3,i,y,-,b,i,(zaq_q),y
 SPACE
-l,:,ʕ,oa,z,:,v,‥,(tip),k.,:
+l,:,3,oa,z,:,b,‥,(tip),k.,:
 SPACE
-l,a,$,·sh,(mun),w,·,v
+l,a,$,·sh,(mun),v,·,b
 SPACE
 m,‥,α,_,x,:_,r,a,(atn),y,i,k.,:
 SPACE
@@ -443,57 +443,57 @@ SPACE
 SPACE
 α,‥,l,‥,(rev),k.,:
 SPACE
-w,·,v,_,α,:_,$,·sh,∵,(mah),r
+v,·,b,_,α,:_,$,·sh,∵,(mah),r
 SPACE
 τ,·,a,l,i,(pash),y,n,i,y,(pash)
 SPACE
 α,a,l,i,(zaq_q),y,n.
 SPACE
-ʕ,_,m,·,‥,(mun),k.,:
+3,_,m,·,‥,(mun),k.,:
 SPACE
-ʕ,_,m,·,i,(zaq_q),y
+3,_,m,·,i,(zaq_q),y
 SPACE
-w,‥,α,l,o,h,_,(tip),y,i,k.,:
+v,‥,α,l,o,h,_,(tip),y,i,k.,:
 SPACE
 α,:∵,l,o,h,a,(mos),y,(sopa)
 
 Ruth 1:17 in vtrad vtsef
-v,·,_,α,:_,$,·sh,∵,(mah),r
+b,·,_,α,:_,$,·sh,∵,(mah),r
 SPACE
-τ,·,a,m,(pash),w,·,τ,i,y,(pash)
+τ,·,a,m,(pash),v,·,τ,i,y,(pash)
 SPACE
-α,a,m,(zaq_q),w,·,τ
+α,a,m,(zaq_q),v,·,τ
 SPACE
-w,:,$,·sh,a,(tip),m.
+v,:,$,·sh,a,(tip),m.
 SPACE
-α,∵,q,·,a,v,‥,(atn),r
+α,∵,q,·,a,b,‥,(atn),r
 SPACE
 k,·,o,h,(tel_q)
 SPACE
-y,_,ʕ,:_,$,·si,∵,(qom),h
+y,_,3,:_,$,·si,∵,(qom),h
 SPACE
-y,:,h,o,w,a,(mer),h
+y,:,h,o,v,a,(mer),h
 SPACE
 l,i,y,(pash)
 SPACE
-w,:,k,o,(mun),h
+v,:,k,o,(mun),h
 SPACE
-y,w,o,σ,i,(zaq_q),y,f.
+y,v,o,σ,i,(zaq_q),y,p.
 SPACE
 k,·,i,(mun),y
 SPACE
-h,_,m,·,a,(zaq_q),w,∵,τ
+h,_,m,·,a,(zaq_q),v,∵,τ
 SPACE
-y,_,f,:,r,i,(tip),y,d
+y,_,p,:,r,i,(tip),y,d
 SPACE
-v,·,‥,y,n,i,(mer),y
+b,·,‥,y,n,i,(mer),y
 SPACE
-w,·,v,‥,y,n,‥,(mos),k.,:,(sopa)
+v,·,b,‥,y,n,‥,(mos),k.,:,(sopa)
 
 Ruth 1:18 in vtrad vtsef
-w,_,τ,·,‥,(zaq_g),r,∵,α
+v,_,τ,·,‥,(zaq_g),r,∵,α
 SPACE
-k,·,i,(mos),y,-,m,i,τ,:,α,_,m,·,∵,(mer),ц,∵,τ
+k,·,i,(mos),y,-,m,i,τ,:,α,_,m,·,∵,(mer),c,∵,τ
 SPACE
 h,i,(tip),y,α
 SPACE
@@ -501,45 +501,45 @@ l,a,l,∵,(mun),k,∵,τ
 SPACE
 α,i,τ,·,a,(atn),h,·
 SPACE
-w,_,τ,·,∵,x,:,d,·,_,(tip),l
+v,_,τ,·,∵,x,:,d,·,_,(tip),l
 SPACE
-l,:,d,_,v,·,‥,(mer),r
+l,:,d,_,b,·,‥,(mer),r
 SPACE
 α,‥,l,∵,(mos),y,h,a,(sopa)
 
 Ruth 1:19 in vtrad vtsef
-w,_,τ,·,‥,l,_,(mun),k,:,n,a,h
+v,_,τ,·,‥,l,_,(mun),k,:,n,a,h
 SPACE
 $,·sh,:,τ,·,‥,y,h,∵,(zaq_q),m.
 SPACE
-ʕ,_,d,-,v,·,w,o,α,a,(tip),n,a,h
+3,_,d,-,b,·,v,o,α,a,(tip),n,a,h
 SPACE
-v,·,‥,(mun),y,τ
+b,·,‥,(mun),y,τ
 SPACE
 l,a,(atn),x,∵,m.
 SPACE
-w,_,y,:,h,i,(rev),y
+v,_,y,:,h,i,(rev),y
 SPACE
-k,·,:,v,w,o,α,a,(pash),n,a,h,(pash)
+k,·,:,b,v,o,α,a,(pash),n,a,h,(pash)
 SPACE
-v,·,‥,(mun),y,τ
+b,·,‥,(mun),y,τ
 SPACE
 l,∵,(zaq_q),x,∵,m.
 SPACE
-w,_,τ,·,‥,h,o,(mah),m.
+v,_,τ,·,‥,h,o,(mah),m.
 SPACE
-k,·,oa,l,-,h,a,ʕ,i,y,r,(pash)
+k,·,oa,l,-,h,a,3,i,y,r,(pash)
 SPACE
-ʕ,:_,l,‥,y,h,∵,(zaq_q),n.
+3,:_,l,‥,y,h,∵,(zaq_q),n.
 SPACE
-w,_,τ,·,o,α,m,_,(tip),r,:,n,a,h
+v,_,τ,·,o,α,m,_,(tip),r,:,n,a,h
 SPACE
 h,:_,z,o,(mer),α,τ
 SPACE
-n,oa,ʕ,:a,m,i,(mos),y,(sopa)
+n,oa,3,:a,m,i,(mos),y,(sopa)
 
 Ruth 1:20 in vtrad vtsef
-w,_,τ,·,o,(mun),α,m,∵,r
+v,_,τ,·,o,(mun),α,m,∵,r
 SPACE
 α,:_,l,‥,y,h,∵,(zaq_q),n.
 SPACE
@@ -547,7 +547,7 @@ SPACE
 SPACE
 l,i,(tip),y
 SPACE
-n,oa,ʕ,:a,m,i,(atn),y
+n,oa,3,:a,m,i,(atn),y
 SPACE
 q,:,r,∵,(mah),α,n.,a
 SPACE
@@ -570,11 +570,11 @@ m,:,l,‥,α,a,(mun),h
 SPACE
 h,a,l,_,(zaq_q),k,:,τ,·,i,y
 SPACE
-w,:,r,‥,y,q,a,(tip),m.
+v,:,r,‥,y,q,a,(tip),m.
 SPACE
-h,:∵,$,·sh,i,y,v,_,(mun),n,i,y
+h,:∵,$,·sh,i,y,b,_,(mun),n,i,y
 SPACE
-y,:,h,o,w,a,(atn),h
+y,:,h,o,v,a,(atn),h
 SPACE
 l,a,(mun),m,·,a,h
 SPACE
@@ -582,63 +582,63 @@ SPACE
 SPACE
 l,i,y,(pash)
 SPACE
-n,oa,ʕ,:a,m,i,(zaq_q),y
+n,oa,3,:a,m,i,(zaq_q),y
 SPACE
-w,_,(mos),y,h,o,w,a,h,(pash)
+v,_,(mos),y,h,o,v,a,h,(pash)
 SPACE
-ʕ,a,(mun),n,a,h
+3,a,(mun),n,a,h
 SPACE
-v,i,(zaq_q),y
+b,i,(zaq_q),y
 SPACE
-w,:,$,·sh,_,d,·,_,(tip),y
+v,:,$,·sh,_,d,·,_,(tip),y
 SPACE
-h,‥,(mer),r,_,(mos),ʕ
+h,‥,(mer),r,_,(mos),3
 SPACE
 l,i,(mos),y,(sopa)
 
 Ruth 1:22 in vtrad vtsef
-w,_,τ,·,a,(mun),$,·sh,oa,v
+v,_,τ,·,a,(mun),$,·sh,oa,b
 SPACE
-n,oa,ʕ,:a,m,i,(rev),y
+n,oa,3,:a,m,i,(rev),y
 SPACE
-w,:,r,(qom),w,·,τ
+v,:,r,(qom),v,·,τ
 SPACE
-h,_,m,·,w,o,α,:_,v,i,y,·,a,(mah),h
+h,_,m,·,v,o,α,:_,b,i,y,·,a,(mah),h
 SPACE
 k,_,l,·,a,τ,a,h,·,(pash)
 SPACE
-ʕ,i,m,·,a,(zaq_q),h,·
+3,i,m,·,a,(zaq_q),h,·
 SPACE
-h,_,$,·sh,·,a,(tip),v,a,h
+h,_,$,·sh,·,a,(tip),b,a,h
 SPACE
 m,i,$,·si,·,:,d,‥,(mun),y
 SPACE
-m,w,o,α,a,(atn),v
+m,v,o,α,a,(atn),b
 SPACE
-w,:,h,‥,(rev),m,·,a,h
+v,:,h,‥,(rev),m,·,a,h
 SPACE
-v,·,a,(yet),α,w,·
+b,·,a,(yet),α,v,·
 SPACE
-v,·,‥,(mun),y,τ
+b,·,‥,(mun),y,τ
 SPACE
 l,∵,(zaq_q),x,∵,m.
 SPACE
-v,·,i,τ,:,x,i,l,·,_,(tip),τ
+b,·,i,τ,:,x,i,l,·,_,(tip),τ
 SPACE
-q,:,ц,i,(mer),y,r
+q,:,c,i,(mer),y,r
 SPACE
-$,·si,:,ʕ,o,r,i,(mos),y,m.,(sopa)
+$,·si,:,3,o,r,i,(mos),y,m.,(sopa)
 
 Ruth 2:1 in vtrad vtsef
-w,·,(mos),l,:,n,oa,ʕ,:a,m,i,(ger_2),y
+v,·,(mos),l,:,n,oa,3,:a,m,i,(ger_2),y
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
-LEFT PARENTHESIS,m,y,d,ʕ,RIGHT PARENTHESIS
+LEFT PARENTHESIS,m,y,d,3,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,m,w,o,d,a,(mun),ʕ,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,m,v,o,d,a,(mun),3,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -646,65 +646,65 @@ l,:,α,i,y,$,·sh,a,(rev),h,·
 SPACE
 α,i,(yet),y,$,·sh
 SPACE
-g,·,i,v,·,(mun),w,o,r
+g,·,i,b,·,(mun),v,o,r
 SPACE
 x,_,(zaq_q),y,i,l
 SPACE
-m,i,m,·,i,$,·sh,:,f,·,_,(tip),x,_,τ
+m,i,m,·,i,$,·sh,:,p,·,_,(tip),x,_,τ
 SPACE
 α,:∵,l,i,y,m,∵,(atn),l,∵,k.,:
 SPACE
-w,·,$,·sh,:,m,(tip),w,o
+v,·,$,·sh,:,m,(tip),v,o
 SPACE
-v,·,o,(mos),ʕ,_,z,(sopa)
+b,·,o,(mos),3,_,z,(sopa)
 
 Ruth 2:2 in vtrad vtsef
-w,_,τ,·,o,(tel_q),α,m,∵,r,(tel_q)
+v,_,τ,·,o,(tel_q),α,m,∵,r,(tel_q)
 SPACE
-r,(qom),w,·,τ
+r,(qom),v,·,τ
 SPACE
-h,_,m,·,w,o,α,:_,v,i,y,·,a,(ger),h
+h,_,m,·,v,o,α,:_,b,i,y,·,a,(ger),h
 SPACE
-α,∵,(mos),l,-,n,oa,ʕ,:a,m,i,(rev),y
+α,∵,(mos),l,-,n,oa,3,:a,m,i,(rev),y
 SPACE
 α,‥,l,:,k,a,h,-,n,·,a,(mah),α
 SPACE
 h,_,$,·si,·,a,d,∵,h,(pash)
 SPACE
-w,_,α,:_,l,_,q,·,:a,θ,a,(mun),h
+v,_,α,:_,l,_,q,·,:a,θ,a,(mun),h
 SPACE
-v,_,(mos),$,·sh,·,i,v,·,:a,l,i,(zaq_q),y,m.
+b,_,(mos),$,·sh,·,i,b,·,:a,l,i,(zaq_q),y,m.
 SPACE
 α,_,x,_,(zaq_g),r
 SPACE
 α,:_,$,·sh,∵,(mer),r
 SPACE
-α,∵,m,:,ц,a,α,-,x,‥,(tip),n.
+α,∵,m,:,c,a,α,-,x,‥,(tip),n.
 SPACE
-v,·,:,ʕ,‥,y,n,a,(atn),y,w
+b,·,:,3,‥,y,n,a,(atn),y,v
 SPACE
-w,_,τ,·,o,(mer),α,m,∵,r
+v,_,τ,·,o,(mer),α,m,∵,r
 SPACE
 l,a,(tip),h,·
 SPACE
 l,:,k,i,(mer),y
 SPACE
-v,i,τ,·,i,(mos),y,(sopa)
+b,i,τ,·,i,(mos),y,(sopa)
 
 Ruth 2:3 in vtrad vtsef
-w,_,τ,·,‥,(mah),l,∵,k.,:
+v,_,τ,·,‥,(mah),l,∵,k.,:
 SPACE
-w,_,τ,·,a,v,w,o,α,(pash)
+v,_,τ,·,a,b,v,o,α,(pash)
 SPACE
-w,_,τ,·,:,l,_,q,·,‥,(mun),θ
+v,_,τ,·,:,l,_,q,·,‥,(mun),θ
 SPACE
-v,·,_,$,·si,·,a,d,∵,(zaq_q),h
+b,·,_,$,·si,·,a,d,∵,(zaq_q),h
 SPACE
 α,_,x,:_,r,‥,(tip),y
 SPACE
-h,_,q,·,o,ц,:,r,i,(atn),y,m.
+h,_,q,·,o,c,:,r,i,(atn),y,m.
 SPACE
-w,_,y,·,i,(mun),q,∵,r
+v,_,y,·,i,(mun),q,∵,r
 SPACE
 m,i,q,:,r,∵,(zaq_q),h,a
 SPACE
@@ -712,215 +712,215 @@ x,∵,l,:,q,_,(mah),τ
 SPACE
 h,_,$,·si,·,a,d,∵,h,(pash)
 SPACE
-l,:,v,o,(zaq_q),ʕ,_,z
+l,:,b,o,(zaq_q),3,_,z
 SPACE
 α,:_,$,·sh,∵,(tip),r
 SPACE
-m,i,m,·,i,$,·sh,:,f,·,_,(mer),x,_,τ
+m,i,m,·,i,$,·sh,:,p,·,_,(mer),x,_,τ
 SPACE
 α,:∵,l,i,y,m,∵,(mos),l,∵,k.,:,(sopa)
 
 Ruth 2:4 in vtrad vtsef
-w,:,h,i,n,·,‥,h,-,v,o,(rev),ʕ,_,z
+v,:,h,i,n,·,‥,h,-,b,o,(rev),3,_,z
 SPACE
-v,·,a,(yet),α
+b,·,a,(yet),α
 SPACE
-m,i,v,·,‥,(mun),y,τ
+m,i,b,·,‥,(mun),y,τ
 SPACE
 l,∵,(zaq_q),x,∵,m.
 SPACE
-w,_,y,·,o,(mer),α,m,∵,r
+v,_,y,·,o,(mer),α,m,∵,r
 SPACE
-l,_,q,·,w,o,ц,:,r,i,(tip),y,m.
+l,_,q,·,v,o,c,:,r,i,(tip),y,m.
 SPACE
-y,:,h,o,w,a,(mun),h
+y,:,h,o,v,a,(mun),h
 SPACE
-ʕ,i,m,·,a,k,∵,(atn),m.
+3,i,m,·,a,k,∵,(atn),m.
 SPACE
-w,_,y,·,o,(mer),α,m,:,r,w,·
+v,_,y,·,o,(mer),α,m,:,r,v,·
 SPACE
-l,(tip),w,o
+l,(tip),v,o
 SPACE
-y,:,v,a,r,∵,k,:,k.,a,(mer)
+y,:,b,a,r,∵,k,:,k.,a,(mer)
 SPACE
-y,:,h,o,w,a,(mos),h,(sopa)
+y,:,h,o,v,a,(mos),h,(sopa)
 
 Ruth 2:5 in vtrad vtsef
-w,_,y,·,o,(mah),α,m,∵,r
+v,_,y,·,o,(mah),α,m,∵,r
 SPACE
-v,·,o,(pash),ʕ,_,z,(pash)
+b,·,o,(pash),3,_,z,(pash)
 SPACE
-l,:,n,_,(mos),ʕ,:_,r,(zaq_q),w,o
+l,:,n,_,(mos),3,:_,r,(zaq_q),v,o
 SPACE
-h,_,n,·,i,ц,·,a,(tip),v
+h,_,n,·,i,c,·,a,(tip),b
 SPACE
-ʕ,_,l,-,h,_,q,·,w,o,ц,:,r,i,(atn),y,m.
+3,_,l,-,h,_,q,·,v,o,c,:,r,i,(atn),y,m.
 SPACE
 l,:,m,i,(tip),y
 SPACE
-h,_,n,·,_,ʕ,:_,r,a,(mer),h
+h,_,n,·,_,3,:_,r,a,(mer),h
 SPACE
 h,_,z,·,o,(mos),α,τ,(sopa)
 
 Ruth 2:6 in vtrad vtsef
-w,_,y,·,_,(rev),ʕ,_,n.
+v,_,y,·,_,(rev),3,_,n.
 SPACE
-h,_,n,·,_,(tev),ʕ,_,r
+h,_,n,·,_,(tev),3,_,r
 SPACE
-h,_,n,·,i,ц,·,a,(mer),v
+h,_,n,·,i,c,·,a,(mer),b
 SPACE
-ʕ,_,l,-,h,_,q,·,w,o,ц,:,r,i,(tip),y,m.
+3,_,l,-,h,_,q,·,v,o,c,:,r,i,(tip),y,m.
 SPACE
-w,_,y,·,o,α,m,_,(atn),r
+v,_,y,·,o,α,m,_,(atn),r
 SPACE
-n,_,ʕ,:_,r,a,(mah),h
+n,_,3,:_,r,a,(mah),h
 SPACE
-m,(mos),w,o,α,:_,v,i,y,·,a,h,(pash)
+m,(mos),v,o,α,:_,b,i,y,·,a,h,(pash)
 SPACE
 h,i,(zaq_q),y,α
 SPACE
-h,_,$,·sh,·,a,(mer),v,a,h
+h,_,$,·sh,·,a,(mer),b,a,h
 SPACE
-ʕ,i,(mos),m.,-,n,oa,ʕ,:a,m,i,(tip),y
+3,i,(mos),m.,-,n,oa,3,:a,m,i,(tip),y
 SPACE
 m,i,$,·si,·,:,d,‥,(mer),y
 SPACE
-m,w,o,α,a,(mos),v,(sopa)
+m,v,o,α,a,(mos),b,(sopa)
 
 Ruth 2:7 in vtrad vtsef
-w,_,τ,·,o,(rev),α,m,∵,r
+v,_,τ,·,o,(rev),α,m,∵,r
 SPACE
 α,:_,l,_,q,·,:a,θ,a,h,-,n,·,a,α,(pash)
 SPACE
-w,:,α,a,σ,_,f,:,τ,·,i,(mun),y
+v,:,α,a,σ,_,p,:,τ,·,i,(mun),y
 SPACE
-v,a,ʕ,:a,m,a,r,i,(zaq_q),y,m.
+b,a,3,:a,m,a,r,i,(zaq_q),y,m.
 SPACE
 α,_,x,:_,r,‥,(tip),y
 SPACE
-h,_,q,·,w,o,ц,:,r,i,(atn),y,m.
+h,_,q,·,v,o,c,:,r,i,(atn),y,m.
 SPACE
-w,_,τ,·,a,v,(mun),w,o,α
+v,_,τ,·,a,b,(mun),v,o,α
 SPACE
-w,_,(mos),τ,·,_,ʕ,:_,m,(rev),w,o,d
+v,_,(mos),τ,·,_,3,:_,m,(rev),v,o,d
 SPACE
 m,‥,α,a,(mah),z
 SPACE
-h,_,v,·,o,(pash),q,∵,r,(pash)
+h,_,b,·,o,(pash),q,∵,r,(pash)
 SPACE
-w,:,ʕ,_,d,-,ʕ,_,(zaq_q),τ,·,a,h
+v,:,3,_,d,-,3,_,(zaq_q),τ,·,a,h
 SPACE
 z,∵,(tev),h
 SPACE
-$,·sh,i,v,:,τ,·,a,(mer),h,·
+$,·sh,i,b,:,τ,·,a,(mer),h,·
 SPACE
-h,_,v,·,_,(tip),y,i,τ
+h,_,b,·,_,(tip),y,i,τ
 SPACE
-m,:,ʕ,a,(mos),θ,(sopa)
+m,:,3,a,(mos),θ,(sopa)
 
 Ruth 2:8 in vtrad vtsef
-w,_,y,·,o,(tel_q),α,m,∵,r,(tel_q)
+v,_,y,·,o,(tel_q),α,m,∵,r,(tel_q)
 SPACE
-v,·,o,(qom),ʕ,_,z
+b,·,o,(qom),3,_,z
 SPACE
-α,∵,l,-,r,(ger),w,·,τ
+α,∵,l,-,r,(ger),v,·,τ
 SPACE
-h,:_,l,(dar),w,o,α
+h,:_,l,(dar),v,o,α
 SPACE
-$,·sh,a,m,_,(mun),ʕ,_,τ,·,:
+$,·sh,a,m,_,(mun),3,_,τ,·,:
 SPACE
-v,·,i,τ,·,i,(rev),y
+b,·,i,τ,·,i,(rev),y
 SPACE
 α,_,l,-,τ,·,‥,(mos),l,:,k,i,y,(pash)
 SPACE
 l,i,l,:,q,o,θ,(pash)
 SPACE
-v,·,:,$,·si,a,d,∵,(mun),h
+b,·,:,$,·si,a,d,∵,(mun),h
 SPACE
 α,_,x,‥,(zaq_q),r
 SPACE
-w,:,g,_,(tev),m.
+v,:,g,_,(tev),m.
 SPACE
 l,o,(mer),α
 SPACE
-τ,_,ʕ,:_,v,w,·,r,i,(tip),y
+τ,_,3,:_,b,v,·,r,i,(tip),y
 SPACE
 m,i,z,·,∵,(atn),h
 SPACE
-w,:,k,o,(mer),h
+v,:,k,o,(mer),h
 SPACE
-τ,i,d,:,v,·,a,q,i,(tip),y,n.
+τ,i,d,:,b,·,a,q,i,(tip),y,n.
 SPACE
-ʕ,i,m.,-,n,_,ʕ,:_,r,o,τ,a,(mos),y,(sopa)
+3,i,m.,-,n,_,3,:_,r,o,τ,a,(mos),y,(sopa)
 
 Ruth 2:9 in vtrad vtsef
-ʕ,‥,y,n,_,(ger),y,i,k.,:
+3,‥,y,n,_,(ger),y,i,k.,:
 SPACE
-v,·,_,$,·si,·,a,d,∵,(mah),h
+b,·,_,$,·si,·,a,d,∵,(mah),h
 SPACE
-α,:_,$,·sh,∵,r,-,y,i,q,:,ц,o,r,w,·,n.,(pash)
+α,:_,$,·sh,∵,r,-,y,i,q,:,c,o,r,v,·,n.,(pash)
 SPACE
-w,:,h,a,l,_,(mun),k,:,τ,·,:
+v,:,h,a,l,_,(mun),k,:,τ,·,:
 SPACE
 α,_,x,:_,r,‥,y,h,∵,(zaq_q),n.
 SPACE
-h,:_,l,(mer),w,o,α
+h,:_,l,(mer),v,o,α
 SPACE
-ц,i,w,·,i,(tev),y,τ,i,y
+c,i,v,·,i,(tev),y,τ,i,y
 SPACE
-α,∵,τ,-,h,_,n,·,:,ʕ,a,r,i,(tip),y,m.
+α,∵,τ,-,h,_,n,·,:,3,a,r,i,(tip),y,m.
 SPACE
-l,:,v,i,l,:,τ,·,i,(mun),y
+l,:,b,i,l,:,τ,·,i,(mun),y
 SPACE
-n,oa,g,:,ʕ,‥,(atn),k.,:
+n,oa,g,:,3,‥,(atn),k.,:
 SPACE
-w,:,ц,a,m,i,(rev),τ
+v,:,c,a,m,i,(rev),τ
 SPACE
-w,:,h,a,l,_,k,:,τ,·,:,(pash)
+v,:,h,a,l,_,k,:,τ,·,:,(pash)
 SPACE
 α,∵,l,-,h,_,k,·,‥,l,i,(zaq_q),y,m.
 SPACE
-w,:,$,·sh,a,τ,i,(zaq_g),y,τ
+v,:,$,·sh,a,τ,i,(zaq_g),y,τ
 SPACE
 m,‥,α,:_,$,·sh,∵,(mer),r
 SPACE
-y,i,$,·sh,:,α,:_,v,(tip),w,·,n.
+y,i,$,·sh,:,α,:_,b,(tip),v,·,n.
 SPACE
-h,_,n,·,:,ʕ,a,r,i,(mos),y,m.,(sopa)
+h,_,n,·,:,3,a,r,i,(mos),y,m.,(sopa)
 
 Ruth 2:10 in vtrad vtsef
-w,_,τ,·,i,f,·,o,l,(pash)
+v,_,τ,·,i,p,·,o,l,(pash)
 SPACE
-ʕ,_,l,-,f,·,a,n,∵,(zaq_q),y,h,a
+3,_,l,-,p,·,a,n,∵,(zaq_q),y,h,a
 SPACE
-w,_,τ,·,i,$,·sh,:,τ,·,_,(tip),x,w,·
+v,_,τ,·,i,$,·sh,:,τ,·,_,(tip),x,v,·
 SPACE
-α,a,(atn),r,:,ц,a,h
+α,a,(atn),r,:,c,a,h
 SPACE
-w,_,τ,·,o,(mun),α,m,∵,r
+v,_,τ,·,o,(mun),α,m,∵,r
 SPACE
-α,‥,l,a,(rev),y,w
+α,‥,l,a,(rev),y,v
 SPACE
-m,_,d,·,(tel_q),w,·,ʕ,_,(tel_q)
+m,_,d,·,(tel_q),v,·,3,_,(tel_q)
 SPACE
-m,a,ц,a,(qom),α,τ,i,y
+m,a,c,a,(qom),α,τ,i,y
 SPACE
 x,‥,(mah),n.
 SPACE
-v,·,:,ʕ,‥,y,n,∵,(pash),y,k.,a,(pash)
+b,·,:,3,‥,y,n,∵,(pash),y,k.,a,(pash)
 SPACE
 l,:,h,_,k,·,i,y,r,‥,(zaq_q),n,i,y
 SPACE
-w,:,α,a,n,o,k,i,(tip),y
+v,:,α,a,n,o,k,i,(tip),y
 SPACE
 n,oa,k,:,r,i,y,·,a,(mos),h,(sopa)
 
 Ruth 2:11 in vtrad vtsef
-w,_,y,·,_,(mah),ʕ,_,n.
+v,_,y,·,_,(mah),3,_,n.
 SPACE
-v,·,o,(pash),ʕ,_,z,(pash)
+b,·,o,(pash),3,_,z,(pash)
 SPACE
-w,_,y,·,o,(mun),α,m,∵,r
+v,_,y,·,o,(mun),α,m,∵,r
 SPACE
 l,a,(zaq_q),h,·
 SPACE
@@ -932,71 +932,71 @@ l,i,(rev),y
 SPACE
 k,·,o,(mah),l
 SPACE
-α,:_,$,·sh,∵,r,-,ʕ,a,$,·si,i,y,τ,(pash)
+α,:_,$,·sh,∵,r,-,3,a,$,·si,i,y,τ,(pash)
 SPACE
-α,∵,τ,-,x,:_,m,w,o,τ,‥,(zaq_q),k.,:
+α,∵,τ,-,x,:_,m,v,o,τ,‥,(zaq_q),k.,:
 SPACE
 α,_,x,:_,r,‥,(tip),y
 SPACE
-m,(mun),w,o,τ
+m,(mun),v,o,τ
 SPACE
 α,i,y,$,·sh,‥,(atn),k.,:
 SPACE
-w,_,τ,·,_,ʕ,_,z,:,v,i,(ger_2),y
+v,_,τ,·,_,3,_,z,:,b,i,(ger_2),y
 SPACE
-α,a,v,i,(mun),y,k.,:
+α,a,b,i,(mun),y,k.,:
 SPACE
-w,:,α,i,m,·,‥,(rev),k.,:
+v,:,α,i,m,·,‥,(rev),k.,:
 SPACE
-w,:,α,∵,(pash),r,∵,ц.,(pash)
+v,:,α,∵,(pash),r,∵,c.,(pash)
 SPACE
-m,(mos),w,o,l,_,d,:,τ,·,‥,(zaq_q),k.,:
+m,(mos),v,o,l,_,d,:,τ,·,‥,(zaq_q),k.,:
 SPACE
-w,_,τ,·,‥,(mun),l,:,k,i,(zaq_q),y
+v,_,τ,·,‥,(mun),l,:,k,i,(zaq_q),y
 SPACE
-α,∵,l,-,ʕ,_,(zaq_g),m.
+α,∵,l,-,3,_,(zaq_g),m.
 SPACE
 α,:_,$,·sh,∵,(mer),r
 SPACE
-l,o,α,-,y,a,d,_,(tip),ʕ,_,τ,·,:
+l,o,α,-,y,a,d,_,(tip),3,_,τ,·,:
 SPACE
-τ,·,:,m,(mer),w,o,l
+τ,·,:,m,(mer),v,o,l
 SPACE
-$,·sh,i,l,:,$,·sh,(mos),w,o,m.,(sopa)
+$,·sh,i,l,:,$,·sh,(mos),v,o,m.,(sopa)
 
 Ruth 2:12 in vtrad vtsef
 y,:,$,·sh,_,l,·,‥,(mer),m.
 SPACE
-y,:,h,o,w,a,(tip),h
+y,:,h,o,v,a,(tip),h
 SPACE
-f,·,oa,ʕ,:a,l,‥,(atn),k.,:
+p,·,oa,3,:a,l,‥,(atn),k.,:
 SPACE
-w,·,τ,:,h,i,(qom),y
+v,·,τ,:,h,i,(qom),y
 SPACE
 m,_,$,·si,:,k,·,u,r,:,τ,·,‥,(ger),k.,:
 SPACE
 $,·sh,:,l,‥,m,a,(rev),h
 SPACE
-m,‥,ʕ,i,(mah),m.
+m,‥,3,i,(mah),m.
 SPACE
-y,:,h,o,w,a,h,(pash)
+y,:,h,o,v,a,h,(pash)
 SPACE
 α,:∵,l,o,h,‥,(mun),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,(zaq_q),l
 SPACE
-α,:_,$,·sh,∵,r,-,v,·,a,(tip),α,τ
+α,:_,$,·sh,∵,r,-,b,·,a,(tip),α,τ
 SPACE
-l,_,x,:_,σ,(mer),w,o,τ
+l,_,x,:_,σ,(mer),v,o,τ
 SPACE
-τ,·,_,x,_,τ,-,k,·,:,n,a,f,a,(mos),y,w,(sopa)
+τ,·,_,x,_,τ,-,k,·,:,n,a,p,a,(mos),y,v,(sopa)
 
 Ruth 2:13 in vtrad vtsef
-w,_,(tel_g),τ,·,o,(tel_g),α,m,∵,r
+v,_,(tel_g),τ,·,o,(tel_g),α,m,∵,r
 SPACE
-α,∵,m,:,ц,a,α,-,x,‥,(qom),n.
+α,∵,m,:,c,a,α,-,x,‥,(qom),n.
 SPACE
-v,·,:,ʕ,‥,y,n,∵,(mah),y,k.,a
+b,·,:,3,‥,y,n,∵,(mah),y,k.,a
 SPACE
 α,:_,d,o,n,i,y,(pash)
 SPACE
@@ -1004,15 +1004,15 @@ k,·,i,(mun),y
 SPACE
 n,i,(mos),x,_,m,:,τ,·,a,(zaq_q),n,i,y
 SPACE
-w,:,k,i,(mer),y
+v,:,k,i,(mer),y
 SPACE
-d,i,v,·,_,(tip),r,:,τ,·,a
+d,i,b,·,_,(tip),r,:,τ,·,a
 SPACE
-ʕ,_,l,-,l,‥,(mun),v
+3,_,l,-,l,‥,(mun),b
 SPACE
-$,·sh,i,f,:,x,a,τ,∵,(atn),k.,a
+$,·sh,i,p,:,x,a,τ,∵,(atn),k.,a
 SPACE
-w,:,α,a,(mos),n,o,k,i,y,(pash)
+v,:,α,a,(mos),n,o,k,i,y,(pash)
 SPACE
 l,o,(mun),α
 SPACE
@@ -1020,16 +1020,16 @@ SPACE
 SPACE
 k,·,:,α,_,x,_,(tip),τ
 SPACE
-$,·sh,i,f,:,x,o,τ,∵,(mos),y,k.,a,(sopa)
+$,·sh,i,p,:,x,o,τ,∵,(mos),y,k.,a,(sopa)
 
 Ruth 2:14 in vtrad vtsef
-w,_,y,·,o,(tel_q),α,m,∵,r,(tel_q)
+v,_,y,·,o,(tel_q),α,m,∵,r,(tel_q)
 SPACE
 l,a,(qom),h,‾
 SPACE
-v,o,(ger),ʕ,_,z
+b,o,(ger),3,_,z
 SPACE
-l,:,ʕ,‥,(mun),τ
+l,:,3,‥,(mun),τ
 SPACE
 h,a,α,o,(rev),k,∵,l
 SPACE
@@ -1037,152 +1037,152 @@ g,·,o,(mah),$,·sh,i,(mos),y
 SPACE
 h,:_,l,o,m.,(pash)
 SPACE
-w,:,α,a,k,_,(mun),l,:,τ,·,:
+v,:,α,a,k,_,(mun),l,:,τ,·,:
 SPACE
 m,i,n.,-,h,_,l,·,∵,(zaq_q),x,∵,m.
 SPACE
-w,:,θ,a,v,_,(mer),l,:,τ,·,:
+v,:,θ,a,b,_,(mer),l,:,τ,·,:
 SPACE
-f,·,i,τ,·,‥,(tip),k.,:
+p,·,i,τ,·,‥,(tip),k.,:
 SPACE
-v,·,_,x,o,(atn),m,∵,ц.
+b,·,_,x,o,(atn),m,∵,c.
 SPACE
-w,_,τ,·,‥,(pash),$,·sh,∵,v,(pash)
+v,_,τ,·,‥,(pash),$,·sh,∵,b,(pash)
 SPACE
-m,i,ц,·,_,(mun),d
+m,i,c,·,_,(mun),d
 SPACE
-h,_,q,·,o,ц,:,r,i,(zaq_q),y,m.
+h,_,q,·,o,c,:,r,i,(zaq_q),y,m.
 SPACE
-w,_,y,·,i,ц,:,v,·,oa,θ,-,l,a,(mun),h,·
+v,_,y,·,i,c,:,b,·,oa,θ,-,l,a,(mun),h,·
 SPACE
 q,a,l,i,(zaq_q),y
 SPACE
-w,_,τ,·,o,(mer),α,k,_,l
+v,_,τ,·,o,(mer),α,k,_,l
 SPACE
-w,_,τ,·,i,$,·si,:,v,·,_,(tip),ʕ
+v,_,τ,·,i,$,·si,:,b,·,_,(tip),3
 SPACE
-w,_,τ,·,o,τ,_,(mos),r,(sopa)
+v,_,τ,·,o,τ,_,(mos),r,(sopa)
 
 Ruth 2:15 in vtrad vtsef
-w,_,τ,·,a,(tip),q,oa,m.
+v,_,τ,·,a,(tip),q,oa,m.
 SPACE
 l,:,l,_,q,·,‥,(atn),θ
 SPACE
-w,_,y,:,ц,_,w,(tel_q)
+v,_,y,:,c,_,v,(tel_q)
 SPACE
-v,·,o,(qom),ʕ,_,z
+b,·,o,(qom),3,_,z
 SPACE
-α,∵,τ,-,n,:,ʕ,a,r,a,(ger),y,w
+α,∵,τ,-,n,:,3,a,r,a,(ger),y,v
 SPACE
 l,‥,α,m,o,(rev),r
 SPACE
 g,·,_,(mun),m.
 SPACE
-v,·,‥,(dar),y,n.
+b,·,‥,(dar),y,n.
 SPACE
-h,a,ʕ,:a,m,a,r,i,(tev),y,m.
+h,a,3,:a,m,a,r,i,(tev),y,m.
 SPACE
 τ,·,:,l,_,q,·,‥,(tip),θ
 SPACE
-w,:,l,o,(mer),α
+v,:,l,o,(mer),α
 SPACE
-τ,_,k,:,l,i,y,m,(mos),w,·,h,a,(sopa)
+τ,_,k,:,l,i,y,m,(mos),v,·,h,a,(sopa)
 
 Ruth 2:16 in vtrad vtsef
-w,:,g,_,(tev),m.
+v,:,g,_,(tev),m.
 SPACE
-$,·sh,o,l,-,τ,·,a,$,·sh,o,(mer),l,·,w,·
+$,·sh,o,l,-,τ,·,a,$,·sh,o,(mer),l,·,v,·
 SPACE
 l,a,(tip),h,·
 SPACE
-m,i,n.,-,h,_,ц,·,:,v,a,τ,i,(atn),y,m.
+m,i,n.,-,h,_,c,·,:,b,a,τ,i,(atn),y,m.
 SPACE
-w,_,ʕ,:_,z,_,v,:,τ,·,∵,(mer),m.
+v,_,3,:_,z,_,b,:,τ,·,∵,(mer),m.
 SPACE
-w,:,l,i,q,·,:,θ,a,(tip),h
+v,:,l,i,q,·,:,θ,a,(tip),h
 SPACE
-w,:,l,o,(mer),α
+v,:,l,o,(mer),α
 SPACE
-τ,i,g,:,ʕ,:_,r,w,·,-,v,a,(mos),h,·,(sopa)
+τ,i,g,:,3,:_,r,v,·,-,b,a,(mos),h,·,(sopa)
 
 Ruth 2:17 in vtrad vtsef
-w,_,τ,·,:,l,_,q,·,‥,(mer),θ
+v,_,τ,·,:,l,_,q,·,‥,(mer),θ
 SPACE
-v,·,_,$,·si,·,a,d,∵,(tip),h
+b,·,_,$,·si,·,a,d,∵,(tip),h
 SPACE
-ʕ,_,d,-,h,a,ʕ,a,(atn),r,∵,v
+3,_,d,-,h,a,3,a,(atn),r,∵,b
 SPACE
-w,_,τ,·,_,x,:,v,·,o,θ,(pash)
+v,_,τ,·,_,x,:,b,·,o,θ,(pash)
 SPACE
 α,‥,(mun),τ
 SPACE
 α,:_,$,·sh,∵,r,-,l,i,q,·,‥,(zaq_q),θ,a,h
 SPACE
-w,_,y,:,h,i,(tip),y
+v,_,y,:,h,i,(tip),y
 SPACE
-k,·,:,α,‥,y,f,a,(mer),h
+k,·,:,α,‥,y,p,a,(mer),h
 SPACE
-$,·si,:,ʕ,o,r,i,(mos),y,m.,(sopa)
+$,·si,:,3,o,r,i,(mos),y,m.,(sopa)
 
 Ruth 2:18 in vtrad vtsef
-w,_,τ,·,i,$,·si,·,a,α,(pash)
+v,_,τ,·,i,$,·si,·,a,α,(pash)
 SPACE
-w,_,τ,·,a,v,(mun),w,o,α
+v,_,τ,·,a,b,(mun),v,o,α
 SPACE
-h,a,ʕ,i,(zaq_q),y,r
+h,a,3,i,(zaq_q),y,r
 SPACE
-w,_,τ,·,‥,(mer),r,∵,α
+v,_,τ,·,‥,(mer),r,∵,α
 SPACE
-x,:_,m,w,o,τ,a,(tip),h,·
+x,:_,m,v,o,τ,a,(tip),h,·
 SPACE
 α,‥,(mun),τ
 SPACE
 α,:_,$,·sh,∵,r,-,l,i,q,·,‥,(atn),θ,a,h
 SPACE
-w,_,τ,·,w,o,ц,‥,α,(pash)
+v,_,τ,·,v,o,c,‥,α,(pash)
 SPACE
-w,_,τ,·,i,τ,·,∵,n.,-,l,a,(zaq_q),h,·
+v,_,τ,·,i,τ,·,∵,n.,-,l,a,(zaq_q),h,·
 SPACE
 α,‥,(mer),τ
 SPACE
-α,:_,$,·sh,∵,r,-,h,w,o,τ,i,(tip),r,a,h
+α,:_,$,·sh,∵,r,-,h,v,o,τ,i,(tip),r,a,h
 SPACE
-m,i,$,·si,·,oa,v,:,ʕ,a,(mos),h,·,(sopa)
+m,i,$,·si,·,oa,b,:,3,a,(mos),h,·,(sopa)
 
 Ruth 2:19 in vtrad vtsef
-w,_,τ,·,o,(tel_q),α,m,∵,r,(tel_q)
+v,_,τ,·,o,(tel_q),α,m,∵,r,(tel_q)
 SPACE
 l,a,(qom),h,·
 SPACE
-x,:_,m,w,o,τ,a,(ger),h,·
+x,:_,m,v,o,τ,a,(ger),h,·
 SPACE
-α,‥,y,f,o,(qom),h
+α,‥,y,p,o,(qom),h
 SPACE
 l,i,q,·,_,(mah),θ,:,τ,·,:
 SPACE
-h,_,y,·,w,o,m.,(pash)
+h,_,y,·,v,o,m.,(pash)
 SPACE
-w,:,α,a,(mun),n,a,h
+v,:,α,a,(mun),n,a,h
 SPACE
-ʕ,a,$,·si,i,(zaq_q),y,τ
+3,a,$,·si,i,(zaq_q),y,τ
 SPACE
 y,:,h,i,(mer),y
 SPACE
 m,_,k,·,i,y,r,‥,(tip),k.,:
 SPACE
-v,·,a,r,(atn),w,·,k.,:
+b,·,a,r,(atn),v,·,k.,:
 SPACE
-w,_,τ,·,_,g,·,‥,(mun),d
+v,_,τ,·,_,g,·,‥,(mun),d
 SPACE
-l,_,x,:_,m,w,o,τ,a,(rev),h,·
+l,_,x,:_,m,v,o,τ,a,(rev),h,·
 SPACE
 α,‥,(mah),τ
 SPACE
-α,:_,$,·sh,∵,r,-,ʕ,a,(mos),$,·si,:,τ,a,h,(pash)
+α,:_,$,·sh,∵,r,-,3,a,(mos),$,·si,:,τ,a,h,(pash)
 SPACE
-ʕ,i,m,·,(zaq_q),w,o
+3,i,m,·,(zaq_q),v,o
 SPACE
-w,_,τ,·,o,(rev),α,m,∵,r
+v,_,τ,·,o,(rev),α,m,∵,r
 SPACE
 $,·sh,‥,(mah),m.
 SPACE
@@ -1190,59 +1190,59 @@ h,a,α,i,y,$,·sh,(pash)
 SPACE
 α,:_,$,·sh,∵,(qom),r
 SPACE
-ʕ,a,$,·si,i,(dar),y,τ,i,y
+3,a,$,·si,i,(dar),y,τ,i,y
 SPACE
-ʕ,i,m,·,(tev),w,o
+3,i,m,·,(tev),v,o
 SPACE
-h,_,y,·,(tip),w,o,m.
+h,_,y,·,(tip),v,o,m.
 SPACE
-v,·,o,(mos),ʕ,_,z,(sopa)
+b,·,o,(mos),3,_,z,(sopa)
 
 Ruth 2:20 in vtrad vtsef
-w,_,τ,·,o,(qom),α,m,∵,r
+v,_,τ,·,o,(qom),α,m,∵,r
 SPACE
-n,oa,ʕ,:a,m,i,(ger),y
+n,oa,3,:a,m,i,(ger),y
 SPACE
 l,:,k,_,l,·,a,τ,a,(rev),h,·
 SPACE
-v,·,a,r,(mer),w,·,k.,:
+b,·,a,r,(mer),v,·,k.,:
 SPACE
-h,w,·,α,(pash)
+h,v,·,α,(pash)
 SPACE
-l,_,y,h,o,w,a,(zaq_q),h
+l,_,y,h,o,v,a,(zaq_q),h
 SPACE
 α,:_,$,·sh,∵,r,(pash)
 SPACE
-l,o,α,-,ʕ,a,z,_,(mun),v
+l,o,α,-,3,a,z,_,(mun),b
 SPACE
-x,_,σ,:,d,·,(zaq_q),w,o
+x,_,σ,:,d,·,(zaq_q),v,o
 SPACE
 α,∵,τ,-,h,_,x,_,y,·,i,(tip),y,m.
 SPACE
-w,:,α,∵,τ,-,h,_,m,·,‥,τ,i,(atn),y,m.
+v,:,α,∵,τ,-,h,_,m,·,‥,τ,i,(atn),y,m.
 SPACE
-w,_,τ,·,o,(dar),α,m,∵,r
+v,_,τ,·,o,(dar),α,m,∵,r
 SPACE
 l,a,(mun),h,·
 SPACE
-n,oa,ʕ,:a,m,i,(rev),y
+n,oa,3,:a,m,i,(rev),y
 SPACE
-q,a,r,(mer),w,o,v
+q,a,r,(mer),v,o,b
 SPACE
-l,a,(pash),n,w,·,(pash)
+l,a,(pash),n,v,·,(pash)
 SPACE
 h,a,α,i,(zaq_q),y,$,·sh
 SPACE
-m,i,(mos),g,·,o,α,:_,l,‥,(tip),n,w,·
+m,i,(mos),g,·,o,α,:_,l,‥,(tip),n,v,·
 SPACE
-h,(mos),w,·,α,(sopa)
+h,(mos),v,·,α,(sopa)
 
 Ruth 2:21 in vtrad vtsef
-w,_,τ,·,o,(tip),α,m,∵,r
+v,_,τ,·,o,(tip),α,m,∵,r
 SPACE
-r,(mun),w,·,τ
+r,(mun),v,·,τ
 SPACE
-h,_,m,·,w,o,α,:_,v,i,y,·,a,(atn),h
+h,_,m,·,v,o,α,:_,b,i,y,·,a,(atn),h
 SPACE
 g,·,_,(mun),m.,THIN SPACE
 START b
@@ -1253,125 +1253,125 @@ k,·,i,y,-,α,a,m,_,(mun),r
 SPACE
 α,‥,l,_,(rev),y
 SPACE
-ʕ,i,m.,-,h,_,n,·,:,ʕ,a,r,i,(mah),y,m.
+3,i,m.,-,h,_,n,·,:,3,a,r,i,(mah),y,m.
 SPACE
 α,:_,$,·sh,∵,r,-,l,i,y,(pash)
 SPACE
-τ,·,i,d,:,v,·,a,q,i,(zaq_q),y,n.
+τ,·,i,d,:,b,·,a,q,i,(zaq_q),y,n.
 SPACE
-ʕ,_,(mun),d
+3,_,(mun),d
 SPACE
-α,i,m.,-,k,·,i,l,·,(zaq_q),w,·
+α,i,m.,-,k,·,i,l,·,(zaq_q),v,·
 SPACE
 α,‥,(mer),τ
 SPACE
-k,·,oa,l,-,h,_,q,·,a,ц,i,(tip),y,r
+k,·,oa,l,-,h,_,q,·,a,c,i,(tip),y,r
 SPACE
 α,:_,$,·sh,∵,r,-,l,i,(mos),y,(sopa)
 
 Ruth 2:22 in vtrad vtsef
-w,_,τ,·,o,(mer),α,m,∵,r
+v,_,τ,·,o,(mer),α,m,∵,r
 SPACE
-n,oa,ʕ,:a,m,i,(tip),y
+n,oa,3,:a,m,i,(tip),y
 SPACE
-α,∵,l,-,r,(mun),w,·,τ
+α,∵,l,-,r,(mun),v,·,τ
 SPACE
 k,·,_,l,·,a,τ,a,(atn),h,·
 SPACE
-θ,(mun),w,o,v
+θ,(mun),v,o,b
 SPACE
-v,·,i,τ,·,i,(rev),y
+b,·,i,τ,·,i,(rev),y
 SPACE
 k,·,i,(mah),y
 SPACE
-τ,‥,ц,:,α,i,y,(pash)
+τ,‥,c,:,α,i,y,(pash)
 SPACE
-ʕ,i,m.,-,n,_,(mun),ʕ,:_,r,w,o,τ,a,(zaq_q),y,w
+3,i,m.,-,n,_,(mun),3,:_,r,v,o,τ,a,(zaq_q),y,v
 SPACE
-w,:,l,o,(mer),α
+v,:,l,o,(mer),α
 SPACE
-y,i,f,:,g,·,:,ʕ,w,·,-,v,a,(tip),k.,:
+y,i,p,:,g,·,:,3,v,·,-,b,a,(tip),k.,:
 SPACE
-v,·,:,$,·si,a,d,∵,(mer),h
+b,·,:,$,·si,a,d,∵,(mer),h
 SPACE
 α,_,x,‥,(mos),r,(sopa)
 
 Ruth 2:23 in vtrad vtsef
-w,_,τ,·,i,d,:,v,·,_,(ger_2),q
+v,_,τ,·,i,d,:,b,·,_,(ger_2),q
 SPACE
-v,·,:,n,_,ʕ,:_,r,(mer),w,o,τ
+b,·,:,n,_,3,:_,r,(mer),v,o,τ
 SPACE
-v,·,o,(pash),ʕ,_,z,(pash)
+b,·,o,(pash),3,_,z,(pash)
 SPACE
 l,:,l,_,q,·,‥,(zaq_q),θ
 SPACE
-ʕ,_,d,-,k,·,:,l,(mer),w,o,τ
+3,_,d,-,k,·,:,l,(mer),v,o,τ
 SPACE
-q,:,ц,i,(mos),y,r,-,h,_,$,·si,·,:,ʕ,o,r,i,(tip),y,m.
+q,:,c,i,(mos),y,r,-,h,_,$,·si,·,:,3,o,r,i,(tip),y,m.
 SPACE
-w,·,q,:,ц,i,(mun),y,r
+v,·,q,:,c,i,(mun),y,r
 SPACE
 h,_,x,i,θ,·,i,(atn),y,m.
 SPACE
-w,_,τ,·,‥,(tip),$,·sh,∵,v
+v,_,τ,·,‥,(tip),$,·sh,∵,b
 SPACE
-α,∵,τ,-,x,:_,m,w,o,τ,a,(mos),h,·,(sopa)
+α,∵,τ,-,x,:_,m,v,o,τ,a,(mos),h,·,(sopa)
 
 Ruth 3:1 in vtrad vtsef
-w,_,τ,·,o,(mer),α,m,∵,r
+v,_,τ,·,o,(mer),α,m,∵,r
 SPACE
 l,a,(tip),h,·
 SPACE
-n,oa,ʕ,:a,m,i,(mun),y
+n,oa,3,:a,m,i,(mun),y
 SPACE
-x,:_,m,w,o,τ,a,(atn),h,·
+x,:_,m,v,o,τ,a,(atn),h,·
 SPACE
-v,·,i,τ,·,i,(zaq_g),y
+b,·,i,τ,·,i,(zaq_g),y
 SPACE
 h,:_,l,o,(dar),α
 SPACE
-α,:_,v,_,q,·,∵,$,·sh,-,l,a,(tev),k.,:
+α,:_,b,_,q,·,∵,$,·sh,-,l,a,(tev),k.,:
 SPACE
-m,a,n,(tip),w,o,x,_
+m,a,n,(tip),v,o,x,_
 SPACE
 α,:_,$,·sh,∵,(mer),r
 SPACE
-y,i,(mos),y,θ,_,v,-,l,a,(mos),k.,:,(sopa)
+y,i,(mos),y,θ,_,b,-,l,a,(mos),k.,:,(sopa)
 
 Ruth 3:2 in vtrad vtsef
-w,:,ʕ,_,τ,·,a,(rev),h
+v,:,3,_,τ,·,a,(rev),h
 SPACE
 h,:_,l,o,(mer),α
 SPACE
-v,o,(pash),ʕ,_,z,(pash)
+b,o,(pash),3,_,z,(pash)
 SPACE
-m,o,(mos),d,_,ʕ,:,τ,·,a,(zaq_q),n,w,·
+m,o,(mos),d,_,3,:,τ,·,a,(zaq_q),n,v,·
 SPACE
 α,:_,$,·sh,∵,(mer),r
 SPACE
 h,a,y,i,(tip),y,τ
 SPACE
-α,∵,τ,-,n,_,ʕ,:_,r,w,o,τ,a,(atn),y,w
+α,∵,τ,-,n,_,3,:_,r,v,o,τ,a,(atn),y,v
 SPACE
-h,i,n,·,‥,h,-,h,(rev),w,·,α
+h,i,n,·,‥,h,-,h,(rev),v,·,α
 SPACE
 z,o,r,∵,(tev),h
 SPACE
 α,∵,τ,-,g,·,o,(mer),r,∵,n.
 SPACE
-h,_,$,·si,·,:,ʕ,o,r,i,(tip),y,m.
+h,_,$,·si,·,:,3,o,r,i,(tip),y,m.
 SPACE
 h,_,l,·,a,(mos),y,:,l,a,h,(sopa)
 
 Ruth 3:3 in vtrad vtsef
-w,:,r,a,x,_,(mun),ц,:,τ,·,:,THIN SPACE
+v,:,r,a,x,_,(mun),c,:,τ,·,:,THIN SPACE
 START b
 |
 STOP b
 SPACE
-w,a,σ,_,(rev),k,:,τ,·,:
+v,a,σ,_,(rev),k,:,τ,·,:
 SPACE
-w,:,$,·si,_,(dar),m,:,τ,·,:
+v,:,$,·si,_,(dar),m,:,τ,·,:
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
@@ -1383,62 +1383,62 @@ LEFT SQUARE BRACKET,$,·si,i,m,:,l,o,τ,_,(tev),y,i,k.,:,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
-ʕ,a,l,_,(tip),y,i,k.,:
+3,a,l,_,(tip),y,i,k.,:
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
-LEFT PARENTHESIS,w,y,r,d,τ,y,RIGHT PARENTHESIS
+LEFT PARENTHESIS,v,y,r,d,τ,y,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,w,:,y,a,r,_,(mun),d,:,τ,·,:,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,v,:,y,a,r,_,(mun),d,:,τ,·,:,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
 h,_,g,·,o,(atn),r,∵,n.
 SPACE
-α,_,l,-,τ,·,i,w,·,a,d,:,ʕ,i,(mun),y
+α,_,l,-,τ,·,i,v,·,a,d,:,3,i,(mun),y
 SPACE
 l,a,α,i,(zaq_q),y,$,·sh
 SPACE
-ʕ,_,(mer),d
+3,_,(mer),d
 SPACE
-k,·,_,l,·,o,τ,(tip),w,o
+k,·,_,l,·,o,τ,(tip),v,o
 SPACE
 l,∵,α,:∵,k,o,(mer),l
 SPACE
-w,:,l,i,$,·sh,:,τ,·,(mos),w,o,τ,(sopa)
+v,:,l,i,$,·sh,:,τ,·,(mos),v,o,τ,(sopa)
 
 Ruth 3:4 in vtrad vtsef
-w,i,y,h,i,(mun),y
+v,i,y,h,i,(mun),y
 SPACE
-v,:,$,·sh,oa,k,:,v,(rev),w,o
+b,:,$,·sh,oa,k,:,b,(rev),v,o
 SPACE
-w,:,y,a,d,_,(pash),ʕ,_,τ,·,:,(pash)
+v,:,y,a,d,_,(pash),3,_,τ,·,:,(pash)
 SPACE
-α,∵,τ,-,h,_,m,·,a,q,w,o,m.,(pash)
+α,∵,τ,-,h,_,m,·,a,q,v,o,m.,(pash)
 SPACE
 α,:_,$,·sh,∵,(mun),r
 SPACE
-y,i,$,·sh,:,k,·,_,v,-,$,·sh,a,(zaq_q),m.
+y,i,$,·sh,:,k,·,_,b,-,$,·sh,a,(zaq_q),m.
 SPACE
-w,·,v,a,(tev),α,τ
+v,·,b,a,(tev),α,τ
 SPACE
-w,:,g,i,l,·,i,(mer),y,τ
+v,:,g,i,l,·,i,(mer),y,τ
 SPACE
-m,_,r,:,g,·,:,l,o,τ,a,(tip),y,w
+m,_,r,:,g,·,:,l,o,τ,a,(tip),y,v
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
-LEFT PARENTHESIS,w,$,k,v,τ,y,RIGHT PARENTHESIS
+LEFT PARENTHESIS,v,$,k,b,τ,y,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,w,:,$,·sh,a,k,a,(atn),v,:,τ,·,:,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,v,:,$,·sh,a,k,a,(atn),b,:,τ,·,:,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
-w,:,h,w,·,α,(pash)
+v,:,h,v,·,α,(pash)
 SPACE
 y,_,g,·,i,(mun),y,d
 SPACE
@@ -1448,10 +1448,10 @@ SPACE
 SPACE
 α,:_,$,·sh,∵,(mer),r
 SPACE
-τ,·,_,ʕ,:_,$,·si,i,(mos),y,n.,(sopa)
+τ,·,_,3,:_,$,·si,i,(mos),y,n.,(sopa)
 
 Ruth 3:5 in vtrad vtsef
-w,_,τ,·,o,(tip),α,m,∵,r
+v,_,τ,·,o,(tip),α,m,∵,r
 SPACE
 α,‥,l,∵,(atn),y,h,a
 SPACE
@@ -1463,89 +1463,89 @@ START span class=mam-kq-q
 LEFT SQUARE BRACKET,α,‥,l,_,(tip),y,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 SPACE
-α,∵,ʕ,:∵,$,·si,∵,(mos),h,(sopa)
+α,∵,3,:∵,$,·si,∵,(mos),h,(sopa)
 
 Ruth 3:6 in vtrad vtsef
-w,_,τ,·,‥,(tip),r,∵,d
+v,_,τ,·,‥,(tip),r,∵,d
 SPACE
 h,_,g,·,o,(atn),r,∵,n.
 SPACE
-w,_,τ,·,_,(zaq_g),ʕ,_,$,·si
+v,_,τ,·,_,(zaq_g),3,_,$,·si
 SPACE
 k,·,:,k,o,(mer),l
 SPACE
-α,:_,$,·sh,∵,r,-,ц,i,w,·,_,(tip),τ,·,a,h
+α,:_,$,·sh,∵,r,-,c,i,v,·,_,(tip),τ,·,a,h
 SPACE
-x,:_,m,w,o,τ,a,(mos),h,·,(sopa)
+x,:_,m,v,o,τ,a,(mos),h,·,(sopa)
 
 Ruth 3:7 in vtrad vtsef
-w,_,y,·,o,(qom),α,k,_,l
+v,_,y,·,o,(qom),α,k,_,l
 SPACE
-v,·,o,(mah),ʕ,_,z
+b,·,o,(mah),3,_,z
 SPACE
-w,_,y,·,‥,$,·sh,:,τ,·,:,(pash)
+v,_,y,·,‥,$,·sh,:,τ,·,:,(pash)
 SPACE
-w,_,y,·,i,y,θ,_,(mun),v
+v,_,y,·,i,y,θ,_,(mun),b
 SPACE
-l,i,v,·,(zaq_q),w,o
+l,i,b,·,(zaq_q),v,o
 SPACE
-w,_,y,·,a,v,o,(zaq_g),α
+v,_,y,·,a,b,o,(zaq_g),α
 SPACE
-l,i,$,·sh,:,k,·,_,(tip),v
+l,i,$,·sh,:,k,·,_,(tip),b
 SPACE
-v,·,i,q,:,ц,‥,(mun),h
+b,·,i,q,:,c,‥,(mun),h
 SPACE
-h,a,ʕ,:_,r,‥,m,a,(atn),h
+h,a,3,:_,r,‥,m,a,(atn),h
 SPACE
-w,_,τ,·,a,v,o,(mun),α
+v,_,τ,·,a,b,o,(mun),α
 SPACE
-v,_,l,·,a,(zaq_q),θ
+b,_,l,·,a,(zaq_q),θ
 SPACE
-w,_,τ,·,:,g,_,(mer),l
+v,_,τ,·,:,g,_,(mer),l
 SPACE
-m,_,r,:,g,·,:,l,o,τ,a,(tip),y,w
+m,_,r,:,g,·,:,l,o,τ,a,(tip),y,v
 SPACE
-w,_,τ,·,i,$,·sh,:,k,·,a,(mos),v,(sopa)
+v,_,τ,·,i,$,·sh,:,k,·,a,(mos),b,(sopa)
 
 Ruth 3:8 in vtrad vtsef
-w,_,(mos),y,:,h,i,y,(pash)
+v,_,(mos),y,:,h,i,y,(pash)
 SPACE
-v,·,_,x,:_,ц,i,(mun),y
+b,·,_,x,:_,c,i,(mun),y
 SPACE
 h,_,l,·,_,(zaq_q),y,:,l,a,h
 SPACE
-w,_,y,·,∵,x,:∵,r,_,(mer),d
+v,_,y,·,∵,x,:∵,r,_,(mer),d
 SPACE
 h,a,α,i,(tip),y,$,·sh
 SPACE
-w,_,y,·,i,l,·,a,f,‥,(atn),τ
+v,_,y,·,i,l,·,a,p,‥,(atn),τ
 SPACE
-w,:,h,i,n,·,‥,(mun),h
+v,:,h,i,n,·,‥,(mun),h
 SPACE
 α,i,$,·sh,·,a,(zaq_q),h
 SPACE
-$,·sh,o,k,∵,(tip),v,∵,τ
+$,·sh,o,k,∵,(tip),b,∵,τ
 SPACE
-m,_,r,:,g,·,:,l,o,τ,a,(mos),y,w,(sopa)
+m,_,r,:,g,·,:,l,o,τ,a,(mos),y,v,(sopa)
 
 Ruth 3:9 in vtrad vtsef
-w,_,y,·,o,(tip),α,m,∵,r
+v,_,y,·,o,(tip),α,m,∵,r
 SPACE
 m,i,y,-,α,a,(atn),τ,·,:
 SPACE
-w,_,τ,·,o,(rev),α,m,∵,r
+v,_,τ,·,o,(rev),α,m,∵,r
 SPACE
 α,a,(mos),n,o,k,i,y,(pash)
 SPACE
-r,(mun),w,·,τ
+r,(mun),v,·,τ
 SPACE
 α,:_,m,a,τ,∵,(zaq_q),k.,a
 SPACE
-w,·,f,a,r,_,$,·si,:,τ,·,a,(mah)
+v,·,p,a,r,_,$,·si,:,τ,·,a,(mah)
 SPACE
-k,:,n,a,f,∵,(pash),k.,a,(pash)
+k,:,n,a,p,∵,(pash),k.,a,(pash)
 SPACE
-ʕ,_,l,-,α,:_,m,a,(mun),τ,:,k.,a,(zaq_q)
+3,_,l,-,α,:_,m,a,(mun),τ,:,k.,a,(zaq_q)
 SPACE
 k,·,i,(mer),y
 SPACE
@@ -1554,38 +1554,38 @@ SPACE
 α,a,(mos),τ,·,a,h,(sopa)
 
 Ruth 3:10 in vtrad vtsef
-w,_,y,·,o,(rev),α,m,∵,r
+v,_,y,·,o,(rev),α,m,∵,r
 SPACE
-v,·,:,r,w,·,k,a,(qom),h
+b,·,:,r,v,·,k,a,(qom),h
 SPACE
 α,_,(mah),τ,·,:
 SPACE
-l,_,(mos),y,h,o,w,a,h,(pash)
+l,_,(mos),y,h,o,v,a,h,(pash)
 SPACE
-v,·,i,τ,·,i,(zaq_q),y
+b,·,i,τ,·,i,(zaq_q),y
 SPACE
-h,‥,y,θ,_,(tev),v,:,τ,·,:
+h,‥,y,θ,_,(tev),b,:,τ,·,:
 SPACE
 x,_,σ,:,d,·,‥,(mer),k.,:
 SPACE
-h,a,α,_,x,:_,r,(tip),w,o,n.
+h,a,α,_,x,:_,r,(tip),v,o,n.
 SPACE
-m,i,n.,-,h,a,r,i,α,$,·sh,(atn),w,o,n.
+m,i,n.,-,h,a,r,i,α,$,·sh,(atn),v,o,n.
 SPACE
-l,:,v,i,l,:,τ,·,i,y,-,l,∵,(rev),k,∵,τ
+l,:,b,i,l,:,τ,·,i,y,-,l,∵,(rev),k,∵,τ
 SPACE
 α,_,(mos),x,:_,r,‥,y,(pash)
 SPACE
-h,_,v,·,_,(mun),x,w,·,r,i,(zaq_q),y,m.
+h,_,b,·,_,(mun),x,v,·,r,i,(zaq_q),y,m.
 SPACE
 α,i,m.,-,d,·,_,(tip),l
 SPACE
-w,:,α,i,m.,-,ʕ,a,$,·sh,i,(mos),y,r,(sopa)
+v,:,α,i,m.,-,3,a,$,·sh,i,(mos),y,r,(sopa)
 
 Ruth 3:11 in vtrad vtsef
-w,:,ʕ,_,τ,·,a,(rev),h
+v,:,3,_,τ,·,a,(rev),h
 SPACE
-v,·,i,τ,·,i,y,(pash)
+b,·,i,τ,·,i,y,(pash)
 SPACE
 α,_,l,-,τ,·,i,(mun),y,r,:,α,i,(zaq_q),y
 SPACE
@@ -1593,15 +1593,15 @@ k,·,o,(mer),l
 SPACE
 α,:_,$,·sh,∵,r,-,τ,·,o,α,m,:,r,i,(tip),y
 SPACE
-α,∵,ʕ,:∵,$,·si,∵,h,-,l,·,a,(atn),k.,:
+α,∵,3,:∵,$,·si,∵,h,-,l,·,a,(atn),k.,:
 SPACE
 k,·,i,(mah),y
 SPACE
-y,w,o,d,‥,(pash),ʕ,_,(pash)
+y,v,o,d,‥,(pash),3,_,(pash)
 SPACE
-k,·,oa,l,-,$,·sh,_,(mun),ʕ,_,r
+k,·,oa,l,-,$,·sh,_,(mun),3,_,r
 SPACE
-ʕ,_,m,·,i,(zaq_q),y
+3,_,m,·,i,(zaq_q),y
 SPACE
 k,·,i,(tev),y
 SPACE
@@ -1612,7 +1612,7 @@ SPACE
 α,a,(mos),τ,·,:,(sopa)
 
 Ruth 3:12 in vtrad vtsef
-w,:,ʕ,_,τ,·,a,h,(pash)
+v,:,3,_,τ,·,a,h,(pash)
 SPACE
 k,·,i,(mun),y
 SPACE
@@ -1628,13 +1628,13 @@ g,o,α,‥,(tip),l
 SPACE
 α,a,n,o,(atn),k,i,y
 SPACE
-w,:,g,_,(tev),m.
+v,:,g,_,(tev),m.
 SPACE
 y,‥,(mer),$,·sh
 SPACE
 g,·,o,α,‥,(tip),l
 SPACE
-q,a,r,(mer),w,o,v
+q,a,r,(mer),v,o,b
 SPACE
 m,i,m,·,∵,(mos),n,·,i,y,(sopa)
 
@@ -1650,50 +1650,50 @@ STOP b
 SPACE
 h,_,l,·,_,(rev),y,:,l,a,h
 SPACE
-w,:,h,a,y,a,(mah),h
+v,:,h,a,y,a,(mah),h
 SPACE
-v,_,v,·,o,(pash),q,∵,r,(pash)
+b,_,b,·,o,(pash),q,∵,r,(pash)
 SPACE
 α,i,m.,-,y,i,g,:,α,a,l,‥,(mer),k.,:
 SPACE
-θ,w,o,v,(pash)
+θ,v,o,b,(pash)
 SPACE
 y,i,g,:,α,a,(zaq_q),l
 SPACE
-w,:,α,i,m.,-,l,o,(qom),α
+v,:,α,i,m.,-,l,o,(qom),α
 SPACE
-y,_,x,:,f,·,o,(dar),ц.
+y,_,x,:,p,·,o,(dar),c.
 SPACE
 l,:,g,oa,α,:a,l,‥,(tev),k.,:
 SPACE
-w,·,g,:,α,_,l,:,τ,·,i,(mer),y,k.,:
+v,·,g,:,α,_,l,:,τ,·,i,(mer),y,k.,:
 SPACE
 α,a,n,o,(tip),k,i,y
 SPACE
-x,_,y,-,y,:,h,o,w,a,(atn),h
+x,_,y,-,y,:,h,o,v,a,(atn),h
 SPACE
-$,·sh,i,k,:,v,i,(tip),y
+$,·sh,i,k,:,b,i,(tip),y
 SPACE
-ʕ,_,d,-,h,_,v,·,o,(mos),q,∵,r,(sopa)
+3,_,d,-,h,_,b,·,o,(mos),q,∵,r,(sopa)
 
 Ruth 3:14 in vtrad vtsef
-w,_,τ,·,i,$,·sh,:,k,·,_,(mah),v
+v,_,τ,·,i,$,·sh,:,k,·,_,(mah),b
 SPACE
 START span class=mam-kq-trivial
-m,_,r,:,g,·,:,l,w,o,τ,a,w,(pash)
+m,_,r,:,g,·,:,l,v,o,τ,a,v,(pash)
 STOP span class=mam-kq-trivial
 SPACE
-ʕ,_,d,-,h,_,v,·,o,(zaq_q),q,∵,r
+3,_,d,-,h,_,b,·,o,(zaq_q),q,∵,r
 SPACE
-w,_,τ,·,a,(zaq_g),q,oa,m.
+v,_,τ,·,a,(zaq_g),q,oa,m.
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
-LEFT PARENTHESIS,v,θ,r,w,m.,RIGHT PARENTHESIS
+LEFT PARENTHESIS,b,θ,r,v,m.,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,v,·,:,θ,∵,(tev),r,∵,m.,RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,b,·,:,θ,∵,(tev),r,∵,m.,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -1701,70 +1701,70 @@ y,_,k,·,i,(mer),y,r
 SPACE
 α,i,(tip),y,$,·sh
 SPACE
-α,∵,τ,-,r,‥,ʕ,‥,(atn),h,w,·
+α,∵,τ,-,r,‥,3,‥,(atn),h,v,·
 SPACE
-w,_,y,·,o,(pash),α,m,∵,r,(pash)
+v,_,y,·,o,(pash),α,m,∵,r,(pash)
 SPACE
-α,_,l,-,y,i,w,·,a,d,_,(zaq_q),ʕ
+α,_,l,-,y,i,v,·,a,d,_,(zaq_q),3
 SPACE
-k,·,i,y,-,v,a,(mer),α,a,h
+k,·,i,y,-,b,a,(mer),α,a,h
 SPACE
 h,a,α,i,$,·sh,·,a,(tip),h
 SPACE
 h,_,g,·,o,(mos),r,∵,n.,(sopa)
 
 Ruth 3:15 in vtrad vtsef
-w,_,y,·,o,(rev),α,m,∵,r
+v,_,y,·,o,(rev),α,m,∵,r
 SPACE
-h,a,(tel_g),v,i,(tel_g),y
+h,a,(tel_g),b,i,(tel_g),y
 SPACE
-h,_,m,·,i,θ,:,f,·,_,(dar),x,_,τ
+h,_,m,·,i,θ,:,p,·,_,(dar),x,_,τ
 SPACE
-α,:_,$,·sh,∵,r,-,ʕ,a,l,_,(tev),y,i,k.,:
+α,:_,$,·sh,∵,r,-,3,a,l,_,(tev),y,i,k.,:
 SPACE
-w,:,α,∵,x,:a,z,i,y,-,v,a,(tip),h,·
+v,:,α,∵,x,:a,z,i,y,-,b,a,(tip),h,·
 SPACE
-w,_,τ,·,o,(mun),α,x,∵,z
+v,_,τ,·,o,(mun),α,x,∵,z
 SPACE
-v,·,a,(atn),h,·
+b,·,a,(atn),h,·
 SPACE
-w,_,y,·,a,(mah),m,oa,d
+v,_,y,·,a,(mah),m,oa,d
 SPACE
-$,·sh,‥,$,·sh,-,$,·si,:,ʕ,o,r,i,y,m.,(pash)
+$,·sh,‥,$,·sh,-,$,·si,:,3,o,r,i,y,m.,(pash)
 SPACE
-w,_,y,·,a,(mun),$,·sh,∵,τ
+v,_,y,·,a,(mun),$,·sh,∵,τ
 SPACE
-ʕ,a,l,∵,(zaq_q),y,h,a
+3,a,l,∵,(zaq_q),y,h,a
 SPACE
-w,_,y,·,a,v,o,(tip),α
+v,_,y,·,a,b,o,(tip),α
 SPACE
-h,a,ʕ,i,(mos),y,r,(sopa)
+h,a,3,i,(mos),y,r,(sopa)
 
 Ruth 3:16 in vtrad vtsef
-w,_,τ,·,a,v,w,o,α,(pash)
+v,_,τ,·,a,b,v,o,α,(pash)
 SPACE
-α,∵,l,-,x,:_,m,w,o,τ,a,(zaq_q),h,·
+α,∵,l,-,x,:_,m,v,o,τ,a,(zaq_q),h,·
 SPACE
-w,_,τ,·,o,(tip),α,m,∵,r
+v,_,τ,·,o,(tip),α,m,∵,r
 SPACE
 m,i,y,-,α,_,(mun),τ,·,:
 SPACE
-v,·,i,τ,·,i,(atn),y
+b,·,i,τ,·,i,(atn),y
 SPACE
-w,_,τ,·,_,(qom),g,·,∵,d,-,l,a,(zaq_q),h,·
+v,_,τ,·,_,(qom),g,·,∵,d,-,l,a,(zaq_q),h,·
 SPACE
 α,‥,(tev),τ
 SPACE
 k,·,oa,l,-,α,:_,$,·sh,∵,(mer),r
 SPACE
-ʕ,a,$,·si,a,h,-,l,a,(tip),h,·
+3,a,$,·si,a,h,-,l,a,(tip),h,·
 SPACE
 h,a,α,i,(mos),y,$,·sh,(sopa)
 
 Ruth 3:17 in vtrad vtsef
-w,_,τ,·,o,(zaq_g),α,m,∵,r
+v,_,τ,·,o,(zaq_g),α,m,∵,r
 SPACE
-$,·sh,‥,$,·sh,-,h,_,$,·si,·,:,ʕ,o,r,i,(mer),y,m.
+$,·sh,‥,$,·sh,-,h,_,$,·si,·,:,3,o,r,i,(mer),y,m.
 SPACE
 h,a,α,‥,(tip),l,·,∵,h
 SPACE
@@ -1780,30 +1780,30 @@ START span class=mam-kq-q
 LEFT SQUARE BRACKET,α,‥,l,_,(zaq_q),y,RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 SPACE
-α,_,l,-,τ,·,a,v,(mer),w,o,α,i,y
+α,_,l,-,τ,·,a,b,(mer),v,o,α,i,y
 SPACE
 r,‥,y,q,a,(tip),m.
 SPACE
-α,∵,l,-,x,:_,m,w,o,τ,‥,(mos),k.,:,(sopa)
+α,∵,l,-,x,:_,m,v,o,τ,‥,(mos),k.,:,(sopa)
 
 Ruth 3:18 in vtrad vtsef
-w,_,τ,·,o,(pash),α,m,∵,r,(pash)
+v,_,τ,·,o,(pash),α,m,∵,r,(pash)
 SPACE
-$,·sh,:,v,i,(mun),y
+$,·sh,:,b,i,(mun),y
 SPACE
-v,i,τ,·,i,(zaq_q),y
+b,i,τ,·,i,(zaq_q),y
 SPACE
-ʕ,_,(yet),d
+3,_,(yet),d
 SPACE
 α,:_,$,·sh,∵,(mun),r
 SPACE
-τ,·,‥,(mos),d,:,ʕ,i,(zaq_q),y,n.
+τ,·,‥,(mos),d,:,3,i,(zaq_q),y,n.
 SPACE
 α,‥,(tip),y,k.,:
 SPACE
-y,i,f,·,o,(mun),l
+y,i,p,·,o,(mun),l
 SPACE
-d,·,a,v,a,(atn),r
+d,·,a,b,a,(atn),r
 SPACE
 k,·,i,(mun),y
 SPACE
@@ -1815,64 +1815,64 @@ h,a,α,i,(zaq_q),y,$,·sh
 SPACE
 k,·,i,(mos),y,-,α,i,m.,-,k,·,i,l,·,a,(mer),h
 SPACE
-h,_,d,·,a,v,a,(tip),r
+h,_,d,·,a,b,a,(tip),r
 SPACE
-h,_,y,·,(mos),w,o,m.,(sopa)
+h,_,y,·,(mos),v,o,m.,(sopa)
 
 Ruth 4:1 in vtrad vtsef
-w,·,v,o,(qom),ʕ,_,z
+v,·,b,o,(qom),3,_,z
 SPACE
-ʕ,a,l,a,(mun),h
+3,a,l,a,(mun),h
 SPACE
-h,_,$,·sh,·,_,≁,ʕ,_,r,~
+h,_,$,·sh,·,_,≁,3,_,r,~
 SPACE
-w,_,y,·,‥,(mun),$,·sh,∵,v
+v,_,y,·,‥,(mun),$,·sh,∵,b
 SPACE
 $,·sh,a,m.,(seg_a)
 SPACE
-w,:,h,i,n,·,‥,(qom),h
+v,:,h,i,n,·,‥,(qom),h
 SPACE
 h,_,g,·,o,α,‥,(mah),l
 SPACE
-ʕ,o,v,‥,r,(pash)
+3,o,b,‥,r,(pash)
 SPACE
 α,:_,$,·sh,∵,(mun),r
 SPACE
-d,·,i,v,·,∵,r,-,v,·,o,(zaq_q),ʕ,_,z
+d,·,i,b,·,∵,r,-,b,·,o,(zaq_q),3,_,z
 SPACE
-w,_,y,·,o,(tev),α,m,∵,r
+v,_,y,·,o,(tev),α,m,∵,r
 SPACE
-σ,(mer),w,·,r,a,h
+σ,(mer),v,·,r,a,h
 SPACE
-$,·sh,:,v,a,h,-,f,·,o,(tip),h
+$,·sh,:,b,a,h,-,p,·,o,(tip),h
 SPACE
-f,·,:,l,o,n,i,(mun),y
+p,·,:,l,o,n,i,(mun),y
 SPACE
 α,_,l,:,m,o,n,i,(atn),y
 SPACE
-w,_,y,·,a,(tip),σ,_,r
+v,_,y,·,a,(tip),σ,_,r
 SPACE
-w,_,y,·,‥,$,·sh,‥,(mos),v,(sopa)
+v,_,y,·,‥,$,·sh,‥,(mos),b,(sopa)
 
 Ruth 4:2 in vtrad vtsef
-w,_,y,·,i,q,·,_,(ger_2),x
+v,_,y,·,i,q,·,_,(ger_2),x
 SPACE
-ʕ,:_,$,·si,a,r,a,(dar),h
+3,:_,$,·si,a,r,a,(dar),h
 SPACE
 α,:_,n,a,$,·sh,i,(tev),y,m.
 SPACE
 m,i,z,·,i,q,:,n,‥,(mer),y
 SPACE
-h,a,ʕ,i,(tip),y,r
+h,a,3,i,(tip),y,r
 SPACE
-w,_,y,·,o,(mun),α,m,∵,r
+v,_,y,·,o,(mun),α,m,∵,r
 SPACE
-$,·sh,:,v,w,·,-,f,o,(atn),h
+$,·sh,:,b,v,·,-,p,o,(atn),h
 SPACE
-w,_,y,·,‥,$,·sh,‥,(mos),v,w,·,(sopa)
+v,_,y,·,‥,$,·sh,‥,(mos),b,v,·,(sopa)
 
 Ruth 4:3 in vtrad vtsef
-w,_,y,·,o,(pash),α,m,∵,r,(pash)
+v,_,y,·,o,(pash),α,m,∵,r,(pash)
 SPACE
 l,_,g,·,o,α,‥,(zaq_q),l
 SPACE
@@ -1882,22 +1882,22 @@ h,_,$,·si,·,a,d,∵,(zaq_q),h
 SPACE
 α,:_,$,·sh,∵,(mer),r
 SPACE
-l,:,α,a,x,i,(tip),y,n,w,·
+l,:,α,a,x,i,(tip),y,n,v,·
 SPACE
 l,∵,α,:∵,l,i,y,m,∵,(atn),l,∵,k.,:
 SPACE
 m,a,k,:,r,a,(mun),h
 SPACE
-n,oa,ʕ,:a,m,i,(zaq_q),y
+n,oa,3,:a,m,i,(zaq_q),y
 SPACE
-h,_,$,·sh,·,a,(tip),v,a,h
+h,_,$,·sh,·,a,(tip),b,a,h
 SPACE
 m,i,$,·si,·,:,d,‥,(mer),h
 SPACE
-m,w,o,α,a,(mos),v,(sopa)
+m,v,o,α,a,(mos),b,(sopa)
 
 Ruth 4:4 in vtrad vtsef
-w,_,α,:_,n,i,(qom),y
+v,_,α,:_,n,i,(qom),y
 SPACE
 α,a,m,_,(ger),r,:,τ,·,i,y
 SPACE
@@ -1911,19 +1911,19 @@ q,:,(tel_g),n,‥,(tel_g),h
 SPACE
 n,∵,(mer),g,∵,d
 SPACE
-h,_,y,·,o,$,·sh,:,v,i,y,m.,~
+h,_,y,·,o,$,·sh,:,b,i,y,m.,~
 SPACE
-w,:,n,∵,(mun),g,∵,d
+v,:,n,∵,(mun),g,∵,d
 SPACE
 z,i,q,:,n,‥,(mun),y
 SPACE
-ʕ,_,m,·,i,y,(seg_a)
+3,_,m,·,i,y,(seg_a)
 SPACE
 α,i,m.,-,τ,·,i,g,:,α,_,l,(pash)
 SPACE
 g,·,:,α,a,(zaq_q),l
 SPACE
-w,:,α,i,m.,-,l,o,(qom),α
+v,:,α,i,m.,-,l,o,(qom),α
 SPACE
 y,i,g,:,α,_,(ger),l
 SPACE
@@ -1933,11 +1933,11 @@ l,·,i,(rev),y
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
-LEFT PARENTHESIS,w,α,d,ʕ,RIGHT PARENTHESIS
+LEFT PARENTHESIS,v,α,d,3,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
-LEFT SQUARE BRACKET,w,:,α,‥,(mos),d,:,ʕ,a,h,(pash),RIGHT SQUARE BRACKET
+LEFT SQUARE BRACKET,v,:,α,‥,(mos),d,:,3,a,h,(pash),RIGHT SQUARE BRACKET
 STOP span class=mam-kq-q
 STOP span class=mam-kq
 SPACE
@@ -1945,38 +1945,38 @@ k,·,i,(mun),y
 SPACE
 α,‥,(mah),y,n.
 SPACE
-z,w,·,l,a,(mos),τ,:,k.,a,(pash)
+z,v,·,l,a,(mos),τ,:,k.,a,(pash)
 SPACE
-l,i,g,:,α,(zaq_q),w,o,l
+l,i,g,:,α,(zaq_q),v,o,l
 SPACE
-w,:,α,a,n,o,k,i,(tip),y
+v,:,α,a,n,o,k,i,(tip),y
 SPACE
 α,_,x,:_,r,∵,(atn),y,k.,a
 SPACE
-w,_,y,·,o,(tip),α,m,∵,r
+v,_,y,·,o,(tip),α,m,∵,r
 SPACE
 α,a,n,o,k,i,(mer),y
 SPACE
 α,∵,g,:,α,a,(mos),l,(sopa)
 
 Ruth 4:5 in vtrad vtsef
-w,_,y,·,o,(mun),α,m,∵,r
+v,_,y,·,o,(mun),α,m,∵,r
 SPACE
-v,·,o,(zaq_q),ʕ,_,z
+b,·,o,(zaq_q),3,_,z
 SPACE
-v,·,:,y,w,o,m.,-,q,:,n,w,o,τ,:,k.,a,(mer)
+b,·,:,y,v,o,m.,-,q,:,n,v,o,τ,:,k.,a,(mer)
 SPACE
 h,_,$,·si,·,a,d,∵,(tip),h
 SPACE
 m,i,y,·,_,(mun),d
 SPACE
-n,oa,ʕ,:a,m,i,(atn),y
+n,oa,3,:a,m,i,(atn),y
 SPACE
-w,·,(tel_g),m,‥,α,‥,(tel_g),τ
+v,·,(tel_g),m,‥,α,‥,(tel_g),τ
 SPACE
-r,(mun),w,·,τ
+r,(mun),v,·,τ
 SPACE
-h,_,m,·,w,o,α,:_,v,i,y,·,a,(mah),h
+h,_,m,·,v,o,α,:_,b,i,y,·,a,(mah),h
 SPACE
 α,‥,(mos),$,·sh,∵,τ,-,h,_,m,·,‥,τ,(pash)
 SPACE
@@ -1994,20 +1994,20 @@ l,:,h,a,q,i,(mer),y,m.
 SPACE
 $,·sh,‥,m.,-,h,_,m,·,‥,(tip),τ
 SPACE
-ʕ,_,l,-,n,_,x,:_,l,a,τ,(mos),w,o,(sopa)
+3,_,l,-,n,_,x,:_,l,a,τ,(mos),v,o,(sopa)
 
 Ruth 4:6 in vtrad vtsef
-w,_,y,·,o,(mun),α,m,∵,r
+v,_,y,·,o,(mun),α,m,∵,r
 SPACE
 h,_,g,·,o,α,‥,(rev),l
 SPACE
 l,o,(mah),α
 SPACE
-α,w,·,k,_,l,(pash)
+α,v,·,k,_,l,(pash)
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
-LEFT PARENTHESIS,l,g,α,w,l,RIGHT PARENTHESIS
+LEFT PARENTHESIS,l,g,α,v,l,RIGHT PARENTHESIS
 STOP span class=mam-kq-k
 SPACE
 START span class=mam-kq-q
@@ -2016,7 +2016,7 @@ STOP span class=mam-kq-q
 STOP span class=mam-kq
 l,i,(zaq_q),y
 SPACE
-f,·,∵,n.,-,α,_,$,·sh,:,x,i,(tip),y,τ
+p,·,∵,n.,-,α,_,$,·sh,:,x,i,(tip),y,τ
 SPACE
 α,∵,τ,-,n,_,x,:_,l,a,τ,i,(atn),y
 SPACE
@@ -2028,68 +2028,68 @@ SPACE
 SPACE
 k,·,i,(mer),y
 SPACE
-l,o,α,-,α,w,·,k,_,(tip),l
+l,o,α,-,α,v,·,k,_,(tip),l
 SPACE
 l,i,g,:,α,o,(mos),l,(sopa)
 
 Ruth 4:7 in vtrad vtsef
-w,:,z,o,α,τ,(tel_q)
+v,:,z,o,α,τ,(tel_q)
 SPACE
-l,:,f,a,n,i,(qom),y,m.
+l,:,p,a,n,i,(qom),y,m.
 SPACE
-v,·,:,y,i,$,·si,:,r,a,α,‥,(ger),l
+b,·,:,y,i,$,·si,:,r,a,α,‥,(ger),l
 SPACE
-ʕ,_,l,-,h,_,g,·,:,α,u,l,·,a,(mah),h
+3,_,l,-,h,_,g,·,:,α,u,l,·,a,(mah),h
 SPACE
-w,:,ʕ,_,l,-,h,_,τ,·,:,m,w,·,r,a,h,(pash)
+v,:,3,_,l,-,h,_,τ,·,:,m,v,·,r,a,h,(pash)
 SPACE
 l,:,q,_,y,·,‥,(mun),m.
 SPACE
-k,·,oa,l,-,d,·,a,v,a,(zaq_q),r
+k,·,oa,l,-,d,·,a,b,a,(zaq_q),r
 SPACE
-$,·sh,a,l,_,(mer),f.
+$,·sh,a,l,_,(mer),p.
 SPACE
 α,i,(tev),y,$,·sh
 SPACE
-n,_,ʕ,:_,l,(tip),w,o
+n,_,3,:_,l,(tip),v,o
 SPACE
-w,:,n,a,τ,_,(mun),n.
+v,:,n,a,τ,_,(mun),n.
 SPACE
-l,:,r,‥,ʕ,‥,(atn),h,w,·
+l,:,r,‥,3,‥,(atn),h,v,·
 SPACE
-w,:,z,o,(mer),α,τ
+v,:,z,o,(mer),α,τ
 SPACE
-h,_,τ,·,:,ʕ,w,·,d,a,(tip),h
+h,_,τ,·,:,3,v,·,d,a,(tip),h
 SPACE
-v,·,:,y,i,$,·si,:,r,a,α,‥,(mos),l,(sopa)
+b,·,:,y,i,$,·si,:,r,a,α,‥,(mos),l,(sopa)
 
 Ruth 4:8 in vtrad vtsef
-w,_,y,·,o,(dar),α,m,∵,r
+v,_,y,·,o,(dar),α,m,∵,r
 SPACE
 h,_,g,·,o,α,‥,(tev),l
 SPACE
-l,:,v,o,(tip),ʕ,_,z
+l,:,b,o,(tip),3,_,z
 SPACE
 q,:,n,‥,h,-,l,a,(atn),k.,:
 SPACE
-w,_,y,·,i,$,·sh,:,l,o,(tip),f.
+v,_,y,·,i,$,·sh,:,l,o,(tip),p.
 SPACE
-n,_,ʕ,:_,l,(mos),w,o,(sopa)
+n,_,3,:_,l,(mos),v,o,(sopa)
 
 Ruth 4:9 in vtrad vtsef
-w,_,y,·,o,(tel_q),α,m,∵,r,(tel_q)
+v,_,y,·,o,(tel_q),α,m,∵,r,(tel_q)
 SPACE
-v,·,o,(qom),ʕ,_,z
+b,·,o,(qom),3,_,z
 SPACE
 l,_,z,·,:,q,‥,n,i,(ger),y,m.
 SPACE
-w,:,k,oa,l,-,h,a,ʕ,a,(rev),m.
+v,:,k,oa,l,-,h,a,3,a,(rev),m.
 SPACE
-ʕ,‥,d,i,(mah),y,m.
+3,‥,d,i,(mah),y,m.
 SPACE
 α,_,τ,·,∵,m.,(pash)
 SPACE
-h,_,y,·,(zaq_q),w,o,m.
+h,_,y,·,(zaq_q),v,o,m.
 SPACE
 k,·,i,(mah),y
 SPACE
@@ -2099,28 +2099,28 @@ SPACE
 SPACE
 l,∵,α,:∵,l,i,y,m,∵,(zaq_q),l,∵,k.,:
 SPACE
-w,:,α,‥,(tev),τ
+v,:,α,‥,(tev),τ
 SPACE
 k,·,oa,l,-,α,:_,$,·sh,∵,(mer),r
 SPACE
-l,:,k,i,l,:,y,(tip),w,o,n.
+l,:,k,i,l,:,y,(tip),v,o,n.
 SPACE
-w,·,m,_,x,:,l,(atn),w,o,n.
+v,·,m,_,x,:,l,(atn),v,o,n.
 SPACE
 m,i,y,·,_,(tip),d
 SPACE
-n,oa,ʕ,:a,m,i,(mos),y,(sopa)
+n,oa,3,:a,m,i,(mos),y,(sopa)
 
 Ruth 4:10 in vtrad vtsef
-w,:,g,_,(mun),m.
+v,:,g,_,(mun),m.
 SPACE
-α,∵,τ,-,r,(mun),w,·,τ
+α,∵,τ,-,r,(mun),v,·,τ
 SPACE
-h,_,m,·,o,α,:_,v,i,y,·,a,h,(tel_q)
+h,_,m,·,o,α,:_,b,i,y,·,a,h,(tel_q)
 SPACE
 α,‥,(qom),$,·sh,∵,τ
 SPACE
-m,_,x,:,l,(ger),w,o,n.
+m,_,x,:,l,(ger),v,o,n.
 SPACE
 q,a,n,i,(dar),y,τ,i,y
 SPACE
@@ -2132,300 +2132,300 @@ l,:,h,a,q,i,(mah),y,m.
 SPACE
 $,·sh,‥,m.,-,h,_,m,·,‥,τ,(pash)
 SPACE
-ʕ,_,l,-,n,_,(mun),x,:_,l,a,τ,(zaq_q),w,o
+3,_,l,-,n,_,(mun),x,:_,l,a,τ,(zaq_q),v,o
 SPACE
-w,:,l,o,(mos),α,-,y,i,k,·,a,r,‥,(dar),τ
+v,:,l,o,(mos),α,-,y,i,k,·,a,r,‥,(dar),τ
 SPACE
 $,·sh,‥,m.,-,h,_,m,·,‥,(tev),τ
 SPACE
-m,‥,ʕ,i,(mer),m.
+m,‥,3,i,(mer),m.
 SPACE
-α,∵,x,a,(tip),y,w
+α,∵,x,a,(tip),y,v
 SPACE
-w,·,m,i,$,·sh,·,_,(mun),ʕ,_,r
+v,·,m,i,$,·sh,·,_,(mun),3,_,r
 SPACE
-m,:,q,w,o,m,(atn),w,o
+m,:,q,v,o,m,(atn),v,o
 SPACE
-ʕ,‥,d,i,(mer),y,m.
+3,‥,d,i,(mer),y,m.
 SPACE
 α,_,τ,·,∵,(tip),m.
 SPACE
-h,_,y,·,(mos),w,o,m.,(sopa)
+h,_,y,·,(mos),v,o,m.,(sopa)
 
 Ruth 4:11 in vtrad vtsef
-w,_,y,·,o,(qom),α,m,:,r,(ger),w,·
+v,_,y,·,o,(qom),α,m,:,r,(ger),v,·
 SPACE
-k,·,oa,l,-,h,a,ʕ,a,(dar),m.
+k,·,oa,l,-,h,a,3,a,(dar),m.
 SPACE
-α,:_,$,·sh,∵,r,-,v,·,_,$,·sh,·,_,(tev),ʕ,_,r
+α,:_,$,·sh,∵,r,-,b,·,_,$,·sh,·,_,(tev),3,_,r
 SPACE
-w,:,h,_,z,·,:,q,‥,n,i,(tip),y,m.
+v,:,h,_,z,·,:,q,‥,n,i,(tip),y,m.
 SPACE
-ʕ,‥,d,i,(atn),y,m.
+3,‥,d,i,(atn),y,m.
 SPACE
 y,i,τ,·,‥,n.,(tel_q)
 SPACE
-y,:,h,o,w,a,(qom),h
+y,:,h,o,v,a,(qom),h
 SPACE
 α,∵,(mos),τ,-,h,a,α,i,$,·sh,·,a,(ger),h
 SPACE
-h,_,v,·,a,α,a,(mun),h
+h,_,b,·,a,α,a,(mun),h
 SPACE
-α,∵,l,-,v,·,‥,y,τ,∵,(rev),k.,a
+α,∵,l,-,b,·,‥,y,τ,∵,(rev),k.,a
 SPACE
 k,·,:,r,a,x,‥,(mah),l,THIN SPACE
 START small
 |
 STOP small
-THIN SPACE,w,·,k,:,l,‥,α,a,h,(pash)
+THIN SPACE,v,·,k,:,l,‥,α,a,h,(pash)
 SPACE
 α,:_,$,·sh,∵,(qom),r
 SPACE
-v,·,a,n,(mah),w,·
+b,·,a,n,(mah),v,·
 SPACE
 $,·sh,:,τ,·,‥,y,h,∵,m.,(pash)
 SPACE
-α,∵,τ,-,v,·,‥,(mun),y,τ
+α,∵,τ,-,b,·,‥,(mun),y,τ
 SPACE
 y,i,$,·si,:,r,a,α,‥,(zaq_q),l
 SPACE
-w,_,ʕ,:_,$,·si,‥,h,-,x,_,(mun),y,i,l
+v,_,3,:_,$,·si,‥,h,-,x,_,(mun),y,i,l
 SPACE
-v,·,:,α,∵,f,:,r,a,(zaq_q),τ,a,h
+b,·,:,α,∵,p,:,r,a,(zaq_q),τ,a,h
 SPACE
-w,·,q,:,r,a,α,-,$,·sh,‥,(tip),m.
+v,·,q,:,r,a,α,-,$,·sh,‥,(tip),m.
 SPACE
-v,·,:,v,‥,(mer),y,τ
+b,·,:,b,‥,(mer),y,τ
 SPACE
 l,a,(mos),x,∵,m.,(sopa)
 
 Ruth 4:12 in vtrad vtsef
-w,i,y,h,i,(mah),y
+v,i,y,h,i,(mah),y
 SPACE
-v,‥,(mos),y,τ,:,k.,a,(pash)
+b,‥,(mos),y,τ,:,k.,a,(pash)
 SPACE
-k,·,:,v,‥,(mun),y,τ
+k,·,:,b,‥,(mun),y,τ
 SPACE
-f,·,∵,(zaq_q),r,∵,ц.
+p,·,∵,(zaq_q),r,∵,c.
 SPACE
 α,:_,$,·sh,∵,r,-,y,a,l,:,d,a,(mer),h
 SPACE
 τ,a,m,a,(tip),r
 SPACE
-l,i,y,h,w,·,d,a,(atn),h
+l,i,y,h,v,·,d,a,(atn),h
 SPACE
-m,i,n.,-,h,_,z,·,∵,(rev),r,_,ʕ
+m,i,n.,-,h,_,z,·,∵,(rev),r,_,3
 SPACE
 α,:_,$,·sh,∵,(qom),r
 SPACE
 y,i,τ,·,‥,(mah),n.
 SPACE
-y,:,h,o,w,a,h,(pash)
+y,:,h,o,v,a,h,(pash)
 SPACE
 l,:,k.,a,(zaq_q)
 SPACE
-m,i,n.,-,h,_,(mos),n,·,_,ʕ,:_,r,a,(tip),h
+m,i,n.,-,h,_,(mos),n,·,_,3,:_,r,a,(tip),h
 SPACE
 h,_,z,·,o,(mos),α,τ,(sopa)
 
 Ruth 4:13 in vtrad vtsef
-w,_,y,·,i,q,·,_,(qom),x
+v,_,y,·,i,q,·,_,(qom),x
 SPACE
-v,·,o,(mah),ʕ,_,z
+b,·,o,(mah),3,_,z
 SPACE
-α,∵,τ,-,r,w,·,τ,(pash)
+α,∵,τ,-,r,v,·,τ,(pash)
 SPACE
-w,_,τ,·,:,h,i,y,-,l,(mun),w,o
+v,_,τ,·,:,h,i,y,-,l,(mun),v,o
 SPACE
 l,:,α,i,$,·sh,·,a,(zaq_q),h
 SPACE
-w,_,y,·,a,v,o,(tip),α
+v,_,y,·,a,b,o,(tip),α
 SPACE
 α,‥,l,∵,(atn),y,h,a
 SPACE
-w,_,y,·,i,τ,·,‥,(qom),n.
+v,_,y,·,i,τ,·,‥,(qom),n.
 SPACE
-y,:,h,o,w,a,(mer),h
+y,:,h,o,v,a,(mer),h
 SPACE
 l,a,(tev),h,·
 SPACE
-h,‥,r,a,y,(tip),w,o,n.
+h,‥,r,a,y,(tip),v,o,n.
 SPACE
-w,_,τ,·,‥,(mer),l,∵,d
+v,_,τ,·,‥,(mer),l,∵,d
 SPACE
-v,·,‥,(mos),n.,(sopa)
+b,·,‥,(mos),n.,(sopa)
 
 Ruth 4:14 in vtrad vtsef
-w,_,τ,·,o,α,m,_,(mah),r,:,n,a,h
+v,_,τ,·,o,α,m,_,(mah),r,:,n,a,h
 SPACE
 h,_,n,·,a,$,·sh,i,y,m.,(pash)
 SPACE
-α,∵,(mos),l,-,n,oa,ʕ,:a,m,i,(zaq_q),y
+α,∵,(mos),l,-,n,oa,3,:a,m,i,(zaq_q),y
 SPACE
-v,·,a,r,(mun),w,·,k.,:
+b,·,a,r,(mun),v,·,k.,:
 SPACE
-y,:,h,o,w,a,(zaq_q),h
+y,:,h,o,v,a,(zaq_q),h
 SPACE
 α,:_,(tel_g),$,·sh,∵,(tel_g),r
 SPACE
 l,o,(mun),α
 SPACE
-h,i,$,·sh,:,v,·,i,(mer),y,τ
+h,i,$,·sh,:,b,·,i,(mer),y,τ
 SPACE
 l,a,(tev),k.,:
 SPACE
 g,·,o,α,‥,(tip),l
 SPACE
-h,_,y,·,(atn),w,o,m.
+h,_,y,·,(atn),v,o,m.
 SPACE
-w,:,y,i,q,·,a,r,‥,(mer),α
+v,:,y,i,q,·,a,r,‥,(mer),α
 SPACE
-$,·sh,:,m,(tip),w,o
+$,·sh,:,m,(tip),v,o
 SPACE
-v,·,:,y,i,$,·si,:,r,a,α,‥,(mos),l,(sopa)
+b,·,:,y,i,$,·si,:,r,a,α,‥,(mos),l,(sopa)
 
 Ruth 4:15 in vtrad vtsef
-w,:,h,a,(mah),y,a,h
+v,:,h,a,(mah),y,a,h
 SPACE
 l,a,k.,:,(pash)
 SPACE
-l,:,m,‥,$,·sh,i,(mun),y,v
+l,:,m,‥,$,·sh,i,(mun),y,b
 SPACE
-n,∵,(zaq_q),f,∵,$,·sh
+n,∵,(zaq_q),p,∵,$,·sh
 SPACE
-w,·,l,:,k,_,l,:,k,·,‥,(tip),l
+v,·,l,:,k,_,l,:,k,·,‥,(tip),l
 SPACE
-α,∵,τ,-,$,·si,‥,y,v,a,τ,‥,(atn),k.,:
+α,∵,τ,-,$,·si,‥,y,b,a,τ,‥,(atn),k.,:
 SPACE
 k,·,i,(mun),y
 SPACE
 k,_,l,·,a,τ,‥,(mah),k.,:
 SPACE
-α,:_,(mos),$,·sh,∵,r,-,α,:_,h,‥,v,_,(pash),τ,∵,k.,:,(pash)
+α,:_,(mos),$,·sh,∵,r,-,α,:_,h,‥,b,_,(pash),τ,∵,k.,:,(pash)
 SPACE
-y,:,l,a,d,_,(zaq_q),τ,·,w,·
+y,:,l,a,d,_,(zaq_q),τ,·,v,·
 SPACE
 α,:_,$,·sh,∵,r,-,h,i,y,α,(pash)
 SPACE
-θ,(mun),w,o,v,a,h
+θ,(mun),v,o,b,a,h
 SPACE
 l,a,(zaq_q),k.,:
 SPACE
-m,i,$,·sh,·,i,v,:,ʕ,a,(tip),h
+m,i,$,·sh,·,i,b,:,3,a,(tip),h
 SPACE
-v,·,a,n,i,(mos),y,m.,(sopa)
+b,·,a,n,i,(mos),y,m.,(sopa)
 
 Ruth 4:16 in vtrad vtsef
-w,_,τ,·,i,q,·,_,(qom),x
+v,_,τ,·,i,q,·,_,(qom),x
 SPACE
-n,oa,ʕ,:a,m,i,(mah),y
+n,oa,3,:a,m,i,(mah),y
 SPACE
 α,∵,τ,-,h,_,y,·,∵,(pash),l,∵,d,(pash)
 SPACE
-w,_,τ,·,:,$,·sh,i,τ,‥,(mun),h,w,·
+v,_,τ,·,:,$,·sh,i,τ,‥,(mun),h,v,·
 SPACE
-v,:,x,‥,y,q,a,(zaq_q),h,·
+b,:,x,‥,y,q,a,(zaq_q),h,·
 SPACE
-w,_,τ,·,:,h,i,y,-,l,(tip),w,o
+v,_,τ,·,:,h,i,y,-,l,(tip),v,o
 SPACE
 l,:,α,o,m,∵,(mos),n,∵,τ,(sopa)
 
 Ruth 4:17 in vtrad vtsef
-w,_,τ,·,i,q,:,r,∵,(tel_q),α,n,a,h,(tel_q)
+v,_,τ,·,i,q,:,r,∵,(tel_q),α,n,a,h,(tel_q)
 SPACE
-l,(qom),w,o
+l,(qom),v,o
 SPACE
-h,_,$,·sh,·,:,k,‥,n,(mer),w,o,τ
+h,_,$,·sh,·,:,k,‥,n,(mer),v,o,τ
 SPACE
 $,·sh,‥,m.,(pash)
 SPACE
 l,‥,α,m,o,(zaq_q),r
 SPACE
-y,u,l,·,_,d,-,v,·,‥,(tip),n.
+y,u,l,·,_,d,-,b,·,‥,(tip),n.
 SPACE
-l,:,n,oa,ʕ,:a,m,i,(atn),y
+l,:,n,oa,3,:a,m,i,(atn),y
 SPACE
-w,_,τ,·,i,q,:,r,∵,(mah),α,n,a,(mos),h
+v,_,τ,·,i,q,:,r,∵,(mah),α,n,a,(mos),h
 SPACE
-$,·sh,:,m,w,o,(pash)
+$,·sh,:,m,v,o,(pash)
 SPACE
-ʕ,w,o,v,‥,(zaq_q),d
+3,v,o,b,‥,(zaq_q),d
 SPACE
-h,(mer),w,·,α
+h,(mer),v,·,α
 SPACE
-α,:_,v,i,(mos),y,-,y,i,$,·sh,_,(tip),y
+α,:_,b,i,(mos),y,-,y,i,$,·sh,_,(tip),y
 SPACE
-α,:_,v,i,(mer),y
+α,:_,b,i,(mer),y
 SPACE
-d,a,w,i,(mos),d,(sopa)
+d,a,v,i,(mos),d,(sopa)
 NO-BREAK SPACE
 START span class=mam-spi-pe
-LEFT CURLY BRACKET,f,RIGHT CURLY BRACKET
+LEFT CURLY BRACKET,p,RIGHT CURLY BRACKET
 STOP span class=mam-spi-pe
 START/STOP br
 
 Ruth 4:18 in vtrad vtsef
-w,:,α,‥,(pash),l,·,∵,h,(pash)
+v,:,α,‥,(pash),l,·,∵,h,(pash)
 SPACE
-τ,·,w,o,l,:,d,(mun),w,o,τ
+τ,·,v,o,l,:,d,(mun),v,o,τ
 SPACE
-f,·,a,(zaq_q),r,∵,ц.
+p,·,a,(zaq_q),r,∵,c.
 SPACE
-f,·,∵,(tip),r,∵,ц.
+p,·,∵,(tip),r,∵,c.
 SPACE
-h,w,o,l,i,(mer),y,d
+h,v,o,l,i,(mer),y,d
 SPACE
-α,∵,τ,-,x,∵,ц,:,r,(mos),w,o,n.,(sopa)
+α,∵,τ,-,x,∵,c,:,r,(mos),v,o,n.,(sopa)
 
 Ruth 4:19 in vtrad vtsef
-w,:,x,∵,ц,:,r,w,o,n.,(pash)
+v,:,x,∵,c,:,r,v,o,n.,(pash)
 SPACE
-h,w,o,l,i,(mun),y,d
+h,v,o,l,i,(mun),y,d
 SPACE
 α,∵,τ,-,r,a,(zaq_q),m.
 SPACE
-w,:,r,a,(tip),m.
+v,:,r,a,(tip),m.
 SPACE
-h,w,o,l,i,(mer),y,d
+h,v,o,l,i,(mer),y,d
 SPACE
-α,∵,τ,-,ʕ,_,m,·,i,y,n,a,d,a,(mos),v,(sopa)
+α,∵,τ,-,3,_,m,·,i,y,n,a,d,a,(mos),b,(sopa)
 
 Ruth 4:20 in vtrad vtsef
-w,:,ʕ,_,m,·,i,(mos),y,n,a,d,a,v,(pash)
+v,:,3,_,m,·,i,(mos),y,n,a,d,a,b,(pash)
 SPACE
-h,w,o,l,i,(mun),y,d
+h,v,o,l,i,(mun),y,d
 SPACE
-α,∵,τ,-,n,_,x,:,$,·sh,(zaq_q),w,o,n.
+α,∵,τ,-,n,_,x,:,$,·sh,(zaq_q),v,o,n.
 SPACE
-w,:,n,_,x,:,$,·sh,(tip),w,o,n.
+v,:,n,_,x,:,$,·sh,(tip),v,o,n.
 SPACE
-h,w,o,l,i,(mer),y,d
+h,v,o,l,i,(mer),y,d
 SPACE
 α,∵,τ,-,$,·si,_,l,:,m,a,(mos),h,(sopa)
 
 Ruth 4:21 in vtrad vtsef
-w,:,$,·si,_,l,:,m,w,o,n.,(pash)
+v,:,$,·si,_,l,:,m,v,o,n.,(pash)
 SPACE
-h,w,o,l,i,(mun),y,d
+h,v,o,l,i,(mun),y,d
 SPACE
-α,∵,τ,-,v,·,o,(zaq_q),ʕ,_,z
+α,∵,τ,-,b,·,o,(zaq_q),3,_,z
 SPACE
-w,·,v,o,(tip),ʕ,_,z
+v,·,b,o,(tip),3,_,z
 SPACE
-h,w,o,l,i,(mer),y,d
+h,v,o,l,i,(mer),y,d
 SPACE
-α,∵,τ,-,ʕ,w,o,v,‥,(mos),d,(sopa)
+α,∵,τ,-,3,v,o,b,‥,(mos),d,(sopa)
 
 Ruth 4:22 in vtrad vtsef
-w,:,ʕ,o,v,‥,d,(pash)
+v,:,3,o,b,‥,d,(pash)
 SPACE
-h,w,o,l,i,(mun),y,d
+h,v,o,l,i,(mun),y,d
 SPACE
 α,∵,τ,-,y,i,$,·sh,a,(zaq_q),y
 SPACE
-w,:,y,i,$,·sh,_,(tip),y
+v,:,y,i,$,·sh,_,(tip),y
 SPACE
-h,w,o,l,i,(mer),y,d
+h,v,o,l,i,(mer),y,d
 SPACE
-α,∵,τ,-,d,·,a,w,i,(mos),d,(sopa)
+α,∵,τ,-,d,·,a,v,i,(mos),d,(sopa)
 
