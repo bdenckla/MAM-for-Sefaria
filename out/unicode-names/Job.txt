@@ -135,11 +135,11 @@ v,_,(mos),y,:,q,_,d,·,:,$,·sh,‥,(rev),m.
 SPACE
 v,:,h,i,$,·sh,:,k,·,i,(mun),y,m.
 SPACE
-b,·,_,b,·,o,≁,q,∵,r,~
+b,·,_,b,·,o,(zarshit),q,∵,r,(zarnor)
 SPACE
 v,:,h,∵,3,:∵,l,a,(mun),h
 SPACE
-3,o,l,v,o,τ,~
+3,o,l,v,o,τ,(zarnor)
 SPACE
 m,i,σ,:,p,·,_,(mun),r
 SPACE
@@ -437,7 +437,7 @@ z,∵,(mun),h
 SPACE
 m,:,d,_,b,·,‥,(rev),r
 SPACE
-v,:,z,∵,h,~
+v,:,z,∵,h,(zarnor)
 SPACE
 b,·,a,(mun),α
 SPACE
@@ -479,7 +479,7 @@ z,∵,(mun),h
 SPACE
 m,:,d,_,b,·,‥,(rev),r
 SPACE
-v,:,z,∵,h,~
+v,:,z,∵,h,(zarnor)
 SPACE
 b,·,a,(mun),α
 SPACE
@@ -720,7 +720,7 @@ SPACE
 SPACE
 h,:_,$,·si,_,(mun),m,:,τ,·,a
 SPACE
-l,i,b,·,:,k.,a,~
+l,i,b,·,:,k.,a,(zarnor)
 SPACE
 α,∵,l,-,3,_,b,:,d,·,i,(mun),y
 SPACE
@@ -950,7 +950,7 @@ SPACE
 SPACE
 k,·,oa,l,-,h,a,r,a,3,a,(mun),h
 SPACE
-h,_,z,·,o,α,τ,~
+h,_,z,·,o,α,τ,(zarnor)
 SPACE
 h,_,b,·,a,(mun),α,a,h
 SPACE
@@ -1131,7 +1131,7 @@ y,(mos),v,o,m.,(sopa)
 Job 3:6 in vtrad vtsef
 h,_,l,·,_,(mer),y,:,l,a,h
 SPACE
-h,_,h,v,·,α,~
+h,_,h,v,·,α,(zarnor)
 SPACE
 y,i,q,·,a,x,‥,(atn_h),h,(ole),v,·
 SPACE
@@ -1178,7 +1178,7 @@ SPACE
 l,i,v,:,y,a,τ,a,(mos),n.,(sopa)
 
 Job 3:9 in vtrad vtsef
-y,∵,x,:,$,·sh,:,k,v,·,~
+y,∵,x,:,$,·sh,:,k,v,·,(zarnor)
 SPACE
 k,·,v,o,k,:,b,‥,(atn_h),y
 SPACE
@@ -1820,7 +1820,7 @@ START b
 |
 STOP b
 SPACE
-r,a,≁,3,‥,(mah),b
+r,a,(zarshit),3,‥,(mah),b
 SPACE
 y,o,α,k,‥,(rev),l
 SPACE
@@ -2290,7 +2290,7 @@ START b
 |
 STOP b
 SPACE
-n,∵,≁,x,a,(mah),m,a,τ,i,(rev),y
+n,∵,(zarshit),x,a,(mah),m,a,τ,i,(rev),y
 SPACE
 v,_,α,:_,σ,_,l,·,:,d,a,(mun),h
 SPACE
@@ -2622,7 +2622,7 @@ SPACE
 3,:_,d,‥,y,-,n,a,(mos),$,·sh,∵,p.,(sopa)
 
 Job 7:5 in vtrad vtsef
-l,a,≁,b,_,(mah),$,·sh
+l,a,(zarshit),b,_,(mah),$,·sh
 SPACE
 b,·,:,$,·si,a,r,i,(mun),y
 SPACE
@@ -2722,7 +2722,7 @@ SPACE
 m,:,q,o,m,(mos),v,o,(sopa)
 
 Job 7:11 in vtrad vtsef
-g,·,_,m.,-,α,:_,n,i,y,~
+g,·,_,m.,-,α,:_,n,i,y,(zarnor)
 SPACE
 l,o,(mah),α
 SPACE
@@ -2848,7 +2848,7 @@ START b
 |
 STOP b
 SPACE
-l,a,k.,:,~
+l,a,k.,:,(zarnor)
 SPACE
 n,o,c,‥,(atn_h),r
 SPACE
@@ -2876,7 +2876,7 @@ STOP b
 SPACE
 l,o,α,-,τ,i,$,·si,·,a,(mun),α
 SPACE
-p,i,$,·sh,:,3,i,y,~
+p,i,$,·sh,:,3,i,y,(zarnor)
 SPACE
 v,:,τ,_,3,:_,b,i,(atn_h),y,r
 SPACE
@@ -4070,7 +4070,7 @@ STOP b
 SPACE
 τ,·,_,(mer),3,:_,l,u,m,(mun),v,o,τ
 SPACE
-x,oa,k,:,m,a,h,~
+x,oa,k,:,m,a,h,(zarnor)
 SPACE
 k,·,i,(mos),y,-,k,i,p,:,l,_,(atn_h),y,i,m.
 SPACE
@@ -4988,7 +4988,7 @@ SPACE
 n,:,3,v,·,r,a,(mos),y,(sopa)
 
 Job 13:27 in vtrad vtsef
-v,:,τ,a,≁,$,·si,‥,(mah),m.
+v,:,τ,a,(zarshit),$,·si,‥,(mah),m.
 SPACE
 b,·,_,σ,·,_,(qom),d,THIN SPACE
 START b
@@ -5055,7 +5055,7 @@ p,·,a,q,_,(mun),x,:,τ,·,a
 SPACE
 3,‥,y,n,∵,(atn),k.,a
 SPACE
-v,:,α,o,≁,τ,i,(mah),y
+v,:,α,o,(zarshit),τ,i,(mah),y
 SPACE
 τ,a,b,i,(tip),y,α
 SPACE
@@ -5649,7 +5649,7 @@ SPACE
 α,:∵,l,‥,y,-,x,a,(mos),r,∵,b,(sopa)
 
 Job 15:23 in vtrad vtsef
-n,o,≁,d,‥,(mah),d
+n,o,(zarshit),d,‥,(mah),d
 SPACE
 h,(mun),v,·,α
 SPACE
@@ -5729,7 +5729,7 @@ START b
 |
 STOP b
 SPACE
-3,a,≁,r,i,(mah),y,m.
+3,a,(zarshit),r,i,(mah),y,m.
 SPACE
 n,i,k,:,x,a,d,(rev),v,o,τ
 SPACE
@@ -5887,7 +5887,7 @@ START b
 |
 STOP b
 SPACE
-α,a,n,o,k,i,y,~
+α,a,n,o,k,i,y,(zarnor)
 SPACE
 k,·,a,k,∵,(atn_h),m.
 SPACE
@@ -6032,7 +6032,7 @@ SPACE
 y,i,r,:,θ,‥,(mos),n,i,y,(sopa)
 
 Job 16:12 in vtrad vtsef
-$,·sh,a,≁,l,‥,(mah),v
+$,·sh,a,(zarshit),l,‥,(mah),v
 SPACE
 h,a,y,i,(qom),y,τ,i,y,THIN SPACE
 START b
@@ -6054,7 +6054,7 @@ SPACE
 l,:,m,_,θ,·,a,r,a,(mos),h,(sopa)
 
 Job 16:13 in vtrad vtsef
-y,a,≁,σ,o,(mah),b,·,v,·
+y,a,(zarshit),σ,o,(mah),b,·,v,·
 SPACE
 3,a,l,_,(qom),y,THIN SPACE
 START b
@@ -6650,7 +6650,7 @@ SPACE
 y,:,n,i,d,·,u,(mos),h,v,·,(sopa)
 
 Job 18:19 in vtrad vtsef
-l,o,≁,α
+l,o,(zarshit),α
 START span class=mam-implicit-maqaf
 -
 STOP span class=mam-implicit-maqaf
@@ -6846,7 +6846,7 @@ START b
 |
 STOP b
 SPACE
-y,a,≁,b,o,(mah),α,v,·
+y,a,(zarshit),b,o,(mah),α,v,·
 SPACE
 g,:,d,v,·,d,a,(rev),y,v
 SPACE
@@ -6885,7 +6885,7 @@ SPACE
 $,·sh,:,k,‥,x,(mos),v,·,n,i,y,(sopa)
 
 Job 19:15 in vtrad vtsef
-g,·,a,≁,r,‥,(mah),y
+g,·,a,(zarshit),r,‥,(mah),y
 SPACE
 b,‥,y,τ,i,(mun),y
 SPACE
@@ -7458,7 +7458,7 @@ SPACE
 n,:,x,v,·,$,·sh,a,(mos),h,(sopa)
 
 Job 20:25 in vtrad vtsef
-$,·sh,a,l,_,p.,~
+$,·sh,a,l,_,p.,(zarnor)
 SPACE
 v,_,y,·,‥,c,‥,(atn_h),α
 SPACE
@@ -7475,7 +7475,7 @@ SPACE
 α,‥,m,i,(mos),y,m.,(sopa)
 
 Job 20:26 in vtrad vtsef
-k,·,oa,l,-,x,o,$,·sh,∵,k.,:,~
+k,·,oa,l,-,x,o,$,·sh,∵,k.,:,(zarnor)
 SPACE
 θ,a,m,(atn_h),v,·,n.
 SPACE
@@ -7502,7 +7502,7 @@ SPACE
 SPACE
 v,:,(ger_m),α,∵,(rev),r,∵,c.
 SPACE
-m,i,τ,:,q,v,o,m,a,≁,m,a,(mer),h
+m,i,τ,:,q,v,o,m,a,(zarshit),m,a,(mer),h
 SPACE
 l,(mos),v,o,(sopa)
 
@@ -7762,7 +7762,7 @@ START b
 |
 STOP b
 SPACE
-n,‥,r,-,r,:,$,·sh,a,≁,3,i,(mah),y,m.
+n,‥,r,-,r,:,$,·sh,a,(zarshit),3,i,(mah),y,m.
 SPACE
 y,i,d,:,3,a,(rev),k.,:
 SPACE
@@ -8800,7 +8800,7 @@ SPACE
 v,_,y,·,i,c,:,m,a,(mos),α,v,·,(sopa)
 
 Job 24:12 in vtrad vtsef
-m,‥,≁,3,i,(mah),y,r
+m,‥,(zarshit),3,i,(mah),y,r
 SPACE
 m,:,τ,i,(qom),y,m.,THIN SPACE
 START b
@@ -8825,7 +8825,7 @@ START b
 |
 STOP b
 SPACE
-h,a,y,v,·,~
+h,a,y,v,·,(zarnor)
 SPACE
 b,·,:,(mos),m,o,r,:,d,‥,(ole),y
 START span class=mam-implicit-maqaf
@@ -8846,7 +8846,7 @@ b,·,i,n,:,τ,i,y,b,o,τ,a,(mos),y,v,(sopa)
 Job 24:14 in vtrad vtsef
 l,a,α,(paz),v,o,r
 SPACE
-y,a,≁,q,(mah),v,·,m.
+y,a,(zarshit),q,(mah),v,·,m.
 SPACE
 r,v,o,c,‥,(rev),x,_
 SPACE
@@ -8955,14 +8955,14 @@ SPACE
 x,a,θ,a,(mos),α,v,·,(sopa)
 
 Job 24:20 in vtrad vtsef
-y,i,$,·sh,:,k,·,a,≁,x,‥,(mah),h,v,·
+y,i,$,·sh,:,k,·,a,(zarshit),x,‥,(mah),h,v,·
 SPACE
 r,∵,(qom),x,∵,m.,THIN SPACE
 START b
 |
 STOP b
 SPACE
-m,:,τ,a,≁,q,(mah),v,o
+m,:,τ,a,(zarshit),q,(mah),v,o
 SPACE
 r,i,m,·,a,(rev),h
 SPACE
@@ -9381,7 +9381,7 @@ r,:,m,i,y,·,a,(mos),h,(sopa)
 Job 27:5 in vtrad vtsef
 x,a,l,i,(mun),y,l,a,h
 SPACE
-l,·,i,y,~
+l,·,i,y,(zarnor)
 SPACE
 α,i,m.,-,α,_,c,:,d,·,i,(atn_h),y,q
 SPACE
@@ -10384,7 +10384,7 @@ y,_,p,·,i,y,l,(mos),v,·,n.,(sopa)
 Job 29:25 in vtrad vtsef
 α,∵,(mer),b,:,x,_,(mun),r
 SPACE
-d,·,_,r,:,k,·,a,m.,~
+d,·,_,r,:,k,·,a,m.,(zarnor)
 SPACE
 v,:,α,‥,$,·sh,‥,(atn_h),b
 SPACE
@@ -10410,7 +10410,7 @@ STOP b
 SPACE
 $,·si,a,(mer),x,:_,q,(mun),v,·
 SPACE
-3,a,l,_,y,~
+3,a,l,_,y,(zarnor)
 SPACE
 c,:,3,i,y,r,i,(mer),y,m.
 SPACE
@@ -10568,7 +10568,7 @@ SPACE
 $,·sh,i,l,·,‥,(mos),x,v,·,(sopa)
 
 Job 30:12 in vtrad vtsef
-3,_,l,-,y,a,m,i,y,n.,~
+3,_,l,-,y,a,m,i,y,n.,(zarnor)
 SPACE
 p,·,i,r,:,x,_,(atn_h),x
 SPACE
@@ -10933,7 +10933,7 @@ START span class=mam-implicit-maqaf
 STOP span class=mam-implicit-maqaf
 τ,·,i,θ,·,∵,(mun),h
 SPACE
-α,_,$,·sh,·,u,r,i,y,~
+α,_,$,·sh,·,u,r,i,y,(zarnor)
 SPACE
 m,i,n,·,i,(atn_h),y
 SPACE
@@ -11332,7 +11332,7 @@ START b
 |
 STOP b
 SPACE
-h,a,≁,m,(mah),v,o,n.
+h,a,(zarshit),m,(mah),v,o,n.
 SPACE
 r,_,b,·,a,(rev),h
 SPACE
@@ -11354,7 +11354,7 @@ START b
 |
 STOP b
 SPACE
-$,·sh,o,≁,m,‥,(mah),3,_,(mos)
+$,·sh,o,(zarshit),m,‥,(mah),3,_,(mos)
 SPACE
 l,i,(rev),y
 SPACE
@@ -11487,7 +11487,7 @@ SPACE
 SPACE
 b,∵,n.,-,b,·,_,r,_,k,:,α,‥,(mun),l
 SPACE
-h,_,b,·,v,·,z,i,y,~
+h,_,b,·,v,·,z,i,y,(zarnor)
 SPACE
 m,i,m,·,i,$,·sh,:,p,·,_,(atn_h),x,_,(ole),τ
 SPACE
@@ -11508,7 +11508,7 @@ m,‥,α,:∵,l,o,h,i,(mos),y,m.,(sopa)
 Job 32:3 in vtrad vtsef
 v,·,b,i,$,·sh,:,l,o,(mun),$,·sh,∵,τ
 SPACE
-r,‥,3,a,y,v,~
+r,‥,3,a,y,v,(zarnor)
 SPACE
 x,a,r,a,(atn_h),h
 SPACE
@@ -11548,7 +11548,7 @@ v,_,y,·,_,(mah),r,:,α
 SPACE
 α,:∵,l,i,y,h,(rev),v,·,α
 SPACE
-k,·,i,≁,y
+k,·,i,(zarshit),y
 START span class=mam-implicit-maqaf
 -
 STOP span class=mam-implicit-maqaf
@@ -11585,7 +11585,7 @@ h,_,b,·,v,·,z,i,(rev),y
 SPACE
 v,_,y,·,o,(ole),α,m,_,(mer),r
 SPACE
-c,a,≁,3,i,(mah),y,r
+c,a,(zarshit),3,i,(mah),y,r
 SPACE
 α,:_,n,i,(mun),y
 SPACE
@@ -12605,7 +12605,7 @@ START b
 |
 STOP b
 SPACE
-y,a,m,u,τ,v,·,~
+y,a,m,u,τ,v,·,(zarnor)
 SPACE
 v,_,x,:_,c,(atn_h),v,o,τ
 SPACE
@@ -12862,7 +12862,7 @@ k,·,i,(mer),y
 START span class=mam-implicit-maqaf
 -
 STOP span class=mam-implicit-maqaf
-y,o,≁,σ,i,(mah),y,p.
+y,o,(zarshit),σ,i,(mah),y,p.
 SPACE
 3,_,(mos),l,-,x,_,θ,·,a,α,τ,(mun),v,o
 SPACE
@@ -13814,7 +13814,7 @@ START b
 |
 STOP b
 SPACE
-l,o,≁,α
+l,o,(zarshit),α
 START span class=mam-implicit-maqaf
 -
 STOP span class=mam-implicit-maqaf
@@ -14781,7 +14781,7 @@ START b
 |
 STOP b
 SPACE
-y,o,≁,α,m,_,(mah),r
+y,o,(zarshit),α,m,_,(mah),r
 SPACE
 h,∵,α,a,(rev),x
 SPACE
@@ -15943,7 +15943,7 @@ v,_,y,·,o,α,k,:,l,(qom),v,·
 SPACE
 3,i,m,·,(mun),v,o
 SPACE
-l,∵,≁,x,∵,m.,~
+l,∵,(zarshit),x,∵,m.,(zarnor)
 SPACE
 b,·,:,b,‥,y,τ,v,o,(seg_a)
 SPACE

@@ -1096,7 +1096,7 @@ h,a,3,‥,d,u,(ger),τ
 SPACE
 v,:,3,_,(mun),l
 SPACE
-k,·,oa,l,-,k,·,‥,l,a,y,v,~
+k,·,oa,l,-,k,·,‥,l,a,y,v,(zarnor)
 SPACE
 v,:,3,_,(mun),l
 SPACE
@@ -2194,7 +2194,7 @@ h,_,l,:,v,i,y,·,i,(mos),m.,(sopa)
 Numbers 3:13 in vtrad vtsef
 k,·,i,(mun),y
 SPACE
-l,i,y,~
+l,i,y,(zarnor)
 SPACE
 k,·,oa,l,-,b,·,:,k,v,o,r,(seg_a)
 SPACE
@@ -2660,7 +2660,7 @@ c,a,p,o,(mos),n,a,h,(sopa)
 Numbers 3:36 in vtrad vtsef
 v,·,p,:,q,u,d,·,_,(mun),τ
 SPACE
-m,i,$,·sh,:,m,∵,≁,r,∵,τ,~
+m,i,$,·sh,:,m,∵,(zarshit),r,∵,τ,(zarnor)
 SPACE
 b,·,:,n,‥,(mun),y
 SPACE
@@ -3208,7 +3208,7 @@ $,·sh,u,l,:,x,_,(mun),n.
 SPACE
 h,_,p,·,a,n,i,(rev),y,m.
 SPACE
-y,i,p,:,r,:,$,·si,v,·,~
+y,i,p,:,r,:,$,·si,v,·,(zarnor)
 SPACE
 b,·,∵,(mun),g,∵,d
 SPACE
@@ -3444,7 +3444,7 @@ SPACE
 SPACE
 v,:,α,∵,τ,-,k,·,oa,l,-,k,·,:,l,‥,(mun),y
 SPACE
-h,_,q,·,o,≁,d,∵,$,·sh,~
+h,_,q,·,o,(zarshit),d,∵,$,·sh,(zarnor)
 SPACE
 b,·,i,n,:,σ,o,(mun),3,_
 SPACE
@@ -4402,7 +4402,7 @@ SPACE
 l,·,‥,α,m,o,(mos),r,(sopa)
 
 Numbers 5:6 in vtrad vtsef
-d,·,_,b,·,‥,r,~
+d,·,_,b,·,‥,r,(zarnor)
 SPACE
 α,∵,l,-,b,·,:,n,‥,(mun),y
 SPACE
@@ -4435,7 +4435,7 @@ h,_,h,i,(mos),v,α,(sopa)
 Numbers 5:7 in vtrad vtsef
 v,:,h,i,τ,:,v,_,d,·,(rev),v,·
 SPACE
-α,∵,(mos),τ,-,x,_,θ,·,a,α,τ,a,m.,~
+α,∵,(mos),τ,-,x,_,θ,·,a,α,τ,a,m.,(zarnor)
 SPACE
 α,:_,$,·sh,∵,(mun),r
 SPACE
@@ -4572,7 +4572,7 @@ v,:,$,·sh,a,k,_,(qom),b
 SPACE
 α,i,(mun),y,$,·sh
 SPACE
-α,o,τ,a,h,·,~
+α,o,τ,a,h,·,(zarnor)
 SPACE
 $,·sh,i,k,:,b,_,τ,-,z,∵,(seg_a),r,_,3,(seg_a)
 SPACE
@@ -4636,7 +4636,7 @@ v,:,h,‥,b,i,(qom),y,α
 SPACE
 h,a,α,i,(mun),y,$,·sh
 SPACE
-α,∵,τ,-,α,i,$,·sh,:,τ,·,v,o,~
+α,∵,τ,-,α,i,$,·sh,:,τ,·,v,o,(zarnor)
 SPACE
 α,∵,l,-,h,_,k,·,o,h,‥,n.,(seg_a)
 SPACE
@@ -4727,7 +4727,7 @@ v,:,h,∵,3,:∵,m,i,(qom),y,d
 SPACE
 h,_,k,·,o,h,‥,(mer),n.
 SPACE
-α,∵,(mos),τ,-,h,a,α,i,$,·sh,·,a,h,~
+α,∵,(mos),τ,-,h,a,α,i,$,·sh,·,a,h,(zarnor)
 SPACE
 l,i,p,:,n,‥,(mun),y
 SPACE
@@ -4838,7 +4838,7 @@ v,:,h,i,$,·sh,:,b,·,i,(qom),y,3,_
 SPACE
 h,_,k,·,o,h,‥,(mer),n.
 SPACE
-α,∵,(mos),τ,-,h,a,α,i,$,·sh,·,a,h,~
+α,∵,(mos),τ,-,h,a,α,i,$,·sh,·,a,h,(zarnor)
 SPACE
 b,·,i,$,·sh,:,b,u,3,_,(mun),τ
 SPACE
@@ -5000,7 +5000,7 @@ SPACE
 SPACE
 v,:,h,a,y,:,τ,a,(mun),h
 SPACE
-α,i,(mos),m.,-,n,i,θ,:,m,:,α,a,h,~
+α,i,(mos),m.,-,n,i,θ,:,m,:,α,a,h,(zarnor)
 SPACE
 v,_,τ,·,i,m,:,3,o,(mun),l
 SPACE
@@ -5596,7 +5596,7 @@ h,_,k,·,o,h,‥,(ger),n.
 SPACE
 α,∵,τ,-,h,_,z,·,:,r,o,(mun),3,_
 SPACE
-b,·,:,$,·sh,‥,l,a,h,~
+b,·,:,$,·sh,‥,l,a,h,(zarnor)
 SPACE
 m,i,n.,-,h,a,α,_,(seg_a),y,i,l,(seg_a)
 SPACE
@@ -5635,7 +5635,7 @@ h,_,k,·,o,h,‥,(mer),n.,THIN SPACE
 START small
 |
 STOP small
-THIN SPACE,τ,·,:,n,v,·,p,a,h,~
+THIN SPACE,τ,·,:,n,v,·,p,a,h,(zarnor)
 SPACE
 l,i,p,:,n,‥,(mun),y
 SPACE
@@ -5672,7 +5672,7 @@ z,o,(mun),α,τ
 SPACE
 τ,·,v,o,r,_,(mun),τ
 SPACE
-h,_,n,·,a,z,i,y,r,~
+h,_,n,·,a,z,i,y,r,(zarnor)
 SPACE
 α,:_,$,·sh,∵,(mun),r
 SPACE
@@ -6172,7 +6172,7 @@ SPACE
 SPACE
 $,·sh,:,l,o,$,·sh,i,(mun),y,m.
 SPACE
-v,·,m,‥,α,a,h,~
+v,·,m,‥,α,a,h,(zarnor)
 SPACE
 m,i,$,·sh,:,q,a,l,a,h,·,(seg_a)
 SPACE
@@ -6245,7 +6245,7 @@ l,:,x,_,θ,·,a,(mos),α,τ,(sopa)
 Numbers 7:17 in vtrad vtsef
 v,·,l,:,z,∵,(mun),b,_,x
 SPACE
-h,_,$,·sh,·,:,l,a,m,i,y,m.,~
+h,_,$,·sh,·,:,l,a,m,i,y,m.,(zarnor)
 SPACE
 b,·,a,q,a,(mun),r
 SPACE
@@ -6304,7 +6304,7 @@ SPACE
 SPACE
 $,·sh,:,l,o,$,·sh,i,(mun),y,m.
 SPACE
-v,·,m,‥,α,a,h,~
+v,·,m,‥,α,a,h,(zarnor)
 SPACE
 m,i,$,·sh,:,q,a,l,a,h,·,(seg_a)
 SPACE
@@ -6377,7 +6377,7 @@ l,:,x,_,θ,·,a,(mos),α,τ,(sopa)
 Numbers 7:23 in vtrad vtsef
 v,·,l,:,z,∵,(mun),b,_,x
 SPACE
-h,_,$,·sh,·,:,l,a,m,i,y,m.,~
+h,_,$,·sh,·,:,l,a,m,i,y,m.,(zarnor)
 SPACE
 b,·,a,q,a,(mun),r
 SPACE
@@ -6434,7 +6434,7 @@ SPACE
 SPACE
 $,·sh,:,l,o,$,·sh,i,(mun),y,m.
 SPACE
-v,·,m,‥,α,a,h,~
+v,·,m,‥,α,a,h,(zarnor)
 SPACE
 m,i,$,·sh,:,q,a,l,a,h,·,(seg_a)
 SPACE
@@ -6507,7 +6507,7 @@ l,:,x,_,θ,·,a,(mos),α,τ,(sopa)
 Numbers 7:29 in vtrad vtsef
 v,·,l,:,z,∵,(mun),b,_,x
 SPACE
-h,_,$,·sh,·,:,l,a,m,i,y,m.,~
+h,_,$,·sh,·,:,l,a,m,i,y,m.,(zarnor)
 SPACE
 b,·,a,q,a,(mun),r
 SPACE
@@ -6564,7 +6564,7 @@ SPACE
 SPACE
 $,·sh,:,l,o,$,·sh,i,(mun),y,m.
 SPACE
-v,·,m,‥,α,a,h,~
+v,·,m,‥,α,a,h,(zarnor)
 SPACE
 m,i,$,·sh,:,q,a,l,a,h,·,(seg_a)
 SPACE
@@ -6637,7 +6637,7 @@ l,:,x,_,θ,·,a,(mos),α,τ,(sopa)
 Numbers 7:35 in vtrad vtsef
 v,·,l,:,z,∵,(mun),b,_,x
 SPACE
-h,_,$,·sh,·,:,l,a,m,i,y,m.,~
+h,_,$,·sh,·,:,l,a,m,i,y,m.,(zarnor)
 SPACE
 b,·,a,q,a,(mun),r
 SPACE
@@ -6694,7 +6694,7 @@ SPACE
 SPACE
 $,·sh,:,l,o,$,·sh,i,(mun),y,m.
 SPACE
-v,·,m,‥,α,a,h,~
+v,·,m,‥,α,a,h,(zarnor)
 SPACE
 m,i,$,·sh,:,q,a,l,a,h,·,(seg_a)
 SPACE
@@ -6767,7 +6767,7 @@ l,:,x,_,θ,·,a,(mos),α,τ,(sopa)
 Numbers 7:41 in vtrad vtsef
 v,·,l,:,z,∵,(mun),b,_,x
 SPACE
-h,_,$,·sh,·,:,l,a,m,i,y,m.,~
+h,_,$,·sh,·,:,l,a,m,i,y,m.,(zarnor)
 SPACE
 b,·,a,q,a,(mun),r
 SPACE
@@ -6824,7 +6824,7 @@ SPACE
 SPACE
 $,·sh,:,l,o,$,·sh,i,(mun),y,m.
 SPACE
-v,·,m,‥,α,a,h,~
+v,·,m,‥,α,a,h,(zarnor)
 SPACE
 m,i,$,·sh,:,q,a,l,a,h,·,(seg_a)
 SPACE
@@ -6897,7 +6897,7 @@ l,:,x,_,θ,·,a,(mos),α,τ,(sopa)
 Numbers 7:47 in vtrad vtsef
 v,·,l,:,z,∵,(mun),b,_,x
 SPACE
-h,_,$,·sh,·,:,l,a,m,i,y,m.,~
+h,_,$,·sh,·,:,l,a,m,i,y,m.,(zarnor)
 SPACE
 b,·,a,q,a,(mun),r
 SPACE
@@ -6954,7 +6954,7 @@ SPACE
 SPACE
 $,·sh,:,l,o,$,·sh,i,(mun),y,m.
 SPACE
-v,·,m,‥,α,a,h,~
+v,·,m,‥,α,a,h,(zarnor)
 SPACE
 m,i,$,·sh,:,q,a,l,a,h,·,(seg_a)
 SPACE
@@ -7027,7 +7027,7 @@ l,:,x,_,θ,·,a,(mos),α,τ,(sopa)
 Numbers 7:53 in vtrad vtsef
 v,·,l,:,z,∵,(mun),b,_,x
 SPACE
-h,_,$,·sh,·,:,l,a,m,i,y,m.,~
+h,_,$,·sh,·,:,l,a,m,i,y,m.,(zarnor)
 SPACE
 b,·,a,q,a,(mun),r
 SPACE
@@ -7084,7 +7084,7 @@ SPACE
 SPACE
 $,·sh,:,l,o,$,·sh,i,(mun),y,m.
 SPACE
-v,·,m,‥,α,a,h,~
+v,·,m,‥,α,a,h,(zarnor)
 SPACE
 m,i,$,·sh,:,q,a,l,a,h,·,(seg_a)
 SPACE
@@ -7157,7 +7157,7 @@ l,:,x,_,θ,·,a,(mos),α,τ,(sopa)
 Numbers 7:59 in vtrad vtsef
 v,·,l,:,z,∵,(mun),b,_,x
 SPACE
-h,_,$,·sh,·,:,l,a,m,i,y,m.,~
+h,_,$,·sh,·,:,l,a,m,i,y,m.,(zarnor)
 SPACE
 b,·,a,q,a,(mun),r
 SPACE
@@ -7214,7 +7214,7 @@ SPACE
 SPACE
 $,·sh,:,l,o,$,·sh,i,(mun),y,m.
 SPACE
-v,·,m,‥,α,a,h,~
+v,·,m,‥,α,a,h,(zarnor)
 SPACE
 m,i,$,·sh,:,q,a,l,a,h,·,(seg_a)
 SPACE
@@ -7287,7 +7287,7 @@ l,:,x,_,θ,·,a,(mos),α,τ,(sopa)
 Numbers 7:65 in vtrad vtsef
 v,·,l,:,z,∵,(mun),b,_,x
 SPACE
-h,_,$,·sh,·,:,l,a,m,i,y,m.,~
+h,_,$,·sh,·,:,l,a,m,i,y,m.,(zarnor)
 SPACE
 b,·,a,q,a,(mun),r
 SPACE
@@ -7344,7 +7344,7 @@ SPACE
 SPACE
 $,·sh,:,l,o,$,·sh,i,(mun),y,m.
 SPACE
-v,·,m,‥,α,a,h,~
+v,·,m,‥,α,a,h,(zarnor)
 SPACE
 m,i,$,·sh,:,q,a,l,a,h,·,(seg_a)
 SPACE
@@ -7417,7 +7417,7 @@ l,:,x,_,θ,·,a,(mos),α,τ,(sopa)
 Numbers 7:71 in vtrad vtsef
 v,·,l,:,z,∵,(mun),b,_,x
 SPACE
-h,_,$,·sh,·,:,l,a,m,i,y,m.,~
+h,_,$,·sh,·,:,l,a,m,i,y,m.,(zarnor)
 SPACE
 b,·,a,q,a,(mun),r
 SPACE
@@ -7478,7 +7478,7 @@ SPACE
 SPACE
 $,·sh,:,l,o,$,·sh,i,(mun),y,m.
 SPACE
-v,·,m,‥,α,a,h,~
+v,·,m,‥,α,a,h,(zarnor)
 SPACE
 m,i,$,·sh,:,q,a,l,a,h,·,(seg_a)
 SPACE
@@ -7551,7 +7551,7 @@ l,:,x,_,θ,·,a,(mos),α,τ,(sopa)
 Numbers 7:77 in vtrad vtsef
 v,·,l,:,z,∵,(mun),b,_,x
 SPACE
-h,_,$,·sh,·,:,l,a,m,i,y,m.,~
+h,_,$,·sh,·,:,l,a,m,i,y,m.,(zarnor)
 SPACE
 b,·,a,q,a,(mun),r
 SPACE
@@ -7612,7 +7612,7 @@ SPACE
 SPACE
 $,·sh,:,l,o,$,·sh,i,(mun),y,m.
 SPACE
-v,·,m,‥,α,a,h,~
+v,·,m,‥,α,a,h,(zarnor)
 SPACE
 m,i,$,·sh,:,q,a,l,a,h,·,(seg_a)
 SPACE
@@ -7685,7 +7685,7 @@ l,:,x,_,θ,·,a,(mos),α,τ,(sopa)
 Numbers 7:83 in vtrad vtsef
 v,·,l,:,z,∵,(mun),b,_,x
 SPACE
-h,_,$,·sh,·,:,l,a,m,i,y,m.,~
+h,_,$,·sh,·,:,l,a,m,i,y,m.,(zarnor)
 SPACE
 b,·,a,q,a,(mun),r
 SPACE
@@ -7871,7 +7871,7 @@ h,_,$,·sh,·,:,l,a,m,i,(rev),y,m.
 SPACE
 3,∵,$,·si,:,r,i,(mun),y,m.
 SPACE
-v,:,α,_,r,:,b,·,a,3,a,h,~
+v,:,α,_,r,:,b,·,a,3,a,h,(zarnor)
 SPACE
 p,·,a,r,i,y,m.,(seg_a)
 SPACE
@@ -7908,7 +7908,7 @@ m,o,$,·sh,∵,(ger),h
 SPACE
 α,∵,l,-,α,o,(mun),h,∵,l
 SPACE
-m,v,o,3,‥,d,~
+m,v,o,3,‥,d,(zarnor)
 SPACE
 l,:,d,_,b,·,‥,(mun),r
 SPACE
@@ -8368,7 +8368,7 @@ l,:,α,_,h,:_,r,o,(mun),n.
 SPACE
 v,·,l,:,b,a,n,a,(rev),y,v
 SPACE
-m,i,τ,·,v,o,k.,:,~
+m,i,τ,·,v,o,k.,:,(zarnor)
 SPACE
 b,·,:,n,‥,(mun),y
 SPACE
@@ -9426,7 +9426,7 @@ v,·,b,:,y,(qom),v,o,m.
 SPACE
 $,·si,i,m,:,x,_,τ,:,k,∵,(mer),m.
 SPACE
-v,·,(mos),b,:,m,v,o,3,:_,d,‥,y,k,∵,m.,~
+v,·,(mos),b,:,m,v,o,3,:_,d,‥,y,k,∵,m.,(zarnor)
 SPACE
 v,·,b,:,r,a,α,$,·sh,‥,(mun),y
 SPACE
@@ -9762,7 +9762,7 @@ l,:,(tel_g),x,o,b,a,(tel_g),b
 SPACE
 b,·,∵,n.,-,r,:,3,v,·,α,‥,(mun),l
 SPACE
-h,_,m,·,i,d,:,y,a,n,i,y,~
+h,_,m,·,i,d,:,y,a,n,i,y,(zarnor)
 SPACE
 x,o,τ,‥,(mun),n.
 SPACE
@@ -10380,7 +10380,7 @@ SPACE
 SPACE
 $,·sh,i,b,:,3,i,(mun),y,m.
 SPACE
-α,i,y,$,·sh,~
+α,i,y,$,·sh,(zarnor)
 SPACE
 m,i,z,·,i,q,:,n,‥,(mun),y
 SPACE
@@ -10417,7 +10417,7 @@ v,:,y,a,r,_,d,:,τ,·,i,(rev),y
 SPACE
 v,:,d,i,b,·,_,r,:,τ,·,i,(mun),y
 SPACE
-3,i,m,·,:,k.,a,~
+3,i,m,·,:,k.,a,(zarnor)
 SPACE
 $,·sh,a,m.,(seg_a)
 SPACE
@@ -10454,7 +10454,7 @@ SPACE
 SPACE
 h,i,τ,:,q,_,d,·,:,$,·sh,(mun),v,·
 SPACE
-l,:,m,a,x,a,r,~
+l,:,m,a,x,a,r,(zarnor)
 SPACE
 v,_,α,:_,k,_,l,:,τ,·,∵,(mun),m.
 SPACE
@@ -10573,7 +10573,7 @@ SPACE
 m,i,m,·,i,c,:,r,a,(mos),y,i,m.,(sopa)
 
 Numbers 11:21 in vtrad vtsef
-v,_,y,·,o,≁,α,m,∵,r,~
+v,_,y,·,o,(zarshit),α,m,∵,r,(zarnor)
 SPACE
 m,o,$,·sh,∵,h,(seg_a)
 SPACE
@@ -10702,7 +10702,7 @@ y,:,h,o,v,a,(mer),h,THIN SPACE
 START small
 |
 STOP small
-THIN SPACE,b,·,∵,3,a,n,a,n.,~
+THIN SPACE,b,·,∵,3,a,n,a,n.,(zarnor)
 SPACE
 v,_,y,:,d,_,b,·,‥,(mun),r
 SPACE
@@ -10879,7 +10879,7 @@ y,:,h,o,v,a,(rev),h
 SPACE
 v,_,y,·,a,(mun),g,oa,z
 SPACE
-$,·si,_,l,:,v,i,y,m.,~
+$,·si,_,l,:,v,i,y,m.,(zarnor)
 SPACE
 m,i,n.,-,h,_,y,·,a,m.,(seg_a)
 SPACE
@@ -11757,7 +11757,7 @@ x,:_,m,a,(mos),τ,(sopa)
 Numbers 13:22 in vtrad vtsef
 v,_,y,·,_,3,:_,l,(mun),v,·
 SPACE
-b,_,n,·,∵,≁,g,∵,b,~
+b,_,n,·,∵,(zarshit),g,∵,b,(zarnor)
 SPACE
 v,_,y,·,a,b,o,(mun),α
 SPACE
@@ -12291,7 +12291,7 @@ v,·,d,:,b,a,(mos),$,·sh,(sopa)
 Numbers 14:9 in vtrad vtsef
 α,_,(mun),k.,:
 SPACE
-b,·,_,y,h,o,v,a,h,~
+b,·,_,y,h,o,v,a,h,(zarnor)
 SPACE
 α,_,l,-,τ,·,i,m,:,r,o,(seg_a),d,v,·,(seg_a)
 SPACE
@@ -12423,7 +12423,7 @@ m,i,q,·,i,r,:,b,·,(mos),v,o,(sopa)
 Numbers 14:14 in vtrad vtsef
 v,:,α,a,m,:,r,(rev),v,·
 SPACE
-α,∵,l,-,y,v,o,$,·sh,‥,b,~
+α,∵,l,-,y,v,o,$,·sh,‥,b,(zarnor)
 SPACE
 h,a,α,a,(mun),r,∵,c.
 SPACE
@@ -12916,7 +12916,7 @@ h,_,y,·,a,m,i,(ger),y,m.
 SPACE
 α,:_,$,·sh,∵,r,-,τ,·,_,r,:,τ,·,∵,(mun),m.
 SPACE
-α,∵,τ,-,h,a,α,a,≁,r,∵,c.,~
+α,∵,τ,-,h,a,α,a,(zarshit),r,∵,c.,(zarnor)
 SPACE
 α,_,r,:,b,·,a,3,i,(mun),y,m.
 SPACE
@@ -12945,7 +12945,7 @@ SPACE
 Numbers 14:35 in vtrad vtsef
 α,:_,n,i,(mun),y
 SPACE
-y,:,h,o,v,a,h,~
+y,:,h,o,v,a,h,(zarnor)
 SPACE
 d,·,i,b,·,_,(seg_a),r,:,τ,·,i,y,(seg_a)
 SPACE
@@ -13698,7 +13698,7 @@ SPACE
 SPACE
 m,‥,3,‥,y,n,‥,(mun),y
 SPACE
-h,a,3,‥,d,a,h,~
+h,a,3,‥,d,a,h,(zarnor)
 SPACE
 n,∵,3,∵,$,·si,:,τ,a,(mun),h
 SPACE
@@ -14104,7 +14104,7 @@ SPACE
 Numbers 15:39 in vtrad vtsef
 v,:,h,a,y,a,(mun),h
 SPACE
-l,a,k,∵,m.,~
+l,a,k,∵,m.,(zarnor)
 SPACE
 l,:,c,i,y,c,i,τ,(seg_a)
 SPACE
@@ -14248,7 +14248,7 @@ v,:,3,_,(mos),l,-,α,_,h,:_,r,o,(rev),n.
 SPACE
 v,_,y,·,o,α,m,:,r,(mun),v,·
 SPACE
-α,:_,l,‥,h,∵,m.,~
+α,:_,l,‥,h,∵,m.,(zarnor)
 SPACE
 r,_,b,-,l,a,k,∵,m.,(seg_a)
 SPACE
@@ -14286,7 +14286,7 @@ v,_,y,:,d,_,b,·,‥,(qom),r
 SPACE
 α,∵,l,-,q,o,(ger),r,_,x
 SPACE
-v,:,α,∵,(mos),l,-,k,·,oa,l,-,3,:_,d,a,τ,v,o,~
+v,:,α,∵,(mos),l,-,k,·,oa,l,-,3,:_,d,a,τ,v,o,(zarnor)
 SPACE
 l,‥,α,m,o,r,(seg_a)
 SPACE
@@ -14880,7 +14880,7 @@ SPACE
 v,:,θ,_,p,·,a,(mos),m.,(sopa)
 
 Numbers 16:28 in vtrad vtsef
-v,_,y,·,o,≁,α,m,∵,r,~
+v,_,y,·,o,(zarshit),α,m,∵,r,(zarnor)
 SPACE
 m,o,$,·sh,∵,h,(seg_a)
 SPACE
@@ -16070,7 +16070,7 @@ START/STOP br
 Numbers 18:8 in vtrad vtsef
 v,_,y,:,d,_,b,·,‥,(mun),r
 SPACE
-y,:,h,o,v,a,h,~
+y,:,h,o,v,a,h,(zarnor)
 SPACE
 α,∵,(mos),l,-,α,_,h,:_,r,o,n.,(seg_a)
 SPACE
@@ -16159,7 +16159,7 @@ SPACE
 SPACE
 m,_,τ,·,a,n,a,(rev),m.
 SPACE
-l,:,k,oa,l,-,τ,·,:,n,v,·,p,o,τ,~
+l,:,k,oa,l,-,τ,·,:,n,v,·,p,o,τ,(zarnor)
 SPACE
 b,·,:,n,‥,(mun),y
 SPACE
@@ -16373,7 +16373,7 @@ SPACE
 SPACE
 y,a,r,i,(mer),y,m,v,·
 SPACE
-b,:,n,‥,(mos),y,-,y,i,$,·si,:,r,a,α,‥,l,~
+b,:,n,‥,(mos),y,-,y,i,$,·si,:,r,a,α,‥,l,(zarnor)
 SPACE
 l,_,(mos),y,h,o,v,a,h,(seg_a)
 SPACE
@@ -16593,7 +16593,7 @@ l,·,‥,α,m,o,(mos),r,(sopa)
 Numbers 18:26 in vtrad vtsef
 v,:,α,∵,l,-,h,_,l,:,v,i,y,·,i,(mun),m.
 SPACE
-τ,·,:,d,_,b,·,‥,r,~
+τ,·,:,d,_,b,·,‥,r,(zarnor)
 SPACE
 v,:,α,a,m,_,r,:,τ,·,a,(mun)
 SPACE
@@ -17238,7 +17238,7 @@ SPACE
 SPACE
 v,:,θ,a,b,_,(mun),l
 SPACE
-b,·,_,m,·,_,≁,y,i,m.,~
+b,·,_,m,·,_,(zarshit),y,i,m.,(zarnor)
 SPACE
 α,i,(mun),y,$,·sh
 SPACE
@@ -17685,7 +17685,7 @@ NO-BREAK SPACE
 Numbers 20:12 in vtrad vtsef
 v,_,y,·,o,(mun),α,m,∵,r
 SPACE
-y,:,h,o,v,a,h,~
+y,:,h,o,v,a,h,(zarnor)
 SPACE
 α,∵,l,-,m,o,$,·sh,∵,(mun),h
 SPACE
@@ -17900,7 +17900,7 @@ v,_,y,·,o,α,m,:,r,(qom),v,·
 SPACE
 α,‥,l,a,(mer),y,v
 SPACE
-b,·,:,n,‥,(mos),y,-,y,i,$,·si,:,r,a,α,‥,l,~
+b,·,:,n,‥,(mos),y,-,y,i,$,·si,:,r,a,α,‥,l,(zarnor)
 SPACE
 b,·,_,(mos),m,:,σ,i,l,·,a,(mun),h
 SPACE
@@ -18288,7 +18288,7 @@ v,_,y,:,d,_,b,·,‥,(mun),r
 SPACE
 h,a,3,a,(rev),m.
 SPACE
-b,·,‥,(mos),α,l,o,h,i,y,m.,~
+b,·,‥,(mos),α,l,o,h,i,y,m.,(zarnor)
 SPACE
 v,·,b,:,m,o,$,·sh,∵,h,(seg_a)
 SPACE
@@ -18482,7 +18482,7 @@ SPACE
 z,a,(mos),r,∵,d,(sopa)
 
 Numbers 21:13 in vtrad vtsef
-m,i,$,·sh,·,a,m.,~
+m,i,$,·sh,·,a,m.,(zarnor)
 SPACE
 n,a,σ,a,(seg_a),3,v,·,(seg_a)
 SPACE
@@ -18719,7 +18719,7 @@ v,:,l,o,α,-,n,a,τ,_,(qom),n.
 SPACE
 σ,i,y,x,o,(mun),n.
 SPACE
-α,∵,τ,-,y,i,$,·si,:,r,a,α,‥,l,~
+α,∵,τ,-,y,i,$,·si,:,r,a,α,‥,l,(zarnor)
 SPACE
 3,:_,b,o,(mun),r
 SPACE
@@ -19581,7 +19581,7 @@ SPACE
 START small
 |
 STOP small
-THIN SPACE,α,∵,l,-,b,·,i,l,:,3,a,m.,~
+THIN SPACE,α,∵,l,-,b,·,i,l,:,3,a,m.,(zarnor)
 SPACE
 l,_,(seg_a),y,:,l,a,h,(seg_a)
 SPACE
@@ -19635,7 +19635,7 @@ m,v,o,α,a,(mos),b,(sopa)
 Numbers 22:22 in vtrad vtsef
 v,_,y,·,i,(mos),x,_,r,-,α,_,(mun),p.
 SPACE
-α,:∵,l,o,h,i,y,m.,~
+α,:∵,l,o,h,i,y,m.,(zarnor)
 SPACE
 k,·,i,(mos),y,-,h,v,o,l,‥,(mun),k.,:
 SPACE
@@ -19888,7 +19888,7 @@ l,o,(mos),α,(sopa)
 Numbers 22:31 in vtrad vtsef
 v,_,y,:,g,_,(mun),l
 SPACE
-y,:,h,o,v,a,h,~
+y,:,h,o,v,a,h,(zarnor)
 SPACE
 α,∵,τ,-,3,‥,y,n,‥,(mun),y
 SPACE
@@ -20267,7 +20267,7 @@ b,·,i,l,:,3,a,(ger),m.
 SPACE
 l,:,b,a,l,a,(rev),q
 SPACE
-h,i,τ,:,y,_,c,·,‥,b,~
+h,i,τ,:,y,_,c,·,‥,b,(zarnor)
 SPACE
 3,_,l,-,3,o,l,a,τ,∵,(seg_a),k.,a,(seg_a)
 SPACE
@@ -21212,7 +21212,7 @@ b,a,l,a,(ger),q
 SPACE
 m,:,l,o,(mun),α
 SPACE
-b,‥,y,τ,v,o,~
+b,‥,y,τ,v,o,(zarnor)
 SPACE
 k,·,∵,(mun),σ,∵,p.
 SPACE
@@ -22168,7 +22168,7 @@ NO-BREAK SPACE
 Numbers 26:12 in vtrad vtsef
 b,·,:,n,‥,(mun),y
 SPACE
-$,·sh,i,m,:,3,v,o,n.,~
+$,·sh,i,m,:,3,v,o,n.,(zarnor)
 SPACE
 l,:,m,i,$,·sh,:,p,·,:,x,o,τ,a,m.,(seg_a)
 SPACE
@@ -22233,7 +22233,7 @@ NO-BREAK SPACE
 Numbers 26:15 in vtrad vtsef
 b,·,:,n,‥,(mun),y
 SPACE
-g,a,d,~
+g,a,d,(zarnor)
 SPACE
 l,:,m,i,$,·sh,:,p,·,:,x,o,τ,a,m.,(seg_a)
 SPACE
@@ -22332,7 +22332,7 @@ k,·,:,n,a,(mos),3,_,n.,(sopa)
 Numbers 26:20 in vtrad vtsef
 v,_,y,·,i,h,:,y,(mun),v,·
 SPACE
-b,:,n,‥,y,-,y,:,h,v,·,d,a,h,~
+b,:,n,‥,y,-,y,:,h,v,·,d,a,h,(zarnor)
 SPACE
 l,:,m,i,$,·sh,:,p,·,:,x,o,τ,a,m.,(seg_a)
 SPACE
@@ -22468,7 +22468,7 @@ NO-BREAK SPACE
 Numbers 26:26 in vtrad vtsef
 b,·,:,n,‥,(mun),y
 SPACE
-z,:,b,v,·,l,u,n.,~
+z,:,b,v,·,l,u,n.,(zarnor)
 SPACE
 l,:,m,i,$,·sh,:,p,·,:,x,o,τ,a,m.,(seg_a)
 SPACE
@@ -22663,7 +22663,7 @@ NO-BREAK SPACE
 Numbers 26:35 in vtrad vtsef
 α,‥,(mun),l,·,∵,h
 SPACE
-b,:,n,‥,y,-,α,∵,p,:,r,_,≁,y,i,m.,~
+b,:,n,‥,y,-,α,∵,p,:,r,_,(zarshit),y,i,m.,(zarnor)
 SPACE
 l,:,m,i,$,·sh,:,p,·,:,x,o,τ,a,m.,(seg_a)
 SPACE
@@ -22738,7 +22738,7 @@ NO-BREAK SPACE
 Numbers 26:38 in vtrad vtsef
 b,·,:,n,‥,(mun),y
 SPACE
-b,i,n,:,y,a,m,i,n.,~
+b,i,n,:,y,a,m,i,n.,(zarnor)
 SPACE
 l,:,m,i,$,·sh,:,p,·,:,x,o,τ,a,m.,(seg_a)
 SPACE
@@ -22876,7 +22876,7 @@ NO-BREAK SPACE
 Numbers 26:44 in vtrad vtsef
 b,·,:,n,‥,(mun),y
 SPACE
-α,a,$,·sh,‥,r,~
+α,a,$,·sh,‥,r,(zarnor)
 SPACE
 l,:,m,i,$,·sh,:,p,·,:,x,o,τ,a,m.,(seg_a)
 SPACE
@@ -23122,7 +23122,7 @@ v,:,α,‥,(qom),l,·,∵,h
 SPACE
 p,:,q,v,·,d,‥,(mun),y
 SPACE
-h,_,l,·,‥,v,i,y,~
+h,_,l,·,‥,v,i,y,(zarnor)
 SPACE
 l,:,m,i,$,·sh,:,p,·,:,x,o,τ,a,m.,(seg_a)
 SPACE
@@ -23452,7 +23452,7 @@ SPACE
 l,‥,α,m,o,(mos),r,(sopa)
 
 Numbers 27:3 in vtrad vtsef
-α,a,b,i,≁,y,n,v,·,~
+α,a,b,i,(zarshit),y,n,v,·,(zarnor)
 SPACE
 m,‥,(mun),τ
 SPACE
@@ -23544,7 +23544,7 @@ k,·,‥,(rev),n.
 SPACE
 b,·,:,n,(mun),v,o,τ
 SPACE
-c,:,l,oa,p,:,x,a,d,~
+c,:,l,oa,p,:,x,a,d,(zarnor)
 SPACE
 d,·,o,b,:,r,o,τ,(seg_a)
 SPACE
@@ -23628,7 +23628,7 @@ SPACE
 Numbers 27:11 in vtrad vtsef
 v,:,α,i,m.,-,α,‥,(mun),y,n.
 SPACE
-α,_,x,i,y,m.,~
+α,_,x,i,y,m.,(zarnor)
 SPACE
 l,:,α,a,b,i,y,v,(seg_a)
 SPACE
@@ -25752,7 +25752,7 @@ v,:,α,i,m.,-,h,‥,n,i,(qom),y,α
 SPACE
 α,a,b,i,(mun),y,h,a
 SPACE
-α,o,τ,a,h,·,~
+α,o,τ,a,h,·,(zarnor)
 SPACE
 b,·,:,y,(mun),v,o,m.
 SPACE
@@ -25835,7 +25835,7 @@ b,·,:,y,(qom),v,o,m.
 SPACE
 $,·sh,:,m,o,(mun),3,_
 SPACE
-α,i,y,$,·sh,a,h,·,~
+α,i,y,$,·sh,a,h,·,(zarnor)
 SPACE
 y,a,n,i,(mun),y,α
 SPACE
@@ -25933,7 +25933,7 @@ SPACE
 START small
 |
 STOP small
-THIN SPACE,α,i,y,$,·sh,a,h,·,~
+THIN SPACE,α,i,y,$,·sh,a,h,·,(zarnor)
 SPACE
 b,·,:,y,(mun),v,o,m.
 SPACE
@@ -25987,7 +25987,7 @@ y,_,x,:_,r,i,(qom),y,$,·sh
 SPACE
 l,a,(mer),h,·
 SPACE
-α,i,y,$,·sh,a,h,·,~
+α,i,y,$,·sh,a,h,·,(zarnor)
 SPACE
 m,i,y,·,(mun),v,o,m.
 SPACE
@@ -29197,7 +29197,7 @@ SPACE
 SPACE
 α,∵,τ,-,y,o,$,·sh,:,b,‥,(mun),y
 SPACE
-h,a,α,a,≁,r,∵,c.,~
+h,a,α,a,(zarshit),r,∵,c.,(zarnor)
 SPACE
 m,i,p,·,:,n,‥,y,k,∵,m.,(seg_a)
 SPACE
@@ -29840,7 +29840,7 @@ SPACE
 l,‥,α,m,o,(mos),r,(sopa)
 
 Numbers 35:2 in vtrad vtsef
-c,_,v,~
+c,_,v,(zarnor)
 SPACE
 α,∵,τ,-,b,·,:,n,‥,(mun),y
 SPACE
@@ -30428,7 +30428,7 @@ h,a,3,‥,d,a,(ger),h
 SPACE
 α,∵,τ,-,h,a,r,o,c,‥,(rev),x,_
 SPACE
-m,i,y,·,_,d,~
+m,i,y,·,_,d,(zarnor)
 SPACE
 g,·,o,α,‥,(mun),l
 SPACE
@@ -30789,7 +30789,7 @@ m,i,b,·,:,n,‥,(qom),y
 SPACE
 $,·sh,i,b,:,θ,‥,(mer),y
 SPACE
-b,:,n,‥,(mos),y,-,y,i,$,·si,:,r,a,α,‥,l,~
+b,:,n,‥,(mos),y,-,y,i,$,·si,:,r,a,α,‥,l,(zarnor)
 SPACE
 l,:,n,a,$,·sh,i,y,m.,(seg_a)
 SPACE
@@ -30824,7 +30824,7 @@ y,i,g,·,a,r,‥,(mos),3,_,(sopa)
 Numbers 36:4 in vtrad vtsef
 v,:,α,i,m.,-,y,i,h,:,y,∵,(mun),h
 SPACE
-h,_,y,·,o,b,‥,l,~
+h,_,y,·,o,b,‥,l,(zarnor)
 SPACE
 l,i,b,:,n,‥,(mun),y
 SPACE
@@ -30950,7 +30950,7 @@ y,o,r,∵,(mun),$,·sh,∵,τ
 SPACE
 n,_,x,:_,l,a,(rev),h
 SPACE
-m,i,m,·,_,θ,·,v,o,τ,~
+m,i,m,·,_,θ,·,v,o,τ,(zarnor)
 SPACE
 b,·,:,n,‥,(mun),y
 SPACE

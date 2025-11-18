@@ -145,7 +145,7 @@ SPACE
 α,_,l,-,τ,·,o,b,‥,(mos),α,(sopa)
 
 Proverbs 1:11 in vtrad vtsef
-α,i,m.,-,y,o,α,m,:,r,v,·,~
+α,i,m.,-,y,o,α,m,:,r,v,·,(zarnor)
 SPACE
 l,:,k,a,(atn_h),h
 SPACE
@@ -309,7 +309,7 @@ Proverbs 1:22 in vtrad vtsef
 START small
 |
 STOP small
-THIN SPACE,p,·,:,τ,a,y,i,m.,~
+THIN SPACE,p,·,:,τ,a,y,i,m.,(zarnor)
 SPACE
 τ,·,:,(mos),α,‥,h,:_,b,(ole),v,·
 START span class=mam-implicit-maqaf
@@ -1178,7 +1178,7 @@ SPACE
 l,_,3,:_,$,·si,(mos),v,o,τ,(sopa)
 
 Proverbs 3:28 in vtrad vtsef
-α,_,l,-,τ,·,o,≁,α,m,_,(mah),r
+α,_,l,-,τ,·,o,(zarshit),α,m,_,(mah),r
 SPACE
 START span class=mam-kq
 START span class=mam-kq-k
@@ -2050,7 +2050,7 @@ THIN SPACE,b,·,:,n,i,(paz),y
 SPACE
 v,:,(mos),h,i,n,·,a,c,‥,(rev),l
 SPACE
-k,·,i,≁,y
+k,·,i,(zarshit),y
 START span class=mam-implicit-maqaf
 -
 STOP span class=mam-implicit-maqaf
@@ -2668,7 +2668,7 @@ v,a,α,‥,(mah),r,∵,α
 SPACE
 b,_,p,·,:,τ,a,α,y,i,(rev),m.
 SPACE
-α,a,≁,b,i,(mah),y,n,a,h
+α,a,(zarshit),b,i,(mah),y,n,a,h
 SPACE
 b,_,b,·,a,n,i,(rev),y,m.
 SPACE
@@ -3111,7 +3111,7 @@ SPACE
 Proverbs 8:13 in vtrad vtsef
 y,i,(mer),r,:,α,_,(mun),τ
 SPACE
-y,:,h,o,v,a,h,~
+y,:,h,o,v,a,h,(zarnor)
 SPACE
 $,·si,:,(mos),n,o,(ole),α,τ
 START span class=mam-implicit-maqaf
@@ -3119,7 +3119,7 @@ START span class=mam-implicit-maqaf
 STOP span class=mam-implicit-maqaf
 r,a,(mer),3
 SPACE
-g,·,‥,≁,α,a,(mah),h
+g,·,‥,(zarshit),α,a,(mah),h
 SPACE
 v,:,g,a,α,(qom),v,o,n.,THIN SPACE
 START b
@@ -3338,7 +3338,7 @@ SPACE
 τ,·,:,h,(mos),v,o,m.,(sopa)
 
 Proverbs 8:29 in vtrad vtsef
-b,·,:,$,·si,≁,v,·,m,(mah),v,o
+b,·,:,$,·si,(zarshit),v,·,m,(mah),v,o
 SPACE
 l,_,y,·,a,(qom),m.,THIN SPACE
 START b
@@ -3428,7 +3428,7 @@ Proverbs 8:34 in vtrad vtsef
 START span class=mam-implicit-maqaf
 -
 STOP span class=mam-implicit-maqaf
-α,a,d,a,m.,~
+α,a,d,a,m.,(zarnor)
 SPACE
 $,·sh,o,m,‥,(atn_h),3,_,(mos),(ole)
 SPACE
@@ -8027,7 +8027,7 @@ SPACE
 r,a,(mos),3,(sopa)
 
 Proverbs 19:24 in vtrad vtsef
-θ,a,≁,m,_,(mah),n.
+θ,a,(zarshit),m,_,(mah),n.
 SPACE
 3,a,c,‥,(mun),l
 SPACE
@@ -9489,7 +9489,7 @@ START b
 |
 STOP b
 SPACE
-m,a,≁,h,i,(mah),y,r
+m,a,(zarshit),h,i,(mah),y,r
 SPACE
 b,·,i,m,:,l,_,α,k,:,τ,·,(rev),v,o
 SPACE
@@ -9995,7 +9995,7 @@ m,i,m,:,σ,a,(mos),k.,:,(sopa)
 Proverbs 23:31 in vtrad vtsef
 α,_,l,-,τ,·,‥,(mer),r,∵,α
 SPACE
-y,·,_,y,i,n.,~
+y,·,_,y,i,n.,(zarnor)
 SPACE
 k,·,i,(mah),y
 SPACE
@@ -10059,7 +10059,7 @@ x,i,b,·,‥,(mos),l,(sopa)
 Proverbs 23:35 in vtrad vtsef
 h,i,k,·,(mer),v,·,n,i,y
 SPACE
-b,_,l,-,x,a,l,i,y,τ,i,y,~
+b,_,l,-,x,a,l,i,y,τ,i,y,(zarnor)
 SPACE
 h,:_,l,a,m,(rev),v,·,n,i,y
 SPACE
@@ -10213,13 +10213,13 @@ SPACE
 Proverbs 24:12 in vtrad vtsef
 k,·,i,(mos),y,-,τ,o,α,m,_,(rev),r
 SPACE
-h,‥,n.,~
+h,‥,n.,(zarnor)
 SPACE
 l,o,α,-,y,a,d,_,(atn_h),3,:,n,(ole),v,·
 SPACE
 z,∵,(mer),h
 SPACE
-h,:_,(mos),l,o,α,-,τ,o,≁,k,‥,(mah),n.
+h,:_,(mos),l,o,α,-,τ,o,(zarshit),k,‥,(mah),n.
 SPACE
 l,i,b,·,(qom),v,o,τ,THIN SPACE
 START b
@@ -10428,7 +10428,7 @@ START b
 |
 STOP b
 SPACE
-l,:,r,a,$,·sh,a,3,~
+l,:,r,a,$,·sh,a,3,(zarnor)
 SPACE
 c,_,d,·,i,(atn_h),y,q
 SPACE
@@ -10465,7 +10465,7 @@ SPACE
 n,:,k,o,x,i,(mos),y,m.,(sopa)
 
 Proverbs 24:27 in vtrad vtsef
-h,a,≁,k,‥,(mah),n.
+h,a,(zarshit),k,‥,(mah),n.
 SPACE
 b,·,_,x,(qom),v,·,c.,THIN SPACE
 START b
@@ -10540,7 +10540,7 @@ x,:_,σ,_,r,-,l,‥,(mos),b,(sopa)
 Proverbs 24:31 in vtrad vtsef
 v,:,h,i,n,·,‥,(qom),h
 SPACE
-3,a,≁,l,a,(mah),h
+3,a,(zarshit),l,a,(mah),h
 SPACE
 k,u,l,·,(qom),v,o,THIN SPACE
 START b
@@ -11050,7 +11050,7 @@ SPACE
 l,i,p,:,n,‥,(mos),y,-,r,a,$,·sh,a,(mos),3,(sopa)
 
 Proverbs 25:27 in vtrad vtsef
-α,a,≁,k,o,(mah),l
+α,a,(zarshit),k,o,(mah),l
 SPACE
 d,·,:,b,_,(mun),$,·sh
 SPACE
@@ -11291,7 +11291,7 @@ SPACE
 3,_,l,-,m,i,θ,·,a,τ,(mos),v,o,(sopa)
 
 Proverbs 26:15 in vtrad vtsef
-θ,a,≁,m,_,(mah),n.
+θ,a,(zarshit),m,_,(mah),n.
 SPACE
 3,a,c,‥,(mun),l
 SPACE
@@ -11708,7 +11708,7 @@ SPACE
 x,_,b,:,l,‥,(mos),h,v,·,(sopa)
 
 Proverbs 27:14 in vtrad vtsef
-m,:,b,a,≁,r,‥,(mah),k.,:
+m,:,b,a,(zarshit),r,‥,(mah),k.,:
 SPACE
 r,‥,3,‥,(qom),h,v,·,THIN SPACE
 START b
@@ -12327,7 +12327,7 @@ SPACE
 y,:,b,o,α,∵,(mos),n,·,v,·,(sopa)
 
 Proverbs 28:23 in vtrad vtsef
-m,≁,v,o,k,i,(mah),y,x,_
+m,(zarshit),v,o,k,i,(mah),y,x,_
 SPACE
 α,a,d,a,(mun),m.
 SPACE
@@ -12347,7 +12347,7 @@ START b
 |
 STOP b
 SPACE
-α,a,≁,b,i,(mah),y,v
+α,a,(zarshit),b,i,(mah),y,v
 SPACE
 v,:,α,i,m,·,(rev),v,o
 SPACE
@@ -12994,7 +12994,7 @@ START b
 |
 STOP b
 SPACE
-v,:,k,i,x,_,$,·sh,:,τ,·,i,y,~
+v,:,k,i,x,_,$,·sh,:,τ,·,i,y,(zarnor)
 SPACE
 v,:,α,a,m,_,(rev),r,:,τ,·,i,y
 SPACE
@@ -13078,7 +13078,7 @@ STOP b
 SPACE
 x,:_,r,a,b,(mun),v,o,τ
 SPACE
-$,·sh,i,n,·,a,y,v,~
+$,·sh,i,n,·,a,y,v,(zarnor)
 SPACE
 v,·,(mos),m,_,α,:_,k,a,l,(atn_h),v,o,τ
 SPACE
@@ -13107,7 +13107,7 @@ STOP b
 SPACE
 $,·sh,:,τ,·,‥,(mer),y
 SPACE
-b,a,n,v,o,τ,~
+b,a,n,v,o,τ,(zarnor)
 SPACE
 h,_,(mah)
 START small
@@ -13135,7 +13135,7 @@ SPACE
 h,(mos),v,o,n.,(sopa)
 
 Proverbs 30:16 in vtrad vtsef
-$,·sh,:,α,v,o,l,~
+$,·sh,:,α,v,o,l,(zarnor)
 SPACE
 v,:,3,o,(atn_h),c,∵,(ole),r
 SPACE
@@ -13161,7 +13161,7 @@ STOP b
 SPACE
 τ,·,i,(mer),l,:,3,_,(mun),g
 SPACE
-l,:,α,a,b,~
+l,:,α,a,b,(zarnor)
 SPACE
 v,:,τ,a,b,u,(atn_h),z
 SPACE
@@ -13211,7 +13211,7 @@ START b
 |
 STOP b
 SPACE
-b,·,_,$,·sh,·,a,m,_,y,i,m.,~
+b,·,_,$,·sh,·,a,m,_,y,i,m.,(zarnor)
 SPACE
 d,·,∵,(mer),r,∵,k.,:
 SPACE
@@ -13435,7 +13435,7 @@ m,i,(yby),y,c.
 SPACE
 x,a,l,a,(paz),b
 SPACE
-y,≁,v,o,c,i,(mah),y,α
+y,(zarshit),v,o,c,i,(mah),y,α
 SPACE
 x,∵,m,:,α,a,(rev),h
 SPACE
