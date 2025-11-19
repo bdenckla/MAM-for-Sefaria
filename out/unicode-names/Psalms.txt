@@ -38290,7 +38290,9 @@ k,oa,l,-,x,a,(mos),y,(sopa)
 
 Psalms 143:3 in vtrad vtsef
 k,·,i,(mer),y
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 r,a,(zarshit),d,_,(mah),p.
 SPACE
 α,v,o,y,‥,(qom),b,THIN SPACE

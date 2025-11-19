@@ -14998,7 +14998,9 @@ SPACE
 
 Job 40:10 in vtrad vtsef
 3,:_,d,‥,(mer),h
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 n,a,(mun),α
 SPACE
 g,a,α,(mun),v,o,n.

@@ -9313,7 +9313,9 @@ SPACE
 
 Proverbs 22:17 in vtrad vtsef
 h,_,(mer),θ
-SPACE
+START span class=mam-implicit-maqaf
+-
+STOP span class=mam-implicit-maqaf
 α,oa,z,:,n,:,k.,a,(rev)
 SPACE
 v,·,(dex),$,·sh,:,m,_,3
