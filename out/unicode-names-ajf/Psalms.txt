@@ -197,9 +197,7 @@ y,:,(mos),h,o,v,a,(rev),h
 SPACE
 α,a,m,_,(zarshit),r,-,α,‥,l,_,(mer),y
 SPACE
-b,·,:,n,i,(mer),y
-SPACE
-α,_,(atn),τ,·,a,h
+b,·,:,n,i,(mer),y,-,α,_,(atn),τ,·,a,h
 SPACE
 α,:_,(ger_m),n,i,(rev),y
 SPACE
@@ -620,9 +618,7 @@ v,_,α,:_,c,_,p,·,∵,(mos),h,(sopa)
 Psalms 5:5 in vtrad vtbhs
 k,·,i,(mah),y,|
 SPACE
-l,o,(mah),α
-SPACE
-α,‥,(mos),l,-,x,a,p,‥,(zarshit),c.,-,r,∵,(mer),$,·sh,_,3,|,|,α,a,(atn),τ,·,a,h
+l,o,(mah),α,-,α,‥,(mos),l,-,x,a,p,‥,(zarshit),c.,-,r,∵,(mer),$,·sh,_,3,|,|,α,a,(atn),τ,·,a,h
 SPACE
 l,o,(tip),α
 SPACE
@@ -6687,9 +6683,7 @@ SPACE
 v,a,b,(mos),v,·,z,(sopa)
 
 Psalms 31:20 in vtrad vtbhs
-m,a,(mah),h
-SPACE
-r,_,(mos),b,-,θ,v,·,b,:,k.,a,(zarnor)
+m,a,(mah),h,-,r,_,(mos),b,-,θ,v,·,b,:,k.,a,(zarnor)
 SPACE
 α,:_,$,·sh,∵,r,-,c,a,p,_,(atn_h),n,:,τ,·,a
 SPACE
@@ -9118,9 +9112,7 @@ m,‥,x,:_,θ,(atn_h),v,o,α
 SPACE
 b,i,l,:,$,·sh,(ole),v,o,n,i,(mer),y
 SPACE
-α,∵,$,·sh,:,m,:,r,a,(mer),h
-SPACE
-l,:,p,i,(mer),y
+α,∵,$,·sh,:,m,:,r,a,(mer),h,-,l,:,p,i,(mer),y
 SPACE
 m,_,x,:,σ,(atn),v,o,m.
 SPACE
