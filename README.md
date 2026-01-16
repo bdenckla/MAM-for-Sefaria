@@ -14,3 +14,5 @@ Other versions/formats of MAM (each with their tradeoffs) include:
 
 Via github-pages, this repository also publishes the documentation of the encoding of MAM for Sefaria:
 https://bdenckla.github.io/MAM-for-Sefaria/.
+
+Questions? Email maintainer@miqra.simplelogin.com.
