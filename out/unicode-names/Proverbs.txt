@@ -3371,11 +3371,10 @@ SPACE
 $,·sh,_,(dex),3,:_,$,·sh,v,·,3,i,y,m.
 SPACE
 y,(mah),v,o,m.,THIN SPACE
-START b
+START small
 |
-STOP b
-SPACE
-y,(atn),v,o,m.
+STOP small
+THIN SPACE,y,(atn),v,o,m.
 SPACE
 m,:,$,·si,_,x,∵,(tip),q,∵,τ
 SPACE
@@ -3439,11 +3438,10 @@ SPACE
 3,_,l,-,d,·,_,(dex),l,:,τ,o,τ,_,y
 SPACE
 y,(mah),v,o,m.,THIN SPACE
-START b
+START small
 |
-STOP b
-SPACE
-y,(atn),v,o,m.
+STOP small
+THIN SPACE,y,(atn),v,o,m.
 SPACE
 l,i,(ger_m),$,·sh,:,m,o,(rev),r
 SPACE
@@ -10019,7 +10017,7 @@ SPACE
 SPACE
 y,i,(ger_m),τ,:,h,_,l,·,‥,(rev),k.,:
 SPACE
-b,·,:,m,‥,(mos),y,$,·sh,a,r,i,(mos),y,m.,(sopa)
+b,·,:,m,‥,y,$,·sh,a,r,i,(mos),y,m.,(sopa)
 
 Proverbs 23:32 in vtrad vtsef
 α,_,(dex),x,:_,r,i,y,τ,v,o
@@ -13116,11 +13114,10 @@ START small
 b
 STOP small
 THIN SPACE
-START b
+START small
 |
-STOP b
-SPACE
-h,_,(mer),(ole),b
+STOP small
+THIN SPACE,h,_,(mer),(ole),b
 SPACE
 $,·sh,a,l,(mun),v,o,$,·sh
 SPACE
@@ -13913,5 +13910,5 @@ v,i,y,h,_,l,:,l,(tip),v,·,h,a
 SPACE
 b,_,$,·sh,·,:,3,a,r,i,(mun),y,m.
 SPACE
-m,_,(mos),3,:_,$,·si,∵,(mos),y,h,a,(sopa)
+m,_,3,:_,$,·si,∵,(mos),y,h,a,(sopa)
 
