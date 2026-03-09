@@ -1,7 +1,7 @@
 # MAM-for-Sefaria
 This repository contains an extract of MAM (Miqra According to the Masorah) suitable for import into Sefaria.
 
-Its contents is usually not be the same as what is published on the Sefaria web site
+Its contents is usually not the same as what is published on the Sefaria web site
 because that web site does not take updates as frequently as they appear here.
 
 The source of this data is the
