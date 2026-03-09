@@ -9,7 +9,7 @@ The source of this data is the
 
 Other versions/formats of MAM (each with their tradeoffs) include:
 
-* [MAM-XML](https://github.com/bdenckla/MAM-XML)
+* [MAM-simple](https://github.com/bdenckla/MAM-simple)
 * [MAM-parsed](https://github.com/bdenckla/MAM-parsed)
 
 Via github-pages, this repository also publishes the documentation of the encoding of MAM for Sefaria:
