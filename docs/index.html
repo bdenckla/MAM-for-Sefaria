@@ -65,7 +65,7 @@
             <li><span class="romanized">Ketiv velo qere</span> &amp; <span class="romanized">qere velo ketiv</span></li>
             <li>Trivial <span class="romanized">ketiv/qere</span> pairs</li>
             <li>Notes</li>
-            <li>Addendums</li>
+            <li>Good endings</li>
         </ol>
     </li>
     <li><a href="#h2_string_encoding">String encoding</a>:
@@ -107,7 +107,7 @@
 </li>
 <li><span class="attention">Text styled like this</span>
     is intended to focus the reader’s attention
-    to certain letters within a word.
+    on certain letters within a word.
     E.g. <span class="attention">ב</span> in א<span class="attention">ב</span>ג.
 </li>
 <li><span class="unicode-code-point-name">Text styled like this</span>
@@ -155,6 +155,7 @@
         The table below shows cases of importance for this document.
         Marks that can be represented by more than one code point are shown in bordered cells.
         In two cases this confusion is only present in old Sefaria, and this is marked below.
+    </li>
 </ol>
 <table class="break-inside-avoid border-collapse">
     <tr>
@@ -234,7 +235,7 @@
         are also covered, from a different perspective,
         in this document.
     </dd>
-    <dt><code>README.html</code> &amp; <code>features-of-interest.html</code></dt>
+    <dt><code>index.html</code> &amp; <code>features-of-interest.html</code></dt>
     <dd>These are the <span class="small-caps">HTML</span> files
         for this document and for “Features of Interest.”
         It may be helpful to view them in a
@@ -334,7 +335,7 @@
     the context around <span class="unicode-code-point-name">PASEQ</span>.
 </p>
 <p>First, what is in common?
-    Both <span class="romanized">legarmeih</span> & <span title="paseq">פסק</span> have a thin space before their
+    Both <span class="romanized">legarmeih</span> &amp; <span title="paseq">פסק</span> have a thin space before their
     <span class="unicode-code-point-name">PASEQ</span>.
 </p>
 <p>
@@ -636,7 +637,7 @@
         </tr>
     </table>
 <h3>Trivial <span class="romanized">ketiv/qere</span> pairs</h3>
-<p>MAM considers 116 kq pairs to be trivial and does not include a <span class="romanized">ketiv</span>
+<p>MAM considers 116 <span class="romanized">ketiv/qere</span> pairs to be trivial and does not include a <span class="romanized">ketiv</span>
     for these pairs.
     The <span class="romanized">qere</span> is encoded in a span with class <code>mam-kq-trivial</code>.
     The table below shows an example from Genesis 13:3.
@@ -762,9 +763,10 @@
     because the <span class="romanized">qamats</span> part of
     <span title="Unicode HATAF QAMATS" class="unicode-code-point-name">HQ</span>
     is, conceptually, inherently <span class="romanized">qatan</span>.
-But as far as I know, there is no way to accomplish this without a special font. 
+</p>
+<p>But as far as I know, there is no way to accomplish this without a special font.
 There is no code point for <span class="romanized">hataf qamats qatan</span>,
-so a special font would be needed that did one of the following:
+so a special font would be needed that did one of the following:</p>
 <ol>
     <li>unconditionally made the glyph for
         <span title="Unicode HATAF QAMATS" class="unicode-code-point-name">HQ</span>
@@ -782,6 +784,7 @@ so a special font would be needed that did one of the following:
                 <span title="Unicode QAMATS QATAN" class="unicode-code-point-name">QQ</span>.
             </li>
         </ol>
+    </li>
 </ol>
 <p>(OpenType has a mechanism to provide
     both a default &amp; an alternate glyph
@@ -843,7 +846,7 @@ so a special font would be needed that did one of the following:
     serves both of the following roles:
 </p>
 <ol>
-    <li><span title="yerach ben yomo"> ירח בן יומו</span> (only in the 21 books)</li>
+    <li><span title="yerach ben yomo">ירח בן יומו</span> (only in the 21 books)</li>
     <li><span class="romanized">galgal</span> (only in 
         <span title="Job, Proverbs, Psalms (ספרי אמ״ת)">Jb, Pr, &amp; Ps</span>)
     </li>
@@ -1074,7 +1077,7 @@ so a special font would be needed that did one of the following:
     With this fix,
     the <span title="zarqa">זרקא</span> appears on the ל not the א, but still before
     the ל’s ascender.
-    This proposal will very likely be accepted.
+    This proposal has been accepted.
 </p>
 <table class="break-inside-avoid border-collapse">
     <tr>
@@ -1097,7 +1100,7 @@ so a special font would be needed that did one of the following:
         <td></td>
     </tr>
     <tr>
-        <th>UXLC (soon)</th>
+        <th>UXLC</th>
         <td lang="hbo" dir="rtl">יִשְׂרָאֵ<span class="attention">ל֘</span></td>
         <td></td>
         <td class="bordered"><span class="unicode-code-point-name">ZARQA</span></td>
@@ -1477,7 +1480,7 @@ at some point.
     (Some fields are not present in the <span class="small-caps">CSV</span>
     but they are present in <span class="small-caps">JSON</span> exports
     from old Sefaria so I figured they may be needed, at some point, in
-    order to import <span class="small-caps">MAM.</span>)
+    order to import <span class="small-caps">MAM</span>.)
 </p>
 <h3>Joshua 21</h3>
 <p>MAM has no content corresponding to verses 36 &amp; 37 in old Sefaria’s Joshua 21.
