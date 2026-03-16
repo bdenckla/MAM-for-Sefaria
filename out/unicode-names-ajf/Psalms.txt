@@ -996,7 +996,7 @@ r,a,(atn),3
 SPACE
 v,a,α,:_,x,_,l,·,:,c,a,(tip),h
 SPACE
-c,(mos),v,o,r,:,r,i,(mun),y
+c,v,o,r,:,r,i,(mun),y
 SPACE
 r,‥,y,q,a,(mos),m.,(sopa)
 
@@ -5658,7 +5658,7 @@ b,·,:,n,o,3,_,m.,-,y,:,(ger_m),h,o,v,a,(rev),h
 SPACE
 v,·,l,:,b,_,q,·,‥,(mer),r
 SPACE
-b,·,:,h,‥,(mos),y,k,a,l,(mos),v,o,(sopa)
+b,·,:,h,‥,y,k,a,l,(mos),v,o,(sopa)
 
 Psalms 27:5 in vtrad vtbhs
 k,·,i,(mah),y
@@ -11765,9 +11765,7 @@ m,i,z,:,m,(rev),v,o,r
 SPACE
 l,:,α,a,(ole),σ,a,(mer),p.
 SPACE
-α,‥,(mah),l,|
-SPACE
-α,:∵,(mos),l,o,h,i,(paz),y,m.
+α,‥,(mah),l,|,|,α,:∵,(mos),l,o,h,i,(paz),y,m.
 SPACE
 y,:,(mos),h,o,v,a,(rev),h
 SPACE
@@ -13108,9 +13106,7 @@ SPACE
 3,i,m,·,a,d,i,(mos),y,(sopa)
 
 Psalms 55:20 in vtrad vtbhs
-y,i,$,·sh,:,m,_,(mah),3,|
-SPACE
-α,‥,(qom),l,|
+y,i,$,·sh,:,m,_,(mah),3,|,|,α,‥,(qom),l,|
 SPACE
 v,:,(mos),y,_,3,:_,n,‥,m.,(zarnor)
 SPACE
@@ -14648,7 +14644,7 @@ k,·,i,(mer),y
 SPACE
 3,o,(ger_m),(rev),z
 SPACE
-l,‥,(mos),α,l,o,h,i,(mos),y,m.,(sopa)
+l,‥,α,l,o,h,i,(mos),y,m.,(sopa)
 
 Psalms 62:13 in vtrad vtbhs
 v,·,l,:,k.,a,(mos),-,α,:_,d,o,n,a,(mer),y
@@ -15789,7 +15785,7 @@ y,a,$,·sh,:,b,v,·,-,b,a,(atn),h,·
 SPACE
 τ,·,a,(mah),k,i,(mos),y,n.,-,b,·,:,θ,v,o,b,a,τ,:,k.,a,(tip)
 SPACE
-l,∵,(mos),3,a,n,i,(mun),y
+l,∵,3,a,n,i,(mun),y
 SPACE
 α,:∵,l,o,h,i,(mos),y,m.,(sopa)
 
@@ -16208,9 +16204,7 @@ y,i,$,·si,:,r,a,α,‥,(rev),l
 SPACE
 h,(mah),v,·,α
 SPACE
-n,o,τ,‥,(qom),n.,|
-SPACE
-3,o,(tip),z
+n,o,τ,‥,(qom),n.,|,|,3,o,(tip),z
 SPACE
 v,:,τ,_,3,:_,c,u,m,(mer),v,o,τ
 SPACE
@@ -16917,7 +16911,7 @@ SPACE
 v,:,x,v,o,m,‥,(mos),c.,(sopa)
 
 Psalms 71:5 in vtrad vtbhs
-k,·,i,(mos),y,-,α,_,τ,·,a,(mer),h
+k,·,i,y,-,α,_,τ,·,a,(mer),h
 SPACE
 τ,i,q,:,v,a,τ,i,(atn),y
 SPACE
@@ -21492,7 +21486,7 @@ $,·sh,oa,(mer),m,:,r,a,(mun),h
 SPACE
 n,_,p,:,$,·sh,i,y,(zarnor)
 SPACE
-k,·,i,(mos),y,-,x,a,σ,i,(atn_h),y,d
+k,·,i,y,-,x,a,σ,i,(atn_h),y,d
 SPACE
 α,a,(mer),(ole),n,i,y
 SPACE
@@ -21549,7 +21543,7 @@ v,:,σ,_,l,·,a,(atn),x
 SPACE
 v,:,r,_,b,-,x,∵,(ger_m),(rev),σ,∵,d
 SPACE
-l,:,k,oa,l,-,q,o,(mos),r,:,α,∵,(mos),y,k.,a,(sopa)
+l,:,k,oa,l,-,q,o,r,:,α,∵,(mos),y,k.,a,(sopa)
 
 Psalms 86:6 in vtrad vtbhs
 h,_,α,:_,z,i,(mun),y,n,a,h
@@ -23597,7 +23591,7 @@ k,·,i,σ,:,α,:_,k.,a,(mun)
 SPACE
 m,‥,α,a,(atn),z
 SPACE
-m,‥,3,v,o,l,a,(mun),m.
+m,‥,(tip),3,v,o,l,a,(mun),m.
 SPACE
 α,a,(mos),τ,·,a,h,(sopa)
 
@@ -24247,7 +24241,7 @@ k,·,:,b,(mun),v,o,d
 SPACE
 $,·sh,:,m,(atn),v,o
 SPACE
-$,·si,:,α,(mos),v,·,-,m,i,(ger_m),n,:,x,a,(rev),h
+$,·si,:,α,v,·,-,m,i,(ger_m),n,:,x,a,(rev),h
 SPACE
 v,·,b,o,(mer),α,v,·
 SPACE
@@ -32718,7 +32712,7 @@ n,_,(ole),p,:,$,·sh,‥,(mer),n,v,·
 SPACE
 h,_,l,·,_,(mer),3,_,g
 SPACE
-h,_,$,·sh,·,_,(mos),α,:_,n,_,n,·,i,(atn),y,m.
+h,_,$,·sh,·,_,α,:_,n,_,n,·,i,(atn),y,m.
 SPACE
 h,_,(ger_m),b,·,(rev),v,·,z
 SPACE
@@ -34741,7 +34735,7 @@ b,·,:,d,_,r,:,k,‥,(mun),y
 SPACE
 y,:,h,o,v,a,(atn),h
 SPACE
-k,·,i,(mos),y,-,g,a,(ger_m),d,(rev),v,o,l
+k,·,i,y,-,g,a,(ger_m),d,(rev),v,o,l
 SPACE
 k,·,:,b,(mun),v,o,d
 SPACE
@@ -36252,7 +36246,7 @@ SPACE
 Psalms 145:6 in vtrad vtbhs
 v,∵,3,:∵,z,(mun),v,·,z
 SPACE
-n,(mos),v,o,r,:,α,o,τ,∵,(mun),y,k.,a
+n,v,o,r,:,α,o,τ,∵,(mun),y,k.,a
 SPACE
 y,o,α,m,‥,(atn),r,v,·
 SPACE
@@ -36618,7 +36612,7 @@ SPACE
 Psalms 147:1 in vtrad vtbhs
 h,_,(mer),l,:,l,v,·,-,y,a,(qom),h,·,|
 SPACE
-k,·,i,y,-,θ,(dex),v,o,b
+k,·,i,(mos),y,-,θ,(dex),v,o,b
 SPACE
 z,_,m,·,:,r,a,(mun),h
 SPACE
