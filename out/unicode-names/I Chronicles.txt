@@ -6089,7 +6089,7 @@ z,:,m,i,y,r,a,(paz),h
 SPACE
 v,:,y,v,o,3,a,(paz),$,·sh
 SPACE
-v,∵,(mos),(tel_g),α,:∵,l,i,y,3,∵,(tel_g),z,∵,r
+v,∵,(tel_g),α,:∵,l,i,y,3,∵,(tel_g),z,∵,r
 SPACE
 v,:,α,∵,l,:,y,v,o,3,‥,y,n,_,(mah),y
 SPACE
@@ -16390,9 +16390,11 @@ y,a,(tel_g),m,i,(tel_g),y,m.
 SPACE
 x,∵,(mun),r,∵,b
 SPACE
-y,:,h,o,v,a,(mah),h
-SPACE
-v,:,d,∵,(pash),b,∵,r,(pash)
+y,:,h,o,v,a,(mah),h,THIN SPACE
+START small
+|
+STOP small
+THIN SPACE,v,:,d,∵,(pash),b,∵,r,(pash)
 SPACE
 b,·,a,α,a,(zaq_q),r,∵,c.
 SPACE
@@ -21540,7 +21542,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 1Chronicles 27:13 in vtrad vtsef
-h,a,3,:_,$,·si,i,y,r,i,y,(pash)
+h,a,(mos),3,:_,$,·si,i,y,r,i,y,(pash)
 SPACE
 l,_,x,o,(mun),d,∵,$,·sh
 SPACE
@@ -21818,7 +21820,7 @@ NO-BREAK SPACE
 NO-BREAK SPACE
 
 1Chronicles 27:21 in vtrad vtsef
-l,_,(mos),x,:_,c,i,(mah),y
+l,_,x,:_,c,i,(mah),y
 SPACE
 h,_,(mos),m,:,n,_,$,·sh,·,∵,h,(pash)
 SPACE
@@ -21976,7 +21978,7 @@ h,a,α,o,c,a,r,(paz),v,o,τ
 SPACE
 b,·,_,$,·si,·,a,d,∵,(ger_2),h
 SPACE
-b,·,∵,(mos),3,a,r,i,(mah),y,m.
+b,·,∵,3,a,r,i,(mah),y,m.
 SPACE
 v,·,b,_,k,·,:,p,a,r,i,y,m.,(pash)
 SPACE
@@ -22966,7 +22968,7 @@ l,:,k,oa,l,-,3,:_,b,v,o,d,_,(tip),τ
 SPACE
 b,·,‥,(mun),y,τ
 SPACE
-h,a,(mos),α,:∵,l,o,h,i,(atn),y,m.
+h,a,α,:∵,l,o,h,i,(atn),y,m.
 SPACE
 v,:,3,i,m,·,:,k.,a,(qom)
 SPACE
@@ -23607,7 +23609,7 @@ n,a,(tip),α
 SPACE
 α,∵,τ,-,y,:,h,o,v,a,(mun),h
 SPACE
-α,:∵,l,o,(mos),h,‥,y,k,∵,(atn),m.
+α,:∵,l,o,h,‥,y,k,∵,(atn),m.
 SPACE
 v,_,y,:,b,a,r,:,k,(mun),v,·
 SPACE
