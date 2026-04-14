@@ -7771,9 +7771,13 @@ SPACE
 h,_,$,·sh,·,a,(mos),3,_,r,(sopa)
 
 2Samuel 11:24 in vtrad vtsef
-v,_,y,·,o,r,(qom),α,v,·
+START span class=mam-kq-trivial
+v,_,y,·,o,r,(qom),α,‾,v,·
+STOP span class=mam-kq-trivial
 SPACE
-h,_,m,·,v,o,r,i,(mah),α,y,m.
+START span class=mam-kq-trivial
+h,_,m,·,v,o,r,i,(mah),α,‾,y,m.
+STOP span class=mam-kq-trivial
 SPACE
 α,∵,l,-,3,:_,b,a,d,∵,(pash),y,k.,a,(pash)
 SPACE
