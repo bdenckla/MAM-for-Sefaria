@@ -757,7 +757,15 @@ y,:,b,oa,z,·,(zaq_q),v,·,m.
 SPACE
 v,:,y,∵,(mer),τ,∵,r
 SPACE
-g,·,v,o,y,i,(tip)
+START span class=mam-kq
+START span class=mam-kq-k
+LEFT PARENTHESIS,g,v,y,RIGHT PARENTHESIS
+STOP span class=mam-kq-k
+SPACE
+START span class=mam-kq-q
+LEFT SQUARE BRACKET,g,·,v,o,y,i,(tip),y,RIGHT SQUARE BRACKET
+STOP span class=mam-kq-q
+STOP span class=mam-kq
 SPACE
 y,i,n,:,x,a,l,(mos),v,·,m.,(sopa)
 
