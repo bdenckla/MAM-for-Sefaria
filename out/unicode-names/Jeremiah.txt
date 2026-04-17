@@ -583,7 +583,9 @@ l,_,y,h,o,v,a,(zaq_q),h
 SPACE
 r,‥,α,$,·sh,i,(tip),y,τ
 SPACE
+START span class=mam-kq-trivial
 τ,·,:,b,v,·,α,a,τ,o,(atn),h
+STOP span class=mam-kq-trivial
 SPACE
 k,·,oa,l,-,α,o,k,:,l,a,(mun),y,v
 SPACE
@@ -39570,7 +39572,9 @@ SPACE
 τ,·,‥,r,a,p,‥,(mos),α,(sopa)
 
 Jeremiah 51:9 in vtrad vtsef
-r,i,p,·,i,(mah),α,n,v,·
+START span class=mam-kq-trivial
+r,i,p,·,i,(mah),α,‾,n,v,·
+STOP span class=mam-kq-trivial
 SPACE
 α,∵,τ,-,b,·,a,b,∵,l,(pash)
 SPACE
