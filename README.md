@@ -5,7 +5,7 @@ Its contents is usually not the same as what is published on the Sefaria web sit
 because that web site does not take updates as frequently as they appear here.
 
 The source of this data is the
-[MAM Google Sheet](https://docs.google.com/spreadsheets/d/1mkQyj6by1AtBUabpbaxaZq9Z2X3pX8ZpwG91ZCSOEYs/edit#gid=920165745).
+[MAM Google Sheet](https://purl.org/mam/google-sheet#gid=920165745).
 
 Other versions/formats of MAM (each with their tradeoffs) include:
 
