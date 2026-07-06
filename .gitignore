@@ -1,3 +1,5 @@
 *.tmp.*
 .novc/
 MAM-for-Sefaria.zip
+__pycache__/
+.pytest_cache/
