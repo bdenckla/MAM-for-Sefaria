@@ -2154,7 +2154,7 @@ v,_,y,:,m,_,h,:_,r,(mer),v,·
 SPACE
 h,a,3,a,(tip),m.
 SPACE
-v,_,y,·,_,3,:_,b,o,(mos),r,v,·,(sopa)
+v,_,(mos),y,·,_,3,:_,b,o,(mos),r,v,·,(sopa)
 
 Joshua 4:11 in vtrad vtbhs
 v,_,y,:,h,i,(tev),y
@@ -13104,7 +13104,7 @@ m,‥,h,∵,(zaq_q),m.
 SPACE
 v,_,y,·,i,n,:,x,:_,l,(mer),v,·
 SPACE
-b,:,n,‥,y,-,$,·sh,i,m,:,3,(tip),v,o,n.
+b,:,n,‥,(mos),y,-,$,·sh,i,m,:,3,(tip),v,o,n.
 SPACE
 b,·,:,τ,(mer),v,o,k.,:
 SPACE
@@ -14004,7 +14004,7 @@ b,·,:,y,a,d,(atn),v,o
 SPACE
 k,·,i,(mah),y
 SPACE
-b,i,b,:,l,i,y,-,d,_,(pash),3,_,τ,(pash)
+b,i,b,:,l,i,(mos),y,-,d,_,(pash),3,_,τ,(pash)
 SPACE
 h,i,k,·,a,(mun),h
 SPACE
@@ -17703,7 +17703,7 @@ LEFT CURLY BRACKET,p,RIGHT CURLY BRACKET
 SPACE
 
 Joshua 24:29 in vtrad vtbhs
-v,_,y,:,h,i,(rev),y
+v,_,(mos),y,:,h,i,(rev),y
 SPACE
 α,_,(mos),x,:_,r,‥,y,(pash)
 SPACE
