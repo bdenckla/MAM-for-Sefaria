@@ -1,18 +1,20 @@
 # MAM-for-Sefaria
-This repository contains an extract of MAM (Miqra According to the Masorah) suitable for import into Sefaria.
 
-Its contents is usually not the same as what is published on the Sefaria web site
-because that web site does not take updates as frequently as they appear here.
+This repository is a GitHub Pages redirect host. On 2026-09-06, the
+MAM-for-Sefaria product moved into MAM-basics:
 
-The source of this data is the
+* [MAM-for-Sefaria product data and documentation](https://github.com/bdenckla/MAM-basics/tree/main/MAM-for-Sefaria)
+* [Published documentation of the MAM-for-Sefaria encoding](https://bdenckla.github.io/MAM-basics/MAM-for-Sefaria/)
+
+The product remains an extract of MAM (Miqra According to the Masorah) suitable
+for Sefaria import. Its source is the
 [MAM Google Sheet](https://purl.org/mam/google-sheet#gid=920165745).
 
-Other versions/formats of MAM (each with their tradeoffs) include:
+The legacy published URL,
+https://bdenckla.github.io/MAM-for-Sefaria/, redirects to the published
+MAM-basics documentation. The redirect preserves cited HTML pages; it does not
+preserve raw-data URLs or establish that any Sefaria client fetches this
+repository automatically.
 
-* [MAM-simple](https://github.com/bdenckla/MAM-simple)
-* [MAM-parsed](https://github.com/bdenckla/MAM-parsed)
-
-Via github-pages, this repository also publishes the documentation of the encoding of MAM for Sefaria:
-https://bdenckla.github.io/MAM-for-Sefaria/.
-
-Questions? Email maintainer@miqra.simplelogin.com.
+The repository retains its history and the redirect because citations may still
+refer to the legacy published URL.
